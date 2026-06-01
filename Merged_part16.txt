@@ -1,0 +1,2796 @@
+g. The potential
+
+false vacuum in which we find ourselves? One startling
+µ2	2	λ1
+2 2	λ2	3
+
+realization is that just because the magnitude of the cur-rent vacuum energy is so close to zero, does not mean
+V (Φ) =
+(TrΦ ) +	(TrΦ )
+4	16
++		(TrΦ ) + V0 . (2) 6
+
+that the magnitude of the true vacuum energy is simi-larly fine-tuned. Indeed, it would in many ways be more natural for the true vacuum energy to be separated from ours by an amount characteristic of whatever phase tran-sition is associated with the transition from true to false vacuum. The true vacuum state of the universe might therefore be strongly anti-de Sitter.
+Non-zero vacuum energy density is usually associated with the breaking of some symmetry. What symmetry might be breaking? The most interesting possibility is that it is the unbroken gauge symmetry – SU (3))c U (1)EM. The Universe in its history has apparently un-dergone a number of phase transitions. Currently, the
+A Hamiltonian bounded below is assured if λ1 > 0. The
+term TrΦ4 is not included, but, since it has the same structure as (TrΦ2)2, it will not change our qualitative results. A similar model was studied in [7]. We include a constant V0, which is an overall shift of the potential.
+We choose to work in a diagonal representation where Φ is Hermitian and traceless. Let the three real fields of the diagonal representation be ψ1, ψ2 and ψ3 = (ψ1 + ψ2). Minimizing V(Φ) we find
+ψ1 = ψ2 = −ψ3/2 ≡ ψ .	(3) The potential as a function of ψ is:
+3 2 2	9	4	3
+
+physics is invariant under local SU (3)c U (1)EM trans-formations. However, there is no reason to believe that the chain of symmetry breaking stops here. We focus
+here on the possibility of SU (3)c breaking, though simi-
+
+Defining
+V (ψ) = / µ ψ
+2
+
+λ2
++ /λ1ψ
+4
+— λ2ψ
++ V0 .	(4)
+
+
+2µ2
+
+lar possibilities may exist for U (1)EM
+breaking.
+ψ0 ≡ 9 λ1	and	ǫ0 ≡ λ1 − 3ψ2 ,	(5)
+
+2
+
+All temperature dependence is in µ2(T ) ≡ µ2 + ( 5 λ1 +
+4 g )T . The critical temperature at which ǫ(T ) = 0 is
+2ǫ0ψ2
+
+T 2 =
+0
+10λ1/9 + g2
+.	(10)
+
+
+
+
+
+
+
+ψ
+
+
+
+
+
+
+
+FIG. 1: Characteristic potential for a first order phase tran-sition. There exist the false vacuum where the symmetry is unbroken, ψ = 0, and the true vacuum where the symmetry is broken, ψ /= 0. δV is the difference in energy densities between the vacua. V0 plays the role of the cosmological con-stant.
+
+allows us to rewrite V (ψ) in a more convenient form:
+V (ψ) = 9 λ1ψ2(ψ − ψ0)2 − 9 ǫ0ψ2ψ2 + V0 .	(6)
+The role of the parameter ǫ0 is to introduce a controlled fine tuning in V (ψ). If ǫ0 = 0, V (ψ) has two degenerate minima at ψ = 0, ψ0. However, for a small positive ǫ0, the global minimum is at ψ = ψ0(1 + ǫ0/λ1). The difference between the energy densities of the two vacua is
+δV = 9ǫ0ψ4/4 .	(7)
+We included V0 in the potential so that we could specify the false vacuum energy density, V (ψ = 0) = V0. We require that V0 is positive and extremely small, V0 (10−3eV)4, representing the vacuum energy density that is driving the accelerated expansion of the universe. This situation is depicted in Fig. 1. We do not explain the value of V0 – it is an observational input, and its small value is the usual cosmological constant fine tuning, We will show, however, that that ǫ0 does not have to be fine-tuned: ǫ0	0.01	0.1 will be sufficient to avoid all constraints. Thus, the shape of the potential is not fine-tuned, Since generically δV	V0, the true vacuum energy density will be large and negative, representing an AdS space.
+V (ψ) is the zero-temperature potential. Since we are interested in the first-order phase transition between the false vacuum ψ = 0, and the true vacuum ψ = ψ0, we need the finite-temperature effective potential. Following [7], we find that at one-loop
+9	2	2	9	2 2
+For T  Tc, the potential has a single minimum at ψ = 0, color symmetry is thus unbroken. As T falls, a second minimum emerges at ψ /= 0; this becomes the global min-imum at T < Tc. Thus, the true vacuum state breaks SU (3)c; however, our universe is stuck in a supercooled color-preserving false vacuum with ψ = 0. Thermal fluc-tuations at T Tc are not large enough to take the system over the barrier into the true vacuum.
+The existence of a lower minimum indicates that any point in the universe will eventually tunnel into the true SU (3)c-breaking vacuum. However, the tunneling rate depends on the energy difference between the vacua and the height of the potential barrier, and can be extremely slow as we discuss below. A universe in such a false vacuum will evolve as has ours – initially radiation domi-nated, then matter dominated, and eventually expanding at an accelerated rate as it becomes dominated by the false vacuum energy density, V0.
+In the false vacuum state, ψ = 0, excitations of the colored Higgs have mass mψ  µ. It is natural to chose µ to be (1TeV) as this is the energy scale at which new physics beyond the Standard Model is expected. Without new physics at this scale, the Standard Model is severely fine-tuned. It is also very difficult to hide a colored scalar field much lighter that this. This choice automatically evades all of the experimental QCD constraints.
+The energy density of the false vacuum must, as we noted, be chosen phenomenologically, V0 ≡ ρv ≈ (10−3eV)4. However, an interesting numerology, V0 ≈
+
+gin of the overall shift of the potential if the fundamental scale of the physics is TeV.
+We next examine the limits on the parameter ǫ0. An important question is how long would the universe exist in the supercooled false vacuum state ψ = 0. The tran-sition from this de Sitter-like false vacuum to the true anti-de Sitter-like vacuum, is realized by nucleation of bubbles of true vacuum inside the false vacuum. In the semi-classical approximation, the transition probability per unit space-time volume is
+Γ = Be−SE	(11)
+where SE is the Euclidean action of the O(4)-symmetric bounce solution describing the tunneling. B is a dimen-
+
+Veff (ψ) =
+4 λ1ψ (ψ − ψ0)
+— 4 ǫ(T )ψ0 ψ
++ V0 ,	(8)
+sionful constant O
+4
+(TeV ), which depends on quantum
+
+where
+
+2 µ2(T ) − µ2
+
+/
+/
+
+  5	1
+
+
+2  T 2
+/
+/
+loop corrections to the potential (6). Since we are in-
+terested only in the order of magnitude of the transition rate, we ignore these corrections. To calculate SE, we
+
+/
+
+3
+
+
+The one-dimensional, zeroth-order (in ǫ0) Euclidean action per unit volume for the tunneling is
+
+/
+the transition rate is large and most of the universe ends up in that minimum. At T = Tc, we have ǫ(T ) = 0 and transitions between the vacua are suppressed. The high
+
+S1 =
+ψ0
+dψ′	2V (ψ′)
+0
+λ1 3
+ψ0 .	(12)
+8
+temperature approximation is valid, at least formally, at the temperatures slightly below Tc. It is there that the decay rate (18) is maximal and we need to correct the
+
+In the zero-temperature limit and thin wall approxima-
+tion, the radius of the critical bubble is
+zero temperature estimate for ǫ0. Fortunately, a slight correction ǫ0 ∼ 0.05 makes the decay rate safely small.
+
+
+R0 =
+3S1
+=
+δV
+√2λ1
+3
+1
+.	(13)
+ǫ0ψ0
+As shown earlier, for T Tc, ψ = 0 is a false minimum, but the transition rate to the true color-breaking vac-uum is suppressed by the bare value of ǫ0. We saw that
+
+The Euclidean action for an O(4) symmetric bubble is
+ǫ0	0.1 makes the transition time larger than the current Hubble time. In order to incorporate somewhat stronger
+
+1	2  4	2  3
+S = − / δV π R + 2π R S
+π2λ2 1
+=
+(14)
+constraint for high temperatures, we require ǫ0 ∼ 0.05.
+
+E	2	0
+0 1	54	3
+One might worry that, even at T	Tc, energetic pro-cesses in the history of our universe (e.g. cosmic ray
+
+At zero temperature, the decay rate per unit volume per
+unit time is given by (11). In order for our observable uni-verse, whose four-volume is of the order of t4 , to re-main in the false vacuum, one needs roughly Γt4  < 1. Taking tHubble  10 years, we find that sufficient meta-
+stability of the color-neutral false vacuum is obtained for SE > 400. With a generic value λ1 1, we see that vac-uum stability requires only ǫ < 0.1, an extremely mild fine-tuning. On the other hand, ǫ < 0.1 is enough to make the thin wall approximation valid.
+To make sure that the story remains unchanged in the early universe, we calculate the temperature depen-dent decay rate in the high temperature limit. At finite temperature, instead of an O(4) symmetric bounce, one should look for an O(3) symmetric solution, periodic in time with period 1/T (see [8]). In the high temperature limit (T  1/R0), the time integration in the calculation of the bounce action yields an overall factor of 1/T . The decay exponent SE now has the form
+collisions) would have stimulated the formation of a true vacuum bubble, and that such a bubble would have ex-panded rapidly to encompass most of the visible universe. Fortunately, it is not a simple thing to create a vacuum bubble in a high energy collision. This requires not just sufficient energy but a coherent superposition of a large number of high energy quanta over a volume large com-pared to the characteristic energy. Such processes hap-pen freely at high temperature but essentially not at all at high energy. The height of the barrier between the false and true vacua is
+V	= 9λ ψ4/64 .	(19)
+This is approximately TeV4 for ψ0  1TeV and λ1   1.
+Such temperatures are unlikely to soon be achieved in col-liders, and are probably not achieved over large enough
+volume even in the highest energy cosmic ray collisions.
+−1
+The critical bubble radius (13) is 5TeV	for our
+canonical parameters (ǫ0 ∼ 0.1, ψ0 ∼ 1TeV and λ1 ∼ 1).
+
+SE = S3(ψ, T )/T ,	(15)
+Given (19), this suggests that we need approximately
+
+where S3 is the three-dimensional action of the O(3) sym-
+
+/
+4πR3
+N	≃
+
+−1/4	3
+V	> 100 (0.1/ǫ)
+
+.	(20)
+
+
+R(T ) =
+2S1
+
+/
+δV (T )
+√8λ1
+=
+9
+1
+ǫ(T )ψ0
+
+.	(16)
+
+individual excitations coherently supposed. Note that
+Nquanta grow very fast – as ǫ−3. To create a bubble in a
+
+The three dimensional action of the bounce is given by
+S3(T ) =	4 πR(T )3δV (T ) + 4πR(T )2S1	(17) 3
+high energy collision is thus extremely difficult. A bubble is a highly coherent state of Φ particles. Produce these quanta and they are more likely to fly apart than to as-semble into a true vacuum bubble. The probability that
+
+
+/
+3
+=	1
+243
+ψ0 ǫ2(T )
+you make a bubble should therefore be suppressed by a huge entropy factor. Cosmic rays, which usually pro-duce collisions with Ecm <∼ 100TeV, are thus extremely
+
+The temperature dependent decay rate is now
+unlikely to trigger the destruction of the known universe.
+The scenario proposed here should have distinct ex-
+
+
+/
+128λ3
+243
+ψ0 T ǫ2(T )
+perimental signatures in near-future accelerators like the Large Hadron Collider (LHC) and in cosmic ray obser-vatories. The principal generic feature of our scenario is
+
+Thus, at high temperatures T	Tc, when the color preserving minimum at ψ = 0 is the lowest energy state,
+the existence of colored scalar fields with mass around 1TeV. Experimental signatures depend crucially on the
+
+4
+
+
+lifetimes of excitations of these fields, which are model dependent. A heavy colored scalar can generically decay into gluons and quarks. Its lifetime depends on couplings and on the specific representation of SU (3)c. If the decay is fast, the main signature of its production will be gluon and quark jets in excess of the standard model prediction. The lifetime of the colored scalar could be longer than the characteristic hadronization time	(100MeV)−1. This could happen if Φ is in a high-dimensional repre-sentation of SU (3)c or is protected by a symmetry, such as R-parity. In an unbroken phase, it is impossible to find an isolated colored particle; however, color singlets can be found free, thus Φ would combine into color singlet bound states. One possibility is bound state of two or more colored scalars (depending on the SU (3)c represen-tation to which Φ belongs). It was argued in [5] that such states would resemble glueballs (bound states of gluons). Another accessible new state is a bound state of Φ with quarks. If the scalar particle does not carry electromag-netic charge, these states could be fractionally charged – a unique (though not generic) signature of our model. We would expect the lightest of these new states (e.g. a bound state of Φ with the lightest quarks) to have mass
+of the order of a few TeV.
+Specific experimental signatures will depend on the ex-act model of SU (3)c breaking. For example, in the model discussed above, the symmetry breaking is realized by a scalar field that transforms under the eight-dimensional adjoint representation. Since 8 × 8 in the SU (3)c repre-sentation classification scheme contains an SU (3)c singlet state, one can find a color-free bound state of two scalar fields. Like glueballs, such states would dominantly decay into lighter mesons. Quarks (q) and antiquarks (q¯) be-
+long to 3 and ¯3 representations of SU (3)c. The simplest
+combination that contains a color singlet is 8 3 ¯3, cor-responding to Φqq¯. This combination has integer charge.
+However, in models where SU (3)c is broken by a scalar multiplet belonging to a 3, 6, 10, 15 or 21 dimensional rep-resentation, the bound states can have fractional charges. The 27 of SU (3) again gives an electrically neutral bound state. Integer charged states decay to lighter mesons, whereas the lightest fractionally charged state is presum-ably stable. These experimental signatures will be ex-plored in greater detail in future publications.
+While discovery of a colored scalar field would be in-dicative, it would shed no light on the global shape of the potential. In [6], a method for reconstructing the potential was proposed. In a model containing kink so-
+Production of a large, supercritical bubble is suppressed. Thus, it might be possible to test the model without de-stroying the known universe.
+Finally we mention the possibility that an SU (3)c-breaking true vacuum can be embedded into supersym-metric models. Supersymmetric models naturally con-tain colored massive scalar fields as super-partners of the ordinary standard model quarks. It has been thought that such fields are dangerous since they can lead to breaking of the SU (3)c symmetry, i.e. the true mini-mum in the landscape of supersymmetric minima may be one with broken SU (3)c. A large portion of the su-persymmetric parameter space is therefore excluded [4]. Based on the discussion presented here, we see that one does not need to do this. In particular, false minima where SU (3)c is not broken and which lie above the true vacuum can drive the accelerated expansion of our uni-verse (for related work see [9, 10]). Note that in this case Φ is likely a squark field and so carries fractional electric charge. Φ cannot however be the dark matter (nor can the dark matter be a bound state involving Φ, as that would contradict well-known limits on strongly interacting dark matter [11]).
+In conclusion, we have proposed that our universe is stuck in a false vacuum where SU (3)c symmetry remains unbroken, while the true vacuum breaks SU (3)c. The vacuum energy density of the false vacuum drives the observed accelerated expansion. A slight tuning of the potential, ǫ0 0.01 0.1, makes the transition time to the true vacuum larger than the Hubble time and pro-vides a self-consistent high temperature history of our universe. Massive colored scalar fields provide unique experimental signatures in near-future accelerator exper-iments. Discovery of fractionally charged hadrons would be particularly strong evidence for our model. Using re-cently developed techniques, one could in principle de-termine the shape of the potential by solving the inverse scattering problem. The model can be embedded in su-persymmetric theories where massive colored scalar fields appear naturally. We also note that with small modifica-tions, a similar mechanism can be applied to U (1)EM, the gauge group of electromagnetism or to the conventional Higgs of the Standard Model.
+The authors are grateful to T. Vachaspati, C. Csaki and M. Cvetic for useful discussions. This work was sup-ported by the HEPCOS group at SUNY at Buffalo and the U.S. DoE at CWRU.
+
+lutions, one could in principle characterize the potential		
+by studying the spectrum of kinks. Producing a kink corresponds to producing a small bubble of true vacuum.
+
+Since the potential barrier is only a TeV high, it might be possible to realize this in future experiments. Such bub-bles would be subcritical, only TeV−1 in size, and would decay quickly. The decay pattern of subcritical bubbles would shed light on the global shape of the potential.
+A. De Rujula, R. C. Giles and R. L. Jaffe, Phys. Rev. D
+17, 285 (1978); A. Schafer, B. Muller and W. Greiner, Phys. Rev. Lett. 50, 2047 (1983). R. Slansky, T. Goldman and G. L. Shaw, Phys. Rev. Lett. 47, 887 (1981).
+S. R. Coleman, Phys. Rev. D 15, 2929 (1977) [Erratum-
+ibid. D 16, 1248 (1977)].
+
+5
+
+
+S. R. Coleman and F. De Luccia, Phys. Rev. D 21, 3305 (1980).
+J. A. Casas, A. Lleyda and C. Munoz, Nucl. Phys. B 471, 3 (1996)
+S. Dawson and C. T. Hill, Annals Phys. 148, 282 (1983).
+T. Vachaspati, Phys. Rev. D 69, 043510 (2004)
+K. S. Viswanathan and J. H. Yee, Phys. Rev. D 19, 1906 (1979).
+A.D. Linde, Nuclear Physics B, 216, 421 (1983)
+A. Kusenko, P. Langacker and G. Segre, Phys. Rev. D 54, 5824 (1996)
+S. A. Abel and C. A. Savoy, Nucl. Phys. B 532, 3 (1998) [arXiv:hep-ph/9803218].
+G. D. Starkman, A. Gould, R. Esmailzadeh and S. Di-mopoulos, Phys. Rev. D 41, 3594 (1990).
+
+Dark energy cosmology from higher-order string-inspired gravity and its reconstruction
+Shin’ichi Nojiri∗
+Department of Physics, Nagoya University, Nagoya 464-8602. Japan
+
+Sergei D. Odintsov†‡
+Instituci`o Catalana de Recerca i Estudis Avanc¸ats (ICREA) and Institut de Ciencies de l’Espai (IEEC-CSIC), Campus UAB, Facultat de Ciencies, Torre C5-Par-2a pl, E-08193 Bellaterra (Barcelona), Spain
+
+M. Sami§
+Centre for Theoretical Physics, Jamia Millia Islamia,
+New Delhi and Department of Physics, Jamia Millia Islamia, New Delhi, India
+In this paper we investigate the cosmological effects of modified gravity with string curvature corrections added to Einstein-Hilbert action in the presence of a dynamically evolving scalar field coupled to Riemann invariants. The scenario exhibits several features of cosmological interest for late universe. It is shown that higher order stringy corrections can lead to a class of dark energy models consistent with recent observations. The model can give rise to quintessence without recourse to scalar field potential. The detailed treatment of reconstruction program for general scalar-Gauss-Bonnet gravity is presented for any given cosmology. The explicit examples of reconstructed scalar potentials are given for accelerated (quintessence, cosmological constant or phantom) universe. Fi-nally, the relation with modified F (G) gravity is established on classical level and is extended to include third order terms on curvature.
+PACS numbers: 11.25.-w, 95.36.+x, 98.80.-k
+
+
+
+
+INTRODUCTION
+
+One of the most remarkable discoveries of our time is related to the late time acceleration of our universe which is supported by observations of high redshift type Ia supernovae treated as standardized candles and, more indirectly, by observations of the cosmic microwave background and galaxy clustering. The criticality of universe supported by CMB observations fixes the total energy budget of universe. The study of large scale structure reveals that nearly 30 percent of the total cosmic budget is contributed by dark matter. Then there is a deficit of almost 70 percent; in the standard paradigm, the missing component is an exotic form of energy with large negative pressure dubbed dark energy [1, 2, 3, 4, 5, 6, 7]. The recent observations on baryon oscillations provide yet another independent support to dark energy hypothesis[8].
+The dynamics of our universe is described by the Einstein equations in which the contribution of energy content of universe is represented by energy momentum tensor appearing on RHS of these equations. The LHS represents pure geometry given by the curvature of space-time. Gravitational equations in their original form with energy-momentum tensor of normal matter can not lead to acceleration. There are then two ways to obtain accelerated expansion, either by supplementing energy-momentum tensor by dark energy component or by modifying the geometry itself.
+Dark energy problem is one of the most important problems of modern cosmology and despite of the number of efforts (for a recent review, see [3, 4]), there is no consistent theory which may successfully describe the late-time acceleration of the universe. General Relativity with cosmological constant does not solve the problem because such theory is in conflict with radiation/matter domination eras. An alternative approach to dark energy is related to modified theory of gravity (for a review, see [9]) in which dark energy emerges from the modification of geometry
+
+
+† also at Lab. Fundam. Study, Tomsk State Pedagogical University, Tomsk
+∗Electronic address:
+‡Electronic address:
+§Electronic address:
+
+2
+
+of our universe. In this approach, there appears quite an interesting possibility to mimic dark energy cosmology by string theory. It was suggested in refs.[10, 11, 12] that dark energy cosmology may result from string-inspired gravity. In fact, scalar-Gauss-Bonnet gravity from bosonic or Type II strings was studied in the late universe [10, 11] (for review of the applications of such theory in the early universe , see [13]). It is also interesting such theories may solve the initial singularity problem of the standard big-bang model(see [14] and refs. therein). Moreover, the easy account of next order (third order, Lovelock term) is also possible in this approach (for recent discussion of such gravity, see [15]).
+In this paper we examine string-inspired gravity with third order curvature corrections (scalar-Gauss-Bonnet term and scalar-Euler term) and explore the cosmological dynamics of the system attributing special attention to dark energy (non-phantom/phantom) solutions. We confront our result with the recent observations. We also outline the general program of reconstruction of scalar-Gauss-Bonnet gravity for any a priori given cosmology following the method [16] developed in the scalar-tensor theory.
+The paper is organized as follows. In section two, we consider the cosmological dynamics in the presence of string curvature corrections to Einstein-Hilbert action. We analyze cosmological solutions in the FRW background; special attention is paid at dark energy which naturally arises in the model thanks to higher order curvature terms induced by string corrections. Brief discussion on the comparison of theoretical results with recent observations is included. The stability of dark energy solution is investigated in detail.
+Section three is devoted to the study of late-time cosmology for scalar-Gauss-Bonnet gravity motivated by string theory but with the arbitrary scalar potentials. It is explicitly shown how such theory (actually, its potentials) may be reconstructed for any given cosmology. Several explicit examples of dark energy cosmology with transition from deceleration to acceleration and (or) cosmic speed-up (quintessence, phantom or de Sitter) phase or with oscillating (currently accelerating) behavior of scale factor are given. The corresponding scalar potentials are reconstructed. It is shown how such theory may be transformed to modified Gauss-Bonnet gravity which turns out to be just specific parametrization of scalar-Gauss-Bonnet gravity on classical level. Finally, it is shown how to include third order curvature terms in the above construction. Summary and outlook are given in the last section.
+
+DARK ENERGY FROM HIGHER ORDER STRING CURVATURE CORRECTIONS
+
+In this section we shall consider higher order curvature corrections to Einstein-Hilbert action. To avoid technical complications we restrict the discussion up to third order Riemann invariants coupled to a dynamical field φ. The cosmological dynamics of the system will be developed in detail and general features of the solutions will be discussed. It is really interesting that the model can account for recent observations on dark energy.
+
+General action
+
+We begin from the following action
+S = ∫ d4x√−g  R  − 1 ω(φ)gµν ∂ φ∂ φ − V (φ) + L + L   ,	(1)
+
+where φ is a scalar field which, in particular case, could be a dilaton. m is the Lagrangian of perfect fluid with energy density ρm and pressure pm. Note that scalar potential coupled to curvature (non-minimal coupling) [17] does not appear in string-inspired gravity in the frame under consideration.
+The quantum corrections are encoded in the term
+
+(1)	(2)
+Lc = ξ1(φ)Lc  + ξ2(φ)Lc	(2)
+
+where ξ (φ) and ξ (φ) are the couplings of the field φ with higher curvature invariants. L(1) and L(2) are given by
+αβµν	2
+Lc  = Rαβµν R	− 4Rµν R	+ R ,	(3)
+(2)	µν  αβ  λρ
+Lc  = E3 + Rαβ Rλρ Rµν	(4)
+The third order Euler density E3 is proportional to
+
+µνρστη
+µ′ ν′	ρ′ σ′	τ ′η′
+
+E3 ∝ ǫ
+ǫµ′ν′ ρ′ σ′ τ ′η′ Rµν	Rρσ	Rτη	.	(5)
+
+3
+
+Since there does not exist ǫµνρστη if the space time dimension D is less than 6; E3 should vanish when D < 6, especially in four dimensions. By using
+
+
+µνρστη
+
+µ′  ν′  ρ′  σ′
+
+τ ′  η′
+
+ǫ	ǫµ′ν′ ρ′ σ′ τ ′η′ = δµ δν δρ δσ δτ δη ± (permutations) ,	(6)
+we can rewrite the expression (5) as
+
+−24R ν R στ R µρ + 2R ρσR τηR µν − 8R ρτ R µηR νσ  .	(7)
+We should note in the r.h.s. of (6), there appears 6! = 720 terms, which correspond to the sum of the absolute values of the coefficients in each term in the RHS of (7)
+8 (1 + 12 + 3 + 16 + 24 + 24 + 2 + 8) = 720 .	(8)
+In what follows we shall be interested in the cosmological applications of modified equations of motion and thus assume a flat Friedmann-Robertson-Walker (FRW) metric
+
+d
+ds2 = −N 2(t)dt2 + a2(t)	(dxi)2,	(9)
+i=1
+where N (t) is the lapse function. With the metric (9), the Riemann invariants read
+(1)	2 H˙ + H2	N˙	!	(2)	 24	6	3	72N˙	2
+/	/	/
+
+where I = H˙ + H2 and H = a˙/a. It is straightforward though cumbersome to verify explicitly that third order Euler density E3 is identically zero in the FRW background. The non-vanishing contribution in Eq.(10) comes from the second term in (4). To enforce the check in a particularly case, we consider D dimensional de-Sitter space, where Riemann curvature is given by
+R ρσ = H0 δ ρδ σ − δ σδ ρ  .	(11)
+Here H0 is a constant corresponding to the Hubble rate. In the de-Sitter background we have
+E3 ∝ D(D − 1)(D − 2)(D − 3)(D − 4)(D − 5) ,	(12)
+which is obviously zero in case of D < 6. For simplicity we shall limit the discussion to a homogeneous scalar field
+φ(t). Then the spatial volume can be integrated out from the measure in equation (1), which we rewrite as
+S = ∫ dtNa3  R  + L + L + L  .	(13)
+
+where Lφ = − 1 ω(φ)(∇φ)2 − V (φ). Varying the action (13) with respect to the lapse function N we obtain [11]
+
+
+
+
+
+where
+3H2
+κ2  = ρm + ρφ + ρc	(14)
+
+ρ = 1 ωφ˙2 + V (φ)	(15)
+φ	2
+In Eq.(14), the energy density ρc is induced by quantum corrections and is given by the following expression
+
+ρ =  3H ∂Lc + d ∂Lc − ∂Lc − L 
+(16)
+
+c
+It would be convenient to rewrite ρc as
+∂N˙
+dt ∂N˙	∂N
+c
+N =1
+
+ρc = ξ1(φ)ρ(1) + ξ2(φ)ρ(2)
+(17)
+
+c	c
+
+4
+
+Using Eqs.(10) & (10) we obtain the expressions of ρ(1) and ρ(2)
+c	c
+ρ(1) =	24H3Ξ	(18)
+ρ(2) = −72HI2Ξ2 − 72  H˙ I2 + 2IHI˙  − 216H2I2 + 120 H6 + I3	(19)
+
+where Ξ1 = ξ˙1/ξ1 and Ξ2 = ξ˙2/ξ2 It is interesting to note that the contribution of Gauss-Bonnet term (described by Eq.(10)) cancels in equations of motion for fixed φ as it should be; it contributes for dynamically evolving scalar field only. In case of the third order curvature corrections, the Euler density is identically zero and hence it does not
+contribute to the equation of motion in general. Secondly, (2) contributes for fixed field as well as for dynamically evolving φ. It contains corrections of third order in curvature beyond the Euler density.
+We should note that such higher-derivative terms in string-inspired gravity may lead to ghosts and related instabil-ities (for recent discussion in scalar-Gauss-Bonnet gravity, see [18]). However, the ghost spectrum of such (quantum
+) gravity (for the review, see[19]) is more relevant at the early universe where curvature is strong, but less relevant at late universe. Moreover, in accordance with modified gravity approach, the emerging theory is purely classical, effec-tive theory which comes from some unknown gravity which has different faces at different epochs. (Actually, it could be that our universe currently enters to instable phase). For instance, in near future the currently sub-leading terms may dominate in the modified gravity action which then has totally different form! Hence, this is that (unknown) gravity, and not its classical limit given by Eq.(1) relevant during specific epoch, whose spectrum should be studied. The point is best illustrated by the example of Fermi theory of weak interactions whose quantization runs into well known problems. Finally, on the phenomenological grounds, it is really interesting to include higher order terms. At present the situation is remarkably tolerant in cosmology, many exotic constructions attract attention provided they can lead to a viable model of dark energy.
+The equation of motion for the field φ reads from (13)
+
+
+¨	˙	′
+
+′  (1)
+
+′  (2)
+˙	′ φ˙2
+
+ω(φ + 3Hφ) + V
+— ξ1Lc − ξ2Lc + ω˙ φ − ω
+= 0	(20)
+2
+
+In addition we have standard continuity equation for the barotropic background fluid with energy density ρm and pressure pm
+ρ˙m + 3H(ρm + pm) = 0	(21)
+Equations (14), (20), and (21) are the basic equations for our system under consideration. Let us note that in the string theory context with the dilaton field φ we have
+V (φ) = 0, ξ1 = c1α′e2φ/φ0 , ξ2 = c2α′2e4φ/φ0	(22) where (c1, c2) = (0, 0, 1/8), (1/8, 0, 1/8) for Type II, Heterotic, and Bosonic strings, respectively.
+
+Fixed field case: general features of solutions.
+
+We now look for de-Sitter solutions in case of φ = constant and ρm = 0. In this case the modified Hubble Eqs.(14) gives rise to de-Sitter solution
+
+
+
+3 = 24ξ2H4 or H =
+ 1   1/4
+8ξ2
+
+(23)
+
+where ξ2 = 1 exp( 4φ/φ0) for type II and Bosonic strings. Normalizing ξ2 to one, we find that H = 0.6 (we have set κ2 = 1 for convenience). Below we shall discuss the stability of the solution. There exists no de-Sitter solution for Heterotic case. Actually, de-Sitter solutions were investigated in the similar background in Ref.[11] where higher order curvature corrections up to order four were included. Since, here we confine ourselves up to the third order and the fourth order terms are excluded from the expression of ρc; these terms come with different signs. Thus it becomes necessary to check whether or not the stability property of de-Sitter solutions is preserved order by order.
+We further note that the modified Hubble Eqs.(14) admits the following solution in the high curvature regime in presence of the barotropic fluid with equation of state parameter w
+a(t) = a0th0 ,	or  a(t) = a0(ts − t)h0	(24)
+
+5
+
+
+where
+
+2
+h0 = 1 + w ,	(25)
+
+ ξ2	2	˙
+
+2 2	6	3
+  1  3(1+w)
+
+a0 =  ρ	72(−h0I0 + 2I0h0I0) + 216h0I0 − 120(h0 + I0 )
+(26)
+
+We have used ρm = ρ0a−3(1+w) for the background matter density and I0 = h0(h0	1), effective equation of state dictated by the modified Hubble Eqs.(14) we have
+I˙0 = −2h0(h0 − 1). For the
+
+2 H˙
+weff = −1 − 3 H2 = −1 +
+1 + w
+(27)
+3
+
+It is interesting to note that effective EoS parameter (27) may correspond to inflationary solution in the presence of background fluid (radiation/matter). In the low curvature regime or at late times weff = w. In the presence of phantom matter, the effective EoS being less than 1 is typical for Big Rip singularity. It is really not surprising that we have inflationary solution at early epochs in the presence of higher order curvature correction to Einstein Hilbert action; an early example of this phenomenon is provided by R2-gravity.
+
+Autonomous form of equations of motion
+
+Let us now cast the equations of motion in the autonomous form. Introducing the following notation (κ2 = 1)
+x = H,	y = H˙ ,	u = φ, v = φ˙,	z = ρm	(28)
+We shall assume ω(φ) = ν = const. we obtain the system of equations
+x˙ = y ,
+
+1 νv2	24ξ Ξ x3 + ξ	72xI2Ξ	72(yI2 + 4Iyx2)	216x2I2 + 120(x6 + I3)	3x2
+y˙ = 2		 + 144I(x, y)ξ2x
+z
+,
+144Iξ2x
+
+(1)	(2)
+
+u˙ = v ,
+v˙ = −3νxv + ξ1Lc + ξ2Lc  ,
+ν
+z˙ = −3x(1 + w)z	(29)
+
+We shall be first interested in the case of fixed field for which we have (assuming ν = 1)
+x˙ = y ,
+72(yI(x, y)2 + 4I(x, y)yx2) + 216x2I2(x, y) + 120(x6 + I3(x, y))	3x2 + z
+y˙ =	,
+144I(x, y)x
+
+
+where
+z˙ = −3x(1 + w)z	(30)
+
+I(x, y) = x2 + y,	L(1) = 24x2(y + x2),	L(2) = 24(x6 + I3(x, y)	(31)
+
+In the presence of perfect fluid, the de-Sitter fixed point is characterized by
+xc = 0.71,	yc = 0,	zc = 0	(32)
+Perturbing the system around the critical point and keeping the linear terms we obtain
+δ˙x = δy ,
+δ˙y =  21 x2 +  10 +   1   δx +  2 x +  5  +   1   δy +   1	 δz ,
+δ˙x = −3xc(1 + w)δz	(33)
+Stability of the fixed points depends upon the nature of eigenvalues of perturbation matrix
+λ	= 1  a	± q4a	+ a2  ,	λ = a	= −3x (1 + w)	(34)
+
+For the fixed point given by (32), λ1 is positive where as λ2 is negative making the de-Sitter solution an unstable node. In fact, λ1 remains positive for any xc > 0 thereby making the conclusion independent of the choice of ξ(0) (see
+FIG. 1).
+
+6
+
+
+
+140
+
+
+
+120
+
+
+
+100
+
+
+
+80
+
+
+
+60
+
+
+
+40
+
+
+
+20
+
+
+
+0
+0	2	4	6	8	10
+x c
+FIG. 1: Plot of the first eigenvalue λ1 versus the critical point xc. The eigenvalue remains positive if the critical point is varied from zero to larger values.
+
+
+
+0.08
+
+
+0.06
+
+
+0.04
+
+
+0.02
+
+
+0
+
+
+-0.02
+
+
+-0.04
+
+
+-0.06
+
+
+
+-0.08
+
+
+0	5	10	15	20	25	30	35	40	45	50
+X
+
+FIG. 2: Plot of Y ≡ ( 48ξ(1) ) × 105 (black line) and Y ≡ ( 96ξ(2) ) (gray line) versus X ≡ φ2. corresponding to h = 40 or
+	0 		0 
+t2	t4	0	0
+1	1
+wDE = −0.95 (ν is assumed to be one). The common region corresponding to positive values of the couplings gives possible models of dark energy induced by higher order curvature corrections.
+
+
+Dynamically evolving field φ and dark energy solutions
+
+In what follows we shall be interested in looking for an exact solution of equations of motion (14) and (20) which of interest to us from the point of view of dark energy in absence of the background fluid. In this case let us look for the following solution
+H = h0 , φ = φ ln t (when h > 0) ,	H =	h0  , φ = φ ln ts − t (when h < 0) .	(35)
+
+
+/
+t	0	t1	0
+
+/
+ts − t
+0	t1	0
+
+Substituting (35) in evolution Eqs. (14) and (20) yields (we again set κ2 = 1)
+
+48ξ(0)	96ξ(0)
+ν(1 − 3h0)φ2 + 	1  h3(h0 − 1) + 	2  (h6 + I3) = 0 ,
+
+0
+
+2	ν 2
+2	0
+1
+ 48ξ(0)
+
+ ξ(0)
+2	0	0
+1
+
+
+
+where
+−3h0 + 2 φ0 −
+2	h0 +
+1
+4 J(h0) = 0	(36)
+1
+
+J =  1   −288h I2 − 72(−h I2 + 2I h I˙ ) − 216h I2 + 120(h6 + I3)  ,
+I0 = h0(h0 − 1), I˙0 = −2h0(h0 − 1)	(37)
+
+7
+
+
+
+0.1
+
+0.09
+
+0.08
+
+0.07
+
+0.06
+
+0.05
+
+0.04
+
+0.03
+
+0.02
+
+0.01
+
+0
+
+-0.01
+0	5	10	15	20	25	30
+X
+FIG. 3: Plot of Y ≡ ( 48ξ(1) ) × 105 (gray line) and Y ≡ ( 96ξ(2) ) (black line) versus X ≡ φ2. corresponding to h = −33.33 or
+	0 		0 
+t2	t4	0	0
+1	1
+wDE = −1.06. The region bounded by 6 < X < 31.5 corresponds to possible phantom dark energy models.
+
+
+Using Eqs.(36), we express the couplings through h0 and φ0
+48ξ(0)	"	3h2 − νφ2 + ν(3h − 1)φ	#
+
+
+/
+1	= 	0	2	0	0	
+t2	J(h0)(h0 − 1) + h3(h3 + (h0 − 1)3)
+,	(38)
+
+	  3h2 − νφ0 + ν(3h − 1)φ2  J(h ) 
+t4	= h3 −3h0 +  2  +  J(h )(h − 1) + h3(h3 + (h − 1)3) 	(39)
+
+
+(0) n  φ 
+(0)
+m  φ 	2
+
+Let us note that the string couplings (ξ1(φ) = ξ1 e φ0 , ξ2(φ) = ξ2 e φ0 with m = n = 4) are generic to solution
+described by (35); for other couplings such a solution does not exist. We also note that Eqs.(38) & (39) reduce to
+the earlier obtained results in Ref.[10] (see Refs.[13, 20, 21] on the related theme) where similar investigations were carried out confining to only second order curvature invariants in the action (1).
+There are several free parameters in the problem. In order to extract important information from Eqs. (38) and (39), we proceed in the following manner. We fix h0 corresponding to the observed value of dark energy equation of
+state parameter wDE and impose the positivity condition on the couplings ξ(0) and ξ(0) leading to allowed values of
+1	2
+the parameter φ2. In the absence of coupling ξ2(φ), it was shown in Ref.[10] that for a given value of h0 from the allowed interval, the parameter φ0 takes a fixed value. Our model incorporates higher order curvature corrections allowing a one parameter flexibility in the values of φ0. This gives rise to comfortable choice of the equation of state consistent with observations.
+The three years WMAP data is analyzed in Ref.[22]. which shows that the combined analysis of WMAP with supernova Legacy survey (SNLS) constrains the dark energy equation of state wDE pushing it to wards the cosmological constant. The marginalized best fit values of the equation of state parameter at 68% confidence level are given by
+1.14  wDE  0.93. In case of a prior that universe is flat, the combined data gives 1.06  wDE  0.90. Our model can easily accommodate these values of wDE. For instance, in case of non-phantom (standard dark energy) we find a one parameter family of dark energy models with h0 40 (wDE = 0.98) corresponding to φ2 > 41. Like wise, in case of phantom dark energy, we find that for h0  33 (wDE =  1.02), the viable range of the parameter
+φ2 is given by 6 < φ2 < 31.5. These values are consistent with recent WMAP release and SNLS findings.
+0	0
+We should mention that the observations quoted above do not incorporate the dark energy perturbations which
+might severely constrain the phantom dark energy cosmologies. The combined data (CMB+LSS+SNLS) then forces the dark energy equation of state to vary as,  1.001 < wDE < 0.875[22]. Our model can easily incorporate these numerical values of wDE by constraining h0 and φ2 similar to the case of non-clustering dark energy. A word of caution, the evolution of dark energy perturbation across the phantom divide needs additional assumptions; a complete analysis should take into account the non-adiabatic perturbations which makes dark energy gravitationally stable[4].
+
+8
+
+Dark energy
+	h0
+	φ2
+0
+	wDE
+	Observational constraint on wDE
+	Constraint on wDE with flatness prior
+	
+	Non-phantom
+	40
+	φ2 > 41
+0
+	−0.98
+	
+
+−1.06+0.13
+−0.08
+	
+
+−0.97+0.07
+−0.09
+	
+	Phantom
+	−33.33
+	6 < φ2 < 31.5
+0
+	−1.02
+	
+	
+	
+	
+TABLE I: Observational constraints on (non-clustering) dark energy equation of state wDE dictated by the combined analysis of WMAP+SNLS data[22] and the numerical values of model parameters consistent with the observations.
+
+
+Stability of dark energy solution
+
+In what follows we shall examine the stability of the dark energy solution (35) induced by purely stringy corrections. In general the analytical treatment becomes intractable; simplification, however, occurs in the limit of large h0 corresponding to weff	1.
+Let us consider the following situation of interest to us
+ρm = 0, ω = ν = 1, ξ1(φ) = ξ(0)e2φ/φ0 ,	ξ2(φ) = ξ(0)e4φ/φ0 .	(40)
+1	2
+In order to investigate the stability around the dark energy solution defined by (35), we need a convenient set of variables to cast the evolution equations into autonomous form. We now define the variables which are suited to our problem.
+X ≡ φ˙ ,	Y ≡ H˙ + H2 2 ξ (φ) ,	Z ≡ H2ξ (φ) ,	 d  ≡  1 d .	(41)
+
+With this choice, the evolution equations acquire the autonomous form
+dX	X	48  Y !1/2	96	ξ(0)	96ξ(0)Y  Y !1/2
+
+=	2	+ ξ(0)
+dN
+— Z + φ
+ξ(0)
+φ0	(0) 2 Z
+1
+φ0Z
+,
+ξ(0)
+
+
+ dY
+
+1	X	 2 
+2	ξ1
+2ξ(0)Y  Y !1/2
+2
+
+5ξ(0)
+
+dN = − 24κ2 144 − 3φ ZX − 2Y +	3Z	ξ(0)	(0) 2 Z  ,
+0
+
+
+ dZ	 2 
+
+2
+  Y !1/2
+
+3 ξ1
+
+We have used the field equation (20) and Eq.(29) for H¨ in deriving the above autonomous form of equations. For our solution given by (35), we have
+
+
+φ 	h2ξ(0)
+
+/
+/
+ −h
++ h2 2 ξ(0)
+
+
+It can be checked that ( 0, 0, 0) is a fixed point of (42). We then consider small perturbations around (43) or equivalently around the original solution (35)
+X = X0 + δX ,	Y = Y0 + δY ,	Z = Z0 + δZ .	(44)
+Substituting (44) in (42) and retaining the linear terms in perturbations, we find
+ d   δX 	 δX 
+dN  δY  = M  δY  .	(45)
+
+Here M is 3 × 3-matrix perturbation matrix whose components are given by
+
+
+M11
+=	2 + −1 + h0 ,
+h0
+
+
+
+
+φ0t2
+
+
+
+24ξ(0)t2
+9
+
+144 (−1 + h0)
+
+1		1	1	
+M12 = −	+	+	,
+
+2h3	φ ξ(0) (−h
+0	0
++ h2)
+φ0h0
+
+(0)	3 (0)
+φ0t2 (−1 + h0)	192ξ	h2	96 (−1 + h0) ξ
+
+M13 =	1
++ 	2	0 − 	2  ,
+
+h4ξ(0)
+ξ(0)φ0t2
+φ0h0ξ(0)t2
+
+M21 =
+0 1	1	1	1	1
+1	 2h2ξ(0)
+72 − 3φ t2 ,
+
+
+M22
+=	2	(−1 + h0) ,
+h0
+
+2	2 (−1 + h0)3 ξ(0)	10h2ξ(0)
+
+M23 = −
+	2 		0 2 
+/
+
+3h0
+3h0ξ(0)t2
+3ξ(0)t2
+
+
+
+M31 =
+
+
+M32 =
+1	1	1	1
+ 2h2ξ(0)
+,
+φ0t2
+ξ(0)t2
+	1	1	 ,
+ξ(0) (−h0 + h2)
+
+2	0
+2
+M33 = −2 + h  .	(46)
+Stability of the fixed point(s) depends upon the nature eigenvalues of the perturbation matrix M . If there is an eigenvalue whose real part is positive, the system becomes unstable. Here for simplicity, we only consider the case of h0 → ±∞, which corresponds to the limit of weff ∼ −1. In the case, we find
+ξ(0)	1	ξ(0)	1
+ 1 			 2 		
+
+and the eigenvalue equation is given by
+2  → 40h5 ,
+4  → − 32h0
+h3
+,	(47)
+7h3
+
+0 = F (λ) ≡ −λ3 − 6λ2 −   0  λ − 	0  .	(48)
+40φ0	40φ0
+The values of λ satisfying F (λ) = 0 give eigenvalues of M . The solutions of (48) is given by
+
+|h0| √−h0
+
+/
+
+
+−1/2 
+
+When h0 < 0, the mode corresponding to λ+ (λ−) becomes stable (unstable). Since λ± are pure imaginary when h0 > 0, the corresponding modes become stable in this case. On the other hand, the mode corresponding to λ0 is always stable. Thus, the non-phantom dark energy solution (35) induced by string corrections to Einstein gravity is stable. Such a solution exists in presence of a dynamically evolving field φ with V (φ) = 0 coupled to Riemann invariants with couplings dictated by string theory. Dark energy can be realized in a variety of scalar field models by appropriately choosing the field potential. It is really interesting that we can obtain dark energy solution in string model without recourse to a scalar field potential.
+Let us compare the results with those obtained in [10], where ξ2 = 0 but V (φ) = 0. The dark energy solution studied in Ref.[10], was shown to be stable when h0 > 0 but unstable for h0 > 0. The present investigations include ξ2 and V = 0 which makes our model different from Ref.[10]; it is therefore not surprising that our results differ from Ref.[10]. Since h0 > 0 corresponds to the quintessence phase and h < 0 to the phantom, the solution in the model (with ξ0 and V = 0) is stable in the quintessence phase but unstable in the phantom phase. We should notice that the approximation we used to check the stability works fine for any generic value of h0. For instance, 5 < h0 < 667 which corresponds to the variation of wDE in case the dark energy perturbations are taken into account. We also carried out numerical verification of our results.
+
+THE LATE-TIME COSMOLOGY IN SCALAR-GAUSS-BONNET GRAVITY
+
+A number of scalar field models have recently been investigated in connection with dark energy (see Ref.[4] for details). The cosmological viability of these constructs depends upon how well the Hubble parameter predicted by
+
+10
+
+them compares with observations. One could also follow the reverse route and construct the Lagrangian using the observational input; such a scheme might help in the search of best fit models of dark energy[4]. In what follows we shall describe how the reconstruction program is implemented in presence of higher order string curvature corrections.
+
+The reconstruction of scalar-Gauss-Bonnet gravity
+
+In this section it will be shown how scalar-Gauss-Bonnet gravity may be reconstructed for any requested cosmology using the method [16] developed in the scalar-tensor theory. We limit here only by Gauss-Bonnet term order (by technical reasons) but there is no principal problem to include higher order terms studied in previous section. It is interesting that the principal possibility appears to reconstruct the scalar-Gauss-Bonnet gravity for any (quintessence, cosmological constant or phantom) dark energy universe. The last possibility seems to be quite attractive due to the fact [10], that the phantom universe could be realized in the scalar-Gauss-Bonnet gravity without introducing ghost scalar field. In this section, we show that in scalar-Gauss-Bonnet gravity, any cosmology, including phantom cosmology, could be realized by properly choosing the potential and the coupling to the Gauss-Bonnet invariant with the canonical scalar.
+The starting action is
+S = ∫ d4x√−g  R  − 1 ∂ φ∂µφ − V (φ) − ξ (φ)G  .	(50)
+
+Here G is the Gauss-Bonnet invariant G  (1) (3) and the scalar field φ is canonical in (50). As in previous section, it is natural to assume the FRW universe (9) with N (t) = 1 and the scalar field φ only depending on t. The FRW equations look like:
+
+ 3 	2	1
+0 = − κ2 H + 2 φ
+
++ V (φ) + 24H
+3 dξ1(φ(t)) ,	(51)
+dt
+
+ 1    ˙
+/
+2	1 ˙2
+2 d2ξ1(φ(t))
+
+/
+˙ dξ1(φ(t))
+3 dξ1(φ(t))
+
+and scalar field equation:
+0 = φ¨ + 3Hφ˙ + V ′(φ) + ξ′ (φ)G .	(53)
+Combining (51) and (52), one gets
+ 2  ˙	˙2	2 d2ξ1(φ(t))	˙ dξ1(φ(t))	3 dξ1(φ(t))	 2  ˙	˙2	 d  H2 dξ1(φ(t)) 
+/	/
+Eq.(54) can be solved with respect to ξ1(φ(t)) as
+1 ∫ t	 a(t1)  ∫ t1  dt2    2  ˙	˙	2 
+/	/
+Combining (51) and (55), the scalar potential V (φ(t)) is:
+
+ 3 	2
+1 ˙	2
+∫ t  dt1    2  ˙
+/
+˙	2 
+
+We now identify t with f (φ) and H with g′(t) where f and g are some unknown functions in analogy with Ref.[16] since we know this leads to the solution of the FRW equations subject to existence of such functions. Then we consider the model where V (φ) and ξ1(φ) may be expressed in terms of two functions f and g as
+
+
+V (φ) =
+ 3  g′ (f (φ))2
+κ2
+		1	 2f ′(φ)2
+
+— 3g (f (φ)) e
+g(f (φ)) ∫ φ
+
+dφ1f ′(φ1)e
+
+−g(f (φ1))
+ 2  g′′
+κ2
+
+(f (φ1)) +
+	1	
+,
+f ′(φ1)2
+
+ξ1(φ) =
+1	φ
+8	dφ1
+f ′(φ1)eg(f (φ1))	φ1
+
+/
+g′(φ1)2
+dφ2f ′(φ2)e
+−g(f (φ2 ))	 2 
+κ2
+g′′
+(f (φ2)) +
+	1	
+f ′(φ2)2
+.	(57)
+
+By choosing V (φ) and ξ1(φ) as (57), we can easily find the following solution for Eqs.(51) and (52):
+φ = f −1(t)	(t = f (φ)) ,	a = a0eg(t) (H = g′(t)) .	(58)
+
+11
+
+We can straightforwardly check the solution (58) satisfies the field equation (53).
+Hence, any cosmology expressed as H = g(φ) in the model (50) with (57) can be realized, including the model exhibiting the transition from non-phantom phase to phantom phase without introducing the scalar field with wrong sign kinetic term.
+In the Einstein gravity, the FRW equations are given by
+0 = −  3  H2 + ρ ,	0 =  1  2H˙ + 3H2 + p .	(59)
+
+Here ρ and p are total energy density and pressure in the universe. By comparing (59) with (58) we find the effective energy density ρ˜ and the pressure p˜ are given
+ρ˜ =  3  g′(t)2 ,	p˜ = −  3  g′(t)2 −  2  g′′(t) .	(60)
+Since t = g′−1 (κ) √ρ/3 , we obtain the following effective equation of the state (EoS):
+p˜ = −ρ˜ − 2 g′′ g′−1 κr ρ   ,	(61)
+
+which contains all the cases where the EoS is given by p = w(ρ)ρ. Furthermore, since g′−1 could NOT be always a single-valued function, Eq.(61) contains more general EoS given by
+0 = F (ρ˜, p˜) .	(62)
+This shows the equivalence between scalar-tensor and ideal fluid descriptions.
+Let us come back now to scalar-Gauss-Bonnet gravity. It is not difficult to extend the above formulation to include matter with constant EoS parameter wm pm/ρm. Here ρm and pm are energy density and pressure of the matter. Then, instead of (51) and (52) the FRW equations are
+
+ 3 	2	1
+0 = − κ2 H + 2 φ
+
++ V (φ) + ρm + 24H
+3 dξ1(φ(t)) ,	(63)
+dt
+
+ 1    ˙
+/
+2	1 ˙2
+2 d2ξ1(φ(t))
+
+/
+˙ dξ1(φ(t))
+3 dξ1(φ(t))
+
+The energy conservation law
+ρ˙m + 3H (ρm + pm) = 0 ,	(65)
+gives
+ρm = ρm0a−3(1+wm) ,	(66)
+with a constant ρm0. Instead of (57), if we consider the model with
+
+
+V (φ) =
+
+ 3  g′ (f (φ))2
+κ2
+		1	 2f ′(φ)2
+
+— 3g (f (φ)) e
+g(f (φ)) ∫ φ
+
+dφ1f ′(φ1)e
+
+−g(f (φ1))	 2 
+κ2
+
+g′′
+
+(f (φ1)) +
+		1	 2f ′(φ1)2
+
++(1 + wm)g0e−3(1+wm)g(f (φ1))  ,
+
+
+ξ1(φ) =
+φ
+8	dφ1
+f ′(φ1)eg(f (φ1))	φ1
+
+/
+g′(φ1)2
+
+dφ2f ′(φ2)e
+−g(f (φ2))	 2 
+κ2
+
+g′′
+
+(f (φ2))
+
+	1	
++	+ (1 + w
+
+)g e−3(1+wm)g(f (φ2))  ,	(67)
+
+
+we re-obtain the solution (58) even if the matter is included. However, a constant a0 is given by
+a = g0 .	(68)
+0	ρ0
+
+12
+
+One can consider some explicit examples [16]:
+
+
+
+
+
+which gives
+φ
+t = f (φ) =
+φ0
+,	g(t) = h0 ln
+s
+t
+,	(69)
+— t
+
+H = h  1 +   1   ,	H˙ = h0ts (2t − ts) .	(70)
+Then the universe is in non-phantom phase when t < ts/2 and in phantom phase when t > ts/2. There is also a Big Rip singularity at t = ts. Especially in case wm = 0 (that is, matter is dust) and h0 = 2, we reconstruct the scalar-Gauss-Bonnet gravity with following potentials:
+
+
+V (φ) =
+	6φ0φs	
+—
+
+φ2 −
+4φ2φsφ
+  4   φ2
+φs  −
+φ2	 φ
+— 2φs ln	+ φ
+
+κ2φ (φs − φ)
+(φs
+φ)
+κ2	3φ3	φ2	φ	φs
+
+ g0
++ φ2
+8
+s
+7φ7
+4φ7
++ 3φ6 −
+28φ6
+s +
+5φ5
+14φ5
+φ4 −
+70φ4
+s +
+3φ3
+28φ3
+φ2 −
+28φ2	 φ
+φ	− 8φs ln φ
+
++ φ 
+
++ c1	,
+
+ξ1(φ) =
+	1	  4   φ2φ2
+
+/
+φsφ3 
+
+/
+φ2φ4
+
+/
+2φsφ
+  1 ln  φ
+ 1   + φ
+ g0   φ8
+4φ7
+−	−
+/
+28φ6	 φ
+s ln
+/
+
+32φ2φ2 κ2	6	3	4
+φs	25
+φ2
+14φ2	3φ
+5	φs
+
+0 s
+35φ4φ2
+
+/	/
+28φ3φ3
+
+/
+  1	 φ
+
+ 1  
+
+φ6 
+
+/
+/
+0
+c1φ5
+
+/
+/
+
+Here φs	φ0ts and c1, c2 are constants of the integration. Another example, without matter (g0 = 0), is [23]
+g(t) = h  t + cos θ0 sin ωt  ,	f −1(t) = φ sin ωt .	(72)
+
+Here h0, θ0, ω, and φ0 are constants. This leads to reconstruction of scalar-Gauss-Bonnet gravity with
+
+
+3h  
+
+2 cos θ 
+
+/
+φ2ω2 
+
+/
+
+
+φ2 1/2
+
+/
+/
+
+ ωφ  ∫ φ
+φ2 −1/2 
+2 cos θ 
+ −2
+
+ξ1(φ) = −
+
+Then from Eq.(72) we find
+0
+32h3
+dφ1	1
+0
+1 + cos θ0	2	1
+0
+,	(73)
+
+H = h0 (1 + cos θ0 cos ωt) ≥ 0 ,	H˙ = −h0ω cos θ0 sin ωt ,	(74)
+Then the Hubble rate H is oscillating but since H is positive, the universe continues to expand and if h0ω cos θ0 > 0, the universe is in non-phantom (phantom) phase when 2nπ < ωt < (2n + 1) π ((2n	1) π < ωt < 2nπ) with integer
+n. Thus, the oscillating late-time cosmology in string-inspired gravity may be easily constructed. One more example is [23]
+g(t) = H t − H1 ln cosh H t .	(75)
+0	H0	0
+Here we assume H0 > H1 > 0. Since
+
+H = g′(t) = H0
+H1
+tanh H0t ,
+H˙ = g′′(t) =	 H0H1  < 0 ,	(76)
+cosh2 H0t
+
+when t	, the universe becomes asymptotically deSitter space, where H becomes a constant H	H0	H1 and therefore the universe is accelerating. When t = 0, we find
+a¨ = H˙ + H2 = −H H + H2 < 0 ,	(77)
+
+13
+
+therefore the universe is decelerating. Then the universe is accelerating at first, turns to be decelerating, and after that
+universe becomes accelerating again. As H˙ is always negative, the universe is in non-phantom phase. Furthermore with the choice
+
+ 1 
+wm = 0 ,	t = f (φ) =
+0
+
+tan
+ κH
+2√2H1
+
+,	(78)
+
+we find the corresponding scalar-Gauss-Bonnet gravity
+3	2	H1
+V (φ) =	(H0 − H1 tanh ϕ) − √2κ2 cosh ϕ
+κ2	2
+
+12g0
+—	(H
+H tanh ϕ) 1 + e2ϕ "2ϕ − ln 1 + e2ϕ + 	5	 + 	5	 + 	2	 # ,
+
+∫ ϕ		2ϕ′	 "					#
+
+1
+Here
+2H0
+(H0
+H1
+tanh ϕ′)2
+  κH0 
+
+
+6 (1 + e2ϕ′ )
+
+
+
+/
+6 (1 + e2ϕ′ )2
+
+/
+6 (1 + e2ϕ′ )3
+
+Although it is difficult to give the explicit forms of V (φ) and ξ1(φ), we may also consider the following example
+/
+
+
+g(t) = h0
+t4
+12 −
+t1 + t2 t3 + 6
+t1 + t2 t2
+2
+,	(3t1 > t2 > t1 > 0 ,	h0 > 0) .	(81)
+
+Here h0, t1, t2 are constants. Hence, Hubble rate is
+
+
+H(t) = h0
+t	t1 + t2 t2
+2
+
++ t1t2t
+
+,	H˙ (t) = h0 (t − t1) (t − t2) .	(82)
+
+Since H > 0 when t > 0 and H < 0 when t < 0, the radius of the universe a = a0eg(t) has a minimum when
+t = 0. From the expression of H˙ in (82), the universe is in phantom phase H˙ > 0 when t < t1 or t > t2, and
+in non-phantom phase H˙ < 0 when t1 < t < t2 (for other string-inspired models with similar cosmology, see for
+instance [24]). Then we may identify the period 0 < t < t1 could correspond to the inflation and the period t > t2 to the present acceleration of the universe (this is similar in spirit to unification of the inflation with the acceleration suggested in other class of modified gravities in ref.[25]). If we define effective EoS parameter weff as
+p	2H˙
+weff = ρ = −1 − 3H2 ,	(83)
+we find weff   1 in the limit t  + . Although it is difficult to find the explicit forms of V (φ) and ξ1(φ), one might give the rough forms by using the numerical calculations. From the expression of V (φ) and ξ1(φ) in (57), if f (φ) is properly given, say as t = f (φ) = φ/φ0 with constant φ0, there cannot happen any singularity in V (φ) and ξ1(φ) even if t = t1 or t = t1, which corresponds to the transition between phantom and non-phantom phases. Then the model (50) could exhibit the smooth transition between phantom and non-phantom phases.
+The next example is
+
+
+
+
+Since
+t
+g(t) = h0 ln
+0
+
+ φ 
+,	t = f (φ) = t0e φ0 .	(84)
+
+
+
+
+we have a constant effective EoS parameter:
+H = h0
+t
+,	(85)
+
+
+2
+
+weff = −1 + 3h
+.	(86)
+
+14
+
+
+Eqs.(84) give
+
+
+	1	  3h2 (1 − h0)	φ2
+
+
+
+
+— 2φ
+
+
+ 3h0 (1 + wm) g0 
+
+
+
+
+— 3(1+wm)h0 φ
+
+V (φ) = −
+
+ξ1(φ) = −
+(h0 + 1) t2
+2
+0
+/
+16h2 (h0 + 1)
+0
+κ2 2h0 κ2
++
+
++ φ2 
+0 (1 − 5h0)
+
+2φ
+e φ0
+e φ0 +
+e
+(4 + 3wm) h0 − 1
+φ0	,
+
+1	−1
+−1	4 − {3(1+wm)h0−4}φ
+
++ 8 {3 (1 + wm) h0 − 4}
+{(4 + 3wm) h0 − 1}
+(1 + wm) g0t0e
+φ0	.	(87)
+
+Thus, there appear exponential functions, which are typical in string-inspired gravity.
+As clear from (85), if h0 > 1, the universe is in quintessence phase, which corresponds to 1/3 < weff < 1 in (84). If h0 < 0, the universe is in phantom phase with weff < 1. In phantom phase, we choose t0 to be negative and our universe corresponds to negative t, or if we shift the time coordinate t as t  t ts, with a constant ts, t should be less than ts.
+
+The model [10] corresponds to g0 = 0 in (87). In the notations of ref.[10], t0 = t1, V (φ) = V0e
+2φ
+f0e φ0 = −ξ1(φ). Then from the expression (87), one gets
+— 2φ
+φ0 , and f (φ) =
+
+
+V0 = −
+	1	  3h2 (1 − h0)
+
+/
+
+φ2
++  0 (1 − 5h0)
+
+,	f0 =
+
+2	2h0
+—
+/
+
++ φ2
+
+,	(88)
+
+(h0 + 1) t2	κ2	2	16h2 (h0 + 1)	κ2	0
+which is identical (after replacing t0 with t1) with (16) in [10].
+Thus, we demonstrated that arbitrary late-time cosmology (from specific quintessence or phantom to oscillating cosmology) may be produced by scalar-Gauss-Bonnet gravity with scalar potentials defined by such cosmology. The reconstruction of string-inspired gravity may be always done. Moreover, one can extend this formulation to include the higher order terms in low-energy string effective action.
+
+The relation with modified Gauss-Bonnet gravity
+
+In this section we show that scalar-Gauss-Bonnet gravity may be transformed to another form of modified Gauss-Bonnet gravity where no scalars present. In addition, the formulation may be extended to include higher order terms too. Starting from (50), one may redefine the scalar field φ by φ = ǫϕ. The action takes the following form
+∫	4 √	  R 	ǫ2	µ	˜	˜
+
+
+Here
+
+V˜ (ϕ) ≡ V (ǫϕ) ,
+
+ξ˜1(ϕ) ≡ ξ1(ǫϕ) .	(90)
+
+If a proper limit of ǫ → 0 exists, the action (89) reduces to
+S = ∫ d4x√−g  R  − V˜ (ϕ) − ξ˜ (ϕ)G .	(91) Then ϕ is an auxiliary field. By the variation of ϕ, we find
+0 = V˜ ′(ϕ) − ξ˜′ (ϕ)G ,	(92)
+which may be solved with respect to ϕ as
+ϕ = Φ(G) .	(93)
+Substituting (94) into the action (91), the F (G)-gravity follows [26]:
+S = ∫ d4x√−g  R  − F (G)  ,	F (G) ≡ V˜ (Φ(G)) − ξ˜ (Φ(G)) G .	(94)
+
+15
+
+For example, in case of (84), in ǫ → 0 limit after redefining φ = ǫϕ and φ0 = ǫϕ0, V (φ) and ξ1(φ) reduce to
+
+
+V˜ (ϕ) =
+ 3h2 (h0 − 1) (h0 + 1) t2κ2
+t2
+
+— 2ϕ
+ϕ0 +
+
+
+2φ
+3h0 (1 + wm) g0
+
+/
+(4 + 3wm) h0 − 1
+1
+
+— 3(1+wm)h0 φ
+e	φ0	,
+
+
+−1	−1
+
+
+
+
+
+
+— {3(1+wm)h0 −4}φ
+
+ξ˜1(ϕ) =
+		0	 e φ0 + 8h0 (h0 + 1) κ2
+8 {3 (1 + wm) h0 − 4}
+{(4 + 3wm) h0 − 1}
+(1 + wm) g0t4e
+φ0	.(95)
+
+
+
+The solution corresponding to (84) is:
+
+
+t
+g(t) = h0 ln
+0
+
+t
+,	ϕ = ϕ0 ln
+0
+
+
+.	(96)
+
+If we further consider the case g0 = 0, Eq.(92) gives
+— 4ϕ	t4
+e ϕ0 = 	0	 G .	(97)
+24h3 (h0 − 1)
+Eq.(97) could have a meaning only when h0 > 1 or h0 < 0 if G is positive. In this situation
+F (G) = A G1/2 ,	A ≡	1	r 3 (h0 − 1) h0 .	(98)
+
+The above model has been discussed in [26]. Actually, in [26] the following type of the action has been considered:
+S = ∫ d4x√−g  1  R + F (G)  .	(99) In case that F (G) is given by (98), in terms of [26], A0 = f0. Hence, A0 (98) coincides with the Eq.(26) of [26].
+As a further generalization, we may also consider the string-inspired theory of second section where next order term is coupled with scalar field:
+S = ∫ d4x√−gh R − 1 ∂ φ∂µφ − V (φ) − ξ (φ)G + ξ (φ)L(2) i .	(100)
+
+As in (89), we may redefine the scalar field φ by φ = ǫϕ. If a proper limit of ǫ → 0 exists, the action (100) reduces to
+S = ∫ d4x√−g  R  − V˜ (ϕ) − ξ˜ (ϕ)G + ξ˜ (ϕ)L(2) .	(101)
+
+
+Here
+
+ξ˜2 = lim ξ2(ǫϕ) .	(102)
+ǫ→0
+
+Then ϕ could be regarded as an auxiliary field and one gets
+0 = V˜ ′(ϕ) − ξ˜′ (ϕ)G + ξ˜′ L(2) ,	(103)
+1	2 c
+which may be solved with respect to ϕ as
+
+ϕ = Ψ G, L(2)  .	(104)
+
+Substituting (104) into the action (101), we obtain F (G, L(2))-gravity theory:
+S = ∫ d4x√−g  R  − F (G, L(2))  ,	F (G) ≡ V˜ Φ(G, L(2)) − ξ˜ Φ(G, L(2)) G + ξ˜ Φ(G, L(2)) L(2) . (105)
+
+In case of the string-inspired gravity:
+
+— 2φ	2φ	4φ
+V = V0e φ0 ,	ξ1 = ξ0e φ0 ,	ξ2 = η0e φ0 .	(106)
+
+16
+
+Here φ0, V0, ξ0, and η0 are constants. We may consider the limit of ǫ	0 after redefining φ = ǫϕ and φ0 = ǫϕ0. Thus, Eq.(103) gives
+
+
+
+2ϕ
+(2)
+ξ0G
+
+(2)
+
+e ϕ0 = Θ(G, Lc ) ≡	(2) + Y (G, Lc ) .	(107)
+2η L
+
+
+Here
+
+
+
+Y (G,
+
+
+
+
+(2)
+0 c
+
+
+
+2 πi
+
+
+
+
+4 πi
+
+
+
+
+4 πi
+
+
+
+
+2 πi
+
+
+and
+Lc ) = y+ + y− ,	y+e 3
++ y−e 3
+,	y+e 3
++ y−e 3
+(108)
+
+	,u	!2
+1/3
+
+  V0	
+y±
+ 4η L(2)
+  V0	
+4η L(2)
+ ξ0G 
+—	6η L(2)	
+.	(109)
+
+
+Hence, the action of the corresponding F (G, L(2))-theory is
+S = ∫ d4x√−g  R  − F (G, L(2))  ,
+
+
+
+(2)
+2κ2
+	V0	
+c
+
+(2) 
+
+(2) 2
+
+
+(2)
+
+F (G, Lc ) =
+(2)  − ξ0Θ
+/ /
+G, Lc
+G + η0Θ
+G, Lc
+Lc	.	(110)
+
+Instead of (50), one may consider the model with one more scalar field χ coupled with the Gauss-Bonnet invariant:
+S = ∫ d4x√−g  R  − 1 ∂ φ∂µφ − ǫ ∂ χ∂µχ − V (φ) − U (χ) − (ξ (φ) + θ(χ)) G  .	(111)
+
+This kind of action often appears in the models inspired by the string theory [14]. In such models, one scalar φ may correspond to the dilaton and another scalar χ to modulus. We now consider the case that the derivative of χ, ∂µχ, is small or ǫ is very small. Then we may neglect the kinetic term of χ and χ could be regarded as an auxiliary field. Repeating the process (92-94), we obtain the F (G)-gravity coupled with the scalar field φ:
+S = ∫ d4x√−g  R  − 1 ∂ φ∂µφ − V (φ) − ξ (φ)G + F (G)  .	(112)
+
+The relation between scalar-Gauss-Bonnet gravity and modified Gauss-Bonnet gravity (or two parameterizations of the same theory) is discussed in this section. It is shown that cosmological solutions obtained in one of such theories may be used (with different physical interpretation , compare with [27]) in another theory. It is often turns out that it is easier to work with specific parametrization of the same theory. Of course, only comparison with observational data may select the truly physical theory in correct parametrization.
+
+CONCLUSION
+
+In this paper we have studied several aspects of (dilaton) gravity in the presence of string corrections up to third order in curvature. The second order term is Euler density of order two called, the Gauss-Bonnet term. The next-to-leading term contains higher order Euler density (E3) plus a term of order three in curvature. The expression of E3 is identically zero in space-time of dimension less than six; the term beyond the Euler density contributes to equation of motion even for a fixed field φ. We have verified that the de-Sitter solution which exists in the case of Type II and Bosonic strings is an unstable node. It is shown that in the presence of a barotropic fluid (radiation/matter), inflationary solution exists in the high curvature regime for constant field.
+For a dynamically evolving field φ canonical in nature, there exists an interesting dark energy solution (35) char-acterized by H = h0/t, φ = φ0 ln t/t1 for h0 > 0 (H = h0/ts − t, φ = φ0 ln(ts − t/t1) (when h0 < 0). The three years WMAP data taken with the SNL survey[22] suggests that wDE = −1.06   . We have shown that choosing a range of parameter φ (which is amplified thanks to third order curvature term contribution) we can easily obtain the observed values of wDE for phantom as well as for non-phantom dark energy. We have demonstrated, in detail, the stability of dark energy solution. For non-phantom energy, in the large h0 limit, we presented analytical solution
+
+17
+
+which shows that one of the eigenvalues of the 3 3 perturbation matrix is real and negative where as the other two are purely imaginary, thereby, establishing the stability of solution (35). We have verified numerically that stability holds for all smaller and generic values of h0 in this case. The phantom dark energy solution corresponding to h0 < 0 turns out to be unstable. It is remarkable that string curvature corrections can account for late time acceleration and dark energy can be realized without the introduction of a field potential.
+It is shown how scalar-Gauss-Bonnet gravity may be reconstructed for any given cosmology. The corresponding scalar potentials for several dark energy cosmologies including quintessence, phantom, cosmological constant or oscil-latory regimes are explicitly found. This shows that having the realistic scale factor evolution, the principal possibility appears to present string-inspired gravity where such evolution is realized. It is explained how to transform scalar-Gauss-Bonnet gravity (even with account of third order curvature term) to modified Gauss-Bonnet gravity [26] which seems to pass the Solar System tests.
+Different forms of modified gravity are attempted recently (for a review, see [9]) to describe dark energy universe; these models provide a qualitatively simple resolution of dark energy/coincidence problems and deserve further con-sideration. It is quite likely that time has come to reconsider the basics of General Relativity at the late universe in the search of realistic modified gravity/dark energy theory.
+We should also mention that in the present study we have tested the background model against observations. The study of perturbations in the scenario discussed here is quite complicated and challenging and in our opinion it deserves attention; we defer this investigation to our future work.
+
+Acknowledgments
+
+The research of SDO is supported in part by the project FIS2005-01181 (MEC, Spain), by LRSS project N4489.2006.02 and by RFBR grant 06-01-00609 (Russia). MS thanks S. Panda, I. Neupane and S. Tsujikawa and SDO thanks M. Sasaki for useful discussions.
+
+
+A. Riess, et al., Astron. J. 116, 1009 (1998).
+S. Perlmutter et al., Astrophys. J. 517, 565 (1999).
+N. Straumann, arXiv:hep-ph/0604231.
+E. J. Copeland, M. Sami and S. Tsujikawa, arXiv:hep-th/0603057.
+T. Padmanabhan, Phys. Rept. 380, 235 (2003).
+J. E. Peebles and B. Ratra, Rev. Mod. Phys. 75, 559 (2003).
+L. Perivolaropoulos, arXiv:astro-ph/0601014.
+D. J. Eisenstein et al., Astrophys. J. 633, 560 (2005).
+S. Nojiri and S. D. Odintsov, arXiv:hep-th/0601213.
+S. Nojiri, S. D. Odintsov and M. Sasaki, Phys. Rev. D 71, 123509 (2005) [	].
+M. Sami, A. Toporensky, P. V. Tretjakov and S. Tsujikawa, Phys. Lett. B 619, 193 (2005) [	].
+T. Koivisto and D. F. Mota, arXiv: astro-ph/0606078.
+G. Calcagni, S. Tsujikawa and M. Sami, Class. Quant. Grav. 22, 3977 (2005) [	].
+I. Antoniadis, J. Rizos, K. Tamvakis, Nucl. Phys. B 415, 497 (1994) [	]; N. E. Mavromatos and
+J. Rizos, Phys. Rev. D 62, 124004 (2000); JHEP 0207, 045 (2002); Int. J. Mod. Phys. A 18, 57 (2003).
+M. Dehghani and M. Shamirzaie, arXiv:hep-th/0506227; M. H. Dehghani and R. B. Mann, arXiv:hep-th/0602243; T. Rizzo,
+.
+S. Nojiri and S. D. Odintsov, arXiv:hep-th/0506212;
+S. Capozziello, S. Nojiri and S. D. Odintsov, Phys. Lett. B 632, 597 (2006) [	];
+S. Capozziello, S. Nojiri and S. D. Odintsov, Phys. Lett. B634, 93 (2006) [	].
+V. Faraoni, Phys. Rev. D 70,044037 (2004); Ann. Phys. 317, 366 (2005).
+G. Calcagni, B. de Carlos and A. De Felice, arXiv:hep-th/0604201; A. De Felice, M. Hindmarsh and M. Trodden,
+.
+I. L. Buchbinder, S. D. Odintsov and I. L. Shapiro, Effective Action in Quantum Gravity, IOP, Bristol and Philadelphia, 1992.
+I. P. Neupane,	; I. P. Neupane, arXiv: hep-th/0605265.
+B. M. N. Carter and I. P. Neupane,	.
+
+D. N. Spergel et al., arXiv:astro-ph.0603449.
+S. Nojiri and S. D. Odintsov, Phys. Lett. B (2006)
+P. Apostolopoulos and N. Tetradis,
+S. Srivastava, arXiv:hep-th/0605010.
+.
+; I. Ya. Aref’eva and A. S. Koshelev, arXiv:hep-th/0605085;
+
+S. Nojiri and S. D. Odintsov, Phys. Rev. D 68, 123512 (2003) [arXiv:hep-th/0307288].
+
+18
+
+
+S. Nojiri and S. D. Odintsov, Phys. Lett. B631, 1 (2005) [
+S. D. Odintsov and S. Zerbini, Phys. Rev. D 73, 084007 (2006) [
+]; G. Cognola, E. Elizalde, S. Nojiri,
+]; S. Nojiri, S. D. Odintsov and
+
+O. G. Gorbunova, J. Phys. A (2006), [	].
+S. Capozziello, S. Nojiri, S. D. Odintsov, and A. Troisi,	.
+
+/
+
+
+
+
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/1752833
+
+Dark energy exponential potential models as curvature quintessence
+
+Article in Classical and Quantum Gravity · July 2005
+DOI: 10.1088/0264-9381/23/4/009 · Source: arXiv
+
+
+
+
+CITATIONS
+41
+READS
+25
+
+
+
+authors, including:
+
+
+Salvatore Capozziello University of Naples Federico II
+539 PUBLICATIONS 11,788 CITATIONS
+Vincenzo Fabrizio Cardone National Institute of Astrophysics
+99 PUBLICATIONS 2,664 CITATIONS
+
+
+/	/
+
+C. Rubano
+INFN - Istituto Nazionale di Fisica Nucleare
+62 PUBLICATIONS 1,079 CITATIONS
+
+
+
+Some of the authors of this publication are also working on these related projects:
+
+Possible Gamma-Ray Burst radio detections by the Square Kilometre Array. New perspectives View project
+CANTATA - Cosmology and Astrophysics Network for Theoretical Advances and Training Actions - COST Action CA15117. View project
+
+Dark energy exponential potential models as curvature quintessence
+S. Capozziello1, V.F. Cardone2, E. Piedipalumbo1, C. Rubano1∗
+1Dipartimento di Scienze Fisiche, Univ. di Napoli ”Federico II”, and INFN, Sez. di Napoli, Compl. Univ. di Monte S. Angelo, Ed. N, via Cinthia, 80121 - Napoli, Italy 2Dipartimento di Fisica ”E.R. Caianiello”, Univ. di Salerno,
+and INFN, Sez. di Napoli, Gruppo Coll. di Salerno, via S. Allende, 84081 - Baronissi (Salerno), Italy
+It has been recently shown that, under some general conditions, it is always possible to find a fourth order gravity theory capable of reproducing the same dynamics of a given dark energy model. Here, we discuss this approach for a dark energy model with a scalar field evolving under the action of an exponential potential. In absence of matter, such a potential can be recovered from a fourth order theory via a conformal transformation. Including the matter term, the function f (R) entering the generalized gravity Lagrangian can be reconstructed according to the dark energy model.
+PACS numbers: 98.80.-k, 04.50+h, 98.80.Jk, 98.80.Es
+
+
+INTRODUCTION
+
+The era of precision cosmology has opened the way to a new picture of the universe depicted as a spatially flat manifold with a subcritical matter content undergoing a phase of accelerated expansion. Although totally un-expected only few years ago, this scenario is nowadays fully accepted as the standard one, thanks to the im-pressive amount of astrophysical evidences on different scales. The anisotropy spectrum of cosmic microwave background radiation [1, 2], the SNeIa Hubble diagram [3], the large scale structure [4] and the matter power spectrum determined by the Lyα forest data [5] repre-sent observational cornerstones that put on firm grounds the picture of this kind of universe model.
+While observationally well founded, this scenario is plagued by the unsolved puzzle of dark energy, the neg-ative pressure fluid which seems to be necessary to both close the universe and drive its accelerated expansion. Investigating the nature and the properties of this mys-terious component is one of the most exciting problems of modern cosmology, with proposals ranging from the clas-sical cosmological constant [6], to scalar field quintessence
+[7] and unified dark energy models in which a single fluid with an exotic equation of state accounts for both dark energy and dark matter [8, 9, 10].
+Notwithstanding the strong efforts made to solve this puzzle, none of the proposed explanations is fully satis-factory and free of problems. This disturbing situation has motivated much interest towards radically different approaches to the problem of dark energy. After all, dark energy is usually introduced only as a tool to explain the cosmic acceleration, while there is no direct evidence of its existence as a separate fluid. Motivated by this con-sideration, it has been suggested that cosmic speed up could be an evidence for the need of new physics rather than a new fluid. Much interest has then been devoted,
+for example, to models according to which standard mat-ter is the only physical ingredient, while the Friedmann equations are modified as in the Cardassian expansion [11], the Dvali - Gabadadze - Porrati scenario [12] or the improved renormalization group approach [13].
+In this same framework, higher order theories of grav-ity also represent a valid alternative to the dark energy approach. In these models, also referred to as curvature quintessence [14], the gravity Lagrangian is generalized by replacing the Ricci scalar curvature R with a generic function f (R), so that an effective dark energy - like fluid appears in the Friedmann equations and drives the ac-celerated expansion. Reasons for considering non linear curvature terms in the gravity Lagrangian can be found, for instance, in quantum effects on curved spacetimes or in certain low energy limits of string/M theories. More-over, early time inflationary behaviours can be naturally recovered from nonlinear gravity Lagrangians thus fur-ther motivating to study possible effects of such terms on the late time universe expansion. Different models of this kind have been explored and tested against observa-tions also considering the two possible formulations that are obtained adopting the metric [14, 15, 16, 17] or the
+Palatini [18, 19, 20] formulations.
+Recently, it has been shown [21] that, under some quite general conditions, the dynamics (i.e., the scale factor and the expansion rate) of a given dark energy model may be, in principle, reproduced as a byproduct of a f (R) theory of gravity1. The method developed in [21] makes it possible to derive the f (R) theory which reproduces a given H(z) and represents therefore a sort of bridge be-tween two physically different scenarios. Here, we apply the method to a quintessence model where the evolution of the scalar field is determined by an exponential poten-tial [23, 24]. Since this model has been shown to fit well a large set of observational constraints [25, 26, 27], we
+
+
+/
+
+
+
+
+∗Corresponding author : V.F. Cardone, winny@na.infn.it.
+1 See also [22] for some comments on the uniqueness of the recon-struction in the matter only case.
+
+2
+
+
+are thus able to recover a f (R) theory that reproduces the same data set with the same accuracy, so being mo-tivated a posteriori and showing that the two approaches are phenomenologically equivalent.
+The plan of the paper is as follows. In Sects. II and III, we shortly review the main features of the dark energy model and of the curvature quintessence scenario, respec-tively. In Sect. III, the procedure adopted to recover the f (R) theory representing the higher order counterpart of a given dark energy model is presented. In Sect. IV, we use conformal transformations to show the equivalence between a class of f (R) theories and a given scalar field model with exponential potential. Since this equivalence
+
+
+2 2 (3H0 − 2) τ 2 + 4 − 3H0
+H = 3τ [2 (3H0 − 2) τ 2 + 4 − 3H0]	(4)
+with τ = t/t0, t0 the present age of the universe and H0 the Hubble constant in units of t0 and hereon the sub-script 0 will refer to quantities evaluated today. Taking t0 as unit of time, the model is fully characterized by the parameter H0. In particular, the present day matter density parameter turns out to be [27] :
+
+2(4 − 3H0)
+
+only holds in absence of matter, Sect. IV presents the re-
+sults obtained applying the method outlined in Sect. III
+ΩM =
+9H2
+,	(5)
+
+to recover the f (R) Lagrangian corresponding to the ex-ponential potential model in presence of the matter term. Some caveats related to our technique are commented upon in Sect. V, where we also summarize and conclude.
+
+THE EXPONENTIAL POTENTIAL DARK ENERGY MODEL
+
+A standard recipe to explain the observed cosmic accel-eration consists in considering a scalar field ϕ minimally coupled to gravity yielding a homogenously distributed fluid with a negative equation of state. The energy den-sity and pressure for such a fluid read2
+which, for the best fit value H0 = 0.97 [27], gives ΩM ≃
+0.26, in very good agreement with recent estimates.
+
+
+CURVATURE QUINTESSENCE
+
+Much interest has been recently devoted to the so called curvature quintessence according to which the uni-verse is filled by pressureless dust matter only and the ac-celeration is the result of the modified Friedmann equa-tions obtained by replacing the Ricci scalar curvature R with a generic function f (R) in the gravity Lagrangian. The Friedmann equations therefore read [14, 15] :
+
+
+
+ρ = 1 ϕ˙2 + V (ϕ)
+H2 =
+ ρm 
+′
+
++ ρcurv
+,	(6)
+
+ pϕ = 1 ϕ˙2 − V (ϕ)
+(1)
+3  f (R)
+
+
+
+with an overdot denoting derivation with respect to cos-mic time t and V (ϕ) the self interaction potential. As it is clear, the choice of V (ϕ) plays a key role in determining
+a¨
+/ + H
+a
+
+= −wcurvρcurv ,	(7)
+
+the dynamics of the universe.
+As an interesting application, we consider the simple exponential potential [23, 24, 25, 26, 27] :
+where the prime denotes derivative with respect to R,
+ρcurv is the energy density of an effective curvature fluid
+given as :
+
+
+
+V (ϕ) ∝ exp −r 3 ϕ!	(2)
+
+ρ	=	1	 1
+
+
+′	˙ ′′	  ,
+
+curv
+2
+
+/
+f ′(R)
+/ [f (R) − Rf (R)] − 3HRf
+2
+(R)
+
+(8)
+
+which presents the nice feature that the corresponding Friedmann equations may be analytically solved. We re-
+and the barotropic factor of the curvature fluid is :
+
+fer the interested reader to [23], while here we only report
+
+/
+¨ ′′	˙ h ˙ ′′′	′′	i
+
+flat universe, the scale factor a and the Hubble parameter
+H = a˙/a read [23, 27] :
+wcurv = −1 +
+[f (R) − Rf ′(R)] /2 − 3HR˙ f ′′(R)	(9)
+
+
+
+a3 = (3H
+
+/
+— 2)τ 2 + 4 − 3H  τ  ,	(3)
+Assuming that there is no interaction between matter and curvature terms, the continuity equation for ρcurv
+
+/
+
+
+
+/
+
+ρ˙	+ 3H(1 + w	)ρ
+3H2ΩM R˙ f ′′(R)
+=
+a−3 (10)
+
+2 We use here natural units such that 8πG
+= c = 1.
+curv
+curv
+curv	′	2
+
+N	[f (R)]
+
+3
+
+
+which is identically satisfied as can be easily shown using Eq.(6) and expressing the scalar curvature R as function of the Hubble parameter :
+R = −6 H˙ + 2H2  .	(11)
+
+Combining Eqs.(6) with Eq.(7) and using the definition of H, one finally gets the following master equation for the Hubble parameter [21] :
+
+H3 = R˙ .	(16)
+where R is given by Eq.(11). In order to integrate Eq.(13), we need to specify boundary conditions that are more conveniently assigned at the present time. We slightly generalize here the discussion presented in CCT. First, let us remember that, in a fourth order theory, we may define an effective gravitational constant as Geff = GN /f ′(R), with GN the usual Newtonian gravitational
+
+˙	  1	 n	2
+−3	¨ ′′
+constant. Its rate of variation will be given as :
+
+h	′′′
+′′	i,
+
+/
+
+G˙ eff
+/
+
+/
+
+1 f ′′(R) dR
+
+/
+
+
+
+Inserting Eq.(11) into Eq.(12), one ends with a fourth order nonlinear differential equation for the scale factor a(t) that cannot be analitically solved also for the sim-plest cases (for instance, f (R) ∝ Rn unless dust matter contribution is discarded). Moreover, although techni-cally feasible, a numerical solution of Eq.(12) is plagued by the large uncertainties on the boundary conditions (i.e., the present day values of the scale factor and its derivatives up to the third order) that have to be set to find out a(t) by solving Eq.(12).
+Given these mathematical difficulties, a different ap-proach has been proposed in [21] (hereafter CCT) where Eq.(12) is considered as a way to determine f (R) rather than a(t). Rearranging the different terms suitably, CCT
+obtained a linear third order differential equation for f in
+It is quite natural to assume that the effective and the Newtonian gravitational couplings take the same values today, so that we get the condition :
+
+′
+f (R0) = 1 .	(18)
+Evaluating Eq.(17) for t = t0 (i.e., τ = 1), we may deter-mine f ′′(R0) provided an estimate of (G˙ eff /Geff )t=t is given. Since in our theory GN is constant, we may assume that the measurements of the variation of GN
+[28] actually refers to Geff and use these results to get an estimate of (G˙ eff /Geff )t=t0 . We thus take as our boundary condition :
+
+terms of the redshift z = 1/a − 1 (having set a0 = 1) that
+′′	 G˙
+eff !
+ dR −1
+
+can be easily solved numerically for a given H(z). By this method, it is then possible to find out which f (R)
+f (R0) = −t0
+
+/
+Geff
+dτ
+obs
+,	(19)
+
+theory reproduces the same dynamics of a given dark en-ergy model, thus showing a formal equivalence between these two radically different approaches.
+CCT developed the method using the redshift z as in-
+
+/
+having used Eq.(18). Finally, inserting Eqs.(18) and (19) into Eq.(8) and then in (6) evaluated today, we get :
+
+2	 R0   ′
+
+/
+
+
+rather than t. However, this is not the case for the mod-
+els considered here, so that we rewrite the main formulae in CCT using t as integration variable. The equation
++ 6H0	dR
+dt
+
+
+t=t0
+f ′′
+(R0) .
+(20)
+
+determining f (t) is then3 :
+It is then straightforward to show that the following
+boundary conditions descend from Eqs.(19) - (20) :
+
+
+3	2
+
+d f	d f	df
+H3(t)	+ H2(t)	+ H1(t)
+= −3H2Ω
+R˙ 2a−3(t) ,
+  df 
+  dR	′
+
+
+with :
+dt3
+dt2
+dt	0 M
+(13)
+=
+dt t=t0
+
+dt	t=t0
+f (R0) ,	(21)
+
+H1 = 2H˙ R˙ + HR¨ + 2R¨2R˙ −1
+···
+— R ,	(14)
+  d2f 
+  dR  2
+′′	 d2R	′
+
+dt2
+
+t=t0
+f
+dt	t=t0
+(R ) +
+dt2
+
+t=t0
+f (R )
+(22)
+
+H2 = − 2R¨ + HR˙  ,	(15)
+
+
+3 With an abuse of notation, we write f (t) rather than f [R(t)].
+that have to be used, together with Eq.(20), to numer-ically solve Eq.(13). Combining the solution thus ob-tained for f (t) with R(t) evaluated through Eq.(11), one finally finds f (R) thus recovering the higher order theory that mimicks the assigned dark energy model. We refer the reader to [21] for some interesting examples.
+
+
+
+CONFORMAL EQUIVALENCE
+
+The procedure described above may be easily imple-mented in the case of the exponential potential model presented in Sect. II. Neglecting the matter term (i.e., setting ΩM = 0), it is however possible to show that there exists a more intimate relation between f (R) the-ories and a scalar field evolving under the action of an exponential potential.
+To this aim, let us remember that, in general, given a f (R) theory in the Jordan frame, the conformal trans-formation
+gµν → g˜µν = Ω2gµν ,
+
+with Ω ≡ exp (ω) = f ′(R), leads, in the Einstein frame, to a minimally coupled scalar field theory whose self in-teraction potential is given by [29] :
+4
+
+having used df /dϕ = (df /dR)(dR/dϕ) = f ′(R)dR/dϕ.
+Now, it can be easily shown that posing
+
+dV
+= −λV ,	(28)
+dϕ
+with λ an arbitrary constant, leads to f = f0Rn, where
+f0 is an integration constant and n = (4K −λ)/(2K −λ).
+Therefore, starting now from
+
+
+f (R) ≡ Rn ,	(29)
+the potential in Eq.(25) becomes
+V = V (R) = 1 − n R2−n ⇒
+2n2
+
+
+
+f (R) − Rf ′(R)
+− n	 n 
+
+V (ϕ˜) =
+2 [f ′(R)]
+2	,	(23)
+V = V (ϕ) =
+|n| 1−n exp(−λϕ) ,	(30)
+2
+
+where tilted quantities refer to the Einstein frame. Let us now consider the particular choice :
+
+α
+f (R) ≡ R + /	(24)
+R
+and recall that the conformal factor may also be rescaled as ω = Kϕ˜ with K an (up to now) arbitrary constant [30]. Imposing f ′(R) = exp (ω) and solving with respect to R, the potential (23) may be rewritten as :
+with λ = 2K(n − 2)/(n − 1).
+
+/	/
+Assuming K ≡	1/6 and λ ≡	3/2 gives
+
+n = −1 ,	(31)
+so that we get the nice result that a higher order theory of gravity (without matter, anyway) with
+
+1
+
+V (ϕ) = √|α| exp (−4Kϕ)√exp (2Kϕ) − 1 ,	(25)
+f (R) ≡ /
+R
+(32)
+
+
+/
+2
+where we have assumed α < 0 and hereon we will use nontilted quantities for simplicity. Choosing K = 1/6 and considering the limit exp (2Kϕ) >> 1, the potential
+(25) asymptotically behaves as :
+
+3
+V (ϕ) ≃ exp  −	/ϕ	,
+2
+
+which is just the exponential potential model we are con-
+is conformally transformed into a usual minimally cou-
+pled general relativistic theory with a massive scalar field
+ϕ only, whose potential is
+
+V (ϕ) = exp −r 3 ϕ! .	(33)
+
+By means of conformal transformations, it is then possi-ble to find out an intimate link between two different sce-narios, namely a particularly simple class of f (R) theories
+
+sidering in Eq.(2).
+′	and a minimally coupled scalar field with specific expo-
+
+On the other hand, starting directly with f (R) =
+exp (2Kϕ), the potential in Eq.(25) is soon written as
+
+f − R exp (2Kϕ)
+nential potential. It is worth stressing, however, that the above results only hold in the absence of matter. While it is still possible to work out a conformal transformation also in presence of matter, the self interaction potential
+
+
+
+so that
+
+
+
+
+dV
+V =	,	(26)
+exp (4Kϕ)
+
+
+
+Rf ′(R) − 2f (R)
+= K ×	,	(27)
+may be no more expressed as in Eq.(23). Although such a problem may be in principle escaped by resorting to nu-merical methods, it is nevertheless problematic to assess the meaning of conformal transformations, since there is a still open debate regarding the physical equivalence of two conformally (and hence mathematically) equivalent
+
+dϕ	′	2
+theories (see [30] and references therein).
+
+[f (R)]
+
+5
+
+
+
+
+
+
+
+
+
+
+
+
+	        
+
+
+
+
+
+
+
+
+
+
+
+
+/
+				
+
+
+10–5 c x c 1.5
+
+
+80
+
+60
+
+40
+
+20
+
+0
+0	2	4	6	8
+log Rs
+
+
+
+2.4
+2.2
+2
+1.8
+1.6
+1.4
+1.2
+1
+
+0.1 c x c 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.5 5 7.5 10 12.5 15 17.5
+Rs
+
+
+
+
+
+
+
+
+
+
+
+
+
+–
+–
+–
+
+FIG. 2: Reconstructed f (R) for the exponential potential model. In both panels, η ≡ (f/f0 )/(R/R0 ) is plotted for sake of clarity. Left panel shows the result of the reconstruc-
+−5
+
+
+
+tion process over the full time range 10
+–
+≤ τ ≤ 1.5, so that
+
+
+
+				
+
+
+				
+
+we report log Rs (with Rs ≡ R/R0 ) on the abscissa for sake of clarity. In the right panel, we zoom on the epoch 0.1 ≤ τ ≤ 1
+corresponding to 0 ≤ z ≤ 4.7. Note that R is a decreasing
+
+FIG. 1: Reconstructed f (t) as function of τ = t/t0 . For clarity, we plot lf ≡ log (f/f0 ) rather than f itself. The upper left panel refers to the period near the recombination epoch, while the lower right panel extends in the near future.
+
+
+f (R) AND EXPONENTIAL POTENTIAL
+
+The dark energy model presented in Sect. II has nice features both from the mathematical and the physical points of view. Indeed, the main dynamical quantities
+function of t so that the time increases towards right.
+
+
+function of the dimensionless time τ . It is, however, more interesting to look at Fig. 2, where η ≡ (f/f0)/(R/R0) is plotted in terms of the scalar curvature R normalized to its present day value R0. Although an analytical so-lution has not been obtained, we have found that the numerically reconstructed Lagrangian may be very well approximated4 as :
+
+(such as the scale factor and the expansion rate) may be written analytically, while it very well matches the SNeIa Hubble diagram, the growth index and the posi-tion of the peaks in the CMBR anisotropy spectrum. It is, therefore, interesting to apply the method outlined above to find out the f (R) counterpart of this model. To this aim, we just need to insert the expressions for
+R f (R) ≃ ηsf0	R0
+× (1 + "η1
+
+
+
+R	α
+R0
+
+
+
+
++ η2
+
+
+
+   R  −β #
+
+
+
+
+(34)
+   R  ) ,
+
+a(t) and H(t) into Eqs.(13) - 21) and numerically deter-mine first f (t) and then f (R). As a preliminary step, we set H0 = 0.97 as obtained in [27].  To estimate
+f ′′(R0) through Eq.(19), we use t0 = 13.7 Gyr [2] and
+where the parameters (ηs, η1, η2, α, β) depend on the value adopted for f ′′(R0). For our case, it is :
+
+(Ge˙f f
+/Geff
+)obs
+= 1.6×10−12 yr−1 that is the upper limit
+(ηs, η1, η2, α, β) = (1.07, 0.029, 0.810, 0.232, 0.221) .
+
+determined through heliosismological studies [31]. Note
+that this choice is somewhat arbitrary since there are a lot of different estimates obtained with radically dif-ferent methods [28]. For instance, using Lunar Laser Ranging, Williams et al. [32] have recently obtained G˙ eff /Geff = (4 ± 9) × 1013 yr−1. Fortunately, most of the estimates available in literature are all consistent within the uncertainties so that we are confident that any bias is not introduced in the reconstruction process.
+Before discussing the results, there is a conceptual point to clarify. The method described in Sect. III rep-resents a sort of bridge between two different scenarios. In particular, their matter contents could be different, so
+that we should define both Ωcurv and Ωsf to denote this
+The approximating function in Eq.(33) indeed shows to be a useful tool to discuss the main features of the recon-structed f (R).
+First, let us note that, for R >> R0 (that is, for very small τ ), the second term in the square brackets may be neglected and f (R) ∼ R + η1R1.23 ln R. This model can be particularly interesting in the early universe, where it allows inflation [33]. In our case, however, this regime is achieved also during the recombination epoch, when nucleosynthesis took place. In this limit, one should ex-pect that standard general relativity (i.e., f (R) ∝ R) is recovered in order to not alter the successful theory of primordial nucleosynthesis. Actually, the formation of
+light elements depends on the physics of nuclear reactions
+
+M	M
+
+quantity in the two different models. In principle, there is
+no reason why Ωcurv = Ωsf should hold. However, since
+that, of course, is independent of the form of f (R) and
+
+M	M
+
+Ωsf is close to the fiducial value (ΩM ∼ 0.3) suggested by model independent estimates (e.g., from galaxy clusters
+abundance), we take Ωcurv = Ωsf .
+
+/
+
+4 Defining ǫ ≡ [f (R) − fapp(R)] /f (R), with f and fapp the nu-
+
+M	M	merically reconstructed and the approximating f (R), we get
+
+The reconstructed f (t) for the exponential potential
+model is shown in Fig. 1, where we plot log (f/f0) as
+|ǫ| ≤ 0.06 over the full time range 10−5 ≤ τ ≤ 1, which is indeed quite satisfactory.
+
+6
+
+
+on the expansion rate H(t) setting the beginning and the end of the nucleosynthesis process. This latter ingredient is the same in our model as in the standard recipe, since f (R) has been reconstructed in such a way that H(t) has the same functional dependence on t as in the model with a scalar field and no departures from general rela-tivity. As such, we conclude that having a nonstandard f (R) during the recombination epoch does not affect the process of formation of primordial elements.
+As the time increases, the f (R) never approaches a linear function, so that the general relativity Lagrangian f (R) ∼ R is never approached. In particular, for 0.05 ≤ τ ≤ 0.5 (i.e., 1 ≤ z ≤ 8), both terms in Eq.(33) con-tribute to the Lagrangian giving rise to large departures from the standard model. Considering that the typical galaxy formation redshift is of order zF ∼ 2 ÷ 5, it could thus be interesting to investigate whether this could have any impact on the theory of galaxy formation.
+For 0.5 ≤ τ ≤ 1 (i.e., for z ≤ 0.8, part of the redshift range probed by the SNeIa Hubble diagram), the best fitting function significantly differs from standard general relativity as expected. Moreover, we note that f (R) is neither a simple power law in R (or a combination of power law functions), nor a logarithmic one. This could be surprising since both these classes of Lagrangians have been widely discussed in literature and found to be in agreement with the data. Actually, it is well known that the data do not select a unique class of models (dark energy - like or higher order gravity theories). Moreover, the reconstructed f (R) predicts the same dynamics of the scalar field model with the exponential potential, so that we are sure that it fits the data equally well. However, it is intriguing to note that the approximating function is a combination of both (power law and logarithmic) classes of f (R) theories.
+
+
+CONCLUSIONS
+
+Summarizing, we may conclude that the f (R) theory reconstructed starting from the exponential potential is able to solve the puzzle of cosmic acceleration resorting to corrections to general relativity that are significative both in the early and late universe. As we have discussed, however, considering f (R) ∝ R during the nucleosynthe-sis epoch is not mandatory to get the correct abundance of light nuclei, so that this argument may not be used to reject the reconstructed f (R)’s.
+On the other hand, the impact of strong departures from general relativity during the galaxy formation epoch should be investigated with much care. Actually, while the time scale of the process is unaltered since the ex-pansion rate of the universe is the same, the physics of the gravitational collapse giving rise to the protogalactic clouds may be different in a fourth order theory with re-spect to quintessence models (independent of the shape of the potential). Indeed, the Newtonian potential ob-tained considering the weak field limit of a particular
+class of these theories (namely f (R) ∝ Rn) is modified and a corrective term as rα has to be added to the 1/r Newtonian term [34]. However, it is worth noting that it is indeed possible that the strength of the correction is too low to significantly alter the process, so that any difference could be hardly detected.
+There is a subtle point to be discussed inherently to the the peculiar nature of the reconstruction procedure we have employed. As explained in Sect. III, we have set boundary conditions at the present time and integrated Eq.(13) backward in time. As an alternative procedure, one could give boundary conditions at some very far point in the past and then integrate forward. Indeed, a pos-sible strategy could be to impose that f (Rin) ∼ R (and hence f ′(Rin) = 1, f ′′(Rin) = 0) with Rin = R(τin) and τin ∼ 10−5, that is, to impose that standard general relativity is recovered during the recombination epoch. Performing such a reconstruction, we infact get a f (R) function that departs from the general relativistic one (f (R) ∼ R) only in the recent epochs, so that all the suc-cessful results of the standard theory are automatically retained. Although such a feature is highly desirable, this approach is manifestly biased by theoretical prejudices. After all, there is no aprioristic reason why f (R) should be linear in R on scales that have never been directly probed by observations.
+It is also interesting to stress that the reconstructed f (R) is by no way unique since different boundary condi-tions lead to diverse f (R) theories, all sharing the feature of giving rise to the same expressions for the Hubble pa-rameter and the scale factor. This result does not come as a surprise. For each f (R), there is a different La-grangian giving rise to a particular set of field equations. Since these latter are nonlinear, there may be, in gen-eral, more than one solution, and it is thus not unlikely that a given solution is common to more than one f (R) theory. Going backward from solutions to f (R) there-fore cannot uniquely determine f (R), and this explains why using different boundary conditions leads to differ-ent higher order theories. We stress, however, that this cannot be considered as a weakness of our reconstruction procedure. Our aim is, in fact, to find out a class of f (R) theories able to reproduce a given cosmological dynam-ics, and this is indeed what we do successfully. Choosing among the possible theories can only be done by care-fully investigating what are the most suitable boundary conditions. This is outside the aim of the present work, but will be discussed in a forthcoming paper.
+While the reconstructed f (R) correctly works on cos-mological scales, its consequences on the Solar system dy-namics are worth investigating. Actually, this is an open problem for all the class of fourth order theories and, up to now, no definitive conclusions have been drawn. A possible way out is to evaluate PPN parameters for the case of f (R) gravity exploiting the analogy between fourth order theories and scalar - tensor ones. Such an analysis has been indeed performed by some of us [35] and will be presented in a forthcoming work.
+
+7
+
+
+As a concluding remark, we would like to emphasize the resulting substantial equivalence between two radi-cally different scenarios, namely scalar field quintessence and fourth order theory of gravity. Since it is possible to find f (R) in such a way that the same dynamics is predicted by the two models, infact, we are in presence of an intrinsic degeneracy that cannot be broken by ob-servations probing only dynamical quantities (but see the discussion in the concluding section of [21]). While this is bad news for observational cosmology, it is a call to army for theoreticians to look for suitable and self consistent
+motivations to choose between these two equivalent ap-proaches to the dark energy puzzle.
+
+
+
+Acknowledgments
+
+We warmly thank Paolo Scudellaro, Crescenzo Tortora and Antonio Troisi for the discussions and a careful read-ing of the manuscritpt.
+
+
+/
+
+
+P. de Bernardis et al., Nature, 404, 955, 2000; R. Stompor et al., ApJ, 561, L7, 2001; C.B. Netterfield et al., ApJ, 571, 604, 2002; R. Rebolo et al., MNRAS, 353, 747, 2004
+D.N. Spergel et al., ApJS, 148, 175, 2003
+A. G. Riess et al., AJ, 116, 1009, 1998; S. Perlmutter et
+al., ApJ, 517, 565, 1999; R.A. Knop et al., ApJ, 598, 102,
+2003; J.L. Tonry et al., ApJ, 594, 1, 2003; B.J. Barris et
+al., ApJ, 602, 571, 2004; A.G. Riess et al., ApJ, 607, 665,
+2004 (R04)
+S. Dodelson et al., ApJ, 572, 140, 2002; W.J. Percival et al., MNRAS, 337, 1068, 2002; A.S. Szalay et al., ApJ, 591, 1, 2003; E. Hawkins et al., MNRAS, 346, 78, 2003;
+A.C. Pope et al., ApJ, 607, 655, 2004
+R.A.C. Croft et al., ApJ, 495, 44, 1998; P. McDonald et al., astro - ph/0405013, 2004
+S.M. Carroll, W.H. Press, E.L. Turner, ARAA, 30, 499, 1992; V. Sahni, A. Starobinski, Int. J. Mod. Phys. D, 9, 373, 2000
+P.J.E. Peebles, B. Rathra, Rev. Mod. Phys., 75, 559, 2003; T. Padmanabhan, Phys. Rept., 380, 235, 2003
+A. Kamenshchik, U. Moschella, V. Pasquier, Phys. Lett. B, 511, 265, 2001; N. Bili´c, G.B. Tupper, R.D. Viollier, Phys. Lett. B, 535, 17, 2002; M.C. Bento, O. Bertolami,
+A.A. Sen, Phys. Rev. D, 67, 063003
+G.W. Gibbons, Phys. Lett. B, 537, 1, 2002; T. Padman-
+abhan, Phys. Rev. D, 66, 021301, 2002; T. Padmanab-
+han, T.R. Choudury, Phys. Rev. D, 66, 081301, 2002;
+J.S. Bagla, H.K. Jassal, T. Padmanabhan, Phys. Rev. D, 67, 063504, 2003; E. Elizalde, S. Nojiri, S.D.Odintsov, hep - th/0405034, 2004
+V.F. Cardone, A. Troisi, S. Capozziello, Phys. Rev. D, 69, 083517, 2004; S. Capozziello, A. Melchiorri, A. Schirone,
+Phys. Rev. D, 70, 101301, 2004
+K. Freese, M. Lewis, Phys. Lett. B, 540, 1, 2002; K. Freese, Nucl. Phys. Suppl., 124, 50, 2003; Y. Wang, K.
+Freese, P. Gondolo, M. Lewis, ApJ, 594, 25, 2003
+G.R. Dvali, G. Gabadadze, M. Porrati, Phys. Lett. B, 485, 208, 2000; G.R. Dvali, G. Gabadadze, M. Kolanovic,
+F. Nitti, Phys. Rev. D, 64, 084004, 2001; G.R. Dvali,
+G. Gabadadze, M. Kolanovic, F. Nitti, Phys. Rev. D, 64, 024031, 2002; A. Lue, R. Scoccimarro, G. Starkman, astro - ph/0401515, 2004
+A. Bonanno, M. Reuter, Phys. Lett. B, 527, 9, 2002; A. Bonanno, G. Esposito, C. Rubano, Gen. Rel. Grav., 35, 1899, 2003
+S. Capozziello, Int. J. Mod. Phys. D, 11, 483, 2002
+S. Capozziello, S. Carloni, A. Troisi, Recent Research
+Developments in Astronomy and Astrophysics, Research Signpost Publisher, astro - ph/0303041, 2003
+S. Capozziello, V.F. Cardone, S. Carloni, A. Troisi, Int. J. Mod. Phys. D, 12, 1969, 2003; S. Capozziello,
+V.F. Cardone, M. Francaviglia, astro - ph/0410135, Phys. Rev. D submitted, 2004; S. Carloni, P.K.S. Dunsby, S.
+Capozziello, A. Troisi, gr - qc/0410046, 2004
+S. Nojiri, S.D. Odintsov, Phys. Lett. B, 576, 5, 2003; S. Nojiri, S.D. Odintsov, Mod. Phys. Lett. A, 19, 627, 2003;
+S. Nojiri, S.D. Odintsov, Phys. Rev. D, 68, 12352, 2003;
+S.M. Carroll, V. Duvvuri, M. Trodden, M. Turner, Phys.
+Rev. D, 70, 043528, 2004
+D.N. Vollick, Phys. Rev. 68, 063510, 2003; X.H. Meng, P.
+Wang, Class. Quant. Grav., 20, 4949, 2003; E.E. Flana-
+gan, Phys. Rev. Lett. 92, 071101, 2004; E.E. Flanagan, Class. Quant. Grav., 21, 417, 2004; X.H. Meng, P. Wang, Class. Quant. Grav., 21, 951, 2004; G.M. Kremer, D.S.M.
+Alves, Phys. Rev. D, 70, 023503, 2004
+S. Nojiri, S.D. Odintsov, Gen. Rel. Grav., 36, 1765, 2004;
+X.H. Meng, P. Wang, Phys. Lett. B, 584, 1, 2004
+G. Allemandi, A. Borowiec, M. Francaviglia, Phys. Rev. D, 70, 043524, 2004; G. Allemandi, A. Borowiec, M.
+Francaviglia, Phys. Rev. D, 70, 103503, 2004; G. Alle-mandi, A. Borowiec, M. Francaviglia, S.D. Odintsov, gr - qc/0504057, 2005
+S. Capozziello, V.F. Cardone, A. Trosi, Phys. Rev. D, 71, 043503, 2005
+T. Multamaki, I. Vilja, astro - ph/0506692, 2005
+C. Rubano, P. Scudellaro, Gen. Rel. Grav., 34, 307, 2001
+C. Rubano,	P.  Scudellaro,	E. Piedipalumbo,	S.
+Capozziello, M. Capone, Phys. Rev. D, 69, 103510, 2004
+M. Pavlov, C. Rubano, M. Sazhin, P. Scudellaro, ApJ, 566, 619, 2002
+C. Rubano, M. Sereno, MNRAS, 335, 30, 2002
+M. Demianski, E. Piedipalumbo, C. Rubano, C. Tortora,
+A&A, 431, 27, 2005
+J.P. Uzan, Rev. Mod. Phys., 75, 403, 2003
+K. Maeda, Phys. Rev. D, 39, 3159, 1989; S. Capozziello,
+R. de Ritis, A.A. Marino, Class. Quant. Grav., 14, 3243, 1997; H.J. Schmidt, gr qc/0407095, 2004
+G. Allemandi, M. Capone, S. Capozziello, M. Francav-iglia, hep-th/0409198, 2004
+D.B. Guenther, L.M. Krauss, P. Demarque, ApJ, 498, 871, 1998
+J.G. Williams, S.G. Turyshev, D.H. Boggs, Phys. Rev.
+Lett., 93, 261101, 2004
+A.A. Starobinsky, Phys. Lett. B, 91, 99, 1980
+
+8
+
+
+S. Capozziello, V.F. Cardone, S. Carloni, A. Troisi, Phys. Lett. A, 326, 292, 2004
+S. Capozziello, A. Troisi, submitted to Int. J. Mod. Phys. D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Viiew publliicatiion stats
+
+Gene H Barbee
+December 21, 2015 revised January, 2017
+Original version viXra:1511.0185v1
+
+Dark Energy
+
+Abstract
+Observations of the universe’s expansion created discussion regarding dark energy. There is consensus that late stage expansion currently is more linear than the equation R=r0*(t/t0)^(2/3). Since this equation represents conversion of kinetic energy to potential energy and is a curve, Hubble data showing that late stage expansion is almost linear appears to violate energy conservation and require a dark (unknown) energy source. Two literature proposals (cosmological constant and quintessence) attempt to account for this unknown energy source.
+This paper presents calculations indicating that energy produced by stars causes the linear expansion curve. The analysis draws on data regarding the relative abundance of elements to determine the number of stars and their energy output. A calculation procedure for expansion was developed that allows one to add energy and predict its effect on late stage expansion. It was surprising that a small amount of energy has a large effect on expansion. At the same time, the required energy addition has only a small effect on current temperature (2.73K). Energy produced by stars is fusion energy and provides a physical alternative to dark energy. Current cosmology is based on mass with kinetic energy but includes a large fraction (0.719) of dark energy. The expansion curve, energy release points and associated temperature curve is presented. Analysis shows that although the density is 9.14e-27 kg/m^3, the mass fractions should be 0.5 normal and 0.5 dark.
+Background
+Expansion and cosmology parameters are currently based on differential radiometer projects known as COBE, WMAP [3][7][5], and Planck. They are compared to supernova data from Cmagic [5] that suggest an accelerating universe. After He4 fusion expansion is radiation driven R=r*t^0.5 but after decoupling the plasma clears and expansion follows R=r*t^(2/3). But R=r*t^(2/3) gives the wrong Hubble constant (slope of the expansion curve/divided by the radius at the present time equal to 2.26e-18/sec [7]). This means a second expansion component must be added, but what causes it? The graph below shows the problem. Data suggests the upper curve but this requires an unknown energy source. The concept “dark energy” is a placeholder and the author explored the possibility that energy produced by stars is the unknown energy source.
+
+/
+
+
+Exploration
+The dark sky temperature is 2.725K. However, recall that the WMAP and other radiometer projects blocked out light from stars since these photons originate from surfaces that are about 5780 K. Star formation starts at about z=16 (Rf/R-1) after the beginning. The average star is about 5e29 Kg [4] but there are potentially over 6e20 stars if their mass is 2e30 kg similar to our sun. The sun emits 2.37e39 MeV/second and will burn for 7-8 billion years. Since early star formation a lot of atoms have moved through a well-documented solar burning cycle. Our sun is mainly hydrogen but a supernova in our vicinity produced the heavier elements that make up the earth and other planets. Heavier elements are measured throughout the universe and NIST publishes data regarding elemental abundance. The universe is also mainly hydrogen but the abundance of Helium4 is uniformly 23-25%. It is widely accepted to be a result of primordial nucleosynthesis that occurred (in my analysis) at 549 seconds after the beginning. Deuterium, He3 and Li7 were also produced by primordial nucleosynthesis and their abundance provides a marker for our understanding of this period [12][18]. Fusion energy was produced by each element involved in star evolution and their measured abundance multiplied by their binding energy give us the total energy produced by stars. The table below shows the energy released by a few elements involved in star evolution [17].
+
+
+	
+	0.487
+	MeV stars
+	
+	fractional
+	Binding
+	
+	
+	
+	abundanc
+	Energy
+	9.29E-01
+	Mev total
+	
+	5.00E-07
+	2.490
+	4.15E-07
+	He3
+	
+	2.50E-01
+	7.075
+	4.42E-01
+	He4 prim
+	
+	
+	7.075
+	4.37E-01
+	He4 star
+	
+	6.00E-09
+	5.644
+	4.84E-09
+	Li7
+	
+	2.00E-09
+	6.492
+	1.44E-09
+	Be
+	
+	2.00E-09
+	6.952
+	1.26E-09
+	B11
+	
+	5.00E-03
+	7.681
+	3.20E-03
+	C12
+	
+	1.00E-03
+	7.477
+	5.34E-04
+	N14
+	
+	1.00E-02
+	7.977
+	4.99E-03
+	O16
+	
+	Primordial Helium4 fusion released 0.442 MeV/proton but much later the stars produced an additional 0.49 MeV/proton. Primordial fusion makes up most of the CBR but has been reduced to about 3e-10 MeV/proton by expansion (energy later=energy release/expansion ratio. Another
+0.49 MeV/proton was released after stars formed and is less reduced because the expansion ratio was only 15 for the earliest stars. About 0.44 of the 0.49 total is first stage H2He4 solar fusion as shown in the following calculation. The calculation is based on Wiki data solar output (2.37e39 MeV/sec) and 7e9 years of solar burn time. The other “burns” during the life cycle of stars (HeCOFe) [Wiki][11] are short lived and contribute the remaining 0.03 MeV of the energy produced by stars.
+Our goal is to determine the expansion energy available after stars form. We will base our estimate on stars that are similar to our sun. The first step is to determine the number of stars that have contributed to the 0.49 MeV/proton total as a function of time. There are 0.5*exp(180) protons (see section entitled “Recalculating parameters with a new critical density” below) each releasing 0.49 MeV. This large amount of energy is more than the total energy of the dark sky at
+2.73K and cannot be ignored.
+Since star formation rate increased resulted with time from z=16 and integration of the number of stars is shown below. Sensitivity to other formation rates was examined but results indicated the exact curve was not important to the final result.
+
+/
+
+
+Stars that form early have been burning a long time but there are not as many of these. Stars that form later haven’t burned as long but the total energy for all the stars can be calculated. Energy accumulates over time because there is no place for it to go. An incremental calculation was used with energy from the previous step reduced by the expansion ratio. The values are plotted below. The final step represents 0.49 MeV/proton. Most of this energy is used to raise the internal energy of stars.
+
+To understand how energy drives expansion, one must know the forces involved. We will use an approach that gives the force on each free proton. The energy will be an overall value reduced to a small representative value for each proton. I used this approach successfully to understand
+
+gravity [6][13] and call it cellular cosmology (Appendix 1). In cellular cosmology we deal with one proton circling another proton bound by gravity. The outer proton has kinetic energy associated with V below, but the forces have been scaled down by exp(90) between protons. We use exp(180) protons. In thee dimensions, the scale is now R/exp(60). The advantage is that we know some of the values. They are found in the proton mass model (see Appendix topic “Proton mass model”). One important value is the initial expansion kinetic energy, 10.15 MeV.
+
+
+Constructing the complete expansion curve
+We will start from the beginning and calculate the radius increase from R0 to Rh where He4 forms. We find values in the proton mass model that give the starting radius. It is related to values from the proton mass model, specifically E=2.732 MeV in the equations below.
+
+In a three dimensional universe exp(180/3) is the radius multiplier. The radius at the end of the duplication process is 7.22e-14 *exp(60)=8.24e12 meters [10].
+
+Stage 1: Rapid Expansion increases the radius from 8.24e12 to 7e16 meters
+
+The proton model above has been described many times [14]. We don’t know the relationship between time and radius. However direct expansion with time; i.e. R=R0*(time/time0)^1 works perfectly for this stage. I use a time scale that starts at the natural log value 45. But we must also know the units. The time I call cosmological time is one time around the circle 7.22e-14 meters at velocity C. Cosmological time equals 2*pi*7.22e-14/3e8=1.51e-21 seconds.
+Time0=exp(45)*1.51e-21=0.059 seconds. The time scale is constructed by adding small constant increments to 45. This defines the expansion curve from the beginning R0=8.25e12 to Rh=2e17 meters. Here is the relationship between radius and time:
+
+/
+The following chart shows the kinetic energy 10.15 MeV being converted to potential energy as a function of time.
+
+This increase in potential energy means that kinetic energy is reduced and is the low value 0.11 MeV at 1e17 meters expansion. This calculation is made possible by the use of the equations F=mV^2/R/exp(90) and Potential energy = integral F*dR.
+
+/
+
+
+He4 forms right after the temperature falls to 8e8 K and the energy released increases the temperature to 1e9 K [Appendix topic “Details of primordial nucleosynthesis”].
+Stage 2: Radiation driven expansion occurs from 2.07e17 meters to 3.06e21 meters where the plasma clears.
+
+The next part of the curve must match the curve at Rh (helium production).
+
+We construct the next part of the curve from Rh, the point where primordial He formed. This is predicted by the SAHA value 1 for deuterium which occurs at 8e8 K. There is agreement plasma
+
+exists and expansion is radiation dominated [19]. The physics of radiation driven expansion is a function of time to the 0.5 power [10]. That is, Rd=2.07e17/(3.19e13/549)^0.5=3.06e22 meters.
+Stage 3: Expansion increases the radius from 3.02e22 meters to 1.24e24 meters where star energy becomes important. R1=r0*t^(2/3) is the Friedmann [4] equation and can be derived from H^2=H0^2(fraction*(1-z)^3). R1 continues to the present time with R1=constant*time^(2/3).
+
+Stage 4: Energy from stars increases the radius beginning at 1.24e24 meters and continuing to the current radius at 4.02e25 meters.
+WMAP year 9 gives a Hubble constant of 2.6e-18/sec. The integration to 4.02e25 meters stops at this point because it yields the measured value. The universe would expand only to 3.14e25 meters without radiation from the stars. Details are under the heading “The effect of star energy on expansion”.
+Energy history summary
+Energy is available at the beginning and added in two additional places in the expansion curve. An initial kinetic energy of 10.15 MeV/proton comes from the proton mass model [1] [10](Appendix 1). The current energy can be calculated from the Boltzmann relationship; E=1.5*B*T, where B is 8.62e-11 MeV/K.
+Secondly He4 fusion releases 1.6 MeV/proton when He4 forms (called primordial nucleosynthesis in the literature). The temperature decreases to near it present value. Lastly, energy is added by star formation after radius 2e24 meters (z=15). This brings the temperature to the measured value 2.73 K.
+The arrows labelled reduced show the change in the energy value/proton due to expansion.
+
+
+
+	Summary of energy releases during expansion
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	Stage 1 start
+	Stage 2 start
+	Stage 3 start
+	Stage 4 start
+	Expanded Energy
+	
+	
+	Initial Energy
+	He4 fusion
+	r=r*t^(2/3)
+	Star energy
+	now
+	
+	
+	
+	
+	
+	
+	
+	(MeV/proton)
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	R meters
+	8.25E+12
+	2.00E+17
+	2.03E+21
+	6.70E+24
+	3.12E+25
+	no stars
+	
+	
+	
+	reduced
+	
+	
+	
+	
+	
+	MeV/proton
+	10.15
+	0.11
+	
+	
+	
+	
+	
+	MeV/proton
+	
+	0.555
+	reduced
+	
+	1.82E-10
+	
+	
+	MeV/proton
+	
+	
+	
+	e addition
+	1.71E-10
+	
+	
+	R delta (meters)
+	
+	
+	
+	8.70E+24
+	
+	
+	
+	
+	
+	
+	
+	4.02E+25
+	stars
+	
+	The original 10.15 MeV/proton has been reduced by expansion (kinetic energy being converted to potential energy) to 0.11 MeV/proton at 5.82e16 meters. The SAHA equation for deuterium
+
+predicts equilibrium

@@ -1,0 +1,2585 @@
+It summarizes the dependence of the self-energy on the mass distribution and relativistic compactness. In the full cosmic history, β may in principle vary as the large-scale matter distribution evolves. However, after the onset of substantial structure formation, its residual evolution is expected to be slow, and it can be approximated as constant for the late universe benchmark analysis presented in this section.
+The decisive test of this framework is confrontation with empirical anchors. We therefore compare the MOC requirements with constraints from the early universe inferred from the Cosmic Microwave Background (CMB) [5] and with late universe measurements of the local distance ladder such as SH0ES [13].
+In principle, β is determined by the matter distribution itself through the GSE integral, and is therefore not an independent free parameter. Once the density profile of the mass distribu-tion is specified, the corresponding value of β is determined by the gravitational self-energy integral. However, a direct calculation would require a detailed large-scale density profile for the present universe, and no unique observationally established form of such a profile is cur-rently available. We therefore determine the effective late-time value of β inversely from the observed present-epoch energy budget and compare it with the reference range suggested by known self-gravitating structures.
+We treat the present matter density parameter Ωm as a variable to be explored rather than as a fixed input. For each baseline, we solve for the value of β that satisfies the present-epoch matching condition
+𝜌Λm (t0) = (1 − Ωm)𝜌c .	(157)
+For the CMB baseline we adopt H0 = 67.36 km s−1 Mpc−1, 𝜌c = 8.5227 × 10−27 kg m−3, Ωm = 0.3158, and χp (t0) = 46.114 Gly [5]. For the SH0ES baseline we adopt H0 = 73.04 km s−1 Mpc−1 and χp (t0) = 43.377 Gly [13]. We repeat this procedure across a range of matter densities, including scenarios in which the effective matter abundance is modestly higher than the standard CMB inference Ωm = 0.3158 [5].
+The results are summarized in Tables 1 and 2. By comparing the required values of β with reference values inferred from known self-gravitating systems, we can assess whether the required coefficients are structurally reasonable. For reference, a uniform Newtonian sphere yields β = 3/5, the classical n = 3 polytrope gives β = 3/2, and NFW-like halo profiles give β ≃ 1.0–1.6 depending on concentration [19, 31]. Relativistic compact-object estimates also commonly use the leading binding-energy scale Egrav ∼ GM 2/R, indicating that order-unity structure coefficients are physically natural in self-gravitating systems [20, 30].
+An examination of Tables 1 and 2 reveals an important implication of the MOC matching procedure. Across a broad span of assumed matter densities, solutions for β exist that repro-duce the required present-epoch 𝜌Λm . This indicates that the framework is not restricted to a narrowly tuned matter abundance at t0.
+
+/
+
+
+Matter Incr.
+(%)
+	𝜌m
+	𝜌Λ  (Target)
+m
+	Required β
+	𝜌m-gs
+	−𝜌gs
+	
+	
+	(×10−27 kg m−3)
+	
+	(×10−27
+	kg m−3)
+	
+	-20
+	2.153
+	6.370
+	2.2373
+	12.511
+	-6.141
+	
+	-10
+	2.422
+	6.100
+	1.8854
+	12.650
+	-6.550
+	
+	0
+	2.691
+	5.831
+	1.6172
+	12.767
+	-6.936
+	
+	10
+	2.961
+	5.562
+	1.4071
+	12.864
+	-7.302
+	
+	20
+	3.230
+	5.293
+	1.2387
+	12.943
+	-7.650
+	
+	30
+	3.499
+	5.024
+	1.1012
+	13.005
+	-7.982
+	
+	40
+	3.768
+	4.755
+	0.9871
+	13.053
+	-8.298
+	
+	50
+	4.037
+	4.485
+	0.8912
+	13.086
+	-8.600
+	
+	60
+	4.306
+	4.216
+	0.8096
+	13.105
+	-8.889
+	
+	Table	1:	Required	Structure	Coefficient	β	for	the	CMB	Baseline (H0	= 67.360 km s−1 Mpc−1, Ωm		= 0.3158,  χp (t0)  =  R  =  46.114 Gly,
+𝜌c = 8.5227 × 10−27 kg m−3).	The table lists the values of β required to re-
+cover the CMB-baseline target dark energy density across different matter density scenarios. The matter density increment is defined relative to the standard CMB
+
+matter abundance Ωm
+= 0.3158. For each row, 𝜌target = 𝜌
+m
+− 𝜌m
+is imposed, the
+
+resulting quadratic equation for β is solved, and the obtained value is then inserted
+back into 𝜌m-gs and −𝜌gs . The equality 𝜌Λm = 𝜌m-gs − 𝜌gs is therefore satisfied by construction. The range from −10% to +30% places the required coefficient within the broad reference interval suggested by known self-gravitating structures, roughly
+1.0 ≲ β ≲ 2.0. This interval is used as a structural guide rather than as a strict theoretical bound.
+
+Matter Incr.
+(%)
+	𝜌m
+	𝜌Λ  (Target)
+m
+	Required β
+	𝜌m-gs
+	−𝜌gs
+	
+	
+	(×10−27 kg m−3)
+	
+	(×10−27 kg m−3)
+	
+	-20
+	2.525
+	7.496
+	2.1587
+	14.706
+	-7.210
+	
+	-10
+	2.840
+	7.180
+	1.8197
+	14.869
+	-7.689
+	
+	0
+	3.156
+	6.865
+	1.5606
+	15.008
+	-8.143
+	
+	10
+	3.472
+	6.549
+	1.3577
+	15.123
+	-8.574
+	
+	20
+	3.787
+	6.233
+	1.1954
+	15.214
+	-8.981
+	
+	30
+	4.103
+	5.918
+	1.0626
+	15.290
+	-9.372
+	
+	40
+	4.418
+	5.602
+	0.9527
+	15.344
+	-9.742
+	
+	50
+	4.734
+	5.287
+	0.8601
+	15.385
+	-10.098
+	
+	60
+	5.050
+	4.971
+	0.7812
+	15.408
+	-10.437
+	
+	Table 2: Required Structure Coefficient β for SH0ES Baseline (H0 = 73.04 km/s/Mpc, χp (t0) = R = 43.377 Gly, 𝜌c ≈ 1.002×10−26 kg/m3). The table lists the values of β required to recover the SH0ES-baseline dark energy density across differ-
+ent matter density scenarios. For each row, the matter density first fixes the matter-generated compactness RS /R; the required value of β is then obtained by solving the quadratic matching equation for 𝜌Λm . The range from −10% to +30% places the required coefficient within the broad reference interval suggested by known self-gravitating structures, roughly 1.0 ≲ β ≲ 2.0.
+
+/
+
+For the standard 0% matter enhancement rows, the required values are β ≃ 1.6172 under the CMB baseline and β ≃ 1.5606 under the SH0ES baseline. These values should not be interpreted as a direct measurement of the time evolution of β (t). They are effective structure coefficients inferred under different background calibrations, with different values of H0, 𝜌c , and horizon scale. Both values remain compatible with the reference range suggested by known self-gravitating systems.
+The tables also show that a moderate increase in the effective matter abundance lowers the value of β required to reproduce the same present-epoch dark energy density. For ex-ample, under the CMB baseline, the required coefficient decreases from β ≃ 1.6172 at 0% matter enhancement to β ≃ 1.2387 at +20%. Under the SH0ES baseline, it decreases from β ≃ 1.5606 to β ≃ 1.1954 over the same range. This behavior reflects the fact that in MOC the dark energy density is not an independent component, but a derived quantity tied to the matter density, horizon-scale compactness, and the total GSE structure.
+In this sense, the comparison between CMB and SH0ES baselines should be understood as a comparison between different effective cosmological calibrations, rather than as direct evidence for a prescribed time evolution of β . Even with fixed β , the MOC dark energy density remains dynamical, because it depends on the matter density and the horizon scale. Therefore, if this total GSE component is forced into a constant-Λ description, early and late universe observations can lead to different inferred expansion histories. This provides a possible MOC interpretation of the Hubble tension without requiring an explicit time-dependent ansatz for β (t).
+
+
+Cosmic History of the MOC
+Preface on methodology and comparative strategy
+Most currently adopted cosmological parameters and widely used compilation datasets have been established within the standard ΛCDM framework, which has provided the most success-ful phenomenological description of the observed universe to date by modeling dark energy as a constant energy density represented by a cosmological constant Λ [3–5]. For this rea-son, any alternative cosmological model must first be tested against the same observational benchmarks that have supported the success of ΛCDM.
+The MOC framework departs from the standard paradigm by proposing that the effective dark energy density evolves over time and is generated by the total gravitational self-energy of matter. Precisely because of this conceptual difference, it is both reasonable and neces-sary to compare MOC, at its present stage of development, with the observational inputs and parameter baselines that have already proved successful in the standard cosmological context.
+Accordingly, the primary objective of this paper is to examine whether the core ideas of MOC can reproduce physically meaningful and observationally relevant behavior when evalu-ated against the same baseline datasets that underlie modern precision cosmology. This com-parative strategy provides a transparent and informative first test of the model: if MOC can account for key cosmic features while using the same successful observational anchors, then the framework merits further development and more dedicated future analysis.
+The numerical results presented below therefore constitute a comparative and exploratory analysis based on the best available observational benchmarks. Their purpose is not merely to illustrate feasibility under simplified assumptions, but to determine whether MOC can stand in meaningful comparison with the currently most successful cosmological reference model.
+
+/
+
+Methods: General framework for MOC cosmic history simulations
+Overview: Relation between the causal and physical horizon descriptions
+
+This work develops a MOC framework in which the dark energy density 𝜌Λ
+m
+arises dynam-
+
+ically from the total GSE of the matter sector. Unlike standard ΛCDM, where 𝜌Λ is introduced as a constant independent component, MOC treats dark energy as an emergent consequence of the total GSE of matter and the evolving causal structure of the universe.
+Causal horizon in comoving coordinates
+The total GSE is computed for the mass elements that have entered causal contact by cosmic time t. This causal domain is specified by the comoving particle horizon χp (t), which gives the comoving extent of the causally connected region [37]. In the MOC prescription, χp (t) is used to describe the causal range over which the horizon-scale GSE is evaluated.
+Physical horizon in proper coordinates
+The Friedmann equations are sourced by physical energy densities, not by comoving densities [37]. Therefore, after the global GSE has been evaluated for the causal domain, it must be expressed per unit physical volume of that same domain. This physical volume
+is determined by Vphys(t) = 4𝑢 R3	(t).
+3	phys
+The physical horizon radius therefore does not define a new causal domain; it is the physical coordinate representation of the same domain defined by χp (t).
+This formulation does not rely on a special separation mechanism between two indepen-dent horizons. Rather, it uses the standard relation Rphys(t) = a(t)χp (t) to express the same causally connected region in two coordinate descriptions. The enclosed mass M (t) is the same in both descriptions; only the density volume representation changes. The comoving horizon χp (t) is used to specify the causal domain, while Rphys(t) is used to express the resulting GSE as a physical density entering the Friedmann equations.
+
+Mass growth and matter density
+The effective gravitational mass M (t) entering the self-energy calculation is defined as the mass enclosed within the causal domain set by the particle horizon. This mass is a coordinate-independent quantity: it is the same enclosed mass whether it is written in comoving variables or in physical variables.
+Within the causal bookkeeping prescription used in the simulations, the enclosed mass grows with the comoving causal volume,
+  χp (t) 3
+
+Here, M (t0, f ) denotes the present-epoch enclosed mass corresponding to a matter enhance-ment factor f relative to the canonical reference Ωm = 0.315.
+The same mass can be written equivalently in physical or comoving form. In physical variables,
+M (t) = 𝜌 (t)  4𝑢 R3	(t) ,	(159)
+where 𝜌m(t) is the physical matter density. In comoving variables,
+M (t) = 𝜌com(t)  4𝑢χ3(t) ,	𝜌com(t) = a3(t)𝜌 (t).	(160)
+
+/
+
+Using Rphys(t) = a(t)χp (t), these two expressions are identical:
+M (t) = 𝜌com(t)  4𝑢χ3(t) = a3(t)𝜌  (t)  4𝑢χ3(t) = 𝜌  (t)  4𝑢 R3	(t) .	(161)
+
+Thus M (t) is not changed by the choice of coordinates. What changes is the density volume representation used to describe the same enclosed mass. Since the Friedmann equations are written in terms of physical densities, the matter density entering the background equations is
+
+
+M (t)
+𝜌 (t) =	,	V
+/
+(t) = 4𝑢 R3
+(t).	(162)
+
+Vphys
+(t)
+phys
+/
+3	phys
+
+For pressureless matter in an FRW background, this physical density follows the standard scaling
+
+𝜌m
+(t) = 𝜌m(t0, f ) .	(163)
+a3(t)
+
+
+Derivation of GSE densities
+The General GSE framework prescribes that the total GSE depends on the enclosed mass M (t)
+and on the causal interaction scale χp (t). At the level of scaling, one has
+GM 2(t)
+
+Ugs-T (t) ∼ −
+.	(164)
+χp (t)
+
+Here χp (t) specifies the causal comoving scale over which the global GSE is accumulated. After the global GSE has been evaluated, the corresponding equivalent mass density entering the Friedmann equations is obtained by expressing this energy per unit physical volume and dividing by c2.
+Negative component (−𝜌gs )
+This term represents the classical binding energy contribution generalized by the structure coefficient β (t): Ugs (t).
+The associated physical equivalent mass density is
+
+
+3β (t)
+GM 2(t)
+β (t)
+RS (t)
+
+−𝜌gs (t) = −
+
+Positive component (𝜌m-gs )
+4𝑢
+c2χp
+3
+phys
+(t) = −
+2  𝜌m(t) χ
+.	(165)
+(t)
+
+This term represents the relativistic matter–GSE interaction contribution, in which the GSE itself contributes to the effective gravitational source. Using the same causal interaction scale χp (t), the interaction energy is Um-gs (t).
+The associated physical equivalent mass density is
+
+
+𝜌	(t) =
+5β 2(t)
+𝜌
+/
+
+(t)
+ R (t) 2
+
+.	(166)
+
+m-gs
+28	m
+χp (t)
+
+Total dark energy density
+The dark energy density is defined as the net total GSE contribution, 𝜌Λ (t)
+m
+Substituting the two components gives
+𝜌	(t) = β (t)𝜌m(t) RS (t) 5β (t) RS (t) − 1 .	(167)
+
+/
+
+
+This formulation yields a dynamical evolution in which the causal gravitational network grows through χp (t), while the corresponding GSE contribution is expressed as a physical density using the physical volume determined by Rphys(t). Thus, the simultaneous appearance of χp (t) and Rphys(t) reflects two distinct roles: causal accumulation of the global GSE and physical density representation in the Friedmann equations.
+
+Reference simulations for the total GSE dynamics
+In the full MOC framework, the structure coefficient β may in principle vary slowly over cosmic time, because the large-scale matter distribution evolves through clustering, halo formation, void growth, and virialization [27, 31]. However, after substantial structure formation has occurred, the residual evolution of the effective cosmological structure coefficient is expected to be slow compared with the Hubble time. For this reason, the main simulations presented here first adopt a constant β benchmark over the full time interval under consideration.
+This constant β benchmark has two advantages. First, it isolates the intrinsic time depen-dence of the GSE-induced dark energy density. Even when β is fixed, the MOC dark energy density remains dynamical, because 𝜌Λm (t) depends explicitly on the matter density 𝜌m(t) and on the horizon-scale mass distribution, represented by χp (t).
+Second, the constant β benchmark provides a conservative test of whether the MOC mech-anism can reproduce the observed late-time dark energy behavior without using β (t) as a freely prescribed time-dependent function. For each baseline and matter density scenario, the constant value of β is fixed by the present-epoch matching condition
+𝜌m(t0, f ) + 𝜌Λm (t0, f ) = 𝜌c .	(168)
+Once this value is fixed at t = t0, it is held constant throughout the benchmark simulation. The resulting cosmic history is then determined primarily by the evolution of 𝜌m(t) and the horizon scale, rather than by an additional dark energy sector.
+The constant β treatment is not the only case considered in this work. In Section 6.4, we also examine explicitly evolving β (t) histories around the standard CMB Ωm = 0.315 case. Those simulations test how a slowly evolving structural coefficient modifies the timing and amplitude of the transition, while preserving the same total GSE density formula. Together, the constant β benchmark and the evolving β (t) extension show that the main MOC cosmic sequence is generated by the total GSE structure itself.
+
+Additional assumptions for the simulation background
+The cosmic time and scale factor used in the simulation tables are obtained from a flat cos-mological background reconstruction including matter and dark energy. For a given baseline value of H0, we use the standard analytic relation
+H(a)2 = H2 Ωma−3 + ΩΛ ,	ΩΛ = 1 − Ωm,	(169)
+neglecting the radiation component over the simulated interval. The corresponding cosmic time is
+
+
+
+or equivalently,
+
+
+
+
+a(t) =
+3H0,ΩΛ
+ ,,  Ωm sinh
+
+
+
+
+3
+2 H0
+
+Ωm
+
+		2/3
+ΩΛ t
+
+
+
+
+.	(171)
+
+/
+
+
+For the CMB-based simulations, we use
+H0 = 67.36 km s−1 Mpc−1,	Ωm = 0.3158,	(172)
+
+
+so that This gives
+
+ΩΛ = 1 − Ωm ≃ 0.6842.	(173)
+
+t0 ≃ 13.795 Gyr.	(174)
+
+This is the present age used in the CMB-based simulation tables [5], rounded to t0 ≃ 13.8 Gyr.
+The particle-horizon scale is normalized to
+χp (t0) = 46.114 Gly,
+so that the CMB-based simulations are consistent with the present-epoch matching calculation used to determine β .
+For the SH0ES-based simulations, we use H0 = 73.04 km s−1 Mpc−1, Ωm = 0.315, which gives
+t0 ≃ 12.73 Gyr.
+This is the present age used in the SH0ES-based simulation tables [13]. The corresponding present particle-horizon scale is taken to be
+χp (t0) = 43.377 Gly.
+The tabulated earlier times are chosen by stepping backward in approximately 1 Gyr intervals, and the corresponding values of a(t) are computed from the above relation.
+Since the earliest times considered in the simulations are of order t ≃ 0.7–0.8 Gyr, corre-sponding to redshifts of order
+1
+z = a − 1 ≃ 6–7,	(175)
+the radiation density is already far below the matter density. Indeed,
+
+ 𝜌r  = Ωr 1
+
+(176)
+
+𝜌m	Ωm a
+is below the percent level over the entire simulated interval. We therefore neglect the radiation component in this late-time background reconstruction.
+The matter enhancement factor used in the GSE calculation modifies the matter density entering 𝜌m(t), RS (t), and 𝜌Λm (t). It does not imply that the background scale-factor history has been re-solved for each matter enhancement case. Thus, the simulations trace how the MOC GSE density evolves on a fixed observationally anchored background for different matter enhancement scenarios.
+
+MOC cosmic history simulation results
+
+/
+
+
+
+Figure 1: Matter Density vs. Dark Energy Density (CMB, −10% Matter Enhance-ment, Ωm ≃ 0.2842). The dark energy density is negative for t ≲ 4.98 Gyr, enhanc-ing deceleration and supporting the formation of galactic structures. It then becomes positive and drives accelerated expansion from approximately t ≃ 7.21 Gyr. The dark energy density reaches a broad maximum near t ≃ 9.71 Gyr and subsequently decreases slowly toward the present epoch.
+
+
+
+/
+
+Age (Gyr)
+Scale
+a(t)
+Constant
+β
+Comoving Ho.
+χp (t) (Gly)
+Physical Ho.
+Rphys(t) (Gly)
+Matter
+𝜌m(t)
+Repulsive
+𝜌m-gs (t)
+Attractive
+−𝜌gs (t)
+Dark Energy
+𝜌Λ (t)
+m
+
+/
+(10−27 kg m−3)
+
+0.8
+	0.1295
+	1.8854
+	17.763
+	2.300
+	1115.379
+	128.240
+	-447.492
+	-319.252
+	
+	1.8
+	0.2226
+	1.8854
+	23.521
+	5.236
+	219.612
+	77.628
+	-154.489
+	-76.862
+	
+	2.8
+	0.2998
+	1.8854
+	27.369
+	8.205
+	89.895
+	58.252
+	-85.622
+	-27.370
+	
+	3.8
+	0.3694
+	1.8854
+	30.368
+	11.218
+	48.055
+	47.200
+	-56.351
+	-9.151
+	
+	4.8
+	0.4346
+	1.8854
+	32.862
+	14.282
+	29.510
+	39.744
+	-40.521
+	-0.777
+	
+	5.8
+	0.4972
+	1.8854
+	35.013
+	17.408
+	19.708
+	34.205
+	-30.720
+	3.485
+	
+	6.8
+	0.5584
+	1.8854
+	36.912
+	20.612
+	13.912
+	29.827
+	-24.102
+	5.724
+	
+	7.8
+	0.6190
+	1.8854
+	38.614
+	23.902
+	10.213
+	26.223
+	-19.363
+	6.859
+	
+	8.8
+	0.6796
+	1.8854
+	40.156
+	27.290
+	7.717
+	23.175
+	-15.824
+	7.351
+	
+	9.8
+	0.7408
+	1.8854
+	41.567
+	30.793
+	5.958
+	20.543
+	-13.091
+	7.452
+	
+	10.8
+	0.8031
+	1.8854
+	42.864
+	34.424
+	4.677
+	18.232
+	-10.925
+	7.306
+	
+	11.8
+	0.8668
+	1.8854
+	44.064
+	38.195
+	3.719
+	16.194
+	-9.183
+	7.011
+	
+	12.8
+	0.9323
+	1.8854
+	45.178
+	42.119
+	2.989
+	14.382
+	-7.758
+	6.624
+	
+	13.8
+	1.0000
+	1.8854
+	46.114
+	46.114
+	2.422
+	12.649
+	-6.549
+	6.100
+	
+	Table 3: MOC Cosmic History Simulation (CMB-Based, −10% Matter Enhance-ment, Constant β = 1.8854, Ωm ≃ 0.2842). CMB-based evolution for a −10% mat-ter enhancement scenario, corresponding to Ωm ≃ 0.2842, with the present particle-horizon scale normalized to χp (t0) = 46.114 Gly. The dark energy density is negative for t ≲ 4.98 Gyr, enhancing deceleration and supporting the formation of galactic structures. It changes sign near t ≃ 4.98 Gyr, becomes positive, and satisfies the acceleration condition 𝜌Λ > 𝜌m/2 near t ≃ 7.21 Gyr. The dark energy density reaches a broad maximum near t ≃ 9.71 Gyr and then decreases slowly toward the
+
+present epoch. Although 𝜌Λ
+m
+is a dynamical dark energy density, it exhibits a clear
+
+quasi-constant behavior in the late universe: over the interval t ≃ 7.8–13.8 Gyr, it
+fluctuates only at about the 10% level around its mean value, while the matter den-sity decreases by about 76% over the same period.
+
+/
+
+
+
+Figure 2: Matter Density vs. Dark Energy Density (CMB-Based, +0% Matter Enhancement, Constant β = 1.6172, Ωm ≃ 0.3158). For the standard matter abun-dance case, Ωm ≃ 0.3158, the dark energy density is negative for t ≲ 5.38 Gyr, enhancing deceleration and supporting the formation of galactic structures. It be-
+comes positive after the sign transition and drives accelerated expansion from ap-proximately t ≃ 7.72 Gyr. The dark energy density reaches a broad maximum over t ≃ 9.8–10.8 Gyr and then decreases slowly toward the present epoch.
+
+
+
+/
+
+Age (Gyr)
+Scale
+a(t)
+Constant
+β
+Comoving Ho.
+χp (t) (Gly)
+Physical Ho.
+Rphys(t) (Gly)
+Matter
+𝜌m(t)
+Repulsive
+𝜌m-gs (t)
+Attractive
+−𝜌gs (t)
+Dark Energy
+𝜌Λ (t)
+m
+
+/
+(10−27 kg m−3)
+
+0.8
+	0.1295
+	1.6172
+	17.763
+	2.300
+	1239.310
+	129.425
+	-473.872
+	-344.447
+	
+	1.8
+	0.2226
+	1.6172
+	23.521
+	5.236
+	244.013
+	78.345
+	-163.596
+	-85.252
+	
+	2.8
+	0.2998
+	1.6172
+	27.369
+	8.205
+	99.884
+	58.790
+	-90.669
+	-31.879
+	
+	3.8
+	0.3694
+	1.6172
+	30.368
+	11.218
+	53.395
+	47.636
+	-59.673
+	-12.037
+	
+	4.8
+	0.4346
+	1.6172
+	32.862
+	14.282
+	32.788
+	40.111
+	-42.910
+	-2.798
+	
+	5.8
+	0.4972
+	1.6172
+	35.013
+	17.408
+	21.898
+	34.521
+	-32.531
+	1.990
+	
+	6.8
+	0.5584
+	1.6172
+	36.912
+	20.612
+	15.458
+	30.102
+	-25.523
+	4.579
+	
+	7.8
+	0.6190
+	1.6172
+	38.614
+	23.902
+	11.348
+	26.465
+	-20.505
+	5.960
+	
+	8.8
+	0.6796
+	1.6172
+	40.156
+	27.290
+	8.575
+	23.389
+	-16.756
+	6.632
+	
+	9.8
+	0.7408
+	1.6172
+	41.567
+	30.793
+	6.620
+	20.733
+	-13.862
+	6.870
+	
+	10.8
+	0.8031
+	1.6172
+	42.864
+	34.424
+	5.196
+	18.400
+	-11.569
+	6.831
+	
+	11.8
+	0.8668
+	1.6172
+	44.064
+	38.195
+	4.133
+	16.343
+	-9.724
+	6.619
+	
+	12.8
+	0.9323
+	1.6172
+	45.178
+	42.119
+	3.321
+	14.515
+	-8.215
+	6.299
+	
+	13.8
+	1.0000
+	1.6172
+	46.114
+	46.114
+	2.691
+	12.766
+	-6.935
+	5.831
+	
+	Table 4: MOC Cosmic History Simulation (CMB-Based, +0% Matter Enhance-ment, Constant β = 1.6172, Ωm ≃ 0.3158). The dark energy density is negative for t ≲ 5.38 Gyr, enhancing deceleration and supporting the formation of galactic structures. It changes sign near t ≃ 5.38 Gyr, becomes positive, and satisfies the
+acceleration condition 𝜌Λ > 𝜌m/2 near t ≃ 7.72 Gyr. The dark energy density reaches a broad maximum over t ≃ 9.8–10.8 Gyr and then decreases slowly toward
+27	−3
+the present epoch. At t0 ≃ 13.8 Gyr, the model gives 𝜌Λm (t0) ≃ 5.831×10−	kg m	,
+
+consistent with 𝜌Λ
+m
+≃ 0.684𝜌c for 𝜌c ≃ 8.5227 × 10−27 kg m−3. This single equation
+
+for 𝜌Λ
+m
+(t) simultaneously accounts for the existence of early massive galaxies, the
+
+onset of late-time acceleration, the quasi-constant behavior of dark energy, and re-
+cent indications of a mild decline in the dark energy density.
+
+/
+
+
+
+
+Figure 3: Matter Density vs. Dark Energy Density (CMB-Based, +10% Matter Enhancement, Constant β = 1.4071, Ωm ≃ 0.3474). For the +10% matter en-hancement case, Ωm ≃ 0.3474, the dark energy density is negative for t ≲ 5.79 Gyr, enhancing deceleration and supporting the formation of galactic structures. It be-
+comes positive after the sign transition and drives accelerated expansion from ap-proximately t ≃ 8.29 Gyr.
+
+
+
+
+/
+
+Age (Gyr)
+Scale
+a(t)
+Constant
+β
+Comoving Ho.
+χp (t) (Gly)
+Physical Ho.
+Rphys(t) (Gly)
+Matter
+𝜌m(t)
+Repulsive
+𝜌m-gs (t)
+Attractive
+−𝜌gs (t)
+Dark Energy
+𝜌Λ (t)
+m
+
+/
+(10−27 kg m−3)
+
+0.8
+	0.1295
+	1.4071
+	17.763
+	2.300
+	1363.241
+	130.412
+	-498.893
+	-368.481
+	
+	1.8
+	0.2226
+	1.4071
+	23.521
+	5.236
+	268.415
+	78.942
+	-172.235
+	-93.292
+	
+	2.8
+	0.2998
+	1.4071
+	27.369
+	8.205
+	109.870
+	59.238
+	-95.457
+	-36.218
+	
+	3.8
+	0.3694
+	1.4071
+	30.368
+	11.218
+	58.734
+	47.999
+	-62.824
+	-14.825
+	
+	4.8
+	0.4346
+	1.4071
+	32.862
+	14.282
+	36.067
+	40.417
+	-45.176
+	-4.758
+	
+	5.8
+	0.4972
+	1.4071
+	35.013
+	17.408
+	24.087
+	34.785
+	-34.249
+	0.535
+	
+	6.8
+	0.5584
+	1.4071
+	36.912
+	20.612
+	17.004
+	30.332
+	-26.871
+	3.461
+	
+	7.8
+	0.6190
+	1.4071
+	38.614
+	23.902
+	12.483
+	26.667
+	-21.587
+	5.079
+	
+	8.8
+	0.6796
+	1.4071
+	40.156
+	27.290
+	9.432
+	23.567
+	-17.641
+	5.926
+	
+	9.8
+	0.7408
+	1.4071
+	41.567
+	30.793
+	7.282
+	20.891
+	-14.594
+	6.297
+	
+	10.8
+	0.8031
+	1.4071
+	42.864
+	34.424
+	5.716
+	18.541
+	-12.180
+	6.360
+	
+	11.8
+	0.8668
+	1.4071
+	44.064
+	38.195
+	4.546
+	16.468
+	-10.240
+	6.230
+	
+	12.8
+	0.9323
+	1.4071
+	45.178
+	42.119
+	3.654
+	14.625
+	-8.649
+	5.976
+	
+	13.8
+	1.0000
+	1.4071
+	46.114
+	46.114
+	2.961
+	12.863
+	-7.302
+	5.562
+	
+	Table 5: MOC Cosmic History Simulation (CMB-Based, +10% Matter Enhance-ment, Constant β = 1.4071, Ωm ≃ 0.3474). CMB-based evolution for a +10% mat-ter enhancement scenario, corresponding to Ωm ≃ 0.3474, with the present particle-horizon scale normalized to χp (t0) = 46.114 Gly. The dark energy density is negative for t ≲ 5.79 Gyr, enhancing deceleration and supporting the formation of galactic structures. It changes sign near t ≃ 5.79 Gyr, becomes positive, and satisfies the ac-
+celeration condition 𝜌Λ > 𝜌m/2 near t ≃ 8.29 Gyr. The dark energy density reaches a broad maximum over t ≃ 9.8–11.8 Gyr, centered near t ≃ 10.8 Gyr, and then de-creases slowly toward the present epoch.
+
+/
+
+
+Figure 4: Matter Density vs. Dark Energy Density (CMB-Based, +20% Matter En-hancement, Constant β = 1.2387, Ωm ≃ 0.3790). For the +20% matter enhance-ment case, Ωm ≃ 0.3790, the dark energy density remains negative for t ≲ 6.07 Gyr, thereby enhancing deceleration and supporting the formation of galactic structures.
+After changing sign, it drives accelerated expansion from approximately t ≃ 8.77 Gyr. The dark energy density then reaches a broad maximum over t ≃ 10.8–11.8 Gyr and subsequently decreases slowly toward the present epoch.
+
+/
+
+Age (Gyr)
+Scale
+a(t)
+Constant
+β
+Comoving Ho.
+χp (t) (Gly)
+Physical Ho.
+Rphys(t) (Gly)
+Matter
+𝜌m(t)
+Repulsive
+𝜌m-gs (t)
+Attractive
+−𝜌gs (t)
+Dark Energy
+𝜌Λ (t)
+m
+
+/
+(10−27 kg m−3)
+
+0.8
+	0.1295
+	1.2387
+	17.763
+	2.300
+	1487.172
+	131.210
+	-522.668
+	-391.458
+	
+	1.8
+	0.2226
+	1.2387
+	23.521
+	5.236
+	292.816
+	79.425
+	-180.442
+	-101.020
+	
+	2.8
+	0.2998
+	1.2387
+	27.369
+	8.205
+	119.860
+	59.601
+	-100.010
+	-40.405
+	
+	3.8
+	0.3694
+	1.2387
+	30.368
+	11.218
+	64.074
+	48.293
+	-65.818
+	-17.525
+	
+	4.8
+	0.4346
+	1.2387
+	32.862
+	14.282
+	39.346
+	40.665
+	-47.328
+	-6.664
+	
+	5.8
+	0.4972
+	1.2387
+	35.013
+	17.408
+	26.277
+	34.997
+	-35.881
+	-0.884
+	
+	6.8
+	0.5584
+	1.2387
+	36.912
+	20.612
+	18.550
+	30.517
+	-28.151
+	2.366
+	
+	7.8
+	0.6190
+	1.2387
+	38.614
+	23.902
+	13.618
+	26.830
+	-22.616
+	4.214
+	
+	8.8
+	0.6796
+	1.2387
+	40.156
+	27.290
+	10.290
+	23.711
+	-18.482
+	5.229
+	
+	9.8
+	0.7408
+	1.2387
+	41.567
+	30.793
+	7.945
+	21.019
+	-15.290
+	5.729
+	
+	10.8
+	0.8031
+	1.2387
+	42.864
+	34.424
+	6.235
+	18.654
+	-12.761
+	5.893
+	
+	11.8
+	0.8668
+	1.2387
+	44.064
+	38.195
+	4.959
+	16.569
+	-10.736
+	5.843
+	
+	12.8
+	0.9323
+	1.2387
+	45.178
+	42.119
+	3.986
+	14.715
+	-9.061
+	5.653
+	
+	13.8
+	1.0000
+	1.2387
+	46.114
+	46.114
+	3.230
+	12.942
+	-7.650
+	5.292
+	
+	Table 6: MOC Cosmic History Simulation (CMB-Based, +20% Matter Enhance-ment, Constant β = 1.2387, Ωm ≃ 0.3790). CMB-based evolution for a +20% mat-ter enhancement scenario, corresponding to Ωm ≃ 0.3790, with the present particle-horizon scale normalized to χp (t0) = 46.114 Gly. The dark energy density is neg-
+ative up to t ≃ 6.07 Gyr, so the early evolution remains decelerating and favorable
+to structure formation. It becomes positive near t ≃ 6.07 Gyr, and the acceleration condition 𝜌Λ > 𝜌m/2 is reached near t ≃ 8.77 Gyr. A broad late-time maximum is realized over t ≃ 10.8–11.8 Gyr, after which 𝜌Λm decreases only slowly, indicating a quasi-constant dark energy behavior over much of the late universe. Compared with the standard +0% CMB case, where the sign transition occurs near t ≃ 5.38 Gyr and acceleration begins near t ≃ 7.72 Gyr, the higher matter abundance delays both transitions. This illustrates the systematic trend that increasing the matter density extends the decelerating structure-formation epoch before the GSE-induced dark en-ergy component becomes dynamically dominant.
+
+/
+
+
+Figure 5: Matter Density vs. Dark Energy Density (SH0ES-Based, +0% Matter Enhancement, Constant β = 1.5606, Ωm ≃ 0.315). For the standard matter abun-dance case, Ωm ≃ 0.315, the dark energy density remains negative for t ≲ 4.85 Gyr,
+enhancing deceleration and supporting the formation of galactic structures. It be-comes positive after the sign transition and drives accelerated expansion from ap-proximately t ≃ 7.11 Gyr. The dark energy density reaches a broad maximum over t ≃ 8.73–9.73 Gyr and then decreases slowly toward the present epoch.
+
+
+/
+
+Age (Gyr)
+Scale
+a(t)
+Constant
+β
+Comoving Ho.
+χp (t) (Gly)
+Physical Ho.
+Rphys(t) (Gly)
+Matter
+𝜌m(t)
+Repulsive
+𝜌m-gs (t)
+Attractive
+−𝜌gs (t)
+Dark Energy
+𝜌Λ (t)
+m
+
+/
+(10−27 kg m−3)
+
+0.73
+	0.1283
+	1.5606
+	17.082
+	2.192
+	1494.613
+	170.967
+	-598.103
+	-427.136
+	
+	1.73
+	0.2285
+	1.5606
+	22.762
+	5.201
+	264.576
+	95.416
+	-187.993
+	-92.577
+	
+	2.73
+	0.3111
+	1.5606
+	26.487
+	8.240
+	104.836
+	69.322
+	-100.866
+	-31.544
+	
+	3.73
+	0.3854
+	1.5606
+	29.364
+	11.317
+	55.141
+	55.076
+	-65.204
+	-10.130
+	
+	4.73
+	0.4552
+	1.5606
+	31.749
+	14.452
+	33.466
+	45.683
+	-46.263
+	-0.580
+	
+	5.73
+	0.5224
+	1.5606
+	33.798
+	17.656
+	22.141
+	38.814
+	-34.686
+	4.129
+	
+	6.73
+	0.5883
+	1.5606
+	35.599
+	20.943
+	15.503
+	33.450
+	-26.944
+	6.506
+	
+	7.73
+	0.6540
+	1.5606
+	37.212
+	24.337
+	11.284
+	29.069
+	-21.429
+	7.640
+	
+	8.73
+	0.7200
+	1.5606
+	38.667
+	27.840
+	8.457
+	25.398
+	-17.341
+	8.058
+	
+	9.73
+	0.7871
+	1.5606
+	39.995
+	31.480
+	6.473
+	22.252
+	-14.200
+	8.052
+	
+	10.73
+	0.8559
+	1.5606
+	41.215
+	35.276
+	5.034
+	19.516
+	-11.728
+	7.788
+	
+	11.73
+	0.9266
+	1.5606
+	42.336
+	39.229
+	3.968
+	17.124
+	-9.753
+	7.371
+	
+	12.73
+	1.0000
+	1.5606
+	43.377
+	43.377
+	3.157
+	15.013
+	-8.145
+	6.868
+	
+	Table 7: MOC Cosmic History Simulation (SH0ES-Based, +0% Matter Enhance-ment, Constant β = 1.5606, Ωm ≃ 0.315). SH0ES-based evolution for the stan-dard matter abundance case, with the present particle-horizon scale normalized to
+χp (t0) = 43.377 Gly. Because the SH0ES baseline has a larger Hubble constant than the CMB baseline, the reconstructed present age of the universe is reduced to t0 ≃ 12.73 Gyr, about 1 Gyr shorter than the CMB-based value. The dark energy density is negative up to t ≃ 4.85 Gyr, so the early evolution remains decelerating and favorable to structure formation. It changes sign near t ≃ 4.85 Gyr, becomes positive, and satisfies the acceleration condition 𝜌Λ > 𝜌m/2 near t ≃ 7.11 Gyr. The dark energy density reaches a broad maximum over t ≃ 8.73–9.73 Gyr and then de-creases slowly toward the present epoch. This SH0ES-based standard-matter case shows the same qualitative sequence as the CMB-based +0% case: early negative
+𝜌Λm , sign transition, onset of accelerated expansion, a broad late-time maximum, and slow decline toward the present.
+
+/
+
+Dark energy evolution under an evolving structure coefficient β (t)
+The constant-β simulations show that the total GSE density function alone can generate the main MOC cosmic sequence. However, in the full physical interpretation of the model, β is a structural coefficient associated with the matter distribution. As the universe evolves from a smoother early matter distribution toward a more structured cosmic web of galaxies, clusters, voids, and halo environments, the effective cosmological value of β may also evolve.
+For this reason, we also examine explicitly evolving-β (t) histories in the standard CMB 0% matter enhancement case. This case is the natural reference background because it cor-responds to the standard CMB matter abundance, Ωm ≃ 0.3158, with the present particle-horizon scale normalized to χp (t0) = 46.114 Gly. The present value β (t0) = 1.6172 is fixed by the same present-epoch matching condition used in the constant-β CMB baseline.
+We consider three representative prescriptions:
+
+
+
+
+
+and
+β (t) = 1.6172,
+β (t) : 1.4555 → 1.6172,
+
+β (t) : 1.7789 → 1.6172.
+
+The latter two cases correspond to monotonic linear evolution from values 10% below and 10% above the present matched value, respectively. They are not independent dark energy functions. Rather, they represent explicit evolving structural coefficients entering the same total GSE density formula, 𝜌Λ (t) (Eq. 167).
+m
+A linear evolution of β (t) provides the simplest first-order representation of slow structural evolution over the simulated interval. This is physically motivated by the fact that β is not an independent field, but an effective GSE coefficient determined by the large-scale organization of matter. The process of structure formation is directional: the matter distribution evolves from an initially smoother state toward a locally clustered, filamentary cosmic web. There-fore, allowing β (t) to evolve monotonically provides a natural extension of the constant-β approximation while preserving the same total GSE mechanism.
+The results show that the evolving-β (t) histories modify the quantitative timing of the transition epochs, but do not change the qualitative cosmic sequence.
+The evolving-β (t) cases can be summarized as follows.
+
+
+Lower-evolving case:
+
+β (t) : 1.4555 → 1.6172.
+
+In this case, the early negative dark energy density is reduced in magnitude compared with the constant-β case. The sign transition is delayed from t ≃ 5.38 Gyr to ap-
+
+proximately t ≃ 5.84 Gyr, and the acceleration condition 𝜌Λm
+t ≃ 8.29 Gyr.
+Upper-evolving case:
+> 1 𝜌m is reached near
+
+β (t) : 1.7789 → 1.6172.
+In this case, the early negative dark energy density is mildly enhanced in magnitude compared with the constant-β case. The sign transition is advanced from t ≃ 5.38 Gyr to approximately t ≃ 4.81 Gyr, and the onset of acceleration is correspondingly advanced to t ≃ 7.19 Gyr.
+
+/
+
+Thus, the explicit evolution of β (t) changes the detailed timing of the sign transition and acceleration onset, as expected. A larger early value of β makes the repulsive matter–GSE interaction term become important earlier, whereas a smaller early value delays this transition. Nevertheless, all three cases exhibit the same main MOC pattern:
+an early negative 𝜌Λ (t) phase,
+m
+
+a transition to positive dark energy at intermediate times,
+the onset of late-time accelerated expansion,
+a quasi-constant dark energy behavior in the late-time universe,
+and a mild weakening trend in the recent universe.
+
+This comparison is important because it shows that the MOC result is not restricted to the constant-β approximation. Even in these evolving-β (t) cases, where the structure coefficient is allowed to vary explicitly, the total GSE formula continues to generate the same qualitative cosmic history.
+The role of β (t) should therefore be understood as limited and structural. The primary source variables of the total GSE are not β (t), but the matter density and the length scale over which the mass distribution is defined. In the dark energy density formulation, these are
+𝜌m(t) and χp (t).
+By contrast, β (t) is a coefficient entering the GSE integral. It encodes the internal distri-bution of a given mass within the relevant volume, but it is not a new source of gravity and not a primary variable comparable to 𝜌m(t) or χp (t). Once the density profile is specified, β (t) is fixed by the corresponding gravitational self-energy calculation. Thus, varying β (t) can shift the detailed timing and amplitude of the transition, but the origin of the dark energy behavior remains the total GSE structure itself.
+
+Figure 6: Matter Density vs.  Dark Energy Density (CMB-Based, +0% Mat-ter Enhancement, Evolving β ).  The three dark energy curves correspond to
+β (t) : 1.4555 → 1.6172, constant β = 1.6172, and β (t) : 1.7789 → 1.6172. All cases retain the same qualitative MOC sequence: sign transition, late-time ac-celeration, and quasi-constant dark energy.
+
+/
+
+
+/
+
+Age (Gyr)
+Scale
+a(t)
+Evolving
+β (t)
+Comoving Ho.
+χp (t) (Gly)
+Physical Ho.
+Rphys(t) (Gly)
+Matter
+𝜌m(t)
+Repulsive
+𝜌m-gs (t)
+Attractive
+−𝜌gs (t)
+Dark Energy
+𝜌Λ (t)
+m
+
+/
+(10−27 kg m−3)
+
+0.8
+	0.1295
+	1.4555
+	17.763
+	2.300
+	1239.310
+	104.834
+	-426.485
+	-321.650
+	
+	1.8
+	0.2226
+	1.4679
+	23.521
+	5.236
+	244.013
+	64.549
+	-148.495
+	-83.947
+	
+	2.8
+	0.2998
+	1.4804
+	27.369
+	8.205
+	99.884
+	49.262
+	-82.997
+	-33.736
+	
+	3.8
+	0.3694
+	1.4928
+	30.368
+	11.218
+	53.395
+	40.589
+	-55.083
+	-14.494
+	
+	4.8
+	0.4346
+	1.5052
+	32.862
+	14.282
+	32.788
+	34.750
+	-39.939
+	-5.189
+	
+	5.8
+	0.4972
+	1.5177
+	35.013
+	17.408
+	21.898
+	30.403
+	-30.529
+	-0.126
+	
+	6.8
+	0.5584
+	1.5301
+	36.912
+	20.612
+	15.458
+	26.948
+	-24.149
+	2.799
+	
+	7.8
+	0.6190
+	1.5426
+	38.614
+	23.902
+	11.348
+	24.078
+	-19.558
+	4.520
+	
+	8.8
+	0.6796
+	1.5550
+	40.156
+	27.290
+	8.575
+	21.624
+	-16.112
+	5.512
+	
+	9.8
+	0.7408
+	1.5674
+	41.567
+	30.793
+	6.620
+	19.476
+	-13.436
+	6.041
+	
+	10.8
+	0.8031
+	1.5799
+	42.864
+	34.424
+	5.196
+	17.561
+	-11.302
+	6.258
+	
+	11.8
+	0.8668
+	1.5923
+	44.064
+	38.195
+	4.133
+	15.844
+	-9.574
+	6.270
+	
+	12.8
+	0.9323
+	1.6048
+	45.178
+	42.119
+	3.321
+	14.292
+	-8.152
+	6.140
+	
+	13.8
+	1.0000
+	1.6172
+	46.114
+	46.114
+	2.691
+	12.766
+	-6.935
+	5.831
+	
+	Table 8: MOC Cosmic History Simulation (CMB-Based, +0% Matter Enhance-ment, Evolving β (t) : 1.4555 → 1.6172, Ωm ≃ 0.3158). Compared with the constant-β = 1.6172 case, the lower-evolving β (t) mildly reduces the early nega-
+tive 𝜌Λm , delays the sign transition to t ≃ 5.84 Gyr, and delays the acceleration onset to t ≃ 8.29 Gyr, while preserving the same late-time quasi-constant behavior.
+
+/
+
+Age (Gyr)
+Scale
+a(t)
+Evolving
+β (t)
+Comoving Ho.
+χp (t) (Gly)
+Physical Ho.
+Rphys(t) (Gly)
+Matter
+𝜌m(t)
+Repulsive
+𝜌m-gs (t)
+Attractive
+−𝜌gs (t)
+Dark Energy
+𝜌Λ (t)
+m
+
+/
+(10−27 kg m−3)
+
+0.8
+	0.1295
+	1.7789
+	17.763
+	2.300
+	1239.310
+	156.604
+	-521.259
+	-364.655
+	
+	1.8
+	0.2226
+	1.7665
+	23.521
+	5.236
+	244.013
+	93.476
+	-178.698
+	-85.222
+	
+	2.8
+	0.2998
+	1.7540
+	27.369
+	8.205
+	99.884
+	69.160
+	-98.341
+	-29.181
+	
+	3.8
+	0.3694
+	1.7416
+	30.368
+	11.218
+	53.395
+	55.247
+	-64.263
+	-9.016
+	
+	4.8
+	0.4346
+	1.7292
+	32.862
+	14.282
+	32.788
+	45.858
+	-45.880
+	-0.023
+	
+	5.8
+	0.4972
+	1.7167
+	35.013
+	17.408
+	21.898
+	38.901
+	-34.533
+	4.367
+	
+	6.8
+	0.5584
+	1.7043
+	36.912
+	20.612
+	15.458
+	33.431
+	-26.898
+	6.533
+	
+	7.8
+	0.6190
+	1.6918
+	38.614
+	23.902
+	11.348
+	28.964
+	-21.451
+	7.513
+	
+	8.8
+	0.6796
+	1.6794
+	40.156
+	27.290
+	8.575
+	25.222
+	-17.401
+	7.822
+	
+	9.8
+	0.7408
+	1.6670
+	41.567
+	30.793
+	6.620
+	22.028
+	-14.289
+	7.739
+	
+	10.8
+	0.8031
+	1.6545
+	42.864
+	34.424
+	5.196
+	19.259
+	-11.836
+	7.423
+	
+	11.8
+	0.8668
+	1.6421
+	44.064
+	38.195
+	4.133
+	16.850
+	-9.874
+	6.976
+	
+	12.8
+	0.9323
+	1.6296
+	45.178
+	42.119
+	3.321
+	14.739
+	-8.279
+	6.460
+	
+	13.8
+	1.0000
+	1.6172
+	46.114
+	46.114
+	2.691
+	12.766
+	-6.935
+	5.831
+	
+	Table 9: MOC Cosmic History Simulation (CMB-Based, +0% Matter Enhance-ment, Evolving β (t) : 1.7789 → 1.6172, Ωm ≃ 0.3158). This simulation uses the standard CMB matter abundance, Ωm ≃ 0.3158, and linearly evolves
+the structure coefficient from a value 10% above the present matched value, β (t = 0.8 Gyr) = 1.7789, to β (t0) = 1.6172 at t0 ≃ 13.8 Gyr. The sign transition is correspondingly advanced from t ≃ 5.38 Gyr to t ≃ 4.81 Gyr, and the acceleration condition 𝜌Λ > 𝜌m/2 is advanced from t ≃ 7.72 Gyr to t ≃ 7.19 Gyr. The dark energy density reaches a broad late-time maximum over t ≃ 8.8–9.8 Gyr and then
+decreases slowly toward the present epoch. Despite these quantitative shifts, the same qualitative MOC sequence persists: an early negative dark energy density, an intermediate transition to positive dark energy, the onset of late-time acceleration, and a quasi-constant late universe behavior.
+
+/
+
+Analysis of the Cosmic History using MOC
+We now analyze the cosmic history simulations obtained from the MOC framework. The pri-mary reference set is the CMB-based reconstruction, for which we consider matter density scenarios
+f = −10%,	0%,	+10%,	+20%
+relative to the standard matter abundance Ωm ≃ 0.315. The corresponding benchmark sim-ulations are summarized in Tables 3–6. As a late universe comparison, we also present the SH0ES-based standard matter abundance case in Table 7.
+In the main benchmark simulations, the structure coefficient β is held fixed within each matter density scenario. This choice is not meant to imply that β is exactly constant over the full cosmic history. Rather, it provides a clean reference reconstruction of the total GSE density evolution. Since β is a structural coefficient in the GSE integral, the dominant physical
+
+dependence of 𝜌Λ
+m
+is carried by the matter density and the horizon-scale mass distribution.
+
+In the present cosmological formulation, these are represented by 𝜌m(t) and χp (t).
+We also examine explicitly evolving-β (t) cases around the standard CMB 0% matter en-hancement case in Section 6.4. Those simulations show that allowing β (t) to evolve mildly changes the detailed timing and amplitude of the transition, but preserves the same qualitative MOC sequence. For this reason, the main physical analysis below is based on the constant-β benchmark tables, while the evolving-β (t) cases are used to confirm that the characteristic behavior of 𝜌Λ (t) is not restricted to the fixed-β choice.
+m
+The simulations show that the total GSE density function reproduces the characteristic late-time behavior usually attributed to dark energy. It yields the onset of cosmic acceleration approximately 5–6 Gyr before the present epoch, a quasi-constant late-time regime, and a sub-sequent mild weakening of 𝜌Λ (t). A distinctive feature of the MOC framework, however, is
+m
+that this late-time behavior is preceded by an early negative dark energy phase and a subse-
+quent sign transition. This differs sharply from the standard ΛCDM model, in which the dark energy density is positive and constant at all times. The early negative phase and sign transi-tion are therefore not merely auxiliary features, but potential observational discriminants of the total GSE interpretation.
+Thus, the main time dependence of 𝜌Λ (t) arises from the evolution of the matter density
+m
+and the horizon scale within the total GSE structure, rather than from introducing a separate
+dark energy sector.
+For the CMB-based simulations, the present particle-horizon scale is normalized to
+χp (t0) = 46.114 Gly,
+with t0 ≃ 13.8 Gyr. For the SH0ES-based comparison case, the larger Hubble constant im-plies a shorter reconstructed age, t0 ≃ 12.73 Gyr, and the present particle-horizon scale is normalized to
+χp (t0) = 43.377 Gly.
+A coherent picture emerges across all simulated cases. In contrast to the standard ΛCDM scenario, where dark energy is represented by a strict cosmological constant, the MOC frame-work predicts a matter-induced dynamical dark energy density with a characteristic three-phase evolution:
+an early phase with negative 𝜌Λm (t), acting as an additional attractive contribution and supporting structure formation;
+
+/
+
+an intermediate phase in which 𝜌Λ (t) crosses zero and becomes positive;
+m
+
+a late phase in which positive 𝜌Λ (t) drives accelerated expansion and then varies only
+m
+mildly, behaving quasi-constantly on Gyr timescales.
+Below we quantify this behavior and examine how it changes with the assumed matter abun-dance.
+
+Competition between the attractive and repulsive GSE components
+The central dynamical mechanism of the MOC framework is the competition between two GSE contributions. The first is the attractive conventional GSE density, denoted by −𝜌gs . The second is the positive matter–GSE interaction density, denoted by 𝜌m-gs . The effective dark energy density is their sum,
+𝜌Λm (t) = 𝜌m-gs (t) − 𝜌gs (t).	(177)
+Using the horizon-scale compactness variable
+x (t)	RS (t) ,	(178)
+χp (t)
+
+
+the two terms may be written as
+
+
+
+and
+
+
+−𝜌gs (t) = −
+
+
+β𝜌m(t) x (t),	(179)
+2
+
+5β 2	2
+
+Therefore,
+𝜌m-gs (t) = 𝜌m(t) 28 x (t) .	(180)
+𝜌	(t) = β𝜌m(t) x (t)  5β x (t) − 1 .	(181)
+
+This form makes the sign transition transparent. At early times, the compactness x (t) is not yet large enough for the quadratic repulsive term to dominate. The attractive GSE density
+
+then exceeds the matter–GSE interaction density in magnitude, and 𝜌Λ
+m
+(t) < 0. As the causal
+
+horizon grows and the causally connected matter content increases, x (t) grows sufficiently
+for the x 2-dependent repulsive term to overtake the linear attractive term. The sign change occurs when
+
+5β
+x (t) = 1,	or equivalently	x (t) =
+14
+14
+.	(182)
+5β
+
+Here x (t) = RS (t)/χp (t) is used as a compact diagnostic, but it is not an independent source variable. Since RS (t) = 2GM (t)/c2 and M (t) is fixed by the matter density and the horizon-scale volume, the underlying physical inputs are 𝜌m(t) and χp (t). The coefficient β enters as a structural coefficient of the GSE integral. Therefore, the sign transition and the later quasi-constant behavior of 𝜌Λm (t) arise primarily from the evolution of the matter density and horizon scale within the total GSE structure.
+
+/
+
+A possible MOC interpretation of the Hubble tension
+One of the most significant challenges in modern cosmology is the “Hubble tension”—the per-sistent discrepancy between the value of the Hubble constant H0 inferred from early-universe observations and that measured in the local, late-time universe [10]. Measurements of the Cos-mic Microwave Background (CMB) by the Planck satellite infer H0 ≈ 67.36 km s−1 Mpc−1 [5], whereas local distance ladder measurements, such as those from the SH0ES program, indicate a higher value, H0 ≈ 73.04 km s−1 Mpc−1 [13]. In the standard ΛCDM model, where dark en-ergy is represented by a strict cosmological constant, this discrepancy has become one of the major tensions in precision cosmology [10, 43].
+In the MOC framework, the effective dark energy density is not a fundamental constant.
+It is a matter-induced quantity determined by the total GSE,
+𝜌	(t) = β𝜌m(t) RS (t) 5β RS (t) − 1 .	(183)
+/	/
+
+
+Thus, even when β is held fixed, 𝜌Λ
+m
+(t) remains dynamical because it depends on the matter
+
+density and the horizon-scale compactness ratio RS (t)/χp (t). This is the central difference
+from ΛCDM: the effective dark energy contribution in MOC evolves with the matter distribu-tion and the causal horizon, rather than being imposed as a strict constant.
+From this viewpoint, the Hubble tension may be interpreted as a possible consequence of forcing a dynamical matter-induced dark energy component into a constant-Λ description. Early universe and late universe observations are calibrated against different effective cosmic histories. If the effective dark energy sector evolves with 𝜌m(t) and RS (t)/χp (t), then a sin-gle constant-Λ fit can lead to different inferred expansion rates depending on whether the calibration is anchored to the CMB or to late time distance ladder observations.
+Therefore, within MOC, the Hubble tension may be understood as a possible consequence of imposing the constant-Λ assumption on a dynamical dark energy sector.
+
+The emergence of quasi-constant and weakening dark energy
+A key quantitative outcome of the MOC simulations is the emergence of a positive dark energy density at late times with only mild evolution on multi-Gyr timescales. This behavior appears across the CMB-based matter enhancement sequence and also in the SH0ES-based standard-matter comparison case. The important point is that this quasi-constant behavior is obtained even though 𝜌Λ (t) is not imposed as a cosmological constant. It follows from the total GSE
+m
+density function itself.
+For the CMB-based simulations, the matter enhancement percentage is defined relative to the standard reference abundance Ωm ≃ 0.3158. The transition epochs are summarized in Table 10. The sign transition is defined by
+𝜌Λ (t) = 0,	(184)
+m
+
+while the onset of accelerated expansion is estimated by the diagnostic condition
+1
+𝜌Λ (t) > /𝜌m(t).	(185)
+m	2
+This condition follows from the standard acceleration equation for pressureless matter and an effective dark energy component with w ≃ −1 once 𝜌Λm becomes positive [4]. In the present
+
+context, it is used as a diagnostic criterion rather than as an assumption that 𝜌Λ
+m
+cosmological constant.
+is a strict
+
+/
+
+Matter enhancement
+
+
+
+
+
+
+
+
+
+Table 10: Transition epochs in the MOC benchmark simulations. The matter enhancement percentage is defined relative to the standard reference abundance Ω = 0.3158. The sign transition is defined by 𝜌Λ = 0, while the acceleration
+m
+onset is estimated by 𝜌Λm > 𝜌m/2. The CMB-based cases show that increasing the matter abundance delays both the sign transition and the onset of accelerated expan-
+sion. The SH0ES 0% matter enhancement case shows the same qualitative sequence on a shorter reconstructed cosmic age scale.
+
+The standard CMB case, corresponding to 0% matter enhancement relative to Ωm = 0.3158, provides the reference simulation. In this case, 𝜌Λm (t) changes sign near t ≃ 5.38 Gyr, satisfies the acceleration condition near t ≃ 7.72 Gyr, reaches a broad maximum over t ≃ 9.8–10.8 Gyr, and then decreases slowly toward the present. The present value is
+𝜌Λ (t0) ≃ 5.831 × 10−27 kg m−3,	(186)
+consistent with 𝜌Λ  ≃ 0.684𝜌c for the CMB critical density 𝜌c ≃ 8.5227 × 10−27 kg m−3.
+Within the CMB-based sequence, the −10% matter enhancement case reaches its maxi-mum slightly earlier, near t ≃ 9.71 Gyr. By contrast, the +10% and +20% matter enhance-ment cases exhibit broader late-time maxima extending over t ≃ 9.8–11.8 Gyr and t ≃ 10.8–
+11.8 Gyr, respectively. Thus, increasing the matter abundance systematically delays both the sign transition and the onset of acceleration, extending the decelerating structure-formation epoch before the GSE-induced dark energy component becomes dynamically dominant.
+Unlike a strict cosmological constant, 𝜌Λ (t) is a dynamical density constructed from the
+m
+total GSE. Nevertheless, after the onset of acceleration it remains nearly constant over several
+Gyr. For example, in the standard CMB case with 0% matter enhancement, corresponding to Ωm ≃ 0.3158, 𝜌Λm (t) remains quasi-constant over t ≃ 8.8–13.8 Gyr, varying only at the ∼ 10% level around its mean value, while the matter density decreases by about 69% over the same interval. More specifically, after reaching a broad maximum over t ≃ 9.8–10.8 Gyr, 𝜌Λm (t)
+decreases from 𝜌max ≃ 6.87 × 10−27 kg m−3 to 𝜌Λ (t0) ≃ 5.83 × 10−27 kg m−3, corresponding
+to a mild weakening of about 15% relative to the peak value.
+This behavior is qualitatively consistent with recent DESI indications that dark energy may not be strictly constant and may exhibit a mild late-time weakening, although the observational evidence has not yet reached discovery-level significance [11, 12, 44]. In the present MOC framework, such a weakening is not introduced phenomenologically, but follows from the total GSE density function as the matter density and horizon scale evolve.
+The SH0ES-based standard-matter case provides a useful comparison. Because the SH0ES baseline has a larger Hubble constant than the CMB baseline, its reconstructed present age is shorter, t0 ≃ 12.73 Gyr. Nevertheless, the same qualitative sequence appears: early neg-
+
+ative 𝜌Λ
+m
+, sign transition, onset of accelerated expansion, a broad late-time maximum over
+
+/
+
+
+t ≃ 8.73–9.73 Gyr, and slow decline toward the present. This supports the interpretation that the three-phase MOC cosmic history is not an artifact of a particular H0 baseline, but a robust consequence of the total GSE dynamics.
+The resulting picture is therefore neither a strictly constant dark energy model nor a rapidly varying dark energy model. Instead, MOC produces a dynamical 𝜌Λ (t) that is negative during
+m
+the early structure-formation era, becomes positive at intermediate times, drives late-time
+acceleration, and then behaves quasi-constantly with a mild weakening trend in the recent universe.
+
+Possible implications for early–universe structure anomalies
+One of the most distinctive features of the MOC simulations is the appearance of a negative effective dark energy density in the early universe. In this phase, 𝜌Λ (t) < 0 acts as an ad-
+m
+ditional attractive contribution rather than as a repulsive component. This provides a natural
+pathway for enhanced early structure growth and may help alleviate several early-structure anomalies, including the rapid assembly of massive galaxies reported by JWST [45, 46] and the structure-growth tensions indicated by Euclid, KiDS, and related surveys [47, 48].
+In the CMB-based benchmark simulations, the early value of 𝜌Λ  at t = 0.8 Gyr is signifi-
+m
+cantly negative in all four matter enhancement scenarios:
+f = −10%: 𝜌Λ ≃ −3.19 × 10−25 kg m−3,
+f = 0%: 𝜌Λ ≃ −3.44 × 10−25 kg m−3,
+f = +10%: 𝜌Λ  ≃ −3.68 × 10−25 kg m−3,
+f = +20%: 𝜌Λ  ≃ −3.91 × 10−25 kg m−3.
+These values are substantial compared with the corresponding matter density at the same epoch, typically at the level of roughly 26–29% of 𝜌m(t) in magnitude. They therefore rep-resent a non-negligible attractive component generated by the total GSE, rather than by an exotic new matter species.
+Physically, this early negative phase increases the effective attractive contribution in the background evolution and can support the rapid formation of massive bound structures. It therefore offers a possible background level explanation for why massive galaxies and black-hole seeds may appear earlier than expected in a standard ΛCDM interpretation [45, 46, 49, 50]. A complete treatment of structure formation requires perturbation level and N -body analyses. Nevertheless, the background evolution already shows the key qualitative feature: MOC naturally supplies an early attractive phase without introducing a separate early dark energy sector.
+The subsequent sign transition is equally important. After 𝜌Λ (t) crosses zero, the same
+m
+total GSE mechanism produces a positive dark energy density that drives late-time accelerated
+expansion. Thus, within a single GSE-based framework, MOC connects two phenomena that are usually treated separately: enhanced early structure growth and late-time cosmic acceler-ation.
+
+The cosmological constant coincidence problem
+A long-standing conceptual puzzle in the standard ΛCDM framework is the cosmological con-stant coincidence problem [3,4,8]: why is the dark energy density observed today of the same
+
+/
+
+
+order of magnitude as the matter density, despite their different physical origins and differ-ent redshift scalings? In ΛCDM, the matter density decreases as the universe expands, while the cosmological constant remains fixed. The near equality 𝜌m ∼ 𝜌Λ therefore occurs only within a limited temporal window, motivating fine-tuning or anthropic arguments in parts of the literature [3, 8].
+In the MOC framework, this near equality is not accidental. The effective dark energy den-
+
+sity 𝜌Λ
+m
+(t) is not an independent vacuum component. It is generated from the total GSE of
+
+matter and is therefore linked to the same matter distribution that determines 𝜌m(t). Equiva-
+lently, when the characteristic radius of the mass distribution is denoted by R, the dark energy density can be expressed as a function of the matter density and the mass distribution scale:
+
+𝜌Λ
+m
+(𝜌m, R) = c1β𝜌2 R2 c2β𝜌mR2 − 1 ,	(187)
+
+where c1 and c2 are fixed constants defined by G and c. Thus, apart from the structural coeffi-cient β , the relevant physical dependence is carried by 𝜌m and the length scale R, or by 𝜌m(t) and the particle-horizon scale χp (t) in the cosmological application.
+This relation explains why the matter density and the effective dark energy density can remain comparable over a substantial fraction of late cosmic history. In the standard CMB case with 0% matter enhancement, for example, 𝜌Λm becomes comparable to 𝜌m during the late universe. At t = 7.8 Gyr, one has
+𝜌m ≃ 11.348,	𝜌Λm ≃ 5.960,
+
+
+while near t = 9.8 Gyr,
+
+𝜌m ≃ 6.620,	𝜌Λm ≃ 6.870,
+
+in units of 10−27 kg m−3. At the present epoch,
+𝜌m(t0) ≃ 2.691,	𝜌Λm (t0) ≃ 5.831, so the two densities remain within the same order of magnitude.
+From this perspective, the present-day relation 𝜌m ∼ 𝜌Λm is not a coincidence between two unrelated components. It is a consequence of the fact that both quantities originate from
+the same underlying matter distribution. What appears as an unnatural coincidence in ΛCDM is reinterpreted in MOC as a natural outcome of total GSE dynamics: the effective dark energy density is generated by matter itself, becomes positive only after a sign transition, remains quasi-constant over the late universe, and shows a mild weakening trend toward the present epoch.
+
+Describing the dynamics of the universe without new free parameters or fields
+The MOC framework describes the observed dark energy phenomenology without introducing new fundamental scalar fields or an additional independent dark energy fluid. In this frame-work, the effective dark energy density is generated by the total gravitational self-energy of matter itself. The primary physical inputs are the matter density and the length scale over which the mass distribution is defined.
+This point is most transparent when the dark energy density is written directly as a function of the matter density and the characteristic radius of the mass distribution. With
+
+
+c1 ≡
+4𝑢G
+3c2 ,	c2 ≡
+20𝑢G
+,	(188)
+21c2
+
+/
+
+
+the total GSE dark energy density can be written as
+
+
+𝜌Λ
+m
+(𝜌m, R) = c1β𝜌2 R2 c2β𝜌mR2 − 1 .	(189)
+
+Thus, apart from the structural coefficient β , the functional dependence is carried by 𝜌m and
+R. The dark energy density is therefore not introduced as a new component of the cosmic inventory, but is obtained from the matter distribution itself.
+In the horizon-scale cosmological application, the same relation may be expressed as
+𝜌	(t) = β𝜌m(t) RS (t) 5β RS (t) − 1 .	(190)
+Here RS (t) = 2GM (t)/c2, and M (t) is determined by the matter density and the horizon-scale volume. Therefore, the compactness ratio RS (t)/χp (t) is a useful derived quantity, but the underlying physical inputs are still 𝜌m(t) and the horizon scale χp (t).
+The benchmark simulations make this point explicit. Across the CMB-based matter en-hancement sequence, −10%, 0%, +10%, +20%, and also in the SH0ES-based 0% comparison case, the same qualitative cosmic history appears:
+an early negative 𝜌Λ (t) phase,
+m
+
+a sign transition at intermediate cosmic time,
+the onset of late-time accelerated expansion,
+quasi-constant dark energy behavior in the late universe,
+and a mild weakening trend toward the present epoch.
+This behavior is already obtained when β is kept fixed within each benchmark simulation. The explicitly evolving-β (t) cases discussed in Section 6.4 show the same qualitative sequence, with only shifts in the detailed timing and amplitude. Therefore, the emergence of dynamical dark energy in MOC is not driven by prescribing a separate dark energy function, but by the total GSE density function itself.
+This is especially important for the late universe. Although 𝜌Λm (t) is dynamical, it naturally exhibits a quasi-constant behavior after the onset of acceleration. For example, in the standard CMB case with 0% matter enhancement, corresponding to Ωm ≃ 0.3158, 𝜌Λm (t) remains quasi-constant over t ≃ 8.8–13.8 Gyr, varying only at the ∼ 10% level, while the matter density decreases by about 69% over the same interval. Thus, the quasi-constant appearance of dark energy does not have to be imposed as a strict cosmological constant. It emerges as a late-time property of the total GSE dynamics.
+The coefficient β is not a new field, nor a separately evolving dark energy degree of free-dom. It is a structural coefficient in the gravitational self-energy integral. It specifies how a given mass distribution contributes to the total GSE, but it is not a primary gravitational source comparable to 𝜌m or the mass distribution scale R. Once the density profile is specified, the corresponding value of β is fixed by the gravitational self-energy calculation.
+A more structure-resolved treatment could determine β directly from the matter distri-bution itself. Large-scale N -body simulations of structure formation [33, 34], combined with observed galaxy and cluster-scale statistics, provide a concrete route for extracting the effec-tive cosmological value of β by relating simulated density profiles, halo concentrations, void structure, and clustering to the total GSE over the causally connected volume. In this sense,
+
+/
+
+
+β is not an arbitrary fitting function, but a structural coefficient tied to the organization of matter.
+Consequently, the MOC framework moves toward a reduced-parameter description of dark energy. The total GSE of matter itself generates the main cosmic sequence, including early attraction, sign transition, late acceleration, quasi-constant behavior, and mild weakening, without adding new dark energy fields or imposing a separate time-dependent dark energy sector.
+
+
+Effective Equation of State wΛ (t) and Key Transition Points in
+m
+the MOC
+Effective equation of state wΛ (t)
+m
+In the MOC framework, the effective equation of state of the matter-induced dark energy component is not fixed at w = −1. Instead, it can be reconstructed as an effective diagnostic
+
+from the time evolution of 𝜌Λ
+m
+(t). Here we use the updated standard CMB-based 0% mat-
+
+ter enhancement simulation shown in Table 4, corresponding to Ωm ≃ 0.3158 and constant
+β = 1.6172, as the reference case.
+Assuming that wΛ  varies slowly across a single time step, we estimate it from the conti-
+m
+nuity relation for an effective dark energy component:
+w	(t ) ≈ −1 − 1 ln 𝜌Λm (ti+1)/𝜌Λm (ti ) .	(191)
+This estimator is meaningful only after 𝜌Λ  has become positive. In the updated standard
+m
+CMB case, the sign transition occurs near t ≃ 5.38 Gyr, so wΛm is not assigned to the earlier
+
+negative-𝜌Λ
+m
+phase.
+
+
+/
+Interval (Gyr)	Estimated wΛ
+m
+6.8–7.8
+	≈ −1.85
+	
+	7.8–8.8
+	≈ −1.38
+	
+	8.8–9.8
+	≈ −1.14
+	
+	9.8–10.8
+	≈ −0.98
+	
+	10.8–11.8
+	≈ −0.86
+	
+	11.8–12.8
+	≈ −0.77
+	
+		12.8–13.8	≈ −0.63	
+
+
+Table 11: Estimated effective equation of state wΛ
+m
+(t) for the updated CMB-
+
+based 0% matter enhancement simulation Ωm ≃ 0.3158. The values are recon-
+
+structed using the finite-difference continuity estimator after 𝜌Λ
+m
+becomes positive.
+
+The simulation uses Ωm ≃ 0.3158, χp (t0) = 46.114 Gly, and constant β = 1.6172. The effective equation of state evolves from wΛm < −1 shortly after the sign transi-tion, approaches wΛm ≃ −1 near the broad maximum of 𝜌Λm (t), and then moves into the wΛm > −1 regime as the dark energy density weakens toward the present epoch.
+
+As summarized in Table 11, the effective equation of state is highly dynamical. Immediately after the sign transition, 𝜌Λm (t) grows rapidly, giving wΛm < −1. This should not be interpreted
+
+/
+
+
+as a fundamental phantom field; rather, it is an effective description of the rapid increase of the GSE-induced dark energy density after it becomes positive.
+Near the broad maximum of 𝜌Λm (t), over t ≃ 9.8–10.8 Gyr, the estimated value ap-proaches wΛm ≃ −1. This is the epoch in which the MOC dark energy density most closely
+
+mimics a cosmological constant. After the maximum, 𝜌Λ
+m
+(t) begins to decline slowly, and the
+
+effective equation of state moves into the wΛm > −1 regime. Thus, the MOC framework nat-
+urally produces a transition from an early phantom-like effective behavior, through a near-Λ
+phase, into a late-time weakening phase.
+This late-time behavior is consistent with the quasi-constant but mildly weakening dark energy trend found in the updated CMB benchmark simulation. In particular, over t ≃ 8.8–
+13.8 Gyr, 𝜌Λm (t) varies only at the ∼ 10% level around its mean value, while the matter density decreases by about 69%. The effective equation-of-state reconstruction therefore rein-
+forces the main MOC result: the apparent cosmological-constant-like behavior is not imposed, but emerges from the total GSE density function. The subsequent wΛm > −1 behavior is also qualitatively consistent with recent observational analyses that allow for a mild late-time weakening of dark energy [11, 12, 44].
+
+Key transition points in the MOC model
+Using the updated CMB-based standard simulation, corresponding to 0% matter enhancement, Ωm ≃ 0.3158, and constant β = 1.6172, we identify two transition epochs that characterize the emergence of matter-induced dark energy and the onset of late-time acceleration. Transition times are obtained via linear interpolation between discrete simulation points. Importantly, the emergence of positive, repulsive dark energy does not immediately lead to cosmic acceleration.
+
+Transition	Definition	Interval	t (Gyr)	z	Notes
+
+Sign Crossover	𝜌Λm = 0	4.8→5.8	≈ 5.38	≈ 1.12	Dark energy changes sign from attrac-
+tive to repulsive.
+
+Acceleration Onset	𝜌Λ
+m
+≈ 2 𝜌m	6.8→7.8	≈ 7.72	≈ 0.63	Repulsive	dark	energy	becomes
+
+strong enough to compete with mat-
+ter and trigger global acceleration.
+
+Table 12: Key transition epochs for the updated CMB-based standard simulation. The simulation uses 0% matter enhancement, Ωm ≃ 0.3158, χp (t0) = 46.114 Gly, and constant β = 1.6172. A characteristic feature of the MOC model is the delay between the sign transition of 𝜌Λm , occurring near t ≃ 5.38 Gyr (z ≃ 1.12), and the onset of accelerated expansion, occurring near t ≃ 7.72 Gyr (z ≃ 0.63).
+
+The early negative phase, t ≲ 5.38 Gyr, enhances structure formation by providing an additional gravitationally attractive contribution to the cosmic energy budget. However, the mere appearance of positive dark energy does not immediately induce cosmic acceleration. Only after the condition
+1
+𝜌Λm ≳ 2 𝜌m
+is met at t ≃ 7.72 Gyr does the universe transition into an accelerating phase.
+In the updated CMB standard simulation, the dark energy density reaches a broad maxi-mum over t ≃ 9.8–10.8 Gyr and then slowly declines toward the present epoch. This behavior indicates a quasi-constant but mildly weakening dark energy component, rather than a strict cosmological constant [11, 44].
+
+/
+
+Thus, the standard CMB-based MOC simulation exhibits the characteristic three-phase se-quence: an early attractive phase with 𝜌Λ  < 0, an intermediate transition to positive dark
+m
+energy, and a late-time repulsive phase that drives accelerated expansion while remaining
+quasi-constant over several Gyr.
+
+
+The Future of the Universe in the MOC
+In the MOC framework, the long-term fate of the universe is governed not by a fixed vacuum energy, but by the dynamical structure of the total GSE. Unlike ΛCDM, where dark energy is introduced as an independent constant [3, 4, 8], the MOC model treats the dark energy density as a quantity determined by the interplay between the physical matter density and the causal horizon structure. In particular, the dark energy density depends explicitly on the matter density 𝜌m and the dimensionless geometric ratio RS /χp as follows:
+𝜌	= β𝜌m RS 5β RS − 1 .	(192)
+This expression follows directly from the generalized horizon formulation of the GSE densities. Here RS = 2GM /c2 is the Schwarzschild radius associated with the total mass M = 𝜌m Vphys contained within the causally connected region, while the particle horizon χp sets the causal interaction scale governing the formation of GSE.
+The sign of cosmic acceleration is therefore determined by the evolution of the combination
+𝜌m(RS /χp ). While the matter density scales as 𝜌m ∝ a−3 in an expanding universe [15, 37], the Schwarzschild radius RS grows with the total mass enclosed within the particle horizon as RS ∝ χ3𝜌m ∝ χ3a−3. Consequently, the term RS /χp scales as χ2a−3. During the epoch of
+late-time acceleration, the growth of the particle horizon χp (t) is logarithmic or slower relative
+to the scale factor a(t). This implies that the factor 𝜌m(RS /χp ) will eventually decrease in the far future, suggesting that the repulsive phase defined by 𝜌Λ > 0 cannot persist indefinitely.
+m
+A future transition toward a weaker dark energy density is therefore a natural consequence of
+the model.
+Quantitatively, the updated CMB-based simulations indicate that the dark energy den-sity has already passed its maximum value. Across all four matter realizations (−10%, 0%,
+
++10%, +20%), the dark energy density 𝜌Λ
+m
+(t) increases after its sign transition, reaches a
+
+broad maximum over approximately t ≃ 9.7–11.8 Gyr, and then decreases toward the present
+epoch. At z = 0, the predicted values converge to
+𝜌Λ (t0) ≃ (5.29–6.10) × 10−27 kg m−3,
+consistent with the expectation that the late-time dynamics is relatively insensitive to detailed microphysical parameters [3, 4].
+Although the present simulation window does not yet show a full turnover to negative
+𝜌Λ  , the post-peak decline is clearly visible in all cases. This behavior implies that the effective
+m
+equation of state has already crossed into the quintessence regime (w > −1) and is evolving
+
+away from the de Sitter limit [8]. The gradual decrease of 𝜌Λ
+m
+provides physical motivation
+
+for a future transition toward weaker acceleration and potentially toward deceleration in a
+later epoch.
+
+Self-regulation of cosmic expansion: A natural feedback cycle
+A key structural feature of the MOC framework is the feedback between the expansion history and the GSE term itself. This feedback is mediated by the distinct evolution of the matter
+
+/
+
+
+density 𝜌m and the geometric ratio RS /χp .
+During accelerated expansion, the rapid growth of the scale factor a(t) leads to a rapid decrease in the matter density 𝜌m. This suppression of the factor 𝜌m(RS /χp ) weakens the repulsive GSE contribution. In the simulations, this behavior appears as a flattening and eventual decline of 𝜌Λ (t) after it reaches a finite maximum.
+m
+
+During decelerated expansion, 𝜌m decreases more slowly, while the particle horizon χp (t) can evolve comparatively more effectively. Consequently, the quantity 𝜌m(RS /χp ) decreases less rapidly than in the accelerated phase, allowing the repulsive GSE com-ponent to recover relative importance. This process pushes 𝜌Λ (t) back toward more
+m
+positive values and can re-enable acceleration.
+This qualitative feedback structure resembles that of a damped oscillator. The system can overshoot the neutral point defined by 𝜌Λ	= 0, while the amplitude of each excursion is
+m
+reduced as the overall energy scale continues to dilute in an expanding background.
+
+Entry into a decelerating phase in the near future
+The MOC framework links the sign of cosmic acceleration to the evolution of the same con-trolling combination that appears in the total GSE expression. Equivalently, the sign of 𝜌Λ is
+m
+governed by the bracketed factor
+
+5β RS
+14 χp
+− 1.	(193)
+
+As the universe accelerates, the physical volume increases rapidly and the physical matter density 𝜌m correspondingly decreases. As a result, the ratio RS /χp decreases, leading the above factor toward zero. The updated CMB-based simulations indicate that the sign transition
+𝜌Λm = 0 occurred in the past at t ≃ 4.98–6.07 Gyr, depending on the matter content. All
+
+models subsequently exhibit a finite maximum of 𝜌Λ
+m
+followed by a gradual decline.
+
+These trends suggest that the universe may eventually enter a new decelerating ex-pansion phase if 𝜌Λ (t) continues to decrease from its post-peak values.
+m
+This expectation is reinforced by the decline of the quantity 𝜌m(RS /χp ) in the late-time regime and by the intrinsic feedback between the expansion history and the GSE term.
+
+Long-term behavior: Damped oscillatory evolution
+
+Because 𝜌Λ
+m
+depends on the evolving quantity 5β RS − 1, the MOC framework naturally allows
+
+repeated sign changes of the GSE contribution. Once the feedback between the expansion history and the horizon scales becomes active, this can give rise to alternating phases of accel-erated and decelerated expansion. As the matter density continues to dilute, each successive cycle is expected to exhibit a smaller amplitude. The characteristic timescale of the oscillation may also increase at late epochs, as the effective driving term evolves more slowly. This behav-ior is typical of a damped dynamical system, analogous to the feedback mechanisms discussed in nonlinear cosmic structure formation.
+Importantly, the early stages of this damped evolution are, in principle, observationally testable. In particular, a gradual weakening of dark energy, a transition toward w > −1, and the eventual onset of a decelerating phase constitute concrete predictions of the MOC frame-work. Future high-precision measurements of w(a) and its time dependence, for example from LSST, DESI, and Euclid, can therefore directly probe this regime.
+
+/
+
+
+The universe thus evolves toward a damped, slowly varying expansion history, rather than eternal acceleration or an abrupt recollapse. The oscillatory description here should be under-stood as an effective characterization of the intermediate and late-time dynamics, prior to the exhaustion of causal structure formation.
+
+Ultimate fate of the universe after horizon saturation
+Beyond the observationally accessible regime, the MOC framework also provides a well-defined prediction for the ultimate fate of the universe. This fate is governed by the saturation of the comoving particle horizon and the consequent termination of causal matter inflow.
+Once the particle horizon approaches its asymptotic limit, which is approximately
+χp (t) → χlim ≃ 62.8 Gly	(194)
+for the updated CMB calibration
+H0 = 67.360 km s−1 Mpc−1,	Ωm ≃ 0.3158,	χp (t0) = 46.114 Gly,
+no additional comoving matter shells can enter the causally connected region [51, 52]. As a direct consequence, the total mass enclosed within the particle horizon, M (t), asymptotically approaches a finite limiting value, Mmax.
+While the mass sourcing the GSE ceases to grow, the scale factor a(t) continues to increase due to the inertia of the cosmic expansion [4]. Since the Schwarzschild radius RS is propor-tional to the enclosed mass, it also approaches a constant value RS,∞. However, the matter density 𝜌m continues to dilute as a−3. As a result, the controlling combination 𝜌m(RS /χp ) decreases monotonically in the post-saturation regime.
+Within the MOC dark energy expression, this monotonic decrease inevitably drives the bracketed factor controlling the sign of 𝜌Λm toward negative values. The repulsive phase of matter-induced dark energy therefore cannot persist indefinitely. After the current post-peak epoch, the universe is expected to transition into a purely decelerating expansion phase. This deceleration does not imply a recollapse or a Big Crunch scenario. Because the total enclosed mass remains finite and the expansion rate remains positive, the universe continues to expand, albeit with steadily decreasing acceleration. The expansion does not reverse; instead, it asymptotically approaches a slow, matter-dominated expansion state.
+The long-term cosmological outcome in the MOC framework is thus neither eternal acceleration nor catastrophic collapse, but a gradual approach to a thermodynamically cold and dilute state. In this sense, the ultimate fate of the universe resembles a form of cos-mic heat death, characterized by ever-expanding physical scales, diminishing interaction rates, and a vanishingly small dark energy density [4]. The same GSE mechanism that generates cos-mic acceleration at intermediate epochs therefore also guarantees its eventual shutdown once causal structure formation is exhausted.
+
+/
+
+Part III. Extensions
+A Unified Physical Origin for Cosmic Acceleration
+The standard ΛCDM model treats primordial inflation and late-time acceleration as discon-nected phenomena, typically driven by independent scalar fields [53–56]. The GSE framework in MOC unifies both via a single, intuitive principle. The dark energy density arises from the total GSE of the contents of the causal horizon, expressed elegantly in terms of its compactness ratio as follows:
+𝜌	= β𝜌m RS 5β RS − 1 .	(195)
+In the General GSE framework, this single equation reveals a fundamental Density-Scale Du-ality. Repulsive gravity (𝜌Λ  > 0) is driven by extreme density at small scales during inflation
+m
+and by extreme scale geometric factors at low densities in the late-time dark energy epoch.
+
+Inflation: Acceleration at extreme density
+We quantify the dark energy density at the Planck epoch. In the radiation-dominated early universe, the causal scale χp and the physical scale Rphys are tightly coupled and comparable such that Rphys ≈ χp ≈ R. Under these conditions, the MOC expression becomes a function of the local density and the compactness ratio.
+𝜌	≈ β𝜌m RS  5β RS − 1 .	(196)
+
+We take 𝜌m ≃ 𝜌pl and R ≃ lpl at this epoch. For an illustrative high-compactness estimate, we adopt β ≃ 2, which is close to the static compact-object reference scale discussed in Sec. 3.1. This choice is not required for the onset of accelerated expansion. Even for more conservative choices such as β = 1.5 or β = 1, the Planck-scale compactness RS /R = 8𝑢/3 gives 𝜌Λm > 𝜌m, and therefore the GSE term is already sufficient to generate accelerated expansion. The value β ≃ 2 is used only to illustrate the high-density limit of the mechanism.
+The compactness ratio at the Planck scale is calculated using the Planck density as follows
+
+
+R	2GM
+2G( 4 𝑢R3𝜌 )
+8𝑢G𝜌pl l2
+
+8𝑢
+
+ S =
+R
+c2R
+= 	3	pl  =
+c2R
+3c2
+pl
+= 3 ≈ 8.38.	(197)
+
+Substituting these values into the MOC expression for 𝜌Λ  yields
+m
+𝜌	≈ 2𝜌pl (8.38)  5(2)(8.38) − 1 ≈ 8.38 × (5.99 − 1).	(198)
+
+This calculation gives a dark energy density of
+𝜌Λm ≈ 8.38 × 4.99 ≈ 41.8𝜌pl.	(199)
+To assess whether this GSE-induced dark energy drives accelerated expansion, we use the general FRW acceleration equation as a diagnostic tool
+a¨ = − 4𝑢G X 𝜌 + 3p /c2 .	(200)
+
+For radiation, the equation of state is pr = 𝜌r c2/3, so that
+𝜌r + 3pr /c2 = 2𝜌r .	(201)
+
+/
+
+
+For the GSE dark energy component, we adopt an effective equation of state pΛ
+m
+over the relevant interval, yielding
+≃ −𝜌Λm c
+
+𝜌Λ + 3pΛ /c2	2𝜌Λ .	(202)
+m	m	m
+
+The acceleration equation therefore reduces to
+a¨ ≈ − 8𝑢G 𝜌 − 𝜌	 .	(203)
+
+Assuming an effective equation of state w ≈ −1 for this dark energy component, the accel-eration equation at the Planck epoch becomes
+
+a¨
+a ≈ −
+8𝑢G
+3 (𝜌pl − 𝜌Λm ) = −
+8𝑢G
+3 (𝜌pl − 41.8𝜌pl) > 0.	(204)
+
+This strongly negative effective source term in the acceleration equation leads to a powerful accelerated expansion, providing a natural mechanism to address the horizon and flatness problems without the need for additional scalar fields.
+
+Energy Density & Hierarchy With 𝜌pl ≃ 5.16 × 1096 kg/m3, the calculated dark energy density is
+𝜌Λ	≈ 2.16 × 1098 kg/m3,	(205)
+EΛ	= 𝜌Λ c2	1.94	10115 J/m3,	(206)
+m	m
+
+(Planck)
+Λm
+∼ 10	J/m .	(207)
+
+which is of Planck-scale order and is therefore compatible with the extremely high vacuum-energy scale typically associated with an inflationary phase.
+Using the observed late-time dark energy density 𝜌Λ-obs ≃ 7 × 10−27 kg/m3 (i.e., EΛ-obs
+≃ 6 × 10−10 J/m3) [5],
+
+(Planck)
+ Λm	
+𝜌Λ-obs	≈
+2.16	1098
+7 × 10−27	≃ 3 × 10
+
+124
+
+.	(208)
+
+Equivalently E(Planck)/EΛ-obs ∼ 10124. Thus, MOC naturally attains an inflationary-scale energy density while explaining the tiny late-time value through the same density–size GSE mechanism, without introducing new fields.
+
+Inflation triggered by GSE: Consistency with standard inflation scales
+In the MOC framework, primordial inflation is not postulated as an independent dynamical sector. Instead, inflation can emerge when the matter-induced dark energy generated by total GSE becomes comparable to the dominant radiation component.
+
+Acceleration condition in a radiation background
+For a radiation component with equation of state wr = 1/3 and a dark energy-like component with wΛm ≃ −1 during the repulsive phase, the acceleration equation reduces to [4, 15]
+a¨ ≈ − 8𝑢G 𝜌 − 𝜌	 .	(209)
+
+Inflation begins when the right-hand side becomes positive, which is approximately the con-dition
+𝜌Λm = 𝜌r .	(210)
+
+/
+
+
+Causal regime at very early times
+At sufficiently early times, causality enforces a single characteristic scale for the size of the causally connected region. Independently of whether accelerated expansion has already started, one can take
+χp ≈ Rphys ≈ R	(211)
+and, at the level of an order-of-magnitude trigger estimate, adopt
+R ≈ ct.	(212)
+In this causal regime, the MOC GSE expression can be written in terms of the compactness ratio as
+𝜌	= β𝜌r RS  5β RS − 1	(213)
+where the Schwarzschild radius is defined by RS = 2GM , and the enclosed mass within radius R is approximated by
+M = 4𝑢 R3𝜌 .	(214)
+3	r
+
+Ratio form and the time–density trigger
+Dividing Eq. (213) by 𝜌r gives
+𝜌Λm = β RS  5β RS − 1 .	(215)
+
+For the early-universe configuration emphasized in this paper, we take β ≃ 2, which yields
+𝜌Λm ≈ RS  5 RS − 1 .	(216)
+
+Using Eq.(214), the compactness ratio becomes
+
+
+RS = 2GM
+8𝑢G R2𝜌r
+=
+
+.	(217)
+
+R	c2R	3	c2
+With the causal estimate R ≈ ct, this simplifies to
+
+
+RS
+R ≈
+Substituting Eq. (218) into Eq. (216) gives
+8𝑢G
+t
+3
+2𝜌r .	(218)
+
+𝜌Λm	8𝑢G 2
+
+≈	t 𝜌
+
+/
+ 40𝑢G t2𝜌
+− 1 .	(219)
+
+Imposing the inflation condition 𝜌Λm = 𝜌r from Eq. (210) yields a quadratic equation for the combination t2𝜌r . The physically relevant solution can be written as
+
+(220)
+
+Numerical implications at t ≃ 10−36 s and t ≃ 10−35 s Equation (220) implies the following two equivalent interpretations.
+
+/
+
+
+Inflation time ⇒ density scale.	If inflation begins at t ≃ 10−36 s, then Eq. (220) predicts
+𝜌r (t ≃ 10−36 s) ≃ 3.71 × 1081 kg m−3	(221)
+which lies within the standard inflationary onset window commonly discussed in early infla-tionary models [54–56].
+Likewise, if one considers a later onset time t ≃ 10−35 s, the required density decreases as
+𝜌r ∝ t−2, giving
+𝜌r (t ≃ 10−35 s) ≃ 3.71 × 1079 kg m−3	(222)
+
+Density scale ⇒ inflation time.	Conversely, if the early universe is characterized by a nearly homogeneous radiation density of order 𝜌r ∼ 1081 kg m−3, then Eq. (220) implies that the GSE
+
+trigger 𝜌Λ
+m
+= 𝜌r is reached automatically at t ∼ 10−36 s.
+
+The MOC GSE trigger relation in Eq. (220) provides a direct mapping between a char-acteristic inflation onset time and a characteristic early-universe mean radiation density. In this sense, the MOC framework can reproduce the usual inflationary scale window without introducing an additional inflaton field or a fine-tuned potential. Inflation emerges as a grav-itational phenomenon driven by the compactness of the causally connected region and the resulting total GSE.
+
+Why 𝜌r ∼ 1079–1081 kg m−3 is physically motivated in standard inflation
+In standard inflationary phenomenology, the relevant scale is often expressed by the infla-tionary potential energy density V . A conventional relation links the energy scale V 1/4 to the tensor-to-scalar ratio r, schematically yielding V 1/4 in the ballpark of 1015–1016 GeV for obser-vationally allowed r values [57]. Because an energy scale V 1/4 ∼ 1015–1016 GeV corresponds to an enormous energy density V ∼ (1015–1016 GeV)4, this translates to mass density scales of order 1079–1081 kg m−3 when converted to SI units.
+Therefore, the density level required by the GSE trigger relation in Eq. (220) is not an ad hoc insertion. It lies in the same broad magnitude range that is typically invoked when one parametrizes inflation by a high inflationary energy scale, constrained by the observed amplitude of primordial perturbations and the upper bounds on primordial tensor modes [57].
+
+Initial near-thermal state and its implications for early accelerated expansion
+The conventional “horizon problem” is often phrased as a causal objection to the near-uniform CMB temperature observed across widely separated directions on the sky [54–56]. Here we adopt a different viewpoint that is natural within a matter-only, GSE-driven cosmology.
+If the universe originates from a single underlying physical mechanism, it is not compelling to assume that widely separated regions are “prepared” with substantially different tempera-tures or macroscopic states at birth. Rather, in the absence of detailed information about micro-scopic initial conditions, the most natural macroscopic description of the primordial state is a near-thermal configuration, with deviations that are small and statistically characterized [15].
+In this picture, the early accelerated expansion driven by the total GSE proceeds from an initially hot, nearly equilibrated state. As the universe expands and the interactions effectively differentiate through successive dynamical processes, including gravitational instability and phase transitions, the system generically departs from perfect equilibrium. The observed CMB anisotropy at the level of ∆T /T ∼ 10−5 is then interpreted not as evidence for a highly non-thermal primordial preparation, but as the expected residual imprint of a nearly equilibrated origin that becomes gradually perturbed by subsequent dynamics [5].
+
+/
+
+
+Under this near-thermal initial condition, the conceptual role of primordial acceleration is altered. In contrast to the standard inflationary argument, the accelerated expansion is not required to enforce global causal contact across the entire last-scattering surface. Instead, accelerated expansion occurs because the total GSE energy is positive. The initial accelerated phase (inflation) is therefore a natural dynamical response driven by the negative pressure associated with the GSE.
+The resulting dynamics naturally suppress primordial curvature, dilute relic abundances, and can provide initial conditions compatible with the observed near scale-invariant pertur-bation spectrum [54, 55, 57], without invoking any teleological principle. In this framework, the conventional single-patch requirement is relaxed. If the primordial state is already char-acterized by a nearly uniform thermal configuration, the number of e-folds required during the early accelerated phase is not dictated by the need to causally synchronize the entire ob-servable universe. Rather, it is determined by dynamical considerations such as the onset of perturbation generation, the stabilization of spatial flatness, and the smooth transition into the subsequent radiation-dominated epoch.
+Consequently, a moderately reduced amount of accelerated expansion, compared to that assumed in standard inflationary scenarios, is sufficient within the MOC framework. The ac-celerated phase driven by the total GSE acts to preserve and gently amplify an already near-equilibrated initial state, rather than to manufacture large-scale homogeneity from an initially uncorrelated configuration.
+Because the universe remains hot throughout this process and transitions smoothly into the radiation-dominated phase, the role traditionally played by excessive exponential expansion is replaced by thermal continuity and causal evolution.
+As a result, MOC inflation does not need to generate an arbitrarily large number of e-folds. The required expansion factor is fixed by the adiabatic cooling needed to connect the inflationary exit scale, corresponding to a temperature scale of order 1015–1016 GeV, to the onset of Big Bang Nucleosynthesis at TBBN ∼ 109 K [4]. This corresponds to a finite expansion of order 1019–1020, which appears sufficient to establish the observed thermal history without invoking superfluous exponential growth.
+
+The self-terminating mechanism of MOC inflation
+A longstanding difficulty in standard inflationary cosmology is the graceful-exit problem and the reheating problem [58,59]. In conventional models, inflation is driven by an external scalar inflaton field whose potential energy dominates the cosmic energy budget. Once inflation ends, the universe is left in a supercooled state due to the enormous exponential expansion required to solve the horizon and flatness problems. Recovering a hot, radiation-dominated universe therefore necessitates an additional reheating phase, in which the inflaton field decays into standard model particles through model-dependent microphysical processes.
+In the MOC framework, this entire structure is replaced by a single gravitational mecha-nism. Inflation is not sourced by an independent scalar field but emerges dynamically when the matter-induced dark energy generated by total GSE becomes comparable to, and then exceeds, the radiation density. As a consequence, the termination of inflation is not a sepa-rate dynamical event but follows directly from the same gravitational term that initiates the accelerated expansion.
+The sign of the dark energy density in MOC is governed by the following dimensionless
+factor:
+𝑇 (R) ≡  5β RS − 1 =  5β 2GM − 1	(223)
+
+/
+
+
+which appears explicitly in the total GSE contribution.
+Using the mass density relation M = 4𝑢 R3𝜌, this factor can be rewritten as
+
+𝑇 (R) =	20𝑢β G 𝜌R2	1 .	(224) 21c2
+During this initial phase, the universe is radiation-dominated, meaning its energy den-sity scales with the size of the causal patch R as 𝜌 ∝ R−4. Substituting this scaling relation
+𝜌(R) = 𝜌i (Ri /R)4 into the equation reveals the inherent evolution of the acceleration driver.
+𝑇 (R) =  20𝑢β G 𝜌 R4  1  − 1 ≡   C  − 1	(225) where C is a positive constant fixed by the initial conditions.
+This expression makes the termination mechanism transparent. At extremely early times, corresponding to the high-density regime emphasized in standard inflationary phenomenology, the compactness of the causally connected region implies that 𝑇 (R) ≫ 0. The resulting positive dark energy density generates strong repulsive gravity and drives rapid accelerated expansion. However, the same expansion that characterizes inflation inevitably increases the characteristic scale R. Because the leading contribution to 𝑇 (R) scales as R−2, the repulsive term decays as the universe expands.
+At a finite value of R, the condition 𝑇 (R) = 0 is reached. Beyond this point, 𝑇 (R) becomes negative, causing the effective matter-induced dark energy density 𝜌Λ  to change sign from
+m
+positive to negative. The repulsive gravitational effect therefore shuts off automatically and
+is replaced by an attractive contribution. Inflation thus terminates smoothly as a direct con-sequence of the expansion itself, without invoking an external decay channel or additional tuning. This provides a built-in graceful-exit mechanism, rather than requiring a separate exit process as in conventional inflaton-based models.
+
+A solution to the reheating problem
+The resolution of the reheating problem in the MOC framework must be discussed consis-tently with the inflationary trigger scale established in the preceding section. As shown above, the onset and termination of inflation occur naturally when the matter-induced dark energy becomes comparable to the radiation background at
+t ∼ 10−36 s,	𝜌r ∼ 1079–1081 kg m−3	(226)
+which lies in the characteristic energy density window usually invoked in standard inflationary phenomenology [57].
+In conventional inflation, the exponential expansion following this epoch typically dilutes the universe to an extremely cold and effectively empty state. A separate reheating phase is therefore introduced, in which the inflaton field decays into standard model particles through model-dependent microphysics [58, 59]. In this picture, the temperature after inflation is not determined by the expansion history itself but by the efficiency of inflaton decay.
+In contrast, inflation in the MOC framework corresponds to an early phase of accelerated but finite power-law expansion driven by total GSE. Once the compactness condition governing the sign of 𝜌Λm is no longer satisfied, the effective repulsive contribution automatically shuts off and the universe transitions smoothly into a radiation-dominated expansion. Within the present MOC framework, no separate decay or reheating mechanism is required.
+
+/
+
+
+The thermal evolution after the end of MOC inflation therefore follows directly from adi-abatic expansion. Taking the characteristic temperature at the onset of inflation to be Tend ∼ 1015–1016 GeV consistent with the density scale derived at t ∼ 10−36 s, the subsequent cooling proceeds continuously toward the Big Bang Nucleosynthesis scale, TBBN ∼ 109 K.
+For adiabatic expansion of a radiation-dominated plasma, the temperature scales as T ∝ a−1. The required expansion factor between the end of inflation and the onset of nucleosynthesis is therefore
+
+ Tend
+TBBN
+∼ 10
+–1020
+.	(227)
+
+This corresponds to a decrease in radiation energy density of
+
+
+ 𝜌end
+𝜌BBN ∼
+ Tend  4
+TBBN
+
+∼ 10
+
+–1080
+
+,	(228)
+
+which is fully consistent with the standard thermal history connecting the inflationary epoch to Big Bang Nucleosynthesis.
+Neither the exponential expansion factor commonly invoked in standard inflation (e60 ∼ 1026) [54–56] nor the finite expansion factor in MOC (∼ 1019–1020) is directly observed. Both represent model-dependent requirements needed to connect the early universe to the observed cosmological state. The difference is that in MOC the required expansion is determined inter-nally by GSE and thermal continuity, rather than imposed to solve horizon-scale problems.
+MOC inflation does not cool the universe to a vacuum state. It ends while the universe is still extremely hot, and the subsequent adiabatic expansion alone naturally connects the inflationary epoch to Big Bang Nucleosynthesis.
+In this framework, the reheating problem is substantially reformulated: because the uni-verse is not driven into an empty supercooled state by an external inflaton potential, the tran-sition to the radiation-dominated phase may occur through thermal continuity rather than through a separate inflaton-decay reheating stage.
+
+Dark energy: Acceleration at extreme scale
+In the late matter-dominated era, the same total GSE framework governs the cosmic dynamics. However, the physical origin of acceleration is now controlled by extreme scale rather than extreme density. The relevant dimensionless compactness factor appearing in the GSE term can be written as
+
+5β R (t)
+5β 2GM (t)
+Rphys(t)3
+
+	S	 =
+∝ β (t) 𝜌
+(t)
+,	(229)
+
+14 χp (t)
+14 c2χp
+(t)
+χp (t)
+
+where M (t) = 4𝑢 𝜌m(t)Rphys(t)3 is the total mass contained within the causally connected
+region.
+At late times, a competition emerges between two opposing effects. The matter den-sity 𝜌m(t) decreases as a(t)−3 due to cosmic expansion [15, 37], while the geometric factor Rphys(t)3/χp (t) grows monotonically as the causal domain expands. This structure reflects the relation between the causal interaction scale χp (t) and the physical-volume scale Rphys(t), which is used to express the GSE contribution as a physical density.
+Our numerical simulations show that after an initial period in which the attractive com-ponent dominates, the growth of the scale-dependent factor eventually overcomes the decay of the matter density. As a result, the effective GSE contribution crosses the critical threshold and becomes repulsive. This transition marks the onset of late-time cosmic acceleration.
+
+/
+
+
+In this regime, the dark energy density evolves slowly and remains close to a quasi-constant value. Rather than representing a true cosmological constant, the observed dark energy [11, 12, 44] is interpreted as the outcome of a slowly varying balance in which the combina-tion β𝜌m(t) Rphys(t)3/χp (t) maintains a small net repulsive contribution over cosmological timescales.
+
+Two accelerations, one physical origin
+The total GSE framework provides a unified physical explanation for both primordial inflation and late-time cosmic acceleration. In the early universe, accelerated expansion arises when-ever the total GSE becomes positive within a causally connected region. This condition is controlled by the local energy density and does not single out a unique microscopic timescale.
+Instead, accelerated expansion can naturally occur across a range of early epochs between the Planck scale and the standard inflationary window, provided that the radiation density satisfies the GSE trigger condition derived in Sec. 10.2. In this sense, MOC is capable of re-producing inflationary behavior at the conventional t ∼ 10−36–10−35 s scale, while remaining equally consistent with earlier onset times approaching the Planck regime.
+Primordial inflation in MOC is therefore not tied to a uniquely specified moment in time, but is a density-driven phenomenon. The onset time is selected dynamically by the value of the radiation density rather than imposed by an external field or a fine-tuned potential. The same underlying mechanism can accommodate a continuous range of early-universe conditions, from Planck-scale densities to those conventionally associated with standard inflation.
+In contrast, late-time cosmic acceleration emerges from the identical GSE mechanism op-erating at extreme scale rather than extreme density, when the causally connected region has grown to cosmological dimensions of order R ∼ 46 Gly. The density–scale duality of the GSE is thus encoded in a single dimensionless compactness factor that controls the GSE regime across cosmic history. At early times this factor is driven by high density, while at late times it is controlled by the growth of the causal scale.
+The enormous hierarchy between the Planck-scale vacuum energy density and the present-day effective dark energy, often quoted as ∼ 10124, arises naturally from evaluating the same physical quantity at different points along cosmic evolution. In this picture, primordial infla-tion and late-time acceleration are not separate phenomena but two limits of a single gravita-tional mechanism.
+Unlike other unified dark energy models [60], the MOC framework introduces no new fields and requires no modification of General Relativity. It offers a predictive and falsifiable description of cosmic acceleration grounded in the GSE of matter.
+
+
+Resolution of the Black Hole Singularity in MOC
+One of the most profound challenges in modern physics is the singularity predicted to exist at the heart of a black hole [61–63]. MOC offers a novel and consistent resolution to this problem. Here, we extend the GSE framework from the cosmos to the core of a collapsing star, demonstrating that the same physical principle that drives cosmic acceleration naturally averts the formation of a singularity.
+
+/
+
+Gravitational dynamics in a collapsing object
+While the TOV equation describes static stellar structures [28], the dynamical collapse inside a black hole is more naturally analyzed with a Friedmann-type evolution equation. Unlike the TOV equation, which applies strictly to static configurations, the dynamical interior of a col-lapsing object can be effectively described by a Friedmann-type evolution equation under the assumption of spherical symmetry and homogeneous radial collapse. This correspondence is il-lustrated by the Oppenheimer–Snyder solution, which shows that the interior of a pressureless collapsing sphere is mathematically equivalent to a time-reversed Friedmann universe [29]. Accordingly, we adopt the Friedmann acceleration equation as an effective tool to analyze whether the collapse proceeds toward a singularity or is dynamically halted.
+Unlike the expanding universe where the effective mass depends on the evolving particle horizon, a collapsing star is a localized system residing well within the cosmic causal limit (R ≪ χp ). In the compact regime relevant for a collapsing object, the matter component is pressureless to leading order, Pm ≈ 0, while the GSE-induced component satisfies an effective equation of state wΛm ≈ −1. The active gravitational source term in the acceleration equation therefore reduces to
+𝜌T + 3PT ≈ 𝜌m − 2𝜌Λm .	(230)
+The sign of this term dictates the net gravitational force. To analyze this term, we use the GSE-derived expression for 𝜌Λ , specialized here to a compact object of radius R:
+m
+𝜌	≈ β𝜌m RS  5β RS − 1 .	(231)
+
+The sign-transition radius and the emergence of repulsion
+Equation (231) reveals a characteristic transition scale in the dynamics of gravitational col-lapse, determined by the ratio of the object’s radius R to its Schwarzschild radius RS . The sign-transition point occurs when the bracketed factor vanishes.
+5β RS	5β
+14 R − 1 = 0	⇒	Rtran = 14 RS .	(232)
+Here Rtran denotes the radius at which the matter-induced dark energy changes sign, 𝜌Λm = 0. This radius should be distinguished from the critical radius Rcrit, which is defined separately by the acceleration-balance condition a¨ = 0.
+Given that the collapsing core represents an extremely dense and centrally concentrated configuration, we adopt a representative structure coefficient value β ≈ 1.5. This choice is consistent with relativistic self-gravitating systems near maximal compactness and lies within the plausible range suggested by TOV-like compact configurations and by our analysis of high-density regimes. In this regime, the sign-transition radius becomes
+7.5
+Rtran ≈ 14 RS ≈ 0.54RS .	(233)
+Phase 1: Accelerated collapse (R > Rtran)
+For a collapsing object with R > Rtran, the bracketed term is negative, making 𝜌Λm < 0. This means the dark energy acts as an attractive force, enhancing gravity. Thus, in the
+MOC framework, the initial stages of black hole formation can proceed more rapidly than in the standard purely attractive picture.
+Phase 2: The sign transition (R = Rtran)
+At the specific radius R ≈ 0.54RS (assuming β ≈ 1.5), the dark energy density vanishes. This marks the boundary between the attractive exterior and the repulsive interior.
+
+/
+
+
+Phase 3: The repulsive core (R < Rtran)
+As the collapse proceeds past this transition radius, 𝜌Λ  flips sign and becomes posi-
+m
+tive. The active gravitational source term now contains a powerful repulsive compo-
+nent. Modeling the GSE component with an effective equation of state w ≈ −1, or more generally with any negative-pressure condition satisfying w < −1/3, this positive energy density generates a repulsive gravitational effect that counteracts the collapse. The repulsive contribution scales more steeply with decreasing radius than the attrac-tive matter term. Specifically, the dominant GSE repulsive term grows as R−5, while the matter contribution scales as R−3. This difference in scaling implies that, below a finite radius, the repulsive effect tends to dominate over the attractive matter term, without requiring the total mass to be Planckian. A singularity, which would require attraction to dominate all the way down to R = 0, is therefore dynamically avoided in this frame-work. The formation of a finite, non-singular core eliminates the spacetime singularity and removes the primary obstruction to unitary evolution. This provides a natural path-way toward resolving the black hole information problem within the MOC framework, without invoking quantum gravity effects at the Planck scale.
+
+The critical point: A singularity averted
+The collapse is halted when the net gravitational force on the collapsing matter becomes zero. For simplicity, we can approximate the equilibrium condition using the general relativistic constraint for accelerated expansion, 𝜌m +𝜌Λm +3PΛm = 0. Using the approximation wΛm ≈ −1 for the GSE component, this simplifies to 𝜌m ≈ 2𝜌Λm .
+We can now solve for the critical radius, Rcrit. Substituting the expressions for 𝜌m and
+
+our GSE-derived 𝜌Λ
+m
+X = RS /R.
+(Eq. 231), we derive a quadratic equation for the dimensionless variable
+
+5β 2
+X 2
+14
+− β X − 1 = 0.	(234)
+
+Solving for the positive root gives the critical ratio:
+
+
+ RS  =
+Rcrit
+
+/
+14β +	196β 2 + 280β 2
+/
+10β 2
+7 + ,119
+=
+5β
+
+.	(235)
+
+Therefore, the critical radius is
+
+Rcrit
+
+
+	5β	
+7 + ,119
+
+
+S ≈ 0.28β RS
+
+
+.	(236)
+
+Assuming β ≈ 1.5 for the high-density core environment, we find
+Rcrit ≈ 0.42RS .	(237)
+The collapse is thus stabilized at a finite radius of approximately 0.42RS , well inside the event horizon but long before the Planck scale. For a stellar black hole of 3 solar masses (RS ≈ 9 km), our model predicts that its core would stabilize at a macroscopic critical radius of Rcrit ≈ 3.8 km. This demonstrates that the singularity is resolved not at the Planck scale, but at a concrete astrophysical scale through classical GSE dynamics alone.
+
+Observational validation: The cosmic connection
+A common objection to any proposal about black hole interiors is that the relevant physics is hidden behind an event horizon and is therefore not testable. In the MOC framework, the situation is fundamentally different. The mechanism responsible for singularity avoidance is
+
+/
+
+
+not introduced as an ad hoc ingredient that acts only inside black holes. It is the same total GSE contribution that is already required to account for the observed acceleration of the universe.
+In the cosmological setting, the GSE-induced dark energy density takes the explicit form
+𝜌	= β𝜌m RS 5β RS − 1 .	(238)
+where χp denotes the particle (comoving) horizon and Rphys is the corresponding physical horizon scale. The sign of the dark energy density is governed entirely by the dimensionless
+compactness factor 5β RS which directly measures the gravitational compactness of the causally
+p
+connected universe.
+For the representative value β = 1.5 adopted throughout this work, the sign transition of
+
+𝜌Λ
+m
+occurs when
+
+5β RS	1
+14 χp
+
+= 0	(239)
+
+corresponding to the sign-transition scale
+χtran ≃ 0.54 RS .	(240)
+This result demonstrates that the emergence of the repulsive GSE contribution in cosmology is governed by gravitational physics at a sub-horizon scale, χtran ≃ 0.54 RS , well inside the
+Schwarzschild radius.
+The observational fact that the universe is currently undergoing accelerated expansion im-plies that the cosmological evolution has entered the regime in which the GSE-induced com-ponent satisfies wΛm < −1/3 [1, 2, 44, 64]. Within MOC, this observation empirically confirms the existence and sign of the same GSE mechanism whose Schwarzschild-scale transition is responsible for halting gravitational collapse inside black holes.
+Cosmological observations fix the allowed parameter regime of the GSE contribution, in-cluding the sign transition near χtran ∼ 0.54 RS . Because the same dimensionless compactness structure governs both cosmology and compact objects, the prediction of a repulsive, non-singular black hole core follows as a derived and testable consequence of the same equations. Remarkably, cosmic acceleration occurs because we exist inside a cosmological black hole.
+In this sense, the accelerating universe and the non-singular black hole are two man-ifestations of a single Schwarzschild-scale gravitational mechanism.
+
+A macroscopic non-singular core and the information paradox
+The MOC framework naturally resolves the black hole singularity. Instead of a point of infinite density, the model predicts a finite, macroscopic, non-singular core at the heart of the black hole. As matter collapses past the sign-transition radius (Rtran ≈ 0.54RS ), the powerful repul-
+
+sive force generated by the positive 𝜌Λ
+m
+grows until it precisely counter-balances the attractive
+
+force of matter at Rcrit ≈ 0.42RS , thereby forming a stable macroscopic core.
+By replacing the singularity with a stable, macroscopic physical structure, this model of-fers a compelling resolution to the black hole information paradox [63, 65, 66]. The paradox arises because the destruction of information at a singularity violates the fundamental princi-ple of unitarity in quantum mechanics. In our model, this conflict is entirely avoided. Infor-mation falling into the black hole is not destroyed; it is encoded in the physical state of this macroscopic non-singular black hole core.
+Because causality is preserved within this finite, macroscopic structure, the principles of quantum mechanics remain intact throughout the black hole’s life and eventual evaporation.
+
+/
+
+
+The information can, in principle, be returned to the universe as the black hole radiates away its mass via Hawking radiation, ensuring that the process is unitary. MOC thus provides a classical mechanism that removes one of the deepest paradoxes in modern physics, offering a complete and self-consistent picture of a black hole from its event horizon to its very core.
+
+
+Observational Tests and Falsifiability of MOC
+Test 1: The sign-switch of dark energy
+Prediction. A generic prediction of the MOC framework is that the dark energy density was negative (attractive) during an extended early epoch. Using the updated CMB-based simulations with H0 = 67.360 km s−1 Mpc−1, Ωm = 0.3158, and χp (t0) = 46.114 Gly (Ta-bles 3–6), the transition to positive values occurs in the range
+ttran ≈ 4.98–6.07 Gyr,	ztran ≈ 0.95–1.24
+depending on the assumed matter enhancement scenario. This contrasts sharply with the
+ΛCDM expectation of a strictly positive and constant 𝜌Λ at all redshifts.
+Test. This prediction can be tested through model-independent reconstructions of H(z) and 𝜌DE(z) using supernovae (Pantheon+), BAO, and cosmic chronometers [11, 67, 68]. MOC would be falsified if future data from DESI, Euclid, or LSST demonstrate with high statistical confidence that 𝜌DE(z) has remained strictly positive for all epochs z ≲ 1.5 (corresponding to cosmic times t ≳ 4 Gyr), with no indication of an earlier attractive phase.
+
+Test 2: Enhanced early structure growth

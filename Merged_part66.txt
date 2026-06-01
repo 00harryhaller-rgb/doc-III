@@ -1,0 +1,1854 @@
+spikes ( S  ( T )2T 4) tran-siently rigidifying bonds, akin to pump-induced coherence in cuprates (Section 7.3), via strong-gradient stress-energy T ent. Bond-percolation (β 3; EUT II [21]) protects directional rigidity, resolving anomalies as sub-local mediated non-locality. This low-D analog motivates extensions of the phononic test (Section 7) to 2D membranes, probing entropy-sourced coherence.
+
+Recent advances in adaptive/multirate real-time Boltzmann transport equations (rt-BTE) for coupled electron-phonon nonequilibrium enable efficient simulations of ultrafast dynamics in 2D and bulk materials citeYao:2025. However, anomalies in phonon thermalization (deviations 20–30% from equilibrium at > 100 ps) and mode locking in graphene exceed standard quasiparticle predictions, suggesting non-local/non-equilibrium effects. EUT attributes this to entropy surges ( S	( T )2T 4 from hot carriers) transiently rigidifying bonds, inducing coherence beyond BTE, via sub-local correlations (EUT II [21]). This resolves multi-timescale deviations, motivating rt-BTE extensions to entropic sourcing.
+
+Recent derivations of gravity from quantum relative entropy [45] provide a thermodynamic interpretation of dark matter as emergent entropic fields, consistent with EUT’s entropic stress-energy sourcing geometry without fine-tuning or extra dimensions.
+
+Experimental Proposal
+The core test leverages yttrium iron garnet (YIG), a ferrimagnetic insulator with high spin density (S
+= 5/2 per Fe3+) and low Gilbert damping (α 10−5). YIG’s magneto-entropic response enables strong, controllable S via spin currents or thermal ramps, inducing micron-scale geometry perturbations detectable via magneto-optical Kerr effect (MOKE) or piconewton force probes.
+
+Protocol
+Grow or procure 10 cm	1 µm epitaxial YIG film on GGG substrate (doping optional: 0.01–0.1% Bi or Yb for enhanced MOKE/conductivity).
+Slice into 1 mm bars, polish edges to λ/10 flatness.
+Anchor in cryogenic probe station (4–300 K, B up to 35 T).
+Induce	S: (a) Asymmetric Joule heating (10–100 mW) for thermal ramps; (b) Spin Seebeck/Peltier for pure spin entropy flows.
+Probe emergent geometry: (a) Time-resolved MOKE (∆θ	10−6 rad resolution) for hµν -induced polarization twists; (b) Suspended test mass (100 µg SiC) for pN-level forces.
+Controls: Reverse ∇T or B to isolate entropic signal from thermoelectric/magnetostatic artifacts.
+Expected signal: Reversible 1–10 pN force or 10–100 µrad rotation at 1–10 µm separation, scaling as (  T )2T 4
+(rigidity-amplified).
+
+Cost/Timeline: $50K, 6–9 months from January 2026.
+
+Alternative Experimental Protocols and Controls in Non-Magnetic Systems
+Non-Magnetic Phononic Test
+The decisive control eliminates magnetic confounds using purely phononic entropy gradients in isotopically enriched crystals, where long phonon mean free paths enable sharp ∇T without electronic or spin currents.
+
+Material: 28Si (> 99.999 %) or HEM-grown sapphire single crystal (residual magnetism < 10−8 µB/f.u., phonon mean free path > 10 mm at 100 mK).
+
+Apparatus (conceptual design):
+Dilution refrigerator (base temperature ≤ 15 mK) with optical access.
+10–20 cm crystal bar as source mass, one end anchored to the mixing chamber, opposite end heated by a stabilised 1550 nm laser (0–500 mW).
+Test mass (100 µg–1 mg) on a high-Q torsion fibre, SQUID or optical readout targeting torque noise
+
+≤ 10
+N m Hz
+−1/2.
+
+Two-stage active seismic isolation and superconducting magnetic shielding.
+Expected signal: Reversible force in the 10–100 fN range at 1–2 mm separation, modulated with the applied thermal gradient. The T 4 scaling reflects the entropic dimensionality d = 3 selected at rigidity percolation in EUT II [21].
+
+Recent insights into the Faraday effect suggest that non-reciprocal polarization rotation and birefringence traditionally attributed to magnetic fields may have a complementary origin in entropy gradients. EUT predicts that controlled thermal gradients ( T 1 K mm−1) in isotopically pure sapphire or 28Si should induce measurable optical rotation in the absence of magnetization, free carriers, or external magnetic fields, with the effect scaling as ( T )2T 4 due to gradient-amplified bond rigidity [34]. Detection via time-resolved polarimetry or interferometric readout in the proposed dilution-refrigerator setup would provide a direct test of whether part of the Faraday torque can emerge thermo-entropically, offering a clean optical observable complementary to the predicted force signal.
+
+A null result at the 10−16 N level while the same apparatus would register > 5σ in the YIG geometry would conclusively tie any future YIG signal to magnetic entropy currents, falsifying the purely entropic ori-gin. A positive detection following the predicted ( T )2T 4 scaling would constitute a clean, magnetism-free laboratory confirmation of emergent entropic gravity.
+
+Complementary Low-Budget Controls
+Laser-driven phase-change fronts in dielectrics (paraffin, glycerol): ∆S	102–103 J K−1 kg−1 over millimetre fronts.
+Electrochemical entropy-production cells (e.g. H2/O2 recombination with precisely known ∆Srxn).
+These controls collectively eliminate the most direct confounding interpretations and place the theory’s central claim—entropy gradients source geometry—within direct experimental reach.
+
+Intermediate Bridging Test in Underdoped Cuprates
+While the phononic sapphire/28Si controls (Section 7.2) offer the cleanest test of entropic gravity with-out magnetic or electronic confounds, underdoped high-Tc cuprates like YBa2Cu3O6 provide a practical intermediate probe leveraging their strong electron-phonon interactions and sensitivity to photoinduced non-equilibrium states [35]. Existing ultrafast pump-probe setups could incorporate steady-state thermal
+
+gradients ( T 0.1–1 K mm−1, via asymmetric laser heating or cryogenic contacts) alongside resonant phonon excitation. EUT anticipates subtle enhancements or directional asymmetries in the photoinduced 3D superconducting signatures—such as the in-plane optical gap or inductive response—scaling as ( T )2T 4 from directed entropy flows rigidifying bonds. Detection via time-resolved reflectivity or terahertz probes could yield 5–10% modulations, distinguishable from standard hydrodynamic effects. A positive result following this scaling would bolster evidence for entropic sourcing in correlated systems, linking YIG magneto-entropics (Section 6) to pure phononics (Section 7.2). Null outcomes aligned with conventional models would not falsify the core theory but constrain gradient coupling strengths in cuprate-specific environments.
+
+Discussion and Outlook
+EUT unifies: Base GR/Jacobson thermo; phenomenology Verlinde to YIG; TSVF quantum without AdS. TSVF removable (g=0 loses nonlocal) but enhances.
+
+Comparison:
+
+Model
+	Fields
+	Torsion?
+	Lab Test?
+	
+	Verlinde (2011)
+	Holographic screen
+	No
+	Entropic force (Casimir?)
+	
+	Jacobson (1995)
+	Thermo GR
+	No
+	None direct
+	
+	EUT II
+	Single scalar line
+	Emergent
+	Indirect via EFT (YIG/phononic)
+	
+	EUT
+	S scalar only
+	Emergent PGT
+	YIG MOKE pN
+	
+	EUT + non-mag. control
+	S scalar only
+	Emergent PGT
+	Phonon ∇T in sapphire
+	
+	Table 1: Comparison of emergent-gravity approaches and their laboratory accessibility.
+
+Limitations: Speculative strong-field/toy stable; TSVF formal; experiment optimistic (SNR∼8, noise untested). Future: LLG stoch; holographic σ; YIG collabs; strong-field numerics (e.g., BH analogs via Fr¨ohlich pumps).
+Future work: Numerical simulations of EUT II’s N=32k lattice in strong gradients to calibrate EFT ex-tensions. EUT is testable and falsifiable.
+
+References
+Y. Aharonov et al., Phys. Rev. 134, B1410 (1964). DOI:10.1103/PhysRev.134.B1410.
+H. Fr”ohlich, Long-range coherence and energy storage in biological systems, Int. J. Quantum Chem. 2, 641 (1968). DOI:10.1002/qua.560020505.
+F. W. Hehl et al., Rev. Mod. Phys. 48, 393 (1976). DOI:10.1103/RevModPhys.48.393.
+T. Jacobson, Phys. Rev. Lett. 75, 1260 (1995). DOI:10.1103/PhysRevLett.75.1260.
+T. Padmanabhan, Phys. Rev. D 81, 124025 (2010). DOI:10.1103/PhysRevD.81.124025.
+I. Prigogine, From Being to Becoming (Freeman, 1980). ISBN:9780716711254.
+E. Verlinde, JHEP 04, 29 (2011). DOI:10.1007/JHEP04(2011)029.
+I. L. Shapiro, Phys. Rep. 357, 113 (2002). DOI:10.1016/S0370-1573(01)00030-0.
+J. Sarfatti, arXiv:gr-qc/0602022 (2007).
+H. Spohn, Large scale dynamics of interacting Brownian particles, Z. Phys. B 51, 123 (1983). DOI:10.1007/BF01313480.
+M. Doi and L. Peliti, J. Chem. Phys. 83, 5074 (1985). DOI:10.1063/1.446646.
+S. R. de Groot and P. Mazur,	Non-Equilibrium Thermodynamics (North-Holland,	1966). ISBN:9780720417502.
+A. O. Caldeira and A. J. Leggett, Phys. Rev. Lett. 46, 211 (1981). DOI:10.1103/PhysRevLett.46.211.
+F. B”uttner et al., Nat. Phys. 14, 565 (2018). DOI:10.1038/s41567-018-0109-3.
+Y. Aharonov and L. Vaidman, in Time in Quantum Mechanics Vol. 2, J. G. Muga, R. S. Mayato, and
+I. L. Egusquiza, eds., Lect. Notes Phys. 789, 399 (Springer, 2009). DOI:10.1007/978-3-540-73473-4 13.
+S. Weinberg, Gravitation and Cosmology (Wiley, 1972).
+C. M. Will, Living Rev. Relativ. 17, 4 (2014). DOI:10.12942/lrr-2014-4.
+Y. K. Kato et al., Science 306, 1910 (2004). DOI:10.1126/science.1105514.
+X.-F. Pan et al., Phys. Rev. Lett. 132, 193601 (2024). DOI:10.1103/PhysRevLett.132.193601.
+A. P. Petrovi’c et al., Rev. Mod. Phys. 97, 031001 (2025). DOI:10.1103/RevModPhys.97.031001.
+M. Steiniger, The Entropic Universe II - Version 3, Zenodo DOI:10.5281/zenodo.17528479 (2025).
+M. Versluis et al., Nature 407, 673 (2000). DOI:10.1038/35037500.
+D. Lohse et al., Phys. Rev. Lett. 87, 198301 (2001). DOI:10.1103/PhysRevLett.87.198301.
+M. P. Brenner et al., Rev. Mod. Phys. 74, 425 (2002). DOI:10.1103/RevModPhys.74.425.
+R. Hiller and S. J. Putterman, Phys. Rev. Lett. 73, 2437 (1994). DOI:10.1103/PhysRevLett.73.2437.
+F. R. Young, Sonoluminescence (CRC Press, 2005). ISBN:9780849324390.
+F. R. Young et al., Phys. Rev. Lett. 77, 4816 (1996). DOI:10.1103/PhysRevLett.77.4816.
+M. Antoni et al., arXiv:cond-mat/9705239 (1997).
+C. M. Sehgal et al., J. Phys. Chem. 95, 3126 (1991). DOI:10.1021/j100162a015.
+
+G. E. Vazquez and S. J. Putterman, Phys. Rev. Lett. 85, 3037 (2000). DOI:10.1103/PhysRevLett.85.3037. Erratum: Phys. Rev. Lett. 86, 2670 (2001).
+J. A. Ketterling and R. E. Apfel, J. Acoust. Soc. Am. 102, 3185 (1997). DOI:10.1121/1.420691.
+T. J. Matula, Ultrasonics 38, 28 (2000). DOI:10.1016/S0041-624X(99)00021-7.
+D. M. Kirschbaum et al., Emergent topological semimetal from quantum criticality, Nat. Phys. (2026). DOI:10.1038/s41567-025-03135-w.
+B. Assouline, Y. Mazuz-Harpaz, and V. Fleurov, Faraday effects emerging from the optical magnetic field, Sci. Rep. 15, 39566 (2025). DOI:10.1038/s41598-025-24492-9.
+M. Rosenberg et al., Signatures of three-dimensional photoinduced superconductivity in YBa2Cu3O6.48, Phys. Rev. B 112, 214522 (2025). DOI:10.1103/PhysRevB.112.214522. arXiv:2505.00514.
+M. Kotur et al., Optical cooling of nuclear spins in GaAs/(Al,Ga)As quantum wells at subkelvin temper-atures: Evidence of the dynamic self-polarization of nuclear spins, arXiv:2512.20349 [cond-mat.mes-hall] (2025).
+J. Yu et al., Excess Noise and Photoinduced Effects in Highly Reflective Crystalline Mirror Coatings, Phys. Rev. X 13, 041002 (2023). DOI:10.1103/PhysRevX.13.041002.
+Z. Li et al., Unconventional Coherence Peak in Cuprate Superconductors, arXiv:2501.00699 [cond-mat.supr-con] (2025).
+Y. Sun et al., Thermal Gradient-Induced Flexoelectric Effects in Graphene Sheets, Phys. Rev. Applied
+18, 034012 (2022). DOI:10.1103/PhysRevApplied.18.034012.
+J. Yang et al., Anomalous Thermophoretic Forces in Cryogenic Optomechanics, Phys. Rev. Lett. 132, 123601 (2024). DOI:10.1103/PhysRevLett.132.123601.
+W. Ding, S. Grefe, S. Paschen, and Q. Si, Anomalous Hall Effect and Quantum Critical-ity in Geometrically Frustrated Heavy Fermion Metals, Phys. Rev. Lett. 133, 106504 (2024). DOI:10.1103/PhysRevLett.133.106504. arXiv:1507.07328.
+S. Yves et al., Symmetry-driven Phononic Metamaterials, arXiv:2411.18556 [physics.app-ph] (2024).
+F. Zhu et al., Thermal-fluctuation gradient induced tangential entropic forces in layered two-dimensional materials, J. Mech. Phys. Solids 162, 104871 (2022). DOI:10.1016/j.jmps.2022.104871.
+G. Bianconi, Gravity from entropy, Phys. Rev. D 111, 066001 (2025). DOI:10.1103/PhysRevD.111.066001. arXiv:2408.14391.
+J. Yao et al., Advancing simulations of coupled electron and phonon nonequilibrium dynamics using adaptive and multirate time integration, npj Comput. Mater. 11, 207 (2025). DOI:10.1038/s41524-025-01738-8.
+
+Appendix A
+A1. Core prediction (weak-field, linear regime)
+
+
+∇ Φgrav = 4πρent ≈ 4π
+(∂ S)2 + (  S)2
+(6)
+2
+
+For a purely phononic dielectric at low temperature (Debye regime):
+π2 k2 T 3
+S(x, t) ≈
+
+
+(7)
+
+ℏ 3 avg
+
+
+|∇S| ≈
+
+π2k2 T 2
+ℏv3
+avg
+
+|∇T |	(8)
+
+
+ρ	≈ 10−27
+
+(sapphire or 28Si, vavg ≈ 8–10 km s−1).
+
+—
+kg m	×
+	 T	 2
+1 K mm−1	×
+ T  4
+1 K
+
+(9)
+
+
+A2. Expected signal at realistic parameters
+Source bar: 15 cm × 1 cm × 1 cm isotopically pure sapphire/28Si
+Cold end: 15 mK (mixing chamber)
+Hot end: 1550 nm laser creating ∇T ≈ 1 K mm−1
+Effective integrated entropic mass ∼ 10−26 kg
+Predicted force on 100 µg–1 mg test mass at 1–2 mm separation: 10–100 fN (reversible with laser power)
+
+A3. Reference apparatus (schematic in Figure 1)
+
+
+D	Non-Magnetic Phononic Test
+B
+15 mK (dilution refrig-erator mixing chamber)
+
+
+Isotopically pure Sapphire / 28Si bar
+
+
+
+Laser setup (1550 nm, PID)
+d = 1–2 mm
+
+
+Test mass (100
+µg – 1 mg)
+
+Photodetector	Photodetector
+
+
+
+
+
+Sample platform
+Torsion
+
+/
+
+µ-metal + superconducting shield
+
+Figure 3: Reference layout for the non-magnetic phononic test of emergent entropic gravity (EUT) Key components:
+Single-crystal bar (≥ 10 cm, phonon m.f.p. > 10 mm at ≤ 100 mK)
+1550 nm fiber-coupled diode laser (0–500 mW, PID-stabilized ±0.1 K)
+Test mass on high-Q torsion fiber
+SQUID or optical lever readout (≤ 10−21 N m Hz−1/2 torque noise)
+Two-stage active isolation + superconducting/µ-metal shielding
+
+A4. Noise budget (target < 1.1 × 10−12 N RMS at 1 Hz)
+
+Source	Amplitude	Mitigation	Residual σF (1 Hz)
+
+Thermal (kBT/Q)		10−14 N		15 mK base	10−13 N Seismic	10−9 m s−2	Active isolation	10−14 N
+Magnetic	nT-level	µ-metal + SC shields	< 10−12 N
+Total (quadrature)	1.1 × 10−12 N
+
+Table 2: Expected SNR ≈ 8–80 for 10–100 fN signal in 100 s integration.
+
+A5. Predicted force vs temperature (∇T = 1 K mm−1 fixed)
+
+
+Figure 4: Predicted reversible force vs base temperature (script available in Zenodo).
+
+
+A6. Decisive control
+Identical apparatus using natural-abundance sapphire  expected null < 10−16 N. A positive result that fol-lows the ( T )2T 4 scaling in the non-magnetic case and vanishes in natural sapphire constitutes unambiguous laboratory confirmation of emergent entropic gravity.
+
+A7. Rough budget and timeline
+$50–70 k and 6–9 months using commercial components and existing dilution-refrigerator infrastructure.
+
+The technical feasibility of controlled optical heating at millikelvin temperatures without prohibitive thermal loads is supported by recent demonstrations of low-power optical pumping in GaAs/(Al,Ga)As quantum wells [36]. These experiments maintain lattice temperatures of 300–500 mK while achieving nuclear-spin temper-atures as low as 200 nK through careful minimization of heating artifacts. Such capabilities confirm that fiber-coupled 1550 nm laser excitation can be implemented in commercial dilution refrigerators to generate stable thermal gradients (∇T ≈ 1 K mm ) as required for the proposed experiment.
+
+Appendix B
+Complementary Strong-Gradient Probe via Cavitation Entropic Luminescence under Variable External Conditions
+B1. Inspiration and Core Speculative Interpretation (Strong-Field, Non-Equilibrium Regime)
+This appendix proposes a nuanced interpretation of cavitation luminescence as a potential window into en-tropic bond dynamics that draws inspiration from natural phenomena, where such effects are not isolated to controlled laboratory settings. For instance, the violent claw snaps of pistol shrimp (also known as snapping shrimp) and mantis shrimp generate cavitation bubbles that collapse with sufficient intensity to produce brief light flashes, akin to sonoluminescence observed in acoustic experiments. These natural occurrences—driven by rapid entropy production and quench in aqueous environments—suggest that the underlying process may reflect a more universal mechanism. In the Entropic Universe ontology, we propose that the broadband light emission in both natural and lab-induced cavitation could arise, at least in part, from the transient reactivation and subsequent severing of primordial all-to-all entropic bonds during the entropy spike (vapor formation) and rapid quench (collapse) cycle. This is offered as a speculative lens, complementary to estab-lished hydrodynamic and plasma explanations, rather than a replacement.
+
+During bubble expansion, local entropy density S may surge via phase change, potentially stiffening se-lect long-range bonds (wij ≈ 1 for pairs with small ∆Sij/ TiTj). The collapse could then drive |∆Sij| to extremes, severing bonds (wij → 0) across scales. PhoΣton production might stem from the release of
+∆E Nsev (average bond energy, scaled by local rigidity and Planck units) into emergent fields. The broadband spectrum could reflect a multi-scale severing cascade, while external biases (e.g., gravity-induced convection, magnetic curl, thermal dissipation) modestly reduce effective rigidity reff 1/Tβ (with β 3 at percolation in the theory, though we adopt milder scalings here).
+
+Standard hydrodynamic/plasma models, which attribute light primarily to bremsstrahlung and recombi-nation in hotspots ( 5,000–20,000 K), already account well for observed trends. This EUT view anticipates qualitatively similar behaviors but invites exploration of subtle quantitative differences, such as marginally steeper scalings or thresholds, if any exist.
+
+B2. Toy Model and Conservative Projections
+A semi-quantitative toy model assumes photon yield Nph ≈ N0 · rα , with deliberately conservative α = 2.5
+
+(below the theory’s β ≈
+eff
+3 percolation value to avoid overclaiming) and mild reff
+= (T/T0)−1.5 · (1 − kBB −
+
+kg(g/g0 1)) for weak linear biases (kB  0.05 T−1, kg  0.4, fitted to stay within data envelopes). Baseline N0 5 106 photons/flash calibrates to typical bright single-bubble sonoluminescence (SBSL) in Ar/Xe-doped water at 1g, B=0, T 4°C (observed range: 105–107). Projections remain comfortably inside or at the edge of standard model expectations (e.g.,  T −3 to −4, 2–5 microgravity boost, smooth B-field quench-ing), positioning this as a humble probe rather than a bold deviation.
+
+Magnetic Field Dependence (0 to lab-feasible 10 T) Observed: Intensity reduces smoothly, quench-ing above 5–10 T via Lorentz effects. EUT projection (conservative): Modest linear rigidity reduction yields similar trends.
+
+B (T)	Projected Nph (EUT conservative)	Typical Observed Range (standard models)
+
+0	5 × 106	105–107 (baseline)
+2	∼ 3.5 × 106 (∼30% reduction)	∼50–80% of baseline
+5	∼ 1.7 × 106 (∼65% reduction)	∼20–50% of baseline
+10	< 5 × 105 (∼95% reduction, near quench)	Near zero (threshold quench)
+
+
+Gravitational Dependence (0g to hyper-g) Observed: Microgravity enhances 2–4 via improved stability; hyper-g dims. EUT projection (conservative): Weak convective leak suggests comparable modest boosts.
+g (multiple of g0)		Projected Nph (EUT conservative)	Typical Observed Range (standard models) 0 (microgravity)	2.5–4 × 107 (∼5–8× boost, upper edge)		∼2–5× baseline (flights data)
+5 × 106 (baseline)	Baseline
+	∼ 4 × 106 (∼20% reduction)		∼70–90% of baseline 10 (centrifuge)	∼ 1.5 × 106 (∼70% reduction)	∼50% or less (instability)
+
+
+Temperature Dependence (0°C to 40°C) Observed: ∼100× dimmer at 40°C vs. 0°C via vapor/sol-ubility effects. EUT projection (conservative): Mild exponent yields ∼80× range, aligning with data.
+
+T (°C)	Projected Nph (EUT conservative)	Typical Observed Range (standard models)
+
+0	5 × 107 (bright calibration)	106–108 (max bright)
+20	∼ 3 × 106 (∼15× dimmer)	∼10–50× dimmer
+40	∼ 6 × 105 (∼80× dimmer)	∼50–200× dimmer
+
+
+B3. Reference Apparatus
+Standard levitation resonator (quartz flask, 25–30 kHz PZT drivers) with degassed, noble-gas-saturated water (Ar/Xe partial pressure 5–10 mbar). Cooling jacket for 0–40°C. Platforms: Magnets (up to 10 T), parabolic/drop-tower/sub-orbital for microgravity, centrifuge for hyper-g. Diagnostics: High-speed PMT + spectrometer (200–900 nm, < 1 ns resolution), hydrophone/imaging.
+
+
+Figure 5: Projected log(Nph) vs. (a) B (T) [smooth quench], (b) g/g0 [modest 0g rise], (c) T (°C) [negative slope]. Solid lines: conservative EUT; shaded bands: observed ranges. No major deviations assumed.
+
+
+B4. Future Probe: Directed Thermal Gradient Cavitation
+A more challenging test could induce cavitation in controlled ∆T gradients (e.g., laser-heated cryogenic fluid or sapphire micro-channels, ∆T ∼10–100 K/mm). Standard models expect minor viscosity/vapor effects; EUT humbly suggests potential modest enhancements if ∇T aligns with collapse, possibly with faint asymmetry or (∇T ) T scaling (cf. Appendix A). This remains aspirational, requiring advanced setups.
+
+B5. Controls and Falsifiability
+Null controls: Non-cavitating plasmas under similar conditions. Results aligning fully with standard predic-tions (e.g., 5 0g boost, smooth T scaling) would limit this interpretation’s utility without invalidating EUT’s weak-field core. Any subtle excesses (e.g., slightly broader spectral tails in clean conditions) could encourage further exploration of bond dynamics.
+
+Footnote: Projections use conservative α = 2.5, T exponent=1.5, linear biases to align with data; theory’s percolation (β = 3) might suggest mild amplifications if tested. Inspired by natural cavitation, this probe is offered tentatively to bridge theory and observation.
+
+
+accepted 19 November, published 31 December 2012, IJMPD, Vol.21, Issue No.14
+
+/	/
+
+
+
+
+
+
+International Journal of Modern Physics D
+⃝c World Scientific Publishing Company
+
+
+
+
+
+
+The failures of the standard model of cosmology require a new paradigm
+
+
+Pavel Kroupa∗ and Marcel Pawlowski∗∗
+Argelander-Institute for Astronomy, University of Bonn, Auf dem Hu¨gel 71, D-53121 Bonn, Germany
+∗: pavel@astro.uni-bonn.de
+∗∗: mpawlow@astro.uni-bonn.de
+
+Mordehai Milgrom
+Department of Particle Physics and Astrophysics Weizmann Institute of Science
+Rehovot 76100, Israel moti.milgrom@weizmann.ac.il
+
+Received 22 October 2012
+Revised 18 November 2012
+
+Cosmological models that invoke warm or cold dark matter can not explain observed regularities in the properties of dwarf galaxies, their highly anisotropic spatial distribu-tions, nor the correlation between observed mass discrepancies and acceleration. These problems with the standard model of cosmology have deep implications, in particular in combination with the observation that the data are excellently described by Modified Newtonian Dynamics (MOND). MOND is a classical dynamics theory which explains the mass discrepancies in galactic systems, and in the universe at large, without invoking ‘dark’ entities. MOND introduces a new universal constant of nature with the dimen-sions of acceleration, a0, such that the pre-MONDian dynamics is valid for accelerations a ≫ a0, and the deep MONDian regime is obtained for a ≪ a0, where space-time scale in-variance is invoked. Remaining challenges for MOND are (i) explaining fully the observed mass discrepancies in galaxy clusters, and (ii) the development of a relativistic theory of MOND that will satisfactorily account for cosmology. The universal constant a0 turns out to have an intriguing connection with cosmology: a¯0 ≡ 2πa0 ≈ cH0 ≈ c2(Λ/3)1/2. This may point to a deep connection between cosmology and internal dynamics of local systems.
+Keywords: cosmology; dark matter; gravitation; MOND
+PACS numbers: 98.35.-a; 98.56.-p; 98.62.-g; 98.65.-r; 98.80.-k; 04.20.Cv; 04.80.Cc;
+95.35.+d; 98.80.Es
+
+Introduction
+Newton1 formulated his dynamics subject to the observational constraints from the Solar system, while Einstein developed his general relativistic field equation2 with the prerequisite that they reproduce Newton’s work in the classical, non-relativistic
+
+
+accepted 19 November, published 31 December 2012, IJMPD, Vol.21, Issue No.14
+
+/	/
+
+
+
+
+
+
+Kroupa, Pawlowski & Milgrom
+
+limit. General relativity has successfully passed tests in the astronomically small-spatial-scale and strong acceleration limit (Solar system and smaller in length scale and stronger in acceleration scale). The presently favoured understanding of cos-mological physics is based on assuming Einstein’s field equation to hold on galactic and larger scales and for very small accelerations as are found in galactic systems (postulate 1). In addition, it is assumed that all matter emerged in the Big Bang (postulate 2). The first two postulates lead to an inhomogeneous and highly curved cosmological model which is in disagreement with the observed distribution of mat-ter, unless inflation is additionally postulated to drive the universe to near flatness and homogeneity briefly after the Big Bang (postulate 3). The structures and their kinematics which arise from this postulate again do not match the observed ones unless cold or warm dark matter (DM) is postulated in addition to aid gravitational clumping on galactic scales (postulate 4). This DM must, as observations constrain, consist of non-relativistic particles which only interact significantly through gravita-tion.3 The so constructed model does not match the observed increase in the rate of expansion unless it is additionally postulated that dark energy drives an emerging new era of inflation (postulate 5). The resulting five-postulate construction with its many parameters determined using observational data4 is referred to as the concor-dance cosmological model which is the currently generally accepted cold or warm DM-based standard model of cosmology (SMoC).5, 6
+The SMoC can be used to compute the distribution of matter on galactic scales because it is based on Newtonian dynamics which is a linear and thus, in principle, readily computable dynamics theory.5, 7 The complex processes of the baryons (heat-ing, cooling, star-formation, stellar and other feedback) are dealt with by employing parametrised laws, but few rigorous convincing predictions have come forth due to the tunability of the modelling, the lack of adopted constraints from observed star formation processes, and due to the haphazardness of the many mergers each DM halo experiences.8 The statistical distribution of sub-halos on the scales of many kpc around normal galaxies is among the rigorous predictions of the SMoC. The other rigorous prediction is that dwarf galaxies formed from tidal material expelled during galaxy encounters (see Sect. 2) cannot contain substantial amounts of DM. The computations by many research groups have demonstrated that the SMoC has significant problems, the number of which has been increasing with improving computer power.9 While the greatest problems (see below) are usually not discussed by DM advocates even when they do discuss problems for the SMoC, e.g. in Ref(5), it is held by most dark-matter advocates that virtually all problems mentioned by the respective authors can be solved once modelling the baryonic processes is improved with larger resolution.7 Thus, for example, one of the failures, the missing satellite problem,10, 11 is deemed to have been solved by now:12 according to the SMoC each DM halo ought to contain a large number of satellite DM halos which are the phase-space substructures that merge during the hierarchical formation of larger structures.13 Milky Way and Andromeda class galaxies ought to have many hundreds of satellite galaxies, each of which are immersed in their own DM halos.
+
+
+accepted 19 November, published 31 December 2012, IJMPD, Vol.21, Issue No.14
+
+/	/
+
+
+
+
+
+
+The failures of the standard model of cosmology require a new paradigm  3
+
+The observed small number of satellites (currently 24 are known for the Milky Way and a slightly larger number is known for Andromeda) is then a result of the complex and tunable baryonic processes cleaning out baryons from the vast majority of satellite DM halos. Some of the problems of the SMoC have been used to investigate possible model extensions, for example by invoking new dark forces between the DM particles which affect structure growth on sub-kpc scales.14 These additional postulates do not significantly affect the distribution of sub-halos on scales of many kpc, as this is given by the hierarchical infall of DM into larger structures.
+The SMoC has been stated to be in agreement with the large-scale distribution of matter (although the problems on the local 100 Mpc and 16 Mpc scales undermine this statement, Sec. 4) and with the cosmic microwave background (CMB) fluctua-tions.5 But it can only remain as a valid description of the real universe if every one of the postulates individually pass observational tests. In order to certify the validity of the SMoC and its dark-sector variants robustly against the observational data, tests must be developed which are insensitive to the details of baryonic physics. Various such tests have recently been devised,15 and here the two most important ones (Sec. 2, Sec. 3) with consistency checks (Sec. 4) are discussed. The observed correlation of kinematical properties of galaxies over several orders of magnitude in acceleration (Sec. 5) convincingly demonstrates that a gravitational theory which differs from Newton’s is valid. The Modified Newtonian Dynamics (MOND) the-ory16 is in excellent agreement with these data and provides an apparently correct description of dynamics on galaxy scales (Sec 6).
+
+The dual dwarf galaxy theorem
+In any realistic cosmological theory two types of galaxies emerge. Primordial (‘type A’) galaxies form directly after the Big Bang from gravitational instabilities in the cooling baryonic matter. Tidal dwarf galaxies (‘type B’) form from interact-ing, rotationally-supported type A galaxies: from tidal arms, which fragment and form dwarf galaxies as well as star clusters. This is evident in many observations of interacting galaxies17–20 and in all high-resolution simulations of interacting galax-ies.19, 21, 22
+Indeed, high-resolution simulations in the SMoC show that type A and type B dwarfs have different dynamical and morphological properties (see points (i) and (ii) below). This comes about because the formation of type A dwarfs is dominated by the collapse and mergers of dwarf DM halos in which the end products retain much of the DM. In the SMoC, a large number of these sub-halos orbit as bound type A sub-structures in the more massive host halos, many more than are observed: The missing satellite problem therewith emerges (Sec. 1). Type B dwarfs, on the other hand, cannot capture significant amounts of DM because they form from the ‘cold’ parts of (disc) galaxies, which exclude the DM. In the SMoC so many tidal dwarf galaxies are generated that to account for these, statistically, most of the observed
+
+
+accepted 19 November, published 31 December 2012, IJMPD, Vol.21, Issue No.14
+
+/	/
+
+
+
+
+
+
+4  Kroupa, Pawlowski & Milgrom
+
+dwarf elliptical (dE) galaxies would have to be type B dwarfs.23
+The SMoC thus predicts that two types of galaxies ought to be abundant that have different dynamics: one showing DM, the other not. But in fact of observation, rotating late-type dwarf galaxies as well as faint dwarf-spheroidal galaxies show evidence for DM. A tidal dwarf galaxy which is observed to have a DM component does not immediately disprove the SMoC. DM may appear to be present in a tidal dwarf galaxy if it is wrongly assumed to be in dynamical equilibrium when, in fact, it is not, as it is being perturbed by a time varying tidal field from the host galaxy.24, 25 And, a young tidal dwarf galaxy may be accreting gas and may thus not be in rotational equilibrium feigning a DM content.
+All type A galaxies which are rotationally supported are known to precisely lie on the Baryonic-Tully-Fisher Relation (BTFR)4 which therefore must be defined by the DM halo if the SMoC is true. The physics responsible for the precise conspiracy of the putative DM halo and galaxy luminosity to produce the BTFR over many orders of magnitude in galaxy luminosity however remains unknown. Tidal dwarf galaxies that show evidence for DM because they are out of equilibrium ought not to lie on the BTFR, because the tidal perturbation of, or gas accretion onto, the dwarf would not likely conspire to place a DM-free type B galaxy onto the BTFR of the type A dwarfs.
+The prediction made by the SMoC that there are two distinct classes of dwarf galaxy (the ’dual dwarf galaxy’ theorem) is falsified by observations, as follows:9
+By invoking the BTFR of rotationally supported galaxies:26, 27 Type B dwarfs do not contain DM and therefore cannot lie on the same BTFR of type A galaxies in the SMoC. But observations show them to lie on the same BTFR as type A galaxies. The rotational velocities of the type A galaxies therefore cannot be given by a DM halo. Therewith, galactic DM halos cannot exist and one of the major pillars of the SMoC (postulate 4) breaks away such that the whole model is falsified.
+By considering the radius–mass relation of pressure-supported dwarf galax-ies: dE galaxies are thought to be of type A and thus to form in putative DM halos. The final structural parameters of dE galaxies and type B dwarfs therefore cannot agree. But observations show type B dwarfs to be indistinguishable from dE galax-ies.20 Thus, DM halos cannot play a role in dwarf galaxies, leading to the same conclusion as under (i) above.
+
+Significant anisotropic phase-space distribution of satellite galaxies
+The SMoC robustly predicts the primordial DM dominated (type A) satellite galax-ies in a major halo to be distributed spheroidally around the host galaxy. The infall of satellite galaxies from filaments leads only to mild anisotropies.28
+The Milky Way galaxy, being part of the universe, must conform to these pre-dictions. Instead the Galactic satellite system forms a vast polar structure (VPOS) which is a disk-like distribution29 about 40 kpc thick and 400 kpc in diameter con-
+
+
+accepted 19 November, published 31 December 2012, IJMPD, Vol.21, Issue No.14
+
+/	/
+
+
+
+
+
+
+The failures of the standard model of cosmology require a new paradigm  5
+
+taining all known satellite galaxies as well as all young halo globular clusters and about half of all known stellar and gas streams.30 The proper motion measurements of 10 satellite galaxies show 9 of the satellites to be orbiting within the VPOS (one satellite is on a counter-rotating orbit in comparison to the 8 others). One satellite, Sagittarius, orbits perpendicularly to the VPOS and to the MW. To have nine of ten type A (DM sub-halo) satellites with measured proper motions orbiting within the VPOS is ruled out with very high confidence.31
+Andromeda also has an anisotropic satellite system,32, 33 and a few other galaxies are known which have satellite galaxies arranged in highly correlated phase-space structures.9 The prediction of the SMoC is therewith ruled out conclusively because the Milky Way is not unique in this property.9, 15, 34
+
+Consistency tests
+The falsification9 of the SMoC with the above argument has deep implications. Can this argument be erroneous? A number of auxiliary tests have been developed,15 which the SMoC again does not pass. A visualisation of the results of the compar-ison between many predictions and observational data is presented in the theory confidence graph.9 If each of the 22 listed failures were to be associated with a loss of confidence of (only) 50 per cent that the SMoC accounts for a particular property of the real universe, then according to the confidence graph, the overall probability that the SMoC is a valid theory of the universe would be 0.5 raised to the power of 22, corresponding to a confidence of 2.3 × 10−5 per cent.
+Three examples of such problems are the cusp/core problem, the downsizing and the missing-bright-satellites problem. These are usually acknowledged as problems, but claimed to be (probably) solvable.5, 7, 12, 35, 36 The real problems for which no solution can be identified are usually not mentioned in the DM literature: (a) The dual dwarf galaxy theorem and satellite anisotropy failures discussed above are catastrophic for the SMoC. (b) In the Local Volume with radius of 8 Mpc around the Sun, the matter distribution in the Local Void and near the edges of the fila-ments containing galaxies is incompatible with the expectations from the SMoC.37
+(c) The 50 Mpc radius region around us is missing DM by a factor of 3–4 while the fluctuations in the density must not be larger than about 10 per cent on these scales if the SMoC were true.38 (d) Disk galaxies of similar mass are observed to show too little scatter in their properties,39 which implies that galaxies obey laws that do not emerge in the SMoC.
+
+The mass-discrepancy-acceleration correlation: towards galaxy laws
+The rotation velocity, V (r), measured at a radius r in a disk galaxy can be compared to the rotation velocity, Vb(r), that one would expect due to only the observed bary-onic matter. A plot of V 2/V 2, which is the mass discrepancy at r, in a given galaxy as a function of r, gives the putative DM profile of the galaxy. As pointed out by
+
+
+accepted 19 November, published 31 December 2012, IJMPD, Vol.21, Issue No.14
+
+/	/
+
+
+
+
+
+
+6  Kroupa, Pawlowski & Milgrom
+
+McGaugh,40 combining many such measurements for many galaxies yields a mass-discrepancy vs r plot with no correlation. However, plotting the mass-discrepancy in dependence of the baryonic-Newtonian acceleration, gN = V 2/r, yields a tight correlation (Fig. 1). The mass-discrepancy–acceleration correlation deviates from the Newtonian value below an acceleration of a0 ≈ 1.2 × 10−10m/s2 = 3.8 pc/Myr2 which is about five orders of magnitude smaller than the acceleration of Neptune in the Solar system.
+No known physics of the DM particles can account for the observed mass-discrepancy–acceleration correlation. But this relation is convincing evidence for gravitational dynamics becoming non-Newtonian at accelerations a < a0. This and many other correlations were predicted 30 years ago by Milgrom16 who introduced a new constant of nature, a0 at the foundation of a new paradigm dubbed ‘Mod-ified Newtonian Dynamics’ (MOND). In this paradigm Newtonian dynamics and general relativity are modified, so that galaxy dynamics is explained without the need for dark matter. Since its formulation in 198316 MOND has passed all observa-tional tests from 106 M⊙ dwarf disk galaxies4 to massive elliptical galaxy41 scales, with some tension remaining on the globular- and galaxy-cluster scales.9 These are, however, not major.42, 43
+
+The MOND paradigm
+While MOND has developed significantly in its particulars (such as formulations of various underlying theories), its basic non-relativistic (NR) tenets, from which follow all its major predictions, remain the same as originally proposed. These tenets, put in a somewhat improved form, are: (1) A new constant, a0, with the dimensions of acceleration is introduced into dynamics. (2) A MOND theory must tend to standard dynamics in the limit a0 → 0 (in other words, when the theory is applied to a system where all the quantities of dimensions of acceleration, a, are much larger than a0). (3) In the opposite limit, a0 → ∞ (namely, when all a ≪ a0 in which case we also have to take G → 0 so that Ga0 remains fixed) the theory is postulated to become space-time scale invariant,44 namely, invariant under (t, r) → λ(t, r).
+
+Fig. 1. The mass-discrepancy–acceleration correlation4, 40 for disk galaxies. The red/solid and green/dashed curves are two different forms of the MONDian transition function as in fig. 11 in Kroupa.9 For the Solar system gN > 6 × 10−5m/s2.
+
+
+accepted 19 November, published 31 December 2012, IJMPD, Vol.21, Issue No.14
+
+/	/
+
+
+
+
+
+
+The failures of the standard model of cosmology require a new paradigm  7
+
+Conceptually, a0 thus plays a role as a demarcation acceleration between the validity domain of the pre-MOND dynamics (a ≫ a0) and the MOND regime (a . a0). In the former, a0 disappears from physics, but in the latter domain a0 appears with full impact on various phenomena. These roles are similar to those of Planck’s constant in the classical–quantum context, and of the speed of light, c, in
+the classical–relativistic context. All these constants play the role of demarcations between the old and new physics. Also, taking them to the appropriate limit (k → 0 – the correspondence principle, and c → ∞) takes one to the old, classical theory, in which these constants do not appear. Also, they all appear ubiquitously in the description of many, apparently unrelated phenomenaa in the new-physics regime. We shall see below how a0 enters in many such phenomena and effects in low-acceleration galactic dynamics.
+Newtonian gravitational accelerations, which scale as gN ∝ MG/r2, transform under the above space-time scaling as gN → λ−2gN , while kinematic accelerations (x¨) transform as g → λ−1g. Newtonian dynamics, which equates the two, is thus not scale invariant. To have such a symmetry in the MOND limit we need g to scale like g1/2; or, with the help of a0, g ∝ (a0gN )1/2. This, more primitive, description of the MOND limit, is essentially the original formulation of MOND for test-particle motion.16 The formulation of the 3rd tenet in terms of scale invariance,44 is, however, rather more elegant, precise, and general, and should be preferred.
+Beyond the above basic tenets, one wishes to construct a full-fledged theory, and then extend it to the relativistic regime. Several relativistic and NR MOND theories are known. In the NR regime, we have the suitably chosen nonlinear extension of the Poisson equation,45 and a quasilinear MOND formulation (QUMOND).46 These are classified as ‘modified gravity’ (MG) theories as they modify the field equations of the gravitational field, but not the laws of motion. There are also ‘modified in-ertia’ (MI) formulations, which do the opposite. For the latter there isn’t yet a full fledged theory, but, nonetheless, much can be said about their predictions of rotation curves.47, 48 In the relativistic regime we can mention as examples, TeVeS,49 and its predecessors, MOND adaptations of Einstein aether theories,50 bimetric MOND (BIMOND),51 one based on a polarizable medium,52 and non-local, single metric formulations.53 Much work has also been done over the years towards devising ob-servational tests of MOND and on comparing MOND predictions with observations. Extensive recent reviews of these aspects of the MOND paradigm exist.4, 54
+Quantum theory and relativity were not mere changes in form of the equations of classical dynamics. They each brought about totally new concepts to underlie dynamics. Likewise, there are reasons to presume that what we know about MOND today is only the tip of an iceberg.44 One hint that this might be so is the ‘coinci-dence’16 a¯0 ≡ 2πa0 ≈ c H0 ≈ c2(Λ/3)1/2, where H0 is the Hubble constant and Λ is the cosmological constant (CC). This, and some aspects of symmetry, may point to
+
+aFor example, in quantum theory: the black-body spectrum, the photoelectric effect, the hydrogen spectrum, quantum Hall effect, etc.
+
+
+accepted 19 November, published 31 December 2012, IJMPD, Vol.21, Issue No.14
+
+/	/
+
+
+
+
+
+
+8  Kroupa, Pawlowski & Milgrom
+
+a deep connection between dynamics within local systems, such as galactic systems, and the state of the universe at large. This connection, if firmly established, could be the most far-reaching implication of MOND.b
+The MOND theories mentioned above depart from pre-MOND dynamics in that they introduce a0, add new degrees of freedom, and modify the underlying action, but they do not deeply depart in spirit from their predecessor. Perhaps one of them will turn out to be an effective theory that captures the essence of the future deeper MOND theory.c
+In addition, there are several ideas and suggestions for a ‘microscopic’ basis of MOND. One such class of suggestions55 propounds that the MOND departure from Newtonian dynamics arises from the fact that we do not live in a globally Minkowski space time, but in one governed by a CC. The recent discovery of a CC-like entity that affects cosmology points to the possibility that the universe is entering an era where it will be increasingly dominated by the CC. Such an eventual universe, a de Sitter universe, is characterized by a radius RΛ ≡ (Λ/3)−1/2. This fact might show itself in local dynamics in the form of the acceleration constant55 a¯0 = aΛ ≡ c2/RΛ, as indeed appears in the above-mentioned ‘coincidence’d. For example, in a de Sitter universe, the quantum vacuum is modified from the Minkowskian one in such a way that the Unruh radiation seen by an accelerated observer depends both on aΛ and on the observer’s acceleration a (assumed constant) in a way that may point to a MOND inertia law.55
+There have been several recent proposals56, 57 for obtaining MOND dynamics by adding the element of the de Sitter background55 to the idea of entropic-origin-of-dynamics suggested by Verlinde.58–60 In the above schemes, the a0 that appears in galactic-scale dynamics is indeed related to the cosmological constant as a0 ∼ aΛe. In a different approach,61 also hinging on entropic gravity, a0 emerges as the Fermi energy on an holographic screen.
+In the MOND-through-a-polarizable-medium theory,52 in MOND adaptations of Einstein-aether theories,50 and in BIMOND,51 the relation a0 ∼ aΛ appears differently: In these theories a length parameter appears in two places in the action, one that ends up defining the CC, the other defining a0. If one insists, for economy or naturalness, to use the same quantity in both roles, the above relation holds. However, there is no compelling mechanism for forcing this economy.
+In light of the uncertainty in what the final space-time-matter theory will look like, it is reassuring that one can predict62, 63 a number of general dynamics laws,
+
+bSuch a cosmological connection might imply that various aspects of the MOND-standard-dynamics interplay may depend on cosmic time.
+cThe appearance in all these theories of an interpolating function is an indication that they can
+only be effective theories.
+dThis appearance of Λ is different from the standard appearance of RΛ in correcting the large distance behavior of (Newtonian) gravity introducing a linear, repulsive force.
+eNote that ∼ is used as a similarity sign indicating that two numbers are of the same order of
+magnitude, while ≈ means two numbers are similar within a factor of a few.
+
+
+accepted 19 November, published 31 December 2012, IJMPD, Vol.21, Issue No.14
+
+/	/
+
+
+
+
+
+
+The failures of the standard model of cosmology require a new paradigm  9
+
+which compare excellently with observations4, 54 and are based almost entirely on the basic tenets. These laws are important to recognize and understand for several reasons: (1) They constitute the core predictions of MOND, obeyed by all MOND theories, present and future, that embody the basic tenets. (2) They focus attention on well defined, easy-to-grasp predictions of MOND. (3) They involve only limited information about the systems (such as global attributes) and hence are easier to test on large samples. (4) They constitute a list of ‘things to show’ in the competing paradigm of Newtonian-dynamics–plus-DM. Succinctly formulated, these laws are:
+Speeds along an orbit around any isolated mass, M , become asymptotically independent of the size-scale of the orbit. For circular orbits, V (r → ∞) → V∞(M ).
+V∞(M ) = (M G a0)1/4.
+In disc galaxies transition from ‘baryon dominance’ to ‘DM dominance’ occurs around the radius where V 2(r)/r = a0.
+The acceleration attributed to ‘DM’ can never much exceed a0.
+The central surface density of ‘dark halos’ is ≈ ΣM ≡ a0/2πG.
+Quasi-isothermal (baryonic) systems have mean surface densities Σ¯ . ΣM .
+Quasi-isothermal or deep-MOND systems have a velocity dispersion σ ≈
+(M G a0)1/4.
+The external field in which a system is falling affects its intrinsic dynamics.
+Disc galaxies behave as if they have both disc and spherical ‘DM’ components.
+MOND endows self gravitating systems with an increased, but limited stability. In addition to these laws, it is also reassuring that even the more elaborate predic-tion of rotation curves in MOND follows almost entirely from the basic premises alone.63 The accuracy of MOND’s prediction of full rotation curves of disc galaxies is particularly impressive, as shown by the analysis of over a hundred galaxies.4 Recently, MOND has also passed an acute test in accounting for the dynamics of elliptical galaxies.41
+
+MOND vs dark matter
+We have seen that the SMoC faces many difficulties in accounting for various aspects of data on galaxies (Sec. 2 – 4). But perhaps the most cogent argument against the SMoC is that MOND works62, 64, 65 (e.g. Fig. 1). This is not because MOND is a competitor, but because the many tight regularities and correlations between baryon and ‘DM’ properties, predicted by MOND, and confirmed in the data, are quite contrary to what is expected in the DM paradigm. In the DM paradigm, a present-day system is the haphazard end result of a complex history that affects baryons and DM very differently. The observed tight correlations argue against this.39
+It is important to emphasize that in MOND, the dynamics of a self-gravitating system is strictly predicted once its baryon distribution is given. But in the SMoC it is not possible to predict the dynamics of an individual primordial (type A) galaxy
+
+
+accepted 19 November, published 31 December 2012, IJMPD, Vol.21, Issue No.14
+
+/	/
+
+
+
+
+
+
+10 Kroupa, Pawlowski & Milgrom
+
+just from its observed baryons; at best one can try to match a DM halo from an infinite family that will fit the observed dynamics. For example, given the baryon distribution of a disc galaxy, the MOND rotation curve is a prediction, while the DM curve is but a fit with much freedom allowed. In short, unlike for MOND, the SMoC cannot predict the relations between baryons and DM in any individual system because these depend on the unknowable history of the system. In the rare case where the SMoC does make a prediction (tidal dwarfs, i.e. type B galaxies), because their formation histories are well understood, it fails.66
+Angus67 and others have demonstrated that MOND-based cosmological models
+are able to account for many observations such as the CMB and the Bullet cluster.
+
+MOND and the dwarfs
+In MOND the dual dwarf galaxy theorem predicts no systematic dynamical differ-ences between primordial and tidal dwarf galaxies.26, 27 For example, both rotational types A and B of dwarfs are predicted to fall on the same BTFR by MOND law 2 in Sect. 6, irrespective of their different formation paths. MOND is fully consistent with the existence of the VPOS around the Milky Way (Sec. 3) as being an ancient tidal structure in which the Galaxy’s satellites formed as tidal dwarf galaxies and globular clusters. Tidal dwarf galaxies form naturally in MONDian galaxy interac-tions.68, 69 The internal constitution of the Galaxy’s dwarf-spheroidal satellites is well explained with MOND.70, 71 No such consistent explanation can be achieved within the SMoC, because the high measured Newtonian mass-to-light ratios of the satellites are completely in contradiction with them being ancient tidal dwarf galax-ies. This, however, is the only physically plausible explanation for the existence of the VPOS22, 28 with counter-orbiting satellites.72
+
+Conclusions
+The SMoC is based on five postulates (Sec. 1); it is reported as having appreciable success in describing the large scale structure and the CMB. More importantly, it has a long history of grave failuresf. The failures are not really surprising since the first and most fundamental postulate is equivalent to an extrapolation of the empir-ically established gravitational law by Newton and Einstein to scales many orders of magnitude below the Solar system acceleration scale. Instead, the data correlations unequivocally show dynamics at accelerations smaller than a0 ≈ 1.2 × 10−10m/s2 to not be Einsteinian/Newtonian. Given the nature of the failures, dynamically significant cold or warm DM particles cannot be the explanation of the mass dis-crepancies. Observations strongly suggest that a complete theory of dynamics has to depart from standard dynamics below some critical acceleration that is a constant of nature. The extraordinary success of MOND in accounting for the observational
+
+f Compare to the standard model of particle physics which is known to be incomplete but since decades it has consistently been found to be in excellent agreement with the data.
+
+
+accepted 19 November, published 31 December 2012, IJMPD, Vol.21, Issue No.14
+
+/	/
+
+
+
+
+
+
+The failures of the standard model of cosmology require a new paradigm 11
+
+data on galactic scales and its properties (Sec. 6–8) suggest that the expected un-derlying theory will contain a deep connection between the dynamics within local systems and the state of the universe at large. Understanding the deeper physical meaning of MOND remains a challenging aim. It involves the realistic likelihood that a major new insight into gravitation will emerge, which would have signicant implications for our understanding of space, time and matter.
+
+References References
+I. Newton, Philosophiae naturalis principia mathematica, vol. 1 - 4 1760.
+A. Einstein, Annalen der Physik 354 (1916) 769.
+G. R. Blumenthal, S. M. Faber, J. R. Primack and M. J. Rees, Nature 311 (1984) 517.
+B. Famaey and S. S. McGaugh, Living Reviews in Relativity 15 (2012) 10.
+C. S. Frenk and S. D. M. White, Annals of Physics 524 (2012) 507.
+J. Silk and G. A. Mamon, Research in Astronomy and Astrophysics 12 (2012) 917.
+M. Kuhlen, M. Vogelsberger and R. Angulo, arXiv:astro-ph/1209.5745 (2012).
+S. J. Mutch, G. B. Poole and D. J. Croton, MNRAS, in press, arXiv:astro-ph/1210.3356 (2012).
+P. Kroupa, PASA 29 (2012) 395.
+A. Klypin, A. V. Kravtsov, O. Valenzuela and F. Prada, ApJ 522 (1999) 82.
+B. Moore, S. Ghigna, F. Governato, G. Lake, T. Quinn, J. Stadel and P. Tozzi, ApJL 524 (1999) L19.
+A. M. Brooks, M. Kuhlen, A. Zolotov and D. Hooper, ArXiv:astro-ph/1209.5394 (2012).
+A. A. Klypin, S. Trujillo-Gomez and J. Primack, ApJ 740 (2011) 102.
+F. Y. Cyr-Racine and K. Sigurdson, ArXiv: astro-ph/1209.5752 (2012).
+P. Kroupa, B. Famaey, K. S. de Boer, J. Dabringhausen, M. S. Pawlowski, C. M. Boily, H. Jerjen, D. Forbes, G. Hensler and M. Metz, A&A 523 (2010) A32.
+M. Milgrom, ApJ 270 (1983) 365.
+P.-A. Duc and I. F. Mirabel, A & A 289 (1994) 83.
+P. A. Duc and I. F. Mirabel, A&A 333 (1998) 813.
+F. Bournaud, Advances in Astronomy, doi:10.1155/2010/735284 (2010).
+J. Dabringhausen and P. Kroupa, MNRAS, in press, ArXiv:astro-ph/1211.1382 (November 2012).
+M. Wetzstein, T. Naab and A. Burkert, MNRAS 375 (2007) 805.
+S. Fouquet, F. Hammer, Y. Yang, M. Puech and H. Flores, MNRAS 427 (December 2012) 1769.
+T. Okazaki and Y. Taniguchi, ApJ 543 (2000) 149.
+P. Kroupa, New Astron. 2 (1997) 139.
+R. A. Casas, V. Arias, K. Pen˜a Ram´ırez and P. Kroupa, MNRAS 424 (2012) 1941.
+G. Gentile, B. Famaey, F. Combes, P. Kroupa, H. S. Zhao and O. Tiret, A&A 472 (2007) L25.
+M. Milgrom, ApJL 667 (2007) L45.
+M. S. Pawlowski, P. Kroupa, G. Angus, K. S. de Boer, B. Famaey and G. Hensler, MNRAS 424 (2012) 80.
+P. Kroupa, C. Theis and C. M. Boily, A&A 431 (2005) 517.
+M. S. Pawlowski, J. Pflamm-Altenburg and P. Kroupa, MNRAS 423 (2012) 1109.
+
+
+accepted 19 November, published 31 December 2012, IJMPD, Vol.21, Issue No.14
+
+/	/
+
+
+
+
+
+
+12 Kroupa, Pawlowski & Milgrom
+
+N. I. Libeskind, C. S. Frenk, S. Cole, A. Jenkins and J. C. Helly, MNRAS 399 (2009) 550.
+M. Metz, P. Kroupa and H. Jerjen, MNRAS 374 (2007) 1125.
+R. A. Ibata, G. F. Lewis and A. R. Conn et al., Nature 493 (2013) 62.
+G. W. Angus, A. Diaferio and P. Kroupa, MNRAS 416 (2011) 1401.
+M. S. Bovill and M. Ricotti, ApJ 741 (November 2011)	18, arXiv:1010.2233 [astro-ph.CO].
+M. Boylan-Kolchin, J. S. Bullock and M. Kaplinghat, MNRAS 415 (July 2011) L40,
+arXiv:1103.0007 [astro-ph.CO].
+P. J. E. Peebles and A. Nusser, Nature 465 (2010) 565.
+I. D. Karachentsev, Astrophysical Bulletin, arXiv:astro-ph/1204.3377 67 (2012) 123.
+M. J. Disney, J. D. Romano, D. A. Garcia-Appadoo, A. A. West, J. J. Dalcanton and
+L. Cortese, Nature 455 (2008) 1082.
+A. S. McGaugh, ApJ 609 (2004) 652.
+M. Milgrom, Physical Review Letters 109 (2012) 131101.
+R. H. Sanders, MNRAS 380 (2007) 331.
+R. H. Sanders, MNRAS 422 (2012) L21.
+M. Milgrom, ApJ 698 (2009) 1630.
+J. Bekenstein and M. Milgrom, ApJ 286 (1984) 7.
+M. Milgrom, MNRAS 403 (2010) 886.
+M. Milgrom, Annals of Physics 229 (1994) 384.
+M. Milgrom, Acta Physica Polonica B vol. 42 (2011) 2175.
+J. D. Bekenstein, Phys. Rev. D 70 (2004) 083509.
+T. G. Zlosnik, P. G. Ferreira and G. D. Starkman, Phys. Rev. D 75 (2007) 044017.
+M. Milgrom, Phys. Rev. D 80 (2009) 123536.
+L. Blanchet and A. Le Tiec, Phys. Rev. D 80 (2009) 023524.
+C. Deffayet, G. Esposito-Far`ese and R. P. Woodard, Phys. Rev. D 84 (2011) 124054.
+R. H. Sanders and S. S. McGaugh, ARAA 40 (2002) 263.
+M. Milgrom, Physics Letters A 253 (1999) 273.
+P. V. Pikhitsa, ArXiv:astro-ph/1010.0318 (2010).
+F. R. Klinkhamer, Modern Physics Letters A 27 (2012) 50056.
+T. Jacobson, Physical Review Letters 75 (1995) 1260.
+T. Padmanabhan, Reports on Progress in Physics 73 (2010) 046901.
+E. Verlinde, Journal of High Energy Physics 4 (2011) 29.
+E. Pazy and N. Argaman, Phys. Rev. D. 85 (2012) 104021.
+M. Milgrom, ArXiv:astro-ph/0801.3133 (2008).
+M. Milgrom, MOND laws of galactic dynamics, contribution to MG13, arXiv:astro-ph/1212.2568 (2013).
+M. Milgrom, New Astronomy Reviews 51 (2008) 906.
+R. H. Sanders, Advances in Astronomy, doi:10.1155/2009/752439 (2009).
+F. Bournaud, P.-A. Duc, E. Brinks, M. Boquien, P. Amram, U. Lisenfeld, B. S. Ko-ribalski, F. Walter and V. Charmandaris, Science 316 (2007) 1166.
+G. W. Angus and A. Diaferio, MNRAS 417 (2011) 941.
+O. Tiret and F. Combes, Bar formation and galaxy interactions in MOND, in SF2A-2007: Proceedings of the Annual meeting of the French Society of Astronomy and Astrophysics, eds. J. Bouvier, A. Chalabaev and C. Charbonnel (July 2007), p. 356. arXiv:astro-ph/0709.3376.
+F. Combes and O. Tiret, MOND and the Galaxies, in American Institute of Physics
+Conference Series, eds. J.-M. Alimi and A. Fu¨ozfa, American Institute of Physics Conference Series, Vol. 1241 (June 2010), pp. 154–161. arXiv:astro-ph/0908.3289.
+
+
+accepted 19 November, published 31 December 2012, IJMPD, Vol.21, Issue No.14
+
+/	/
+
+
+
+
+
+
+The failures of the standard model of cosmology require a new paradigm 13
+
+S. S. McGaugh and J. Wolf, ApJ 722 (2010) 248.
+X. Hernandez, S. Mendoza, T. Suarez and T. Bernal, A&A 514 (2010) A101.
+M. S. Pawlowski, P. Kroupa and K. S. de Boer, A&A 532 (2011) A118.
+
+The Gravitational Behaviour of an Effective Topological Field Theory
+Giandomenico Palumbo1
+1School of Physics and Astronomy, University of Leeds, Leeds, LS2 9JT, United Kingdom
+(Dated: January 9, 2014)
+Effective topological field theories describe the topological properties of Dirac fermions in the low-energy regime. In this work, we consider fermions coupled to a SO(5) Cartan connection on suitable four-dimensional compact manifolds. We show that the corresponding effective topological field theory, suitably constrained on the basis of topological motivations, gives rise to a gravitational action with a cosmological constant and Barbero-Immirzi parameter which is compatible, at classical level, with the vacuum general relativity.
+PACS numbers:
+
+
+Introduction.– As is well known, general relativity (GR) represents the most important theory that de-scribes classical gravity. It is a geometric theory char-acterizing the dynamical properties of spacetime but the development of a theory aimed to achieving a synthesis between quantum physics and gravity would represent a major breakthrough.
+In the language of differential geometry, the mathe-matical structures of GR in the first-order formalism and gauge theory appear very similar at classical level and for this reason, in the MacDowell-Mansouri theory [1, 2], GR was reformulated as a Yang-Mills theory. However even in this case it remains perturbatively non-renormalizable. If gravity is a fundamental force then the problem of quantization should be solved by considering Einstein’s theory only as the low-energy limit of some more fun-damental theory [3], or alternatively, by considering the classical spacetime itself only a rough approximation of a fundamental quantum spacetime [4]. Although in the last decades there have developed several approaches follow-ing these lines of thought a real unification is still lacking, not to mention that it is very hard to probe these theo-ries by carrying out direct experimental measures at the
+energy required by quantum gravity (Planck scale).
+13]) with Lie algebra-valued forms [13]. We will start con-sidering a microscopic Dirac theory on suitable manifolds in which fermions are coupled to a SO(5) Cartan connec-tion made by combining together spin connection and tetrads. Integrating out the fermionic fields we achieve the corresponding effective topological field theory [14] which, suitably constrained on the basis of topological motivations, will give rise to a gravitational theory with a positive cosmological constant and Barbero-Immirzi pa-rameter [15] fixed to one [16]. The corresponding equa-tions of motion are compatible with the vacuum Einstein equations. Note that the idea that a gravitational theory could be derived from a topological field theory is not new because it is well known that Einstein-Hilbert action is formally equivalent to a constrained BF theory [17, 18] that can be connected to MacDowell-Mansouri theory when a positive cosmological constant is included [19]. Finally, in the context of topological phases of matter, a link between topological theories, fermions and gravity was already highlighted in [20].
+Fermionic theory.– We start considering massless Dirac fermions living on a four-dimensional compact spin manifold M without boundary and with Euclidean sig-nature. The corresponding fermionic action is given by
+
+There are however other minimalist approaches [5] in which gravity is not considered as a fundamental inter-action and GR could be a low-energy effective field the-ory of a standard quantum field theory when suitable ingredients are called into play. This is the idea behind
+
+
+
+where
+ i
+S = —
+α2
+
+/
+dx4 |e| ψ /D ψ.	(1)
+M
+
+Sakharov gravity [6, 7] in which fermions, bosons, space-time and metric are yet present at fundamental level, but the dynamics of gravity is emergent although curvature-squared terms appear in the effective action at one-loop which deviate from standard Einstein’s theory.
+Similar results in presence of torsion were found in [8, 9] by using the heat-kernel expansion and following Connes’ spectral action principle [10] which states that any physical action should be deducible from the spectral properties of some suitable Dirac operator.
+In this work we are going to follow the emergent gravity approach by employing the first-order formalism for grav-ity in the framework of Cartan geometry (see, e.g. [11–
+/D = /∂ + /ω + m /e.	(2)
+Here /D = γaeµDµ, where γa are 4 × 4 Euclidean Dirac matrices, a, µ = 1, 2, 3, 4, ψ is a four-component spinor, α is a dimensionless constant, m is a real constant with dimension of a mass, ωµ and eµ represent the SO(4) spin connection and tetrads (frame fields) respectively which are considered independent variables following the Pala-tini approach to gravity [21]. This implies in general the presence of a non-null torsion [22]. In the above Dirac operator there appears also a non-standard term propor-tional to m which derives from the fact that we have im-posed on the spinor field the invariance with respect to
+
+2
+
+
+local Poincar´e transformations. We remind that in gauge theory the invariance of spinor fields with respect to local unitary transformations requires the introduction of co-variant derivatives where the connections (gauge fields) represent the generators of Lie groups. Hence in such
+gauge-gravity procedure [11] the request of invariance
+On compact spin manifolds without boundary, this index receives no contributions [28, 29] from the topological Nieh-Yan term [30]. In such a way the corresponding effective topological action is simply given by
+Stop = — 	1	 ∫ tr (R  Λ R ) ,	(8)
+
+of spinor field with respect to local Poincar´e transfor-mations means that the standard derivative must be re-
+eff
+192 π α2	A	A
+
+placed by the appropriate covariant derivative in which the connection is a linear combination of ωµ and eµ which are the generators of Lorentz transformations and space-
+which is proportional to Pontrjagin invariant [27],
+where tr is the trace (Killing form) and the curvature form RA = dAA, in terms of e and ω, is given by
+
+time translations respectively. For what concerns the tetrads, it was found in [23, 24] that
+RA = Rω
++ m2e Λ e + m Tω
+.	(9)
+
+eµ = ea iγa(1 + sγ5),	(3)
+where s2 = 1, γ5 = iγ1γ2γ3γ4 and Pa = iγa(1 + sγ5) are the generators of spacetime translations in the spino-rial representation. It is important to remark that the presence of a real constant m in (1) is necessary for di-mensional reasons and it can be seen as a scale of energy. Note that the connection form of the Dirac operator in (2), namely
+A = ω + m e	(4)
+is a SO(5) Cartan connection form [13] which plays a fun-damental role in the MacDowell-Mansouri theory where GR with a positive cosmological constant is reformulated as a Yang-Mills theory. Furthermore, in the next sec-tion, we will derive a gravitational action which coincides with the generalized MacDowell-Mansouri theory [13, 25] in which the Barbero-Immirzi parameter is naturally in-cluded.
+To do this, we have to focus on the physical proper-ties of our microscopic model in the low-energy regime. These are described by a suitable effective field theory Seff achieved by integrating out the fermionic fields in the corresponding partition function of S
+e−Seff[A] = ∫ Ð ψ Ðψ e−S[A,ψ,ψ].	(5)
+Here Rω = dωω and Tω = dωe are the curvature form and torsion of ω respectively. Moreover there exists an involutory automorphism A → A¯ with
+A¯ = ω — m e,	(10)
+such that [13]
+tr (RA Λ RA) = tr (RA¯ Λ RA¯) ,
+tr (RA Λ ⋆RA) = —tr (RA¯ Λ ⋆RA¯) ,	(11)
+where ⋆ represents the internal Hodge dual (⋆2 = 1) and
+RA¯ = Rω + m2e Λ e — m Tω.	(12)
+Emergent Euclidean gravity.– We show now that for particular manifolds the topological action (8) describes a gravitational theory. Thus we consider manifolds M which saturate Hitchin’s bound [31]
+χ = 3 |τ |,	(13)
+2
+where χ and τ are the Euler characteristic and the Hirze-bruch signature [27] respectively which, in terms of RA, are given by
+  1  ∫
+
+χ = 16π2
+tr (RA Λ ⋆RA) ,
+M
+
+In order to evaluate the corresponding effective topolog-
+τ =  1  ∫
+
+tr (R
+Λ R ) .	(14)
+
+ical action Stop
+which is the dominant part of Seff at
+24π2 M
+
+ground state, we observe that the Dirac operator has the
+following matrix form
+/D =	0	/D−	,	(6)
+/D+	0
+The condition (13) is satisfied when the topological quan-tities in (11) are mutually equivalent, i.e. when RA and RA¯ transform as follows
+RA = ⋆RA	RA¯ = — ⋆ RA¯.	(15)
+
+where /D− = /D† and /D+ = /D† are the chiral compo-
+
+nents of the operator /D. In this manner we can use now the result found in [14], where we showed that Stop re-sults to be proportional to the topological index of /D+ [26, 27], namely
+Stop = —iπ ind /D+ .	(7)
+These self-dual and anti-self dual relations appear in the context of gravitational instantons [27] and thanks to (9) and (12), they fix the following constraint between the spin connection ω and the tetrads e
+m Tω = ⋆(Rω + m2e Λ e).	(16)
+
+3
+
+
+By using the above relation, we can replace the torsion in (9) and the effective action (8) (at this point we omit the label “top”) becomes
+	1	 ∫
+The equations (20) and (22) formally resemble the second Bianchi identity and the classical Yang-Mills equations in gauge theory where A and Tω are replaced by an Ehres-mann connection and the corresponding curvature form
+
+Seff = — 96 π α2
+tr [Rω Λ ⋆Rω + Rω Λ Rω+
+respectively. It is quite easy to note that (20), (21) and
+(22) are satisfied at the same time when there exists an
+
+m4e Λ e Λ e Λ e + 2 m2e Λ e Λ Rω +
+2 m2e Λ e Λ ⋆Rω + m4e Λ e Λ ⋆(e Λ e) .	(17)
+In this action only the last three terms are relevant at classical level simply because the first two terms are
+anti-self-dual or null torsion, i.e.
+Tω = k ⋆ Tω,	(23)
+with k = —1, 0. In this last case, ω reduces to the Levi-Civita connection ω and the equations of motion in (20)
+
+topological invariants with vanishing variation and the
+third one vanishes thanks to Jacobi identity [13] while the fourth term is null only for the torsion-free connec-tion. Performing the following identifications
+become
+^
+
+e Λ ⋆ Rω^ + Λ e Λ e  = 0,	(24)
+
+
+/
+m =	Λ	α = m
+3
+
+/
+G,	(18)
+3
+which are nothing but the vacuum equations of GR with a positive cosmological constant. However, strictly speak-ing, compact Riemannian manifolds M with connection
+
+where Λ is a positive cosmological constant and G is the
+Newtonian constant, then the action (17) acquires the following form
+ω satisfying (13) support only Ricci-flat metrics [31, 33], which are compatible with the equations (24) only when Λ = 0. This is a sort of topological obstruction to the
+
+  1 
+eff	16πG
+tr [e Λ e Λ ⋆R + Λ e Λ e Λ ⋆(e Λ e)
+ω	6
++e Λ e Λ Rω ],	(19)
+existence of a cosmological constant when we want to define the metric solutions of (24) on the whole compact manifold. The study and implications of our model on non-compact spacetimes and in presence of bosonic gauge
+
+where we recognize the Hilbert-Palatini action with a cosmological constant while the third term represents the Holst term [32] with the Barbero-Immirzi parameter fixed to one [15, 16]. Moreover this action coincides with the generalized MacDowell-Mansouri action. It is impor-tant to remark that although in the fermionic model we started considering tetrads and spin connection indepen-dent variables, now they must satisfy the constraint (16) which replaces the standard metricity condition and then we take the tetrads as the only free variables. By varying the action with respect to the tetrads we have that
+fields and matter will be developed in a future work.
+Conclusions.– Summarizing we have shown that a gravitational theory which is compatible at classical level with Euclidean GR, could be seen as arising from a constrained topological theory which represents the low-energy effective theory of a microscopic massless Dirac theory on curved spacetime. It is important to remark that in our approach the cosmological constant Λ is not connected with the Planck energy scale as happens in the standard emergent gravity scenario [6, 7]. This seems an important point for cosmology where a small positive cos-
+mological constant might drive the accelerated expansion
+
+
+e Λ Rω
+
++ e Λ ⋆  Rω
++ Λ e Λ e	= 3
+of the universe. Finally there are several open questions and challenges concerning the development of this theory
+
+= dω Tω
+
+/
++	Λ e Λ T
+3	ω
+= dA Tω
+= 0,
+(20)
+on compact and non-compact Lorentzian spacetimes.
+
+
+/
+
+where we have used the first Bianchi identity and the con-
+straint (16). Combining again these last equations with
+(16) multiplied for e Λ, we achieve the following identity
+dω Tω = r Λ e Λ ⋆ T = —r Λ e Λ T .	(21) Moreover applying the exterior covariant derivative dA
+on both sides of (9) combined with (16), (20), (21) and by using the second Bianchi identity, i.e. dARA = 0, we find that
+dARA = dA(Rω + m2e Λ e) + m dA Tω =
+= r Λ d ⋆ T = 0.	(22)
+
+S. W. MacDowell and F. Mansouri, Phys. Rev. Lett. 38, 739 (1977). Erratum, ibid. 38, 1376 (1977).
+D. K. Wise, Class. Quant. Grav. 27, 155010 (2010).
+J. G. Polchinski, String Theory, Cambridge University Press (2003).
+C. Rovelli, Quantum Gravity, Cambridge University Press (2004).
+L. Sindoni, SIGMA 8, 027 (2012).
+A. D. Sakharov, Sov. Phys. Dokl. 12, 1040 (1968).
+M. Visser, Mod. Phys. Lett. A 17, 977 (2002).
+F. Hanisch, F. Pfaeffle and C. A. Stephan, Commun. Math. Phys. 300, 877 (2010).
+B. Iochum, C. Levy and D. Vassilevich, Commun. Math. Phys. 310, 367 (2012).
+
+4
+
+
+A. Connes, Comm. Math. Phys. 183, 155 (1996).
+F. W. Hehl, J. D. McCrea, E. W. Mielke and Y. Neeman, Phys. Rep. 258, 1 (1995).
+R. W. Sharpe, Differential geometry: Cartans generaliza-
+G. Grignani and G. Nardelli, Phys. Rev. D 45, 2719 (1992).
+A. Tiemblo and R. Tresguerres, Eur. Phys. J. C 42, 437 (2005).
+
+tion of Kleins Erlangen program, Springer-Verlag (1997).
+A. Randono,
+(2006).
+
+D. K. Wise, SIGMA 5, 080 (2009).
+G. Palumbo, R. Catenacci and A. Marzuoli, Int. J. Mod. Phys. B 27, 1350193 (2013).
+G. Immirzi, Class. Quant. Grav. 14, L177 (1997).
+J. F. Barbero G., Phys. Rev. D 51, 5507 (1995).
+J. F. Plebanski, J. Math. Phys. 12, 2511 (1977).
+J. C. Baez, Lect. Notes Phys. 543, 25 (2000).
+L. Freidel and A. Starodubtsev, (2005).
+G. E. Volovik, The Universe in a Helium Droplet, Oxford University Press (2003).
+A. Palatini, Rend. Circ. Mat. Palermo 43, 203 (1919).
+F. W. Hehl, P. von der Heyde and G. D. Kerlick, Rev. Mod. Phys. 48, 393 (1976).
+M. F. Atiyah and I. M. Singer, Ann. Math. 87, 484 (1968).
+T. Eguchi, P. B. Gilkey and A. J. Hanson, Phys. Rep.
+66, 213 (1980).
+H.-Y. Guo, K. Wu and W. Zhang, Commun. Theor. Phys.
+32, 381 (1999).
+F. Pfaeffle and C. A. Stephan, Commun. Math. Phys.
+307, 261 (2011).
+H. T. Nieh and M. L. Yan, J. Math. Phys. 23, 373 (1982).
+N. Hitchin, J. Diff. Geom. 9, 435 (1974).
+S. Holst, Phys. Rev. D 53, 5966 (1996).
+A. L. Besse, Einstein Manifolds, Springer (2007).
+
+„The Gravito-Informational Collapse Framework”
+
+
+A Deterministic Model Unifying Quantum, Relativistic, and Entropic Dynamics
+
+
+
+Sebastian Virtosu, Associate Professor, PhD, Habil,
+
+National University of Arts „G. Enescu” – Iasi, Romania
+
+
+
+Abstract
+
+
+The Universal Gravito-Informational Theory (TGIU v10.0) presents a unified model integrating informational physics, quantum mechanics, and general relativity through a non-metric collapse process.
+
+The theory postulates that the universe originates from a 2D informational domain governed by structured entropy gradients, which collapse into 3D space-time via a critical angular threshold near 89.93°.
+Central to the framework is the VIRTOSU constant (𝓥 = 4.35 × 10⁹⁹ k/°), which defines the maximum information-to-energy transformation rate per collapse degree which Universe has the limit to receive from 2D informational domain.
+
+The theory replaces traditional field-based interactions with relational informational gradients, modeled through the UIRE v9.3 equation, and introduces deterministic pathways for the emergence of matter, antimatter, dark matter, and dark energy.
+TGIU provides numerical, testable predictions for entropy distribution in cosmic microwave background anisotropies, photon ring distortions near black holes, and entropy-guided gravitational lensing effects. Unlike speculative unified models, TGIU offers measurable parameters, precise collapse simulations, and aligns with current observational datasets (JWST, LIGO, CERN). It is proposed as a mathematically coherent, physically testable alternative to standard unification efforts, centered on entropy-informational dynamics rather than particle mediation.
+
+Introduction
+
+
+Modern physics remains divided between the smooth curvature of space-time in General Relativity (GR) and the probabilistic collapse of quantum states in Quantum Mechanics (QM). Despite decades of effort, no theory has reconciled these paradigms under a single, experimentally consistent framework. Existing unification attempts—such as string theory or loop quantum gravity—lack definitive empirical support or rely on speculative dimensions and untestable scales.
+
+The Universal Gravito-Informational Theory (TGIU v10.0) addresses these shortcomings by shifting the unification approach from field unification to collapse dynamics based on entropy-guided informational gradients. The central claim of TGIU is that the universe did not emerge from a singularity, field interaction, or probabilistic fluctuation, but from a directional informational collapse governed by geometric and entropic constraints. This process occurs at a critical collapse angle, \Theta_C \approx 89.93^\circ, breaking symmetry and generating time, space, and energy as emergent products of informational phase alignment.
+
+TGIU departs from conventional theories by:
+
+Modeling reality through relational informational dynamics, not particles or forces.
+Introducing the VIRTOSU constant, a measurable scaling unit linking informational geometry to physical energy.
+Encoding physical processes in the UIRE v9.3 equation, a deterministic informational-collapse formulation replacing statistical quantum mechanics and continuous curvature models.
+
+This framework offers a predictive, falsifiable, and computationally efficient platform for understanding the formation of matter, dark matter, and energy structures. It is grounded in:
+
+Explicit equations (UIRE),
+Defined constants (\mathcal{V}),
+And testable predictions (e.g., photon ring anomalies, entropy lensing patterns).
+
+The goal of TGIU is not to displace existing physics, but to complete it by introducing the missing informational-relational layer governing collapse and emergence.
+
+Section 3 – Foundational Principles
+
+
+The Universal Gravito-Informational Theory (TGIU) is based on three foundational principles that define the informational-to-physical transition of the universe. These principles replace particle-centric and force-based paradigms with a framework rooted in entropy dynamics, informational collapse, and geometric symmetry-breaking.
+
+
+
+Principle 1: Relational Collapse as Origin of Physical Reality
+
+
+
+The emergence of 3D space-time and matter results from a collapse process between a structured 2D informational domain and a 1D directional gradient (potential gravity). This interaction is governed by a specific angular threshold \Theta_C, near 89.93°, which defines the point of maximum energy conversion and minimal informational resistance. Physical structures arise only when the collapse is sufficiently aligned to initiate informational phase transitions.
+
+
+
+
+
+Principle 2 – The VIRTOSU Constant and Energy Transfer
+
+
+
+The VIRTOSU constant, denoted \mathcal{V} = 4.35 \times 10^{99} \, \frac{k}{^\circ}, defines the maximum information-to-energy conversion rate per angular degree of collapse. It acts as a scaling bridge between non-metric informational gradients and measurable 3D energy values. This constant replaces Planck’s h in contexts where collapse geometry, not quantum superposition, governs the behavior of matter and energy.
+
+
+
+Principle 3: Structured Entropy Gradients Drive Formation
+
+
+
+Entropy is not treated as a statistical byproduct but as a structured, directional gradient governing collapse. The transition from the 2D domain into observable 3D structures is regulated by entropy flux (\partial S/\partial t), entropy memory (\xi_k), and informational potential gradients (\Delta \Phi). When the entropy gradient reaches a quasi-static equilibrium and informational alignment is achieved, collapse is triggered—resulting in specific energetic and material outcomes.
+
+Together, these principles form a consistent mechanism for:
+
+The formation of matter, antimatter, dark matter, and dark energy based on collapse angle.
+The definition of collapse efficiency using measurable informational and entropic parameters.
+A general replacement for probabilistic quantum collapse and field curvature in cosmological models.
+
+Section 4 – TGIU Fundamental Units: Definitions
+
+
+
+To enable deterministic modeling of informational collapse and entropy-driven dynamics, TGIU introduces a system of natural units rooted in informational physics. These are:
+
+
+
+Numerical Calibration of Energon
+
+
+
+TGIU posits that the energy required to collapse one fundamental unit of information (Virt) into physical mass (Mir) is equivalent to the Boltzmann constant:
+
+
+
+1 \, \text{Energon} = 1.38 \times 10^{-23} \, \text{Joules}
+
+This is derived using the classical energy-mass relation E = mc2 for 1 Mir:
+
+E_{\text{Mir}} = 1.53 \times 10^{-40} \, \text{kg} \cdot (3 \times 10^8)^2 = 1.377 \times 10^{-23} \, \text{J}
+
+Thus, the Energon represents a conversion bridge between informational entropy and thermodynamic entropy:
+
+TGIU Assertion: The energy of informational collapse (Virt → Mir) is equal to the thermal energy per entropy unit — Boltzmann constant. This equivalence is foundational to linking entropy, mass, and information in the universe.
+
+
+
+TGIU Measurement Units – Defining the Quantities of Informational Collapse
+
+
+
+TGIU introduces a self-consistent system of fundamental units derived from collapse mechanics rather than spatial metrics. These are based on informational processes, not pre-defined dimensional assumptions. Below are the five core TGIU units:
+
+
+
+Virt (𝒱) — Unit of Informational Entropy
+
+Definition: The smallest indivisible quantum of informational potential. It is the pre-collapse equivalent of a bit, embedded in a 2D relational field.
+Nature: Dimensionless in conventional units but carries informational entropy, measurable in nats or bits.
+Collapse: 1 Virt → 1 Mir if the collapse is realized at θ_C = 89.93°.
+Analogy: Comparable to Planck’s quantum of action, but applies to informational gradients.
+
+
+
+Mir (𝐾) — Unit of Collapsed Mass
+
+Definition: The mass equivalent of a collapsed Virt through a full θ_C = 89.93° informational collapse.
+Value:
+
+1 \, \text{Mir} = 1.53 \times 10^{-40} \, \text{kg}
+
+Justification: Derived such that its energy equivalence via E = mc^2 yields exactly Boltzmann’s constant.
+
+
+
+Tila (𝓣) — Unit of Collapse Space
+
+Definition: The minimum 3D spatial unit necessary for a Virt to fully collapse into a Mir.
+Interpretation: Comparable in function to a Planck volume, but not defined by length; it is a volume created by the angular resolution θ_C.
+Volume: Assumed 1 Tila = volume generated during 1 full collapse at θ_C = 90°,
+~Planck³, yet not tied to metric space.
+
+
+
+Chrona (𝓒) — Unit of Collapse Duration
+
+Definition: The temporal equivalent of one collapse cycle for a Virt → Mir transformation.
+Analogy: Related to Planck time, but defined informationally:
+
+1 \, \text{Chrona} = \frac{1 \, \text{Tila}}{c}
+
+Interpretation: Represents the moment when time emerges from asymmetry.
+
+
+
+Energon (𝓔g) — Unit of Collapse Energy
+
+Definition: The energy released when 1 Virt collapses into 1 Mir over 1 Tila in 1 Chrona.
+Numeric Derivation:
+
+1 \, \text{Mir} = 1.53 \times 10^{-40} \, \text{kg} \Rightarrow E = mc^2 = 1.38 \times 10^{-23} \, \text{J}
+
+Meaning:
+
+1 Energon = kB
+
+\boxed{1 \, \text{Energon (Eg)} = k_B}
+
+Significance: Matches Boltzmann’s constant, establishing the deep link between informational entropy and thermodynamic energy.
+
+Virtosu constant (V)
+
+The Virtosu Constant (𝓥) is a universal constant introduced within the Universal Gravito-Informational Theory (TGIU), which defines:
+The maximum information-to-energy collapse rate from the 2D realm into the 3D universe at the Planck epoch, measured in entropy units per angular degree of collapse.
+
+Encodes the maximum capacity of the universe to convert pure information into energetic structures per angular degree of collapse.
+Enables precise computation of the collapse energy and angle Theta_C for producing or analyzing matter, antimatter, dark matter, and dark energy.
+Serves as the first constant linking geometry (collapse angle) with energy/information transfer, turning UIRE into a deterministic and predictive framework.
+
+
+
+The calculation method of Virtosu’s constant:
+
+
+S_{\text{max}} = 1 \times 10^{102} \cdot k Then:
+
+\mathcal{V} = \frac{1 \times 10^{102} \cdot k}{180^\circ} = 5.55 \times 10^{99} \cdot
+\frac{k}{\text{degree}}
+
+The VIRTOSU constant has a theoretical maximum of \boxed{5.55 \times 10^{99} \,
+\frac{k}{\text{degree}}}, but in the observable 3D universe, due to collapse inefficiencies, the effective value is estimated at \boxed{4.35 \times 10^{99} \, \frac{k}{\text{degree}}}
+
+
+
+Collapse Efficiency Coefficient (\xi_C)
+
+\xi_C = \frac{\mathcal{V}_r}{\mathcal{V}_0} = \frac{4.35}{5.55} \approx 0.783 The value \xi_C \approx 0.783 is numerically close to \cos(38.7^\circ), but:
+TGIU does not yet attribute any physical meaning to a „collapse angle” of 38.7°.
+
+This is a dimensionless efficiency coefficient expressing how much of the ideal collapse is actually realized in the universe. It modulates the UIRE equation:
+
+
+E = \mathcal{V}_r \cdot \xi_C \cdot \cos(\theta_C)
+
+
+
+Summary Table
+
+
+
+Section 5 – Mathematical Framework
+
+
+The mathematical foundation of TGIU is encoded in the Universal Informational Relational Equation (UIRE), version 9.3. Unlike traditional equations derived from field theory or operator algebra, UIRE describes reality through relational collapse dynamics, mapping informational gradients to physical manifestations based on angular constraints and entropic conditions.
+
+
+
+The Core Equation: UIRE v9.3
+
+
+\boxed{ \mathbb{T}(\mathbb{E}, \theta_C) = \mathcal{V} \cdot \cos(\theta_C) } Where:
+\mathbb{T}(\mathbb{E}, \theta_C): Energy transfer resulting from collapse at angle
+\theta_C
+\mathcal{V}: VIRTOSU constant = 4.35 \times 10^{99} \, \frac{k}{^\circ}
+\theta_C: Collapse angle (in degrees), governing the type and intensity of the emergent entity
+\cos(\theta_C): Dimensional projection scalar from 2D to 3D
+
+
+
+
+
+Extended Form: Collapse Efficiency with 7 Factors
+
+To account for realistic conditions of entropy, memory, and observation, UIRE v9.3 is extended as:
+
+
+\boxed{ \mathbb{T}(\mathbb{E}) = \mathcal{V} \cdot \cos(\theta_C) \cdot \Delta \Phi \cdot
+\xi_k \cdot \lambda_i \cdot \vec{\nabla S} \cdot G \cdot \delta_{obs} } Where:
+\Delta \Phi: Informational potential gradient (information “pressure”)
+\Theta_C\: Collapse angle collapse (89.93° for matter/energy collapse. Slight asymmetry for generating matter/energy. At 90° will be perfect balance, nothing happens, no collapse).
+\xi_k: Entropy memory coefficient (persistence of prior configurations)
+
+\lambda_i: Informational scaling from historical entropy structures
+\vec{\nabla S}: Entropy gradient vector (∂S/∂t)
+G: Local gravitational influence (contextual, e.g. Earth, vacuum, galactic halo)
+\delta_{obs}: Observer resonance factor (0 = unobserved, 1 = fully coupled measurement)
+
+
+
+Interpretation and Operational Use
+
+For \theta_C \approx 89.93^\circ, \cos(\theta_C) yields the maximal stable energy transfer, associated with baryonic matter.
+At \theta_C > 130^\circ, the energy term becomes negative, modeling dark energy as a repulsive collapse structure.
+For \theta_C < 80^\circ, the result is incomplete collapse → dark matter analogues with weak 3D projection.
+
+
+
+The equation permits reverse engineering of collapse events:
+
+Given an observed energy value, one can infer the collapse angle and dominant entropic/informational conditions.
+Given a target entity (e.g., antimatter), one can compute the required informational setup to simulate or produce it under controlled conditions.
+
+
+
+Comparison with Standard Physics
+
+The UIRE v9.3 equation is thus not a theoretical reformulation—it is a practical computation tool, allowing prediction, verification, and control of collapse behavior across cosmic and quantum domains.
+
+TGIU Lagrangian Derivation – The Collapse Dynamics
+
+
+
+To ground TGIU within the standard language of theoretical physics, we construct a Lagrangian that governs the dynamics of informational collapse into physical reality — connecting entropy, information, and gravitational behavior.
+
+
+
+TGIU Collapse Principle Recap
+
+
+
+The core idea is that a 2D informational structure collapses into 3D mass-energy configurations via angular modulation \theta_C, producing observable reality. The collapse angle determines the nature of resulting entities (matter, dark matter, etc.).
+
+
+
+Step-by-Step Derivation
+
+
+
+TGIU Field Variable Definitions:
+
+Let:
+
+\mathcal{I}(x^\mu): Informational field (scalar), measured in Virts.
+\theta_C(x^\mu): Collapse angle field (dimensionless), defines local asymmetry.
+\xi_k: Entropy memory or decay factor (dimensionless).
+\eta(x^\mu): Matter field generated post-collapse (e.g., scalar Higgs-like).
+g_{\mu\nu}: Metric tensor (GR-compatible if needed).
+
+
+
+Lagrangian Structure
+
+
+
+We define the Lagrangian density \mathcal{L}_{\text{TGIU}} as:
+
+
+
+\mathcal{L}{\text{TGIU}} = \underbrace{\frac{1}{2} \partial^\mu \mathcal{I} \, \partial\mu
+\mathcal{I}}_{\text{Informational gradient}} • \underbrace{V(\mathcal{I},
+
+\theta_C)}_{\text{Collapse potential}} • \underbrace{f(\theta_C) \, \mathcal{I} \,
+\eta}_{\text{Mass-energy generation}} • \underbrace{\xi_k \, \eta^2}_{\text{Entropy memory effect}}
+
+
+
+Breakdown of Terms
+
+
+
+Potential Example:
+
+V(\mathcal{I}, \theta_C) = \lambda \left( \mathcal{I}^2 - \mathcal{I}_0^2 \cos^2 \theta_C
+\right)^2
+
+→ Symmetry-breaking potential resembling Higgs field, modulated by collapse angle.
+
+
+
+Lagrange Equations of Motion
+
+From the action
+
+
+
+S = \int \mathcal{L}_{\text{TGIU}} \, \sqrt{-g} \, d^4x,
+
+we derive the equation of motion for \mathcal{I}:
+
+\Box \mathcal{I} + \frac{\partial V}{\partial \mathcal{I}} = f(\theta_C) \eta
+
+This equation governs how informational gradients evolve and collapse under angular modulation and entropy memory effects.
+
+
+
+Conservation Laws, Noether’s Theorem, and Symmetry Implications in TGIU
+
+
+
+Foundational Premise
+
+
+
+In TGIU, informational collapse governs the transition from 2D informational states to 3D physical manifestations. The principle of relational symmetry ensures that for every preserved symmetry in the collapse dynamics, there exists a conserved quantity — in alignment with Noether’s Theorem.
+
+
+
+Application of Noether’s Theorem
+
+
+
+Let:
+
+\mathcal{L}(\mathcal{I}, \partial_\mu \mathcal{I}, \theta_C, x^\mu) be the Lagrangian defined in Section 2.
+\mathcal{I} represent the informational field.
+\theta_C the collapse angle governing the final 3D state.
+
+Then, for each continuous symmetry of \mathcal{L}, there is an associated conserved quantity:
+
+
+
+Emergent Laws from TGIU Collapse Symmetries
+
+
+
+Based on Noether’s result applied to \mathcal{L}_{TGIU}:
+
+Collapse Energy Conservation (TGIU Law I)
+\partial_t \left( \frac{\partial \mathcal{L}}{\partial \dot{\mathcal{I}}}
+\dot{\mathcal{I}} - \mathcal{L} \right) = 0
+
+→ This recovers collapse energy \mathcal{E}_\theta as a conserved informational energy during transition from Virt → Mir.
+
+Entropy Gradient Preservation (TGIU Law III)
+\delta \mathcal{L} = 0 \Rightarrow \delta \xi_k = 0
+
+→ Entropy memory remains structured unless collapse angle symmetry is externally perturbed (e.g., interaction with an observer).
+
+Informational Phase Symmetry
+
+If \mathcal{I} \to e^{i\alpha} \mathcal{I} leaves \mathcal{L} invariant → then informational charge is conserved — a concept akin to U(1) symmetry in standard field theory.
+
+
+
+Symmetry and Asymmetry — Dual Engines of Collapse
+
+
+
+In TGIU:
+
+Symmetry preserves structured evolution and conservation (equilibrium, rotation, time invariance).
+Asymmetry initiates collapse, triggers time and entropy (e.g., breaking angular symmetry at θ_C ≠ 90°).
+
+
+
+This duality forms the informational engine of the universe:
+
+Symmetry => Conservation,	Asymmetry => Creation and Collapse
+
+\boxed{\text{Symmetry} \Rightarrow \text{Conservation}, \quad \text{Asymmetry}
+\Rightarrow \text{Creation and Collapse}}
+
+
+
+Conclusion and Theoretical Value
+
+
+
+This section satisfies the Consensus request for conservation principles and Noether symmetry alignment. It shows that TGIU is not only compatible with foundational physical laws, but it derives them naturally from the behavior of informational gradients and collapse dynamics.
+
+
+
+Hamiltonian Formulation and the Energy Landscape of Informational Collapse
+
+
+From Lagrangian to Hamiltonian in TGIU
+
+Given the Lagrangian for the informational field collapse from subchapter 5.5. :
+
+\mathcal{L}(\mathcal{I}, \partial_\mu \mathcal{I}, \theta_C) = \frac{1}{2} \, \partial_\mu
+\mathcal{I} \, \partial^\mu \mathcal{I} - V(\mathcal{I}, \theta_C)
+
+
+
+we define the conjugate momentum \Pi as:
+
+\Pi = \frac{\partial \mathcal{L}}{\partial \dot{\mathcal{I}}} = \dot{\mathcal{I}} Then, the Hamiltonian density becomes:
+
+\mathcal{H} = \Pi \dot{\mathcal{I}} - \mathcal{L} = \frac{1}{2} \Pi^2 + \frac{1}{2} (\nabla
+\mathcal{I})^2 + V(\mathcal{I}, \theta_C)
+
+This defines the total informational energy per unit collapse volume, and maps how energy is distributed during an informational collapse process.
+
+
+
+Collapse Energy Potential V(𝓘, θ_C)
+
+
+
+The potential V(\mathcal{I}, \theta_C) encodes the collapse behavior as a function of the collapse angle:
+
+
+This structure yields:
+
+
+
+
+
+Total Collapse Energy (Energon)
+
+
+
+From Hamiltonian integration:
+
+\mathcal{E}_\theta = \int d^3x \, \mathcal{H}
+
+
+
+For collapse of 1 Virt → 1 Mir, in TGIU’s defined unit space (1 Tila) and =unit time (1 Chrona):
+
+
+
+\mathcal{E}_\theta = 1.38 \times 10^{-23} \, \text{J} = 1 \, \text{Energon}
+
+
+
+This value precisely matches Boltzmann’s constant, reinforcing the physical identity:
+
+Energon = kB = collapse energy of 1 Virt into 3D existence
+
+\boxed{1 \, \text{Energon} = k_B = \text{collapse energy of 1 Virt into 3D existence}}
+
+
+
+This is not a coincidence, but a theoretical bridge: thermal entropy per particle = informational collapse energy per bit.
+
+Energy Flow and Informational Gradient Interpretation
+
+
+
+The informational field flows toward equilibrium:
+
+
+
+\dot{\mathcal{I}} = -\nabla \mathcal{H}
+
+Meaning: energy disperses from high-potential gradients, regulated by θ_C, creating 3D structures only if symmetry is broken (collapse initiated).
+
+
+
+Conservation from Hamiltonian Dynamics
+
+
+
+Using the canonical equations:
+
+\dot{\mathcal{I}} = \frac{\partial \mathcal{H}}{\partial \Pi}, \quad \dot{\Pi} = -\frac{\partial
+\mathcal{H}}{\partial \mathcal{I}}
+
+TGIU satisfies conservation laws from Hamiltonian formalism:
+
+Energy: conserved over the collapse cycle.
+Collapse angle θ_C: acts as a modulator of potential shape and energy release.
+Collapse symmetry breaking: leads to time emergence and entropy increase.
+
+
+
+Conclusion
+
+
+
+This Hamiltonian formulation positions TGIU as a fully compatible, deterministic informational mechanics, grounded in classical physics formalisms while offering a novel collapse-origin model of energy, matter, and structure.
+
+Section 6 – Informational Collapse as the Origin of Thermodynamic Entropy and Mass-Energy Duality
+
+
+TGIU redefines fundamental physical phenomena not as axiomatic constants, but as emergent effects of informational collapse gradients. In this framework, entropy, mass, and energy all arise from angular informational dynamics—specifically the collapse angle θ_C.
+
+
+From Informational Entropy to Thermodynamic Entropy
+Premise: The universe does not begin with space, time, or mass—but with informational potential (Virt).
+Collapse Mechanism:
+Informational potential collapses through a defined angle \theta_C, generating measurable entropy.
+Thermodynamic entropy (S) is the projection of this directional, structured collapse into observable 3D systems.
+
+S_{\text{thermo}} \propto \Delta \xi_{\theta_C}
+
+Where \Delta \xi_{\theta_C} is the entropy memory loss during collapse at a given angle.
+
+
+
+Mass-Energy Emergence from Collapse
+When collapse reaches \theta_C = 89.93^\circ, the result is stable mass (Mir).
+At \theta_C < 89.93^\circ → partial collapse → dark matter, entropic anomalies, or quantum decoherence.
+At \theta_C > 89.93^\circ → overcollapse → dark energy or antimatter instabilities.
+
+
+
+Informational Collapse Equation (UIRE Core Form):
+
+
+E = \mathcal{V} \cdot \cos(\theta_C) \cdot \xi_k
+
+\mathcal{V}: Informational potential (Virt)
+\cos(\theta_C): Collapse angular modulation
+\xi_k: Entropy memory state of the system
+
+Boltzmann Constant Reinterpreted
+
+Traditional meaning:
+
+
+k_B = \frac{E}{\Delta S}
+
+TGIU interpretation:
+
+kB = Energy released from full Virt -> Mir collapse at Theta_C = 89.93o
+
+k_B = \boxed{\text{Energy released from full Virt → Mir collapse at } \theta_C = 89.93^\circ}
+
+Conclusion:
+Boltzmann’s constant is not arbitrary—it represents the energy content of a collapsed informational unit.
+This validates the TGIU unit “Energon” and roots thermodynamics in information theory.
+
+
+
+Emergence of Duality
+
+Mass is not static—it’s a stored collapse.
+Energy is not continuous—it’s a directional transfer of collapse resolution.
+Time and motion emerge from asymmetry between collapsed and uncollapsed states.
+
+
+
+Unified Origin
+
+
+Section 7 – Entropy Gradients, Collapse Geometry, and the Fine-Structure Constant
+
+
+TGIU introduces a unified geometric framework where entropy gradients, collapse angles, and the fine-structure constant (α ≈ 1/137) emerge from a single informational principle. This section explains their interdependence.
+
+
+Entropy Gradient as a Geometric Derivative
+
+
+TGIU treats entropy not as a scalar but as a directional gradient—an outcome of the angular collapse process \theta_C:
+
+\nabla_{\theta_C} S = \frac{dS}{d\theta_C}
+
+This gradient describes how entropy increases or stabilizes based on the angular progression of collapse.
+Structured entropy appears at specific angular domains, while random noise entropy dominates in regions of collapse asymmetry or turbulence.
+
+
+
+Collapse Angle θ_C and Observable Matter Types
+
+
+The Role of the Fine-Structure Constant (α ≈ 1/137)
+Traditionally, α describes electromagnetic interaction strength:
+\alpha = \frac{e^2}{4 \pi \varepsilon_0 \hbar c} \approx \frac{1}{137}
+
+In TGIU, α plays a regulatory role within collapse:
+
+\cos(\theta_C) = \alpha \quad \Rightarrow \quad \theta_C \approx 89.93^\circ
+
+Interpretation:
+This is the most stable point of mass-energy-informational equilibrium.
+Collapse occurring at this angle leads to optimal energy manifestation without excess entropy or instability.
+
+
+
+Entropy Gradient Decay and Structure Formation
+
+
+Collapse produces two entropy behaviors:
+
+Structured decay:
+At \theta_C \in [60^\circ, 120^\circ]
+Leads to galactic filaments, void boundaries, CMB anomalies
+Chaotic decay:
+At \theta_C < 30^\circ or \theta_C > 150^\circ
+Linked to quantum tunneling, vacuum fluctuations, black hole evaporation
+
+
+
+Signature in the CMB: Axis of Evil
+The anisotropies in the CMB (WMAP/Planck) are consistent with an entropic spiral or 2D-to-3D collapse artifact.
+This aligns with TGIU prediction:
+
+
+
+\nabla_{\theta_C} S \neq 0 \Rightarrow \text{large-scale asymmetry}
+
+This gives a natural explanation to otherwise unexplained cosmic structures.
+
+Collapse Geometry as a Universal Law
+
+
+The collapse angle \theta_C and fine-structure constant α become universal regulators across quantum, relativistic, and cosmological regimes.
+
+They encode:
+
+Limits of stable existence (α)
+Transition between informational and material states (θ_C)
+Entropy flow direction (∇S)
+
+
+
+Conclusion:
+
+This section finalizes the mathematical and physical justification for the TGIU claim that reality emerges from angular, deterministic informational collapse, with α and θ_C acting as cosmic regulators of mass, energy, and entropy.
+
+Section 8 – Physical Interpretations
+
+
+Objective: Define how collapse angle \theta_C determines the emergence of different physical entities and how this is modeled by UIRE v9.3.
+
+
+
+The UIRE v9.3 equation defines the energetic output of a collapse as a function of angular projection and entropy-informational structure. The collapse angle \theta_C, measured between the 1D directional gradient and the 2D informational domain, acts as a universal selector for the resulting physical entity. Each domain of collapse corresponds to distinct observable matter types and energy forms.
+
+
+
+Collapse Outcome by Angle \theta_C
+
+
+
+Collapse Interpretation by Energy Magnitude
+
+
+
+Given the constant \mathcal{V} = 4.35 \times 10^{99} \, k/^\circ, the energy transferred through informational collapse can be approximated for any angle:
+
+
+
+
+\mathbb{T}(\mathbb{E}) = \mathcal{V} \cdot \cos(\theta_C)
+
+Examples:
+
+Matter (89.93°) → \cos(89.93^\circ) \approx 0.0012, yields \mathbb{T} \approx 5.2
+\times 10^{97} \, k
+Dark Energy (135°) → \cos(135^\circ) = -0.707, yields \mathbb{T} \approx -3.1 \times 10^{99} \, k
+
+
+
+Sign inversion (positive/negative energy) is interpreted as expansive vs. contractive collapse—corresponding to gravitational vs. anti-gravitational behavior.
+
+
+
+Stability and Entropy Memory
+
+
+
+Collapse outcomes are further shaped by entropy memory coefficients:
+
+High entropy memory (\xi_k > 0.9) favors stable matter formation.
+Intermediate memory (\xi_k ≈ 0.7) stabilizes dark matter or antimatter.
+Low or incoherent memory (< 0.5) results in diffuse or non-material energy (e.g. dark energy).
+
+
+
+Predictive Implications
+
+
+
+TGIU predicts that:
+
+Galactic halos and weak lensing zones will show collapse signatures for \theta_C ≈ 85^\circ.
+Photon rings around black holes will exhibit entropy distortions consistent with TGIU’s structured collapse.
+Baryonic-to-dark matter ratios can be explained via angular bandwidth allocation in the early-universe collapse spectrum.
+
+
+
+TGIU thus assigns direct physical meaning to angular collapse parameters—producing a deterministic model of matter and energy classification via informational geometry.
+
+Section 9 – Applications of the TGIU Framework
+
+
+Objective: Present real-world applications of TGIU across physics, cosmology, AI, and technological systems, emphasizing testability and functional utility.
+
+
+
+The TGIU framework is not limited to theoretical unification. Its mathematical formalism and collapse-based modeling extend to multiple scientific and technological fields, providing both predictive power and operational advantages.
+
+
+
+Astrophysics and Cosmology
+
+Photon Ring Analysis
+
+UIRE v9.3 predicts detectable entropy distortions near black hole event horizons. Observations from M87 and Sgr A* can be analyzed for angular collapse imprints using FFT (Fast Fourier Transform) analysis of ring structures.
+Cosmic Microwave Background (CMB) Anomalies
+
+TGIU predicts large-scale entropy memory gradients manifesting as directional asymmetries (e.g., Axis of Evil). This is interpreted as residual alignment from early-universe collapse events near \theta_C = 85^\circ and \theta_C = 135^\circ.
+Gravitational Lensing (Weak)
+
+Informational mass halos formed from partial collapses (\theta_C < 88.5^\circ) explain lensing distortions without invoking exotic particles. This aligns with JWST and Euclid survey data.
+
+
+
+Quantum Mechanics and Particle Physics
+
+Dark Matter and Antimatter Prediction
+
+Collapse angle and entropy trace memory directly define when and where dark matter or antimatter should emerge. CERN diphoton data and CMS top-antitop asymmetries may be reinterpreted through TGIU collapse geometry.
+Quantum Collapse Control
+
+Instead of probabilistic wavefunction behavior, TGIU applies angular precision and informational potential to guide deterministic state selection, opening new approaches to decoherence control and quantum computing.
+
+Artificial Intelligence and Computing
+
+Zero-Iteration Learning (TGIU AI Hybrid Intelligence)
+
+Neural networks can bypass iterative backpropagation by selecting informational equilibrium points via collapse criteria. TGIU-based AI learns via entropy minimization and alignment detection, not gradient descent.
+
+Cryptography
+
+TGIU entropy gradients allow encryption via informational alignment rather than numeric key length. This is resistant to quantum decryption, as it bypasses factorization and superposition.
+
+Informational Computing
+
+All computational tasks are transformed into relational selection problems, solved via UIRE pattern matching instead of numerical iteration. This enables ultra-fast, low-power computation beyond conventional architectures.
+
+
+
+Energy and Engineering Systems
+
+Toroidal Resonance Battery (TRB)
+
+Collapse-based energy harvesting from structured fractal fields enables high-efficiency, scalable power generation. TRBs leverage asymmetrical entropy collapse to convert information gradients into electrical energy.
+
+Gravitational Navigation and GPS
+
+TGIU allows real-time entropy correction for planetary navigation systems, compensating for gravitational time dilation without relying on post-hoc relativistic corrections.
+Autonomous Systems and Robotics
+
+Informational collapse modeling enables sub-millisecond decision resolution based on environmental entropy scanning, improving safety and efficiency in autonomous vehicles.
+
+Theoretical and Experimental Physics
+
+LIGO and Entropic Gravitational Waves
+
+TGIU predicts non-metric phase anomalies in LIGO/Virgo data, correlated with entropy memory gradients during black hole mergers. These shifts may be isolated using entropy-based phase decoding.
+
+CERN 5th Force Signals
+
+UIRE provides a reinterpretation of weak force anomalies not as new particles, but as informational field reconfigurations—especially under high-entropy, high-potential states.
+
+
+
+TGIU’s applications extend the framework far beyond metaphysical speculation, providing concrete use cases for its equations and parameters in real-world observation, measurement, and technological development.
+
+Section 8 – Predictions and Empirical Validation
+
+
+Objective: Present testable predictions made by TGIU and match them with existing or proposed empirical data from astrophysics, particle physics, and information-based computing.
+
+
+
+The strength of the TGIU framework lies in its capacity to generate numerical, directional, and entropic predictions—many of which can be tested using current instruments or reinterpreted from existing datasets. Below are key domains where TGIU yields falsifiable outcomes, often diverging from or refining Standard Model predictions.
+
+
+
+
+Black Hole Photon Rings (Event Horizon Telescope)
+
+
+
+Prediction:
+
+Photon ring asymmetries around black holes will show entropy distortion signatures at angles corresponding to \theta_C = 85^\circ – 90^\circ, predicted by TGIU as the baryonic matter-to-dark matter transition zone.
+
+
+
+Validation Strategy:
+
+Fourier transform analysis of high-resolution images from EHT (M87, Sgr A*) using collapse angle modulation functions.
+
+
+
+
+Cosmic Microwave Background – Axis of Evil
+
+
+
+Prediction:
+
+The large-scale CMB anisotropy (Axis of Evil) corresponds to a directional entropic memory left by early-universe collapse at sub-optimal \theta_C values (~130°), where dark energy initiated spatial decoupling.
+
+
+
+Validation Strategy:
+
+Compare CMB power spectrum anomalies with entropy trace predictions using UIRE-based entropy mapping. Instruments: Planck, WMAP, upcoming LiteBIRD.
+
+
+
+Gravitational Lensing (Euclid, JWST)
+
+
+
+Prediction:
+
+Weak lensing patterns in intergalactic halos correspond to partial informational collapse zones (\theta_C = 83^\circ – 86^\circ), explaining dark matter without invoking exotic particles.
+
+
+
+Validation Strategy:
+
+Reanalysis of lensing data from JWST and Euclid using TGIU informational mass distribution instead of dark matter density profiles.
+
+
+
+Gravitational Wave Phase Shifts (LIGO, LISA)
+
+
+
+Prediction:
+
+Gravitational waves from black hole mergers will contain entropy-aligned phase shifts not predicted by GR. These shifts align with entropy flux changes during collapse.
+
+
+
+Validation Strategy:
+
+Analyze waveform phase anomalies using entropic modulation models (\xi_k, \Delta \Phi). Cross-reference TGIU predictions with LIGO/LISA open datasets.
+
+
+Diphoton and Top Quark Anomalies (CERN)
+
+
+
+Prediction:
+
+Unexplained asymmetries in diphoton events and top-antitop production are linked to informational collapse at sub-critical angles (~91°) and partial entropy retention.
+
+Validation Strategy:
+
+Reclassify anomalies in CMS/ATLAS data using collapse geometry simulations based on UIRE v9.3.
+
+
+
+Quantum Decoherence Behavior
+
+
+
+Prediction:
+
+Quantum systems collapse along entropy gradient alignments rather than stochastic events. Decoherence directionality is governed by entropy memory \xi_k, not probabilistic amplitude.
+
+
+
+Validation Strategy:
+
+Entangled particle decay statistics should show asymmetries linked to local entropy history. Applicable in lab-based optical quantum systems.
+
+
+
+Informational Collapse Energy Thresholds
+
+
+
+Prediction:
+
+Exact energy levels required to produce matter, antimatter, dark matter, or dark energy can be computed via:
+
+
+
+\mathbb{T}(\mathbb{E}) = \mathcal{V} \cdot \cos(\theta_C)
+
+
+
+Validation Strategy:
+
+Confirm energy-to-collapse angle correspondence through simulations and comparison with energy spectra in high-energy collisions and astrophysical data.
+
+AI Performance in Real-World Tasks
+
+
+
+Prediction:
+
+TGIU AI Hybrid Intelligence models will outperform iterative AI in convergence speed, energy consumption, and entropy minimization per task.
+
+
+
+Validation Strategy:
+
+Benchmark TGIU AI against traditional backpropagation models across tasks: image classification, pattern prediction, cryptography, and trajectory modeling.
+
+
+
+These predictions offer direct, measurable routes for either validating or falsifying the TGIU framework. Most are within current technological capability, making TGIU a testable and actionable theory.
+
+Section 8 – Conclusion
+
+
+Objective: Summarize the contributions of TGIU, restate its scientific value, and outline the path forward for refinement and collaboration.
+
+The Universal Gravito-Informational Theory (TGIU v10.0) introduces a novel framework for unifying gravity, quantum mechanics, and information theory through the mechanism of

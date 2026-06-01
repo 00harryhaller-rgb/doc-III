@@ -1,0 +1,870 @@
+(i.e. passively evolving) galaxies at two different redshifts, to obtain a constraint on the time derivative of the redshift, d𝑧e/𝑑𝑡. The challenge of this method comes with needing to fully understand biases (e.g. Moresco et al. 2020 [259]) that enter through stellar-evolution models, chemical enrichment, the variation of the galaxy-wide IMF, possible on-going star formation at low levels as well as less-massive elliptical galaxies having typically formed later than more massive ones (Kroupa et al. 2013 [260], Jerabkova et al. 2018 [261], Yan et al. 2220 [100], Eapen et al. 2022 [99]. A more robust measurement of the actual age of the observed Universe that is independent of the applied cosmological model can be obtained from the ages of the oldest known stars. From table 1 (the entry "Very Metal Poor Stars") in Cimatti & Morsco (2023, [262]), the one-sigma upper limit on the age of the real Universe is
+𝑡0 = 15.3 Gyr (assuming the SMoC: global 𝐻global,stars = 60.6 km s−1 Mpc−1) while the three-sigma
+upper limit is 𝑡0 = 16.5 Gyr (assuming the SMoC: globally 𝐻global,stars = 55.2 km s−1 Mpc−1). In this context it is interesting to note that Ying et al. (2023 [263]) measure the absolute age of the globular cluster M92 to be 13.80 ± 0.75 Gyr in tension with the nominal Planck age (𝑡0, Sec. 2.1)
+
+Tensions with dark-matter models	Pavel Kroupa
+
+of the universe because the cluster stars are, with [Fe/H]= −2.30 ± 0.10, not metal-free implying that a previous population of stars must have existed to enrich the interstellar medium from which the cluster formed.
+The value of 𝑡0 would be larger by a few hundred Myr since star formation can only begin after
+the birth of the Universe. Such a small value of the 𝐻global might be qualitatively consistent with the
+larger local value measured using SN1a as standard candles, in view of the Local Group being in the >∼ 0.6 Gpc void (T6, Sec. 2.2). It will be necessary to test if such differences between apparent large local (as measured from the peculiar velocities of galaxies) and small global expansion rates
+arise as a consequence of the large matter inhomogeneities on many Gpc scales as is inherent to the timescape cosmological model, Sec. 3.1).
+With the many tensions facing the SMoC and the other models discussed here, the Bohemian model of cosmology (BMoC) is being explored in Bonn, Prague and Nanjing. The results of this exploration will be reported in upcoming works, but here it is merely stated that the BMoC avoids inflation, dark matter and dark energy. It rests on Milgromian gravitational fields being sourced by matter density contrasts, just as in the AMoC (Sec. 4). Overall, there are encouraging aspects
+(expansion rate, star-formation histories of galaxies, an older Universe, large density variations over large scales) and stars can begin to form at a redshift 𝑧∗form > 20. The first structure formation simulations using the PoR code (Appendix A) lead to positive results in that the BMoC appears to produce a universe full of disk galaxies.
+
+Acknowledgments
+We thank Eoin Ó Colgáin for useful comments and the staff at the Argelander-Institut for Astronomy in Bonn for their kind help with the computational system, and Indranil Banik for useful discussions. A very small financial support is acknowledged through the trans-disciplinary research area TRA-Matter at the University of Bonn. We acknowldge the DAAD-Bonn-Prague exchange program at the University of Bonn and at Charles University for supporting the Bonn-Prague exchange visits.
+
+Milgromian dynamics (MOND) and the code PoR
+Milgromian dynamics has been found to correctly predict (before the existence of the data) various relations that galaxies are observed to follow [71, 165, 187, 264–269]. Additionally, the kinematics of polar-ring galaxies are naturally understood in MOND, while they are not with Newtonian gravitation plus dark matter [221]. And, Newtonian gravitation does not account for the properties of the observed tidal tails of open-star-clusters, while Milgromian gravitation is very successful in doing so [66]. Finally, Milgromian gravitation appears to have been confirmed also on sub-pc scales using the wide-binary star test [237]. Together with MOND providing equations of motion, we thus have a strong motivation to investigate cosmological structure formation in this dynamics theory which is here taken to be a non-relativistic extension of Newtonian gravitation.12
+
+12Interpretations of MOND as being a modified-inertia theory [270] are less well studied because they are technically very hard to investigate but are reported to be less preferred by the data [271]. Relativistic formulations of MOND have been developed and are consistent with gravitational waves travelling at the speed of light ([165] and references therein).
+
+Tensions with dark-matter models	Pavel Kroupa
+
+
+The reader needs to be aware that MOND is an effective framework that encompasses many different explicit formulations of gravitation (e.g. AQUAL vs QUMOND below, see Milgrom 2023 for the latest generalisations [272])). The different explicit formulations lead to subtle differences in the exact acceleration fields. For each such explicit formulation, the interpolating functions also offers degrees of freedom. Hereby it is not meant that different explicit formulations or interpolating functions can be chosen for different problems at will – only one such formulation and one interpolating function can be true. Research has not yet allowed the identification of which combination is true though, given the uncertainties in the data and the difficulties in performing calculations in this non-linear theory of dynamics.
+Weak-lensing is often considered to provide evidence for dark matter halos around galaxies and galaxy clusters, but the statistically correlated distortions of background galaxy images by a foreground mass need to be re-evaluated in terms of another gravitational theory, in this case MOND. A bias would emerge due to possible correlations of disk galaxy spins over large regions of spatial volume (e.g. [151, 152, 273, 274]) that would affect the deduced mass distribution using weak lensing analysis if the (erroneous) assumption is made that galaxies are uncorrelated. The correct distribution of mass as deduced by weak-lensing surveys will then be different to that arrived at by using the (invalid) SMoC. The expected distribution of lensing mass as calculated in MOND of the galaxies in the nearby Universe has been documented by Oria et al. (2021 [275]), who point out that regions with effective negative Newtonian mass density are expected to exist in this gravitational framework.
+MOND
+With the baryonic mass density at the position vector, 𝑅→, being 𝜌b(𝑅→), the standard (Newtonian) Poisson equation reads
+∇→ · h∇→ ΦNi = 4𝜋 𝐺 𝜌b,	(1)
+where ΦN(𝑅→) is the Newtonian potential, the negative gradient of which provides the acceleration at 𝑅→. A generalised dynamics can be considered by rewriting the left hand side in terms of the well known p-Laplace operator,
+→	 |∇→ Φ𝑝 | 𝑝−2	
+
+∇ ·
+𝑎𝑜
+
+∇Φ𝑝  = 4𝜋 𝐺 𝜌b,	(2)
+
+
+the constant, 𝑎0, with units of acceleration being necessary for dimensional reasons. This is a quasilinear elliptic partial differential equation of second order. In the case 𝑝 = 𝑑𝑖, where 𝑑𝑖 is the dimension of the domain, the corresponding 𝑝−Dirichlet integral is conformally invariant (e.g. [276]). Interestingly, this is related to the space-time scale invariance of the SIV model and of MOND [192, 193]. For 𝑝 = 2 the standard Poisson equation (Eq. 1) is obtained that underlies Newtonian gravitation (ΦN = Φ𝑝). The particular case 𝑝 = 3 yields a non-linear gravitational theory which corresponds to the deep-MOND limit, when |∇→ Φ𝑝=3| ≪ 𝑎0 where Φ𝑝=3 = ΦM(𝑅→) is the Milgromian potential, the negative gradient of which provides the acceleration at 𝑅→.
+The transition from the 𝑝 = 3 case to the 𝑝 = 2 (|∇→ Φp| ≫ 𝑎0) case can be described by inserting an interpolating function, 𝜇(𝑥) → 1 for 𝑥 = |∇→ Φ|/𝑎0 → ∞ and 𝜇(𝑥) → 𝑥 for 𝑥 → 0. The
+
+Tensions with dark-matter models	Pavel Kroupa
+
+
+full Milgromian-Poisson equation thus becomes
+∇→ · 𝜇 |∇→ ΦM|	∇→ Φ
+𝑎0	M
+
+# = 4 𝜋 𝐺 𝜌b.	(3)
+
+
+Eq. 3 can be derived from a quadratic Lagrangian (AQUAL) as a generalisation of the non-relativistic Newtonian Lagrangian [208]. Thus we have energy- and momentum conserving time-integrable equations of motion of non-relativistic gravitating bodies in Milgromian dynamics.
+By the properties of the divergence operator, the left hand side of Eq. 3 can be written
+𝑎0	M#	M	M
+∇→ · 𝜇 |∇→ ΦM|	∇→ Φ	= ∇→ 𝜇(𝑥) · ∇→ Φ	+ 𝜇(𝑥) ∇→ · ∇→ Φ  ,	(4)
+
+
+such that
+
+∇→ · h∇→ ΦM
+
+= 4 𝜋 𝐺	 1  𝜌b
+𝜇(𝑥)
+
+– ∇→ 𝜇(𝑥) · ∇→ ΦM	,	(5) 4 𝜋 𝐺
+
+where the square brackets can be interpreted to be the total mass sourcing the Milgromian potential, ΦM. This total mass is composed of the baryonic matter, 𝜌b, modified by 𝜇 and the remaining term can be referred to as phantom dark matter (PDM) which however is not made up of real particles and does not lead to dynamical dissipation or friction. This formulation of Milgromian gravitation cannot be solved easily for ΦM given 𝜌b, because ΦM is found in the dynamics term (the left-hand side) and also on the right-hand side (the source term) of Eq. 5.
+This difficulty and the similarity of Eq. 5 with the standard Poisson equation (Eq. 1) leads to the motivation to develop a more direct approach. Essentially, this quasi-linear MOND (QUMOND) approach replaces the right-hand side of Eq. 5 by an approximation based on the Newtonian potential. A new Lagrangian leads to the QUMOND formulation [277] that allows the calculation of ΦM more easily. According to QMOND,
+∇→ · ∇→ ΦQM(𝑅→) = 4𝜋𝐺 𝜌b(𝑅→) + 𝜌ph(𝑅→) ,	(6)
+
+where 𝜌ph(𝑅→) is the phantom dark matter density (PDM). Therefore the total Milgromian gravi-tational potential, ΦQM = ΦN + Φph, can be split into a Newtonian part, ΦN, and an additional phantom part, Φph. The matter density distribution, 𝜌ph(𝑅→), that would, in Newtonian gravitation, yield the additional potential, Φph(𝑅→), and therefore obeys ∇2Φph(𝑅→) = 4𝜋𝐺𝜌ph(𝑅→), is known as the PDM density,
+𝜌 (𝑅→) =  1  ∇→ · "~𝜈 |∇→ ΦN (𝑅→) | ! ∇→ Φ (𝑅→)# ,	(7)
+
+where 𝜈(𝑦) → 0 for 𝑦 ≫ 1 (Newtonian regime) and 𝜈(𝑦) → 𝑦−1/2 for 𝑦 ≪ 1 (Milgromian regime), Note that 𝜇 and 𝜈 are algebraically related (see [71, 268]) with 𝑦 = |∇→ ΦN|/𝑎0. Remember that PDM is merely a mathematical aid for calculating the additional gravity in Milgrom’s formulation, giving it an analogy in Newtonian dynamics. The PDM can become negative locally [222]. It is important to keep in mind that ΦM and ΦQM are not the same and subtle differences may emerge in the transition regime that will need scrutiny in the future.
+
+Tensions with dark-matter models	Pavel Kroupa
+
+The PDM density that would source the Q-Milgromian force field in Newtonian gravity can thus be calculated straightforwardly using standard grid-based methods (see eq. 35 in [71], and also [278]; [277]; [221]; [279], [280]). Starting with the known baryonic density distribution, 𝜌b(𝑅→), ΦN is obtained by solving the standard Poisson equation (Eq. 1). Thereafter and at each time step, the new PDM distribution is calculated via Eq. 7, which, in sum with 𝜌b, then yields the full Milgromian potential (Eq. 6).
+An important consequence of the non-linear nature of Milgromian gravitation is that an external gravitational field (e.g. from a galaxy cluster) reduces 𝜌ph of the system (e.g. a galaxy) immersed in this external field (e.g. [281–283]). The system looses most (but not all) of its non-Newtonian gravitational mass and becomes more Newtonian (the “external field effect” or EFE, see the reviews on MOND above and [66] for a discussion). The implication of the EFE for cosmological structure formation is important: overdensities inhibit structure growth in their vicinity therewith enhancing density differences [109].
+The PoR code
+The above QUMOND technique was implemented independently by Lueghausen et al. (2015 [280]) and Candlish et al. (2015 [284]) into the existing RAMSES code developed for Newtonian gravitation by Teyssier (2002 [285]). RAMSES employs an adaptively refined grid structure in Cartesian coordinates such that regions of higher density are automatically resolved with a higher resolution. In the Phantom of Ramses (PoR) code, [280] added a subroutine which, on the adaptive grid, computes the PDM density from the Newtonian potential (Eq. 7) and adds this (mathematical) DM-equivalent density to the baryonic one in terms of particles. These PDM particles are replaced by new PDM particles in the next time step, i.e., they do not carry an ID and are not integrated forward in time. The Poisson equation is then solved again to obtain the Milgromian potential, ΦQM = ΦN + Φph, i.e., the “true” (Milgromian) potential, which is used to integrate the stellar particles in time through space (each stellar particle experiencing the acceleration 𝑎→star(𝑅→) = −∇→ ΦM(𝑅→)) and to solve the Euler equations for the dynamics of the gas.
+It is to be noted that the AQUAL and QUMOND formulations are different theories complying to the MOND paradigm [268]. Thus, simulations with the AQUAL version (e.g. using the Candlish et al. 2015 [284] code) will show subtle differences to simulations relying on the QUMOND formulation by Lueghausen et al. (2015 [280]). Which formulation of MOND is closer to reality will need to be studied in the future (see Chae et al. (2022 [286]). Here we concentrate on the QUMOND version coded into PoR as the first step towards a very novel computable cosmological model.
+The PoR code adopts as the default interpolating function
+
+𝜈(𝑦) = − 1 +
+2
+
+1
+/
+1	2
+4 + 𝑦
+
+,	(8)
+
+which has already been used on a number of problems (for the manual and description see Nagesh et al. (2021 [287]). Other interpolating functions can be employed subject to observationally-given constraints (e.g. [233]).
+The PoR code includes sub-grid baryonic physics algorithms that allow different degrees of realism in the description of star formation. Simulations have been done to model Antennae-like
+
+Tensions with dark-matter models	Pavel Kroupa
+
+interacting galaxies [215], the formation of exponential disk galaxies [68], the formation of elliptical galaxies [99] as well as of 107 𝑀⊙ to 1011 𝑀⊙ heavy galaxies on the main sequence [213]. These detailed tests of how the properties of a galaxy change with increased complexity of the in-build sub-grid baryonic processes have shown that galaxies evolved in MOND are not sensitive to these. In this work star-formation is turned off because the resolution achieved does not allow the formation of stellar particles to have a physical meaning. The PoR code has also been used without enabling star-formation to model the Milky-Way–Andromeda encounter which produced the disks of satellite galaxies around both [217, 219] and also to study the global stability of the M33 galaxy [288].
+Cosmological simulations with PoR
+Nusser (2002 [249]) details the implementation of the MOND field equation (Eq. 3 and 6) into computations of structure formation in an expanding universe. QUMOND has been applied in cosmological structure formation simulations using particles by Katz et al. (2013 [223]) and Angus et al. (2013 [289]) employing a code developed by Llinares et al. (2008 [290]) that accounts for co-moving coordinates in an expanding universe.
+When including gas dynamical processes in order to compute how structures form and evolve in an expanding space, the equations of motion are here integrated in super-co-moving coordinates tailored specifically for an ideal gas with the ratio of specific heats being 5/3 [291]. This is of advantage because, as [291] argue, in the absence of structure and in an expanding box, in co-moving coordinates the density is constant in time and the mass elements are at rest. In super-co-moving variables this is also true, and in addition, a gas with a ratio of specific heats as above also has its thermodynamic variables remain constant when structure is absent. RAMSES [285], and
+thus also PoR, adopts super-co-moving coordinates. The details of how QUMOND is implemented on calculating the Milgromian potential, ΦQM, from the density difference relative to the mean density, are available in Candlish (2016 [222]) and Wittenburg et al. (2023 [248]).
+
+References
+P.J.E. Peebles, Principles of Physical Cosmology, Princeton University Press (1993), 10.1515/9780691206721.
+J.A. Peacock, Cosmological Physics, Cambridge University Press (1999).
+P. Schneider, Extragalactic Astronomy and Cosmology: An Introduction, Springer Berlin Heidelberg (2015), 10.1007/978-3-642-54083-7.
+M.S. Turner, The Road to Precision Cosmology, Annual Review of Nuclear and Particle Science 72 (2022) 1 [2201.04741].
+J.C. Rose, P. Torrey, F. Villaescusa-Navarro, M. Vogelsberger, S. O’Neil, M.V. Medvedev et al., Inferring Warm Dark Matter Masses with Deep Learning, arXiv e-prints (2023) [2304.14432].
+P. Kroupa, B. Famaey, K.S. de Boer, J. Dabringhausen, M.S. Pawlowski, C.M. Boily et al., Local-Group tests of dark-matter concordance cosmology . Towards a new paradigm for structure formation, A&A 523 (2010) A32 [1006.1647].
+
+Tensions with dark-matter models	Pavel Kroupa
+
+
+P. Kroupa, The Dark Matter Crisis: Falsification of the Current Standard Model of Cosmology, Publications of the Astronomical Society of Australia 29 (2012) 395 [1204.2546].
+P. Kroupa, Galaxies as simple dynamical systems: observational data disfavor dark matter and stochastic star formation, Canadian Journal of Physics 93 (2015) 169 [1406.4860].
+G.W. Gibbons, S.W. Hawking, S.T.C. Siklos and F. Wilczek, The very early universe. Proceedings of the Nufleld Workshop, held at Cambridge, England, 21 June - 9 July, 1982., Proceedings of the Nuffield Workshop, held at Cambridge, England, 21 June - 9 July, 1982 (1983).
+A. Riotto and M. Trodden, Recent progress in baryogenesis, Annual Review of Nuclear and Particle Science 49 (1999) 35 [https://doi.org/10.1146/annurev.nucl.49.1.35].
+A. Linde, Inflationary cosmology and creation of matter in the Universe, Classical and Quantum Gravity 18 (2001) 3275.
+A.H. Guth, Inflationary universe: A possible solution to the horizon and flatness problems, Phys. Rev. D 23 (1981) 347.
+L. Perivolaropoulos and F. Skara, Challenges for ΛCDM: An update, New Astronomy Reviews 95 (2022) 101659 [2105.05208].
+Y. Liu, S. Cao, M. Biesiada, Y. Lian, X. Liu and Y. Zhang, Measuring the Speed of Light with Updated Hubble Diagram of High-redshift Standard Candles, ApJ 949 (2023) 57 [2303.14674].
+Planck Collaboration, N. Aghanim, Y. Akrami, M. Ashdown, J. Aumont, C. Baccigalupi et al., Planck 2018 results. VI. Cosmological parameters, A&A 641 (2020) A6 [1807.06209].
+E. Di Valentino, L.A. Anchordoqui, Ö. Akarsu, Y. Ali-Haimoud, L. Amendola, N. Arendse et al., Cosmology Intertwined IV: The age of the universe and its curvature, Astroparticle Physics 131 (2021) 102607 [2008.11286].
+K.K. Rogers and H.V. Peiris, Strong Bound on Canonical Ultralight Axion Dark Matter from the Lyman-Alpha Forest, Physical Review Letters 126 (2021) 071302 [2007.12705].
+N. Dalal and A. Kravtsov, Excluding fuzzy dark matter with sizes and stellar kinematics of ultrafaint dwarf galaxies, Physical Review D 106 (2022) 063517.
+M. Khelashvili, A. Rudakovskyi and S. Hossenfelder, Dark matter profiles of SPARC galaxies: a challenge to fuzzy dark matter, MNRAS 523 (2023) 3393 [2207.14165].
+Y. Yoshii and B.A. Peterson, Interpretation of the Faint Galaxy Number Counts in the K Band, ApJ 444 (1995) 15.
+
+Tensions with dark-matter models	Pavel Kroupa
+
+
+S. Perlmutter, G. Aldering, M. della Valle, S. Deustua, R.S. Ellis, S. Fabbro et al., Discovery of a supernova explosion at half the age of the Universe, Nature 391 (1998) 51 [astro-ph/9712212].
+B.P. Schmidt, N.B. Suntzeff, M.M. Phillips, R.A. Schommer, A. Clocchiatti, R.P. Kirshner et al., The High-Z Supernova Search: Measuring Cosmic Deceleration and Global Curvature of the Universe Using Type IA Supernovae, ApJ 507 (1998) 46
+[astro-ph/9805200].
+A.G. Riess, A.V. Filippenko, P. Challis, A. Clocchiatti, A. Diercks, P.M. Garnavich et al., Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant, AJ 116 (1998) 1009 [astro-ph/9805201].
+I. Banik and H. Zhao, Dynamical history of the Local Group in ΛCDM, MNRAS 459 (2016) 2237 [1506.07569].
+T. Buchert, A.A. Coley, H. Kleinert, B.F. Roukema and D.L. Wiltshire, Observational challenges for the standard FLRW model, in Fourteenth Marcel Grossmann Meeting - MG14, M. Bianchi, R.T. Jansen and R. Ruffini, eds., pp. 622–638, Jan., 2018, DOI.
+E.D. Di Valentino, Challenges of the Standard Cosmological Model, Universe 8 (2022) 399.
+A. Del Popolo and M. Le Delliou, Barions and ΛCDM Model Problems, Astronomy Reports 66 (2022) 102.
+N.E. Mavromatos, Lambda-CDM model and small-scale-cosmology “crisis”: from astrophysical explanations to new fundamental physics models, in The Fifteenth Marcel Grossmann Meeting on General Relativity. Edited by E. S. Battistelli, E.S. Battistelli,
+R.T. Jantzen and R. Ruffini, eds., pp. 1114–1121, Jan., 2022, DOI.
+F. Melia, A Candid Assessment of Standard Cosmology, Publications of the Astronomical Society of the Pacific 134 (2022) 121001.
+A. Ijjas, P.J. Steinhardt and A. Loeb, Inflationary paradigm in trouble after Planck2013, Physics Letters B 723 (2013) 261 [1304.2785].
+A. Ijjas, P.J. Steinhardt and A. Loeb, Pop Goes the Universe, Scientific American 316
+(2017) 32.
+E.R. Harrison, Mining Energy in an Expanding Universe, ApJ 446 (1995) 63.
+Y. Baryshev, Expanding space: the root of conceptual problems of the cosmological physics, in Problems of Practical Cosmology, Volume 2, vol. 1, pp. 20–30, Jan., 2008, DOI [0810.0153].
+Y.V. Baryshev, Paradoxes of the Cosmological Physics in the Beginning of the 21-st Century, in Particle and Astroparticle Physics, Gravitation and Cosmology: Predictions, Observations and New Projects, R.A. Ryutin and A. Petrov Vladimir, eds., pp. 297–307, June, 2015, DOI [1501.01919].
+
+Tensions with dark-matter models	Pavel Kroupa
+
+
+B. Zumino, Supersymmetry and the vacuum, Nuclear Physics B 89 (1975) 535.
+S. Weinberg, The cosmological constant problem, Reviews of Modern Physics 61 (1989) 1.
+Y.V. Baryshev, F. Sylos Labini, M. Montuori and L. Pietronero, Facts and ideas in modern cosmology, Vistas in Astronomy 38 (1994) 419 [astro-ph/9503074].
+N. Afshordi, Where will Einstein fail? Lessons for gravity and cosmology, Bulletin of the Astronomical Society of India 40 (2012) 1 [1203.3827].
+J. Rafelski, L. Labun, Y. Hadad and P. Chen, Quantum Vacuum Structure and Cosmology, arXiv e-prints (2009) [0909.2989].
+C.P. Burgess, The Cosmological Constant Problem: Why it’s hard to get Dark Energy from Micro-physics, arXiv e-prints (2013) arXiv:1309.4133 [1309.4133].
+P. Tisserand, L. Le Guillou, C. Afonso, J.N. Albert, J. Andersen, R. Ansari et al., Limits on the Macho content of the Galactic Halo from the EROS-2 Survey of the Magellanic Clouds, A&A 469 (2007) 387 [astro-ph/0607207].
+C. Alcock, R.A. Allsman, D.R. Alves, T.S. Axelrod, A.C. Becker, D.P. Bennett et al., MACHO Project Limits on Black Hole Dark Matter in the 1-30 M𝑠𝑜𝑙𝑎𝑟 Range, ApJL 550 (2001) L169 [astro-ph/0011506].
+D. Green, J.T. Ruderman, B.R. Safdi, J. Shelton, A. Achúcarro, P. Adshead et al., Snowmass Theory Frontier: Astrophysics and Cosmology, arXiv e-prints (2022) [2209.06854].
+U. Sarkar, Baryogenesis through lepton number violation, in Dark matter in Astrophysics and Particle Physics, H.V. Klapdor-Kleingrothaus and L. Baudis, eds., p. 81, Jan., 1999, DOI [hep-ph/9810247].
+V.V. Nikulin and S.G. Rubin, Cosmological baryon/lepton asymmetry in terms of Kaluza-Klein extra dimensions, International Journal of Modern Physics D 30 (2021) 2140004 [2109.05469].
+K. Mukaida, K. Schmitz and M. Yamada, Baryon Asymmetry of the Universe from Lepton Flavor Violation, PRL 129 (2022) 011803 [2111.03082].
+O. Lahav, Deep Machine Learning in Cosmology: Evolution or Revolution?, arXiv e-prints
+(2023) [2302.04324].
+J.R. Primack, Triumphs and tribulations of ΛCDM, the double dark theory, Annalen der Physik 524 (2012) 535.
+A. Blanchard, J.-Y. Héloret, S. Ilić, B. Lamine and I. Tutusaus, ΛCDM is alive and well, arXiv e-prints (2022) [2205.05017].
+K.R. Stewart, J.S. Bullock, R.H. Wechsler, A.H. Maller and A.R. Zentner, Merger Histories of Galaxy Halos and Implications for Disk Survival, ApJ 683 (2008) 597 [0711.5027].
+
+Tensions with dark-matter models	Pavel Kroupa
+
+
+L.V. Sales, J.F. Navarro, K. Oman, A. Fattahi, I. Ferrero, M. Abadi et al., The low-mass end of the baryonic Tully-Fisher relation, MNRAS 464 (2017) 2419 [1602.02155].
+B.P. Moster, T. Naab and S.D.M. White, EMERGE - empirical constraints on the formation of passive galaxies, MNRAS 499 (2020) 4748 [1910.09552].
+J. Binney and S. Tremaine, Galactic dynamics, Princeton University Press (1987).
+J. Binney and S. Tremaine, Galactic Dynamics: Second Edition, Princeton University Press (2008).
+M. Roshan, N. Ghafourian, T. Kashfi, I. Banik, M. Haslbauer, V. Cuomo et al., Fast galaxy bars continue to challenge standard cosmology, MNRAS 508 (2021) 926 [2106.10304].
+M.S. Yun, Tidal Interactions in M81 Group, in Galaxy Interactions at Low and High Redshift, J.E. Barnes and D.B. Sanders, eds., vol. 186, p. 81, Jan., 1999.
+R.C. Thomson, S. Laine and A. Turnbull, Towards an Interaction Model of M81, M82 and NGC 3077, in Galaxy Interactions at Low and High Redshift, J.E. Barnes and D.B. Sanders, eds., vol. 186, p. 135, Jan., 1999.
+W. Oehm, I. Thies and P. Kroupa, Constraints on the dynamical evolution of the galaxy group M81, MNRAS 467 (2017) 273 [1701.01441].
+S. Kazantzidis, L. Mayer, C. Mastropietro, J. Diemand, J. Stadel and B. Moore, Density Profiles of Cold Dark Matter Substructure: Implications for the Missing-Satellites Problem, ApJ 608 (2004) 663 [astro-ph/0312194].
+E. Asencio, I. Banik, S. Mieske, A. Venhola, P. Kroupa and H. Zhao, The distribution and morphologies of Fornax Cluster dwarf galaxies suggest they lack dark matter, MNRAS 515 (2022) 2981 [2208.02265].
+M. Haslbauer, I. Banik, P. Kroupa and K. Grishunin, The ultra-diffuse dwarf galaxies NGC 1052-DF2 and 1052-DF4 are in conflict with standard cosmology, MNRAS 489 (2019) 2634 [1909.04663].
+A. Amruth, T. Broadhurst, J. Lim, M. Oguri, G.F. Smoot, J.M. Diego et al., Anomalies in Gravitational-Lensed Images Revealing Einstein Rings Modulated by Wavelike Dark Matter, Nature Astronomy 7 (2023) 736 [2304.09895].
+J.D. Simon, The Faintest Dwarf Galaxies, ARAA 57 (2019) 375 [1901.05465].
+J. Dubinski, J.C. Mihos and L. Hernquist, Using Tidal Tails to Probe Dark Matter Halos, ApJ 462 (1996) 576 [astro-ph/9509010].
+J. Pflamm-Altenburg, P. Kroupa, I. Thies, T. Jerabkova, G. Beccari, T. Prusti et al., Degree of stochastic asymmetry in the tidal tails of star clusters, A&A 671 (2023) A88 [2301.02251].
+
+Tensions with dark-matter models	Pavel Kroupa
+
+
+P. Kroupa, T. Jerabkova, I. Thies, J. Pflamm-Altenburg, B. Famaey, H.M.J. Boffin et al., Asymmetrical tidal tails of open star clusters: stars crossing their cluster’s práh† challenge Newtonian gravitation, MNRAS 517 (2022) 3613 [2210.13472].
+T. Jerabkova, H.M.J. Boffin, G. Beccari, G. de Marchi, J.H.J. de Bruĳne and T. Prusti, The 800 pc long tidal tails of the Hyades star cluster. Possible discovery of candidate epicyclic overdensities from an open star cluster, A& A 647 (2021) A137 [2103.12080].
+N. Wittenburg, P. Kroupa and B. Famaey, The Formation of Exponential Disk Galaxies in MOND, ApJ 890 (2020) 173 [2002.01941].
+S.S. McGaugh, W.J.G. de Blok, J.M. Schombert, R. Kuzio de Naray and J.H. Kim, The Rotation Velocity Attributable to Dark Matter at Intermediate Radii in Disk Galaxies, ApJ 659 (2007) 149 [astro-ph/0612410].
+S.S. McGaugh, A tale of two paradigms: the mutual incommensurability of ΛCDM and MOND, Canadian Journal of Physics 93 (2015) 250 [1404.7525].
+B. Famaey and S.S. McGaugh, Modified Newtonian Dynamics (MOND): Observational Phenomenology and Relativistic Extensions, Living Reviews in Relativity 15 (2012) 10 [1112.3960].
+D. Lynden-Bell, Dwarf galaxies and globular clusters in high velocity hydrogen streams., MNRAS 174 (1976) 695.
+P. Kroupa, C. Theis and C.M. Boily, The great disk of Milky-Way satellites and cosmological sub-structures, A&A 431 (2005) 517 [astro-ph/0410421].
+M. Metz, P. Kroupa and N.I. Libeskind, The Orbital Poles of Milky Way Satellite Galaxies: A Rotationally Supported Disk of Satellites, ApJ 680 (2008) 287 [0802.3899].
+M.S. Pawlowski and P. Kroupa, The Milky Way’s disc of classical satellite galaxies in light of Gaia DR2, MNRAS 491 (2020) 3042 [1911.05081].
+A. Koch and E.K. Grebel, The Anisotropic Distribution of M31 Satellite Galaxies: A Polar Great Plane of Early-type Companions, AJ 131 (2006) 1405 [astro-ph/0509258].
+M. Metz, P. Kroupa and H. Jerjen, The spatial distribution of the Milky Way and Andromeda satellite galaxies, MNRAS 374 (2007) 1125 [astro-ph/0610933].
+R.A. Ibata, G.F. Lewis, A.R. Conn, M.J. Irwin, A.W. McConnachie, S.C. Chapman et al., A vast, thin plane of corotating dwarf galaxies orbiting the Andromeda galaxy, Nature 493 (2013) 62 [1301.0446].
+R.B. Tully, N.I. Libeskind, I.D. Karachentsev, V.E. Karachentseva, L. Rizzi and E.J. Shaya,
+Two Planes of Satellites in the Centaurus A Group, ApJL 802 (2015) L25 [1503.05599].
+
+Tensions with dark-matter models	Pavel Kroupa
+
+
+O. Müller, M.S. Pawlowski, F. Lelli, K. Fahrion, M. Rejkuba, M. Hilker et al., The coherent motion of Cen A dwarf satellite galaxies remains a challenge for ΛCDM cosmology, A&A 645 (2021) L5 [2012.08138].
+K. Chiboucas, B.A. Jacobs, R.B. Tully and I.D. Karachentsev, Confirmation of Faint Dwarf Galaxies in the M81 Group, AJ 146 (2013) 126 [1309.4130].
+D. Martínez-Delgado, D. Makarov, B. Javanmardi, M.S. Pawlowski, L. Makarova,
+G. Donatiello et al., Tracing satellite planes in the Sculptor group. I. Discovery of three faint dwarf galaxies around NGC 253, A& A 652 (2021) A48 [2106.08868].
+N.G. Ibata, R.A. Ibata, B. Famaey and G.F. Lewis, Velocity anti-correlation of diametrically opposed galaxy satellites in the low-redshift Universe, Nature 511 (2014) 563 [1407.8178].
+M.S. Pawlowski, It’s time for some plane speaking, Nature Astronomy 5 (2021) 1185.
+M.S. Pawlowski, Phase-Space Correlations among Systems of Satellite Galaxies, Galaxies 9 (2021) 66 [2109.02654].
+Y. Xu, X. Kang and N.I. Libeskind, On the Satellite Plane Problem, arXiv e-prints (2023) [2303.00441].
+T. Sawala, M. Cautun, C. Frenk, J. Helly, J. Jasche, A. Jenkins et al., The Milky Way’s plane of satellites is consistent with ΛCDM, Nature Astronomy (2022) [2205.02860].
+K.J. Kanehisa, M.S. Pawlowski, O. Müller and S.T. Sohn, Classifying the satellite plane membership of Centaurus A’s dwarf galaxies using orbital alignment constraints, MNRAS 519 (2023) 6184 [2301.07113].
+M. Haslbauer, J. Dabringhausen, P. Kroupa, B. Javanmardi and I. Banik, Galaxies lacking dark matter in the Illustris simulation, A&A 626 (2019) A47 [1905.03258].
+J. Dabringhausen and P. Kroupa, Dwarf elliptical galaxies as ancient tidal dwarf galaxies, MNRAS 429 (2013) 1858 [1211.1382].
+M.S. Pawlowski, P. Kroupa and H. Jerjen, Dwarf galaxy planes: the discovery of symmetric structures in the Local Group, MNRAS 435 (2013) 1928 [1307.6210].
+A.W. McConnachie, The Observed Properties of Dwarf Galaxies in and around the Local Group, AJ 144 (2012) 4 [1204.1562].
+M.S. Pawlowski and S.S. McGaugh, Perseus I and the NGC 3109 association in the context of the Local Group dwarf galaxy structures, MNRAS 440 (2014) 908 [1402.4130].
+B. Binggeli, A. Sandage and G.A. Tammann, The luminosity function of galaxies., ARAA 26 (1988) 509.
+R. Delgado-Serrano, F. Hammer, Y.B. Yang, M. Puech, H. Flores and M. Rodrigues, How was the Hubble sequence 6 Gyr ago?, A&A 509 (2010) A78 [0906.2805].
+
+Tensions with dark-matter models	Pavel Kroupa
+
+
+M. Vogelsberger, S. Genel, V. Springel, P. Torrey, D. Sĳacki, D. Xu et al., Properties of galaxies reproduced by a hydrodynamic simulation, Nature 509 (2014) 177 [1405.1418].
+M. Haslbauer, I. Banik, P. Kroupa, N. Wittenburg and B. Javanmardi, The High Fraction of Thin Disk Galaxies Continues to Challenge ΛCDM Cosmology, ApJ 925 (2022) 183 [2202.01221].
+J. Kormendy, N. Drory, R. Bender and M.E. Cornell, Bulgeless Giant Galaxies Challenge Our Picture of Galaxy Formation by Hierarchical Clustering, ApJ 723 (2010) 54 [1009.3015].
+R. Eappen, P. Kroupa, N. Wittenburg, M. Haslbauer and B. Famaey, The formation of early-type galaxies through monolithic collapse of gas clouds in Milgromian gravity, MNRAS 516 (2022) 1081 [2209.00024].
+Z. Yan, T. Jeřábková and P. Kroupa, Downsizing revised: Star formation timescales for elliptical galaxies with an environment-dependent IMF and number of SNIa, A&A 655 (2021) A19 [2107.03388].
+N. Salvador-Rusiñol, A. Ferré-Mateu, A. Vazdekis and M.A. Beasley, Lessons from the massive relic NGC 1277: Remaining in situstar formation in the cores of massive galaxies, MNRAS 515 (2022) 4514 [2207.01968].
+D. Lena, A. Robinson, A. Marconi, D.J. Axon, A. Capetti, D. Merritt et al., Recoiling Supermassive Black Holes: A Search in the Nearby Universe, ApJ 795 (2014) 146 [1409.3976].
+P. Kroupa, L. Subr, T. Jerabkova and L. Wang, Very high redshift quasars and the rapid emergence of supermassive black holes, MNRAS 498 (2020) 5652 [2007.14402].
+C. DeGraf and D. Sĳacki, Cosmological simulations of massive black hole seeds: predictions for next-generation electromagnetic and gravitational wave observations, MNRAS 491 (2020) 4973 [1906.11271].
+A.G. Riess, W. Yuan, L.M. Macri, D. Scolnic, D. Brout, S. Casertano et al., A Comprehensive Measurement of the Local Value of the Hubble Constant with 1 km s−1 Mpc−1 Uncertainty from the Hubble Space Telescope and the SH0ES Team, ApJL 934 (2022) L7 [2112.04510].
+V. Poulin, T.L. Smith and T. Karwal, The Ups and Downs of Early Dark Energy solutions to the Hubble tension: a review of models, hints and constraints circa 2023, arXiv e-prints (2023) [2302.09032].
+S. Goldstein, J.C. Hill, V. Iršič and B.D. Sherwin, Canonical Hubble-Tension-Resolving Early Dark Energy Cosmologies are Inconsistent with the Lyman-𝛼 Forest, arXiv e-prints (2023) [2303.00746].
+
+Tensions with dark-matter models	Pavel Kroupa
+
+
+B.L. Hoscheit and A.J. Barger, The KBC Void: Consistency with Supernovae Type Ia and the Kinematic SZ Effect in a ΛLTB Model, ApJ 854 (2018) 46 [1801.01890].
+M. Haslbauer, I. Banik and P. Kroupa, The KBC void and Hubble tension contradict ΛCDM on a Gpc scale - Milgromian dynamics as a possible solution, MNRAS 499 (2020) 2845 [2009.11292].
+W.J. Frith, G.S. Busswell, R. Fong, N. Metcalfe and T. Shanks, The local hole in the galaxy distribution: evidence from 2MASS, MNRAS 345 (2003) 1049 [astro-ph/0302331].
+J.R. Whitbourn and T. Shanks, The galaxy luminosity function and the Local Hole, MNRAS
+459 (2016) 496 [1603.02322].
+T. Shanks, L.M. Hogarth and N. Metcalfe, Gaia Cepheid parallaxes and ’Local Hole’ relieve H0 tension, MNRAS 484 (2019) L64 [1810.02595].
+T. Shanks, L.M. Hogarth, N. Metcalfe and J. Whitbourn, Local Hole revisited: evidence for bulk motions and self-consistent outflow, MNRAS 490 (2019) 4715 [1909.01878].
+J.H.W. Wong, T. Shanks, N. Metcalfe and J.R. Whitbourn, The local hole: a galaxy underdensity covering 90 per cent of sky to ≈200 Mpc, MNRAS 511 (2022) 5742 [2107.08505].
+I.D. Karachentsev, Missing dark matter in the local universe, Astrophysical Bulletin 67
+(2012) 123 [1204.3377].
+E.Ó. Colgáin, A hint of matter underdensity at low z?, JCAP 2019 (2019) 006 [1903.11743].
+W.D. Kenworthy, D. Scolnic and A. Riess, The Local Perspective on the Hubble Tension: Local Structure Does Not Impact Measurement of the Hubble Constant, ApJ 875 (2019) 145 [1901.08681].
+D. Brout, D. Scolnic, B. Popovic, A.G. Riess, A. Carr, J. Zuntz et al., The Pantheon+ Analysis: Cosmological Constraints, ApJ 938 (2022) 110 [2202.04077].
+V.V. Luković, B.S. Haridasu and N. Vittorio, Exploring the evidence for a large local void with supernovae Ia data, MNRAS 491 (2020) 2075 [1907.11219].
+L. Kazantzidis and L. Perivolaropoulos, Hints of a local matter underdensity or modified gravity in the low z Pantheon data, Phys. Rev. D 102 (2020) 023520 [2004.02155].
+S. Castello, M. Högås and E. Mörtsell, A cosmological underdensity does not solve the Hubble tension, JCAP 2022 (2022) 003 [2110.04226].
+R. Watkins, T. Allen, C.J. Bradford, A. Ramon, A. Walker, H.A. Feldman et al., Analysing the large-scale bulk flow using cosmicflows4: increasing tension with the standard cosmological model, MNRAS 524 (2023) 1885 [2302.02028].
+
+Tensions with dark-matter models	Pavel Kroupa
+
+
+K.C. Wong, S.H. Suyu, G.C.F. Chen, C.E. Rusu, M. Millon, D. Sluse et al., H0LiCOW -
+XIII. A 2.4 per cent measurement of H0 from lensed quasars: 5.3𝜎 tension between early-and late-Universe probes, MNRAS 498 (2020) 1420 [1907.04869].
+M. Millon, A. Galan, F. Courbin, T. Treu, S.H. Suyu, X. Ding et al., TDCOSMO. I. An exploration of systematic uncertainties in the inference of H0 from time-delay cosmography, A&A 639 (2020) A101 [1912.08027].
+C. Krishnan, E.Ó. Colgáin, A.A. Ruchika, Sen, M.M. Sheikh-Jabbari and T. Yang, Is there an early Universe solution to Hubble tension?, Physical Review D 102 (2020) 103525 [2002.06044].
+M.G. Dainotti, B. De Simone, T. Schiavone, G. Montani, E. Rinaldi and G. Lambiase, On the Hubble Constant Tension in the SNe Ia Pantheon Sample, ApJ 912 (2021) 150 [2103.02117].
+M.G. Dainotti, B.D. De Simone, T. Schiavone, G. Montani, E. Rinaldi, G. Lambiase et al., On the Evolution of the Hubble Constant with the SNe Ia Pantheon Sample and Baryon Acoustic Oscillations: A Feasibility Study for GRB-Cosmology in 2030, Galaxies 10 (2022) 24 [2201.09848].
+X.D. Jia, J.P. Hu and F.Y. Wang, Evidence of a decreasing trend for the Hubble constant, A&A 674 (2023) A45 [2212.00238].
+J.-P. Hu and F.-Y. Wang, Hubble Tension: The Evidence of New Physics, Universe 9 (2023) 94 [2302.05709].
+M. Zajaček, B. Czerny, M.L. Martinez-Aldama, M. Rałowski, A. Olejak, R. Przyłuski et al., Time Delay of Mg II Emission Response for the Luminous Quasar HE 0435-4312: toward Application of the High-accretor Radius-Luminosity Relation in Cosmology, ApJ 912 (2021) 10 [2012.12409].
+S. Cao, M. Zajaček, S. Panda, M.L. Martínez-Aldama, B. Czerny and B. Ratra, Standardizing reverberation-measured C IV time-lag quasars, and using them with standardized Mg II quasars to constrain cosmological parameters, MNRAS 516 (2022) 1721 [2205.15552].
+E. Lusso, E. Piedipalumbo, G. Risaliti, M. Paolillo, S. Bisogni, E. Nardini et al., Tension with the flat ΛCDM model from a high-redshift Hubble diagram of supernovae, quasars, and gamma-ray bursts, A& A 628 (2019) L4 [1907.07692].
+E. Lusso, G. Risaliti, E. Nardini, G. Bargiacchi, M. Benetti, S. Bisogni et al., Quasars as standard candles. III. Validation of a new sample for cosmological studies, A& A 642 (2020) A150 [2008.08586].
+K. Migkas, F. Pacaud, G. Schellenberger, J. Erler, N.T. Nguyen-Dang, T.H. Reiprich et al., Cosmological implications of the anisotropy of ten galaxy cluster scaling relations, A&A 649 (2021) A151 [2103.13904].
+
+Tensions with dark-matter models	Pavel Kroupa
+
+
+N.J. Secrest, S. von Hausegger, M. Rameez, R. Mohayaee and S. Sarkar, A Challenge to the Standard Cosmological Model, ApJL 937 (2022) L31 [2206.05624].
+I. Horvath, D. Szécsi, J. Hakkila, Á. Szabó, I.I. Racz, L.V. Tóth et al., The clustering of gamma-ray bursts in the Hercules-Corona Borealis Great Wall: the largest structure in the Universe?, MNRAS 498 (2020) 2544 [2008.03679].
+A. Dupuy and H.M. Courtois, Watersheds of the Universe: Laniakea and five newcomers in the neighborhood, arXiv (2023) [2305.02339].
+P. Kroupa, M. Haslbauer, I. Banik, S.T. Nagesh and J. Pflamm-Altenburg, Constraints on the star formation histories of galaxies in the Local Cosmological Volume, MNRAS 497 (2020) 37 [2007.07905].
+M. Haslbauer, P. Kroupa and T. Jerabkova, The cosmological star formation history from the Local Cosmological Volume of galaxies and constraints on the matter homogeneity, MNRAS 524 (2023) 3252 [2306.16436].
+E. Di Valentino, L.A. Anchordoqui, Ö. Akarsu, Y. Ali-Haimoud, L. Amendola, N. Arendse et al., Cosmology Intertwined III: f𝜎8 and S8, Astroparticle Physics 131 (2021) 102604 [2008.11285].
+T.M.C. Abbott, M. Aguena, A. Alarcon, O. Alves, A. Amon, F. Andrade-Oliveira et al.,
+Joint analysis of Dark Energy Survey Year 3 data and CMB lensing from SPT and Planck.
+III. Combined cosmological constraints, Physical Review D 107 (2023) 023531 [2206.10824].
+P. Kumar Aluri, P. Cea, P. Chingangbam, M.-C. Chu, R.G. Clowes, D. Hutsemékers et al., Is the observable Universe consistent with the cosmological principle?, Classical and Quantum Gravity 40 (2023) 094001 [2207.05765].
+R. Mohayaee, M. Rameez and S. Sarkar, Do supernovae indicate an accelerating universe?, European Physical Journal Special Topics 230 (2021) 2067 [2106.03119].
+C. Krishnan, E. Ó Colgáin, M.M. Sheikh-Jabbari and T. Yang, Running Hubble tension and a H0 diagnostic, Physical Review D 103 (2021) 103509 [2011.02858].
+E. Asencio, I. Banik and P. Kroupa, A massive blow for ΛCDM - the high redshift, mass, and collision velocity of the interacting galaxy cluster El Gordo contradicts concordance cosmology, MNRAS 500 (2021) 5249 [2012.03950].
+E. Asencio, I. Banik and P. Kroupa, The El Gordo galaxy cluster challenges LCDM for any plausible collision velocity, ApJ, in press (2023) [2308.00744].
+D. Kraljic and S. Sarkar, How rare is the Bullet Cluster (in a ΛCDM universe)?, Journal of Cosmology and Astroparticle Physics 2015 (2015) 050 [1412.7719].
+D.J. Schwarz, C.J. Copi, D. Huterer and G.D. Starkman, CMB anomalies after Planck, Classical and Quantum Gravity 33 (2016) 184001 [1510.07929].
+
+Tensions with dark-matter models	Pavel Kroupa
+
+
+B. Javanmardi and P. Kroupa, Anisotropy in the all-sky distribution of galaxy morphological types, A&A 597 (2017) A120 [1609.06719].
+H.K. Eriksen, F.K. Hansen, A.J. Banday, K.M. Górski and P.B. Lilje, Asymmetries in the Cosmic Microwave Background Anisotropy Field, ApJ 605 (2004) 14
+[astro-ph/0307507].
+L. Shamir, Analysis of spin directions of galaxies in the DESI Legacy Survey, MNRAS 516
+(2022) 2281 [2208.13866].
+L. Shamir and D. McAdam, A possible tension between galaxy rotational velocity and observed physical properties, arXiv (2022) [2212.04044].
+M. Haslbauer, P. Kroupa, A.H. Zonoozi and H. Haghi, Has JWST Already Falsified Dark-matter-driven Galaxy Formation?, ApJL 939 (2022) L31 [2210.14915].
+P. Arrabal Haro, M. Dickinson, S.L. Finkelstein, J.S. Kartaltepe, C.T. Donnan,
+D. Burgarella et al., Spectroscopic verification of very luminous galaxy candidates in the early universe, Mar., 2023. 10.48550/arXiv.2303.15431.
+P. Dayal and S.K. Giri, Warm dark matter constraints from the JWST, Mar., 2023. 10.48550/arXiv.2303.14239.
+P.A. Oesch, G. Brammer, P.G. van Dokkum, G.D. Illingworth, R.J. Bouwens, I. Labbé
+et al., A Remarkably Luminous Galaxy at z=11.1 Measured with Hubble Space Telescope Grism Spectroscopy, ApJ 819 (2016) 129 [1603.00461].
+R.P. Naidu, P.A. Oesch, P. van Dokkum, E.J. Nelson, K.A. Suess, G. Brammer et al., Two Remarkably Luminous Galaxy Candidates at z ≈ 10-12 Revealed by JWST, ApJL 940 (2022) L14 [2207.09434].
+A. Ferrara, A. Pallottini and P. Dayal, On the stunning abundance of super-early, luminous galaxies revealed by JWST, MNRAS 522 (2023) 3986 [2208.00720].
+S. Gu, M.-A. Dor, L. van Waerbeke, M. Asgari, A. Mead, T. Tröster et al., A non-standard Halo Mass Function as a solution to the structure-growth tension, application to
+KiDS-1000 and DES-y3, arXiv e-prints (2023) [2302.00780].
+E.F. Bunn and M. White, The 4 Year COBE Normalization and Large-Scale Structure, ApJ
+480 (1997) 6 [astro-ph/9607060].
+M. Vogelsberger, S. Genel, V. Springel, P. Torrey, D. Sĳacki, D. Xu et al., Introducing the Illustris Project: simulating the coevolution of dark and visible matter in the Universe, MNRAS 444 (2014) 1518 [1405.2921].
+R. Kraft, M. Markevitch, C. Kilbourne, J.S. Adams, H. Akamatsu, M. Ayromlou et al., Line Emission Mapper (LEM): Probing the physics of cosmic ecosystems, arXiv e-prints (2022) [2211.09827].
+
+Tensions with dark-matter models	Pavel Kroupa
+
+
+M. López-Corredoira, Fundamental Ideas in Cosmology; Scientific, philosophical and sociological critical perspectives, IOP ebooks (2022), 10.1088/978-0-7503-3775-5.
+M. López-Corredoira and L. Marmet, Alternative ideas in cosmology, International Journal of Modern Physics D 31 (2022) 2230014 [2202.12897].
+I. Banik and H. Zhao, From Galactic Bars to the Hubble Tension: Weighing Up the Astrophysical Evidence for Milgromian Gravity, Symmetry 14 (2022) 1331 [2110.06936].
+K. Freese and M.W. Winkler, Dark matter and gravitational waves from a dark big bang, PhRvD 107 (2023) 083522 [2302.11579].
+T. Schiavone, G. Montani and F. Bombacigno, f(R) gravity in the Jordan frame as a paradigm for the Hubble tension, MNRAS 522 (2023) L72 [2211.16737].
+J. María Ezquiaga, J. García-Bellido and V. Vennin, Massive galaxy clusters like “El Gordo” hint at primordial quantum diffusion, arXiv:2207.06317 (2022) [2207.06317].
+T. Buchert, On Average Properties of Inhomogeneous Fluids in General Relativity: Dust Cosmologies, General Relativity and Gravitation 32 (2000) 105 [gr-qc/9906015].
+T. Buchert, H. van Elst and A. Heinesen, The averaging problem on the past null cone in inhomogeneous dust cosmologies, General Relativity and Gravitation 55 (2023) 7 [2202.10798].
+D.L. Wiltshire, Cosmic clocks, cosmic variance and cosmic averages, New Journal of Physics 9 (2007) 377 [gr-qc/0702082].
+D.L. Wiltshire, Exact Solution to the Averaging Problem in Cosmology, Physical Review Letters 99 (2007) 251101 [0709.0732].
+D.L. Wiltshire, Average observational quantities in the timescape cosmology, Physical Review D 80 (2009) 123512 [0909.0749].
+D.L. Wiltshire, Comment on “Hubble flow variations as a test for inhomogeneous cosmology”, A&A 624 (2019) A12 [1812.01586].
+G. Lemaître, L’Univers en expansion, Annales de la Soci&eacute;t&eacute; Scientifique de Bruxelles 53 (1933) 51.
+R.C. Tolman, Effect of Inhomogeneity on Cosmological Models, Proceedings of the National Academy of Science 20 (1934) 169.
+H. Bondi, Spherically symmetrical models in general relativity, MNRAS 107 (1947) 410.
+K. Enqvist, Lemaitre Tolman Bondi model and accelerating expansion, General Relativity and Gravitation 40 (2008) 451 [0709.2044].
+B. Javanmardi, C. Porciani, P. Kroupa and J. Pflamm-Altenburg, Probing the Isotropy of Cosmic Acceleration Traced By Type Ia Supernovae, ApJ 810 (2015) 47 [1507.07560].
+
+Tensions with dark-matter models	Pavel Kroupa
+
+
+F. Melia and A.S.H. Shevchuk, The Rℎ=ct universe, MNRAS 419 (2012) 2579 [1109.5189].
+F. Melia, The Cosmic Spacetime, Australian Physics 49 (2012) 83 [1205.2713].
+F. Melia, Fitting the Union2.1 Supernova Sample with the R ℎ = ct Universe, AJ 144 (2012) 110 [1206.6289].
+F. Melia, The Rℎ = ct universe without inflation, A&A 553 (2013) A76 [1206.6527].
+F. Melia, The Cosmic Timeline Implied by the JWST High-redshift Galaxies, MNRAS
+(2023) [2302.10103].
+F. Melia, Quantum fluctuations at the Planck scale, European Physical Journal C 79 (2019) 455 [1905.08626].
+F. Melia, A Population III-Generated Dust Screen at z 16, ApJ 941 (2022) 178
+[2211.06316].
+D. Merritt, A Philosophical Approach to MOND: Assessing the Milgromian Research Program in Cosmology, Cambridge Series in History and Philosophy of Physics and Astronomy (2020).
+A. Maeder, Dynamical Effects of the Scale Invariance of the Empty Space: The Fall of Dark Matter?, ApJ 849 (2017) 158 [1710.11425].
+A. Maeder, Scale-invariant Cosmology and CMB Temperatures as a Function of Redshifts, ApJ 847 (2017) 65 [1708.08648].
+A. Maeder, An Alternative to the ΛCDM Model: The Case of Scale Invariance, ApJ 834
+(2017) 194 [1701.03964].
+V.G. Gueorguiev and A. Maeder, The Scale Invariant Vacuum Paradigm: Main Results and Current Progress, Universe 8 (2022) 213 [2202.08412].
+M. Milgrom, The Mond Limit from Spacetime Scale Invariance, ApJ 698 (2009) 1630 [0810.4065].
+A. Maeder and V.G. Gueorguiev, Scale-invariant dynamics of galaxies, MOND, dark matter, and the dwarf spheroidals, MNRAS 492 (2020) 2698 [2001.04978].
+A. Maeder, MOND as a peculiar case of the SIV theory, MNRAS 520 (2023) 1447 [2302.06206].
+I. Banik and P. Kroupa, Scale-invariant dynamics in the Solar system, MNRAS 497 (2020) L62 [2007.00654].
+A. Maeder and V.G. Gueorguiev, Scale invariance, horizons, and inflation, MNRAS 504
+(2021) 4005 [2104.09314].
+
+Tensions with dark-matter models	Pavel Kroupa
+
+
+A. Maeder and V.G. Gueorguiev, The growth of the density fluctuations in the scale-invariant vacuum theory, Physics of the Dark Universe 25 (2019) 100315 [1811.03495].
+A. Maeder, Evolution of the early Universe in the scale invariant theory, arXiv (2019) [1902.10115].
+E. Verlinde, Emergent Gravity and the Dark Universe, SciPost Physics 2 (2017) 016 [1611.02269].
+D.S. Hajdukovic, Concerning impact of the quantum vacuum on orbits of planets, Astrophysics and Space Science 364 (2019) 174.
+J.W. Moffat and V. Toth, Scalar-Tensor-Vector Modified Gravity in Light of the Planck 2018 Data, Universe 7 (2021) 358 [2104.12806].
+F. Lelli, S.S. McGaugh and J.M. Schombert, Testing Verlinde’s emergent gravity with the radial acceleration relation, MNRAS 468 (2017) L68 [1702.04355].
+I. Banik and P. Kroupa, Solar System limits on gravitational dipoles, MNRAS 495 (2020) 3974 [2006.06000].
+H. Haghi, V. Amiri, A. Hasani Zonoozi, I. Banik, P. Kroupa and M. Haslbauer, The Star Formation History and Dynamics of the Ultra-diffuse Galaxy Dragonfly 44 in MOND and MOG, ApJL 884 (2019) L25 [1909.07978].
+M. Milgrom, A modification of the Newtonian dynamics as a possible alternative to the hidden mass hypothesis., ApJ 270 (1983) 365.
+M. Milgrom, A modification of the Newtonian dynamics - Implications for galaxies., ApJ
+270 (1983) 371.
+M. Milgrom, A modification of the newtonian dynamics : implications for galaxy systems., ApJ 270 (1983) 384.
+J. Bekenstein and M. Milgrom, Does the missing mass problem signal the breakdown of Newtonian gravity?, ApJ 286 (1984) 7.
+P. Kroupa, M. Pawlowski and M. Milgrom, The Failures of the Standard Model of Cosmology Require a New Paradigm, International Journal of Modern Physics D 21 (2012) 1230003 [1301.3907].
+R.H. Sanders, Cosmology with modified Newtonian dynamics (MOND), MNRAS 296 (1998) 1009 [astro-ph/9710335].
+S. McGaugh, MOND in the early universe, in After the Dark Ages: When Galaxies were Young (the Universe at 2 < 𝑧 < 5), S. Holt and E. Smith, eds., vol. 470 of American Institute of Physics Conference Series, pp. 72–76, Apr., 1999, DOI [astro-ph/9812328].
+
+Tensions with dark-matter models	Pavel Kroupa
+
+
+K.G. Begeman, A.H. Broeils and R.H. Sanders, Extended rotation curves of spiral galaxies
+: dark haloes and modified dynamics., MNRAS 249 (1991) 523.
+S.T. Nagesh, P. Kroupa, I. Banik, B. Famaey, N. Ghafourian, M. Roshan et al., Simulations of star-forming main-sequence galaxies in Milgromian gravity, MNRAS 519 (2023) 5128 [2212.07447].
+F. Lelli, S.S. McGaugh, J.M. Schombert and M.S. Pawlowski, One Law to Rule Them All: The Radial Acceleration Relation of Galaxies, ApJ 836 (2017) 152 [1610.08981].
+F. Renaud, B. Famaey and P. Kroupa, Star formation triggered by galaxy interactions in modified gravity, MNRAS 463 (2016) 3637 [1609.04407].
+I. Banik, D. O’Ryan and H. Zhao, Origin of the Local Group satellite planes, MNRAS 477
+(2018) 4768 [1802.00440].
+M. Bílek, I. Thies, P. Kroupa and B. Famaey, MOND simulation suggests an origin for some peculiarities in the Local Group, A&A 614 (2018) A59 [1712.04938].
+M. Bílek, I. Thies, P. Kroupa and B. Famaey, Are Disks of Satellites Comprised of Tidal Dwarf Galaxies?, Galaxies 9 (2021) 100 [2111.05306].
+I. Banik, I. Thies, R. Truelove, G. Candlish, B. Famaey, M.S. Pawlowski et al., 3D hydrodynamic simulations for the formation of the Local Group satellite planes, MNRAS 513 (2022) 129 [2204.09687].
+T. Okazaki and Y. Taniguchi, Dwarf Galaxy Formation Induced by Galaxy Interactions, ApJ 543 (2000) 149 [astro-ph/0006006].
+F. Lüghausen, B. Famaey, P. Kroupa, G. Angus, F. Combes, G. Gentile et al., Polar ring galaxies as tests of gravity, MNRAS 432 (2013) 2846 [1304.4931].
+G.N. Candlish, The velocity field in MOND cosmology, MNRAS 460 (2016) 2571
+[1605.03192].
+H. Katz, S. McGaugh, P. Teuben and G.W. Angus, Galaxy Cluster Bulk Flows and Collision Velocities in QUMOND, ApJ 772 (2013) 10 [1305.3651].
+R.H. Sanders, A Faber-Jackson relation for clusters of galaxies: implications for modified dynamics., A&A 284 (1994) L31.
+M. López-Corredoira, J.E. Betancort-Rĳo, R. Scarpa and Ž. Chrobáková, Virial theorem in clusters of galaxies with MOND, MNRAS 517 (2022) 5734 [2210.13961].
+J. Wolf, G.D. Martinez, J.S. Bullock, M. Kaplinghat, M. Geha, R.R. Muñoz et al., Accurate masses for dispersion-supported galaxies, MNRAS 406 (2010) 1220 [0908.2995].
+M. Safarzadeh and A. Loeb, The Challenge to MOND from Ultra-faint Dwarf Galaxies, ApJL 914 (2021) L37 [2104.13961].
+
+Tensions with dark-matter models	Pavel Kroupa
+
+
+P. Kroupa, Dwarf spheroidal satellite galaxies without dark matter, New Astronomy 2
+(1997) 139.
+R.A. Casas, V. Arias, K. Peña Ramírez and P. Kroupa, Dwarf spheroidal satellites of the Milky Way from dark matter free tidal dwarf galaxy progenitors: maps of orbits, MNRAS 424 (2012) 1941 [1205.5029].
+R. Ibata, A. Sollima, C. Nipoti, M. Bellazzini, S.C. Chapman and E. Dalessandro, Polytropic Model Fits to the Globular Cluster NGC 2419 in Modified Newtonian Dynamics, ApJ 743 (2011) 43 [1110.3892].
+R.H. Sanders, NGC 2419 does not challenge MOND, Part 2, MNRAS 422 (2012) L21
+[1111.4334].
+L. Blanchet and J. Novak, External field effect of modified Newtonian dynamics in the Solar system, MNRAS 412 (2011) 2530 [1010.1349].
+A. Hees, B. Famaey, G.W. Angus and G. Gentile, Combined Solar system and rotation curve constraints on MOND, MNRAS 455 (2016) 449 [1510.01369].
+R. Scarpa, R. Ottolina, R. Falomo and A. Treves, Dynamics of wide binary stars: A case study for testing Newtonian dynamics in the low acceleration regime, International Journal of Modern Physics D 26 (2017) 1750067 [1611.08635].
+X. Hernandez, S. Cookson and R.A.M. Cortés, Internal kinematics of Gaia eDR3 wide binaries, MNRAS 509 (2022) 2304 [2107.14797].
+C. Pittordis and W. Sutherland, Wide Binaries from GAIA EDR3: preference for GR over MOND?, The Open Journal of Astrophysics 6 (2023) 4 [2205.02846].
+K.-H. Chae, Breakdown of the Newton-Einstein Standard Gravity at Low Acceleration in Internal Dynamics of Wide Binary Stars, ApJ 952 (2023) 128 [2305.04613].
+C.J. Clarke, The distribution of relative proper motions of wide binaries in Gaia DR2: MOND or multiplicity?, MNRAS 491 (2020) L72 [1910.10256].
+E. Vasiliev, The Effect of the LMC on the Milky Way System, Galaxies 11 (2023) 59 [2304.09136].
+E. Verlinde, On the origin of gravity and the laws of Newton, Journal of High Energy Physics 2011 (2011) 29 [1001.0785].
+T. Stadtler, P. Kroupa and M. Schmid, The dynamics of spatially confined oscillations, Canadian Journal of Physics 99 (2021) 222 [2105.03230].
+D. Zhang, P. Kroupa, J. Pflamm-Altenburg and M. Schmid, The Possible Emergence of an Attractive Inverse-Square Law from the Wave-Nature of Particles, Advances in High Energy Physics 2022 (2022) 7762 [2212.14798].
+
+Tensions with dark-matter models	Pavel Kroupa
+
+
+C. Skordis and T. Złośnik, New Relativistic Theory for Modified Newtonian Dynamics, Physical Review Letters 127 (2021) 161302 [2007.00082].
+T. Mistele, S. McGaugh and S. Hossenfelder, Aether Scalar Tensor theory confronted with weak lensing data at small accelerations, A&A, in press (2023) [2301.03499].
+M. Milgrom, The modified dynamics as a vacuum effect, Physics Letters A 253 (1999) 273 [astro-ph/9805346].
+G.W. Angus, Is an 11eV sterile neutrino consistent with clusters, the cosmic microwave background and modified Newtonian dynamics?, MNRAS 394 (2009) 527 [0805.4014].
+G.W. Angus and A. Diaferio, The abundance of galaxy clusters in modified Newtonian dynamics: cosmological simulations with massive neutrinos, MNRAS 417 (2011) 941 [1104.5040].
+N. Wittenburg, P. Kroupa, I. Banik, G. Candlish and N. Samaras, Hydrodynamical structure formation in Milgromian cosmology, MNRAS 523 (2023) 453 [2305.05696].
+A. Nusser, Modified Newtonian dynamics of large-scale structure, MNRAS 331 (2002) 909 [astro-ph/0109016].
+R.H. Sanders, Forming galaxies with MOND, MNRAS 386 (2008) 1588 [0712.2576].
+G.W. Angus, A. Diaferio and P. Kroupa, Using dwarf satellite proper motions to determine their origin, MNRAS 416 (2011) 1401 [1108.3697].
+E. Pointecouteau and J. Silk, New constraints on modified Newtonian dynamics from galaxy clusters, MNRAS 364 (2005) 654 [astro-ph/0505017].
+M.J. Rees, Origin of pregalactic microwave background, Nature 275 (1978) 35.
+M. Rowan-Robinson, J. Negroponte and J. Silk, Distortions of the cosmic microwave background spectrum by dust, Nature 281 (1979) 635.
+E.L. Wright, Thermalization of starlight by elongated grains - Could the microwave background have been produced by stars, ApJ 255 (1982) 401.
+V. Vavryčuk, Universe opacity and CMB, MNRAS 478 (2018) 283 [1804.06875].
+F. Melia, A measurement of the cosmic expansion within our lifetime, European Journal of Physics 43 (2022) 035601 [2112.12599].
+R. Jimenez and A. Loeb, Constraining Cosmological Parameters Based on Relative Galaxy Ages, ApJ 573 (2002) 37 [astro-ph/0106145].
+M. Moresco, R. Jimenez, L. Verde, A. Cimatti and L. Pozzetti, Setting the Stage for Cosmic Chronometers. II. Impact of Stellar Population Synthesis Models Systematics and Full Covariance Matrix, ApJ 898 (2020) 82 [2003.07362].
+
+Tensions with dark-matter models	Pavel Kroupa
+
+
+P. Kroupa, C. Weidner, J. Pflamm-Altenburg, I. Thies, J. Dabringhausen, M. Marks et al., The Stellar and Sub-Stellar Initial Mass Function of Simple and Composite Populations, in Planets, Stars and Stellar Systems. Volume 5: Galactic Structure and Stellar Populations,
+T.D. Oswalt and G. Gilmore, eds., vol. 5, p. 115 (2013), DOI.
+
+T. Jeřábková, A. Hasani Zonoozi, P. Kroupa, G. Beccari, Z. Yan, A. Vazdekis et al., Impact of metallicity and star formation rate on the time-dependent, galaxy-wide stellar initial mass function, A&A 620 (2018) A39 [1809.04603].
+A. Cimatti and M. Moresco, Revisiting oldest stars as cosmological probes, ApJ, in press
+(2023) [2302.07899].
+J.M. Ying, B. Chaboyer, E.M. Boudreaux, C. Slaughter, M. Boylan-Kolchin and D. Weisz,
+The Absolute Age of M92, AJ 166 (2023) 18 [2306.02180].
+R.H. Sanders and S.S. McGaugh, Modified Newtonian Dynamics as an Alternative to Dark Matter, ARAA 40 (2002) 263 [astro-ph/0204521].
+R. Scarpa, Modified Newtonian Dynamics, an Introductory Review, in First Crisis in Cosmology Conference, E.J. Lerner and J.B. Almeida, eds., vol. 822 of American Institute of Physics Conference Series, pp. 253–265, Mar., 2006, DOI [astro-ph/0601478].
+R. Sanders, Modified Gravity Without Dark Matter, in The Invisible Universe: Dark Matter and Dark Energy, L. Papantonopoulos, ed., vol. 720, p. 375 (2007).
+S. Trippe, The “Missing Mass Problem” in Astronomy and the Need for a Modified Law of Gravity, Zeitschrift Naturforschung Teil A 69 (2014) 173 [1401.5904].
+M. Milgrom, The MOND paradigm of modified dynamics, Scholarpedia 9 (2014) 31410.
+
+R.H. Sanders, A historical perspective on modified Newtonian dynamics, Canadian Journal of Physics 93 (2015) 126 [1404.0531].
+M. Milgrom, Models of a modified-inertia formulation of MOND, Physical Review D 106
+(2022) 064060 [2208.07073].
+K.-H. Chae, Distinguishing Dark Matter, Modified Gravity, and Modified Inertia with the Inner and Outer Parts of Galactic Rotation Curves, ApJ 941 (2022) 55 [2207.11069].
+M. Milgrom, Generalizations of Quasilinear MOND (QUMOND), arXiv e-prints (2023) [2305.01589].
+I.D. Karachentsev and V.D. Zozulia, Orientation of the spins of galaxies in the local volume, MNRAS 522 (2023) 4740 [2304.13484].
+J. Lee and J.-S. Moon, An Observed Transition of Galaxy Spins on Void Surfaces, ApJL 951 (2023) L26 [2305.04409].
+
+Tensions with dark-matter models	Pavel Kroupa
+
+
+P.A. Oria, B. Famaey, G.F. Thomas, R. Ibata, J. Freundlich, L. Posti et al., The Phantom Dark Matter Halos of the Local Volume in the Context of Modified Newtonian Dynamics, ApJ 923 (2021) 68 [2109.10160].
+P. Lindqvist, Notes on the Stationary p-Laplace Equation, Springer International Publishing, Cham (2019).
+M. Milgrom, Quasi-linear formulation of MOND, MNRAS 403 (2010) 886 [0911.5464].
+G. Gentile, B. Famaey and W.J.G. de Blok, THINGS about MOND, A&A 527 (2011) A76 [1011.4148].
+F. Lüghausen, B. Famaey and P. Kroupa, A census of the expected properties of classical Milky Way dwarfs in Milgromian dynamics, MNRAS 441 (2014) 2497 [1404.4049].
+F. Lüghausen, B. Famaey and P. Kroupa, Phantom of RAMSES (POR): A new Milgromian dynamicsN-body code, Canadian Journal of Physics 93 (2015) 232 [1405.5963].
+R. Brada and M. Milgrom, Dwarf Satellite Galaxies in the Modified Dynamics, ApJ 541
+(2000) 556 [astro-ph/0005194].
+X. Wu and P. Kroupa, The dynamical phase transitions of stellar systems and the corresponding kinematics, MNRAS 435 (2013) 728 [1307.5048].
+G.N. Candlish, R. Smith, Y. Jaffé and A. Cortesi, Consequences of the external field effect for MOND disc galaxies in galaxy clusters, MNRAS 480 (2018) 5362 [1808.05962].
+G.N. Candlish, R. Smith and M. Fellhauer, RAyMOND: an N-body and hydrodynamics code for MOND, MNRAS 446 (2015) 1060 [1410.3844].
+R. Teyssier, Cosmological hydrodynamics with adaptive mesh refinement. A new high resolution code called RAMSES, A&A 385 (2002) 337 [arXiv:astro-ph/0111367].
+K.-H. Chae, F. Lelli, H. Desmond, S.S. McGaugh and J.M. Schombert, Testing modified gravity theories with numerical solutions of the external field effect in rotationally supported galaxies, Physical Review D 106 (2022) 103025 [2209.07357].
+S.T. Nagesh, I. Banik, I. Thies, P. Kroupa, B. Famaey, N. Wittenburg et al., The Phantom of RAMSES user guide for galaxy simulations using Milgromian and Newtonian gravity, Canadian Journal of Physics 99 (2021) 607 [2101.11011].
+I. Banik, I. Thies, B. Famaey, G. Candlish, P. Kroupa and R. Ibata, The Global Stability of M33 in MOND, ApJ 905 (2020) 135 [2011.12293].
+G.W. Angus, A. Diaferio, B. Famaey and K.J. van der Heyden, Cosmological simulations in MOND: the cluster scale halo mass function with light sterile neutrinos, MNRAS 436 (2013) 202 [1309.6094].
+
+Tensions with dark-matter models	Pavel Kroupa
+
+
+C. Llinares, A. Knebe and H. Zhao, Cosmological structure formation under MOND: a new numerical solver for Poisson’s equation, MNRAS 391 (2008) 1778 [0809.2899].
+H. Martel and P.R. Shapiro, A convenient set of comoving cosmological variables and their application, MNRAS 297 (1998) 467 [astro-ph/9710119].
+
+/
+
+
+
+
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/224831130
+
+The missing matter problem: from Dark Matter to alternative hypotheses
+
+Chapter · March 2012
+DOI: 10.5772/32775 · Source: InTech
+
+
+
+
+CITATIONS
+0
+READS
+24
+
+
+
+5 authors, including:
+
+
+Salvatore Capozziello University of Naples Federico II
+539 PUBLICATIONS 11,788 CITATIONS
+Mariafelicia De Laurentis
+Goethe-Universität Frankfurt am Main
+122 PUBLICATIONS 1,674 CITATIONS
+
+
+/	/
+
+
+Gianfranca De Rosa
+INFN - Istituto Nazionale di Fisica Nucleare
+147 PUBLICATIONS 3,277 CITATIONS
+Camilla Di Donato
+Parthenope University of Naples
+291 PUBLICATIONS 2,359 CITATIONS
+
+
+/	/
+
+
+Some of the authors of this publication are also working on these related projects:
+
+CANTATA - Cosmology and Astrophysics Network for Theoretical Advances and Training Actions - COST Action CA15117. View project
+Possible Gamma-Ray Burst radio detections by the Square Kilometre Array. New perspectives View project
+
+8
+
+The Missing Matter Problem: From the Dark Matter Search to Alternative Hypotheses
+S. Capozziello, L. Consiglio, M. De Laurentis,
+G. De Rosa and C. Di Donato Dipartimento di Scienze Fisiche, Université di Napoli “Federico II”, Compl. Univ. di Monte S. Angelo, Edificio G, Napoli
+INFN Sezione di Napoli, Compl. Univ. di Monte S. Angelo, Edificio G, Napoli
+Italy
+
+Introduction
+The nature of dark matter (DM) is one of the greatest today challenges in cosmology and particle physics: on one side it would have a significant impact on the large scale structure in the Universe and, on the other hand, it should lead to the empirical evidence of new unknown particles. The difficulties arise from the fact that DM could be composed by multiple components behaving in different ways depending on the scale. Besides, DM dynamics should be connected to that of dark energy (DE), the other unknown, unclustered form of energy that recent observations pointed out in the last decade. This further ingredient should constitute almost 75 % of cosmic matter-energy budget, turning out that the so-called "dark side" problem is dramatic and urgent to be solved.
+The DM problem was finally set in the 1970s after several evidences accumulated in the past decades. In 1933 Fritz Zwicky measured the velocity dispersion of galaxies in the Coma cluster and found out that it was about a factor ten larger than expected from the estimated total mass of the cluster (Zwicky, 1933). It is interesting that Zwicky defined such a shortcoming as the missing matter problem. These preliminary observations have been confirmed in the 1970s, when data collected on the galactic rotational curves of spiral galaxies, proved the presence of large amounts of mass on scales much larger than the optical size of galactic disks.
+Later on, the evidence of DM at various cosmological and astrophysical scales has been established by a wide number of observations, especially the very precise measurements of the cosmic microwave background radiation in the Wilkinson Microwave Anisotropy Probe (WMAP) experiment (Dunkley et al., 2009). Data from weak (Refregier, 2003) and strong (Tyson, 1998) lensing, hot gas in clusters (Lewis et al., 2003), the Bullet Cluster (Clowe et al., 2006), Big Bang nucleosynthesis (BBN) ( Fields & Sarkar, 2008), further constraints from large scale structure (Allen, 2003), distant supernovae (Perlmutter et al., 1999; Riess et al., 1998), and the cosmic microwave background (CMB) (Komatsu et al., 2011) also support the evidence for non-luminous matter.
+The ensemble of these data provides a strong evidence for a non luminous and non absorbing matter interacting only gravitationally, which is five times more prevalent than ordinary
+
+
+
+
+
+matter and accounts for about a quarter of the Universe. More precisely, current data constrain the energy densities of the Universe in a baryonic component, mostly known (ΩB  0.0456 ± 0.0016), a DM (CDM) component (ΩCDM ≃ 0.227 ± 0.014) still unknown, and a DE component (ΩΛ ≃ 0.728 ± 0.015 with a great uncertainty on the generating mechanisms). The luminous matter in the Universe is less than 1% of the total composition of the Universe. The current most precise estimation of the density of non-baryonic DM ΩDM is obtained combining the measurements of the CMB anisotropy and of the spatial distribution of the galaxies and has found to be ΩDMh2 = 0.110 ± 0.006. The "local" DM present in the Galactic disk has an average density of (Kamionkowski & Kinkhabwala, 1998): ρlocal ≃ 0.3 GeV .
+An alternative, intriguing approach is to consider DM, as well as DE, as the manifestation of the break-down of General Relativity (GR) on large scales. A large literature is devoted to the possible modifications of the laws of gravitation, as Extended Theories of Gravity (ETGs), in particular f (R)-theories, by introducing into the Lagrangian , physically motivated higher-order curvature invariants and non-minimally coupled scalar fields (Capozziello & De Laurentis, 2011). The interest on such an approach, in early epoch cosmology, is due to the fact that it can “naturally” reproduce inflationary behaviours able to overcome the shortcomings of Standard Cosmological Model and, in late epoch cosmology, it seems capable of matching with several observations overcoming DM and DE problems related to the issue of detection.
+In this review paper, we illustrate the experimental status of art to detect DM particles with direct and indirect methods, trying to interpretate and discuss the results obtained so far (Secs. 2,3,4). A possible alternative approach to the DM problem is presented in terms of gravitational effects at astrophysical and cosmological scales (Sec.5). Specifically, corrected gravitational potentials offer the possibility to fit galaxy rotation curves and galaxy clusters haloes without DM. The same approach allows to fit the apparent accelerated Hubble fluid without invoking DE. Conclusions are drawn in Sec. 6.
+
+A survey of dark matter candidates
+Candidates for non-baryonic DM must satisfy several conditions: i) they should be neutral, (otherwise they would interact electromagnetically); ii) they should not have color charge (otherwise they could form anomalous nuclear states); iii) they should be stable on cosmological time scales (otherwise they would have decayed by now); iv) they should interact very weakly with ordinary matter (otherwise they would not be dark), and, finally, v) they should have a suitable relic density. If we consider the Standard Model (SM) of Particles, neutrinos seem to be the prominent DM candidate as they interact only weakly and have an extremely low mass (the exact value of neutrinos’ mass has yet to be measured, but it is clear, from neutrino oscillation measurements, that their mass is non-zero). There are many sources of neutrinos in the Universe, nevertheless they can account only a small fraction of DM. First of all, they are "hot" since they move at relativistic velocities. Thus they should have had a strong effect on the instabilities that generated the primordial cosmological objects during the earliest Universe, in the sense that galaxy clusters would have formed before galaxies and stars. This is in contrast with most theories and measurements, which are, instead, supported by a model based on cold DM, consisting of particles which move at non-relativistic energies. Thus small-scale perturbations are not suppressed, allowing an early start of structure formation.
+
+
+
+ The Missing Matter Problem: From the Dark Matter Search to Alternative Hypotheses	153
+
+Secondly, we know that neutrino mass is rather small. The most recent upper bound on electron neutrino mass is mνe < 2 eV (95% c.l.) while the experimental limits on the muon and tau neutrino are even weaker. So neutrinos cannot explain the gravitational effects DM is responsible for. However, extremely, high energetic neutrinos are of interest for DM search as they are among the secondary particles created in the annihilation of other DM candidates.
+The most popular hypothesis is that non-baryonic DM consists of some neutral massive weakly interacting particles (WIMPs), which were created in the hot early Universe, decoupled early from ordinary matter in order to seed structure formation, and survived until today. They are supposed (from theoretical considerations and from the fact that they have not been detected yet) to be heavy respect to SM particles, with mass roughly between 10 GeV and few TeV. They interact via weak force and gravity only and are stable with a lifetime at least equal to the age of the Universe. Their relic density can be correctly calculated assuming that WIMPs were in thermal equilibrium with the SM particles in the early Universe. At the early stages, Universe was dense and hot. As the temperature T of the Universe cools, the density of more massive DM particles, with mass greater than T, become Boltzmann exponentially suppressed. When the expansion rate of the Universe, H, exceeds the particle annihilation/creation rate, the WIMPs drop out of thermal equilibrium, and the number density becomes "frozen". Presently the relic density of these particles is approximately given by
+ΩDMh2	3 × 10−26cm3 /sec
+
+0.110 ≈
+⟨σA
+,	(1)
+v⟩ann
+
+where σA is the total annihilation cross section, v is the relative velocity of WIMPs and the term in brackets is an average over the thermal distribution of WIMPs velocities. From a cosmological point of view, it is worth noticing that the proper value of ΩDMh2 density comes out from an annihilation cross section on the electroweak scale. This coincidence, obtained numerically, represents the main reason for believing that WIMPs give the largest contribution to the matter density in the Universe.
+The freeze out happens at temperature TF ≃ mDM /20 almost independently of the properties of the WIMPs. This means they are already non-relativistic at the decoupling.
+If we search beyond SM, well-motivated scenarios suggest good candidates. As neutralinos and Kaluza-Klein particles on which we are going to focus our discussion.
+
+WIMPs in supersymmetric extensions of the standard model
+This class contains a large amount of DM candidates, which are not predicted in the realm of the SM. In supersymmetric (SUSY) theories, each SM particle has a new yet-undiscovered partner whose spin differs by 1/2 with respect to the supersymmetric partner. In comparison to the mass eigenvalues in the SM, SUSY particles occur in linear combinations. The lightest
+possible combination (LSP) is the neutralino χ formed by the Bino B˜ , Wino W˜ and two
+Higgsino H˜ states, with a mass range mχ ∼ 10 GeV-TeV. The main ingredient necessary to
+provide a natural WIMP candidate in the SUSY models is the R-parity conservation defining the R-parity as:
+R = (−1)3(B−L)+2S ,
+
+
+
+
+
+where B is the baryon number, L the lepton number and S the spin of the particle. R = +1 for ordinary particles and R = −1 for SUSY particles. This means that SUSY particles can only be created or annihilated in pairs. By imposing the R-parity conservation, a selection rule on the SUSY particle decays prevents the LSP to decay to an ordinary particle guaranteeing the stability in terms of cosmological abundances. However, this straightforward mechanism has to be experimentally probed. Several indications at Large Hadron Collider (LHC), CERN, seem to exclude minimal SUSY models, so the search of these candidates is, up to now, completely open.
+
+Extra dimensions and Kaluza-Klein dark matter
+An alternative possibility for new weak-scale physics is to search for universal extra dimensions (UED). The motivation to consider UED models is that they provide an interesting and qualitatively different alternative to supersymmetry. The idea of the existence of extra spatial dimensions was introduced, for the first time, by Kaluza and Klein in the 1920’s. Such theories attempt to unify the two fundamental forces of gravitation and electromagnetism at the weak scales. Some models assume that all fields of SM propagate in “universal” extradimension. As a consequence, observers in the four-dimensional world see a tower of Kaluza Klein (KK) states for each SM particle (Kolb & Turner, 1990). The SM particles make up the first level of this tower and are referred to as the zero-th KK mode.
+Momentum conservation in the extra dimension leads, in the four dimensional world, to a conservation of KK number (NKK ), where the KK number of a particle is given by its mode number. All SM particles have NKK = 0 while the next most massive set of states have NKK = 1. Such KK excitations appear as particles with masses near the TeV scale. Due to conservation of momentum in the higher dimensions, a symmetry called KK parity can arise which can, in some cases, make the lightest KK particle (LKP) stable, in a way which is analogous to R-parity of SUSY models, making it possible for the LKP to be a viable DM candidate. Since DM particles are expected to be neutral, non-baryonic and without color, the first mode KK partners of the neutral gauge bosons or neutrinos are likely choices for the lightest Kaluza-Klein particle (LKP). The identity of the LKP depends on the mass spectrum of the first KK level. The LKP is, most naturally, the first KK excitation of the B1, the level 1 partner of the hypercharge gauge boson. It has been found that the appropriate relic density is predicted when the mass is moderately heavy, between 600 and 1200 GeV, somewhat heavier than the range favoured by supersymmetry. This range of LKP mass depends on the details of the co-annihilations of LKPs with heavier KK particles. Another difference between DM particles in universal extra dimensions and supersymmetry is that, unlike of LSP neutralino, the bosonic nature of the LKP means there is no chirality suppression of the annihilation signal in fermions. The annihilation rate of the LKP is therefore roughly proportional to the hypercharge of the final state, leading to a large rate in leptons, including neutrinos. The annihilation and co-annihilation cross-sections are determined by SM couplings and the mass spectrum of the first KK level. In contrast to supersymmetry, particles in UED have the same spin of the SM partners. As a result, the couplings become large and non-perturbative at energies far below the Planck scale. The detection of these kind of particles is also expected at LHC.
+
+
+
+ The Missing Matter Problem: From the Dark Matter Search to Alternative Hypotheses	155
+
+Methods of detection and experimental status
+There are three main strategies to search for DM particles. Assuming that DM consists of WIMPs i.e. particles which froze out from thermal equilibrium when they were no more relativistic, one would expect that due to the gravitational interaction, they should have clustered with ordinary matter to form an almost spherical halo around the galaxies. Measurements of rotation curves of a large number of spiral galaxies have suggested the existence of a dark halo more extended than the visible disk. Despite the measurement in case of Milky Way is more difficult and suffers of larger uncertainties, the presence of a halo has been confirmed (Merrifield, 1992). Thus, if DM exists, it should be present also in the Milky Way and a consistent flux of WIMPs is expected to cross the Earth surface. The WIMPs of the dark halo, although with a very low cross section, interact with ordinary matter inducing atomic recoils. The measurement of these rare recoils through their energy deposit, carefully discriminated from the background, is performed by direct techniques.
+Another method for DM detection is carried out by indirect techniques, which aims to observe the products of WIMPs annihilation process, as gamma rays, neutrinos, anti-matter cosmic rays occurring mainly inside astrophysical objects.
+A third possibility is at particle colliders: here DM may be produced through the SM SM
+→ XX process where SM denotes a standard model particle and X represents the WIMP. Such events are, in general, undetectable but are typically accompanied by related production mechanisms, such as SM SM → XX + “SM” , where “SM” indicates one or more standard model particles. These events are instead observable and should provide signatures of DM at colliders as LHC.
+
+WIMPs direct detection
+When a WIMP of a certain mass mX scatters elastically a nucleus of mass mN , the nuclear recoil occurs at an angle θ with respect to the WIMP initial velocity, with cos θ uniformly distributed between -1 and 1 for the isotropic scattering that occurs with zero-momentum transfer. If the WIMP initial energy in the lab frame is Ei = MXv2/2, the the nucleus recoils (in the lab frame)
+
+(1 − cos θ)
+4μ2
+  4MX MA 
+
+with energy ER = Eir
+where r ≡ M M
+=
+(MX
++ MA
+)2 . Note that r ≤ 1, with
+
+r = 1 only if MX = MA. For this isotropic scattering, the recoil energy is therefore uniformly
+distributed between 0 − Eir.
+Since typically the mean WIMP velocity is v ≃ 220km/s (Bernabei et al., 1998b), we can easily estimate that the maximum energy transfer from a WIMP to an electron, initially at rest, is at most in the eV range, while the energy transfer to an atomic nucleus would typically be in the range of tens of keV. This requires to use low threshold detectors, which are sensitive to individual energy deposits of this order of magnitude. In order to compute the WIMP-nucleon interaction rate, one needs the cross-section and the local density of WIMP. Details of this calculations can be found in e.g. (Lewin & Smith, 1996; ?). We report here only the final expression
+
+ dN
+=
+local
+DM F2(q)
+v2  f (v)
+dv
+
+dER
+2μ2 mX
+v1	v
+
+
+
+
+
+where ρlocal is the local WIMP density, μ is the reduced mass of the WIMP nucleus system and f (v) accounts the velocity distribution of WIMPs in the galactic halo. The lower and upper limit of the integral represent respectively the minimum WIMP velocity to produce a recoil of energy Er , and the maximum WIMP velocity set by the escape velocity of the halo model. F(q) is a dimensionless factor form and σ0 is the WIMP-nucleus interaction cross-section. This cross section depends strongly on the form of the interactions of the DM particles. It may happen that the WIMP-nucleus cross-section is not sensitive to the spin of the nucleus; in such a case we refer to spin-independent interactions; otherwise, WIMPs couple dominantly to the nucleus spin and this is the case of a spin-dependent interaction. The WIMP-nucleus cross section, may be written in terms of a spin-independent (mostly scalar) and a spin-dependent (mostly axial vector) component. For the former, the interaction will be coherent across the nucleons in the nucleus, while the latter term will only be present for nucleons with nuclear spin 29 or 82 or 83). In most cases, the coherent term is dominant since it is proportional to A2 where A is the atomic number of nucleus, which favours heavy nuclei. Nevertheless, for very heavy nuclei, as the recoil energy increases, account must also be taken of the nuclear form factor, which may suppress the differential scattering rate significantly as shown in Fig.1. The curves are obtained assuming the spin independent coupling dominant, a standard halo model and choosing a WIMP mass of 100 GeV (Baudis, 2007).
+
+−2
+10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+−3
+10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+−4
+10
+
+
+
+
+
+
+0	10	20	30	40	50	60	70	80
+Recoil Energy [keV]
+
+Fig. 1. Differential WIMP recoil spectrum for a WIMP mass of 100 GeV and a WIMP-nucleon cross section σ = 10−43 cm2. The spectrum was calculated for Si (light solid), Ar (light
+dot-dashed), Ge (dark solid), Xe (dark dashed) (Baudis, 2007).
+The differential WIMP event rate versus the recoil energy expected for single isotope targets of 131Xe (similar for 129I), 73Ge, 28Si and 40Ar is shown. It can be noticed that for a given cross section for WIMP-nucleon interactions, the interaction rate decreases for smaller nuclei because of a combination of smaller coherence enhancement (∼ A2) and the less effective transfer of recoil energy to a target that is lighter than the WIMP. It is also evident that the recoil spectrum for the heavier Xe nucleus is suppressed significantly by the loss of coherence
+
+
+
+ The Missing Matter Problem: From the Dark Matter Search to Alternative Hypotheses	157
+
+Laboratory
+	Depth (m.w.e.)
+	Experiment
+	
+	Soudan, US
+	2000
+	CDMS/SuperCDMS, CoGeNT
+	
+	Yangyang, Korea
+	2000
+	KIMS
+	
+	Kamioka, Japan
+	2700
+	XMASS,SuperKamiomkande
+	
+	Bulby, UK
+	3200
+	ZEPLIN
+	
+	LNGS, Italy
+	3500
+	DAMA, CRESST, WARP, XENON100
+	
+	Modane, France
+	4800
+	EDELWEISS
+	
+	SNOLab, Canada
+	6000
+	PICASSO, DEAP/CLEAN
+	
+	Table 1. Underground laboratories housing DM experiments. The approximate effective shielding depth is mesured in meters of water equivalent (mwe).
+for higher q2 scattering events (form factor suppression). A low analysis threshold is therefore important to maximise the effective search sensitivity of a given detector mass. The influence of threshold energy is even greater for lower-mass WIMPs, where the recoil spectrum slope becomes steeper because of the reduction in typical kinetic energy of the WIMPs. The interaction rate can be calculated within the Minimal SUSY models, but the predicted WIMP-nucleon interaction cross section spans many orders of magnitude. Typical values for the spin-independent cross section are between 10−6 pb and 10−11 pb (de Austri et al., 2006).
+In the recent years, an inelastic dark matter (iDM) model has been proposed as a modification of the elastic WIMP model. iDM model assumes that WIMPs scatter off baryonic matter by simultaneously transitioning to an excited state at an energy δ above the ground state (χN → χ∗ N), while elastic scattering is forbidden or highly suppressed. This fact introduces a minimum velocity for WIMPs to scatter in a detector with a deposited energy Enr.
+
+A review of experiments
+The nature of WIMPs makes their detection a hard task. A typical WIMP mass ranges between 10 GeV and few TeV according to the model chosen and the signal, to be detected in terms of deposit energy of the nuclear recoil, is of the order of tens keV. Within the MSSM models, the cross section interaction rates induce at most 1 evt day−1kg−1 in the detector, so large target masses and low background detectors are required. Typical background from environmental radioactivity and cosmic radiation are much higher with respect to these low expected rates and experimental purposes need underground laboratories to shield cosmic ray induced backgrounds, and for the selection of extremely radio-pure materials.
+Worldwide, a large number of underground laboratories exists, many of them house present and/or future DM experiments (see Tab. 1).
+Three different detection principles are at the basis of most particle detectors:
+ionizing effect of a particle interaction;
+scintillation light from electronic excitation;
+thermal signal from lattice vibrations.
+A great number of experiments performing one or a combination of the mentioned techniques have been realised throughout the years, mainly divided into two categories: single and double modality. Concerning the former, such experiments must work in ultra-low background conditions because they are not able to perform background rejection. Each event,
+
+
+
+
+
+which falls in the acceptance window of the detector is accepted as a DM candidate with its own deposit energy measurement. For instance CREEST I and CoGeNT belongs to this class of experiments. CRESST I was the first phase of the CRESST experiment and consisted of a cryogenic bolometer based on saphire crystals as target material operating below 10 mK. This technique provides a threshold energy on nuclear recoils of the order of 0.5-0.6 keV, much lower than the minimum thresholds set by other experimental methods. Anyway the reduced target mass (262 g) limit its sensitivity. The CoGeNT experiment uses a single, 440g, high-purity germanium crystal cooled to liquid nitrogen temperatures in its measurements. The detector has the advantage of a very low energy threshold (<0.5 keV) which allows it to search for nuclear recoil events due to DM particles of relatively low mass (> GeV/c2). In addition to a low-background configuration, the detector is able to distinguish and reject background events from the surface by measuring the risetime of the detector’s signals. The CoGeNT detector is sensitive only to the ionisation charge from nuclear recoils and sets limits on the mass and interaction cross-section of DM particles by excluding any candidate mass and cross-section pair that would result in a signal above the background of the detector.
+The CoGeNT collaboration has recently announced their results on 15 months of data, including the measurement of the spectrum of nuclear recoil candidate events, and the time variation of those events (Aalseth et al., 2011a). These results appear consistent with the signal anticipated from a relatively light DM particle scattering elastically with nuclei. The observed spectrum and rate is consistent with originating from DM particles with a mass in the range of 4.5-12 GeV and an elastic scattering cross section with nucleons of approximately ∼ 10−40 cm2 (Hooper & Kelso, 2011). In early 2010, the CoGeNT collaboration reported the observation of ∼100 events above expected backgrounds over a period of 56 days, with ionisation energies in the range of approximately 0.4 to 1.0 keV (Aalseth et al., 2011b). Concerning the double modality, all the experiments able perform energy measurements and background discrimination of the electron recoils, belong to this category. The most important results come from CDMS and EDELWEISS. The Cryogenic DM Search (CDMS in the Soudan Underground Laboratory) has developed a ionisation/phonon technique which allows a high efficient event by event discrimination between electron and nuclear recoils, based on the simultaneous record of inciting and phonon signal in the Ge and Si detectors packed in towers, operating at 40 mK. The recoil energy threshold is 10 keV. Recently, results have been presented from a re-analysis of the entire five-tower data set acquired with an exposure of 969 kg-days (Ahmed et al., 2011) with a recoil energy extended to 150 keV and an increased sensitivity of the experiment to the inelastic DM (iDM) model. Three DM candidates were found between 25 keV and 150 keV where the probability to observe three or more background events in this energy range is 11%. The CDMS program goes on with a future installation of the SuperCDMS setup at the new deep SNOLab laboratory, with 100 kg of detectors. EDELWEISS experiment (in the Modane Underground Laboratory) is conceptually based on the same idea as CDMS, with 300g germanium monocrystals as target. The typical recoil energy ranges from a few keV to few tens of keV. This recoil is measured at the same time with a heat channel, and a ionisation channel. The energy threshold reaches 10 keV. The EDELWEISS-II experiment has carried out a direct WIMP search with an array of ten 400 g Inter-Digit detectors, achieving an effective exposure of 322 kg days. The best sensitivity achieved in the elastic spin-independent WIMP-nucleon cross-section is 5 × 10?8 pb for a WIMP mass of 80 GeV . The results are detailed in (Armengaud, 2010).
+
+
+
+ The Missing Matter Problem: From the Dark Matter Search to Alternative Hypotheses	159
+
+Exploiting the noble gas properties at low temperatures, both scintillation and ionisation signal can be detected by noble liquid detectors. Argon and Xenon at below 88K and 165K respectively behave as dense liquids with good scintillation yield of about 40×103 photons/MeV and good electron mobility. The particle interaction in the liquids ionises the medium and produces excited states of the gas atoms, which generate a luminescence signal. There are two excited states both for Ar and Xe (a singlet and a triplet) which differ in lifetime, quite enough to be measured by using a pulse shape discrimination analysis. The noble liquid detectors operate in a dual phase mode: the noble element (in the form of liquid and gas state) is saved in a vessel equipped with an array of photomultiplier. The interaction within the liquid phase produces a first direct scintillation signal, called S1, while, the produced ionisation electrons are drifted toward the liquid-gas interface, by means of a strong electric field applied in the volume. A second light signal S2 is emitted due to the difference of amplitude of the electric fields in both phases. By measuring the relative timings of the different signals, the position of the primary interaction may be reconstructed. Furthermore, since the ionisation yield is smaller for nuclear recoils, the S2/S1 ratio is used to distinguish nuclear from electron recoils.
+The XENON10 experiment uses this technology, with PMT arrays both in the gas and liquid phase. The nuclear recoil energy threshold is 4.5 keV and the effective event rate in region of interest (4.5-29.6 keV) after all fiducial cuts is around 2 × 10−3 /keV/kg/day (Angle et al., 2008).
+Xenon10 Collaboration has reported results of a search for light DM particle ( 10 GeV) with a sensitivity threshold of 1.4 keV. Considering spin-independent dark matter- nucleon scattering, a cross sections σn > 3.5 × 10−42cm2 is excluded, for a dark matter particle mass mχ= 8 GeV (Angleet al., 2011).
+XENON100 is one of the successor projects of XENON10. The experimental setup has been enlarged and much care has been taken to reduce the background. The XENON100 experiment has recently completed a DM run with 100.9 live-days of data, taken from January to June 2010. A total of three events have been found in the fiducial volume analyzed, compatible with the background prediction of (1.8 ± 0.6) events (Aprile et al., 2011).
+The WARP collaboration has built a dual-phase prototype liquid Argon with a fiducial mass of 1.8 kg which achieved a good discrimination of the 39Ar background and reached a background rate of 2 × 10−3 /keV/kg/day after discrimination in the 20-40 keVee 1 range. The WARP collaboration has also produced a large (order of 100 kg) detector at Gran Sasso with a massive active liquid argon shield, but unforeseen technical difficulties seem to prohibit a timely start of the experiment. In the dual phase detectors the major part of the discrimination power comes from the pulse shape. On this basis, a single phase liquid Argon project has been proposed and two detectors, DEAP 3600 and MiniClean with fiducial masses of 1000 kg and 100 kg respectively are under construction at SNOLAB. The pulse-shape based discrimination is expected to provide a sufficient electron recoil background reduction to completely suppress the intrinsic radioactivity, but it is also being considered to fill the detector with argon extracted from underground sources which are depleted in 39Ar by a factor of 20 or more.
+
+1 keV electron-equivalent.
+
+
+
+
+
+In the last years a new experiment, called DarkSide (A. Wright, n.d.) has been proposed by a Chinese, Italian, Russian and US Collaboration. It consists of a large depleted argon TPCs for direct DM searches at LNGS. The innovations proposed make DarkSide a detector of unprecedent background-free performance. The mechanical design is in progress. The installation will start in summer 2012. The detector will reach, in 3 years background free operation, a cross-section sensitivity of 1.5 × 10−45 cm2 for WIMP-nucleon scattering, competitive with the projected sensitivity of other present experiments.
+Other projects are based on superheated liquids, used in particle detectors early on in the form of bubble chambers. The PICASSO project is based on this technology, but instead of a monolithic bubble chamber, the detectors consist of tiny droplets immersed in a gel matrix. In appropriate temperature and pressure conditions, the interacting particle creates a bubble in the target volume. The operation conditions can be tuned in a way that the detector is sensitive only for nuclear recoils while is essentially blind to gamma rays and cosmic muon induced events with small energy deposit. The advantage of this technology are the relatively low costs and simple detector production, while a clear disadvantage is that there is no energy information available. PICASSO has operated several of these detectors with a total volume of 4.5 l, containing of order of 70 g of the main WIMP target fluorine each. With this target the experiment is mainly sensitive to spin-dependent WIMP-nucleon interactions. PICASSO reported results on the limits obtained on the spin-dependent cross section for WIMP scattering on 19 F, setting a limit for WIMP interactions on protons of 0.16 pb (90% CL).
+The largest operating experiment for DM direct search is DAMA (Bernabei et al., 2004) which is based on about 10 kg of scintillating radiopure NaI(Tl) crystals readout by photomultiplier’s in a well shielded and controlled environment. Although the scintillation light is detected, a signal shape discrimination can be performed at a reasonable level so the energy evaluation can be coupled to a discrimination method. The large mass and low background allow to investigate the presence of DM exploiting the model independent annual modulation signature.
+Since NaI does not provide a strong event-by-event discrimination of electron recoil background, DAMA follows a unique strategy to still get a handle on the background: the Sun orbits our galaxy with a velocity of ∼ 220 km/s, while the earth rotates around the sun with ∼ 30 km/s. Assuming the DM halo around our galaxy has no net angular momentum, the relative velocity of WIMPs respect to the detector changes over the course of the year. For a given energy threshold this would lead to an annual modulation of the interaction rate with a known phase. DM particles from the Galactic halo are hence expected to show an annual modulation of the event rate induced by the Earth’s motion around the Sun (Drukier et al., 1986). DAMA reported an effect of annual modulation of the count rate at low energies, which attributes to a WIMP signal at 6.3σ. This annual fluctuation in the background rates occurs near threshold, in the 2-6 keV region where the pulse shape discrimination start to fail. The variation is well fitted by the cosine function expected for the WIMP signal with a period T = 0.999 ± 0.002 year, i.e. very close to one year, with a phase t0 = 146 ± 7 days, which is very close to the signal modulation expected for WIMPs (152.5 days or 2nd of June), and with an amplitude of 0.0131 ev/kg/keV/day. The observed modulation amplitude is (0.0200 ± 0.0032) cev/kg/keV/day with a phase of t0 = (140±22) days and a period of (1.00±0.01) year. In the meanwhile, the DAMA collaboration has upgraded the detector to 250 kg NaI(Tl) called
+
+
+
+ The Missing Matter Problem: From the Dark Matter Search to Alternative Hypotheses	161
+
+DAMA/LIBRA which started the operations in 2003. The combination of all DAMA/NaI and DAMA/LIBRA data shows a statistically compelling (8σ) modulation signal at low energies (2-4 keV), compatible with a WIMP interpretation. The DAMA group has not found any modulation effect in the region of energies above 90 keV. If the effect is caused by variation of the Compton background in the 2 6 keV energy bin it must reveal itself also for the gammas with energies >90 keV. However, other experiments have excluded the region of the allowed parameters MW and σp derived by DAMA from the modulation effect.
+
+
+Fig. 2. Experimental results and SUSY predictions for WIMP nucleon cross sections versus WIMP mass 1-ZEPLIN-II, 2-DAMA/LIBRA, 3-EDELWEISS, 4-ZEPLIN-III 1st phase,
+5-CDMS, 6-CDMS, 7-Xenon10, 8-ZEPLIN-III 2D phase, 9-XMASS , 10-Xenon100 , 11-LUX,
+12-Xenon1t , LZS , MAXG2LXe, 13-LZD, MAXG3LXe and 14-SUSY predictions.
+The experiments on WIMP search over the last years have put the limits on the spin-independent cross-section already below 10−7 pb. The ultimate goal of DM search experiments is to reach sensitivities down to 10−12 pb. This will allow to probe the whole MW and σp parameter space of SUSY predictions. This goal can be achieved only with the use of next-generation detectors of the ton scale and ultimately of the multi-ton scale.
+
+Indirect detection
+After freeze out, DM pair annihilation becomes largely suppressed. However, even if its impact on the DM relic density is negligible, DM annihilation continues and may be observable. Thus, DM particle are expected to either annihilate or decay into SM particles like γ-rays, neutrinos and matter-antimatter particles in the final state and the detection of annihilation products is usually referred to as indirect DM detection.
+Indirect searches look for the excesses of annihilation products in the diffuse background or from point sources. In particular, concerning charged products, the search is devoted to the
+
+
+
+
+
+antimatter component due to the large amount of primary matter component in the cosmic rays.
+There are several methods for DM indirect detection. Their relative sensitivities are highly dependent on what WIMP candidate is being considered, and the systematic uncertainties and difficulties in determining backgrounds also vary greatly from one method to another.
+High WIMP density regions, e.g. the centers of galaxies, but also the core of astrophysical objects such as Sun and Earth, are expected to accumulated large amount of WIMPs. When WIMPs pass through the Sun or the Earth or the galactic center, they may scatter and be slowed below escape velocity. In this way, they may become gravitationally bound in these gravitational wells. Over the age of the solar system, their densities and annihilation rates are greatly enhanced.
+Although γ-rays, positrons and anti-protons produced in these annihilations do not escape the Sun or the Earth, neutrinos would be able in this because of their high penetration ability.
+These neutrinos can travel to the surface of the Earth, where they may convert to charged leptons through νq → lq′ and the charged leptons may be detected. The resulting neutrino flux could be detectable as a localised emission with earth-based neutrino telescopes by exploiting the Cherenkov light produced by the charged lepton.
+Searches for neutrinos are unique among indirect searches since they are, under certain assumptions, probes of scattering cross sections, not annihilation cross sections, and so are competitive with the direct detection searches.
+In the Sun both spin-independent as well as spin-dependent scattering can lead to the capture of DM. Among nuclei with a net spin, hydrogen is the only one present in the Sun in significant proportions. Other trace elements in the Sun generally have no net spin, and even when they do, there is no A2 enhancement in the cross section coherent term because of their low density fraction. Therefore, the only relevant quantity for spin-dependent capture is the WIMP-proton cross section. Spin-independent capture, on the other hand, receives contributions from several elements. In fact, the cross section for spin-independent WIMP-nucleus scattering is strongly enhanced by large A. Therefore, even though the heavier elements in the Sun are rarer, this enhancement makes their contribution to the capture rate significant. In particular, oxygen plays the most important role in spin-independent capture of WIMPs in the Sun.
+Neutrino telescopes could probe direct search observation. In fact, the signals observed at the direct detection experiments DAMA, CoGeNT and CRESST could be explained by light WIMPs with sizeable spin-independent cross sections with nucleons. The capture and subsequent annihilation of such particles in the Sun would induce neutrino signals in the GeV range which may be observed at Super-Kamiokande(Superkamiokande website, n.d.).
+Actually, detection of these neutrinos in the range 10GeV < Eν < 1TeV by large neutrino detectors such as SuperKamiokande , AMANDA (AMANDA website, n.d.) and IceCube (IceCube website, n.d.) so far provides only upper limits on the high energy neutrino flux from the center of the Sun or the Earth (see (Kundu & Bhattacharjee, 2011)).
+Future neutrino searches at Super-Kamiokande may have lower thresholds and so provide leading bounds on low mass WIMPs. In this way, Super-Kamiokande may test the DAMA
+
+
+
+ The Missing Matter Problem: From the Dark Matter Search to Alternative Hypotheses	163
+
+and CoGeNT signal regions at high σSI and mX ∼ 1 - 10 GeV (Feng et al., 2009; Hooper et al., 2009; Kumar et al., 2009).
+Moreover installing DeepCore, also IceCube significantly lowers its energy threshold and enhances the ability of detecting neutrinos from light WIMP annihilation.
+Unlike other indirect DM searches this method does not depend strongly on our galaxy’s DM halo profile or on the distribution of DM substructure.
+The event rate depends on the DM density in the Sun, which in turn is dictated by the cross section of WIMPs with nucleons. This is constrained by direct detection experiments. The neutrino flux depends on the WIMP density, which is determined by the competing processes of capture, that is from the scattering cross section, and annihilation. Moreover the differential neutrino flux depends also on the way in which neutrinos are produced. Assuming that
+WIMPs annihilate to bb¯ or W+W− which decay to neutrinos, as in many neutralino models,
+the neutrino signal is completely determined by the scattering cross section. For the majority of particle physics models considered (e.g., supersymmetry or KK models), the WIMP capture and annihilation rates reach or nearly reach equilibrium in the Sun. This is often not the case for the Earth. First, the Earth is less massive than the Sun and, therefore, provides fewer targets for WIMP scattering and a less deep gravitational well for capture. Secondly, in the Earth spin-independent interactions may occur. For these reasons, it is unlikely that the Earth will provide any observable neutrino signals from WIMP annihilations in any planned experiments.
+If the annihilation occurs in free space, other types of radiation can be detected. The DM particles annihilating within the halo, can arise production of SM particles associated with the emission of γ ray with energies of the order of the DM particle mass. Thus, the γ-ray emission associated with such annihilation provides a chance for DM particles detection. The most striking gamma ray signal would be mono-energetic photons from χχ → γγ, but since WIMPs cannot be charged, these processes are typically loop-induced or otherwise highly suppressed. More commonly, gamma rays are produced when WIMPs annihilate to other particles, which then radiate photons, leading to a smooth distribution of gamma ray energies. If gammas arise together with other particles, we only would expect some enhancement of the spectrum below the WIMP mass. The main difficulty in the extraction of information about DM from the annihilation photons is the presence of large and uncertain gamma-ray backgrounds. On the other hand, photons point back to their source, providing a powerful diagnostic. Possible targets for gamma ray searches are the center of the Galaxy, where signal rates are high but backgrounds are also high and potentially hard to estimate, and dwarf galaxies, where signal rates are lower, but backgrounds are also expected to be low. Moreover, for most particle DM candidates, γ-rays would be accompanied by neutrinos, thus neutrino experiments could help to confirm whether the γ flux originates from DM annihilations or from other astrophysical sources.
+Another difficulty for DM search with γ arises from the fact that the DM gamma ray emission is expected to be a function of the DM density profile, which is not experimentally known. The most adopted density profile models are the Navarro-Frenk-White profile for which:
+
+ρ(r) = 	ρ0	
+ r  (1 +  r  )2
+(2)
+
+Rs	Rs
+
+
+
+
+
+where ρ0 and Rs, are parameters which vary from halo to halo, and the Einasto profile for which:
+ρ(r) ∝ exp(−Arα )	(3)
+The parameter α controls the degree of curvature of the profile.
+The expected energy integrated γ-ray flux from a region of volume V at a distance D with DM density ρ is:
+⟨σv⟩	1   ∫	ρ2
+/ /
+where Nγ is the number of γ-rays per collision, m is the DM particle mass and ⟨σv⟩ is the velocity-weighted annihilation cross-section. The current cosmological DM density is set by their annihilation rate in the early Universe. This provides a natural value for the annihilation cross-section of ⟨σv⟩ ∼ 3 × 10−26 cm3s−1.
+Obviously, the higher ρ the better, so that the annihilation radiation is searched for in the most dense regions of the Milky Way (MW).
+The improvement of the Galactic diffuse model as well as the potential contribution from other astrophysical sources could provide a better description of the data.
+γ-ray observations, in particular, at very high energies where DM masses of a few 100 GeV and above are probed, are a promising way to detect DM by space-based experiments, such as Fermi and AMS, and by ground-based atmospheric Cherenkov telescopes.
+H.E.S.S. is an array of four Imaging Atmospheric Cherenkov Telecopes (IACTs) that uses the atmosphere as a calorimeter and images electromagnetic showers induced by TeV γ-rays (Hofmannetal, 2004).
+H.E.S.S. Collaboration performed searches for a very-high-energy (VHE; ≥ 100 GeV) γ-ray signal from annihilation of DM particles, towards the Galactic center, the Sagittarius Dwarf galaxy and hypothetical DM spikes that could have formed around Intermediate Mass Black Holes (IMBHs).
+The γ-ray energy spectrum in the range between 300 GeV and 30 TeV after the background suppression shows no any convincing evidence for γ-ray emission from self-annihilating DM. Limits on annihilating cross section for χ and B1 have been found constraining some models.
+For instance, limits on ⟨σv⟩ are derived as a function of the DM particle mass assuming Navarro-Frenk-White and Einasto density profiles. In particular, for the DM particle mass of ∼ 1 TeV, values for ⟨σv⟩ above 3 ×10−25cm3s−1 are excluded for the Einasto density profile (Abramowski et al., 2011).
+The Galactic center (GC) region is the main target for DM search, because of its proximity and its expected large DM concentration. However, the search for DM induced γ rays in the GC is affected by a strong astrophysical background. In fact, in the GC there is the compact γ-ray source HESS J1745-290 (Abramowski et al., 2011), coincident with the position of the supermassive black hole Sgr A* and a nearby pulsar wind nebula, which represents other sources of VHE γ-rays in the observed region, thus complicating the detection of γ-ray emission from DM annihilation.
+
+
+
+ The Missing Matter Problem: From the Dark Matter Search to Alternative Hypotheses	165
+
+VERITAS is a ground based Cherenkov telescope for gamma ray astronomy and has among other things searched for an enhancement of gamma rays from the center of neighboring dwarf galaxies without a positive signal so far (Weinstein et al., 2008).
+Data from the EGRET satellite in the energy range 20 MeV - 30 GeV, interpreted as

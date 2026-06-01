@@ -1,0 +1,1312 @@
+Total action
+	S =	d4x  −g  R  + F (U ) + Lmatter
+16πG
+	
+	6
+	gµν
+	Metric tensor
+	—
+	
+	7
+	Gµν
+	Einstein tensor
+	1
+Gµν = Rµν − 2 Rgµν
+	
+	8
+	Tµν
+	Stress-energy tensor
+	—
+	
+	9
+	∇µ 
+	Covariant derivative
+	—
+	
+	10
+	δU
+δgµν
+	Variation of U w.r.t. metric
+	 GM 
+— 2c2 r3 xµxν
+	
+	11
+	SEinstein
+	Black hole entropy in GR
+	 A 
+4ℓ2
+√P 
+	
+	12
+	ℓP
+	Planck length
+	ℏG	−35
+c3 ≈ 1.616 × 10	m
+	
+	13
+	G
+	Newton’s gravitational constant
+	−11  3  −1 −2
+6.674 × 10	m kg  s
+	
+	14
+	c
+	Speed of light
+	8
+2.998 × 10 m/s
+	
+	15
+	ℏ
+	Reduced Planck constant
+	−34
+1.055 × 10	Js		 
+	
+	16
+	Sentanglement
+	Modified entanglement entropy in AdS/CFT
+	Sentanglement =  A  + γ tanh  U 
+4G	U0
+	
+	17
+	α(k), γ(k)
+	Running couplings (RG flow)
+	−2
+α(k) ∼ k	,	γ(k) ∼ constant
+	
+	18
+	βα, βγ
+	Beta functions for RG flow
+	2	γ2
+βα = .−2α + O(α ),	βγ = 16π2 − γc 1
+√
+	
+	19
+	Γk
+	Effective average action
+	Γk =	d4x  −g  R  + F (U ) + · · ·
+16πG
+	
+	20
+	Rk
+	Regulator in FRG
+	—
+	
+	21
+	k
+	Energy scale
+	1
+k ∼ r 			 
+	
+	22
+	Veff(r)
+	Effective potential for QNMs
+	Veff(r) = VGR(r) + f (r) dF GM   1 − 2GM
+r2 dU c2 r2	c2 r
+	
+	23
+	r∗
+	Tortoise coordinate
+	dr∗ = dr
+f (r)
+	
+	24
+	ω
+	QNM frequency
+	ω = Re(ω) + i Im(ω)
+	
+	25
+	f (r)
+	Metric function
+	2GM
+f (r) = 1 −√c2 r + F (U )
+	
+	26
+	∆t
+	Echo time delay
+	∆t = 4GM  α
+c3
+	
+	27
+	H
+	Hubble parameter
+	H = a˙ ≈ 70 km/s/Mpc
+a
+	
+	28
+	H˙
+	Time derivative of H
+	H˙ = dH
+dt	. ∞
+	
+	29
+	ΩGW(f )
+	GW energy density
+	ΩGW(f ) =  f 	dN dEGW dz
+ρc  0  dz	df
+	
+	30
+	ρc
+	Critical density
+	3H2	−27	3
+ρc =   0 ≈ 9.47 × 10	kg/m
+8πΣG
+	
+	31
+	ln BF(U)/GR
+	Bayes factor for model comparison
+	ln B =	N  ln Li(di α, γ)
+i=1
+	
+	
+
+
+
+
+S. Nojiri and S. D. Odintsov, Physics Reports 505, 59 (2011).
+S. Capozziello and M. De Laurentis, Physics Reports 509, 167 (2011).
+T. Clifton, P. G. Ferreira, A. Padilla, and C. Skordis, Physics Reports 513, 1 (2012).
+T. P. Sotiriou and V. Faraoni, Reviews of Modern Physics 82, 451 (2010).
+A. De Felice and S. Tsujikawa, Living Reviews in Rela-tivity 13, 3 (2010).
+S. M. Carroll, V. Duvvuri, M. Trodden, and M. S. Turner, Physical Review D 70, 043528 (2004).
+W. Hu and I. Sawicki, Physical Review D 76, 064004 (2007).
+A. A. Starobinsky, Physics Letters B 91, 99 (1980).
+K. Bamba, S. Capozziello, S. Nojiri, and S. D. Odintsov,
+Astrophysics and Space Science 342, 155 (2012).
+E. J. Copeland, M. Sami, and S. Tsujikawa, Interna-tional Journal of Modern Physics D 15, 1753 (2006).
+R. Maartens and K. Koyama, Living Reviews in Rela-tivity 13, 5 (2010).
+A. Joyce, B. Jain, J. Khoury, and M. Trodden, Physics Reports 568, 1 (2015).
+K. Koyama, Reports on Progress in Physics 79, 046902 (2016).
+L. Amendola et al., Living Reviews in Relativity 21, 2 (2018).
+L. Amendola and S. Tsujikawa, Dark energy: Theory and observations (Cambridge University Press, 2010).
+T. Chiba, T. Okabe, and M. Yamaguchi, Physical Re-view D 62, 023511 (2000).
+G. Dvali, G. Gabadadze, and M. Porrati, Physics Let-
+
+12
+
+
+ters B 485, 208 (2000).
+G. W. Horndeski, International Journal of Theoretical Physics 10, 363 (1974).
+T. Kobayashi, M. Yamaguchi, and J. Yokoyama, Progress of Theoretical Physics 126, 511 (2011).
+A. Nicolis, R. Rattazzi, and E. Trincherini, Physical Re-view D 79, 064036 (2009).
+C. Deffayet, G. Esposito-Far`ese, and A. Vikman, Phys-ical Review D 79, 084003 (2009).
+K. Hinterbichler, Reviews of Modern Physics 84, 671
+(2012).
+C. de Rham, G. Gabadadze, and A. J. Tolley, Physical Review Letters 106, 231101 (2011).
+C. M. Will, Living Reviews in Relativity 17, 4 (2014).
+E. Berti et al., Classical and Quantum Gravity 32, 243001 (2015).
+N. Yunes and X. Siemens, Living Reviews in Relativity 16, 9 (2013).
+T. Baker et al., Nature Physics 11, 203 (2015).
+P. G. Ferreira, Annual Review of Astronomy and Astro-physics 57, 335 (2019).
+M. Ishak, Living Reviews in Relativity 22, 1 (2019).
+P. Bull et al., Physics of the Dark Universe 12, 56 (2016).
+L. Verde, T. Treu, and A. G. Riess, Nature Astronomy 3, 891 (2019).
+E. Di Valentino et al., Journal of High Energy Astro-physics 30, 49 (2021).
+L. Perivolaropoulos and F. Skara, New Astronomy Re-views 95, 101659 (2022).
+A. G. Riess et al., The Astrophysical Journal Letters 934, L7 (2022).
+Planck Collaboration, Astronomy & Astrophysics 641, A6 (2020).
+S. Weinberg, Reviews of Modern Physics 61, 1 (1989).
+P. J. E. Peebles and B. Ratra, Reviews of Modern Physics 75, 559 (2003).
+V. Sahni and A. A. Starobinsky, International Journal of Modern Physics D 9, 373 (2000).
+T. Padmanabhan, Physics Reports 380, 235 (2003).
+R. R. Caldwell, M. Kamionkowski, and N. N. Weinberg, Physical Review Letters 91, 071301 (2003).
+S. M. Carroll, Living Reviews in Relativity 4, 1 (2001).
+A. G. Riess et al., The Astronomical Journal 116, 1009 (1998).
+S. Perlmutter et al., The Astrophysical Journal 517, 565 (1999).
+J. A. Frieman, M. S. Turner, and D. Huterer, Annual Review of Astronomy and Astrophysics 46, 385 (2008).
+S. Weinberg, Cosmology (Oxford University Press, 2008).
+V. F. Mukhanov, Physical foundations of cosmology (Cambridge University Press, 2005).
+S. Dodelson, Modern cosmology (Academic Press, 2003).
+A. R. Liddle and D. H. Lyth, Cosmological inflation and large-scale structure (Cambridge University Press, 2000).
+J. A. Peacock, Cosmological physics (Cambridge Uni-versity Press, 1999).
+C. Rovelli, Quantum gravity (Cambridge University Press, 2004).
+A. Ashtekar and J. Lewandowski, Classical and Quan-tum Gravity 21, R53 (2004).
+M. Bojowald, Living Reviews in Relativity 8, 11 (2005).
+J. Polchinski, String theory: Volume 1, An introduc-tion to the bosonic string (Cambridge University Press, 1998).
+J. Maldacena, International Journal of Theoretical Physics 38, 1113 (1999).
+L. Susskind, Journal of Mathematical Physics 36, 6377
+(1995).
+M. B. Green, J. H. Schwarz, and E. Witten, Superstring theory: Volume 1, Introduction (Cambridge University Press, 1987).
+E. Witten, Physics Today 49, 24 (1996).
+A. Strominger and C. Vafa, Physics Letters B 379, 99 (1996).
+J. D. Bekenstein, Physical Review D 7, 2333 (1973).
+S. W. Hawking, Communications in Mathematical Physics 43, 199 (1975).
+R. Penrose, Physical Review Letters 14, 57 (1965).
+R. M. Wald, General relativity (University of Chicago Press, 1984).
+R. Geroch, Physical Review Letters 17, 445 (1969).
+F. Pretorius, Physical Review Letters 95, 121101
+(2005).
+T. W. Baumgarte and S. L. Shapiro, Numerical relativ-ity: Solving Einstein’s equations on the computer (Cam-bridge University Press, 2010).
+B. P. Abbott et al., Physical Review Letters 116, 061102 (2016).
+	Flanagan and S. A. Hughes, New Journal of Physics 7, 204 (2005).
+N. D. Birrell and P. C. W. Davies, Quantum fields in curved space (Cambridge University Press, 1982).
+W. G. Unruh, Physical Review D 14, 870 (1976).
+G. ’t Hooft, (1993), arXiv:gr-qc/9310026 [gr-qc].
+K. S. Thorne, Black holes and time warps: Einstein’s outrageous legacy (W. W. Norton Company, 1994).
+C. W. Misner, K. S. Thorne, and J. A. Wheeler, Grav-itation (W. H. Freeman, 1973).
+S. W. Hawking and G. F. R. Ellis, The large-scale struc-ture of space-time (Cambridge University Press, 1973).
+S. Weinberg, Gravitation and cosmology: Principles and applications of the general theory of relativity (Wiley, 1972).
+S. Chandrasekhar, The mathematical theory of black holes (Oxford University Press, 1983).
+B. F. Schutz, A first course in general relativity (Cam-bridge University Press, 1985).
+R. M. Wald, Quantum field theory in curved spacetime and black hole thermodynamics (University of Chicago Press, 1994).
+V. P. Frolov and I. D. Novikov, Black hole physics: Ba-sic concepts and new developments (Springer, 1998).
+R. Bousso, Reviews of Modern Physics 74, 825 (2002).
+S. Carlip, Reports on Progress in Physics 64, 885 (2001).
+C. Kiefer, Quantum gravity (Oxford University Press, 2007).
+C. Rovelli and F. Vidotto, Covariant loop quantum grav-ity: An elementary introduction to quantum gravity and spinfoam theory (Cambridge University Press, 2014).
+T. Thiemann, Modern canonical quantum general rela-tivity (Cambridge University Press, 2007).
+A. Ashtekar and J. Pullin, Loop quantum gravity: The first 30 years (World Scientific, 2017).
+L. Smolin, Three roads to quantum gravity (Basic Books, 2001).
+
+13
+
+
+B. Greene, The elegant universe: Superstrings, hidden dimensions, and the quest for the ultimate theory (W. W. Norton Company, 1999).
+B. Zwiebach, A first course in string theory (Cambridge University Press, 2004).
+K. Becker, M. Becker, and J. H. Schwarz, String the-ory and M-theory: A modern introduction (Cambridge University Press, 2007).
+J. Polchinski, String theory: Volume 2, Superstring the-ory and beyond (Cambridge University Press, 1998).
+C. V. Johnson, D-branes (Cambridge University Press, 2003).
+E. Kiritsis, String theory in a nutshell (Princeton Uni-versity Press, 2007).
+M. Kaku, Introduction to superstrings and M-theory (Springer, 1999).
+S. S. Gubser and J. D. Lykken, Strings, branes, and extra dimensions (World Scientific, 2004).
+M. J. Duff, International Journal of Modern Physics A 14, 815 (1999).
+A. Sen, (1998), arXiv:hep-th/9802051 [hep-th].
+E. Witten, Journal of High Energy Physics 1998, 019 (1998).
+P. Horava, Physical Review D 79, 084008 (2009).
+J. Ambjorn, J. Jurkiewicz, and R. Loll, Physical Review D 72, 064014 (2005).
+R. Loll, Classical and Quantum Gravity 37, 013002
+(2020).
+A. Ashtekar and P. Singh, Classical and Quantum Grav-ity 28, 213001 (2011).
+M. Bojowald, Living Reviews in Relativity 11, 4 (2008).
+C. Rovelli and L. Smolin, Physical Review D 52, 5743 (1995).
+A. Ashtekar and J. Lewandowski, Classical and Quan-tum Gravity 14, A55 (1997).
+T. Thiemann, Classical and Quantum Gravity 15, 839
+(1998).
+A. Perez, Living Reviews in Relativity 16, 3 (2013).
+D. Oriti, (2009), arXiv:gr-qc/0607032 [gr-qc].
+S. B. Giddings, Physical Review D 74, 066006 (2006).
+T. Banks and W. Fischler,	(1999), arXiv:hep-th/9906038 [hep-th].
+R. Bousso, Journal of High Energy Physics 1999, 004 (1999).
+A. Strominger, Journal of High Energy Physics 1998, 009 (1998).
+J. M. Maldacena, Advances in Theoretical and Mathe-matical Physics 2, 231 (1998).
+S. S. Gubser, I. R. Klebanov, and A. M. Polyakov, Physics Letters B 428, 105 (1998).
+E. Witten, Advances in Theoretical and Mathematical Physics 2, 253 (1998).
+O. Aharony, S. S. Gubser, J. M. Maldacena, H. Ooguri, and Y. Oz, Physics Reports 323, 183 (2000).
+J. Polchinski, Physical Review Letters 75, 4724 (1995).
+A. Sen, International Journal of Modern Physics A 9, 3707 (1994).
+M. J. Duff, International Journal of Modern Physics A 11, 5623 (1996).
+N. Seiberg and E. Witten, Nuclear Physics B 426, 19 (1994).
+E. Witten, Nuclear Physics B 443, 85 (1995).
+S. S. Gubser and I. R. Klebanov, Physics Letters B 413, 41 (1998).
+E. Witten, Advances in Theoretical and Mathematical Physics 2, 505 (1998).
+I. R. Klebanov and E. Witten, Nuclear Physics B 536, 199 (1998).
+J. M. Maldacena and C. Nunez, International Journal of Modern Physics A 16, 822 (2001).
+
+
+First Order Extended Gravity and the Dark Side of the Universe: the General Theory
+S. Capozziello∗, M. De Laurentis∗, M. Francaviglia† and S. Mercadante†
+∗Dipartimento di Scienze Fisiche, Università di Napoli "Federico II", and INFN Sez. di Napoli, Compl. Univ. di Monte S. Angelo, Edificio G, Via Cinthia, I-80126, Napoli, Italy
+†Dipartimento di Matematica, Università di Torino, and INFN Sez. di Torino, Via Carlo Alberto 10, 10123 Torino, Italy
+
+Abstract. General Relativity is not the definitive theory of Gravitation due to several shortcomings which are coming out both from theoretical and experimental viewpoints. At large scales (astro-physical and cosmological scales) the attempts to match it with the today observational data lead to invoke Dark Energy and Dark Matter as the bulk components of the cosmic fluid. Since no final evidence, at fundamental level, exists for such ingredients, it is clear that General Relativity presents shortcomings at infrared scales. On the other hand, the attempts to formulate theories more general than the Einstein one give rise to mathematical difficulties that need workarounds which, in turn, generate problems from the interpretative viewpoint. We present here a completely new approach to the mathematical objects in terms of which a theory of Gravitation may be written in a first-order (à la Palatini) formalism, and introduce the concept of Dark Metric which could completely bypass the introduction of disturbing concepts as Dark Energy and Dark Matter.
+Keywords: Dark matter, Dark energy, Dark metric, Gravitation
+PACS: 95.30.Sf-98.80.Jk
+
+INTRODUCTION
+Einstein’s General Relativity (GR) is a self-consistent theory which dynamically de-scribes space, time and matter under the same standard. The result is a deep and beau-tiful scheme which, starting from some first principles, is capable of explaining a huge number of gravitational phenomena, ranging from laboratory up to cosmological scales. Its predictions are well tested at Solar System scales and give rise to a comprehen-sive cosmological model that agrees with Standard Model of particles, with recession of galaxies, cosmic nucleosynthesis and so on. Despite of these good results the recent advent of the so-called Precision Cosmology and several tests coming from the Solar System outskirts (e.g. the Pioneer Anomaly), the self-consistent scheme of GR seems to disagree with an increasingly high number of observational data, as e.g. those com-ing from IA-type Supernovae, used as standard candles, large scale structure ranging from galaxies up to galaxy superclusters and so on. Furthermore, being not renormaliz-able, it fails to be quantized in any “classical” way (see [1]). In other words, it seems then, from ultraviolet up to infrared scales, that GR is not and cannot be the defini-tive theory of Gravitation also if it successfully addresses a wide range of phenomena. Many attempts have been therefore made both to recover the validity of GR at all scales, on the one hand, and to produce theories that suitably generalize the Einstein one, on the other hand. In order to interpret a large number of recent observational data inside
+
+the paradigm of GR, the introduction of Dark Matter (DM) and Dark Energy (DE) has seemed to be necessary: the price of preserving the simplicity of the Hilbert Lagrangian has been, however, the introduction of rather odd-behaving physical entities which, up to now, have not been revealed by any experiment at fundamental scales. In other words we are observing the large scale effects of missing matter (DM) and the accelerating behavior of the Hubble flow (DE) but no final evidence of these ingredients exists, if we want to deal with them under the standard of quantum particles or quantum fields. In Section 3 we shall argue whether, after all, it is really preferable the use of the sim-plest Lagrangian. An opposite approach resides in the so-called Non-Linear Theories of Gravity (NLTGs), that have been also investigated by many authors, in connection with Scalar-Tensor Theories (STTs). In this case, no ill-defined ingredients have to be required, at the price of big mathematical complications. None of the many efforts made up to now to solve this problem (see later) seem to be satisfactory from an interpretative viewpoint. What we shortly present here is a completely new approach to the mathemat-ical objects in terms of which a theory of Gravitation may be written, whereby Gravity is encoded from the very beginning in a (symmetric) linear connection in SpaceTime. At the end we shall nevertheless conclude that, although the gravitational field is a linear connection, the fundamental field of Gravity turns out a posteriori to be still a metric, but not the “obvious” one given from the very beginning (which we shall therefore call "apparent metric"). Rather we shall show the relevance of another metric, ensuing from the gravitational dynamics, that we shall call Dark Metric since we claim it being a possible source of the apparently “Dark Side” of our Universe which reveals, at large scales, as missing matter (in clustered structures) and accelerating behavior (in the Hub-ble fluid). To complete our program, we need first to recall some facts regarding different (relativistic) theories of Gravitation. This will not be an historical compendium, but just a collection of speculative hints useful to our aims.
+
+HISTORICAL REMARKS
+Einstein devoted more than ten years (1905–1915/1916) to develop a theory of Gravi-tation based on the following requirements (see [3]): principle of equivalence (Gravity and Inertia are indistinguishable; there exist observers in free fall, i.e. inertial motion under gravitational pull); principle of relativity (SR holds pointwise; the structure of SpaceTime is pointwise Minkowskian); principle of general covariance (“democracy” in Physics); principle of causality (all physical phenomena propagate respecting the light-cones). Einstein, who was also deeply influenced by Riemann’s teachings about the link between matter and curvature, decided then to describe Gravity by means of a (dynamic) SpaceTime M endowed with a dynamic Lorentzian metric g. This appeared to be a good choice for a number of reasons: a metric is the right tool to define mea-surements (rods & clocks); the geodesics of a metric are good mathematical objects to describe the free fall; a Lorentzian manifold is pointwise Minkowskian; it is suitable to be the domain of tensor fields; is compatible with a light-cones structure. And, after all, at that time, there was no other geometrical field that Einstein could use to define the curvature of a differentiable manifold!
+
+Following this approach, Einstein deduced his famous equations:
+G :≡ R − 1 R(g) g = 8 GT
+
+A linear concomitant of the Riemann tensor of g, nowadays called the Einstein tensor
+G, equals the stress-energy tensor T :≡  Lmat that reflects the properties of matter.
+Here R is the Ricci tensor of the metric g and R(g) :  g R is the scalar curvature of the metric, while Lmat Lmat ds is the matter Lagrangian and G is the coupling constant. In other words, the distribution of matter influences Gravity through 10 second-order field equations. Their structure, in a sense and mutatis mutandis, is the same as Newton second law of Dynamics: no forces means geodesic motion, while the effects of sources are to produce curvature (just in motion in the Newtonian case, where the Space and Time are fixed and immutable; both in the structure of SpaceTime and in its motions in the Einstein case). GR has been a success: it admits an elegant and very
+simple Lagrangian formulation (LH :  R(g) √g ds) and most of its predictions have
+been soon experimentally verified and these have remained valid for many years after its introduction. So there was no reason for Einstein to be unhappy with his beautiful creation, at least for some time. In GR, is g the gravitational field? Einstein knew that it is not, since g is a tensor, while the principle of equivalence holds true and implies that there exist frames in which the gravitational field can be inertially switched off, while a tensor cannot be set to vanish in a frame, if it does not vanish in all frames. Free fall is, in fact, described by the geodesics of (M, g):
+x¨ +  (g)x˙ x˙ = 0	(1)
+and Einstein himself argued that the right objects to represent the gravitational field have to be the Christoffel symbols   (g); the metric g is just the potential of the gravitational field, but being Christoffel symbols algorithmically constructed out of g, the metric remains the fundamental variable: g gives rise to the gravitational field, to causality, to the principle of equivalence as well as to rods and clocks. In 1917, working on the theory of “parallelism” in manifolds, T. Levi-Civita understood that parallelism and curvature are non-metric features of space, but rather features of “affine” type, having to do with “congruences of privileged lines” (see [4]). Generalizing the case of Christoffel symbols
+  (g) of a metric g, Levi-Civita introduced the notion of linear connection as the most
+general object   such that the equation of geodesics (autoparallel curves, in fact)
+x¨ +  x˙ x˙ = 0	(2)
+is generally covariant. This revolutionary idea (that stands in fact at the heart of Non-Euclidean Geometries) was immediately captured by Einstein, who, unfortunately, did not further use it up to its real strength. We shall come back later on this topic, as this work is strongly based on it. Even if it was clear to Einstein that Gravity induces “freely falling observers” and that the principle of equivalence selects, in fact, an object that cannot be a tensor, since it is capable of being “switched off” and set to vanish at least in a point, he was obliged to choose it under the form of the linear connection LC(g), given
+
+locally by Christoffel symbols of g, now called the Levi-Civita connection (of g), fully determined by the metric structure itself. Einstein, for obvious reasons, was very satisfied of having reduced all SpaceTime structure and Gravity into a single geometrical object. Still, in 1918, H. Weyl tried (see [5]) to unify Gravity with Electromagnetism, using for the first time a linear connection defined over SpaceTime, assumed as a dynamical field non-trivially depending on a metric. Weyl’s idea failed because of a wrong choice of the Lagrangian and few more issues, but it generated however a keypoint: connections may have a physically interesting dynamics. Einstein soon showed a great interest in Weyl’s idea. He too began to play with connections, in the obsessed seek for the “geometrically” Unified Theory. But he never arrived to “dethronize” g in the description of the gravitational field. Probably, in some moments, he was not so happy with the fact that the gravitational field is not the fundamental object, but just a by-product of the metric; however, he never really changed his mind about the role of g. In 1925 Einstein constructed a theory that depends on a metric g and a symmetric linear connection
+ , to be varied independently (the so-called, because of a misunderstanding with W. Pauli, Palatini method; see [6]); he defined in fact a Lagrangian theory in which the gravitational Lagrangian is
+LPE :≡ R(g,  ) √gds,	(3)
+There are now 10 + 40 independent variables and the field equations, in vacuum, are:
+
+1
+R	− /R(g  )g = 0
+
+ (√gg) = 0
+
+(4)
+
+where R() is the symmetric part of the Ricci tensor of  R ( ,  ) and  denotes covariant derivative with respect to  .
+Since the dimension of spacetime is greater than 2, the second field equation (4)2 constrains the connection  , which is a priori arbitrary, to coincide a posteriori with the Levi-Civita connection of the metric g (Levi-Civita theorem). By substituting this information into the first field equation (4)1, the vacuum Einstein equation for g is eventually obtained. In Palatini formalism, the metric g determines a priori rods & clocks, while the connection  the free fall, but since a posteriori the same result of GR is found, Einstein soon ceased to show a real interest in this formalism. The situation does not change if matter is present through a matter Lagrangian Lmat (independent of
+ but just depending on g and other external matter fields), that generates an energy-momentum tensor T as T :≡  Lmat . If the total Lagrangian is then assumed to be
+Ltot :≡ LPE + Lmat field equation (4)1 are reflected by
+R − 1 R(g  )g = 8GT	(5)
+and again (4)2 implies, a posteriori, that (5) reduces eventually to Einstein equations in presence of matter.
+Let us also emphasize that the dynamical coincidence between  and the Levi-Civita connection of g is entirely due to the particular Lagrangian considered by Einstein,
+
+which is the simplest, but not the only possible one! Furthermore, it seems to us that Einstein did not fully recognize that the Palatini method privileges the affine structure with respect to the metric structure. Notice that, in this case (i.e. in Palatini formalism), the relations
+ =   (g)	(6)
+are field equations: the fact that  is the Levi-Civita connection of g is no longer an assumption a priori but it is the dynamical outcome of field equations!
+
+THE GEOMETRIC STRUCTURE OF GRAVITATIONAL THEORIES
+Let us begin this Section with a digression of fundamental importance in our schema. Thanks to the work of Levi-Civita and Einstein we know that every manifold having to do with gravity may be endowed with at least two a priori distinct structures:
+A Riemannian metric structure, defined by a (Lorentzian) metric tensor. It is re-sponsible for the definition of (pseudo)distances and angles. It selects, on the space on which is defined, a class of hyper-surfaces as the level sets of the distance func-tion (the analogous of circles in the ordinary Plane Geometry) and a class of curves, called the geodesics of the metric, or g-geodesics in this report, defined as the sta-tionary (minimum) length paths connecting pairs of points.
+An affine structure defined by an affine connection. It is responsible for the parallel transport along curves through the definition of the notion of covariant derivation. It selects, on the space on which is defined, the notion of straightness of lines, i.e. a class of self-parallel lines (curves whose tangent vector is parallel transported by the connection, the analogous of straight lines in the ordinary Plane Geometry) called the geodesics of the connection, or  -geodesics in this work. As it is well known, on any such curve the notion of arc length is defined (independently of a metric).
+It is crucial to understand that, since the metric and the affine structures are a priori independent, the g-geodesics and the  -geodesics are, in principle very different. In exactly the same way, an arc length of a  -geodesics may not coincide with the distance of its extrema. This abstraction process is quite difficult to be performed, since the Geometry we are used to does not need it. Nevertheless it is a great opportunity, as we shall show in the sequel. As mathematical physicists we should have seen this kind of picture more than once  ! In ordinary Euclidean
+Geometry, the metric and the affine structures (which together correspond to the well-known compass & unmarked straightedge Geometry) are, actually, deeply intertwined. A strong link between these two structures is in fact set by the simplest variational principle: straight lines are the shortest path between any two points. This is exactly to say:  -geodesics coincide with the g-geodesics. Formulated in the latter way, this situation is not peculiar of the ordinary Euclidean Geometry. On the contrary, it applies to all Euclidean and Non-Euclidean Geometries. This is why we have to force our intuitus to accept the more general case of geometries where  -geodesics do differ from the g-geodesics. With these considerations in
+
+mind, let us reconsider the Palatini method we introduced in the previous Section. We believe it is clear enough that it can be considered an attempt of Einstein to force his intuitus. Not the first of his life. But this attempt, so to say, failed. We have already observed that the reason of this failure is entirely due to the simplicity of the Hilbert Lagrangian. This is why we regard to more general theories as an opportunity, not only as a complication. Before to delve into these more general theories, let us remark a final point about the metric and the affine structures. From a purely geometrical viewpoint, they stand on an equal footing. But from a physical point of view the situation is different. The fundamental principle of Newtonian Physics (the First Law, i.e. the Principle of Inertia) selects, in fact, the straight lines as the more fundamental structure: in absence of forces motions are rectilinear and uniform, i.e. 4-dimensionally straight. Circles instead limit their role to the definition of space distances. In GR something similar happens with the Principle of Equivalence (which in some sense is the generalization of the Newtonian Principle of Inertia): it selects the geodesics, the  -geodesics, as the most important lines from a gravitational point of view.
+
+EXTENDED THEORIES OF GRAVITY
+All that said, we believe we should first seriously reconsider NLTGs, without being unsensitive with respect to the appeal of simplicity, in the spirit of Occam Razor. This is why we begin to restrict ourselves to the first level of generalization of GR, the so-called f (R)-theories of metric type (see e.g. [7] for a review of the results concerning these theories). Here f denotes any “reasonable” function of one-real variable. The Lagrangian is assumed to be
+LNL(g) :≡ f (R(g))√gds	(7) where R(g) = g R(g) is the scalar curvature of (M, g).
+Of course, from f (R)-theories, we know that GR is retrieved in, and only in, the
+particular case f (R)	R, i.e. if and only if the Lagrangian is linear1 in R. Let us recall here just a few keypoints on metric f (R)-theories.
+When treated in the purely metric formalism, these theories are mathematically much more complicated than GR. These theories do in fact produce field equations that are of the fourth order in the metric:
+
+f j(R(g))R(g) − 1 f (R(g))g −( − g / ) f j(R(g)) = 8 G T	(8)
+/
+2	`	˛¸	x
+4th order term
+where f j denotes the derivative of f with respect to its real argument. This is some-thing that cannot be accepted if one believes that physical laws should be governed
+
+1 Of corse if f (R) = R + we have the Einstein Equations with a cosmological constant .
+
+by second order equations. In (8) we see a second order part that resembles Ein-stein tensor (and reduces identically to it if and only if f (R) = R, i.e. if and only if f j(R) = 1) and a fourth order “curvature term” (that again reduces to zero if and only if f (R) = R).
+A first workaround that was suggested long ago to this problem is to push the 4th order part (  g / ) f j(R(g)) to the r.h.s. of these equations. This lets us to interpret it as an “extra gravitational stress” T curv due to higher-order curvature effects, much in the spirit of Riemann. In any case, however, the fourth order character of these equations makes them unsuitable under several aspects, so that they were eventually abandoned for long time and only recently they have regained interest (see [7] and references therein).
+A second way to tackle the problem has been proposed in 1987 (see [8], based on earlier work by the same authors [9], together with the references quoted therein). Notice that these are the first papers where the Legendre transformation that in-troduces an extra scalar field has been ever considered in literature (it has been later “re-discovered” by other authors), so that its priority should always be ap-propriately quoted when dealing with “metric” f (R)-theories. This is a method à la Hamilton, in which, whenever one has a non-linear gravitational metric Lagrangian of the most general type LGNL(g) :  f (g, Ric(g)), one defines a second metric p as2
+p :≡  Lgrav
+
+In this way the second metric p, in fact a non-degenerate metric for f nowhere vanishing, a canonically conjugated momentum for g, is a function of g together with its first and second derivatives, since it is a function of g and Ric(g), the Ricci tensor of g. Notice that this leads to two equations of the second order in g and p, as Hamilton method always halves the order of the equations by doubling the variables. Following this method in the simpler f (R) case one gets that the “auxiliary” metric p is related to the original one g by a conformal transformation:
+p ≡  g,	 :≡ f j(R(g)).	(10)
+
+2 This idea corresponds to an Einstein’s attempt, dating back to 1925, to construct a “purely affine” theory (see [10]), i.e. a theory in which the only dynamical field is a linear connection. In this theory no metric is given from the beginning, but since it is obviously necessary to have a metric, the problem arise of how to construct it out of a connection. Einstein first tried to define the metric as the symmetric part of the Ricci tensor constructed out of the connection. But this idea could not work (unless for quadratic Lagrangians). A.Eddington then proposed the recipe (9). In this way Einstein and Eddington obtained a theory that reproduces GR, without introducing anything new. That is why Einstein eventually abandoned it too. On these purely affine theories see also [11], where J. Kijowski correctly pointed out that in the purely affine framework the prescription (9) of Einstein and Eddington is nothing but the assumption that the metric can be considered as a momentum canonically conjugated to the connection. Of corse p is a true metric if it is nondegenerate, something that is always true in an open set of the space of all solutions and for a ÒgenericÓ function f .
+
+The Lagrangian equations (8) are then rewritable as a Hamiltonian system:
+Ein(p) = Tmat + TKGnl	(11) KGnl() = 0	(12)
+where KGnl means non-linear Klein-Gordon (because of a potential depending on f ; see [7], [8], [9] for details). Rewritten in this form, the theory has now two variables: the “auxiliary” metric p (or the original one g) and the scalar field . This is why these theories are called Scalar-Tensor Theories. For more details, and in particular for their application in Cosmology and Extragalactic Astrophysics, see, e.g., [7] and the references quoted therein. Notice that [8], [9] and all subsequent literature left in fact open a few fundamental problems: Who really are the second metric p and the scalar field  ? How to interpret them (the scalar field  survives even in vacuum)? And. . . what about the original metric g?
+Fortunately there is a third method to solve the problem.
+
+THE PALATINI APPROACH AND THE DARK METRIC
+The third method anticipated at the end of the previous Section is the Palatini method applied to the case of f (R)-theories. Now SpaceTime is no longer a cou-ple (M, g) but rather a triple (M, g,  ), with  symmetric for simplicity and con-venience. The Lagrangian is assumed to be the non-linear Palatini-Einstein La-grangian
+LNLPE(g,  ) :≡ f (R(g,  )) √gds	(13)
+with R(g,  ) :	g R ( ,  ) and f “reasonable.” Field equations (4) are now replaced by the following:
+
+
+f j(R(g,  ))R
+1
+— / f (R(g  )) g = GT	(14)
+
+ ( f j(R(g,  ))√gg) = 0	(15) that take into account a possible Lagrangian of the type Lmat = Lmat(g, ), with 
+arbitrary matter fields coupled to g alone (and not to  ). Notice that (15)1 reduces
+to (5) if and only if f (R) ≡ R. Notice also that the trace of equation (15)1 gives
+R(g,  ) f j(R(g,  )) − m f (R(g  )) = G	(16)
+
+being  : g T the “trace” of the energy-momentum tensor. This equation has been called the master equation [13] and it is at the basis of a subtle discussion of “universality” of Einstein equations in non-linear special cases (i.e., when  0). Notice also the analogy of (16) with the trace of (8), i.e.
+f j(R(g))R(g) − m f (R(g)) +(m − 1) / f j(R(g)) = G	(17)
+
+and notice that only in the peculiar case f (R) = R they reduce to the same equation, namely (5). In all other cases (17) entails that non-linearity ( f j = 1) produces, in the metric formalism, effects due to the scalar factor f j(R), i.e. depending eventually on a scalar field tuned up by the curvature of  . Approaching f (R)-theories à la Palatini, we may now follow [13] step-by-step and make a number of considerations (well summarized also in the recent critical review [14]). At the end of these considerations we may conclude that:
+When (and only when) f (R(g,  )) = R(g,  ) then GR is “fully” recovered for
+the given metric g.
+For a generic f (R(g,  )), in presence of matter such that g T = 0 (and thence, in particular, in vacuum), the theory is still equivalent to GR for the given metric g with a “quantized” cosmological constant  and a modified coupling constant. In this case, in fact, the master equation (16) implies that the scalar curvature R(g,  ) has to be a suitable constant, possibly and usually not unique but always chosen in a set that depends on f , so that (15)2 still implies (6) with an additional cosmological term  g.
+For a generic f (R(g  )) but in presence of matter such that g T = 0 one can solve the master equation (16), for m = 2, and obtain R(g  ) as a function R() of the given trace . Then, knowing f , one gets implicitly f (R(g,  )) = f () and f j(R(g,  )) = f j(), so that equation (15)2 tells us that  is forced to be the Levi-Civita connection LC(h) of a new metric h, conformally related to the original one g by the relation
+h :≡ f j() g = f j(R(g,  ))g .	(18)
+Then, using again equation (15)1, we see that the theory could be still rewritable as in (10) in a purely metric setting, but with far less interpretative problems, as we can immediately show. From a viewpoint “à la Palatini” in a genuine sense the method has in fact generated a completely new perspective. The remaining field equations (15)1, in fact, are still equivalent to Einstein equations with matter (and cosmological constant) provided one changes the metric from g to h!
+The most enlightening case is that of f (R) with generic matter and  = 0. Here, in fact, the universality property (see again [13]) does not hold in his strict form, but in an interesting wider interpretation: the dynamics of the connection  still forces  itself to be the Levi-Civita connection of a metric, but not of the “original” metric g, which we shall prefer to call the apparent metric for a reason we clarify in a moment. Instead, the dynamics of  identifies a new metric h, conformally related to the apparent one g, which we call the Dark Metric. The Dark Metric h, we claim, could well be the true origin of the “Dark Side of the Universe”! The apparent metric g is in fact the one by means of which we perform measurements in our local laboratories. In other words, the metric g is the one we have to use every day to construct and read instruments (rods & clocks). This is why we like to call it the “apparent” metric. But we claim that the right metric we have to use as the fundamental object to describe Gravity is, by obvious reasons, the Dark Metric, since it is the one responsible for gravitational free fall through the identification
+
+ = LC(h). Notice, incidentally, that photon world-lines and causality are not changed, since the light-cones structure of g and h are the same by conformal invariance. In other words, in our laboratories we have to use the apparent metric g, but in our Gravity theories the dark one h. The translation from one “language” to the other is nothing but the conformal factor f j(R) = f j(), which manifestly depends on the theory and on its content in ordinary matter. Let us also notice explicitly that this in particular implies that if a certain metric h is expected to be a solution of a problem, from a theoretical point of view, it is rather important to look for h in experiments. Testing our theories with g, in a sense, is wrong, since it is the conformally related metric h to be searched for instead when dealing with Gravitation!
+
+CONCLUDING REMARKS
+The (unknown) conformal factor   f j(R(g,  )) f j() has to be phenomeno-logically tested against observational data in order to find which is the (class of) Lagrangian(s) f that, given  (i.e., given the “visible matter”), allow one to inter-pret the “supposed Dark Matter” (and Energy) as a curvature effect [15]. In the other contribution by the same authors in these Proceedings, we will give hints on how DE (accelerated cosmic behavior) and DM (clustered structures) could be interpreted as Dark Metric effects according to the lines dveloped here.
+
+REFERENCES
+R. Utiyama, B. S. DeWitt, J. Math. Phys. 3 (1962), 608.
+A. Einstein, Zur Elektrodynamic der bewegter Körper, Ann. der Physik XVII (1905), 891–921
+J. Ehlers, F. A. E. Pirani, A. Schild, The Geometry of Free Fall and the Light Propagation, in “Studies in Relativity: Papers in honour of J. L. Synge” (1972), 63–84
+T. Levi-Civita, The Absolute Differential Calculus, Blackie and Son (1929)
+M. Ferraris, M. Francaviglia, C. Reina, Variational Formulation of General Relativity from 1915 to 1925 “Palatini’s Method” Discovered by Einstein in 1925 - Gen. Rel. Grav. 14 (1982) 243-254
+Hermann Weyl, Ann. Phys. 59 (1919), 101
+S. Capozziello, M. Francaviglia, Extended Theories of Gravitation and Their Cosmological and Astrophysical Applications, Gen. Rel. Grav. 40, 2-3, (2008), 357–420
+G. Magnano, M. Ferraris, M. Francaviglia, Legendre Transformation and Dynamical Structure of Higher-Derivative Gravity, Class. Quantum Grav. 7 (1990), 557-570
+G. Magnano, M. Ferraris, M. Francaviglia, Nonlinear Gravitational Lagrangians, Gen. Rel. Grav.
+19(5) (1987), 465–479
+A. Eddington, The Mathematical Theory of Relativity, Cambridge University Press (1923)
+	J. Kijowski, On a purely affine formulation of general relativity, Part II Proceedings of the Conference Held at Salamanca September 10-Ð14 (1979); Edited by P. L. García, A. Pérez-Rendón
+	M. Ferraris, M. Francaviglia, I. Volovich, Universality of Einstein Equations, Class. Quantum Grav. 11 6 (1994), 1505–1517
+T. P. Sotiriou, V. Faraoni, f(R) Theories of Gravity, (2008), arXiv:0805.1726
+	A. Pais, Subtle is the Lord: The Science and the Life of Albert Einstein, Oxford University Press (1983)
+S. Capozziello, V.F. Cardone, A. Troisi, Dark Energy and Dark Matter as curvature effects?
+JCAP 08 (2006), 001–14
+
+
+First Order Extended Gravity and the Dark Side of the Universe: the General Theory
+S. Capozziello∗, M. De Laurentis∗, M. Francaviglia† and S. Mercadante†
+∗Dipartimento di Scienze Fisiche, Università di Napoli "Federico II", and INFN Sez. di Napoli, Compl. Univ. di Monte S. Angelo, Edificio G, Via Cinthia, I-80126, Napoli, Italy
+†Dipartimento di Matematica, Università di Torino, and INFN Sez. di Torino, Via Carlo Alberto 10, 10123 Torino, Italy
+
+Abstract. General Relativity is not the definitive theory of Gravitation due to several shortcomings which are coming out both from theoretical and experimental viewpoints. At large scales (astro-physical and cosmological scales) the attempts to match it with the today observational data lead to invoke Dark Energy and Dark Matter as the bulk components of the cosmic fluid. Since no final evidence, at fundamental level, exists for such ingredients, it is clear that General Relativity presents shortcomings at infrared scales. On the other hand, the attempts to formulate theories more general than the Einstein one give rise to mathematical difficulties that need workarounds which, in turn, generate problems from the interpretative viewpoint. We present here a completely new approach to the mathematical objects in terms of which a theory of Gravitation may be written in a first-order (à la Palatini) formalism, and introduce the concept of Dark Metric which could completely bypass the introduction of disturbing concepts as Dark Energy and Dark Matter.
+Keywords: Dark matter, Dark energy, Dark metric, Gravitation
+PACS: 95.30.Sf-98.80.Jk
+
+INTRODUCTION
+Einstein’s General Relativity (GR) is a self-consistent theory which dynamically de-scribes space, time and matter under the same standard. The result is a deep and beau-tiful scheme which, starting from some first principles, is capable of explaining a huge number of gravitational phenomena, ranging from laboratory up to cosmological scales. Its predictions are well tested at Solar System scales and give rise to a comprehen-sive cosmological model that agrees with Standard Model of particles, with recession of galaxies, cosmic nucleosynthesis and so on. Despite of these good results the recent advent of the so-called Precision Cosmology and several tests coming from the Solar System outskirts (e.g. the Pioneer Anomaly), the self-consistent scheme of GR seems to disagree with an increasingly high number of observational data, as e.g. those com-ing from IA-type Supernovae, used as standard candles, large scale structure ranging from galaxies up to galaxy superclusters and so on. Furthermore, being not renormaliz-able, it fails to be quantized in any “classical” way (see [1]). In other words, it seems then, from ultraviolet up to infrared scales, that GR is not and cannot be the defini-tive theory of Gravitation also if it successfully addresses a wide range of phenomena. Many attempts have been therefore made both to recover the validity of GR at all scales, on the one hand, and to produce theories that suitably generalize the Einstein one, on the other hand. In order to interpret a large number of recent observational data inside
+
+the paradigm of GR, the introduction of Dark Matter (DM) and Dark Energy (DE) has seemed to be necessary: the price of preserving the simplicity of the Hilbert Lagrangian has been, however, the introduction of rather odd-behaving physical entities which, up to now, have not been revealed by any experiment at fundamental scales. In other words we are observing the large scale effects of missing matter (DM) and the accelerating behavior of the Hubble flow (DE) but no final evidence of these ingredients exists, if we want to deal with them under the standard of quantum particles or quantum fields. In Section 3 we shall argue whether, after all, it is really preferable the use of the sim-plest Lagrangian. An opposite approach resides in the so-called Non-Linear Theories of Gravity (NLTGs), that have been also investigated by many authors, in connection with Scalar-Tensor Theories (STTs). In this case, no ill-defined ingredients have to be required, at the price of big mathematical complications. None of the many efforts made up to now to solve this problem (see later) seem to be satisfactory from an interpretative viewpoint. What we shortly present here is a completely new approach to the mathemat-ical objects in terms of which a theory of Gravitation may be written, whereby Gravity is encoded from the very beginning in a (symmetric) linear connection in SpaceTime. At the end we shall nevertheless conclude that, although the gravitational field is a linear connection, the fundamental field of Gravity turns out a posteriori to be still a metric, but not the “obvious” one given from the very beginning (which we shall therefore call "apparent metric"). Rather we shall show the relevance of another metric, ensuing from the gravitational dynamics, that we shall call Dark Metric since we claim it being a possible source of the apparently “Dark Side” of our Universe which reveals, at large scales, as missing matter (in clustered structures) and accelerating behavior (in the Hub-ble fluid). To complete our program, we need first to recall some facts regarding different (relativistic) theories of Gravitation. This will not be an historical compendium, but just a collection of speculative hints useful to our aims.
+
+HISTORICAL REMARKS
+Einstein devoted more than ten years (1905–1915/1916) to develop a theory of Gravi-tation based on the following requirements (see [3]): principle of equivalence (Gravity and Inertia are indistinguishable; there exist observers in free fall, i.e. inertial motion under gravitational pull); principle of relativity (SR holds pointwise; the structure of SpaceTime is pointwise Minkowskian); principle of general covariance (“democracy” in Physics); principle of causality (all physical phenomena propagate respecting the light-cones). Einstein, who was also deeply influenced by Riemann’s teachings about the link between matter and curvature, decided then to describe Gravity by means of a (dynamic) SpaceTime M endowed with a dynamic Lorentzian metric g. This appeared to be a good choice for a number of reasons: a metric is the right tool to define mea-surements (rods & clocks); the geodesics of a metric are good mathematical objects to describe the free fall; a Lorentzian manifold is pointwise Minkowskian; it is suitable to be the domain of tensor fields; is compatible with a light-cones structure. And, after all, at that time, there was no other geometrical field that Einstein could use to define the curvature of a differentiable manifold!
+
+Following this approach, Einstein deduced his famous equations:
+G :≡ R − 1 R(g) g = 8 GT
+
+A linear concomitant of the Riemann tensor of g, nowadays called the Einstein tensor
+G, equals the stress-energy tensor T :≡  Lmat that reflects the properties of matter.
+Here R is the Ricci tensor of the metric g and R(g) :  g R is the scalar curvature of the metric, while Lmat Lmat ds is the matter Lagrangian and G is the coupling constant. In other words, the distribution of matter influences Gravity through 10 second-order field equations. Their structure, in a sense and mutatis mutandis, is the same as Newton second law of Dynamics: no forces means geodesic motion, while the effects of sources are to produce curvature (just in motion in the Newtonian case, where the Space and Time are fixed and immutable; both in the structure of SpaceTime and in its motions in the Einstein case). GR has been a success: it admits an elegant and very
+simple Lagrangian formulation (LH :  R(g) √g ds) and most of its predictions have
+been soon experimentally verified and these have remained valid for many years after its introduction. So there was no reason for Einstein to be unhappy with his beautiful creation, at least for some time. In GR, is g the gravitational field? Einstein knew that it is not, since g is a tensor, while the principle of equivalence holds true and implies that there exist frames in which the gravitational field can be inertially switched off, while a tensor cannot be set to vanish in a frame, if it does not vanish in all frames. Free fall is, in fact, described by the geodesics of (M, g):
+x¨ +  (g)x˙ x˙ = 0	(1)
+and Einstein himself argued that the right objects to represent the gravitational field have to be the Christoffel symbols   (g); the metric g is just the potential of the gravitational field, but being Christoffel symbols algorithmically constructed out of g, the metric remains the fundamental variable: g gives rise to the gravitational field, to causality, to the principle of equivalence as well as to rods and clocks. In 1917, working on the theory of “parallelism” in manifolds, T. Levi-Civita understood that parallelism and curvature are non-metric features of space, but rather features of “affine” type, having to do with “congruences of privileged lines” (see [4]). Generalizing the case of Christoffel symbols
+  (g) of a metric g, Levi-Civita introduced the notion of linear connection as the most
+general object   such that the equation of geodesics (autoparallel curves, in fact)
+x¨ +  x˙ x˙ = 0	(2)
+is generally covariant. This revolutionary idea (that stands in fact at the heart of Non-Euclidean Geometries) was immediately captured by Einstein, who, unfortunately, did not further use it up to its real strength. We shall come back later on this topic, as this work is strongly based on it. Even if it was clear to Einstein that Gravity induces “freely falling observers” and that the principle of equivalence selects, in fact, an object that cannot be a tensor, since it is capable of being “switched off” and set to vanish at least in a point, he was obliged to choose it under the form of the linear connection LC(g), given
+
+locally by Christoffel symbols of g, now called the Levi-Civita connection (of g), fully determined by the metric structure itself. Einstein, for obvious reasons, was very satisfied of having reduced all SpaceTime structure and Gravity into a single geometrical object. Still, in 1918, H. Weyl tried (see [5]) to unify Gravity with Electromagnetism, using for the first time a linear connection defined over SpaceTime, assumed as a dynamical field non-trivially depending on a metric. Weyl’s idea failed because of a wrong choice of the Lagrangian and few more issues, but it generated however a keypoint: connections may have a physically interesting dynamics. Einstein soon showed a great interest in Weyl’s idea. He too began to play with connections, in the obsessed seek for the “geometrically” Unified Theory. But he never arrived to “dethronize” g in the description of the gravitational field. Probably, in some moments, he was not so happy with the fact that the gravitational field is not the fundamental object, but just a by-product of the metric; however, he never really changed his mind about the role of g. In 1925 Einstein constructed a theory that depends on a metric g and a symmetric linear connection
+ , to be varied independently (the so-called, because of a misunderstanding with W. Pauli, Palatini method; see [6]); he defined in fact a Lagrangian theory in which the gravitational Lagrangian is
+LPE :≡ R(g,  ) √gds,	(3)
+There are now 10 + 40 independent variables and the field equations, in vacuum, are:
+
+1
+R	− /R(g  )g = 0
+
+ (√gg) = 0
+
+(4)
+
+where R() is the symmetric part of the Ricci tensor of  R ( ,  ) and  denotes covariant derivative with respect to  .
+Since the dimension of spacetime is greater than 2, the second field equation (4)2 constrains the connection  , which is a priori arbitrary, to coincide a posteriori with the Levi-Civita connection of the metric g (Levi-Civita theorem). By substituting this information into the first field equation (4)1, the vacuum Einstein equation for g is eventually obtained. In Palatini formalism, the metric g determines a priori rods & clocks, while the connection  the free fall, but since a posteriori the same result of GR is found, Einstein soon ceased to show a real interest in this formalism. The situation does not change if matter is present through a matter Lagrangian Lmat (independent of
+ but just depending on g and other external matter fields), that generates an energy-momentum tensor T as T :≡  Lmat . If the total Lagrangian is then assumed to be
+Ltot :≡ LPE + Lmat field equation (4)1 are reflected by
+R − 1 R(g  )g = 8GT	(5)
+and again (4)2 implies, a posteriori, that (5) reduces eventually to Einstein equations in presence of matter.
+Let us also emphasize that the dynamical coincidence between  and the Levi-Civita connection of g is entirely due to the particular Lagrangian considered by Einstein,
+
+which is the simplest, but not the only possible one! Furthermore, it seems to us that Einstein did not fully recognize that the Palatini method privileges the affine structure with respect to the metric structure. Notice that, in this case (i.e. in Palatini formalism), the relations
+ =   (g)	(6)
+are field equations: the fact that  is the Levi-Civita connection of g is no longer an assumption a priori but it is the dynamical outcome of field equations!
+
+THE GEOMETRIC STRUCTURE OF GRAVITATIONAL THEORIES
+Let us begin this Section with a digression of fundamental importance in our schema. Thanks to the work of Levi-Civita and Einstein we know that every manifold having to do with gravity may be endowed with at least two a priori distinct structures:
+A Riemannian metric structure, defined by a (Lorentzian) metric tensor. It is re-sponsible for the definition of (pseudo)distances and angles. It selects, on the space on which is defined, a class of hyper-surfaces as the level sets of the distance func-tion (the analogous of circles in the ordinary Plane Geometry) and a class of curves, called the geodesics of the metric, or g-geodesics in this report, defined as the sta-tionary (minimum) length paths connecting pairs of points.
+An affine structure defined by an affine connection. It is responsible for the parallel transport along curves through the definition of the notion of covariant derivation. It selects, on the space on which is defined, the notion of straightness of lines, i.e. a class of self-parallel lines (curves whose tangent vector is parallel transported by the connection, the analogous of straight lines in the ordinary Plane Geometry) called the geodesics of the connection, or  -geodesics in this work. As it is well known, on any such curve the notion of arc length is defined (independently of a metric).
+It is crucial to understand that, since the metric and the affine structures are a priori independent, the g-geodesics and the  -geodesics are, in principle very different. In exactly the same way, an arc length of a  -geodesics may not coincide with the distance of its extrema. This abstraction process is quite difficult to be performed, since the Geometry we are used to does not need it. Nevertheless it is a great opportunity, as we shall show in the sequel. As mathematical physicists we should have seen this kind of picture more than once  ! In ordinary Euclidean
+Geometry, the metric and the affine structures (which together correspond to the well-known compass & unmarked straightedge Geometry) are, actually, deeply intertwined. A strong link between these two structures is in fact set by the simplest variational principle: straight lines are the shortest path between any two points. This is exactly to say:  -geodesics coincide with the g-geodesics. Formulated in the latter way, this situation is not peculiar of the ordinary Euclidean Geometry. On the contrary, it applies to all Euclidean and Non-Euclidean Geometries. This is why we have to force our intuitus to accept the more general case of geometries where  -geodesics do differ from the g-geodesics. With these considerations in
+
+mind, let us reconsider the Palatini method we introduced in the previous Section. We believe it is clear enough that it can be considered an attempt of Einstein to force his intuitus. Not the first of his life. But this attempt, so to say, failed. We have already observed that the reason of this failure is entirely due to the simplicity of the Hilbert Lagrangian. This is why we regard to more general theories as an opportunity, not only as a complication. Before to delve into these more general theories, let us remark a final point about the metric and the affine structures. From a purely geometrical viewpoint, they stand on an equal footing. But from a physical point of view the situation is different. The fundamental principle of Newtonian Physics (the First Law, i.e. the Principle of Inertia) selects, in fact, the straight lines as the more fundamental structure: in absence of forces motions are rectilinear and uniform, i.e. 4-dimensionally straight. Circles instead limit their role to the definition of space distances. In GR something similar happens with the Principle of Equivalence (which in some sense is the generalization of the Newtonian Principle of Inertia): it selects the geodesics, the  -geodesics, as the most important lines from a gravitational point of view.
+
+EXTENDED THEORIES OF GRAVITY
+All that said, we believe we should first seriously reconsider NLTGs, without being unsensitive with respect to the appeal of simplicity, in the spirit of Occam Razor. This is why we begin to restrict ourselves to the first level of generalization of GR, the so-called f (R)-theories of metric type (see e.g. [7] for a review of the results concerning these theories). Here f denotes any “reasonable” function of one-real variable. The Lagrangian is assumed to be
+LNL(g) :≡ f (R(g))√gds	(7) where R(g) = g R(g) is the scalar curvature of (M, g).
+Of course, from f (R)-theories, we know that GR is retrieved in, and only in, the
+particular case f (R)	R, i.e. if and only if the Lagrangian is linear1 in R. Let us recall here just a few keypoints on metric f (R)-theories.
+When treated in the purely metric formalism, these theories are mathematically much more complicated than GR. These theories do in fact produce field equations that are of the fourth order in the metric:
+
+f j(R(g))R(g) − 1 f (R(g))g −( − g / ) f j(R(g)) = 8 G T	(8)
+/
+2	`	˛¸	x
+4th order term
+where f j denotes the derivative of f with respect to its real argument. This is some-thing that cannot be accepted if one believes that physical laws should be governed
+
+1 Of corse if f (R) = R + we have the Einstein Equations with a cosmological constant .
+
+by second order equations. In (8) we see a second order part that resembles Ein-stein tensor (and reduces identically to it if and only if f (R) = R, i.e. if and only if f j(R) = 1) and a fourth order “curvature term” (that again reduces to zero if and only if f (R) = R).
+A first workaround that was suggested long ago to this problem is to push the 4th order part (  g / ) f j(R(g)) to the r.h.s. of these equations. This lets us to interpret it as an “extra gravitational stress” T curv due to higher-order curvature effects, much in the spirit of Riemann. In any case, however, the fourth order character of these equations makes them unsuitable under several aspects, so that they were eventually abandoned for long time and only recently they have regained interest (see [7] and references therein).
+A second way to tackle the problem has been proposed in 1987 (see [8], based on earlier work by the same authors [9], together with the references quoted therein). Notice that these are the first papers where the Legendre transformation that in-troduces an extra scalar field has been ever considered in literature (it has been later “re-discovered” by other authors), so that its priority should always be ap-propriately quoted when dealing with “metric” f (R)-theories. This is a method à la Hamilton, in which, whenever one has a non-linear gravitational metric Lagrangian of the most general type LGNL(g) :  f (g, Ric(g)), one defines a second metric p as2
+p :≡  Lgrav
+
+In this way the second metric p, in fact a non-degenerate metric for f nowhere vanishing, a canonically conjugated momentum for g, is a function of g together with its first and second derivatives, since it is a function of g and Ric(g), the Ricci tensor of g. Notice that this leads to two equations of the second order in g and p, as Hamilton method always halves the order of the equations by doubling the variables. Following this method in the simpler f (R) case one gets that the “auxiliary” metric p is related to the original one g by a conformal transformation:
+p ≡  g,	 :≡ f j(R(g)).	(10)
+
+2 This idea corresponds to an Einstein’s attempt, dating back to 1925, to construct a “purely affine” theory (see [10]), i.e. a theory in which the only dynamical field is a linear connection. In this theory no metric is given from the beginning, but since it is obviously necessary to have a metric, the problem arise of how to construct it out of a connection. Einstein first tried to define the metric as the symmetric part of the Ricci tensor constructed out of the connection. But this idea could not work (unless for quadratic Lagrangians). A.Eddington then proposed the recipe (9). In this way Einstein and Eddington obtained a theory that reproduces GR, without introducing anything new. That is why Einstein eventually abandoned it too. On these purely affine theories see also [11], where J. Kijowski correctly pointed out that in the purely affine framework the prescription (9) of Einstein and Eddington is nothing but the assumption that the metric can be considered as a momentum canonically conjugated to the connection. Of corse p is a true metric if it is nondegenerate, something that is always true in an open set of the space of all solutions and for a ÒgenericÓ function f .
+
+The Lagrangian equations (8) are then rewritable as a Hamiltonian system:
+Ein(p) = Tmat + TKGnl	(11) KGnl() = 0	(12)
+where KGnl means non-linear Klein-Gordon (because of a potential depending on f ; see [7], [8], [9] for details). Rewritten in this form, the theory has now two variables: the “auxiliary” metric p (or the original one g) and the scalar field . This is why these theories are called Scalar-Tensor Theories. For more details, and in particular for their application in Cosmology and Extragalactic Astrophysics, see, e.g., [7] and the references quoted therein. Notice that [8], [9] and all subsequent literature left in fact open a few fundamental problems: Who really are the second metric p and the scalar field  ? How to interpret them (the scalar field  survives even in vacuum)? And. . . what about the original metric g?
+Fortunately there is a third method to solve the problem.
+
+THE PALATINI APPROACH AND THE DARK METRIC
+The third method anticipated at the end of the previous Section is the Palatini method applied to the case of f (R)-theories. Now SpaceTime is no longer a cou-ple (M, g) but rather a triple (M, g,  ), with  symmetric for simplicity and con-venience. The Lagrangian is assumed to be the non-linear Palatini-Einstein La-grangian
+LNLPE(g,  ) :≡ f (R(g,  )) √gds	(13)
+with R(g,  ) :	g R ( ,  ) and f “reasonable.” Field equations (4) are now replaced by the following:
+
+
+f j(R(g,  ))R
+1
+— / f (R(g  )) g = GT	(14)
+
+ ( f j(R(g,  ))√gg) = 0	(15) that take into account a possible Lagrangian of the type Lmat = Lmat(g, ), with 
+arbitrary matter fields coupled to g alone (and not to  ). Notice that (15)1 reduces
+to (5) if and only if f (R) ≡ R. Notice also that the trace of equation (15)1 gives
+R(g,  ) f j(R(g,  )) − m f (R(g  )) = G	(16)
+
+being  : g T the “trace” of the energy-momentum tensor. This equation has been called the master equation [13] and it is at the basis of a subtle discussion of “universality” of Einstein equations in non-linear special cases (i.e., when  0). Notice also the analogy of (16) with the trace of (8), i.e.
+f j(R(g))R(g) − m f (R(g)) +(m − 1) / f j(R(g)) = G	(17)
+
+and notice that only in the peculiar case f (R) = R they reduce to the same equation, namely (5). In all other cases (17) entails that non-linearity ( f j = 1) produces, in the metric formalism, effects due to the scalar factor f j(R), i.e. depending eventually on a scalar field tuned up by the curvature of  . Approaching f (R)-theories à la Palatini, we may now follow [13] step-by-step and make a number of considerations (well summarized also in the recent critical review [14]). At the end of these considerations we may conclude that:
+When (and only when) f (R(g,  )) = R(g,  ) then GR is “fully” recovered for
+the given metric g.
+For a generic f (R(g,  )), in presence of matter such that g T = 0 (and thence, in particular, in vacuum), the theory is still equivalent to GR for the given metric g with a “quantized” cosmological constant  and a modified coupling constant. In this case, in fact, the master equation (16) implies that the scalar curvature R(g,  ) has to be a suitable constant, possibly and usually not unique but always chosen in a set that depends on f , so that (15)2 still implies (6) with an additional cosmological term  g.
+For a generic f (R(g  )) but in presence of matter such that g T = 0 one can solve the master equation (16), for m = 2, and obtain R(g  ) as a function R() of the given trace . Then, knowing f , one gets implicitly f (R(g,  )) = f () and f j(R(g,  )) = f j(), so that equation (15)2 tells us that  is forced to be the Levi-Civita connection LC(h) of a new metric h, conformally related to the original one g by the relation
+h :≡ f j() g = f j(R(g,  ))g .	(18)
+Then, using again equation (15)1, we see that the theory could be still rewritable as in (10) in a purely metric setting, but with far less interpretative problems, as we can immediately show. From a viewpoint “à la Palatini” in a genuine sense the method has in fact generated a completely new perspective. The remaining field equations (15)1, in fact, are still equivalent to Einstein equations with matter (and cosmological constant) provided one changes the metric from g to h!
+The most enlightening case is that of f (R) with generic matter and  = 0. Here, in fact, the universality property (see again [13]) does not hold in his strict form, but in an interesting wider interpretation: the dynamics of the connection  still forces  itself to be the Levi-Civita connection of a metric, but not of the “original” metric g, which we shall prefer to call the apparent metric for a reason we clarify in a moment. Instead, the dynamics of  identifies a new metric h, conformally related to the apparent one g, which we call the Dark Metric. The Dark Metric h, we claim, could well be the true origin of the “Dark Side of the Universe”! The apparent metric g is in fact the one by means of which we perform measurements in our local laboratories. In other words, the metric g is the one we have to use every day to construct and read instruments (rods & clocks). This is why we like to call it the “apparent” metric. But we claim that the right metric we have to use as the fundamental object to describe Gravity is, by obvious reasons, the Dark Metric, since it is the one responsible for gravitational free fall through the identification
+
+ = LC(h). Notice, incidentally, that photon world-lines and causality are not changed, since the light-cones structure of g and h are the same by conformal invariance. In other words, in our laboratories we have to use the apparent metric g, but in our Gravity theories the dark one h. The translation from one “language” to the other is nothing but the conformal factor f j(R) = f j(), which manifestly depends on the theory and on its content in ordinary matter. Let us also notice explicitly that this in particular implies that if a certain metric h is expected to be a solution of a problem, from a theoretical point of view, it is rather important to look for h in experiments. Testing our theories with g, in a sense, is wrong, since it is the conformally related metric h to be searched for instead when dealing with Gravitation!
+
+CONCLUDING REMARKS
+The (unknown) conformal factor   f j(R(g,  )) f j() has to be phenomeno-logically tested against observational data in order to find which is the (class of) Lagrangian(s) f that, given  (i.e., given the “visible matter”), allow one to inter-pret the “supposed Dark Matter” (and Energy) as a curvature effect [15]. In the other contribution by the same authors in these Proceedings, we will give hints on how DE (accelerated cosmic behavior) and DM (clustered structures) could be interpreted as Dark Metric effects according to the lines dveloped here.
+
+REFERENCES
+R. Utiyama, B. S. DeWitt, J. Math. Phys. 3 (1962), 608.
+A. Einstein, Zur Elektrodynamic der bewegter Körper, Ann. der Physik XVII (1905), 891–921
+J. Ehlers, F. A. E. Pirani, A. Schild, The Geometry of Free Fall and the Light Propagation, in “Studies in Relativity: Papers in honour of J. L. Synge” (1972), 63–84
+T. Levi-Civita, The Absolute Differential Calculus, Blackie and Son (1929)
+M. Ferraris, M. Francaviglia, C. Reina, Variational Formulation of General Relativity from 1915 to 1925 “Palatini’s Method” Discovered by Einstein in 1925 - Gen. Rel. Grav. 14 (1982) 243-254
+Hermann Weyl, Ann. Phys. 59 (1919), 101
+S. Capozziello, M. Francaviglia, Extended Theories of Gravitation and Their Cosmological and Astrophysical Applications, Gen. Rel. Grav. 40, 2-3, (2008), 357–420
+G. Magnano, M. Ferraris, M. Francaviglia, Legendre Transformation and Dynamical Structure of Higher-Derivative Gravity, Class. Quantum Grav. 7 (1990), 557-570
+G. Magnano, M. Ferraris, M. Francaviglia, Nonlinear Gravitational Lagrangians, Gen. Rel. Grav.
+19(5) (1987), 465–479
+A. Eddington, The Mathematical Theory of Relativity, Cambridge University Press (1923)
+	J. Kijowski, On a purely affine formulation of general relativity, Part II Proceedings of the Conference Held at Salamanca September 10-Ð14 (1979); Edited by P. L. García, A. Pérez-Rendón
+	M. Ferraris, M. Francaviglia, I. Volovich, Universality of Einstein Equations, Class. Quantum Grav. 11 6 (1994), 1505–1517
+T. P. Sotiriou, V. Faraoni, f(R) Theories of Gravity, (2008), arXiv:0805.1726
+	A. Pais, Subtle is the Lord: The Science and the Life of Albert Einstein, Oxford University Press (1983)
+S. Capozziello, V.F. Cardone, A. Troisi, Dark Energy and Dark Matter as curvature effects?
+JCAP 08 (2006), 001–14
+
+Int J Theor Phys
+DOI 10.1007/s10773-014-2415-z
+
+
+
+First-Order Formalism for Dark Energy in Curved Backgrounds
+
+D. Bazeia · L. Losano · J. J. Rodrigues
+
+
+
+
+
+Received: 14 August 2014 / Accepted: 8 November 2014
+© Springer Science+Business Media New York 2014
+
+
+Abstract We present a general procedure to solve the equations of motion for cosmological models driven by real scalar fields with first-order differential equations. The method seems to have great power, since it works for closed, flat or open space-time, for scalar fields with both standard and tachyonic dynamics. We illustrate the procedure solving several examples which model situations of current interest to modern cosmology.
+
+Keywords Quintessence · Cosmic acceleration · Curved background
+
+
+Introduction
+
+Investigations about mechanisms which can explain the actual acceleration phase of the universe [1–8] have turned the cosmology a very exciting branch of study. Dark energy is already a standard trend to describe this phase [9–11], however the absence of more stringent observations datas opens way to several theoretical alternatives. A full lists these alternatives includes: cosmological constant Λ [12–14], quintessence [15–17], ƒ (R) modifications [18–23], branes [24–27]; a lot of models and a true defy in the cosmology today.
+Here we work with quintessence models, where a scalar field, invoked to drive a evolu-tion of the dark energy, can violate the strong energy condition, or even the weak energy condition. In many descriptions these models is assumed the flatness of the universe, based in CMB analyses [28–32], as a prediction of the inflation theory, but the complete treatment of datas must bring to light the curvature of the universe, as was indicated into [33–41] (see too references therein). This increases the difficulties in a already hard mathematical treat-ment, turning the search for the theoretical constraints, that can simplify one, particularly interesting.
+
+
+
+D. Bazeia  L. Losano  J. J. Rodrigues (/)
+Departamento de F´ısica, Universidade Federal da Para´ıba, Caixa Postal 5008, 58051-970 Joa˜o Pessoa, Para´ıba, Brazil
+e-mail: jjrodrigues@uepb.edu.br
+
+
+Int J Theor Phys
+
+
+The homogeneity and isotropy of the universe in large scales allows us to choose the FRW background for the cosmic evolution and the Einstein equations leads the Friedmann equations. To explore the solutions of this framework we assume that the Hubble parameter, naturaly a time function, is a field function, as H(t) W(φ). That was the key point to introduce the first-order formalism in [42], that too presents some solutions for a single and multi scalar field quintessence models and open way for to fix the theoretical constraints in: braneworld scenarios [43], RG flow [44], domain-wall/brane-cosmology [45], inclusion of dust as a dark matter [46], global defects in cosmology [47], Lorentz violating in inflation theory [48].
+Following this contributions, in this work we present the theoretical constraints for a quintessence model in that the scalar field evolue in the standard dynamics, being the frame-work inspired in a braneworld scenario, as well as when the scalar field to evolue in the tachyonic dynamics, however now including the curvature term. Some of these results can be seen as generalizations of the Hamilton-Jacobi formulation of inflation which appeared before in Refs. [49–52] – see also Refs. [53–56], where are introduced several considera-tions concerning supersymmetry and the first-order formalism for brane and for cosmology, this has motivated new works in the area.
+This paper is organized as follows. In Section 2 the basics concepts are developed to introduce the framework on the background, in sequence the first-order formalism is applied to a model in that the scalar field evolue with the standard dynamics in the presence of the curvature term. It is shown as this framework, inspired in braneworld scenarios, works easily. In Section 3 this considerations are extended for hard work of a scalar field evolving on a tachyonic dynamics. The paper finish in the Section 4 with a sumary of the work.
+
+
+Standard Dynamics
+
+We investigate the general problem which is described by the action
+S = ∫ d4x √−g  − 1 R + L(φ, ∂ φ)	(1)
+where R and φ stand for the scalar curvature and scalar field, respectively, and we are using 4πG  1. As usual, we use g to represent the determinant of the metric tensor gμν, which can be obtained by the line element
+2	2	2	  dr2	2	2 
+
+ds  = dt
+— a (t)
+− kr2 + r d▲
+(2)
+
+In this expression, the last term describes the angular portion of the three-dimensional space, a(t) is the scale factor, and k is constant: k 1, 0, or 1, for spherical, flat, or hyperbolic geometry, respectively.
+The energy-momentum tensor has the form T μ = (ρ, −p, −p, −p), where ρ and p
+represent energy density and pressure, respectively, which can be expressed in terms of the scalar field described by the Lagrange density L. The above action leads to Einstein equations, which allows obtaining
+
+H 2 = 2 ρ − k
+(3a)
+
+a2
+a¨	1
+a = − 3 (ρ + 3p)	(3b)
+
+
+Int J Theor Phys
+
+
+The equation of motion for the scalar field depends on L(φ, ∂μφ) for standard dynamics we have
+L = 1 ∂ φ∂μφ − V (φ)	(4)
+μ
+and the scalar field evolue as
+dV
+φ¨ + 3H φ˙ + dφ = 0	(5)
+The energy density and pressure which account for standard dynamics are given by
+ρ = 1 φ˙2 + V,	p = 1 φ˙2 − V	(6)
+2	2
+We use (3a, 3b) and (6) to write
+
+H 2 = 1 φ˙2 + 2 V − k
+
+(7a)
+
+
+
+H˙ = −φ˙2 + k
+(7b)
+
+The set of (5) and (7a, 7b) constitutes the equations we have to deal with to solve the problem specified by the potential V (φ). This is a hard work that is not ever possible, either numerical or analytically. The very usual form to find solutions is try reduced these equations to first-order differential equations, that was first explored in [42]; here we trade this in a framework that emerge of a analyses inspired in a background when the braneworld side of the problem is widely explored [43]. In this way, we make the choice
+H = W + αkZ	(8)
+
+
+which leads to the equation
+
+φ˙ = −Wφ + βkZφ	(9)
+
+where W  W(φ) and Z  Z(φ) are in principle arbitrary functions of the scalar field, and α and β are real parameters. These equations are first-order differential equations, they solve the set of (5) and (7a-7b) for the potential
+V = 3 (W + αkZ)2 + 1 (βkZ  − W )[(3α + 2β)kZ  + W ]	(10)
+
+and it is direct to obtain the theoretical constraint
+WφφZφ + WφZφφ − 2αkZZφ − 2βkZφZφφ − 2WZφ = 0	(11) that must be satisfied in any solution to the evolution of the scalar field in this framework.
+It using (8) and (9), the acceleration parameter
+
+q¯ = a¨a = 1 +  H˙ 
+
+(12)
+
+
+has the form
+a˙2	H 2
+
+q	1	(Wφ + αkZφ)(βkZφ − Wφ)
+(W + αkZ)2
+(13)
+
+
+/
+
+Int J Theor Phys
+
+
+To obtain solutions in this framework let us fisrt choice a Z-function and to solve (11). We know that the choice α 0 or β 0 corresponds to different gauge choice – see, for instance, Refs. [43, 56, 57]. If we consider the gauge in that β  0, the choice Z  φ leads the constraint to
+Wφφ − 2W − 2αkφ = 0	(14)
+and we have W = sinh(Aφ) − αkφ, for A = ±√2. The scalar field evolue as
+
+φ = A arctanh   B	 tanh  AB t	(15)
+A + αk	2
+when B	√α2k2	2, which requires that α2k2	2 > 0. The associated potential to this solution is given by
+
+V = 3 sinh2(Aφ) − [A cosh(Aφ) − αk]  A cosh(Aφ) + αk	(16)
+
+this is a extended potential explored in [58, 59] for the case in that the curvature term is considered, and others coupled terms are presents.
+The Hubble parameter gets to the form
+
+A ,	2	2 2	2 4
+H = αa2  (1 − α ka ) − 2α a	(17)
+It realizes that the case k	0 is not well defined, what it leads to restricting the solution to the hyperbolic case, being α a positive parameter. The acceleration parameter is given by
+
+2(1	α2ka2)
+q¯ = 1 − (1 − α2ka2)2 − 2α2a4	(18)
+and this determines the evolution of equation of state, provided that
+
+
+
+
+
+which in this case is
+
+ω = − 1 
+
+H 2
+1 + 2 H 2 + k/a2 q¯
+
+(19)
+
+
+
+1
+= − 3
+1 − α2a4(α2k2 − 2)
+
+/
+2 4  2 2	/ 2	2
+2
+
+(20)
+
+It is plotted in Fig. 1 for some specific values of α. We see that the acceleration, and the equation of state changes sign, nicely indicating that the cosmic evolution may evolves from deceleration to acceleration phase.
+The redshift-acceleration can be writing as za = −1 +  α√α2k2 − 2, is a hyperbolic or
+spherical universe. In this way it is possible to fit the parameter α, as we√made in the plot
+above [60–62], that show too a accelerated assintotical phase, to the α >	2.
+
+
+Int J Theor Phys
+
+
+Fig. 1 Plots of acceleration q¯ (left panel), and the equation of state ω (right panel); where the solid, dashed, and dashed-solid lines are apply to acceleration-redshift za = 0.5, za = 1, and za = 1.5, respectively
+
+We take the same model, but we now choose Z	W. The constraint equation is reduces to
+Wφφ − (1 + αk)W = 0	(21)
+
+
+Int J Theor Phys
+
+which is solved with W = A cosh(Bφ), being B = √1 + αk. The scalar field is given by
+
+1
+φ = B ln
+
+ tanh
+AB2
+t
+2
+
+(22)
+
+and the associated potential to this evolution has the form
+V = 3 A2B2  B2 + 2 sinh2(Bφ)	(23)
+this is a curvature extension of the potencial obtained in [63, 64], and we show that the presence of the curvature term turns the cosmological solutions more modificated.
+In this case the Hubble parameter is
+
+
+H = B
+
+2 A2
+  1	 1/2
+— αB2a2
+
+(24)
+
+and we have α < 0, what it restricts this form to the hyperbolic case. The cosmic acceleration gets to the form
+1
+q¯ = 1 − 1	αA2B2a2	(25)
+to the limit a >> 1 we have q	1, and the evolution of the universe is more and more accelerated. We use (19) to obtain
+
+ω = − 1 
+αA2B4a2
+
+/
+1 + 2 αA2B4a2 − 1
+
+(26)
+
+In Fig. 2 we are plotting the cosmic acceleration, and the equation of state, showing a new scenario, well distinct from the former one. Here the acceleration-redshift occurs to a remote phase of the universe [60].
+
+
+Tachyonic Dynamics
+
+We now turn attention to the case of tachyonic dynamics. The importance of tachyon in cosmology is inspired in String Theory, and can be seen by the recent works [65–70]. In this case, the Lagrange density is given by
+
+Lt = −V (φ) 1 − ∂μφ∂μφ	(27)
+The scalar field now evolves differently, according to
+φ¨ + (1 − φ˙2) 3H φ˙ + Vφ  = 0	(28) and the energy density ρt and pressure pt are changed to
+ρt = V ,	pt = −V ,1 − φ˙2	(29)
+1
+1 − φ˙2
+We use Friedmann equations and the equation for the acceleration (3a, 3b) to write
+
+H 2 = 2 ,	−
+(30a)
+
+3	1 − φ˙2	a2
+˙	/φ˙2	k
+H = −,1 − φ˙2 V + a2	(30b)
+
+
+Int J Theor Phys
+
+
+Fig. 2 Plots of the cosmic acceleration (left panel), and of the equation of state (right panel) for A = 1, where the solid, dashed, and dashed-solid lines are apply to α = −1.5,α = −2, and α = −2.5, respectively
+
+
+We extend the first-order formalism of Ref. [42] to tachyonic dynamics in the presence of curvature as follows. We consider
+H = ,W 2 − αkZ2	(31)
+
+
+Int J Theor Phys
+
+
+This choice allows writing the equation
+
+˙	2	,	Wφ
+
+(32)
+
+= − 3 W
+In this case, the potential has the form
+(W 2 − αkZ2)
+
+
+V = 3 W 2  1 − 4
+W 2/W 2
+ 1/2
+
+(33)
+
+2
+and the constraint becomes
+9 W 2 − αkZ2
+
+3W 3Z − 3αkWZ3 − 2WφZφ = 0	(34)
+The acceleration parameter is given by
+
+q¯ = 1 − 2 Wφ WWφ − αkZZφ
+
+(35)
+
+t	3 W  (W 2 − αkZ2)2
+In the slow-roll approximation [71], one uses that φ¨ and φ˙2 are very small. Here it makes no sense to neglect φ¨, but if we consider φ˙2 very small, we can rewrite the potential (33) in the much simpler form
+3	1	W 2
+
+V	/ W 2		φ	
+2	3 W 2 − αkZ2
+(36)
+
+and this is the result we could obtain if one uses (31), for scalar field evolving in accord to the standard dynamics. This result is very natural: in the tachyonic Lagrange density (27), if we expand the square root up to first order in ∂μφ∂μφ, we get to standard dynamics.
+To illustrate the general situation, let us consider some examples. We firstly notice that the case Z = 1 is trivial, and so we consider Z = W. This case leads us to the constraint
+3(1 − αk)W 4 − 2Wφ2 = 0	(37)
+
+
+which is solved by
+
+
+
+and we get
+
+√2
+W = ±√3(1 − αk) φ	(38)
+
+φ = ±, 2 t	(39)
+
+
+
+In this way we include the curvature term to the tachyonic potential introduced in [72]
+V = √3   1	  1 
+
+
+(40)
+
+
+being the Hubble parameter
+3	1 − αk	φ2
+
+ 1 − αk 1/2 1
+
+For any k we have q¯ = 0, as well as ω = − 1 , being 0 < α < 1 for the hyperbolic case, and
+α > 0 otherwise.
+
+
+Int J Theor Phys
+
+
+Another possibility is Z = W 2. Here we get the constraint
+3(1 − αkW 2)W 4 − 4Wφ2 = 0	(42)
+
+which is solved by
+
+
+This gives
+
+2
+W = ±  4αk + 3φ2	(43)
+√3
+
+φ	t	(44)
+3
+but now the tachyonic potencial [72–74] can be extend as
+2√6
+V = 4αk + 3φ2	(45)
+
+and the Hubble parameter is
+
+H =  a  − k
+
+1/2 1
+(46)
+a
+
+when k = 0 it gets q¯ = 0, being α > 0, and we have which to consider only the hyperbolic
+
+case
+
+q¯ = 1 −
+√αk − a/2	(47)
+√αk − a
+
+such that (19) allows to write ω	2/3, and we realize that, in this solution, acceleration
+is a effect of the curvarute term.
+We plot this acceleration parameter q in Fig. 3. The new scenarios show that for tachyons the acceleration goes asymptotically to 1/2, but the cosmic evolution is very similar to the
+
+Fig. 3 Plots of the cosmic acceleration (47) for α	0.1 (solid line), α	0.3 (dashed line), and α	0.5
+(dashed-solid line)
+
+
+Int J Theor Phys
+
+
+case shown in Fig.1. As was worked in the second case, under a the standard dynamics, the acceleration-redshift occurs to a remote phase of the universe.
+
+
+4 Summary
+
+We summarize this work recalling that we have extended the first-order formalism intro-duced in Ref. [42] to describe FRW models, driven by a single real scalar field with either standard or tachyonic dynamics for generic spherical, flat or hyperbolic spatial geometry. The importance of the procedure is related not only to the improvement of the precess of finding explicit solution, but also to the opening of another route, in which we can very fast and directly write the Hubble parameter H once Z  Z(φ) and W   W(φ) are given. As we have shown, the present investigations are of direct interest to modern cosmology, since they seem to open several distinct possibilities of investigation. In particular, in the case of tachyonic dynamics, we have built the full formalism, including the cases of closed and open geometries, which were not given in the former work [42]. The main results show that we can use standard or tachyonic dynamics to find interesting cosmic evolution, includ-ing the case where the cosmic acceleration changes sign, evolving from deceleration to acceleration.
+The interest in the subject will certainly broaden with the extension of the method to the case of several fields, since in this case we could find models in which one field can be used to affect the behavior of other fields, unveiling the possibility to control a given phase and to link different phases of the cosmic evolution. Another possibility is related to the inclusion of dark matter, as dust or fermionic generation, but considering the curvature term. These issues are now under investigation, and we hope to report on them in the near future.
+
+Acknowledgments The authors would like to thank Francisco Brito and Roberto Menezes for discussions, and CAPES, CNPq, and PRONEX/CNPq/FAPESQ for partial support.
+
+
+References
+
+Riess, A., et al.: Astron. J. 116, 1009 (1998)
+Perlmutter, S.J., et al.: Astrophys. J. 517, 565 (1999)
+Bachall, N.A., Ostriker, J.P., Perlmutter, S.J., Steinhardt, P.J.: Science 284, 1481 (1999)
+Komatsu, E. et al.: Astrophys. J. Suppl. 180, 330 (2009). arXiv:0803.0547 [astro-ph].
+Tonry, J.L., et al.: Astrophys. J. 594(1) (2003)
+Tegmark, M., et al.: Phys. Rev. D 69, 103501 (2004)
+Tegmark, M., et al.: Phys. Rev. D 74, 123507 (2006)
+Angle, J., et al.: Phys. Rev. Lett. 100, 021303 (2008)
+Peebles, P.J.E., Ratra, B.: Rev. Mod. Phys. 75, 559 (2003)
+Copeland, E.J., Sami, M., Tsujikawa, S.: Int. J. Mod. Phys. D 15, 1753 (2006)
+Kolb, E.W., Matarrese, S., Riotto, A.: New J. Phys. 8, 322 (2006)
+Carroll, S.M.: Living Rev. Rel. 4(1) (2001)
+Sahni, V.: Class. Quant. Grav. 19, 3435 (2002)
+Padmanabham, T.: Phys. Rep. 380, 235 (2003)
+Zlatev, I., Wang, L., Steinhardt, P.J.: Phys. Rev. Lett. 82, 896 (1999)
+Chiba, T., Okabe, T., Yamaguchi, M.: Phys. Rev. D 62, 023511 (2000)
+Capozziello, S., Carloni, S., Troisi, A.: Recent Res. Dev. Astron. Astrophys. 1, 625 (2003)
+Dolgov, A.D., Kawasaki, M.: Phys. Lett. B 573(1) (2003)
+Abdalla, M.C.B., Nojiri, S., Odintsov, S.D.: Class. Quantum Grav. 22, L35 (2005)
+Capozziello, S., Cardone, V.F., Troisi, A.: Phys. Rev. D 71, 043503 (2005)
+Carroll S.M., et al.: Phys. Rev. D 71, 063513 (2005)
+
+
+Int J Theor Phys
+
+
+Amendola, L., Polarski, D., Tsujikawa, S.: Phys. Rev. Lett. 98, 131302 (2007)
+Amendola, L., Gannouji, R., Polarski, D., Tsujikawa, S.: Phys. Rev. D 75, 083504 (2007)
+Bine´truy, P., Deffayet, C., Langlois, D.: Nuclear Phys. B 565, 269 (2000)
+Sahni, V., Shtanov, Y.: JCAP 0311, 014 (2003)
+Brax, P., Bruck, C., Davis, A.: Rep. Prog. Phys. 67, 2183 (2004)
+Setare, M.R.: Phys. Lett. B 642, 421 (2006)
+Bernardis, P., et al.: Nature 404, 955 (2000)
+Jaffe, A.H., et al.: Phys. Rev. Lett. 86, 3475 (2001)
+Netterfield C.B., et al.: Astrophys. J. 571, 604 (2002)
+Kuo, C., et al.: Astrophys. J. 600, 32 (2004)
+Seljak, U., Slosar, A., McDonald, P.: JCAP 0610, 014 (2006)
+Freedman, W.L., Turner, M.S.: Rev. Mod. Phys. 75, 1433 (2003)
+Linder, E.V.: Astropart. Phys. 24, 391 (2005)
+Polarski, D., Ranquet, A.: Phys. Lett. B 627(1) (2005)
+de Araujo, J.C.N.: Astropart. Phys. 23, 279 (2005)
+Lake, K.: Phys. Rev. Lett. 94, 201102 (2005)
+Franc¸a, U.: Phys. Lett. B 641, 351 (2006)
+Ichikawa, K., Takahashi, T.: Phys. Rev. D 73, 083526 (2006)
+McDonald, P., Eisenstein, D.J.: Phys. Rev. D 76, 063009 (2007)
+Clarkson, C., Cortes, M., Bassett, B.: JCAP 08, 011 (2007)
+Bazeia, D., Gomes, C.B., Losano, L., Menezes, R.: Phys. Lett. B 633, 415 (2006)
+Afonso, V.I., Bazeia, D., Losano, L.: Phys. Lett. B 634, 526 (2006)
+Bazeia, D., Brito, F.A., Losano, L.: JHEP 0611, 064 (2006)
+Bazeia, D., Brito, F.A., Costa, F.G.: Phys. Lett. B 661, 179 (2008)
+Bazeia, D., Losano, L., Rodrigues, J.J., Rosenfeld, R.: Eur. Phys. J. C. 55, 113 (2008)
+Bazeia, D., Losano, L., Menezes, R.: Phys. Lett. B 668, 246 (2008)
+Avelino, P.P., Bazeia, D., Losano, L., Menezes, R., Rodrigues, J.J.: Phys. Rev. D 79, 123503 (2009)
+Muslimov, A.G.: Class. Quant. Grav. 7, 231 (1990)
+Salopek, D.S., Bond, J.R. Phys. Rev. D 42, 3936 (1990)
+Lidsey, J.E.: Phys. Lett. B 273, 42 (1991)
+Liddle, A.R., Lyth, D.H.: Cosmological inflation and large-scale structure. Cambridge, NY (2000)
+Brito, F.A., Cvetic, M., Yoom, S.-C.: Phys. Rev. D 64, 064021 (2001)
+Cvetic, M., Lambert, N.D.: Phys. Lett. B 540, 301 (2002)
+Bazeia, D., Brito, F.A., Nascimento, J.R.: Phys. Rev. D 68, 085007 (2003)
+Skenderis, K., Townsend, P.K.: Phys. Rev. Lett. 96, 191301 (2006)
+Fredman, D.Z., Nu´n˜ez, C., Schnabl, M., Skenderis, K.: Phys. Rev. D 69, 104027 (2004)
+Sahni, V., Wang, L.: 62, 103517 (2000)
+Sahni, V.: Lect. Notes Phys. 653, 141 (2004)
+Daly, R.A., Djorgovski, S.G.: Astrophys. J. 597(9) (2003)
+Alam, U., Sahni, V., Saini, T.D., Starobinsky, A.: Mon. Not. Roy. Astron. Soc. 354, 275 (2004)
+Gong, Y., Wang, A., Wu, Q., Zhang, Y.Z.: JCAP 0708, 018 (2007)
+Uren˜a-Lo´pez, L.A., Matos, T.: Phys. Rev. D 62, 081302 (2000)
+Sahni, V., Starobinsky, A.: Int. J. Mod. Phys. D 15, 2105 (2006)
+Padmanabhan, T.: 66, 021301 (R) (2002)
+Kofman, L., Linde, A.: JHEP 07, 004 (2002)
+Bagla, J.S., Jassal, H.K., Padmanabhan, T.: Phys. Rev. D 67, 063504 (2003)
+Gibbons, G.W.: Class. Quantum Grav. 20, S321 (2003)
+Gorini, V., Kamenshchik, A.Y., Moschella, U., Pasquier, V.: Phys. Rev. D 69, 123512 (2004)
+Copeland, E.J., Garousi, M.R., Sami, M., Tsujikawa, S.: Phys. Rev. D 71, 043003 (2005)
+Liddle, A.R., Lyth, D.H.: Phys. Lett. B 291, 391 (1992)
+Feinstein, A.: Phys. Rev. D 66, 063511 (2002)
+Sami, M.: Mod. Phys. Lett. A 18, 691 (2003)
+Abramo, L.R., Finelli, F.: Phys. Lett. B 575, 165 (2003)
+
+
+
+
+
+
+
+
+MNRAS 540, 92–105 (2025)	Preprint 22 May 2025	Compiled using MNRAS LATEX style file v3.2
+
+
+
+From Einstein’s Cosmological Constant Λ to Entropic Geometry: A Dynamic Framework via the Haddad–Λ Tensor Ξ𝜇𝜈 (𝜙, 𝑅𝜇𝜈)
+Nader Haddad★
+Liverpool John Moores University, United Kingdom
+
+
+Accepted 2025. Received 2025; in original form 2024
+
+
+ABSTRACT
+We present a novel theoretical framework in which the cosmological constant Λ is promoted from a fixed scalar to a dynamical thermodynamic variable emerging from the quantum microstructure of spacetime. By extending the Einstein–Hilbert action through a non-minimal coupling between spacetime curvature and vacuum entropy density 𝑠vac(𝑥), we derive modified field equations of the form:
+1
+𝑅𝜇𝜈 − 2 𝑅𝑔𝜇𝜈 + Λ(𝑥)𝑔𝜇𝜈 + Ξ𝜇𝜈 = 8𝜋𝐺𝑇𝜇𝜈,
+where the local cosmological function is given by:
+Λ(𝑥) = Λ0 + 𝛾 ∇𝛼𝑆𝛼 (𝑥),
+with 𝑆𝛼 (𝑥) denoting the entropy current associated with vacuum fluctuations and 𝛾 ∈ R+ a coupling parameter. The correction tensor Ξ𝜇𝜈 incorporates the scalar field 𝜙(𝑥) responsible for modulating vacuum entropy via:
+
+
+Ξ𝜇𝜈
+= 𝛼 ∇𝜇
+
+𝜙∇𝜈
+𝜙	1 𝑔 2
+
+
+𝜇𝜈
+
+∇𝛼
+
+𝜙∇𝛼𝜙 + 𝛽 𝜙2𝑅
+
+𝜇𝜈 .
+
+The resulting field equations yield a self-regulating cosmological dynamics, in which the evolution of Λ(𝑥) is governed by:
+□𝜙 + 𝑉′(𝜙) = 𝛿 𝜕𝑠vac ,
+establishing a direct link between quantum entropy production and large-scale acceleration. This framework unifies the early inflationary phase and the current dark energy epoch under a common dynamical mechanism, and addresses the longstanding discrepancy between quantum vacuum energy predictions and observed Λobs ∼ 10−122𝑀4 .
+We conclude by deriving testable predictions for next-generation cosmological probes such as CMB-S4, Euclid, and JWST, and show how deviations from ΛCDM at 𝑧 > 1.5 may serve as critical empirical signatures. This approach also paves the way for embedding vacuum thermodynamics within a topologically-constrained quantum gravity framework.
+Key words: cosmology: theory – dark energy – gravitation – entropy – quantum field theory – vacuum
+
+
+
+INTRODUCTION
+The cosmological constant Λ was originally introduced by Einstein in 1917 to achieve a static universe model Einstein (1917). Fol-lowing the advent of Hubble’s discovery of cosmic expansion, the need for a constant Λ diminished, yet it re-emerged with the dis-covery of late-time acceleration in the universe’s expansion. While successful at the phenomenological level, the standard cosmological constant paradigm presents deep theoretical challenges, most notably the discrepancy of over 120 orders of magnitude between the vacuum energy predicted by quantum field theory and the observed value of Λ Weinberg (1989).
+
+
+★ E-mail: n.haddad@2020.ljmu.ac.uk
+This discrepancy has led to a wide range of theoretical proposals, ranging from dynamic dark energy models to modifications of gen-eral relativity. In this work, we propose a new framework in which the cosmological constant is no longer a fixed background parameter, but a dynamical quantity emerging from the thermodynamic proper-ties of the vacuum. This approach is inspired by the thermodynamic interpretation of gravity Jacobson (1995), the entropic force models Verlinde (2011), and entropy bounds arising in black hole thermo-dynamics Bekenstein (1973); Hawking (1975).
+
+We build on the insight that entropy production in the quantum vacuum can act as a source of curvature, yielding a dynamic Λ(𝜙) that evolves in response to the entropy current. This formulation introduces a novel tensor, the Haddad–Λ tensor Ξ𝜇𝜈, which encap-sulates the coupling between scalar entropy modes and spacetime
+
+
+© 2025 The Authors
+
+N. Haddad
+
+
+geometry Haddad (2025). The formal foundation of this tensor has been rigorously established in recent work Haddad (2025), where its role in geodesic deformation and entropy-coupled curvature flow was derived from a generalized Raychaudhuri equation.
+Our construction aligns with recent advances in quantum informa-tion geometry and modular Hamiltonians Faulkner et al. (2014), and finds compatibility with the causal structure of spacetime as analyzed in Penrose’s singularity theorems Penrose (1972) and Witten’s recent work on light-ray operators and gravitational entropy Witten (2018).
+The aim of this paper is to develop a consistent theoretical and mathematical structure for a dynamic cosmological constant, to derive its modified field equations, and to provide observationally testable consequences using current and forthcoming cosmological surveys. “dark energy.”
+Despite its observational success, the cosmological constant suf-fers from severe theoretical issues. The most pressing is the dis-crepancy between quantum field theory estimates of vacuum energy density, which exceed the observed value by over 120 orders of mag-nitude(Weinberg 1989). This glaring mismatch—termed the “cos-mological constant problem”—remains one of the most profound unsolved problems in physics. Moreover, the apparent constancy of Λ contradicts the dynamical nature of nearly all other fields in physics, suggesting that it may be more fruitful to treat Λ as an emergent or evolving quantity rather than a fundamental constant.
+In this paper, we propose a new theoretical formulation in which
+Λ arises dynamically from the underlying thermodynamic and quan-
+energy domination—without invoking multiple separate scalar field theories or arbitrary potential tuning.
+In the sections that follow, we formalize the mathematical structure of this theory, derive the modified field equations from an extended action principle, and explore the cosmological consequences of this dynamic framework. Our goal is to provide both a theoretically co-
+herent and observationally testable alternative to the standard ΛCDM
+paradigm, grounded in the interplay between thermodynamics, quan-tum field theory, and general relativity.
+
+
+
+2 FIELD EQUATIONS AND THE HADDAD–Λ TENSOR
+To formalize the thermodynamic origin of the cosmological constant, we extend the Einstein–Hilbert action by incorporating a scalar field
+𝜙(𝑥) that encodes the entropy variation of the vacuum. The action
+takes the form:
+𝑆 =   1   ∫ 𝑑4𝑥√−𝑔 .𝑅 − 2Λ(𝜙) + L𝜙 + Lmatter. ,	(1)
+where Λ(𝜙) is a dynamic cosmological term modulated by the scalar field, and L𝜙 is the Lagrangian density associated with the scalar field:
+
+1
+
+tum structure of spacetime. Our approach draws from semiclassical gravity, thermodynamics of horizons(Jacobson 1995), and recent de-
+L𝜙 = − 2 𝑔
+𝜇𝜈
+∇𝜇𝜙∇𝜈 𝜙 − 𝑉 (𝜙).	(2)
+
+velopments in emergent gravity and entropic forces(Verlinde 2011). Specifically, we introduce a dynamical scalar field 𝜙(𝑥) whose inter-action with vacuum entropy modulates the effective value of Λ(𝑥).
+We show that this framework leads to a modified set of field equa-tions incorporating a correction tensor Ξ𝜇𝜈, which captures the feed-back between vacuum entropy gradients and large-scale spacetime geometry. The result is a unified picture of cosmological accelera-tion, encompassing both early inflation and late-time expansion, and offering testable predictions for future astrophysical surveys.
+Recent theoretical advances have increasingly suggested that spacetime itself may possess microscopic degrees of freedom, akin to the atoms of a thermodynamic system. This perspective is re-inforced by the thermodynamic properties attributed to black hole horizons—such as entropy proportional to surface area and temper-ature determined by surface gravity—culminating in the celebrated Bekenstein–Hawking formula. These insights imply that spacetime dynamics might emerge from deeper statistical principles, with the Einstein field equations representing an equation of state rather than a fundamental law.
+Varying the total action with respect to the metric yields the mod-
+ified field equations:
+
+𝐺𝜇𝜈 + Λ(𝜙)𝑔𝜇𝜈 + Ξ𝜇𝜈 = 8𝜋𝐺𝑇𝜇𝜈,	(3) where the correction term Ξ𝜇𝜈, which we refer to as the Haddad–
+Λ Tensor, captures the backreaction of entropy-coupled geometry:
+
+Ξ𝜇𝜈 ≡ 𝛼 ∇𝜇𝜙∇𝜈 𝜙 − 1 𝑔𝜇𝜈∇𝜆𝜙∇𝜆𝜙 + 𝛽𝜙2 𝑅𝜇𝜈 .	(4)
+
+Here, 𝛼 and 𝛽 are coupling constants, and 𝑅𝜇𝜈 is the Ricci tensor. The first term resembles the canonical stress-energy tensor of a scalar field, while the second introduces a non-minimal coupling between the entropy field 𝜙 and the curvature, embedding thermodynamic fluctuations into the geometry itself.
+The dynamical equation for the field 𝜙(𝑥) is obtained by variation of the action with respect to 𝜙:
+
+Building upon this idea, Jacobson famously derived the Einstein
+/
+
+′	𝑑Λ
+ 𝜕𝑠vac 
+
+/
+
+
+zon thermodynamics. In this spirit, we posit that the cosmological constant, rather than being a fundamental input, should be under-stood as an emergent quantity governed by the entropic content and
+quantum fluctuations of vacuum states. Specifically, we treat Λ as a
+function of a spacetime-dependent scalar field 𝜙(𝑥), which captures variations in vacuum entropy production and interacts with curvature. The resulting field equations, modified to include a dynamical
+Λ(𝑥) and an entropy-coupled tensor Ξ𝜇𝜈, present a self-regulating
+cosmological model. This model not only addresses the fine-tuning problem of Λ, but also provides a natural mechanism for transitioning between different expansion regimes—such as inflation and dark
+where 𝛿 is a phenomenological constant linking the scalar field to the gradient of vacuum entropy density 𝑠vac. This equation illustrates the interplay between quantum information content of spacetime and the effective value of Λ.
+Together, equations (3)–(6) form a self-consistent dynamical sys-tem wherein the cosmological term is no longer imposed externally but evolves in response to the internal degrees of freedom of the vacuum.
+In the next section, we analyze the implications of this modified theory for cosmological evolution and identify observational signa-tures that could distinguish it from the standard ΛCDM framework.
+
+
+MNRAS 540, 92–105 (2025)
+
+From Einstein’s Cosmological Constant Λ to Entropic Geometry: A Dynamic Framework via the Haddad–Λ Tensor Ξ𝜇𝜈
+
+
+3 FIELD EQUATIONS AND THE HADDAD–Λ TENSOR
+To formalize the thermodynamic origin of the cosmological constant, we propose an extension of the Einstein–Hilbert action in which the cosmological term Λ is no longer a constant, but a dynamical function of a scalar field 𝜙(𝑥). This field encapsulates the entropy fluctuations and microscopic degrees of freedom associated with the quantum vacuum.
+The total action is given by:
+𝑆 =   1   ∫ 𝑑4𝑥√−𝑔 .𝑅 − 2Λ(𝜙) + L𝜙 + Lmatter. ,	(6)
+where 𝑅 is the Ricci scalar, Λ(𝜙) is the scalar-dependent cosmolog-ical function, L𝜙 is the Lagrangian of the scalar field, and Lmatter denotes the Lagrangian for ordinary matter and radiation.
+We assume the scalar field Lagrangian takes the standard form:
+This equation suggests that entropy gradients in the vacuum act as a source term for the evolution of 𝜙. As a result, the scalar field evolves toward configurations that extremize entropy production, in analogy to principles found in non-equilibrium thermodynamics. This dy-namical behavior reflects a form of "entropic feedback" that leads to spontaneous regulation of the effective cosmological constant.
+The full gravitational dynamics are now governed by the coupled system of equations (3)–(6), which together describe the backreac-tion of quantum-vacuum microphysics on large-scale cosmological geometry. These modifications imply:
+A time-dependent Λ(𝜙(𝑡)) evolving with cosmological epoch.
+Modified Friedmann equations and non-trivial dynamics dur-ing phase transitions in the early universe.
+Observable deviations from ΛCDM in late-time cosmic ac-
+celeration.
+
+1
+L𝜙 = − 2 𝑔
+𝜇𝜈
+∇𝜇𝜙∇𝜈 𝜙 − 𝑉 (𝜙),	(7)
+In the forthcoming sections, we analyze the cosmological conse-quences of these equations, including specific solutions in homoge-
+
+where 𝑉 (𝜙) is a self-interaction potential. The inclusion of Λ(𝜙) modifies the gravitational dynamics such that vacuum energy is no longer fixed but responds dynamically to the evolution of 𝜙.
+Varying the action with respect to the metric yields the modified Einstein equations:
+𝐺𝜇𝜈 + Λ(𝜙)𝑔𝜇𝜈 + Ξ𝜇𝜈 = 8𝜋𝐺𝑇𝜇𝜈,	(8)
+where 𝐺𝜇𝜈 = 𝑅𝜇𝜈 − 1 𝑅𝑔𝜇𝜈 is the Einstein tensor, and 𝑇𝜇𝜈 is the energy–momentum tensor of matter and radiation.
+The novel term Ξ𝜇𝜈, referred to here as the Haddad–Λ Tensor, captures the non-trivial coupling between the scalar entropy field and spacetime geometry. It is given by:
+neous and isotropic spacetimes and potential observational discrim-inants.
+
+
+4 MODIFIED FRIEDMANN EQUATIONS AND COSMOLOGICAL DYNAMICS
+In the standard cosmological model, the Friedmann equations govern the expansion of the universe under the assumptions of homogeneity and isotropy. When introducing a dynamical cosmological constant Λ(𝜙) and its associated tensor Ξ𝜇𝜈, these equations acquire new terms that reflect the backreaction of vacuum entropy on spacetime geometry. The first modified Friedmann equation reads:
+
+
+Ξ𝜇𝜈
+= 𝛼 ∇𝜇
+𝜙∇𝜈
+𝜙	1 𝑔 2
+
+𝜇𝜈
+∇ 𝜙∇𝜆
+𝜙 + 𝛽𝜙2 𝑅
+
+𝜇𝜈
+,	(9)
+3𝐻2 = 8𝜋𝐺𝜌 + Λ(𝜙) + Ξ00,	(11)
+where Ξ00 is the temporal component of the Haddad–Λ tensor. This
+
+where:
+𝛼 ∈ R controls the kinetic contribution of the entropy field;
+𝛽 ∈ R modulates the non-minimal coupling between 𝜙 and curvature.
+The first term in Ξ𝜇𝜈 mimics the stress-energy tensor of a canonical scalar field, while the second term introduces geometric feedback, allowing local curvature to influence and be influenced by entropy variations.
+This structure is reminiscent of scalar–tensor theories such as Brans–Dicke gravity, but with a fundamentally different interpreta-tion: here, 𝜙 encodes the quantum vacuum’s thermodynamic state rather than an effective gravitational constant. The form 𝛽𝜙2 𝑅𝜇𝜈
+introduces a curvature-dependent mass term for 𝜙, leading to dy-
+namical suppression or enhancement of vacuum energy in highly
+correction can be interpreted as an additional energy density sourced by scalar entropy fluctuations and curvature coupling Padmanabhan (2010); Jacobson (1995).
+The presence of such corrections is consistent with vari-ous approaches in the literature. Scalar-tensor theories, including Brans–Dicke models and 𝑓 (𝑅) gravity, naturally lead to modified Friedmann equations Fujii & ichi Maeda (2003); Nojiri & Odintsov (2007). Entropic gravity formulations suggest that gravity itself is an emergent phenomenon, with cosmological implications for the Hubble parameter Verlinde (2011); Easson et al. (2011). Studies of
+de Sitter thermodynamics and horizon entropy also hint at a dy-namic vacuum contribution Gibbons & Hawking (1977); Padman-abhan (2002).
+The scalar field 𝜙 evolves with cosmic time and its kinetic term
+contributes directly to the expansion rate through:
+
+curved regions.
+The dynamics of 𝜙 follow from variation of the action with respect
+Ξ00
+= 𝛼 𝜙˙2 + 𝛽𝜙2 𝑅
+,	(12)
+
+to the scalar field:
+□𝜙 − 𝑉′(𝜙) + 𝑑Λ = 𝛿 𝜕𝑠vac ,	(10)
+where 𝑅00 is the time–time component of the Ricci tensor. During inflation, when 𝑎(𝑡) ∼ 𝑒𝐻𝑡 , the rapid growth in 𝜙 and the entropy
+
+
+where:
+𝑑𝜙
+𝜕𝜙
+gradient can enhance the effective vacuum energy Barrow & Sonoda
+(2004); Mukhanov (2005).
+Quantum backreaction effects from vacuum fluctuations are well
+
+□ = ∇𝜇∇𝜇 is the d’Alembertian operator;
+𝑉′(𝜙) = 𝑑𝑉/𝑑𝜙;
+𝛿 is a phenomenological coupling constant linking vacuum en-tropy variations to field dynamics;
+𝑠vac is the vacuum entropy density, a scalar function dependent on the quantum state of the field.
+studied in semiclassical gravity Birrell & Davies (1982); Parker & Toms (2009). These corrections often manifest in the stress-energy tensor and influence the Friedmann equations Wald (1994); Hu & Verdaguer (2008). From the holographic standpoint, entropy bounds suggest limits on Λ related to quantum information flow Bousso (2002); Faulkner et al. (2014); Susskind (1995).
+
+MNRAS 540, 92–105 (2025)
+
+N. Haddad
+
+
+Moreover, information-theoretic approaches relate the Fisher in-formation metric and relative entropy to cosmological evolution Brody & Hughston (1996); Carroll & Michalakis (2014). In these interpretations, the scalar field 𝜙 serves as a coarse-grained variable encoding the geometry of entanglement space et al. (2016); Jacobson (2016).
+Cosmic acceleration observed in Type Ia supernovae and CMB anisotropies et al. (1998, 1999) motivates alternatives to constant Λ. Models with dynamical vacuum energy have been proposed us-
+ing effective field theory techniques Burgess (2013), thermodynamic considerations Davies (1987), and causal entropy bounds Brustein (2000).
+All these directions point toward a unifying theme: the expansion of the universe is deeply connected to quantum and thermodynamic degrees of freedom. Our formulation provides a consistent covariant expression of this principle through the modified Friedmann dynam-
+ics sourced by Ξ𝜇𝜈 and Λ(𝜙).
+We assume the scalar field 𝜙 depends only on time, 𝜙 = 𝜙(𝑡), in accordance with cosmological symmetries. The energy–momentum tensor of a perfect fluid is:
+𝑇 𝜇 = diag(−𝜌, 𝑝, 𝑝, 𝑝),	(13)
+and we include the scalar field contributions from Ξ𝜇𝜈 into the modified Einstein equations.
+Using the FLRW background, the modified Friedmann equation derived from the 00-component of equation (3) becomes:
+Inflationary Regime
+In the early universe, we consider a potential 𝑉 (𝜙) with a flat plateau—typical in inflationary models—such that the scalar field evolves slowly, and 𝜙˙2 ≪ 𝑉 (𝜙). The Friedmann equation simplifies under the slow-roll approximation:
+
+3𝐻2 ≃ Λ(𝜙) + 𝑉 (𝜙),	(17)
+
+3𝐻𝜙˙ ≃ 𝑑Λ − 𝑉′(𝜙),	(18)
+
+where 𝛽𝜙2 𝑅𝜇𝜈 contributes an effective correction to the inflaton potential, providing geometric stabilization.
+The entropy gradient term 𝛿(𝜕𝑠vac/𝜕𝜙) acts as an additional source driving 𝜙 out of equilibrium, enabling a graceful exit from inflation. This could replace the need for an ad hoc reheating mecha-nism by enabling vacuum decay into standard model particles through entropy production.
+
+Radiation and Matter-Dominated Epochs
+During the radiation- and matter-dominated eras, the energy density of standard matter and radiation dominates over vacuum contribu-tions. Here, 𝜙 evolves toward local minima of an effective potential:
+
+ 𝑎˙ 2
+ 𝑘
+𝛼 2
+3𝛽

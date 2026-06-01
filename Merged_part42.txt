@@ -1,0 +1,1840 @@
+pre-determines (see equation (4.8)) the vacuum domination crossing redshift (V DCR), zc. Figure 1b shows that the value Ωdm,old = 0.16 is consis-tent with a vacuum domination redshit zc ≃ 2.0. We take this redshift as our working upper bound value for zc. The shaded region (in Figure 1b) on the right of zc ≃ 2 is therefore restricted (albeit weakly) by structure formation. As Fig-ure 1b shows, at this upper bound zc we obtain an upper bound vacuum density value of ΩΛ,0 ≃ 0.60 and a corresponding lower bound on total matter density of Ωm,0 ≃ 0.4 (dark matter density of Ωdm,0 ≃ 0.36). We also obtain here an upper bound on the matter created since this V DCR to date as ∆Ωm ≃ 0.20. Now, we suppose that the created matter should slowly gravitate towards the clusters.
+Based on measurements from cluster baryon fraction techniques24 we assume a central value of matter density Ω˜m,0 ≃ 0.3 ± 0.1 bound in clusters (i.e. dark matter density Ω˜dm,0 ≃ 0.26) and estimate the upper bound for created matter already accreted onto the clusters to be Ω˜dm,0 — Ωdm,old ≃ 0.10, leaving an estimate of the lower bound for inter-cluster matter to be Ωdm,0 — Ω˜dm,0 ≃ 0.10.
+At the other extreme it is possible that none of the decay products in ∆Ωm have yet deposited onto the bound matter in clusters. In that case the value of dark matter bound in clusters24, Ω˜m,0 — Ω˜B ≃ 0.26(3), would be solely that
+due to the old dark matter Ωdm,old ≃ 0.26(3). A look at Figure 1b shows that such a value corresponds to a lower bound on V DCR of zc ≃ 0.89. This, in turn, yields a lower bound on the decay products of ∆Ωm ≃ 0.13(3), an upper bound on total matter Ωm,0 ≃ 0.43 (dark matter Ωdm,0 ≃ 0.39(6)) and a lower bound on vacuum energy of ΩΛ,0 ≃ 0.57. In Figure 1b, the shaded region on
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.0
+
+
+0.8
+
+
+0.6
+
+
+0.4
+
+
+0.2
+
+
+0.0
+1.0
+
+
+0.8
+
+
+0.6
+
+
+0.4
+
+
+0.2
+
+
+0.0
+0	1	2	3	4	5
+zc
+Figure 1: (a) Current relative magnitudes of vacuum density, ΩΛ,0, total density Ωm,0, the “old” matter density Ωm,old and the “new” matter density ∆Ωm depend on V DCR, zc. (b) The same dependence for dark matter Ωdm,old and Ωdm,0 with ΩB fixed at the BBN value. Using priors on Ωdm,old to put bounds on zc we constrain all the other quantities. The vertical dotted line gives results based on Ωdm,old used to simulate recent (Wang 2001) best CMB fit.
+
+
+
+
+the left is disfavored by these constraints.
+We can now summarize the constraints which, with the use of the selected priors, our model imposes on the cosmological parameters. Recall that central values of Ωdm,old are used to choose the constraints and as such the latter are only intended to be illustrative. Given these assumptions, our model tells a story of a universe that started off with dark matter that now contributes a partial density 0.16 ≤ Ωdm,old ≤ 0.26. Recently, at a redshift of 0.89 ≤ zc ≤ 2.0 the universe became vacuum dominated. Since then the decaying vacuum has produced matter. This new matter contribution presently amounts to 0.13 ≤
+∆Ωm ≤ 0.20 with as much as 0 ≤ Ω˜dm,0 — Ωdm,old ≤ 0.10 already deposited on to the clusters, leaving as much as 0.10 ≤ Ωdm,0 — Ω˜dm,0 ≤ 0.13(3) to be inter-cluster unbound matter. The result is a vacuum dominated universe with
+a vacuum density 0.57 ≤ ΩΛ,0 ≤ 0.60 and a total (including ΩB) matter density
+0.40 ≤ Ωm,0 ≤ 0.43.
+
+DΛ — CDM and CMB
+It is evident from this discussion of the DΛ — CDM model that our knowl-edge of the present energy state of the universe would be considerably improved with tighter constraints on the primordial dark matter Ωdm,old. One unique tool to narrow down such constraints is the cosmic microwave background (CMB) radiation. The anisotropies in CMB are a powerful window into the early uni-verse providing us with information about structure formation and cosmology in general25. CMB has this ability because the amplitudes of its power spectrum (particularly the first peak) depend on the amount of dark matter that was available in the early universe to create gravitational potential wells into which the baryonic matter eventually collected. Moreover the heights of such peaks26 in the power spectrum are not significantly affected by any (dark) matter ∆Ωm that might result from the effects of the recent domination of the universe by the vacuum (> 1000 redshifts later). The only effect that such “new” mat-ter will have on the CMB power spectrum is to shift, slightly, the horizontal (multipole) axis because of the expected ∆Ωm’s lensing effects and the resulting change in the angular distance relationship. With the new combined data from BOOMERaNG, Maxima and DASI, the best fit simulations27 seem to suggest a primordial dark matter content with a central value of h2Ωdm,old ≃ 0.1.
+Using this prior in our model (Figure 1b) we find a vacuum domination crossing redshift VDCR of zc ≃ 1.6. Following the same arguments as before we see that the amount of matter produced from the decaying vacuum since zc would be ∆Ωm ≃ 0.18. Out of this as much as Ω˜dm,0 — Ωdm,old ≃ 0.08 would
+have already deposited on clusters, leaving as much as Ωdm,0 — Ω˜dm,0 ≃ 0.1 unbound in the inter-cluster voids. This gives a vacuum dominated universe with ΩΛ,0 ≃ 0.59 and Ωm,0 ≃ 0.41. Figure 1b (dotted vertical line) shows that these results, using as a prior Ωdm,old associated with CMB best fit, fall
+
+
+
+
+well within the bounds described by the model. On the basis that CMB is our best probe of the early universe so far, we take these CMB-based results as our central values.
+
+Features and tests of the model
+In closing this discussion it is worthwhile to ask what new features the DΛ—CDM model introduces into cosmology and astrophysics. We start by noting that the model we have presented independently depicts a universe which is presently vacuum dominated. In Section 3 we discussed the asymptotic behavior of the equation of state for the dynamical and interacting vacuum fluid used in our model. Such behavior uniquely introduces some features in the dynamics of the universe. In our discussion we found that such an interacting vacuum should be defined by an equation of state that depends not only on the vacuum energy density but also generally on the interactions between the vacuum and matter fields. In the limit of vanishing matter fields (or weak field limit) we showed that the usual, locally Lorentz invariant, vacuum equation of state p = —ρ is recovered. This result is usefull in as far as it suggests that the model meets this requirement of general relativity. Moreover, as the vacuum becomes dominant and accelerates the universe in the process, the matter production rate from the decaying vacuum also increases. Provided the matter creation window ε is large enough, this in turn increases the amount of matter in the universe, effectively decreasing the vacuum to matter density ratio. In the process, the equation of state adjusts to produce less and less matter as the matter component of the universe starts to dominate. Such a newly matter dominated universe would then begin to decelerate. At the same time the matter production from the
+decaying vacuum becomes suppressed due to matter dominance in the equation
+−3
+of state, the matter fields are redshifting with the scale factor as a (t)	which
+−2
+is again faster than the dynamical (false) vacuum that is redshiting as a (t)	.
+Thus soon or later the matter field density ρm falls below the vacuum energy density ρΛ. At this point the universe re-enters a vacuum dominated phase, begins to accelerate again and to produce more matter in the process. This
+a state of affairs then depicts a universe that may be self-tuning, periodically entering and exiting inflationary phases. Such a self-tuning universe would be stable to vacuum-induced runaway accelerations.
+Our model of a universe with interacting fluids also does suggest a conceptual explanation to the Coincidence Problem. The Coincidence Problem expresses our lack of a simple explanation to why the energy densities in the vacuum and matter are presently comparable1, especially in view of the fact that recombi-nation (z ∼ 1000) and structure formation could only have been possible if the early universe was excessively matter dominated. In DΛ — CDM the matter
+
+fields redshift faster than the dynamical vacuum by ρm
+Λ
+~ a (t)−1.  If matter
+
+was in dominance at some point in the past-then, independent of the initial
+conditions, the two field densities eventually cross at zc as the vacuum takes dominance. We have seen in the previous section that the combined effects of
+
+
+
+
+matter production from the vacuum and the perturbations in redshifting of the fields, forces the latter to interact within a decaying envelope. As the universe expands, the amplitudes of the vacuum and the matter field densities then con-tinue to approach each other as they also decrease. This approach may or may not have a local oscillatory character in time. If the fields have an oscillatory character then there will be repeated local periods in time when their ampli-tudes are comparable. In general, the above combined effects eventually make the fields comparable as the universe evolves towards some attractor stable state in the future. The answer to the “why now...?” part of the Coincidence Problem may then be “ because the universe is old enough.”
+There are some features of the DΛ — CDM which are potentially verifiable. The first has to do with the suggestion the model makes that the total matter density of the universe is more than that bound in clusters, with the excess, Ωdm,0 — Ω˜dm,0 , still unbound voids. Such smoothly distributed inter-cluster matter may be distinguished from the vacuum by use of candles like Type Ia
+supernovae1. However, noting (from the priors used) that the predicted amount
+of smooth inter-cluster matter is only as much as 0.10 ≤ Ωdm,0 — Ω˜dm,0 ≤
+0.13 its presence could still be hidden within the error bars (see for example (Perlmutter 1999)) of current detection techniques. It is interesting to ask what our results look like if we hide the above smooth dark matter within the vac-uum. Recall that in our model (and based on the priors used) we found a vacuum density 0.57 ≤ ΩΛ,0 ≤ 0.60 and a total (including ΩB) matter density
+0.40 ≤ Ωm,0 ≤ 0.43. Clearly hiding Ωdm,0 — Ω˜dm,0 elevates the vacuum den-sity to ΩΛ,0 ≃ 0.7 while equally suppressing the matter density to Ωm,0 ≃ 0.3. Coincidentally, these values correspond to those of some currently popular cos-mological models.
+There is, however, a second feature of DΛ — CDM related to inter-cluster matter that may be more readily testable. This has to do with the suggestion we make that the newly produced dark matter in ∆Ωm should readily respond to the long range gravitational potentials of clusters by moving directly towards the same clusters. As a consequence, observations of dark matter halos of clusters may fail to detect a simple clear cut-off in the radial component of the halo density profiles. Recent observations28 of matter distribution in galaxies based on lensing show that density profiles of the dark matter halos manifest no obvious cut-off, up to 300h−1 kpc. While such preliminary results may not constitute a vindication of the DΛ — CDM model they tend to favor rather than disfavor the model. A concrete verification of these predictions can only be achieved through extensive exploration of halos. It is hoped that future long range lensing projects28 will shade some more light on this issue.
+In the event that a fairly significant amount of ∆Ωm may have accreted on to cluster dark matter halos then one more effect could be verified in the future, with more precise measurement techniques. In that case primordial (pre-recombination) dark matter Ωdm,old will have a deficit with respect not only to the total present dark matter content Ωdm,0 but also to that observed24 bound-
+
+
+
+in-clusters dark matter Ω˜dm,0. Such information would already be imprinted on CMB which is powerful probe into the early universe. One recalls that in adiabatic inflationary models17 primordial dark matter is essential for creating the gravitational potentials that the baryons eventually get drawn into, after recombination. This is the process of structure formation. The freely streaming photons, after last scattering, then carry all this information forever as ampli-tude perturbations in their power spectrum. In particular, the height of the first peak in the CMB power spectrum is very sensitive to the available amount of primordial dark matter Ωdm,old. On the other hand CMB does cleanly dis-criminate between pre- and post-recombination events. In particular, the height of the first peak would not be affected by any dark matter ∆Ωm created long after recombination and structure formation. The ∆Ωm’s only possible effect on the CMB power spectrum would be to slightly shift the curve horizontally (along the multipole moments axis) because of the slight changes in the angular distance relation resulting from the lensing effects. Thus the effect to look for is that CMB data should consistently demand best fits that use slightly less dark
+matter Ωdm,old than that traditionally observed Ω˜dm,0 in galaxies and clusters,
+by such standard techniques as X-ray surveys. It has been pointed out before by several experts (see for example29) that CMB fits may be improved by ini-tial (pre-recombination) low dark matter values. The recent CMB data, for example, seems to suggest best fits29 with central values of Ωdmh2 = 0.1+.07. However even with central values as low as these the results still lie within the error bars of the usually quoted dark matter values. Thus, if the effect exists, it can only be isolated by future higher precision measurements.
+
+Conclusion
+In the preceding discussion we have investigated the possible effects of a decaying vacuum energy density provided by a dynamical positive cosmological constant Λ (t). On applying generalized energy conservation conditions one finds that such vacuum decay will produce matter fields. This matter production by a dynamical cosmological constant is triggered by the recent domination of the universe by vacuum energy. Our model also assumes inflation and big bang nucleothenthesis (BBN). With these assumptions we have written down several of the cosmological quantities, including the present fractional densities of matter Ωm,0 and vacuum ΩΛ,0 contents in the universe in terms of only one parameter, namely: the recent vacuum domination crossing redshift (VDCR), zc. This dependence on zc makes these densities observable quantities. A central feature of this model is that the amount of matter Ωm,0 in the current universe is more than that Ωm,old at the time of recombination by an amount ∆Ωm that has been created since vacuum domination at zc. While this “new” matter is produced smoothly everywhere it could accrete onto clusters through the long-range gravitational potentials of the latter.
+To relate our arguments to observation we first estimate when the vacuum comes to dominate the universe, by constraining zc. This is done by establishing
+
+
+
+
+reasonable bounds on the primordial dark matter, Ωdm,old. In our calculations we apply only the central values of such bounds. Given these priors we constrain the vacuum domination crossing redshift to 0.89 ≤ zc ≤ 2.0. Within these constraints we find that from z = zc to the present, the decay of dark energy should have created matter to the tune of 0.13 ≤ ∆Ωm ≤ 0.20 with as much as 0 ≤  Ω˜dm,0 — Ωdm,old ≤ 0.10 already deposited onto the clusters, leaving
+as much as 0.10 ≤ Ωdm,0 — Ω˜dm,0 ≤ 0.13 to be inter-cluster unbound matter. Consequently, within these constraints, the DΛ — CDM model finds that the universe is presently vacuum dominated with a vacuum density of 0.57 ≤ ΩΛ,0 ≤ 0.60 and a total matter density of 0.40 ≤ Ωm,0 ≤ 0.43. Further, using as a prior the dark matter density that currently gives the best fit to the latest CMB data, we find that the results (Figure1, dotted vertical line) fall well within the boundaries we already established. When used as a prior the CMB based h2Ωdm,old ≃ 0.1 predicts in our model a universe that has been vacuum dominated since zc ≃ 1.6 and currently has a total matter density of Ωm,0 ≃ 0.41
+and a vacuum dark energy density of ΩΛ,0 ≃ 0.59. We take these results as our central values.
+In closing we summarize some of the new features the model introduces in cosmology. First, the model points to an existence of newly formed dark matter in the inter-cluster voids and suggests that some of this matter should already be accreting onto clusters through the latter’s long range gravitational potentials. There are two consequences of this. If some of the newly produced matter is indeed already leaking onto the cluster then the latter’s dark matter halos will be extended in space and demonstrate little or no clear cut-off in their radial density profiles. Secondly, if indeed a substantial amount of this matter has already landed then the amount of dark matter we observe bound in clusters will be greater than that needed to produce the best CMB fits by an amount that might have already deposited onto the clusters. The difference between these two values, if it exists, could still be hidden within the measurements’ error bars. A final feature of our model relates to the combined effect of the matter production by a decaying vacuum and the different rates namely, a (t)−3 and
+−2
+a (t)	at which matter and the vacuum respectively dilute with the scale factor.
+Such combination may create conditions for a universe in which the vacuum and matter densities evolve towards comparable and decreasing amplitudes. This suggests a conceptual explanation to the Coincidence Problem. It also implies that the universe may be stable to vacuum-induced runaway accelerations.
+In order to establish the validity of such notions, it is evident that more work needs to be done including developing exact functional form of the equation of state. Such efforts are being undertaken and the results will be reported elsewhere.
+Acknowledgement 1 This work was made possible by funds from the Univer-sity of Michigan
+
+
+
+References
+1S. Perlmumutter, et al, ApJ. 517 565(1999).
+2S. Weinberg, Rev. Mod. Phys. 61, 1 (1989); S. M. Carroll, astro-ph/0004075.
+3S. Coleman, Nucl. Phys. B, 307, 867(1988).
+4M. O¨ zer and M. O. Taha, Phys. Lett. B171, 363(1986); M. Gasperini, Phys. Lett. B, 194, 374(1987); M. O¨ zer and M. O Taha, Nucl. Phys. B, 287, 776(1987).
+5W. Chen and Y. S. Wu, Phys. Rev. D 41, 695(1990).
+6J. C. Calvalho, J. A. S. Lima, I. Waga, Phys. Rev. D, 46, 2404(1992).
+7I. Waga, ApJ, 414, 4361993).
+8M. O¨ zer and M. O. Taha, Nucl. Phys. B, 287, 776(1987).
+9M. O¨ zer, ApJ, 520, 45(1999).
+10P. Rastall, Phys. Rev. D, 6, 3357(1972).
+11T. Harko and M. K. Mak, Gen. Rel. Grav., 31, 849(1999).
+12J. A. S. Lima, Phys. Rev. D, 54, 2571(1996).
+13P. J. E. Peebles, S. Seager and W. Hu, astro-ph/0004389.
+14I. Zlatev, L. Wang, P. Steinhardt, Phys. Rev. Letts., 82, 896(1999).
+15A. Jaffe, et al, astro-ph/0007333; N. A. Bachall et al, ApJ. 541, 1(2000).
+16D. Tyler, et al, astro-ph/0001318; S. Burles and D. Tyler, astro-ph/9803071;
+S. Burles, et al, astro-ph/9901157.
+17A. Balbi, astro-ph/0011202
+18Wayne Hu, R. Barkana and A. Gruzinov, astro-ph/0003365.
+19M. Visser, Phys. Rev. D, 56, 7578(1997).
+20A. Guth, Phys. Rev. D 23, 347(1981).
+21A. R. Liddle, astro-ph/0009491; Also see Alan Guth, A. Linde, P. Steinhardt.
+22X. Wang, M. Tegmark, M. Zaldarriaga, astro-ph/0105091.
+23J. Overduin and W. Priester, astro-ph/0101484; P. Viana, astro-ph/0009492.
+24N. A. Bahcall et al Science 284, 1481(1999).
+25W. Hu and M. White, astro-ph9602019.
+
+
+
+
+26M. Zaldarriaga, private communication.
+27X. Wang, M. Tegmark, M. Zaldarriga, astro-ph/0105091.
+28P. Fischer, AJ 120, 1198F(2000).
+29M. Tegmark, M. Zaldarriaga, astro-ph/0004393; C. Miller, R. Nichol and D. Batuski, astro-ph/0105423.
+
+/
+
+Matter-Only Cosmology: A Unified Origin for Inflation and Dark Energy
+Hyoyoung Choi1∗
+
+1 Independent Researcher, Gunsan, Republic of Korea.
+
+∗ E-mail:7icarus7@gmail.com
+
+
+Abstract
+The standard cosmological model, 𝘩CDM, successfully describes cosmic acceleration, but it treats dark energy as an independent and poorly understood component of the universe. In this paper, we show that dark energy is not a fundamental entity sep-arate from matter, but is instead the total gravitational self-energy (GSE) inherent to matter itself. Matter-Only Cosmology (MOC) expresses the dark energy density solely as a function of the matter density 𝝆m and the compactness ratio RS/χp , without in-troducing new fundamental fields. The matter-induced dark energy density is given by
+𝝆𝘩  = β𝝆m RS  5β RS − 1, where R = 2GM/c2 is the Schwarzschild radius of the causally
+m	2  χp	14 χp	S
+connected mass and χp is the comoving particle horizon. Thus, the compactness ratio determines the transition between the attractive and repulsive GSE regimes. Because
+𝝆𝘩m is explicitly tied to 𝝆m , dark energy is reinterpreted as a matter-induced form of energy rather than as an independent energy component. The dark energy density is negative in the early universe, thereby enhancing structure formation, before later tran-sitioning to a positive phase that drives cosmic acceleration. In this way, MOC naturally addresses the Hubble tension, the existence of massive galaxies in the early universe, the observed present-day dark energy density, its late-time quasi-constant behavior, re-cent indications of a weakening dark energy component, and the cosmological constant coincidence problem. Moreover, MOC unifies inflation and late-time cosmic acceleration under the same GSE principle, and it provides a natural built-in termination mechanism for primordial inflation. Finally, by predicting macroscopic non-singular cores inside black holes, MOC offers a physically motivated route toward resolving the black hole information paradox. By expressing dark energy as an explicit function of the matter density 𝝆m and the compactness RS/χp , the MOC framework transforms it from a phe-nomenological parameter into a predictive and falsifiable physical quantity.
+
+
+
+Contents
+Part I. Core Theory	3
+Introduction	3
+Components of total mass or equivalent mass in a gravitational system	4
+A conceptual analogy: Binding energy in the hydrogen atom and a missing term
+in the Friedmann equation	5
+Gravitational field energy vs. gravitational self-energy	6
+Gravitational Self-Energy as the Origin of Dark Energy	7
+
+The equivalent gravitational source	7
+Connection to post-Newtonian gravity: Validation and reinterpretation	9
+The necessity of the GSE framework in cosmology	10
+The two components of total GSE	10
+Cosmological interpretation: Attraction and repulsion	12
+The Total GSE and the Structure Coefficient β	13
+From Newtonian binding energy to a relativistic framework	13
+The structural coefficient β is not a free parameter	14
+Primary variables of the total GSE: matter density and horizon scale	15
+The Friedmann Equations in the MOC Framework	15
+A re-examination of the gravitational source term	16
+Friedmann equations in an expanding universe	17
+Origin of negative pressure in the MOC framework	22
+Thermodynamic interpretation of GSE pressure	24
+Applicability to the radiation era	31
+Theoretical consistency: Positive energy density and the origin of repulsion	32
+Definition of the GSE framework	34
+Part II. Cosmological Phenomenology	35
+Observational Validation and the Determination of β	35
+Cosmic History of the MOC	37
+Preface on methodology and comparative strategy	37
+Methods: General framework for MOC cosmic history simulations	38
+MOC cosmic history simulation results	41
+Dark energy evolution under an evolving structure coefficient β (t)	47
+Analysis of the Cosmic History using MOC	50
+Competition between the attractive and repulsive GSE components	51
+A possible MOC interpretation of the Hubble tension	52
+The emergence of quasi-constant and weakening dark energy	52
+Possible implications for early–universe structure anomalies	54
+The cosmological constant coincidence problem	54
+Describing the dynamics of the universe without new free parameters or fields	55
+
+Effective Equation of State wΛ
+m
+(t) and Key Transition Points in the MOC	57
+
+Effective equation of state wΛ
+m
+(t)	57
+
+Key transition points in the MOC model	58
+The Future of the Universe in the MOC	59
+Self-regulation of cosmic expansion: A natural feedback cycle	59
+Entry into a decelerating phase in the near future	60
+Long-term behavior: Damped oscillatory evolution	60
+Ultimate fate of the universe after horizon saturation	61
+Part III. Extensions	62
+A Unified Physical Origin for Cosmic Acceleration	62
+Inflation: Acceleration at extreme density	62
+
+Inflation triggered by GSE: Consistency with standard inflation scales	63
+The self-terminating mechanism of MOC inflation	66
+A solution to the reheating problem	67
+Dark energy: Acceleration at extreme scale	68
+Two accelerations, one physical origin	69
+Resolution of the Black Hole Singularity in MOC	69
+Gravitational dynamics in a collapsing object	70
+The sign-transition radius and the emergence of repulsion	70
+The critical point: A singularity averted	71
+Observational validation: The cosmic connection	71
+A macroscopic non-singular core and the information paradox	72
+Observational Tests and Falsifiability of MOC	73
+Test 1: The sign-switch of dark energy	73
+Test 2: Enhanced early structure growth	73
+Test 3: The post–crossover evolution of 𝜌Λ	73
+m
+Test 4: Extensive falsifiability from an explicit functional origin	74
+Discussion	74
+Role of the structure coefficient β and model robustness	74
+Observational uncertainties and future constraints	75
+Conclusion: A Unified Cosmology from Total Gravitational Self-Energy	76
+Appendix A: A Re-examination of the Energy Components of a Gravitating System 77
+Total energy components of a gravitating system	78
+Derivation of the matter-induced dark energy density	79
+The complete expression for 𝜌Λ	81
+m
+Observational validation and the evolution of β	81
+Computer simulation results	81
+References	84
+
+
+
+
+Part I. Core Theory
+Introduction
+The discovery of the accelerated expansion of the universe [1,2] marked a monumental turning point in modern cosmology. To account for this unexpected cosmic acceleration, the standard cosmological model, ΛCDM, introduced an additional component commonly referred to as dark energy [3, 4]. Characterized phenomenologically by a positive energy density and a neg-ative pressure, the cosmological constant Λ has proven remarkably successful in reproducing the observed large-scale dynamics of the universe [5].
+However, despite its empirical success, the ΛCDM framework faces several deep and per-sistent conceptual challenges [6, 7]. In particular, the physical origin of dark energy remains unknown, indicating that our current description of the cosmic energy budget may be incom-
+
+/
+
+
+plete.
+In this work, we argue that the origin of these difficulties does not necessarily require the introduction of new particles, exotic fields, or modifications of gravity, but instead points to an incomplete accounting of the total energy density in gravitating systems, whose consequences become manifest in the Friedmann equations.
+Within the standard cosmological framework, dark energy is modeled as a perfect fluid with a constant equation-of-state parameter w = −1 [3, 4]. While this assumption provides an excellent phenomenological fit to current data, it is not derived from first principles. The most widely discussed candidate, vacuum energy, leads to the well-known cosmological constant problem, namely a discrepancy of order 1060–10120 between theoretical expectations from quantum field theory and the observed value of Λ [7,8]. In addition, the model suffers from the so-called coincidence problem, which asks why the dark energy density becomes dynamically relevant only in the current cosmological epoch [3, 9].
+Beyond these theoretical concerns, recent observational results have motivated renewed scrutiny of the simplest ΛCDM scenario and of possible extensions with evolving dark energy [10–12]. In particular:
+The Hubble tension: A persistent discrepancy exists between the Hubble constant in-ferred from early-universe observations of the cosmic microwave background (CMB) and that measured directly in the local universe. This tension may indicate physics beyond a strictly constant dark energy component [5, 10, 13]. Quantitatively, H0(CMB) ≈ 67.36 km s−1 Mpc−1 compared to H0(local) ≈ 74.0 km s−1 Mpc−1 [5, 13].
+Supernova constraints: Recent analyses of nearly 1500 Type Ia supernovae by the Dark Energy Survey (DES) collaboration suggest that a time-independent cosmological con-stant may not provide the best fit to the data, allowing room for a dynamical dark energy component [12].
+Spectroscopic measurements: Independent results from the Dark Energy Spectro-scopic Instrument (DESI) have likewise increased interest in models with evolving dark energy, further challenging the assumption of a strictly constant Λ [11].
+Taken together, these theoretical and observational tensions motivate a reassessment of the physical origin of cosmic acceleration. In this paper, we propose that these issues arise from a long-standing omission in the standard treatment of gravitating systems: the failure to explicitly account for gravitational self-energy (GSE) as a contribution to the gravitational source term, as required by the equivalence principle of General Relativity.
+
+Components of total mass or equivalent mass in a gravitational system
+In gravitational physics, it is customary to characterize a gravitating system by an effective or equivalent energy (or mass) that reproduces its external gravitational influence [14–16]. Even when the detailed composition of the source’s internal energy is unknown, one may treat the system as possessing an equivalent mass that implicitly incorporates all internal energy con-tributions, thereby enabling a consistent description of its external gravitational interactions within a given approximation scheme [14, 15].
+Because this equivalent energy–mass framework has been remarkably successful for ana-lyzing external gravitational fields, it is often unnecessary to specify how the equivalent mass is decomposed into its microscopic or internal energy components.
+However, this simplification becomes conceptually insufficient when one attempts to an-alyze the internal energy composition of a gravitating system itself, rather than merely its external gravitational influence.
+
+/
+
+
+In cosmology, this distinction becomes particularly important. The system under consid-eration is not an isolated object embedded in an external spacetime, but the universe itself, within which matter and galaxies reside. Consequently, questions concerning the internal en-ergy structure and self-gravitating dynamics of the cosmic matter distribution can no longer be avoided when interpreting the total gravitating energy budget.
+For a generic bound system, the total mass, or more precisely the total energy ET , can be expressed as the sum of the free-state rest-mass energy of its constituents and all internal binding and interaction energies [14, 16]:
+ET = Mf r c2 + X UBE,i + X Uint,i j .	(1)
+
+Here Mf r c2 denotes the sum of the rest-mass energies of the constituents in their free states. The terms UBE,i represent binding energies associated with composite structures, in-cluding gravitational, electromagnetic, weak, and strong interactions. The quantities Uint,i j denote interaction energies between different constituents or subsystems.
+Dividing by c2 yields the corresponding total equivalent mass MT ≡ ET /c2, which is the quantity that acts as the effective gravitational source in many external-field problems [14–16].
+
+A conceptual analogy: Binding energy in the hydrogen atom and a missing term in the Friedmann equation
+A useful analogy for understanding the role of GSE in cosmology is provided by the hydrogen atom. A hydrogen atom is a composite system consisting of a proton and an electron bound to-gether by electromagnetic interaction. Likewise, the universe may be regarded as a composite gravitating system composed of many constituents, such as matter, galaxies, and large-scale structures, which interact gravitationally over cosmological scales.
+The total energy of a hydrogen atom is given by
+EH = Ep + Ee + Ubinding.	(2)
+Here Ep and Ee are the rest-mass energies of the proton and electron in their free states.
+The quantity Ubinding < 0 denotes the electromagnetic binding energy. Because the bind-ing energy is negative, the total energy and hence the invariant mass of the hydrogen atom is smaller than the sum of the free-state particle masses. When a hydrogen atom acts as a grav-itational source, the gravitating mass is, in principle, determined by its total energy content,
+including the contribution from binding energy, rather than by the free-state particle masses alone.
+Correspondingly, one may express the total equivalent mass density schematically as
+𝜌T = 𝜌p + 𝜌e + 𝜌binding.	(3)
+Here 𝜌binding ≡ Ubinding/(V c2) represents the contribution of binding energy per unit volume
+V . This viewpoint, namely that internal binding energy contributes to the total mass-energy of a bound system, is standard in atomic, nuclear, and particle physics [14].
+Let us now examine what is effectively assumed in standard cosmology. Neglecting the spatial curvature term for simplicity, the Friedmann equation is written as
+
+H2 = 8𝑢G 𝜌
+3	T
+8𝑢G
+=	(𝜌m
+3
+
++ 𝜌Λ
+
+) .	(4)
+
+Here 𝜌m denotes the matter density.
+
+/
+
+The quantity 𝜌Λ is introduced as a separate dark energy component [3, 5]. In practice,
+𝜌m is constructed from the free-state mass densities of matter constituents (baryons and dark matter), analogous to using 𝜌p + 𝜌e for the hydrogen atom. Observationally, however, the
+inferred matter density alone is subcritical at late times, while the expansion history indicates a total energy density close to the critical value. This motivates the introduction of an additional energy density component 𝜌Λ within the standard cosmological interpretation [1, 2, 5, 8].
+We argue that this procedure may reflect an incomplete accounting of the total gravitating energy budget. From the standpoint of General Relativity, the source term governing cosmic expansion is the total stress-energy content, which suggests that all relevant contributions to the system’s energy, including those associated with self-gravitating interactions, should in principle be taken into account [14–17].
+In a cosmological context, this motivates considering a decomposition of the form
+𝜌T = 𝜌free + 𝜌GSE.	(5)
+Here 𝜌GSE represents an effective contribution associated with GSE. This term arises from the mutual gravitational interactions of matter within the causally connected region.
+By omitting such a contribution and modeling the additional required energy density as an independent fluid component, standard cosmology introduces 𝜌Λ phenomenologically. We argue that the physical origin of dark energy lies in GSE itself, and that the introduction of
+𝜌Λ in standard cosmology reflects a systematic omission of this contribution from the total gravitating energy density.
+Finally, we note an important conceptual point. Gravitational binding energy is conven-tionally negative, as it represents the energy required to disassemble a bound system into free components [14–16]. However, as will be shown in the following sections, the self-gravitating contribution to the cosmological energy budget is not restricted to being purely negative. De-pending on the scale and compactness of the causally connected system, the net contribution associated with GSE can become positive and thereby act as a source of repulsive cosmic dy-namics.
+This perspective suggests that what is conventionally identified as dark energy may instead reflect an intrinsic manifestation of GSE, consistently included in the total energy accounting as required by the principles of General Relativity.
+
+Gravitational field energy vs. gravitational self-energy
+A frequent source of confusion in discussions of GSE arises from conflating it with the energy of the gravitational field itself. In General Relativity, it is well established that the energy of the gravitational field cannot be localized in a coordinate-independent manner [14, 15, 18]. Because the gravitational field extends beyond the material source and depends on the choice of coordinates, no unique local energy density can be assigned to it. For this reason, gravita-tional field energy does not appear explicitly as a source term in the Einstein field equations, but is instead encoded implicitly through their nonlinear structure [14, 15, 18].
+GSE, however, represents a conceptually distinct physical quantity. It does not cor-respond to the energy of the gravitational field in empty space, but rather to the gravita-tional potential energy associated with interactions among the constituents of a gravitating system [14, 16]. As such, GSE is defined with respect to the finite mass distribution and finite spatial extent of the system itself.
+In contrast to gravitational field energy, GSE is defined with respect to the finite mass distribution and finite spatial extent of the system, and therefore contributes to the total energy characterizing that system in a well-defined manner [14, 16].
+
+/
+
+
+The mass energy of a gravitating system includes the negative binding energy, such that the total gravitational mass is less than the sum of the constituent rest masses. [16]
+The distinction between gravitational field energy and gravitational self-energy is also re-flected in tests of the strong equivalence principle. Nordtvedt-effect analyses ask whether the gravitational self-energy contained in an extended body contributes to its gravitational mass in the same way as other forms of energy [16, Sec. 1.6]. The absence of an observed Nordtvedt effect in the Earth–Moon system supports the standard GR expectation that gravitational self-energy gravitates normally [16, Sec. 1.6]. Thus, the GSE term used here is best understood as a contribution to the equivalent mass of a finite matter distribution, not as a local energy density of the gravitational field.
+This distinction is familiar in other areas of physics. In atomic physics, for example, the mass of a hydrogen atom is smaller than the sum of the rest masses of a free proton and electron. The difference corresponds to the negative electromagnetic binding energy, which contributes to the invariant mass of the bound system. The atom is therefore treated as a single object whose total mass already incorporates its internal binding energy.
+There is no compelling physical reason to treat gravity differently in this respect. Although gravitational field energy itself cannot be represented as a local density, the binding energy associated with gravitational interactions among matter constituents contributes to the total energy of a self-gravitating system. In a cosmological setting, this contribution is therefore relevant to the effective energy density that governs the expansion dynamics. Neglecting GSE in this context corresponds to describing the system using only free-state mass densities, rather than the total equivalent mass required by a consistent accounting of energy in General Rela-tivity.
+
+
+Gravitational Self-Energy as the Origin of Dark Energy
+In a cosmological context, the binding energies associated with the strong, weak, and electro-magnetic interactions are confined to microscopic and effectively time-independent scales, and may therefore be regarded as part of the free-state mass Mf r . In contrast, GSE is determined by the macroscopic distribution of matter M and by the evolving spatial scale of the universe
+R. As cosmic expansion proceeds, GSE is not constant but evolves dynamically, actively par-ticipating in the global energy budget of the universe. This observation leads to the central thesis of this work, namely that the phenomenon conventionally labeled as dark energy is not a new exotic component, but rather the manifestation of the universe’s own dynamical GSE.
+
+The equivalent gravitational source
+The calculation of gravitational potential energy involves integrating the contributions of in-finitesimal mass elements dm as they are assembled within the gravitational field generated by the interior mass M ′(r). In its standard form, the differential contribution is written as
+M ′(r)
+
+d Ugs = −G
+dm.	(6)
+r
+
+A fundamental principle of General Relativity is that all forms of energy contribute to gravita-tion [14, 16]. It is then natural, within the present framework, to treat GSE itself as contribut-ing to the effective gravitational source. In conventional treatments, however, the gravitational
+
+/
+
+
+influence of self-energy is not incorporated explicitly, since the source mass is taken to be the free-state mass alone.
+The central postulate of this work is that the interior source term M ′(r) should instead be replaced by an equivalent gravitational source Meq(r), which includes both the material mass and the equivalent mass associated with GSE, denoted by Mg′ s (r).
+Meq(r) = M ′(r) − Mg′ s (r).	(7)
+For a general mass distribution, the GSE of the interior sphere of radius r and mass M ′(r) is pa-rameterized by a structure coefficient β , which encapsulates the effects of mass geometry and relativistic corrections. For a uniform sphere in Newtonian gravity, β = 3/5. More centrally condensed or relativistic configurations generally correspond to larger effective coefficients multiplying GM 2/R. For example, the classical n = 3 polytrope yields β = 1.5 [19], while relativistic compact-star estimates often write the binding energy in the order-of-magnitude form Egrav ∼ GM 2/R, which corresponds to an effective coefficient of order unity [20].
+GM ′(r)2
+
+Ugs (r) = −β
+.	(8)
+r
+
+The equivalent mass associated with this self-energy is therefore given by
+
+
+−Mg′ s (r) =
+Ugs (r)
+c2	= −β
+GM ′(r)2
+.	(9)
+rc2
+
+Substituting this back into the equivalent source equation yields
+
+
+Meq
+(r) = M ′(r)  1	β GM ′(r)  .	(10)
+rc2
+
+A formally similar inclusion of the equivalent mass associated with GSE in the interior source term was already considered in Ref. [21].
+The total GSE, Ugs-T, is the integral of the differential energy contributions from r = 0 to the final radius R:
+
+Ugs-T =
+R
+d Ugs-T =
+0
+R	Meq(r)
+G	dm.	(11)
+0	r
+
+Assuming a uniform density 𝜌 for analytical clarity, we have M ′(r) = 4 𝑢r3𝜌 and the differ-ential mass shell is dm = 4𝑢r2𝜌 dr. Substituting these into the integral gives
+
+
+
+Ugs-T =
+R
+−G 1 M ′(r)
+0
+1 − β
+GM ′(r) rc2
+
+(4𝑢r2𝜌 dr)	(12)
+
+, R	β G M ′(r)2 
+
+= −4𝑢G𝜌	r
+0
+We now substitute M ′(r) = 4 𝑢r3𝜌:
+M ′(r) −  c2	r
+dr.	(13)
+
+
+R
+Ugs-T = −4𝑢G𝜌
+r  4𝑢
+𝜌r3 −
+β G  4𝑢
+
+𝜌r3
+2 
+
+dr	(14)
+
+0	3	c2 r	3
+
+, R 
+
+/ /	/
+16𝑢2G𝜌2
+
+/
+3
+
+r4 +
+64𝑢3β G2𝜌3
+r6
+9c2
+
+dr.	(15)
+
+3
+gs-T	5
+16𝑢2G𝜌2R5
++
+9
+320𝑢3β G2𝜌3R7
+
+/
+189c2
+
+.	(16)
+
+/
+
+To account for the relativistic contributions and the geometric distribution of mass in a general self-gravitating system, we generalize the Newtonian coefficient 3/5 to the structure coefficient β :
+
+Ugs-T = β
+16𝑢2G𝜌2R5
++
+9
+320𝑢3β G2𝜌3R7
+
+/
+189c2
+.	(17)
+
+Performing the definite integration yields the final expression for the total GSE:
+GM 2	5 2 G2 M 3	GM 2 	5β GM 
+/	/	/
+/	/ /
+This can also be written in a factored form to highlight the repulsive correction:
+
+(19)
+
+
+Connection to post-Newtonian gravity: Validation and reinterpretation
+It is important to emphasize that the functional form of the self-energy correction derived in Eq. (19) is not an ad hoc assumption, but is structurally consistent with results obtained within General Relativity. In the post-Newtonian approximation, the total energy of a self-gravitating system contains relativistic corrections arising from the nonlinear structure of the Einstein field equations. At first post-Newtonian order, the gravitational binding energy of a static spherical mass distribution acquires a relativistic correction at order 1/c2. Schematically, this correction can be written in the form [15, 22]
+GM 2 	GM 
+
+/
+where κ is a dimensionless coefficient of order unity whose value depends on the internal structure and pressure distribution of the system.
+The close correspondence between the nonperturbative GSE resummation Ugs-T and the formal post-Newtonian expansion UPN serves two essential roles:
+Validation: It suggests that treating GSE as an effective contribution to the gravitational source captures the leading nonlinear corrections predicted by General Relativity, with-out requiring an explicit tensorial expansion.
+Reinterpretation in a cosmological context: In standard post-Newtonian theory, this term is interpreted as a small correction to the binding energy relevant for stellar struc-ture. In contrast, we identify the total GSE as the physical origin of dark energy. When applied to cosmology, where M represents the mass contained within the causally con-nected region, the cumulative GSE is no longer negligible and can dominate the large-scale dynamics, thereby driving accelerated expansion.
+By deriving this contribution from a physical principle rather than from a truncated per-turbative expansion, the GSE framework elevates what appears as a small correction in the post-Newtonian approach to a central dynamical ingredient. This provides a transparent mech-anism for effective repulsive gravity that remains implicit in the standard post-Newtonian for-mulation.
+Approximation versus principle: Chandrasekhar’s result is obtained through a pertur-bative expansion of the Einstein field equations and is strictly valid only in the weak-field regime where GM /(Rc2) ≪ 1 and in the slow-motion limit. Higher-order contributions
+
+/
+
+are therefore systematically neglected [15, 22]. In contrast, the present derivation is nonperturbative and self-consistent, arising from a closed-form resummation of GSE based on energy conservation rather than on a truncated weak-field expansion. This suggests that the framework may remain applicable in regimes where standard post-Newtonian methods lose accuracy, including the early universe or strongly gravitating environments.
+Static versus dynamic applicability: Post-Newtonian analyses typically assume quasi-static equilibrium, such as hydrostatic or virial balance, which is appropriate for stellar configurations [22–24]. The core mechanism of the GSE framework, namely the re-placement of bare mass by equivalent mass through M → Meq, relies instead on local energy conservation and does not require static equilibrium. The approach is therefore naturally suited to dynamic cosmological settings, including phases of rapid expansion or contraction where hydrostatic assumptions are invalid.
+
+Accordingly, the present result should not be regarded as a mere reproduction of the post-Newtonian approximation, but rather as an effective resummation that captures the essential physics of gravitational self-repulsion in a compact analytical form applicable across a wide range of cosmic epochs.
+
+The necessity of the GSE framework in cosmology
+A common critique of semiclassical approaches is that they are not derived directly from the full formalism of General Relativity. This critique, however, overlooks the practical and math-ematical limitations of exact General Relativistic solutions in a cosmological setting.
+It is well established that, although a number of exact interior solutions of the Einstein field equations are known for special idealized matter distributions, no general closed-form analytic solution exists for an arbitrary gravitating system with nonzero density [23,24]. While numer-ical methods such as solutions of the Tolman–Oppenheimer–Volkoff (TOV) equations provide accurate descriptions of static compact objects, these approaches are both mathematically and physically unsuitable for cosmological systems, which are characterized by low density and dynamical expansion rather than hydrostatic equilibrium.
+Accordingly, no exact closed-form expression derived from full General Relativity is cur-rently available for the total GSE of a realistic expanding universe.
+In contrast, the GSE framework provides a closed-form analytic expression for an effective energy contribution that incorporates self-gravitating interactions on cosmological scales. Its consistency with the first order post-Newtonian results derived by Chandrasekhar provides an important cross-check of consistency [22]. Moreover, the framework is conceptually aligned with the fact that the Friedmann equation itself admits a derivation from energy-conservation arguments within Newtonian mechanics [14, 25].
+At present, the GSE framework therefore represents a viable and analytically tractable approach for investigating the role of self-gravitating energy in the dynamical evolution of the universe.
+
+The two components of total GSE
+The result derived in Eq. (19) constitutes a central element of the present framework. It shows that when GSE is computed self-consistently, it is not a single monolithic contribution, but naturally separates into two distinct components with opposite signs. This decomposition provides the physical basis for identifying GSE as the origin of dark energy.
+
+/
+
+
+For clarity and consistent usage throughout this paper, we explicitly define these two com-ponents according to their physical origin. We define and use the negative equivalent mass density as −𝜌gs , where 𝜌gs > 0 denotes the magnitude of the attractive GSE contribution.
+Negative equivalent mass component (−𝜌gs ): This term corresponds to the GSE ob-tained at the Newtonian level. The structure factor β is a coefficient of the GSE function included to account for the geometry of the mass distribution and relativistic correc-tions relevant on cosmological scales. Here 𝜌gs > 0 denotes the positive magnitude of this attractive GSE contribution, while the actual equivalent mass density contribution is −𝜌gs < 0.
+
+
+
+Equivalently,
+ 1 
+gs	V c2
+GM 2
+−β	R
+< 0.	(21)
+
+ 1 
+gs	V c2
+GM 2
+β
+R
+> 0.	(22)
+
+Using V = 4 𝑢R3, this expression may be written as
+3β GM 2	4𝑢β G 2  2
+−𝜌gs = − 4𝑢 c2R4 = −  3c2  𝜌mR .	(23)
+Positive equivalent mass component (𝜌m-gs ): This term arises from the interaction between matter and its own GSE. It represents a relativistic correction associated with the fact that GSE itself contributes to the effective gravitational source. In this sense, it is post-Newtonian in character, while remaining fully consistent with the nonperturbative formulation developed here.
+
+
+𝜌m-gs ≡ V c2
+
+Using again V = 4 𝑢R3, one finds
+7	c2R2
+> 0.	(24)
+
+
+
+15β 2 G2 M 3
+80𝑢2β 2 G2  3 4
+
+𝜌m-gs =
+28𝑢
+=
+c4R5
+63c4	𝜌mR .	(25)
+
+
+The total mass-energy density of the universe 𝜌T is therefore given by the sum of the matter density and the net contribution from GSE.
+𝜌T = 𝜌m + 𝜌Λm = 𝜌m + 𝜌m-gs − 𝜌gs .	(26) We therefore identify the net total GSE density with the matter-induced dark energy den-
+sity:
+
+
+
+Expressed explicitly in terms of M and R, this yields
+3β GM 2  5β GM
+
+/
+
+/
+
+
+
+
+(27)
+
+In terms of the matter density 𝜌m and the scale R, the same quantity may be written as
+𝜌Λ (𝜌 , R) =	𝜌2 R2 	 𝜌 R2 − 1 .	(29)
+4𝑢Gβ	20𝑢Gβ
+
+/
+
+
+Defining the constants
+
+
+c1 ≡
+
+4𝑢G
+3c2 ,	c2 ≡
+
+20𝑢G
+21c2 ,	RS ≡
+
+2GM
+.	(30)
+c2
+
+the dark energy density can be written compactly as
+
+(31)
+
+
+Equivalently, in terms of 𝜌m
+and RS , one obtains
+
+
+
+(32)
+
+
+Cosmological interpretation: Attraction and repulsion
+Having defined the fundamental components of GSE, we now turn to their cosmological in-terpretation. The dynamical role of each energy or mass component in cosmic expansion is determined by its contribution to the Friedmann acceleration equation,
+a¨ = − 4𝑢G X(𝜌 + 3P ) = − 4𝑢G X 𝜌 (1 + 3w ) .	(33)
+
+In the standard ΛCDM framework, the dark energy component is observationally consistent with an equation-of-state parameter w ≈ −1 and a positive energy density, which together imply a negative pressure [3, 4]. It is under this specific cosmological condition that the two components of GSE acquire their distinct roles as sources of attraction and repulsion.
+Positive equivalent mass density 𝜌m-gs : This component has a positive equivalent en-ergy density, 𝜌 > 0. When its effective pressure satisfies P ≈ −𝜌, its contribution to the acceleration equation becomes (𝜌 + 3P) ≈ −2𝜌 < 0. As a result, this term yields a¨ > 0 and acts as a source of cosmic repulsion, driving accelerated expansion.
+Negative equivalent mass density −𝜌gs : This component corresponds to a negative equivalent energy density, 𝜌 < 0. With the same effective pressure relation P ≈ −𝜌, its contribution becomes (𝜌 + 3P) ≈ −2𝜌 > 0. Consequently, this term yields a¨ < 0 and acts as a source of cosmic attraction, contributing to decelerated expansion.
+The fundamental entities are therefore the two GSE components, 𝜌m-gs and −𝜌gs .
+A point of caution in a cosmological context is that the two quantities 𝜌m-gs and −𝜌gs should not be interpreted as independent energy components. Although these terms arise nat-urally from the decomposition of the total GSE, only their combined contribution corresponds to a physically meaningful and observationally relevant energy density. In cosmology, the dark energy component is therefore identified with the total GSE density, 𝜌Λm = 𝜌m-gs − 𝜌gs .
+Accordingly, the appropriate interpretation of the Friedmann acceleration equation is ob-tained by considering the sign and magnitude of the total equivalent mass density associated with GSE. The resulting cosmic acceleration or deceleration is therefore determined by the net contribution of the total GSE, rather than by the isolated effects of its individual constituents.
+This framework, which follows directly from a consistent accounting of GSE, is referred to as Matter-Only Cosmology (MOC). 1 The designation reflects the core premise of the model,
+
+1Here, “Matter” includes both baryonic and dark matter. The term “Matter-Only” refers to the absence of an independent dark energy fluid. The same principle applies to radiation, with the replacement 𝜌m → 𝜌r .
+
+/
+
+
+namely that cosmic acceleration and the phenomenon attributed to dark energy arise from the GSE of matter and from the interaction between matter and its own self-gravitating energy, without invoking an additional non-matter energy component.
+In the following sections, we will demonstrate how this single correction based on total GSE not only provides a concrete physical origin for dark energy, but also naturally reproduces its observed magnitude in the late universe, thereby offering a self-consistent resolution of one of the central problems in modern cosmology.
+
+
+The Total GSE and the Structure Coefficient β
+As established in the previous section, the origin of dark energy in the present framework is identified with the total GSE of the universe, evaluated in a self-consistent manner. This
+
+section provides a more detailed examination of this foundational quantity, Ugs
+and clarifies the physical meaning and role of the coefficient β .
+= −β GM2 ,
+
+
+From Newtonian binding energy to a relativistic framework
+The GSE Ugs represents the total gravitational potential energy associated with a mass distri-bution and arises from the mutual gravitational interaction among its constituent elements. For an object of total mass M , which may be conceptualized as an assembly of infinitesimal mass elements satisfying M = dmi , this energy corresponds to the work required to as-semble the system from infinite separation. It is therefore a specific and fundamental form of gravitational potential energy, commonly referred to as gravitational binding energy, with a negative sign reflecting the bound nature of the system [26, 27].
+Within Newtonian gravity, the GSE of a uniform sphere of mass M and radius R is given by the well-known expression [27]
+3 GM 2
+
+Ugs,Newton = − 5
+.	(34)
+R
+
+Although this result provides a useful reference, it is insufficient for cosmological applications in which relativistic effects and strong self-gravity may become relevant.
+In General Relativity, the evaluation of GSE for a static and spherically symmetric config-uration requires integration over a curved spacetime geometry. While a general closed-form analytic expression is not available, the net result can be represented effectively by a general-ized expression of the same functional form [28, 29],
+GM 2
+
+Ugs = −β
+,	(35)
+R
+
+where the dimensionless coefficient β replaces the Newtonian value 3/5 and summarizes the combined effects of internal density profile, pressure, and relativistic corrections. Its value is therefore not universal, but depends on the structural properties of the gravitating system.
+For a uniform sphere in Newtonian gravity, β = 3/5. Relativistic compact-star estimates of-ten raise the effective binding energy coefficient to the order-unity level by writing the leading binding energy scale as Egrav ∼ GM 2/R [20, 30]. In still more centrally condensed configura-tions, the classical n = 3 polytrope gives β = 3/2 [19].
+The coefficient β may also be estimated by numerically integrating the gravitational poten-tial energy associated with the Navarro–Frenk–White (NFW) density profile, which provides
+
+/
+
+
+an accurate description of dark-matter haloes. The resulting values show a systematic cor-relation between the halo concentration parameter c and the effective structure coefficient β [31]:
+c = 5 gives β ≈ 1.02,
+c = 10 gives β ≈ 1.25,
+c = 15 gives β ≈ 1.45,
+c = 20 gives β ≈ 1.62.
+A separate relativistic reference estimate can be obtained from the exact general relativistic integral expression for the binding energy of a static, spherically symmetric object with uniform density. In the author’s previous analysis of this static binding energy framework, the integral was evaluated numerically under the condition that the magnitude of the negative binding energy does not exceed the rest-mass energy of the assembled object [32]. This gives the reference value
+βref ≈ 2.039.	(36)
+This value is useful as a compact-object reference scale for a static, uniform density configu-ration [32]. However, it should not be interpreted as a universal upper bound on the effective cosmological coefficient in the MOC framework.
+The reason is that the above estimate concerns the conventional negative GSE term consid-ered in isolation. In the total GSE framework, the negative self-energy contribution is accom-panied by the positive matter–GSE interaction contribution. As shown in Sec. 4.6, the total equivalent mass density remains positive for any real value of β . Therefore, even if β exceeds the static reference value βref ≈ 2.039, the total GSE framework does not automatically enter a negative total density regime.
+Accordingly, in the present work, the range β ∼ 1–1.6 should be understood as a physi-cally motivated reference range inferred from relativistic, centrally concentrated, and halo-like self-gravitating systems, rather than as a strict theoretical bound. Moreover, the observable universe is a horizon-scale self-gravitating system whose matter-only Schwarzschild radius ex-ceeds its observable radius, i.e. RS /R > 1. Therefore, the effective cosmological coefficient β need not be strictly limited by values inferred from ordinary localized astrophysical systems. The cosmological value of β in MOC is instead interpreted as an effective structural coeffi-cient of the causally connected matter distribution, whose precise value should ultimately be determined by the large-scale matter distribution itself.
+
+The structural coefficient β is not a free parameter
+In the present framework, β is not introduced as an independent phenomenological parameter or as an additional dynamical degree of freedom. It is a structure coefficient associated with the gravitational self-energy integral of a given matter distribution. Once the large-scale density profile is specified, the corresponding value of β is fixed by the GSE integral.
+In practice, however, a direct first-principles calculation of the cosmological value of β would require a detailed large-scale density profile for the present universe, and no unique observationally established form of such a profile is currently available. For this reason, the present work treats β as an effective structural coefficient inferred from the cosmic energy budget and compared with reference values suggested by known self-gravitating systems.
+The value of β may in principle vary over the full cosmic history, because the large-scale matter distribution evolves through halo formation, void growth and virialization. However,
+
+/
+
+
+the direction and magnitude of this evolution cannot be fixed from the present analytic treat-ment alone. For fixed total mass and outer scale, more centrally concentrated or clustered distributions generally have larger gravitational binding energy in magnitude, and therefore larger effective values of β [31]. This trend is illustrated by the increase from the Newtonian uniform-sphere value β = 3/5 to the classical n = 3 polytropic value β = 3/2 [19], and by the monotonic increase of β with the concentration parameter in NFW-like halo profiles [31]. Nevertheless, the cosmological effective coefficient also depends on the evolving distribution of voids, collapsed structures, and the causal horizon scale. Therefore, this paper does not assume a definite monotonic time evolution of β (t).
+In the benchmark simulations below, we keep β constant after the onset of substantial structure formation. This constant-β treatment isolates the intrinsic GSE-driven evolution of
+𝜌Λ (t) without introducing an additional time-dependent ansatz for β (t). Even with fixed β ,
+m
+the MOC dark energy density remains dynamical, because it depends on the matter density
+and the horizon-scale compactness ratio RS (t)/χp (t).
+A slowly varying β (t) may still arise in a more structure-resolved treatment. In such a treatment, β (t) could be determined through direct modeling of the evolving large-scale mat-ter distribution, for example by using cosmological N -body simulations to relate halo profiles, void structure and clustering to the effective GSE coefficient [33, 34].
+
+Primary variables of the total GSE: matter density and horizon scale
+In Newtonian gravity,
+
+F = −
+GMm
+,
+r2
+
+the primary physical variables are the mass M and the distance scale r. The mass M , in turn, is determined by the matter density 𝜌 and the characteristic radius R of the mass distribution.
+The same point applies to the total GSE dynamics. The primary variables entering the GSE are the matter density and the length scale over which the mass distribution is defined. In the present horizon-scale formulation, these are 𝜌m(t) and the particle-horizon scale χp (t), since
+
+
+
+
+and
+
+M (t) = 𝜌m
+4𝑢
+(t)	R
+3
+
+
+phys
+
+(t)3,	R
+
+
+phys
+
+(t) = a(t)χp
+
+(t),
+
+RS (t) =
+2GM (t)
+.
+c2
+
+Thus, the compactness ratio RS (t)/χp (t), which controls the total GSE density, is ultimately determined by the matter density and the horizon scale.
+By contrast, β is a structural coefficient in the gravitational self-energy integral. It encodes how the same total mass is distributed within the relevant volume, but it is not a new source of gravity and not a primary variable comparable to 𝜌m(t) or χp (t). Once the density profile is specified, β is fixed by the corresponding GSE integral. Therefore, variations of β can modify only the detailed numerical weighting of the GSE terms, whereas the dominant time dependence of 𝜌Λm (t) is governed by 𝜌m(t) and the horizon-scale compactness.
+
+The Friedmann Equations in the MOC Framework
+The standard ΛCDM model successfully accounts for cosmic expansion by introducing dark en-ergy as an independent component characterized by a negative pressure, PΛ = −𝜌Λ [3,4,8]. In
+
+/
+
+
+contrast, the Matter-Only Cosmology (MOC) framework argues that the phenomena attributed to dark energy do not arise from a new substance or exotic field, but instead emerge from the GSE of matter itself and its associated interaction energy. In this section, we reformulate the Friedmann equations within the MOC framework.
+
+A re-examination of the gravitational source term
+The first Friedmann equation in standard cosmology is
+H2 = 8𝑢G 𝜌 −  k  ,	(37)
+3	a2
+where H ≡ a˙/a is the Hubble parameter, a(t) is the scale factor, k is the spatial curvature parameter, and 𝜌 denotes the total equivalent mass density sourcing cosmic expansion.
+Within the Friedmann equations, all quantities denoted by 𝜌 represent equivalent mass densities, that is, energy densities divided by c2. As such, all 𝜌 terms enter on equal footing as gravitational sources.
+Standard cosmology has long operated on the implicit assumption that, within the matter sector, the rest-mass density 𝜌m fully characterizes the gravitational source associated with matter on cosmological scales. We argue that this assumption is conceptually incomplete. The total mass density 𝜌T sourcing cosmic expansion in the Friedmann equations must also include the equivalent mass density associated with the GSE of matter and its self-interaction.
+The total effective mass density governing cosmic expansion therefore consists of two fun-damental contributions:
+Matter density (𝜌m): The observable rest-mass density of baryonic and dark matter. This term represents the material content of the universe and the origin of all gravita-tional interactions.
+Total GSE or dark energy (𝜌Λ ): The net equivalent mass density arising from the GSE
+m
+of matter. This contribution is not an independent fluid, but an emergent effect gener-
+ated by matter through its own self-gravity. As shown in previous sections, it consists of two components:
+Negative component (−𝜌gs ): The equivalent mass density associated with classi-cal gravitational binding energy.
+Positive component (𝜌m-gs ): The equivalent mass density generated by the self-gravitation of GSE, consistent with the general relativistic principle that all forms of energy act as sources of gravity.
+In the ΛCDM model, matter and dark energy are treated as separate and noninteracting components [3, 4, 8]. In contrast, the MOC framework interprets dark energy as the to-tal GSE of matter, including both the classical self-binding contribution and the interaction energy between matter and its own GSE.
+Accordingly, the total equivalent mass density entering the Friedmann equation is given by
+𝜌T = 𝜌m + 𝜌Λm = 𝜌m + 𝜌m-gs − 𝜌gs .	(38)
+This expression does not introduce a new physical substance, but instead provides a more complete accounting of the total equivalent mass density, denoted here by 𝜌T .
+Including the spatial curvature parameter k, the first Friedmann equation in the MOC
+framework takes the form
+
+H2 = 8𝑢G 𝜌
+ k 	8𝑢G
+−	=	(𝜌
++ 𝜌
+
+− 𝜌
+ k 
+) −	.	(39)
+
+3	T	a2
+3	m	m-gs
+gs	a2
+
+/
+
+Friedmann equations in an expanding universe
+In a cosmological setting, the calculation of gravitational self-energy (GSE) requires a care-ful distinction between two related but physically different notions of scale. The first is the causal comoving scale that determines the particle-horizon domain whose matter content can contribute to the accumulated horizon-scale gravitational self-energy. The second is the phys-ical volume scale that converts this global GSE contribution into an equivalent mass density sourcing the Friedmann equations.
+In the MOC framework, these roles are played by the comoving particle horizon χp (t) and the corresponding physical horizon radius Rphys(t), respectively. As clarified below, the simultaneous appearance of χp (t) and Rphys(t) does not represent an arbitrary mixing of two unrelated length scales. Rather, the GSE is first defined on the causal comoving domain de-termined by χp (t), and is then converted into a physical density by the usual factor relating comoving and physical volumes.
+
+Causal interaction and comoving GSE density
+We introduce two characteristic radii:
+, t  c 
+
+Rphys(t) = a(t)χp (t)	(physical horizon radius).	(41)
+The particle horizon χp (t) determines the causal comoving domain whose mass elements have been able to enter causal contact by cosmic time t [18, 35–37]. The physical radius Rphys(t), by contrast, gives the actual physical size of that same causal domain at time t.
+The mass enclosed in the causal domain can be written equivalently in physical or comov-ing variables. In physical variables,
+M (t) = 𝜌 (t)  4𝑢 R3	(t) ,	(42)
+
+where 𝜌m(t) is the physical matter density. In comoving variables, the same mass is
+M (t) = 𝜌com(t)  4𝑢χ3(t) ,	𝜌com(t) ≡ a3(t)𝜌 (t).	(43)
+
+Since Rphys(t) = a(t)χp (t), Eq. (42) and Eq. (43) are identical.
+M (t) = 𝜌com(t)  4𝑢χ3(t) = a3(t)𝜌  (t)  4𝑢χ3(t) = 𝜌  (t)  4𝑢 R3	(t)	(44)
+
+Thus the enclosed mass M (t) is independent of the coordinate representation used to evaluate it.
+In the MOC framework, the global GSE is evaluated on this causal comoving domain. The leading attractive self-energy contribution is written as
+GM 2(t)
+
+Ugs (t) = −β (t)
+.	(45)
+χp (t)
+
+This expression serves as the effective horizon-scale GSE prescription adopted in the MOC framework. The use of χp (t) in Eq. (45) reflects the retarded and accumulated character of the horizon-scale GSE. In a static self-gravitating system, the mass distribution is treated as a pre-existing bound configuration, and the interaction scale is the physical radius of the
+
+/
+
+
+system. In an expanding universe, however, the horizon-scale system is built up through causal communication along the past light cone. The particle horizon therefore provides the effective causal scale over which the global GSE contribution is accumulated. Once this global energy is obtained, it is converted into the physical equivalent mass density by dividing by the physical
+volume Vphys(t) = 4𝑢R3	(t)/3.
+It is useful to define the corresponding comoving GSE density,
+𝜌com(t) = UGSE(t) ,	V (t) = 4𝑢χ3(t).	(46)
+/
+
+GSE
+c2 Vχ
+(t)	χ	3	p
+
+However, the Friedmann equations are sourced by physical energy densities, not by comoving densities [18, 35, 37]. Therefore the density that enters the Friedmann equations is obtained by the standard conversion from comoving volume to physical volume,
+𝜌phys(t) = a−3(t)𝜌com(t).	(47)
+GSE	GSE
+
+
+Since
+V	(t) = 4𝑢 R3
+
+(t) = a3(t)V
+
+(t),	(48)
+
+
+Eq. (47) is equivalently
+phys
+/
+3	phys	χ
+
+𝜌phys(t) =  UGSE(t)  .	(49)
+
+GSE
+c2 Vphys(t)
+
+This shows explicitly that the MOC prescription does not arbitrarily mix χp (t) and Rphys(t). The global GSE is first calculated on the causal comoving domain defined by χp (t). The factor Rphys(t) enters only through the conversion of this global energy into the physical density required by the Friedmann equations.
+
+Derivation of GSE densities
+We now apply the above prescription to the two components of the total GSE. The attractive
+
+Newtonian GSE contribution is Ugs
+( ) =	( ) GM 2(t)
+χp (t)
+
+Dividing first by the comoving causal volume gives the comoving equivalent mass density,
+
+
+1 β (t)GM 2(t)/χp (t)
+3β (t) GM 2(t)
+
+com				
+
+−𝜌gs  (t) = − c2
+4𝑢 χ3(t)	= −
+4𝑢
+c2χ4(t) .	(50)
+
+3	p	p
+The physical density entering the Friedmann equation is then
+
+
+−𝜌gs (t) = a−3
+
+(t)
+−𝜌gs  (t)
+
+3β (t)
+=
+4𝑢
+
+
+c2χ
+GM 2(t)
+(t)R3
+
+.	(51)
+(t)
+
+p	phys
+The matter–GSE interaction component is evaluated using the same causal interaction scale:
+5β 2(t) G2 M 3(t)
+
+Um-gs (t) =	7
+.	(52)
+c2χ2(t)
+
+The matter–GSE interaction term contains the same horizon-scale interaction kernel once more, because the equivalent GSE mass generated by Ugs interacts gravitationally with the ordinary matter distribution. Therefore, the replacement of the effective interaction scale by χp (t) leads naturally to the squared kernel 1/χ2(t) in the interaction term.
+
+/
+
+
+Its comoving equivalent mass density is
+
+5β 2(t) G2 M 3(t)
+
+com
+1	7	c2 χ2 (t)
+15β 2(t) G2 M 3(t)
+
+𝜌m-gs (t) = c2
+4𝑢 χ3(t)	=
+28𝑢
+.	(53)
+c4χ5(t)
+
+3	p	p
+Converting this to a physical density gives
+
+
+𝜌m-gs (t) = a−3
+
+(t)𝜌com (t) =
+15β 2(t)
+28𝑢
+G2 M 3(t)
+c4χ2(t)R3
+
+.	(54)
+(t)
+
+p
+The total matter-induced dark energy density is therefore
+phys
+
+3β (t)	GM 2(t)	 5β (t) GM (t)
+
+𝜌Λ (t) =
+m
+4𝑢
+c2χp
+3
+phys
+(t)
+7	c2χp
+(t) − 1
+.	(55)
+
+Using the Schwarzschild radius associated with the causally connected mass, RS
+this can be written compactly as
+(t) ≡ 2GM (t) ,
+
+
+
+
+(56)
+
+
+
+where 𝜌m(t) is the physical matter density and M (t) = 𝜌m(t) 4𝑢 R3
+(t) is the mass contained
+
+3	phys
+in the causal domain.
+Equivalently, substituting M (t) = 𝜌m(t)(4𝑢/3)R3	(t) gives
+
+
+
+
+(57)
+
+
+The conceptual meaning of these expressions is as follows. The particle horizon χp (t) defines the causal comoving domain on which the global GSE is computed. If one first divides this global energy by the comoving volume Vχ (t), the result is a comoving GSE density. To use this quantity as a source in the Friedmann equations, it must be converted into a physical density by multiplying by a−3(t). This conversion is exactly equivalent to dividing the global GSE by the physical volume Vphys(t) = a3(t)Vχ (t).
+Thus the appearance of both χp (t) and Rphys(t) is not an inconsistency. Rather, it re-flects the distinction between causal accumulation and physical density representation. Us-ing χ3(t) alone as the volume for expressing the final density would leave a comoving den-sity, whereas using Rphys(t) as the interaction scale would treat the GSE as an instantaneous physical-separation energy rather than as a causally accumulated horizon-scale self-energy. The MOC prescription therefore assigns χp (t) and Rphys(t) to distinct but mutually consistent roles.
+
+Effective cosmological term in the MOC framework.	In the standard ΛCDM model, the cosmological constant is commonly expressed as
+
+Λ = 8𝑢G
+c2
+
+𝜌Λ =
+3H2
+
+/
+c2
+
+ΩΛ,	(58)
+
+where 𝜌Λ is the dark energy density, ΩΛ ≡ 𝜌Λ/𝜌c , and
+3H2(t)
+
+𝜌c (t) =
+(59)
+8𝑢G
+
+/
+
+is the critical density. In the MOC framework, dark energy is not an independent component, but is identified with the physical GSE density generated by matter itself, 𝜌Λ (t). The corre-
+m
+sponding effective cosmological term is therefore
+
+
+
+
+
+where
+Λm(t) ≡
+8𝑢G
+𝜌Λ (t) =
+c2	m
+
+
+
+𝜌Λ
+3H2(t)
+Λ (t),	(60)
+c2	m
+
+
+(t)
+
+
+
+Using Eq. (56), one obtains
+ΩΛ (t)		m	 .	(61)
+m	𝜌c (t)
+
+Λ (t) = 8𝑢G β (t)𝜌m(t) RS(t) 5β (t) RS(t) − 1 .	(62)
+At the present epoch t = t0, this reduces to
+3H2
+
+	0
+m,0	c2	Λm
+,0.	(63)
+
+This expression has the same formal structure as the standard cosmological constant relation. However, its physical interpretation is different: in MOC, Λm(t) is not a fundamental con-stant, but a time-dependent effective cosmological term generated by matter through its own gravitational self-energy.
+
+General GSE Framework: The Friedmann equations in expanding space
+Before introducing the effective source notation, it is important to clarify the meaning of the GSE contribution. The GSE contribution introduced here should not be interpreted as a local stress-energy tensor of the gravitational field itself. In General Relativity, the local energy density of the gravitational field is not uniquely defined in a coordinate-independent manner. The present construction does not rely on such a quantity. Rather, gravitational self-energy is treated as an internal binding energy contribution of a finite matter distribution, analogous to the way electromagnetic binding energy contributes to the invariant mass of a bound atomic system.
+Thus, T GSE should be understood as an effective decomposition of the total equivalent matter source, not as an additional stress-energy tensor of the gravitational field. In principle, this contribution belongs to the total mass-energy content of the matter system itself. The notation
+T total = T matter + T GSE
+
+µ𝑐
+µ𝑐
+µ𝑐
+
+is therefore a bookkeeping decomposition that makes explicit the part of the matter source associated with gravitational self-energy. In an FLRW setting, this contribution is represented as an effective homogeneous component because the Friedmann equations are written in terms of averaged cosmic energy densities.
+To formalize this framework, we treat the total GSE as an effective source term in the Einstein field equations,
+G	= 8𝑢G T matter + T GSE ,	(64)
+where the GSE contribution is modeled as an effective perfect fluid,
+
+
+T GSE = 𝜌Λ
+m
++ PΛ
+m
+ uµu𝑐 + PΛm
+gµ𝑐.	(65)
+
+/
+
+
+Solving these equations for the standard FLRW metric, substituting the total GSE densities and expressing them in terms of the matter density 𝜌m yields the first Friedmann equation in the MOC framework:
+(66)
+
+This expression explicitly reveals the scaling with the dimensionless geometric ratio RS /χp , which represents the competition between the gravitational radius and the causal horizon.
+The acceleration equation is derived from the total energy-momentum conservation as follows:
+
+a¨	4𝑢G
+= −	(𝜌
++ 𝜌
++ 3P
+) ≈ − 4𝑢G 𝜌
++ (1 + 3w
+)𝜌
+ .	(67)
+
+Adopting an effective equation of state wΛm ≈ −1 for the emergent dark energy component, the acceleration equation reduces to a compact form:
+
+(68)
+
+This equation demonstrates that the sign of cosmic acceleration is governed by the evolution of the total GSE term. As the causal horizon grows and the balance between the attractive and repulsive self-interaction components shifts, the universe naturally transitions from early-time deceleration to late-time acceleration.
+
+This result encapsulates the central thesis of the MOC framework. Matter is the sole fundamental energy source. Dark energy is not an independent physical entity but an emergent consequence of the GSE of matter and its relativistic self-interaction. In this sense, matter generates dark energy and drives cosmic acceleration through its own gravitational field.
+
+Static GSE Framework: The Friedmann equations in non-expanding space
+The MOC framework can also be formally extended to non-expanding and static systems by setting the causal interaction scale and the physical density representation scale equal to a single radius, χp = Rphys = R. This identification renders the equations applicable to a wide class of self-gravitating systems beyond cosmology. In this limit, the ratio RS /χp becomes RS /R.
+Substituting the explicit GSE-based expressions, the first Friedmann equation for a static system is expressed as follows:
+H2 = 8𝑢G𝜌m 1 + β RS  5β RS − 1 −  k  .	(69)
+
+Expanding the terms inside the bracket highlights the corrections to the Newtonian limit:
+
+
+H2 =
+
+8𝑢G𝜌m 1 −
+
+β RS +
+5β 2 R2
+/	−
+
+ k 
+.	(70)
+
+3	2 R	28 R2	a2
+The curvature term enters in the standard geometric manner and plays the same role as in the ΛCDM model. All nontrivial dynamical effects arise solely from the GSE of the matter distribution.
+
+/
+
+
+The corresponding acceleration equation is derived under the assumption wΛm ≈ −1:
+a¨ = − 4𝑢G𝜌m 1 − β RS  5β RS − 1 .	(71)
+
+In the strictly static limit, the first Friedmann equation reduces to a constraint equation de-scribing the balance of energy densities:
+8𝑢G𝜌m 1 + β RS  5β RS − 1 −  k  = 0.	(72)
+
+This condition describes the formal equivalent of hydrostatic equilibrium in a self-gravitating sphere. The repulsive component of the GSE can counterbalance gravitational attraction and can in principle oppose gravitational collapse. The acceleration equation similarly simplifies to a form that determines the stability of the system:
+a¨ ∝ − 4𝑢G𝜌m 1 − β RS  5β RS − 1 .	(73)
+
+This static formulation provides a powerful analytical tool for various physical scales. For as-trophysical objects such as stars or black hole interiors, it offers a framework to model internal energy density structures where repulsive GSE effects may regulate singularity formation. In elementary particle physics, it suggests a novel approach to self-energy problems by treat-ing particles as self-contained gravitationally bound systems whose divergences are naturally regularized by their own GSE [32, 38].
+
+Origin of negative pressure in the MOC framework
+The second Friedmann equation governs cosmic acceleration. In the MOC framework, dark energy is not introduced as an independent fundamental fluid. Instead, it is identified with an effective contribution 𝜌Λ  generated by the total GSE of matter, including both the attractive
+m
+GSE term and its associated interaction contribution.
+In this setting, the pressure associated with 𝜌Λ  is not imposed axiomatically. Rather, it
+m
+can be inferred from the conservation of the total effective energy–momentum tensor once the
+total equivalent mass density is specified.
+The total equivalent mass density is defined as
+𝜌T = 𝜌m + 𝜌Λm ,	(74)
+and the total effective pressure is
+PT = Pm + PΛm .	(75)
+Since the 𝜌 quantities used in the Friedmann equations are equivalent mass densities, the conservation of the total energy content is expressed as
+
+
+𝜌˙T
++ 3H 𝜌T
++ PT	= 0.	(76)
+c2
+
+Because 𝜌Λ  is not an independent fundamental component but an effective sector in-
+m
+duced by the total GSE of matter, the matter sector and the effective GSE sector need not be
+exactly conserved separately in the full theory. A more general background-level description is therefore
+
+𝜌˙m
++ 3H 𝜌m
++ Pm	= Q,	(77)
+c2
+
+/
+
+
+
+𝜌˙Λ
+m
++ 3H 𝜌Λm
++ PΛm	=  Q.	(78)
+c2
+
+Adding Eqs. (77) and (78) reproduces Eq. (76). Here Q parametrizes a possible effective exchange of equivalent mass density between the matter sector and the GSE-induced sector at the homogeneous background level.
+For pressureless matter one has Pm = 0. In the minimal MOC approximation adopted here, this exchange is assumed to be negligible at the background level, Q ≃ 0, so that the matter component remains approximately conserved in the standard FRW sense,
+𝜌˙m + 3H𝜌m ≃ 0	(79)
+and the effective GSE-induced component approximately satisfies
+
+
+𝜌˙Λ
+m
++ 3H 𝜌Λm
++ PΛm	0.	(80)
+c2
+
+Solving Eq. (80) for the effective pressure gives
+2	c2
+PΛm ≃ −𝜌Λm c − 3H 𝜌˙Λm .	(81)
+More generally, if the exchange term is retained explicitly, Eq. (78) gives
+
+
+PΛm = −𝜌Λm
+2
+c2	𝜌˙Λ
+3H	m
+
++ Q .	(82)
+
+Equation (81) is therefore the minimal-background limit of the more general interacting de-composition.
+This relation implies that the effective pressure contains two contributions. The first term,
+2	2
+−𝜌Λm c , is vacuum-like in the sense that it reproduces the familiar relation P = −𝜌c when
+
+𝜌Λ
+m
+is constant. The second term encodes the dynamical nature of the MOC framework
+
+through the time variation of 𝜌Λ . If the exchange term is retained, it also contains the effect
+m
+of matter–GSE transfer through Q.
+To analyze cosmic acceleration within the MOC framework, we define an effective equation-of-state parameter
+PΛ
+wΛ (t) ≡ 	m  .	(83)
+
+m
+
+Combining this definition with Eq. (82) yields
+𝜌Λ c2
+m
+
+𝜌˙Λ + Q
+wΛ (t) =	1		m	 .	(84)
+m	3H𝜌Λ
+m
+
+In the minimal approximation Q ≃ 0, this reduces to
+𝜌˙Λ
+wΛ (t)	1		m   .	(85)
+m	3H𝜌Λ
+
+
+In the MOC framework, 𝜌Λ
+m
+m
+
+(t) is determined by the total GSE expression given in Eq. (28).
+
+Accordingly, wΛ
+m
+(t) is generally time dependent, reflecting the evolving balance between the
+
+attractive and repulsive contributions inside the total GSE term.
+This expression provides a transparent physical interpretation of the effective equation of state. If the total GSE density varies slowly compared to the Hubble expansion rate, such that
+|𝜌˙Λm + Q| ≪ 3H|𝜌Λm |,	(86)
+
+/
+
+
+then the second term is subdominant and wΛm (t) approaches −1. In the minimal approxima-tion Q ≃ 0, this condition reduces to
+|𝜌˙Λm | ≪ 3H|𝜌Λm |.	(87)
+In that regime, the effective pressure satisfies
+PΛ	𝜌Λ c2	(88)
+m	m
+
+and the GSE contribution behaves similarly to a cosmological constant.
+More generally, whenever 𝜌Λ (t) evolves sufficiently slowly with cosmic time and the ex-
+m
+change term remains subdominant, the effective equation-of-state parameter remains nega-
+tive. As a result, the GSE-induced component produces an effective negative pressure. In the MOC framework, cosmic acceleration is thus interpreted as the dynamical consequence of the time-dependent total GSE generated by matter, rather than as the effect of an independent vacuum component.
+The total continuity equation employed above is not an additional model-dependent as-sumption. Rather, it follows from the covariant conservation law for the total energy–momentum tensor,
+𝝯µ Ttotal = 0	(89)
+which is required by general relativity [15, 18]. The decomposition into matter and effective GSE sectors with the exchange term Q therefore provides an effective background parametriza-tion of the total conserved source, rather than a statement that the two sectors are fundamen-tally independent.
+
+Thermodynamic interpretation of GSE pressure
+The thermodynamic derivation in this subsection should be regarded as a complementary con-sistency check of the sign and magnitude of the effective pressure. The primary definition of PΛ in the cosmological background is obtained from the total covariant conservation law.
+m
+As such a complementary check, one may introduce the thermodynamic-like relation
+
+
+d Ugs-T
+PΛm
+phys
+U˙gs-T
+=
+phys
+
+,	(90)
+
+where Vphys(t) = (4𝑢/3) Rphys(t)3 represents the physical volume with respect to which the GSE-induced internal energy is expressed and varied. The second equality holds provided that the cosmic time t serves as the unique parameter governing the evolution of the system [35].
+We emphasize that Eq. (90) should be interpreted as an effective equation-of-state iden-tification rather than a full equilibrium thermodynamic identity. Standard thermodynamics dictates that pressure is defined as a partial derivative, P = −(∂ U /∂ V )S,N ,..., taken at fixed entropy and particle number [39]. Consequently, adopting Eq. (90) implies the following ide-alized assumptions:
+Prescribed matter evolution along the horizon. Unlike a closed thermodynamic sys-tem with fixed particle number, the causal domain in our framework is an open system where the enclosed mass M grows with the horizon scale (e.g., via the causal prescription M (χp )). Accordingly, the derivative in Eq. (90) is evaluated along this specific evolution-ary trajectory. It implicitly captures the combined effects of geometric expansion and the causal inflow of matter, effectively treating the horizon-enclosed region as a single dynamic entity.
+
+/
+
+
+Negligible non-volumetric work. We neglect macroscopic work channels other than ef-fective volumetric work. This implies that contributions from chemical potential (µ d N ), anisotropic stress, or viscous dissipation are either absent or subdominant at the level of this effective description. This simplification is consistent with the standard treatment of the cosmic fluid as a perfect fluid on large scales [15, 37].
+Effective adiabaticity for the fluid description. While horizon growth may in principle be accompanied by entropy production, we model the GSE component as an effective perfect fluid governed by mechanical work. Thus, the derivative in Eq. (90) is taken under the assumption that explicit entropy production terms are either subdominant or can be decoupled from the mechanical equation of state, analogous to the standard adiabatic treatment of cosmic fluids [4].
+Phenomenological energy exchange. If the system exchanges energy with its sur-roundings (e.g., via radiation during collapse), these microscopic processes are not re-solved here. Instead, their net effect is assumed to be encoded phenomenologically in the evolution of Ugs-T. Therefore, PΛm represents the effective pressure required to reproduce the macroscopic U –V relation, rather than a locally measured microscopic pressure.
+Strictly speaking, since the causally connected domain constitutes an open system with causal matter inflow, the direct application of the equilibrium relation Eq. (90) faces formal limitations. However, it is instructive to examine the consequences of this thermodynamic definition as a heuristic probe. Under the assumptions outlined above, Eq. (90) serves as a valuable proxy, providing a useful framework to estimate the sign and magnitude of the effec-tive pressure. This exploratory analysis allows us to evaluate the effective equation-of-state
+
+parameter wΛ
+m
+≡ PΛm
+/(𝜌Λ
+m
+c2) and its contribution to cosmic acceleration (𝜌Λ
+m
++ 3PΛ
+m
+/c2),
+
+offering complementary insights to the rigorous gravitational derivation.
+
+Geometric volume factor
+We define the physical volume of the causally connected domain as
+
+
+Vphys
+4𝑢
+(t) =	R
+3
+
+
+phys
+(t)3 = 4𝑢
+3
+
+3
+a(t)χp (t)  .
+
+(91)
+
+Differentiating with respect to time yields
+d Vphys = 4𝑢a(t)3χ (t)3 H(t) + χ˙p (t) .	(92)
+Using the definition of the comoving particle horizon,
+, t  c 	 c 
+
+and noting that χp (t) = c η(t) (where η is the conformal time), Eq. (92) can be rewritten in a computationally convenient form.
+
+d Vphys = 4𝑢a(t)3χ
+d t	p
+(t)2H(t)χp
+(t) + χ˙p (t)
+
+= 4𝑢a(t)2χp (t)2 c 1 + a(t)H(t)η(t).	(94)
+Since a > 0, χp > 0, and (for an expanding universe) H > 0 and χ˙p > 0, it follows that d Vphys/d t > 0. Therefore, the sign of the effective pressure PΛm is determined solely by the sign of the time derivative d Ugs-T /dt.
+
+/
+
+
+Time derivative of the total GSE
+In the MOC framework, the total GSE is taken as
+GM 2(t)	5 2
+
+
+
+G2 M 3(t)
+
+Ugs-T (t) = −β (t)
++ /β
+χp (t)	7
+(t)	.	(95)
+c2χ2(t)
+
+Here M (t) denotes the mass enclosed within the causally connected particle-horizon domain. Since 𝜌m(t) is the physical matter density, the same enclosed mass can be written equivalently as
+M (t) = 𝜌 (t)  4𝑢 R3	(t) = 𝜌com(t)  4𝑢χ3(t) ,	𝜌com(t) ≡ a3(t)𝜌 (t).	(96)
+
+
+Thus,
+m	3	phys
+m	3	p	m	m
+
+M (t) = 4𝑢𝜌com(t)χ3(t).	(97)
+3	m	p
+This form makes explicit that the time dependence of M (t) comes from the growth of the causal comoving volume and, more generally, from any evolution of the comoving matter density. Differentiating Eq. (97) gives
+M˙ (t) = 4𝑢 𝜌˙com(t)χ3(t) + 3𝜌com(t)χ2(t)χ˙ (t) .	(98)
+Equivalently, in terms of the physical matter density,
+M˙ (t) = 4𝑢 a3(t)χ3(t) 𝜌˙ (t) + 3H(t)𝜌 (t) + 3𝜌 (t) χ˙p (t) .	(99)
+For pressureless matter satisfying the standard background conservation law, 𝜌˙m + 3H𝜌m = 0, this reduces to
+M˙ (t) = 4𝑢a3(t)𝜌m(t)χ2(t)χ˙p (t) = 4𝑢𝜌com(t)χ2(t)χ˙p (t).	(100)
+p	m	p
+Therefore the apparent a˙ term in the physical-density representation is cancelled by the dilu-tion of 𝜌m(t) for conserved pressureless matter.
+Treating Ugs-T (t) = U (β (t), M (t), χp (t)) as a composite function yields
+d Ugs-T = ∂ U β˙ + ∂ U M˙ + ∂ U χ˙ .	(101)
+d t	∂ β	∂ M	∂ χp
+The partial derivatives are
+∂ U	GM 2	10	G2 M 3
+
+∂ β = − χ
++	β	,	(102)
+7	c2χ2
+
+∂ U	GM	15
+∂ M = −2β χ	+ 7 β
+G2 M 2
+,	(103)
+c2χ2
+
+∂ U
+
+/
+∂ χp
+GM 2	10
+= β	β
+2
+p
+G2 M 3
+.	(104)
+c2χ3
+
+Substituting these results into Eq. (101) gives
+d Ugs-T	 GM 2	10	G2 M 3  ˙
+d t	=  −  χ	+ 7 β c2χ2	β
+	GM	15 2 G2 M 2  ˙
+
++  −2β χ	+ 7 β
+M
+c2χ2
+
++ β
+GM 2
+
+/
+2
+p
+10	G2 M 3
+β
+7	c2χ3
+
+χ˙p .	(105)
+
+/
+
+Here M (t) and M˙ (t) are given by Eqs. (97)–(98), or equivalently by Eqs. (99)–(100) when expressed in terms of the physical matter density.
+
+Final pressure formula in an expanding universe
+Combining the thermodynamic relation
+U˙gs-T (t)
+
+PΛm (t) =
+phys
+(106)
+(t)
+
+
+
+with
+
+V˙phys(t) = 4𝑢a3(t)χ2(t) H(t)χp (t) + χ˙p (t) ,	(107)
+
+and using Eq. (105), the thermodynamic GSE pressure becomes
+ GM 2	10	G2 M 3  ˙		GM	15 2 G2 M 2  ˙	 GM 2	10 2 G2 M 3 
+
+− χ
+PΛm (t) = −
++	β
+7	c2χ2
+β + −2β
++	β
+χp	7
+3 2
+c2χ2
+M +  β
+β
+2	c2χ3
+χ˙p
+.
+
+4𝑢a
+χp Hχp + χ˙p 
+(108)
+
+Here the enclosed mass is the mass inside the causally connected particle-horizon domain,
+M (t) = 4𝑢𝜌com(t)χ3(t) = 4𝑢 a3(t)𝜌  (t)χ3(t),	(109)
+3	m	p	3	m	p
+where
+𝜌com(t) ≡ a3(t)𝜌m(t).	(110)
+Its time derivative is therefore
+M˙ (t) = 4𝑢 𝜌˙com(t)χ3(t) + 3𝜌com(t)χ2(t)χ˙ (t) .	(111)
+Equivalently, in terms of the physical matter density,
+M˙ (t) = 4𝑢 a3(t)χ3(t) 𝜌˙ (t) + 3H(t)𝜌 (t) + 3𝜌 (t) χ˙p (t) .	(112)
+
+Optional specialization for conserved pressureless matter.	If one further assumes pres-sureless matter conservation in an FRW background,
+𝜌˙m(t) + 3H(t)𝜌m(t) = 0,	(113)
+then Eq. (112) reduces to
+M˙ (t) = 4𝑢a3(t)𝜌m(t)χ2(t)χ˙p (t) = 4𝑢𝜌com(t)χ2(t)χ˙p (t).	(114)
+p	m	p
+Thus, the apparent a˙ contribution in the physical-density representation is cancelled by the dilution of 𝜌m(t) for conserved pressureless matter.
+
+/
+
+Slow evolution of the structure coefficient β (t). In the MOC framework, β is a struc-tural coefficient fixed by the matter distribution through the GSE integral. Once the density profile is specified, β is determined by the corresponding gravitational self-energy calculation rather than introduced as an independent dynamical variable. After the formation of large-scale galactic structure, any residual evolution of β (t) is expected to be slow compared to the Hubble time, so that β may be approximated as constant for the purpose of the present derivation.
+Accordingly, we adopt the quasi-static approximation, β˙(t) ≃ 0, under which Eq. (108)
+simplifies to
+
+/	/	/
+
+PΛm (t) = −
+χp (t)	7
+c2 χ2 (t)
+3	2
+χ2 (t)	7
+c2 χ3 (t)
+p
+.	(115)
+
+4𝑢a
+(t)χp (t) H(t)χp (t) + χ˙p (t) 
+
+Fully expanded form using the comoving matter density.	It is algebraically cleanest to expand the pressure in terms of the comoving matter density 𝜌com(t) = a3(t)𝜌m(t). Using
+M (t) = 4𝑢𝜌com(t)χ3(t),	M˙ (t) = 4𝑢 𝜌˙com(t)χ3(t) + 3𝜌com(t)χ2(t)χ˙ (t) ,	(116)
+Eq. (115) can be written as
+Acom(t)𝜌˙com(t) + Bcom(t)χ˙p (t)
+PΛ (t) = − 	m	 ,	(117)
+
+where
+m	4𝑢a3(t)χ2(t) H(t)χ (t) + χ˙p (t) 
+
+A	 32𝑢2 
+com	5	
+ 10𝑢G 
+
+/
+
+com	2	
+
+B	 80𝑢2 
+
+com
+ 2  4	
+ 4𝑢G 
+
+com	2	
+
+
+Equivalent representation in terms of the physical matter density.	Using
+𝜌˙com = a3 (𝜌˙m + 3H𝜌m) ,	(120) Eq. (117) may be written directly in terms of the physical matter density as
+Aphys(t) [𝜌˙m(t) + 3H(t)𝜌m(t)] + Bphys(t)χ˙p (t)
+
+
+
+where
+PΛm (t) = −
+4𝑢a3
+(t)χ2(t) H(t)χp (t) + χ˙p (t) 
+,	(121)
+
+
+Aphys(t) ≡
+ 32𝑢2 
+
+/
+
+/
+
+β Ga6
+
+(t)𝜌m(t)χ5(t)
+−1 +
+10𝑢G 7c2
+
+β a3
+(t)𝜌m(t)χ2(t)
+
+,	(122)
+
+B	 80𝑢2	6	2	4		 4𝑢G 	3	2	
+
+
+For conserved pressureless matter,
+
+
+and Eq. (121) reduces to
+
+𝜌˙m + 3H𝜌m = 0,	(124)
+
+
+Bphys(t)χ˙p (t)
+
+PΛm (t) = −
+4𝑢a3
+(t)χ2(t) H(t)χp (t) + χ˙p (t) 
+.	(125)
+
+/
+
+
+Equation-of-state form and a present-day estimate.	The effective GSE pressure can be written in the standard equation-of-state form
+PΛ (t) = wΛ (t)𝜌Λ (t)c2,	(126)
+m	m	m
+
+
+where
+PΛ (t)
+
+wΛ (t) = 	m	 .	(127)
+
+m	𝜌Λ
+m
+(t)c2
+
+At the present epoch, using the fiducial CMB late-time parameters
+a(t0) = 1,	χp (t0) = 46.114 Gly,	β (t0) = 1.6172,
+Ωm = 0.3158,	𝜌c ≃ 8.5227 × 10−27 kg m−3,	H0 = 67.360 km s−1 Mpc−1,
+together with
+
+
+Eq. (125) gives
+χ˙p (t0) = c,	𝜌m(t0) = Ωm𝜌c ,	(128)
+
+PΛ (t0) ≃ −3.92 × 10−10 Pa.	(129)
+
+The corresponding present dark energy density is
+𝜌Λ (t0) ≃ 5.831 × 10−27 kg m−3.	(130)
+Therefore,
+
+(131)
+
+This value is noteworthy in light of recent discussions of DESI BAO constraints combined with CMB and Type Ia supernova data, which in some combined fits hint at possible deviations from ΛCDM and may favor dynamical dark energy scenarios with a present-day equation of state satisfying w0 > −1 [11, 12].
+
+Thermodynamic origin and sign transition of GSE pressure
+The effective pressure associated with the GSE-induced dark energy is defined thermodynam-ically by Eq. (90).
+In an expanding universe one has a > 0, H > 0, and χ˙p > 0. Consequently d Vphys/d t > 0. It follows that the sign of PΛm is determined entirely by the sign of d Ugs-T /dt. The attractive or repulsive character of the effective pressure is therefore controlled by the internal energy
+structure of the total GSE and is independent of the detailed expansion history beyond the monotonic growth of the physical volume.
+sign PΛm = −sign d Ugs-T .	(132)
+In the MOC framework, the total GSE in the static approximation is given by Eq. (19).
+To inspect the structural dependence of the GSE potential Ugs-T on the horizon scale, we adopt a scaling ansatz for the enclosed mass:
+M (χp ) ≈ K χ3.	(133)
+where K represents an effective density coefficient. While the actual matter density evolves with time, this power-law relation captures the leading-order geometric scaling of the mass within the causal volume, allowing us to determine the stationary point of the potential.
+
+/
+
+
+Substituting Eq. (133) into Eq. (19) yields
+Ugs-T (χp ) = −A χ5 + B χ7.	(134)
+with A ≡ β GK2, B ≡ 5 β 2 G2 K 3 . Taking the derivative with respect to χ gives
+
+7	c2
+
+d Ugs-T
+
+/
+
+/
+p
+
+= χ4 − 5A + 7Bχ2 .	(135)
+
+Since χ˙p > 0, Eqs. (132) and (135) imply that the pressure changes sign when the factor in parentheses vanishes:
+2	2	c2
+−5A + 7Bχp = 0	⇐⇒	χp,∗ = β GK .	(136)
+Using M = Kχ3 and the Schwarzschild radius RS = 2GM /c2, the transition condition can be written in compact and physically transparent form:
+
+(137)
+
+Therefore, the effective GSE pressure satisfies
+P	≷ 0	⇐⇒	RS ≶  2 .	(138)
+Λ
+χp	β
+
+
+The dark energy density is defined as 𝜌
+
+ Ugs-T 
+≡	. Since V
+
+(t) > 0, the sign of 𝜌	is
+
+determined by the sign of Ugs-T.
+Λm	Vphys c2
+phys	Λm
+
+Equation (134) shows that the same competition between the negative Newtonian binding term and the positive relativistic self-interaction term governs both the sign of Ugs-T and the sign of its derivative. However, the transition epochs differ slightly because the two terms carry different powers of χp : the pressure turns negative as the system passes the potential
+minimum (d Ugs-T /dχp = 0), whereas the energy density becomes positive only later, when
+Ugs-T itself crosses zero.
+In the regime where the Newtonian binding term dominates, the potential slope is nega-tive (d Ugs-T /dχp < 0), resulting in positive pressure PΛm > 0. Once the relativistic term grows sufficiently for the system to pass the transition point defined by Eq. (137), the slope turns pos-itive (d Ugs-T /dχp > 0), generating negative pressure PΛm < 0. This repulsive phase emerges naturally from the deep relativistic structure of the gravitational self-energy.
+
+Connection to the sign of the dark energy density
+In MOC, the dark energy density is defined as
+Ugs-T
+
+𝜌Λm
+phys
+.	(139)
+c2
+
+Since Vphys > 0, the sign of 𝜌Λm is determined by the sign of Ugs-T. The total GSE contains two competing contributions. The Newtonian self-binding term is negative, while the relativistic self-interaction term is positive.
+At early epochs, when the causally connected domain is small and the enclosed mass is correspondingly limited, the negative binding contribution dominates. In this regime one has
+Ugs-T < 0	=⇒	𝜌Λm < 0.	(140)
+
+/
+
+
+In the same regime, the thermodynamic pressure analysis implies PΛ  > 0. Within the present
+m
+scaling picture, the same early-time regime is therefore characterized by
+𝜌Λm < 0	=⇒	PΛm > 0.	(141)
+As the causal domain grows and the enclosed mass increases, the positive self-interaction contribution eventually dominates the total GSE. One then finds
+Ugs-T > 0	=⇒	𝜌Λm > 0.	(142)
+In this late-time regime the same thermodynamic analysis implies PΛ < 0.
+m
+
+𝜌Λm > 0	=⇒	PΛm < 0.	(143)
+Equations (141) and (143) summarize a key physical feature of the MOC mechanism. The dark energy component contributes an attractive tendency when its equivalent density is neg-ative and its effective pressure is positive. After the sign transition, it contributes a repulsive tendency once its equivalent density becomes positive and its effective pressure becomes neg-ative. This late-time behavior is the regime relevant for cosmic acceleration in MOC.
+The thermodynamic derivation presented here is consistent with the continuity-equation approach. Both routes lead to the same qualitative conclusion in the late universe. The effec-tive pressure becomes negative and the corresponding equation of state approaches wΛm ≃ −1
+
+when the evolution of 𝜌Λ
+m
+is slow compared to the Hubble rate.
+
+Applicability to the radiation era
+Although the name “Matter-Only Cosmology” emphasizes that the model introduces no inde-pendent dark energy fluid, the underlying mechanism is not restricted to nonrelativistic matter. The GSE construction is an energy-budget statement and therefore applies, in principle, to any dominant gravitating component that enters the Friedmann equations.
+During the radiation-dominated epoch, the dominant energy component is radiation with energy density ϵr . The corresponding equivalent mass density sourcing gravity is [15, 37]
+
+𝜌r
+ϵr
+≡ c2 .	(144)
+
+In this era, the MOC framework is implemented by replacing the matter source 𝜌m with the radiation source 𝜌r in the GSE expressions. The total equivalent mass density then retains the same structural form:
+𝜌T = 𝜌r + 𝜌Λr .	(145)
+Here 𝜌Λ denotes the total GSE contribution induced by the radiation source.
+r
+In direct analogy with the matter-era decomposition, it can be written as
+𝜌Λr = 𝜌r-gs (𝜌r ) − 𝜌gs (𝜌r ),	(146)
+where the bracket notation emphasizes that both the positive interaction contribution and the negative binding contribution are now sourced by 𝜌r .
+The principal differences relative to the matter-dominated case are the background density scaling and the background pressure. Radiation satisfies 𝜌r ∝ a−4, reflecting both volume expansion and photon redshift, whereas nonrelativistic matter satisfies 𝜌m ∝ a−3. In addition, the radiation equation-of-state parameter is wr = 1 , whereas for pressureless matter one has
+wm ≃ 0.
+
+/
+
+
+These differences modify the time dependence of χp (t), Rphys(t), and the sourced GSE densities, but do not alter the formal structure of the GSE-induced contribution itself.
+Consequently, the MOC framework is formally applicable across both the radiation- and matter-dominated epochs, provided that the dominant source term in the GSE expressions is chosen consistently with the cosmic equation of state. In the present work, we focus primarily on quantitative predictions for the post-CMB epoch. The implications of the same mechanism for earlier epochs, including the transition out of inflation, are discussed in Section 10.
+
+Theoretical consistency: Positive energy density and the origin of repulsion
+A central theoretical requirement for any alternative description of cosmic acceleration is to generate repulsive dynamics without introducing known instabilities. Scenarios that rely on genuinely exotic degrees of freedom, such as phantom components with w < −1, can exhibit vacuum instabilities or ghostlike excitations and are therefore widely regarded as pathological [40, 41].
+In this section we show that the MOC framework avoids these pathologies by maintaining a nonnegative total equivalent mass density 𝜌T while producing repulsion through the effective pressure associated with the total GSE contribution.
+
+Stability via nonnegative total energy density
+To test whether the total density can become negative, we examine the condition
+𝜌T = 𝜌m + 𝜌Λm < 0,	(147)
+
+
+which is equivalent to 𝜌Λ
+m
+from Eq. (28) yields
+< −𝜌m. Substituting 𝜌m = 3M /(4𝑢R3) and the expression for 𝜌Λ
+
+3β GM 2  5β RS		 3M 
+
+/	/
+Introducing the dimensionless compactness variable, x ≡ RS , and using R = 2GM /c2 trans-
+forms Eq. (148) into the quadratic inequality
+
+
+5β 2
+x 2
+28
+β
+− 2 x + 1 < 0.	(149)
+
+The discriminant of the quadratic polynomial in Eq. (149) is
+
+D = − β	− 4
+5β 2
+
+/
+28
+13β 2
+=	.	(150)
+28
+
+For any real β , one has D < 0 and the leading coefficient is positive. Therefore the quadratic expression is strictly positive for all real x , so the inequality in Eq. (149) has no solution. Equivalently, the total density never becomes negative:
+𝜌T (R) > 0	for all R > 0.	(151)
+In regimes where 𝜌Λm is negative because the binding contribution dominates, its magnitude remains bounded so that 𝜌T stays positive. The same conclusion holds when the attractive and repulsive GSE densities are expressed through the general expanding-universe prescrip-tions in Eqs. (51) and (54), provided M denotes the causally connected mass and Rphys the corresponding physical volume scale.
+
+/
+
+
+This result implies that the MOC background satisfies the density part of the weak energy condition in the sense that 𝜌T ≥ 0 [18, 36]. Accordingly, the construction avoids the most direct instability associated with genuinely negative total energy density and is not forced into the pathological behavior often associated with explicitly unstable negative-energy or exotic components [40–42].
+
+Repulsion from effective pressure
+If the total mass-energy density remains positive, the origin of acceleration must reside in the pressure sector. In an FRW background, the acceleration equation depends on the active gravitational mass density, which contains the combination 𝜌 + 3P/c2. In the MOC framework this may be written as
+a¨ = − 4𝑢G 𝜌 + 3PT  ,	(152)
+where PT = Pm + PΛm . For pressureless matter one sets Pm ≃ 0, so PT ≃ PΛm .
+Although 𝜌T remains positive, the total GSE sector induces an effective pressure PΛm that can become negative after the sign transition derived in Section 4.4 and in the analysis of the structure coefficient β in Section 3. In the effective-fluid description, this negative pressure is the driver of repulsive dynamics.
+Our thermodynamic and continuity-equation derivations show that, in the late universe where 𝜌Λ > 0, the effective equation-of-state parameter approaches
+m
+
+PΛ
+wΛ ≡	≃ −1,	(153)
+
+m
+
+
+so that PΛ < 0 holds in the same regime.
+m
+𝜌Λ c2
+m
+
+Under these conditions the active gravitational mass density contributed by the GSE sector is negative:
+
+𝜌Λ
+m
+3PΛ
++ 	m	2𝜌Λ
+c2	m
+< 0	(154)
+
+and the total combination in Eq. (152) can satisfy
+
+
+𝜌T
++ 3PT
+c2
+< 0	(155)
+
+which yields a¨ > 0 and therefore accelerated expansion.
+This provides a mechanism for repulsive cosmological dynamics without requiring a neg-ative total energy density or a phantom component with w < −1.
+Ontological stability: The total equivalent mass density remains positive, 𝜌T > 0, avoiding the most direct negative-energy pathology and remaining consistent with stan-dard energy-condition expectations for the background density [18, 36].
+Dynamical repulsion: The total GSE sector generates an effective negative pressure,
+PΛ	< 0, which can render the active gravitational mass density negative and drive
+m
+acceleration in agreement with supernova evidence for late-time repulsion [1, 2].
+Therefore, within the MOC framework, late-time acceleration can arise as a purely gravita-tional effect generated by the self-consistent energy structure of the total GSE sector, without introducing additional exotic fields and without invoking phantom instabilities.
+
+/
+
+Definition of the GSE framework
+The GSE framework asserts that the total energy of a gravitating system can be decomposed into a free-state contribution and a self-gravitating contribution associated with mutual grav-itational interactions among the system constituents. In particular, the framework treats the GSE as part of the system energy budget that enters its equivalent mass, consistent with the general relativistic principle that all forms of energy gravitate [14, 15].
+Crucially, our construction extends the conventional Newtonian binding energy term by incorporating an additional relativistic interaction contribution that arises once the self-energy itself is included as part of the gravitational source. In other words, the effective source is obtained by replacing the bare enclosed mass with an equivalent mass that includes the self-energy contribution, which generates a second term at order 1/c2 in the total GSE. Since all physical entities possess energy and thus generate gravity, the GSE framework is a universal principle applicable to all matter distributions, from elementary particles to the universe at large.
+[ Classification: general versus static model ]
+Depending on whether the background spacetime is treated as expanding or effectively
+time independent on the scales of interest, the framework is formulated in two regimes.
+
+The General GSE model: This formulation applies to an expanding FRW background, where the causal interaction scale is set by the particle horizon χp (t), while the resulting global GSE is expressed as a physical energy density with respect to the physical horizon radius Rphys(t). Because χp (t) and Rphys(t) can evolve differently, the total GSE density acquires a nontrivial time dependence, which is the relevant regime for cosmological applications and the emergence of a dark energy component.
+The Static GSE model: This limiting formulation applies to gravitationally bound sys-tems that are effectively decoupled from cosmic expansion on the scales of interest, including compact astrophysical objects such as stars and black holes, as well as more localized energy-carrying systems such as elementary particles [38]. In this regime, the characteristic interaction length is taken to be commensurate with the physical size of the system, so that the distinction between the causal interaction scale and the physical size can be neglected to leading order. Accordingly, one may set Rphys ≃ χp ≃ R within the system and treat the cosmological expansion as a subleading background effect in the internal energy bookkeeping.
+This static approximation is justified not only by spatial scale separation, but also by tem-poral scale separation. The characteristic dynamical timescales of such bound systems are vastly shorter than the cosmological expansion timescale. As a result, the cosmolog-ical background evolves negligibly over the relevant analysis time and can be treated as effectively constant. Background-induced corrections therefore remain parametrically small across the spatial extent of the system and are consistently neglected.
+This static GSE formulation provides a simplified and self-consistent analytic description of internal structure and stability in self-gravitating configurations.
+
+/
+
+Part II. Cosmological Phenomenology
+Observational Validation and the Determination of β
+In the preceding sections, we established the foundational equations of MOC. In this paradigm, the phenomenon conventionally attributed to dark energy arises from the total GSE of the universe, evaluated in a self-consistent manner.
+𝜌	= 𝜌	− 𝜌	=		− 1 .	(156)
+β𝜌m RS	5β RS
+/	/	/	/	/	/ /
+Here β is a structure coefficient entering the total GSE.

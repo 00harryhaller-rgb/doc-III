@@ -1,0 +1,2502 @@
+involving Lagrange multiplier or its conjugate viz, φ1 = pz − λ, φ2 = pλ, φ3 = pN . Since, the lapse function N is non-dynamical, so we have safely considered the associated constraint to vanish strongly. The first two con-straints can now be harmlessly substituted into the modified primary Hamiltonian, which takes the form,
+√/	2 3	Np2
+
+H	= N	zp2 − 2kNp
+fzNpx	Nf z 2		φ	3
+−	+	+	/
+— λ + u p .
+
+Here u1, u2 are the Lagrange multipliers and the Poisson bracket {x, px} = {z, pz} =
+{λ, pλ} = 1, hold. Now constraint should remain preserved in time, which are exhibited in the Poisson brackets {φi, Hp1} viz,
+
+φ˙ = {φ , H
+∂Hp1
+} = −N	− u
++ Σ2
+φ {φ , u }.	(B.9)
+
+φ˙2 = {φ2, Hp1} = −x + u1 + Σ2  φi{φ2, ui}	(B.10)
+Consequently, all the Poisson bracket relations vanish weakly if we set,
+
+u =	N ∂Hp1
+2	∂z
+and u1 = x.	(B.11)
+
+Since, under the condition φ˙1 and φ˙2 should vanish weakly, explicit forms of u2 and u1 are found, so the modified primary Hamiltonian is,
+
+N √z
+fzNpx
+Nf 2z 2
+Np2	3
+∂Hp1
+
+Hp2 =
+36B px −2kNpx −	6B	+
++	3
+4B	2z 2
++V Nz 2 +Nxpz −N
+∂z  pλ.	(B.12)
+
+Now under the same condition that constraint should remain preserved in time, pλ vanishes trivially. Therefore, the Hamiltonian finally takes the form,
+
+"	 √z
+fzpx
+f 2z 2	2/	3 #
+
+HD = N
+xpz + 36Bpx − 2kpx − 6B +
++	3
+4B	2z 2
++ V z 2
+= N HD.	(B.13)
+
+Clearly, HD is no different from HO.
+Horowitz’ formalism
+Instead of choosing the basic variables as {hij, Qij} together with their conjugate momenta,
+pij, Πij , (where, Qij =		∂L	 ), as considered by Boulware [57], Horowitz [20] took
+∂(LnKij )
+another set of variables viz. {hij, Kij} together with their conjugate momenta, {pij, Pij}.
+Although, the resulting formalism is completely equivalent to [57], the latter appears to be much convenient to handle. The quantized version (the modified Wheeler-deWitt equation) in this formalism, corresponding to the positive definite action, resembles with Schr¨odinger equation, where the internal parameter, viz. the three metric hij plays the role of time. Horowitz [20] argued against supplementary boundary terms and insisted on keeping hij and Kij fixed at the boundary. So that higher order theory is devoid of supple-mentary boundary terms. However, treating Kij as a variable from the beginning, requires to vary the action with respect to Kij as well, together with hij, since both are treated on the same footing. This restricts classical solutions by and large. Therefore, in order to obtain the canonical structure, Horowitz, started with an auxiliary variable Qij, which is found by varying the action with respect to the highest derivative of the field variables present in the action. The Hamiltonian so obtained, was finally expressed in terms of the basic variables {hij, Kij; pij, Πij}, following canonical transformation. Let us start with the action (2.4) apart from the supplementary boundary terms to explore the situation. Introducing the auxiliary variable
+∂L	3f √z	 18B  z¨ 	N˙ z˙	!
+
+/
+
+straight into the action (2.4) as
+
+∫ "	N
+3√zQ2
+Nf 2z 2
+f N 2Qz
+2	N˙ z˙Q
+3
+z 2 φ	3
+
+A =	Qz¨ −
+36B	−	4B	+
++ 2kQN
+6B
+N	+ 2N  − V Nz 2
+dt,
+(B.15)
+
+and after integration by parts, resulting canonical action reads
+
+A = ∫ "
+Q˙ z˙ − N
+3√zQ2
+Nf 2z 2
+f N 2Qz
+2	N˙ z˙Q
+3
+z 2 φ	3
+
+—	36B	−	4B	+
++ 2kQN
+6B
+N	+ 2N  − V Nz 2
+dt.
+
+(B.16)
+
+Now in view of the canonical momenta
+N˙ Q	3 ˙
+
+z˙Q
+
+pz = −Q˙ −
+N ;	pφ
+z 2 φ
+=		;	pQ N
+= −z˙;	pN =	N
+(B.17)
+
+the Hamiltonian in phase space variables is readily obtained as,
+
+
+H	=	p p
+N 3√zQ2
++
+2	f N
+— 2kQN −
+2Qz	Nf
++
+
+2z 2
+Np2
++
+
+(B.18)
+
+H	− Q z
+
+/
+36B
+
+/
+6B	4B
+3
+
+/
+2z 2
++ V Nz 2 .
+
+It is now required to express the Hamiltonian in terms of basic variables (z and x =  z˙ ), instead of auxiliary variable (z and Q). Since, pQ = −z˙ = −Nx and Q = px , one therefore is required to make the following canonical transformation with the replacements of, pQ by
+px
+−Nx and Q by N in the Hamiltonian (B.18), which therefore finally results in,
+
+"	 √z
+
+fzpx
+f 2z 2	2/	3 #
+
+HH = N
+xpz + 36Bpx − 2kpx − 6B +
++	3
+4B	2z 2
++ V z 2
+= N HH.	(B.19)
+
+One can readily observe that the Hamiltonian obtained following the above three formalism, viz., Ostrogradski (B.4), Dirac (B.13) and Horowitz (B.19)) are the same HO = HD = HH. However, the Hamiltonian H (2.13) is different from HO (B.4), HD (B.13) or HH (B.19). Although the set of transformations
+
+kX	3f X
+k	√ 
+
+z = Z,	pz = PZ − 18B Z 3 + 2√Z ;	x = X,  px = PX + 36B √Z + 3f	Z;	(B.20)
+φ = Φ,	pφ = PΦ + 3f jX√Z,
+relates H with the others, nevertheless, such transformations are not canonical. This establishes the fact that different boundary conditions lead to different Hamiltonian in general, and they are not related under canonical transformations. The reason for following modified Horowitz’ formalism has been discussed in the introduction and in the concluding remarks.
+Open Access. This article is distributed under the terms of the Creative Commons Attribution License (CC-BY 4.0), which permits any use, distribution and reproduction in any medium, provided the original author(s) and source are credited.
+
+References
+J.-P. Uzan, Cosmological scaling solutions of nonminimally coupled scalar fields, Phys. Rev. D 59 (1999) 123510 [gr-qc/9903004] [INSPIRE].
+L. Amendola, Coupled quintessence, Phys. Rev. D 62 (2000) 043511 [astro-ph/9908023] [INSPIRE].
+R. Bean and J. Magueijo, Dilaton derived quintessence scenario leading naturally to the late time acceleration of the universe, Phys. Lett. B 517 (2001) 177 [astro-ph/0007199] [INSPIRE].
+
+R. Bean, Perturbation evolution with a nonminimally coupled scalar field, Phys. Rev. D 64 (2001) 123516 [astro-ph/0104464] [INSPIRE].
+B. Boisseau, G. Esposito-Farese, D. Polarski and A.A. Starobinsky, Reconstruction of a scalar tensor theory of gravity in an accelerating universe, Phys. Rev. Lett. 85 (2000) 2236 [gr-qc/0001066] [INSPIRE].
+N. Agarwal and R. Bean, The Dynamical viability of scalar-tensor gravity theories, Class. Quant. Grav. 25 (2008) 165001 [arXiv:0708.3967] [INSPIRE].
+A. Cid, G. Leon and Y. Leyva, Intermediate accelerated solutions as generic late-time attractors in a modified Jordan-Brans-Dicke theory, JCAP 02 (2016) 027 [arXiv:1506.00186] [INSPIRE].
+N. Bartolo and M. Pietroni, Scalar tensor gravity and quintessence, Phys. Rev. D 61 (2000) 023518 [hep-ph/9908521] [INSPIRE].
+D.J. Holden and D. Wands, Selfsimilar cosmological solutions with a nonminimally coupled scalar field, Phys. Rev. D 61 (2000) 043506 [gr-qc/9908026] [INSPIRE].
+G. Leon, On the Past Asymptotic Dynamics of Non-minimally Coupled Dark Energy, Class. Quant. Grav. 26 (2009) 035008 [arXiv:0812.1013] [INSPIRE].
+K. Nozari and S.D. Sadatian, Late-time acceleration and Phantom Divide Line Crossing with Non-minimal Coupling and Lorentz Invariance Violation, Eur. Phys. J. C 58 (2008) 499 [arXiv:0809.4744] [INSPIRE].
+L.N. Granda, Cosmological Dynamics of Scalar Field with Non-Minimal Coupling to Gravity, Rev. Col. F´ıs. 42 (2010) 63.
+K.S. Stelle, Renormalization of Higher Derivative Quantum Gravity, Phys. Rev. D 16 (1977) 953 [INSPIRE].
+B. Tajahmad and A.K. Sanyal, Unified cosmology with scalar-tensor theory of gravity, Eur. Phys. J. C 77 (2017) 217 [arXiv:1612.04239] [INSPIRE].
+A.A. Starobinsky, A New Type of Isotropic Cosmological Models Without Singularity, Phys. Lett. B 91 (1980) 99 [INSPIRE].
+K.-i. Maeda, Inflation as a Transient Attractor in R2 Cosmology, Phys. Rev. D 37 (1988) 858 [INSPIRE].
+E.T. Whittaker, A treatise on the analytical dynamics of particles and rigid bodies, Cambridge University Press (1904).
+P.A.M. Dirac, Generalized Hamiltonian dynamics, Can. J. Math. 2 (1950) 129 [INSPIRE].
+P.A.M. Dirac, Lectures on Quantum Mechanics, Belfer Graduate School of Science, Yeshiva University, New York (1964).
+G.T. Horowitz, Quantum Cosmology With a Positive Definite Action, Phys. Rev. D 31 (1985) 1169 [INSPIRE].
+A.K. Sanyal and B. Modak, Quantum cosmology with a curvature squared action, Phys. Rev. D 63 (2001) 064021 [gr-qc/0107001] [INSPIRE].
+A.K. Sanyal and B. Modak, Quantum cosmology with R + R2 gravity, Class. Quant. Grav. 19 (2002) 515 [gr-qc/0107070] [INSPIRE].
+
+A.K. Sanyal, Quantum mechanical probability interpretation in the minisuperspace model of higher order gravity theory, Phys. Lett. B 542 (2002) 147 [gr-qc/0205053] [INSPIRE].
+A.K. Sanyal, Quantum mechanical formulation of quantum cosmology for brane world effective action, gr-qc/0305042 [INSPIRE].
+A.K. Sanyal, Hamiltonian formulation of curvature squared action, Gen. Rel. Grav. 37 (2005) 1957 [hep-th/0407141] [INSPIRE].
+A.K. Sanyal, S. Debnath and S. Ruz, Canonical formulation of curvature squared action in the presence of lapse function, Class. Quant. Grav. 29 (2012) 215007 [arXiv:1108.5869] [INSPIRE].
+S. Debnath, S. Ruz and A.K. Sanyal, Canonical formulation of scalar curvature squared action in higher dimensions, Phys. Rev. D 90 (2014) 047504 [arXiv:1408.1765] [INSPIRE].
+K. Sarkar, N. Sk, R. Mandal and A.K. Sanyal, Canonical formulation of Pais-Uhlenbeck action and resolving the issue of branched Hamiltonian,
+Int. J. Geom. Meth. Mod. Phys. 14 (2016) 1750038 [arXiv:1507.03444] [INSPIRE].
+S. Ruz, R. Mandal, S. Debnath and A.K. Sanyal, Resolving the issue of branched Hamiltonian in modified Lanczos–Lovelock gravity, Gen. Rel. Grav. 48 (2016) 86 [arXiv:1409.7197] [INSPIRE].
+R. Mandal and A. Kumar Sanyal, Equivalent and inequivalent canonical structures of higher order theories of gravity, Phys. Rev. D 96 (2017) 084025 [arXiv:1709.05201] [INSPIRE].
+J.W. York Jr., Role of conformal three geometry in the dynamics of gravitation, Phys. Rev. Lett. 28 (1972) 1082 [INSPIRE].
+G.W. Gibbons and S.W. Hawking, Action Integrals and Partition Functions in Quantum Gravity, Phys. Rev. D 15 (1977) 2752 [INSPIRE].
+E. Dyer and K. Hinterbichler, Boundary Terms, Variational Principles and Higher Derivative Modified Gravity, Phys. Rev. D 79 (2009) 024028 [arXiv:0809.4033] [INSPIRE].
+V. Iyer and R.M. Wald, A Comparison of Noether charge and Euclidean methods for computing the entropy of stationary black holes, Phys. Rev. D 52 (1995) 4430
+[gr-qc/9503052] [INSPIRE].
+F. Briscese and E. Elizalde, Black hole entropy in modified gravity models, Phys. Rev. D 77 (2008) 044009 [arXiv:0708.0432] [INSPIRE].
+J.C. Hwang, Cosmological perturbations in generalized gravity theories: Formulation, Class. Quant. Grav. 7 (1990) 1613 [INSPIRE].
+J.-c. Hwang, Cosmological perturbations in generalized gravity theories: Conformal transformation, Class. Quant. Grav. 14 (1997) 1981 [gr-qc/9605024] [INSPIRE].
+M. Satoh, S. Kanno and J. Soda, Circular Polarization of Primordial Gravitational Waves in String-inspired Inflationary Cosmology, Phys. Rev. D 77 (2008) 023526 [arXiv:0706.3585] [INSPIRE].
+D.J. Schwarz, C.A. Terrero-Escalante and A.A. Garcia, Higher order corrections to primordial spectra from cosmological inflation, Phys. Lett. B 517 (2001) 243 [astro-ph/0106020] [INSPIRE].
+S.M. Leach, A.R. Liddle, J. Martin and D.J. Schwarz, Cosmological parameter estimation and the inflationary cosmology, Phys. Rev. D 66 (2002) 023515 [astro-ph/0202094] [INSPIRE].
+
+D.J. Schwarz and C.A. Terrero-Escalante, Primordial fluctuations and cosmological inflation after WMAP 1.0, JCAP 08 (2004) 003 [hep-ph/0403129] [INSPIRE].
+M. Satoh and J. Soda, Higher Curvature Corrections to Primordial Fluctuations in Slow-roll Inflation, JCAP 09 (2008) 019 [arXiv:0806.4594] [INSPIRE].
+J.C. Hwang, Curved space quantum scalar field theory with accompanying metric fluctuations, Phys. Rev. D 48 (1993) 3544 [INSPIRE].
+J.C. Hwang, Perturbative semiclassical approximation in the uniform curvature gauge, Class. Quant. Grav. 11 (1994) 2305 [INSPIRE].
+J.-c. Hwang, Quantum fluctuations of cosmological perturbations in generalized gravity, Class. Quant. Grav. 14 (1997) 3327 [gr-qc/9607059] [INSPIRE].
+J.-c. Hwang, Unified analysis of cosmological perturbations in generalized gravity, Phys. Rev. D 53 (1996) 762 [gr-qc/9509044] [INSPIRE].
+J.-c. Hwang and H. Noh, Cosmological perturbations in generalized gravity theories, Phys. Rev. D 54 (1996) 1460 [INSPIRE].
+J.-c. Hwang and H. Noh, Density spectra from pole-like inflations based on generalized gravity theories, Class. Quant. Grav. 15 (1998) 1387.
+H. Noh, Cosmological Perturbations in Generalized Gravity Theories Including Tachyon, in proceedings of 22nd Texas Symposium on Relativistic Astrophysics at Stanford University, December 13–17, 2004.
+V.F. Mukhanov, Quantum Theory of Gauge Invariant Cosmological Perturbations, Sov. Phys. JETP 67 (1988) 1297 [INSPIRE].
+J. Martin and D.J. Schwarz, New exact solutions for inflationary cosmological perturbations, Phys. Lett. B 500 (2001) 1 [astro-ph/0005542] [INSPIRE].
+E.D. Stewart and D.H. Lyth, A More accurate analytic calculation of the spectrum of cosmological perturbations produced during inflation, Phys. Lett. B 302 (1993) 171 [gr-qc/9302019] [INSPIRE].
+T.T. Nakamura and E.D. Stewart, The Spectrum of cosmological perturbations produced by a multicomponent inflaton to second order in the slow roll approximation,
+Phys. Lett. B 381 (1996) 413 [astro-ph/9604103] [INSPIRE].
+Planck collaboration, P.A.R. Ade et al., Planck 2015 results. XX. Constraints on inflation, Astron. Astrophys. 594 (2016) A20 [arXiv:1502.02114] [INSPIRE].
+F.J. de Urries and J. Julve, Ostrogradski formalism for higher derivative scalar field theories,
+J. Phys. A 31 (1998) 6949 [hep-th/9802115] [INSPIRE].
+L. Querella, Variational principles and cosmological models in higher order gravity, Ph.D. Thesis, Universit´e de Liege (1998) [gr-qc/9902044] [INSPIRE].
+D.G. Boulware, Quantum Theory of Gravity, S.M. Christensen ed., Adam Hilger Ltd. (1984).
+
+Eddington-Born-Infeld gravity and the large scale structure of the Universe
+M. Ban˜ados1, P.G. Ferreira2 and C. Skordis3
+1Departamento de F´ısica, P. Universidad Cat´olica de Chile, Casilla 306, Santiago 22,Chile.
+2Astrophysics, University of Oxford, Denys Wilkinson Building,
+Keble Road, Oxford OX1 3RH, UK 3Perimeter Institute, Waterloo, Ontario N2L 2Y5, Canada.
+(Dated: April 2, 2009)
+It has been argued that a Universe governed by Eddington-Born-Infeld gravity can be compatible with current cosmological constraints. The extra fields introduced in this theory can behave both as dark matter and dark energy, unifying the dark sector in one coherent framework. We show the various roles the extra fields can play in the expansion of the Universe and study the evolu-tion of linear perturbations in the various regimes. We find that, as a unified theory of the dark sector, Eddington-Born-Infeld gravity will lead to excessive fluctuations in the Cosmic Microwave Background on large scales. In the presence of a cosmological constant, however, the extra fields can behave as a form of non-particulate dark matter and can lead to a cosmology which is entirely compatible with current observations of large scale structure. We discuss the interpretation of this form of dark matter and how it can differ from standard, particulate dark matter.
+
+
+INTRODUCTION
+
+There is compelling evidence that baryonic matter in the presence of Einstein gravity does not suffice to de-scribe the Universe we live in. The most natural and popular suggestion is that we are surrounded by a sea of massive, non-relativistic particles. Dubbed Cold Dark Matter (CDM), it can account for the dynamics of galax-ies and clusters and the large scale structure of the Uni-verse. Furthermore it can arise in a plethora of extensions to the standard model of particle physics and would cur-rently exist as a thermal relic from hot era at early times [1].
+Alternatives to the CDM scenario have been proposed. At the more extreme level, it has been suggested that Einstein Gravity is modified, either through higher order corrections to the Einstein-Hilbert action, or through the addition of new gravitational degrees of freedom that af-fect the relationship between the geometric and physical nature of the space-time metric [2, 3, 4, 5]. The less rad-ical proposals typically involve replacing the Cold Dark Matter by some non-particulate degree of freedom such as a scalar field or a fluid which has an effectively pres-sureless equation of state. Within this class of models, there have been attempts at resolving both the dark mat-ter problem and the dark energy problem. A notable
+of dark energy and dark matter in the expansion of the Universe and could modify the Newton-Poisson equation, leading to flat rotation curves for galaxies. Hence it was proposed that the EBI action was a candidate for non-particulate dark matter and dark-energy. The Eddington action [11] has also been considered in the context of dark energy[12].
+
+In this paper we wish to study the effect of EBI degrees of freedom on the expansion of the Universe and on the growth of structure of the Universe. In doing so, we will identify the different regimes in the expansion rate and how they depend on the parameters in the action and we will calculate the effect on the density perturbations and the cosmic microwave background (CMB). We will focus on two possible uses for the EBI theory, one in which the extra degrees of freedom unify the dark sector, as proposed in [8] and another in which they co-exist with a cosmological constant, playing the role of dark matter. As a result we can identify a viable theory of dark matter which is competitive with the standard CDM paradigm.
+
+The paper is structured as follows. In the Section II we display the EBI action and equations of motion and rewrite them as a specific case of bigravity or, alterna-tively, as a particular bimetric theory, as recently shown
+
+example is that of Chaplygin gas [6, 7].
+in [13]; in Section
+we study the dynamics of homo-
+
+A proposal has been put forward in [8] from a different approach. A theory for degenerate metrics is lacking and it was suggested that the solution would be the introduc-tion of additional dynamical degrees of freedom for the space-time connection [8, 10]. A candidate action, the Eddington-Born-Infeld action (EBI) for these degrees of freedom was proposed in [9] and it was shown that they had unexpected effects: they could mimic the presence
+geneous and isotropic solutions to the equations of mo-tion (see [14] for homogeneous but anisotropic solutions); in Section IV we study the growth of linear perturba-tions and in Section V we calculate the power spectrum of density perturbations and anisotropies of the cosmic microwave background, allowing us to make a cursory comparison with current data; finally in Section we discuss our findings.
+
+2
+
+
+THE THEORY: EDDINGTON-BORN-INFELD ACTION AS
+BI-GRAVITY OR AS A BI-METRIC THEORY
+
+The EBI action is
+and at the perturbative level and hence extract useful hints of what one might expect from more general classes of bigravity theories. A class of bi-measure theories have been considered in [22] and references therein.
+There is yet another point of view one can take of this
+theory. If one looks at the action as it is presented in
+
+1
+I =
+16πG
+∫ d4x √−g(R − 2Λ) +  2
+√|g − ℓ2K| 
+equation 3, i.e. a theory of two metrics, one of them, gµν , quite clearly couples to the matter fields and has physical
+
++  Sm[g]	(1)
+where α is a dimensionless constant, ℓ a scale, G is New-ton’s constant, R is the scalar curvature of gµν , and Sm is the matter action. The tensor Kµν is the Ricci curvature
+significance- it is this metric that defines how clocks and rulers respond- and hence we can call it a “physical” met-ric. The other metric, qµν satisfies the Einstein-Hilbert action and couples to the rest of the world through it’s interaction with the physical metric. If we interpret qµν
+
+of a connection Cα
+defined in the usual way as
+to be the metric of space time- we can dub it the “geo-metric” metric- we then have a bona-fide bimetric theory
+
+Kµν = ∂αCα − ∂ν C
+α	β
+αβ  µν
+— CβµCαν
+of gravity. This is entirely akin to the approach in the Tensor-Scalar-Vector theory of gravity [4] and can give
+
+The connection Cα
+should not be confused with the
+us an intriguing interpretation of roles of the different
+
+Christoffel connection Γα
+of the metric gµν . Note that
+fields.
+
+in the limit in which g	0, the action for qµν reduces to
+the Eddington action [11]. The action (1) is a functional
+The field equations which are found from either the original EBI or the bigravity (or bimetric) action are the
+
+of gµν and Cα
+and is varied with respect to these fields.
+Einstein equations for gµν
+
+It turns out that there is simpler formulation for this
+theory [13]. Define a 2nd cosmological constant
+
+Gµ = 8πGT µ
+
+— Λδ
+—  1 r q (q−1 µαg
+
+(4)
+
+ν	ν	ν
+α
+ℓ2	g
+)	αν
+
+λ ≡ ℓ2	(2)
+and the Einstein equations for qµν
+
+and consider the action for two metrics gµν and qµν
+
+µ  = −λδµ
++  1  (q−1)µαg
+
+1  −1 αβ
+— (q	)	gαβ
+
+δµ  (5)
+
+  1   ∫	√		√		ℓ	2
+
+S =
+16πG
+d4x[
+−g(R − 2Λ) +
+−q(K − 2λ)
+where Qµ
+= Kµ
+— Kδ
+is the Einstein tensor of
+
+−√−q  1 (q−1 µν g  ].
+(3)
+qµν . These are the complete set of equations with which we can study the dynamics of the EBI action. (Note that tracing (5) a simplified equation is obtained Kµν =
+
+As shown in [13] the action (1) is fully equivalent to (3).
+The connection Cµ	is related to the metric qµν by the
+λqµν +  1  g .)
+
+usual metricity relation,
+COSMOLOGICAL DYNAMICS
+Cα = 1 (q−1 αβ (∂ q	+ ∂ q	− ∂ q  ) .
+
+µν	2
+µ νβ
+ν µβ
+β µν
+FLRW equations
+
+where (q−1)µν is the inverse of q
+−1 µα
+(q
+such that
+µ
+
+We now focus on the dynamics of homogeneous and isotropic metrics in EBI gravity and will restrict ourselves
+
+)	qαν = δ ν
+and K	(q−1)µν Kµν .
+Theories of bigravity have been proposed in a number of contexts: as spin-2 theory of the strong interaction [15, 16], as a full non-linear extension of the Fierz-Pauli theory of massive gravity, and more recently as an effec-tive theory of interacting brane-worlds [17]. A number of examples of bigravity theories have been studied in detail [18, 19, 20, 21], in particular in terms of their con-sistency, asymptotic behavior and the global dynamics of isotropic and homogeneous space times. It should be remarked that in the context of bigravity theories, EBI turns out to be the simplest theory with a minimal inter-action between both sectors. In this paper we study in detail the cosmological dynamics both of the background
+to spatially flat metrics so that the line element is given by
+ds2 = −dt2 + a2γijdxidxj
+where t is physical time, x are spatial coordinates and γij is the metric of a flat hypersurface. Note that from the bimetric point of view, this makes sense- all observables will depend on the physical metric, gµν . The vanishing of the Lie derivative for all Killing vectors of the spacetime gives qµν such that,
+q00 = −X2,	qij = Y 2γij.	(6)
+The functions X, Y parameterize the metrics compatible with the background symmetries.
+
+3
+
+The Friedmann equation for this cosmology is	The first clear case that one can see, is that when
+
+3H2 = 8πG(ρ¯E
++ ρ¯f )	(7)
+wE	0, the equation of state wE will evolve slowly and the EBI field will behave as cold dark matter. This
+
+where H = a˙ , the EBI density is given by
+Y 3
+ρ¯E = 8πGℓ2Xa3	(8)
+which is always positive, and ρ¯f is the energy density in all the remaining fluids (including the cosmological constant, Λ). The Raychaudhuri equation becomes
+— 2 a¨ − H2 = 8πG(P¯ + P¯ )
+where P¯E	XY/8πGℓ2a and P¯f is the pressure in all the remaining fluids (including the cosmological con-stant, Λ). The remaining field equations are then
+is independent of whether the EBI field is dominating the background dynamics or not, and is therefore valid throughout the entire history of the universe (e.g. dur-ing radiation, matter and possible cosmological constant eras) provided wE is small. In this case wE w0a2 where w0 < 0 is an initial condition. Since wE is propor-tional to a2, the cold dark matter behaviour is unstable, and is bound to end when wE is sufficiently driven away from zero and becomes O(1). At this point, the sub-sequent behaviour of the EBI field, depends on various factors which we analyse below on a case by case basis.
+
+Case : ρE ≫ ρf
+
+
+
+" Y¨
+2 Y˙ 2	2
+6ℓ Y 2 = 2αX +
+Y˙ X˙ #
+3a2X2
+Y 2	− 1
+Let us first consider the case where ρE  ρf i.e the EBI field is driving the background dynamics. Apart from the dark matter behaviour (wE ≈ 0) which as we
+
+3ℓ2
+Y − Y X
+= 1 + αX2	(9)
+have discussed above can always be realized, we uncover
+two more phases. The first is a constant-w phase such that wE = wc which solves the equation
+
+The EBI degrees of freedom behave as a fluid. We can
+(1 + 3w )4 + 16α2w3 = 0	(14)
+
+trade the variables X and Y in terms of the fluid density	c	c
+
+ρ¯E and equation of state parameter wE given by
+This constant w depends only on the parameter α. For
+
+a2X2
+α = 0 we have that wc = − 1
+while for α = 1 we have
+1
+
+wE = − Y 2 .	(10)
+that wc = −1.  This means that −1 < wc < − 3 for
+0 < α < 1 and wc < −1 for α > 1. Indeed in this case
+
+Eliminating the coordinate time t using the Friedman equation (7), we find that the new variables evolve as a function of ln(a) as
+′
+ρ¯E = −3(1 + wE)ρ¯E	(11)
+and
+phantom behaviour is possible by allowing α > 1.
+When α < 1 (i.e.  1 < wc <  1 ), the above constant-w phase is unstable, simply because ρE eventually drops and approaches ρℓ. If this happens before the fluid ρf becomes dominant (which could happen if ρf is a cos-mological constant), then the constant-w phase ends and the EBI fluid now behaves like a cosmological constant,
+
+′
+wE = 2wE
+1 + 3wE
+i.e. wE =	1. Eq. (12), then gives that this cosmological constant is given by
+
++ s4(−wE
+
+
+)3/2ΩE
+ 	
+α	2 (1 + 3wE)ρℓ
+ρc
+ ρℓ 
+ρE =	.	(15)
+1 − α
+
+(12)
+where the relative density of a species ”i” (including EBI)
+It turns out that this deSitter phase is stable under ho-
+mogeneous time-dependent perturbations (although not
+under inhomogeneous perturbations; see relevant section below). We postpone the stability analysis until case 3.
+
+is as usual Ωi =  ρ¯i for the critical density ρc = ρ¯E + ρ¯f ,
+
+and where we have defined ρℓ [8πGℓ2]−1. Clearly the above equation is inconsistent for wE > 0; in fact wE is bounded from above by the condition
+
+Case : ρ¯E = βρ¯f and ρ¯f /= ρΛ (tracking phase)
+
+16πGℓ2(−wE
+)3/2ρE
+α − 3wE
+≥ 1.	(13)
+An interesting case emerges if ρ¯E is neither negligible nor dominant but rather is assumed to track the fluid. This is possible provided ρ¯E = βρ¯f where β is a propor-
+
+Analytical approximations
+
+The system (7), (11) and (12) can be solved numeri-cally but we can extract some analytical results by ex-amining its approximate behaviour.
+tionality constant related to the EBI relative density as ΩE = β/(1+β). Eq (12) then tells us that this is possible iff w < − 1 , in which case we get
+(1 + 3w)2
+β = 4(−w)3/2α − (1 + 3w)2
+
+
+
+
+(1+3w)2
+which gives ΩE = 4(−w)3/2α .
+Since there are no interesting fluids with equation of state w < 1/3 (apart from a cosmological constant, treated below), this case is not of much relevance.
+
+	Case : ρ¯E = βρΛ (cosmological constant tracking phase)
+
+In the limit where w =	1 we find β = 1/(α	1) and therefore ρE = ρΛ/(α	1), which is valid only for α > 1. We can explore this limit further; if ρE is constant and ρℓ non-negligible then we have that the EBI density is
+given by
+4
+
+Therefore the approach to deSitter is critically damped for α = α  =  5ρℓ −8ρΛ  while it is underdamped for
+ℓ
+α < αc and overdamped for α > αc. Furthermore, we have that − 5 < 1 − 8 (1 − α)  ρℓ −ρΛ  < 1 and so the
+underdamped solutions are always decaying. Finally it is possible to have only the overdamped solutions by choos-ing ρΛ < ρℓ < 8 ρΛ.
+
+
+Case : ρE ≪ ρf /= ρΛ
+
+We now pass to the regime where ρE	ρf , i.e. the EBI field is subdominant, and the cosmological dynamics
+
+ρ  = ρℓ − ρΛ
+1 − α
+(16)
+are driven by some fluid ρf which is not a cosmological constant. Consistency requires that ρℓ ρf (otherwise this case cannot be realized), and we therefore get that
+
+while the effective cosmological constant such that 3H2 = 8πGρ(eff) is
+
+′
+wE ≈ 2wE
+(1 + 3wE
+)	(18)
+
+
+ρ(eff) = ρE
+
++ ρΛ
+= ρℓ − αρΛ
+1 − α
+
+(17)
+Hence we find that if the EBI-field is subdominant, the above equations lead to two possible behaviours : the EBI
+
+In the limit in which ℓ → ∞ we recover the previous case. One should further impose the conditions ρE ≥ 0 and
+fluid behaves either as cold dark matter if 0 < wE1≪ −1,
+i.e. very close to zero, or as curvature if wE ∼ − 3 .
+
+(eff)
+Λ
+> 0. For 0 < α < 1, a necessary and sufficient
+
+condition for this to hold, is that ρℓ > ρΛ (regardless
+of the sign of ρΛ), while for α > 1 we need 0  ρℓ < ρΛ. This second subcase cannot be realized (see case-5 below). For α < 1, taking the limit ρΛ  0 takes us back to case-1.
+The negative sign appearing in the expressions above is quite misleading, and one could think that it might be possible to cancel the effective cosmological constant
+Case : ρE ≪ ρf = ρΛ
+
+The final case we consider is when ρE is negligible but now ρf = ρΛ, i.e. the background fluid which drives the dynamics is the bare cosmological constant Λ. Here we find a new regime such that
+
+to sufficiently small values. This is clearly impossible
+w  = w
+1	2 ρℓ
+
+for ρΛ > 0 simply because by virtue of (8) we also have ρE > 0.  It is also impossible for ρΛ < 0 since
+E	ℓ ≡ − 3 − 3 ρΛ
+(19)
+
+again because of (8) we need α < 1 which implies that
+in addition to the cold dark matter regime which can
+
+ρ(eff) > ρE
+> |ρΛ
+|. Thus we cannot have cancellation of
+still be realized. Note that we recover the curvature like
+behaviour if ρℓ ≪ ρΛ while wE = −1 if ρΛ = ρℓ =
+
+the cosmological constant.
+We now perform stability analysis (as mentioned in case-1) of this deSitter phase (for which α < 1). Let
+(8πGℓ2)−1.
+One may wonder whether phantom behaviour such that w	< −1 can be realized in this case, by choosing
+
+ρ¯ = ρℓ−ρΛ (1 + ǫ ) and w	= −1 + ǫ with ǫ > 0 and	E
+
+ǫ2 > 0. Perturbing (11) and (12) to linear order we find
+ǫ ′ = −3ǫ
+and
+ble: when ρΛ becomes smaller than the threshold value 8πGℓ2ρΛ = 1, this takes us back to case 3. Decreasing ℓ further (or decreasing ρΛ) eventually leads to case 1.
+
+ǫ ′ = 2(1 − α)  ρℓ − ρΛ  ǫ
+— 3ǫ
+
+Realistic model building for the background
+
+2
+
+which combine to give
+′′	′
+ρℓ − αρΛ
+
+
+ ρℓ − ρΛ 
+dynamics
+
+Having analyzed the different possible behaviours of
+
+ǫ1 + 3ǫ1
++ 6(1 − α) ρ
+— αρΛ
+ǫ1 = 0
+the EBI field in various cases above, we now turn to re-
+alistic model building.
+
+The normal modes are en ln a where
+n = 3  −1 ± r1 − 8 (1 − α)  ρℓ − ρΛ 
+/	/
+We will use units in Mpc which is the standard in pop-ular Boltzmann solvers such as CMBfast [23], CAMB [24] and CMBeasy [25]. In these units we have that the Hub-
+
+5
+
+radiation density discussed above; massive neutrinos can easily be accommodated in the usual way but we refrain to discuss it here for reasons of simplicity). On top of specifying these parameters one has to make sure that the inequality constraint (13) is obeyed. In the light of setting up initial conditions as we have just described the inequality becomes
+
+ ℓ  2
+α
+Mpc
+
+w3/2ωE ≥ 1.5 × 106.	(21)
+
+
+/
+
+
+/
+
+
+
+
+
+FIG. 1: Upper panel : The locus of fixed τ0 and angular diameter distance to recombination, by varying ωL and w0 keeping all other parameters fixed. The value ωΛ = 0.36 corresponds to the WMAP5 best fit model. The other EBI
+−6	9
+parameters are 1  α = 10  and ℓ = 10 Mpc. Lower panel
+: A similar locus curve, only now we vary α and w0 keeping all other parameters fixed and in particular ωΛ = 0. The alphabetical labels are explained and discussed in the main text.
+
+
+h 0.6 0.8. For numerics we can absorb 8πG into the definition of densities. The total fluid density is thus
+The ΛEBI model
+
+The simplest possibility is when the EBI field is chosen to act as CDM all the way, and is not responsible for the accelerated expansion of the universe which is due to the bare cosmological constant Λ. In this case, in order for the EBI field not to deviate from the CDM track, we must have that w0 10−4. Moreover the parameters ℓ and α do not have any role in the background. Thus we are down to three parameters : ωb, ωΛ and ωE, the same as in the standard ΛCDM model. We call this model the ΛEBI model.
+Choosing ωb = 0.023, ωΛ = 0.36 and ωE = 0.114 we have a background evolution identical to the WMAP5 best fit ΛCDM model. It is therefore not distinguish-able from the ΛCDM model using, for example, type-1a supernovae data [26].
+
+The general EBI model
+
+−7 h ωr	ωb	i	−2
+8πGρ¯ = 3.34 × 10	+	+ ω	Mpc	(20)
+
+f	a4	a3	Λ
+where ωr = 4.16 10−5 (for CMB temperature of 2.726K and three species of massless neutrinos), ωb  0.018
+0.023 given by nucleosynthesis, and ωΛ  0  0.5.
+Turning to the EBI field, we need to set its initial den-sity ρ¯E,in and initial equation of state parameter wE,in at the initial scale factor ai. To do this we require that the initial condition for ρ¯E is such that it would give rise to an equivalent CDM density in the past. In other words requiring that the equivalent CDM density today would be 8πGρ¯c = 3.34 10−7 ωc Mpc−2, with ωc  0.11, we extrapolate this to the initial scale fac-tor ai and set the initial condition for the EBI den-sity as 8πGρ¯   = 3.34 × 10−7 × a−3 ω  Mpc−2, with
+By lowering the cosmological constant wΛ gradually
+to zero, we should start compensating by having the EBI field to play a role in the accelerated expansion of the universe.
+Lowering Λ changes the angular diameter distance to the surface of last scatter and hence shifts the position of the acoustic peaks in the CMB. Since the peaks are very tightly constrained, we must change one further pa-rameter to make up for the change induced by varying Λ. As a 2nd parameter (for illustration) we choose to vary w0. The upper panel of figure 1 shows the locus curve for which both the angular diameter distance and conformal time today τ0, remain constant, in the w0 and ωΛ plane. The point ωΛ = 0.36 and w0 = 6  10 . We call this model ”Model A”. The parameters α and
+
+ωE ∼ 0.08 − 0.13.
+For setting the initial condition for wE, we require that the EBI field behaves as CDM all the way up to at least a 0.1 where wE starts to become O(1). Since in the CDM phase wE  w0a2, we set the initial condition for wE as wE,in = w0a2, by specifying a positive parameter w0.
+The background model is thus completely determined by six parameters : the initial conditions ωb, ωΛ, ωE and w0 as well as the two parameters ℓ and α (for the fixed
+ℓ are chosen to be 1  α = 10−6 and ℓ = 109Mpc for this model. Increasing ℓ or lowering w0 still gives ac-ceptable ΛEBI models as the dependence on lowering w0 or increasing ℓ is very week and for most cases does not produce any observable result. As we lower ωΛ towards zero, we keep increasing w0, along the displayed curve to make sure that the angular diameter distance to recombi-nation stays constant. When ωΛ = 0 exactly, w0 0.845 (this depends on our choice of ωb and ωE). We call this ”Model C”. For clarity we also consider a ”Model B”
+
+6
+
+for which ωΛ = 0.2 and w0  0.43. Figure 2 shows the evolution of the EBI energy density (solid), radiation density (long dash), baryons (dotted) and cosmological constant (dash) for four models along this curve. The up-per left panel is Model A, the upper right panel is model B with ωΛ = 0.2 and w0 0.43, the lower right panel is a model with ωΛ = 0.1 and w0 0.65, and finally the lower right panel is model C. Figure 3 exhibits the variables X
+(solid), Y (dashed), X˙  (dotted) and Y˙  (long–dashed) for
+X	Y
+
+
+
+
+/
+
+
+
+
+
+
+
+FIG. 2: Four models from the locus curve of Fig.1 (ωΛ, w0)
+= (0.36, 6 × 10−8) (upper left), (0.2, 0.43) (upper right),
+(0.1, 0.65) (lower left), (0., 0.84) (lower right). The curves
+are : EBI (solid), Λ (dashed), baryons (dotted) and radiation (long-dashed). Note that in the last case (lower right), the final state of the EBI field is an approximate cosmological constant. The actual phase is the constant-w phase with w being extremely close to −1 due to 1 − α = 10−6.
+
+
+
+
+
+
+
+FIG. 3: Same four models as Fig.2. They are from the lo-cus curve of Fig.1 (ωΛ, w0) = (0.36, 6 × 10−8) (upper left), (0.2, 0.43) (upper right), (0.1, 0.65) (lower left), (0., 0.84)
+(lower right).  The curves are : X (solid), Y (dashed),
+X˙ (dotted) and Y˙  (long-dashed).
+the same set of models. Observe that during the time for
+which the EBI field is like CDM, both X and Y are ap-proximately constant (very slowly varying), while during the wE  1 phase, X is still an approximate constant while Y is varying.
+Once we reach the point ωΛ = 0 (model C) we can start investigating the effect of changing α. Once again we keep changing w0 in order to compensate and keep the angular diameter distance the same. Along this line we consider two further models : Model D has α = 0.3 and w0  1.166, while Model E has α = 2 and w0   0.632.
+Remember that α is connected with the constant wE phace. In particular Model D has wE  0.493 during the acceleration era while Model E gives rise to phantom behaviour with wE	1.795.
+In principle we can further investigate varying ℓ. We find however that changing ℓ does not lead to any inter-esting new behaviour. If we compensate the variation of ℓ with w0, then w0 must be increased, and this leads to a similar effect as decreasing α.
+Let us also note that the general EBI family of models would give a background evolution that deviates from the ΛCDM model. They can therefore be distinguished from ΛCDM using, for example, type-1a supernovae data [26]. However, as we discuss further below, we do not find any parameter space allowed (apart from the ΛEBI spe-cial case) when we consider the Cosmic Microwave Back-ground angular power spectrum observations. It is there-fore of little significance to try to constrain such models with the supernovae data.
+
+
+Summary of the background evolution
+
+In this section we have mapped out various possibilities for the background evolution. As claimed in [9], it is possible to construct a theory in which the EBI field plays the dual role of both dark matter and dark energy. We have generalized the results in [9] by uncovering a third phase of the EBI field where it has a constant-w equation of state which interpolates between the CDM phase and the cosmological constant phase. Thus the EBI field is a unified model very similar to to Chaplygin gas. We stress however that contrary to the Chaplygin gas, wE is an independent dynamical degree of freedom, and thus the equation of state of EBI is not rigid. This leads to
+
+X	Y	even richer dynamics in the perturbations as we show in
+the next section.
+We have specified the requirements on the initial con-
+
+7
+
+
+ditions of the EBI field as well as the two parameters ℓ and α, in order to have a background evolution that is compatible with the standard paradigm. This gave us the simple ΛEBI model, for which the EBI field replaces CDM but is not responsible for the accelerated expan-
+equations are
+
+— 2k Φ −
+
+a˙	a˙2
+6 a Φ − 6 a2 Ψ = 8πGa	ρ¯iδi
+i
+˙	a˙	2 Σ
+
+
+(22)
+
+sion which is still due to the cosmological constant Λ. By gradually lowering Λ to zero, and compensating with the EBI field, one can have the initial condition w0 as
+well as the parameters ℓ and α to play a role, leading
+2Φ + 2  Ψ = 8πGa
+a
+6Φ¨ + 6 a˙ h2Φ˙ + Ψ˙ i + 2k2(Φ − Ψ)
+ρ¯iΘi (23)
+i
+
+to the mixed EBI model, where the effective cosmologi-
+
+/
+a¨	/a˙ 2	2 Σ
+
+/
+
+
+
+
+
+
+EVOLUTION OF INHOMOGENEITIES
+
+As we have seen in previous sections, the EBI back-ground field can behave as pressureless matter and as cosmological constant, and there are transitions between these two phases.
+After displaying the equations of motion for linearized fluctuations, in this section we show via analytical ap-proximations that the matter phase is consistent with current observations. On the contrary, fluctuations on the acceleration phase show an unacceptable growth. Fi-nally, we show an analytical series in 1/ℓ providing a systematic way to isolate the matter phase, as the zero order approximation, leaving an evolution indistinguish-able from ΛCDM. Corrections in powers 1/ℓ can then be computed to any desired order. These will be reported elsewhere.
+Φ − Ψ = 8πGa2	ρ¯iSi (25)
+i
+where the index ”i”, runs over all fluids, including the EBI field. Here δ is the fluid density fluctuation, Θ is the fluid momentum divergence, Π is the pressure fluctuation and S is the fluid shear. We can combine them to find a Newton-Poisson-like equation of the form:
+
+— 2k Φ = 8πGa	ρ¯ δ + 3 a ρ¯iΘi	(26)
+The EBI density contrast δE, velocity perturbation ΘE, relative pressure perturbation ΠE and shear per-turbation, SE, are defined as linear combinations of the EBI metric variables Ξ, β, µ and χ :
+δE = Ψ − Ξ + 3(Φ − χ)	(27)
+ΘE = −β	(28)
+ΠE = wE(Ξ − Ψ + Φ − χ)	(29)
+S = −wEµ	(30)
+The evolution equations for the above fluid variables are found to be
+
+δ˙	= − 2
+˙	a˙
+— Π )	(31)
+
+Θ˙	=
+a˙
+(3w
+
+— 1)Θ
+
++ (1 + w
+)Ψ − 2 k2S
+
++ Π (32)
+
+The equations of motion
+E	E	E
+˙		a˙
+E	3	E	E
+wEk2 
+
+For the purpose of studying large scale structure, i.e.
+SE =	4Z + 2(1 + 3wE) a −  3Z	SE
+
+density perturbations, we will focus on scalar pertur-bations in the conformal Newtonian gauge in confor-
+— 2wE
+3a2
+1 + 2ℓ2k2
+w2
+Θ − 2 Z Φ
+
+mal time, τ , such that g00 = −a2(1 + 2Ψ), g0i = 0,
+w 	a2(3w
+— 1) 
+
+gij = a (1 − 2Φ)γij. We have that ∇i is the covariant derivative on the hypersurface such that ∇→ iγjk = 0, and
+/ /	/ /	/ /
+
+2Z
+ 1  
+
+/
+2ℓ2k2
+3a2(1 + w ) 
+
+/
+
+
+The tensor field qµν is perturbed as q00 = −a2X2(1 +
+
+/	/ /	/ / /
+a2(1 + wE)	k2
+
+/	/
+/	/
+a˙ 
+
+/
+
+tice that the q-metric has four scalar modes, namely Ξ,
+a˙	(3wE − 1)a2	k2
+
+/	/
+
+
+
+Z = d ln Y 
+1 2	2k2
+
+dτ
+As in the homogeneous case, it turns out that the EBI field can be cast as a generalized fluid, in the framework
+
+/
+— 3 k wE
+ 
+
+/
+Θ + 3Z SE
+4k2	˙ 
+
+8
+
+
+The remaining fluids can be described in the usual way using conservation of energy and momentum.
+
+
+EBI as CDM
+
+In this section we show how the EBI field can behave
+EBI acceleration era
+
+The evolution of perturbations during a regime of ac-celerated expansion is more intriguing. Assume that Λ = 0 and neglect baryons and other components. As shown in [9] the equations of motion for EBI gravity have an exact de-Sitter solution,
+
+as CDM even at the perturbative level. First notice that after setting ΠE and SE to zero in all of the fluctuation equations, the remaining two variables, namely δE and ΘE will obey equations which are the same as for a CDM
+
+a(τ ) =
+
+/
+3(1 − α) ℓ
+/
+τ0 − τ
+1
+, X(τ ) =	, Y (τ ) =
+1 − α
+√3 ℓ τ0 − τ
+
+fluid, provided the background equation of state param-eter wE is also very close to zero and the EBI field is in the background CDM phase.
+We now show that if wE 0 and the pressure pertur-bation ΠE and shear SE are initially chosen to be zero, then they will remain arbitrarily small, and the EBI field will behave as CDM even at the fluctuation level.
+During   this  phase  we  get  that  Z
+aH αΩE(−wE)  ,  hence we can set wE  →  0,
+Z → 0 and wE/Z → 0. The ΠE equation then becomes
+This field solves equations (7) and (9). τ0 is an arbitrary
+integration constant fixed by the initial conditions. a
+as τ  τ0.
+To check whether this solution can represent or not the accelerated era of the Universe we study fluctuations on this background. This is an straightforward exercise and we summarize here the main results. Using the equations of motion all EBI functions χ(τ ), β(τ ), Ξ(τ ), µ(τ ) can be written as functions of the Newton potentials Φ(τ ) and Ψ(τ ) by algebraic expressions. We are left we two coupled second order differential equations for Φ(τ ) and Ψ(τ ).
+
+ dΠE 
+=
+d ln a
+
+2ℓ2H2
+1
+√αΩE
+
+(−wE
++ 2
+)3/4
+ΠE	(35)
+Interestingly, the combination Φ(τ )+Ψ(τ ) decouples and satisfy a Bessel-like equation with the exact solution,
+a0Jν (k(τ0 − τ )) + b0Yν (k(τ0 − τ ))
+
+Since it is not sourced by any other variable in this limit,
+if we set ΠE = 0 initially, it will stay zero. Thus imposing ΠE = 0 in the shear equation and taking the same limit above we get
+Φ(τ ) + Ψ(τ ) =
+
+where
+√τ0 − τ
+
+dSE d ln a
+
+= 2SE
+
+(36)
+ν = 1 √24α	39.	(39)
+2
+For any value of α this function diverges as τ → τ0 mak-
+
+which has solution SE = S0a2.
+Thus for very small initial relative pressure perturba-tion and shear, i.e. Π0 0 and SE 0, the EBI field will behave exactly as cold dark matter at the perturbative level, i.e. the equations for δE and ΘE would read
+ing de Sitter space unstable.
+We would like to stress that this conclusion may change when introducing extra “Fierz-Pauli” couplings to the EBI action. See [13] for a recent discussion.
+
+
+
+δ˙E = −k2ΘE + 3Φ˙
+(37)
+1/ℓ and the ΛEBI theory
+
+
+
+respectively.
+Θ˙ E
+a˙
+= − a ΘE
++ Ψ	(38)
+In this paragraph we develop an analytical method to isolate the matter phase for the EBI field. Numerical analysis show that this occur for ℓ and Y large. We then
+
+This means that if wE 1 throughout the entire history of the universe until today (such as the ΛEBI model-A), we would expect any observable to be com-pletely indistinguishable between an EBI dark matter model and a standard dark matter model. Note also that
+attempt to use 1/ℓ, the coupling between both metrics, as a perturbative parameter.
+Consider the following Frobenious type series for the background functions a(t), X(t), Y (t),
+
+we have assumed that Π0 ≃ 0 and SE ≃ 0 to obtain exact	1	1
+
+CDM-like behaviour. But if we were to include a small
+a(τ ) = a0(τ ) + ℓ a1(τ ) + ℓ2 a2(τ ) + · · ·
+
+amount of pressure perturbation and shear in the initial	1	1
+
+conditions on very small scales, this might lead to differ-ences with the CDM which might be observable at the cores of galaxies, clusters and in the small scale structure of gravitating bodies. Indeed, differences vis-a-vis CDM are expected to occur once a system enters the non-linear regime where Π0 ≃ 0 and SE ≃ 0 are inevitably sourced.
+X(τ ) = X0(τ ) + ℓ X1(τ ) + ℓ2 X2(τ ) + · · ·
+Y (τ ) = ℓ2/3  Y (τ ) + 1 Y (τ ) +  1 Y (τ ) + · · · (40)
+
+We have included a positive power of ℓ in Y for two rea-sons. First, recall the EBI background density has the
+
+
+
+
+
+3
+form ρ   / . Thus, if Y scales as Y  ℓ  , then at
+order zero in 1/ℓ there will be a finite contribution to the Friedmann equation from the EBI field, which turns out to be dark matter. The interesting observation is that this series also provides the right equations for all other variables including fluctuations.
+There is another reason to include a growing ℓ term in the background. If the metric functions do not depend on ℓ, then in the limit of large ℓ the metrics gµν and
+9
+
+All other functions are expressed via the field equations in terms of Φ as follows:
+Ψ(τ ) = Φ(τ )
+β(τ ) =	2X0 d  (Φ(τ )a(τ ))
+3 dτ
+χ(τ ) = −k2µ(τ ) + c1
+2X0	1
+Ξ(τ ) = Φ(τ ) +	k Φ(τ )a(τ ) −  k µ(τ ) + c
+
+qµν
+become decoupled. This is clearly seen from the bi-	3	2
+
+gravity action (3). The decoupled system describes two massless gravitons and is a theory with a different num-ber of degrees of freedom. Switching on the interaction
+µ(τ ) = 4X0 Φ(τ )a(τ ) + c
+0
+∫ dτ a(τ )	(45)
+
+term, proportional to 1/ℓ, is in this sense a discontinuous change to the theory. On the contrary, for a series of the form (40) the two metrics never decouple.
+We first discuss the background equations and then the fluctuations. Plugging (40) in the background equa-tions we find consistent equations for the coefficients ai(τ ), Xi(τ ), Yi(τ ) order by order in l.
+At order zero one finds that X0 and Y0 must be con-stants while a0(τ ) satisfies the Friedman equation
+where c1, c2, c3 are integration constants. Recalling the fluid variables (30) it is direct to prove from here that both (38) and the Newton-Poisson equation (26) are sat-isfied.
+The 1/ℓ series provides a systematic way to isolate the dark matter phase. At the same time, it provides a way to compute order by order deviations from ΛCDM which may reveal new features. We shall study these corrections elsewhere.
+
+a˙2(τ )	Y 3	1	1
+
+ 0	 =   0	 +
+/Λ	(41)
+
+a4(τ )	3X0 a3(τ )	3
+THE COSMIC MICROWAVE BACKGROUND
+
+Thus, by choosing Y 3/X0
+and Λ appropriately we find
+AND LARGE SCALE STRUCTURE
+
+a background evolution which is, at this order, indistin-guishable from ΛCDM.
+Corrections 1/ℓ can be computed order by order. Since ℓ is so far arbitrary we can make it as large as necessary in order to suppress 1/ℓ corrections. For completeness we display the first order equations
+The main goal in our analysis is to estimate the two main cosmological observables: the CMB and the large scale structure of the distribution of galaxies in the Uni-verse.
+The anisotropies in the CMB can be described in terms of fluctuations in temperature, (∆T/T )(n) = [T (n) −
+
+ dY1  2
+
+/
+
+3 dY1 X
+dτ	0
+
+
+dX1
+— dτ Y0
+
+
+= 0  (42)
+T0]/T0, where T0 is the average temperature in the CMB and T (n) is the temperature measured in the direction
+n. It is convenient to look at the variance of these fluctu-
+
+/ /
+
+
+The equation for a1(τ ) is longer and not really worth known, the first order equations can be solved.
+We now explore the fluctuation equations in the same limit assuming that the background satisfies X(t) = X0, Y (τ ) = Y0ℓ2/3. In this paragraph we work in terms of the original metric variables Ψ, Φ, χ, β, Ξ, χ. We only con-sider here the leading terms. One finds that the Newton potential Φ(τ ) satisfies the usual equation (recall that for matter c2 = 0))
+Φ¨ + 3HΦ˙ + 2H˙ + H2 Φ = 0	(44)
+
+where = a˙/a. (We drop the subscript 0 in a0 because we work only to this order and no confusion can arise.) For matter a = a0τ 2 and we recover, as already shown in section IV B, the familiar Φ(τ ) = a0 + b0/τ 5, while for acceleration with a ∼ 1/(τ0 − τ ) we have Φ = a1(τ0 − τ ) + b1(τ0 − τ ) .
+⟨ ∆T (n) ∆T (n′)⟩n·n′ = Σ 2ℓ + 1 C P (n · n′)
+
+where	is the ensemble average and Cℓ is the angular power spectrum of fluctuations. We can calculate ∆T by evolving the Boltzman equation for the radiation distru-bution function, coupled to the perturbed field equations presented above.
+As suggested above, the evolution of EBI field as dark matter is exactly equivalent to that of ordinary dark mat-ter. Hence its effect on the CMB will be equivalent and we therefore expect that such observables as the peak po-sitions and heights will be preserved. This is clearly so if we look at the solid curve in Figure 4- it is indistiguish-able from ΛCDM. Severe differences can arise depending on how the EBI field evolves in the accelerating era. If EBI continues to evolve as dark matter then the evolu-tion of the gravitational potentials is such that, again, the angular power spectrum is indistinguishable from that of ΛCDM. This is clearly not so in the case where the EBI
+
+10
+
+
+
+
+
+
+
+
+
+
+/	/
+
+
+
+/	/	/	/	/
+
+
+
+FIG. 4: The Cosmic Microwave Background angular power spectrum Cℓ for the models described in the realistic back-ground evolution. The solid curve is model A (the ΛEBI model) which is indistingushable from the best-fit WMAP-5 ΛCDM model. The long-dash curve is model B, the short-dash curve is model C, the dot-dash curve is model D and the dotted curve is model E. All models have the same initial amplitude, same tilt (0.962) and non-zero optical depth to reionization (0.088) as the best-fit WMAP5 model.
+
+
+field drives acceleration. The large scale behaviour of the Cℓs is strongly dependent on the integrated Sachs Wolfe effect which is roughly given by:
+FIG. 5: The Newtonian potential combination Φ+Ψ which is relevant to the integrated Sachs-Wolfe effect for the same set of models A-E, plotted against τ/τ0 where τ0 is the confor-mal time today. In the upper panel we display model A (solid curve), model B(long-dash curve) and model C (short-dash curve). In the lower panel we show again model C (short-dash curve) to be compared with model D (dot-dash curve) and model E (dotted curve). Notice that Φ + Ψ for models B-E oscillates during the transition to deSitter phase (which is usually a constant-w phase), while models C-E also start to diverse during the deSitter phase. The presence of a bare cos-mological constant in model B seems to curb the divergence, although the oscillation remains.
+
+∆T
+( T )(n) ≃
+τ0
+′
+dτ (Φ
+τ∗
+
++ Ψ′)[(τ, n(τ − τ )]	(46)
+δ(k), where k is the wave number and constructing the variance:
+
+where primes, ′, are derivatives with respect to confor-mal time, τ0 is conformal time today and τ∗ is conformal time at recombination. Note that the combination of po-tentials is the same as presented in equation (39) and its evolutions is clearly different from the one experienced in the ΛEBI case. Indeed in Figure 5 we plot the evolution of Φ+Ψ for a few cases labeled in Figure 1. Quite clearly the unstable, oscillatory behaviour is triggered early on and hence we expect it affect relatively small scales. This is clear from looking at Figure 4 where the modifications to the Cℓs, through the integrated Sachs-Wolfe is present all the way to ℓ 150, well into the first peak. Inter-estingly enough, for the phantom case, the accelerating phase kicks in later and hence there is a smaller inte-grated Sachs-Wolfe effect for ℓ > 10; once acceleration kicks in, however, it is much stronger than in the other cases and has a dramatic effect on the largest scales of the Cℓs.
+In the same way, we can directly relate the fluctuations in the galaxy distribution directly to the density contrast. It is convenient to look at the power spectrum of the density fluctuations by taking the Fourier transform of
+P (k) = ⟨|δ(k)|2⟩
+Once again, we find that that the Λ EBI model looks identical to a ΛCDM model. In Figure 6 we plot such a model with a choice of parameters that render it indistin-guishable from the best-fit WMAP-5 ΛCDM model. It is clear that this is not true of the EBI model where we find that there is a strong shortage of power on small scales as well as a much broader turnover associated to the radia-tion matter transition. The effect is sufficiently dramatic that we don’t even attempt to compare the EBI model to the angular power spectrum as measured by WMAP-5 [28] or the power spectrum of galaxy fluctuations as measured by the Sloan Digital Sky Survey [29] in Figure 7- the EBI model is not a viable candidate for a theory of structure formation- while the ΛEBI model is quite clearly a good candidate.
+The evolution of perturbations in the EBI model do have an interesting feature that is worth noting. In the-ories of pressureless dark matter, such as WIMPs, the evolution of perturbations is such that the two gravita-tional potentials are effectively identical, i.e. Φ = Ψ. It
+
+11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 6: The baryon power spectrum P (k) for the same set of models A-E. Once again we show model A (solid curve) which is indistingushable from the best-fit WMAP-5 ΛCDM model. The long-dash curve is model B, the short-dash curve is model C, the dot-dash curve is model D and the dotted curve is model E. All models have the same tilt (0.962) as the best-fit WMAP5 model.
+
+
+has been pointed out that in many, if not all, theories of modified gravity, these potentials will differ from each other [30] and that this may be a smoking gun for modi-fied theories of gravity. A plethora of observational tech-niques have been proposed, cross correlating galaxy sur-veys with weak lensing surveys and with measurements of the CMB [31] and is one of the main science targets of up and coming experiments such as the Euclid project. As pointed out in [32] such a signature is not exclusive to modified gravity and it suffices that the dark sector have a component that takes the form of anisotropic stress. This is indeed what we find in this theory and specifically in the case of EBI, where S and Π can have a substantial effect on the evolution of perturbations. In Figure 8 we illustrate this fact by plotting the evolution of Φ Ψ for a selection of models. Granted that we have been unable to find an EBI model that fits the data and the ques-tion still remains whether it is still possible to constrain a fundamental theory of dark matter with Φ − Ψ.
+
+
+DISCUSSION
+
+In this paper we have explored the cosmology of Uni-verse permeated by a field that obeys the Eddington-Born-Infeld equation. As shown in [9], such a field can play the dual role of dark matter and dark energy and therefore supplies us with a counterpart to the Chaplygin gas as a possible unification of the dark sector. In our analysis we have shown that there are other regimes in
+FIG. 7: The Cosmic Microwave Background angular power spectrum Cℓ (upper panel) with WMAP-5 data and baryon power spectrum P (k) (lower panel) for the ΛEBI model with SDSS data (model A). Both spectra are indistingushable from the best-fit WMAP-5 ΛCDM model.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 8: The Newtonian potential combination Φ − Ψ for the same set of models A-E, plotted against τ/τ0 where τ0 is the conformal time today. In the upper panel we display model A (solid curve), model B(long-dash curve) and model C (short-dash curve). In the lower panel we show again model C (short-dash curve) to be compared with model D (dot-dash curve) and model E (dotted curve). Notice that Φ − Ψ for models B-E oscillates during the transition to deSitter phase (which is usually a constant-w phase), while models C-E also start to diverse during the deSitter phase. The presence of a bare cos-mological constant in model B seems to curb the divergence, although the oscillation remains.
+
+12
+
+
+which the EBI field can play a different role, either as an alternative to simply dark matter or as a source of energy that can renormalize the cosmological constant.
+We have then looked at the effect the EBI field has on the growth of structure. We show that it can be de-scribed in terms of a set of fluid variables, akin to the construction of [27] and then identify the different key regimes. During the dark matter dominated regime, i.e. the regime in which wE 0 and the EBI field dominates, the evolution of perturbation is exactly as in the stan-dard scenario in which the dark matter field is described by massive, non-relativistic particles. The gravitational potentials are constant and indistinguishable during this era, under the assumption that the initial shear and en-tropy is negligible. Distinctive signatures emerge in a pe-riod of accelerated expansion. If the EBI field dominates and is responsible for cosmic acceleration, there is a clear instability in the gravitational potentials; they not only grow but Φ + Ψ diverges leading very rapidly to an over-whelming integrated Sachs-Wolfe effect on large scales. It is difficult to reconcile the angular power spectrum of fluctuations and the power spectrum of the galaxy dis-tribution predicted by an EBI theory which unifies the dark sector, with current data. If we restrict ourselves to a regime in which the EBI field simply behaves as dark matter, then, as expected, we find the our best fit model to be entirely indistinguishable from the standard, ΛCDM scenario.
+The EBI field can clearly play an important role in
+cosmology and, in particular, as a non-particulate form of dark matter. It’s interpretation becomes interesting if we view the theory as bi-metric and qµν as the true, geometric, metric of space-time; it is then this metric which is interpreted as dark matter. This is the point of view implicit in [8]. What we mean by the ”true” metric of space-time is of course open to debate. Clocks and rulers will feel gµν and hence real geometry will be built out of it and in this case qµν plays a purely auxiliary role as an extra field.
+We would like to re-emphasize that the generalized EBI model, in which the EBI field drives cosmic acceleration, gives us an interesting example of a theory with an exotic
+signature: the mismatch between Φ and Ψ . A number of methods have been proposed to do ease out this mis-match from current and future data sets [31]. We have found that the EBI field can source this mismatch with-out modifying gravity. This is not surprising: the EBI field is a two tensor with four scalar degrees of freedom. One linear combination of these degrees of freedom can be seen as anisotropic stress which can freely source the Φ Ψ. It turns out that its effect is severe enough that the integrated Sachs-Wolfe effects generated is too ex-treme to be reconcilable with current observations. But it does suggest that it may be possible to build models which don’t modify gravity, generate accelerated expan-sion and could be confused with bona-fide modified theo-ries of gravity [32]. Consistent parameterized frameworks such as [33] may be able to provide alternative ways to distinguish such theories and it would be interesting to find the EBI’s predictions for these frameworks.
+Finally, we would like to point out that the EBI model is a viable alternative to the ΛCDM but which may have particular features which make it stand out. As we saw in section IV B, even though the evolution of perturbations may be equivalent to that of that CDM if one assume no pressure perturbations and shear in the initial conditions, the non-linear evolution will be different. Pressure per-turbations and shear will be generated at the non-linear level and may play a significant role in the small scale structure of galaxies and clusters. Indeed, one of the ma-jor problems that ΛCDM has had to face is the excess of small scale power compared to observations [34]. ΛEBI may have a natural dynamical solution to this problem. This is one of the many aspects of this theory we wish to explore further.
+Acknowledgments: We thank Andy Gomberoff, Ne-manja Kaloper, Davi Rodrigues, and Tom Zlosnik for discissions. Part of this work was undertaken under the auspices of STFC and the Beecroft Institute for Parti-cle Astrophysics and Cosmology. MB was partially sup-ported by Fondecyt (Chile) Grants # 7080116 and # 1060648. Research at the Perimeter Institute is sup-ported in part by NSERC and by the Province of Ontario through MEDT.
+
+/
+
+
+J. Peacock, ”Cosmological Physics”, CUP, (1999).
+R. Kerner, Gen. Rel. Grav. 14, 453, (1982).
+M. Milgrom, Astrophys. J. 270, 365-370, (1983); R.Sanders, S.S. McGaugh, Ann. Rev. Astron. Astroph., 40, 263 (2002).
+B 511, 265 (2001).
+M.C. Bento, O. Bertolami and A. Sen, Phys. Rev. D 66 043507 (2002).
+M. Ban˜ados, Class. Quant. Grav. 24, 5911 (2007).
+M. Ban˜ados, Phys. Rev. D 77, 123534 (2008).
+
+J.D.Bekenstein,	Phys. Rev D70,	083509,	(2004);
+M. Ban˜ados,
+[gr-qc].
+
+R. H. Sanders, Mon. Not. Roy. Astron. Soc. 363, 459 (2005); C. Skordis, D. F. Mota, P. G. Ferreita and
+C. Boehm, Phys. Rev. Lett. 96, 011301 (2006); S. Dodel-son and M. Liguori Phys. Rev. Lett. 97 231301 (2006);
+C. Skordis, Phys. Rev. D 77, 123502 (2008).
+T.G.Zlosnik, P.G.Ferreira, G.D.Starkman, Phys. Rev. D75, 044017 (2007); Phys.Rev.D77, 084010, (2008).
+A. Kamenshchik, U. Moschella, V. Pasquier, Phys. Lett.
+A. Eddington, ’The Mathematical Theory of General Re-latiivity’, CUP (1924).
+G. Gibbons, private communication.
+M. Ban˜ados, A. Gomberoff, D. C. Rodrigues and C. Sko-rdis, arXiv:0811.1270v1.
+D. C. Rodrigues, Phys. Rev. D78, 063013 (2008).
+C. J. Isham, A. Salam and J. A. Strathdee, Phys. Rev. D 3, 867, (1971).
+
+13
+
+
+C. J. Isham and D. Storey, Phys. Rev. D 18, 1047, (1978).
+T. Damour and I. I. Kogan, Phys. Rev. D 66, 104024 (2002).
+T. Damour, I. I. Kogan and A. Papazoglou, Phys. Rev. D 66, 104025 (2002).
+N. Arkani-Hamed, H. Georgi and M. D. Schwartz, Annals Phys. 305, 96 (2003).
+D. Blas, C. Deffayet and J. Garriga, Class. Quant. Grav. 23, 1697 (2006).
+C. Deffayet, Class. Quant. Grav. 25, 154007 (2008).
+E.	I.	Guendelman	and	A.	B.	Kaganovich,
+[gr-qc].
+U.Seljak and M. Zaldarriaga, Astroph. J. 469, 437 (1996).
+A. Lewis, A. Challinor and A. Lasenby, Astrophys. J. 538, 473 (2000); http://camb.info/.
+M.	Doran,	JCAP	0510	(2005)	011,	eprint:
+astro-ph/0302138; http://www.cmbeasy.org/.
+B. Schmidt et al., Astrophys. J. 507, 46 (1998); S. Perl-
+mutter et al., Astrophys. J. 517, 565 (1999).
+W. Hu Astrophy J. 506, 485 (1998).
+J. Dunkley et al arXiv 0803.0586
+M.Tegmark et al Astroph. J. 606, 702 (2004).
+E.Bertschinger Astroph. J. 648 797 (2006)
+P.Zhang et al, Phys. Rev. Lett. 99, 141302 (2007), F.Schmidt et al, Phys. Rev. D76 083518 (2007); R. Cald-well et al Phys. Rev. D 76 023507 (2007).
+M.Kunz Phys. Rev. Lett. 98 121301 (2007).
+M. Tegmark, Phys. Rev. D 66, 103507 (2002);
+W. Hu, Phys.Rev.D 77, 103524 (2008); C. Skordis,
+.
+B. Moore, Astroph. J. Lett 19, (1999).
+
+0. 0001
+10 '
+10
+10
+10
+10
+1 0	10
+1 0	12
+1 0	14
+1 0	1
+1 0	16
+
+
+
+
+
+
+
+0. 6
+0.8
+
+
+OõôïB8Ø@111100ï0Bg°Q*gpț7gęg@666666@6@6@6@6@2
+
+0. 0001
+10 '
+10—"
+10—7
+10—
+10—
+10—
+1 0—	11
+1 0—12
+1 —0	1*
+1 0 —14
+1 —0	1
+1 0—16
+
+
+
+
+
+—0.5
+
+
+
+— 1
+
+OõôïB8Ø@111100ï0Bg°Q°Ețpț7gęg@666666@6@6@6@6@2
+
+/
+
+Effective actions for loop quantum cosmology in fourth-order gravity
+Marcello Miranda1,2,a/, Daniele Vernieri2,3,b/, Salvatore Capozziello1,2,3,4,c/, Francisco S. N. Lobo5,6,d/
+1 Scuola Superiore Meridionale, Largo San Marcellino 10, 80138 Naples, Italy
+2 INFN Sez. di Napoli, Compl. Univ. di Monte S. Angelo, Edificio G, Via Cinthia, 80126 Naples, Italy
+3 Dipartimento di Fisica “E. Pancini”, Università di Napoli “Federico II”, Naples, Italy
+4 Laboratory of Theoretical Cosmology, Tomsk State University of Control Systems and Radioelectronics (TUSUR), 634050 Tomsk, Russia
+5 Instituto de Astrofísica e Ciências do Espaco, Faculdade de Ciências da Universidade de Lisboa, Edifício C8, Campo Grande, 1749-016 Lisbon, Portugal
+6 Departamento de Física, Faculdade de Ciências, Universidade de Lisboa, Edifício C8, Campo Grande, 1749-016 Lisbon, Portugal
+
+
+Received: 31 August 2021 / Accepted: 21 October 2021
+© The Author(s) 2021
+
+
+Abstract Loop quantum cosmology (LQC) is a theory which renders the Big Bang initial singularity into a quantum bounce, by means of short-range repulsive quantum effects at the Planck scale. In this work, we are interested in reproduc-ing the effective Friedmann equation of LQC, by considering a generic f (R, P, Q) theory of gravity, where R = gμν Rμν is the Ricci scalar, P = Rμν Rμν, and Q = Rαβμν Rαβμν is the Kretschmann scalar. An order reduction technique allows us to work in f (R, P, Q) theories which are perturbatively close to General Relativity, and to deduce a modified Fried-mann equation in the reduced theory. Requiring that the mod-ified Friedmann equation mimics the effective Friedmann equation of LQC, we are able to derive several functional forms of f (R, P, Q). We discuss the necessary conditions to obtain viable bouncing cosmologies for the proposed effec-tive actions of f (R, P, Q) theory of gravity.
+
+
+1 Introduction
+
+The cosmological model which received a great consensus from the scientific community is the so-called Big Bang the-ory. Generally, from purely classical considerations, start-ing from the present day and ideally moving back in time, we arrive at a universe that originated from an initial singu-larity, namely, the Big Bang singularity, where the volume approaches zero and the energy density and temperature both diverge. Note, however, that one may consider that the singu-
+larities present in a theory arise from simplified assumptions and essentially highlight the invalidity of the theory in spe-cific limits and regions. More specifically, the presence of a singularity is a characteristic of the model which one is using to describe a physical system and does not necessarily cor-respond to an actual physical singularity. Thus, the general-ized opinion is that singularities may be cured by taking into account quantum gravity effects, that may become impor-tant in extreme scenarios in which gravity dominates over other interactions. Indeed, a quantum theory aimed at solving this singularity is Loop Quantum Cosmology (LQC) [1–4]. Here, the quantum geometry generates a short-range repul-sive force which grows dramatically in the Planck regime (otherwise it is entirely negligible), and which consequently renders the Big Bang singularity into a quantum bounce [5,6]. Rather than discussing all of the fine details of LQC, which is indeed not the aim of this paper, we focus on one of its achievements, namely, the effective Friedmann equation
+given by [7]:
+
+H 2 = 1 κρ  1 −  ρ  ,	(1.1)
+
+where H = a˙/a is the Hubble rate, a = a(t) is the scale factor, the overdot denotes a derivative with respect to the cosmological time t , κ = 8π GN /c4, with GN and c being the Newton constant and the speed of  light, respectively, ρ is the energy density, and ρc = c2  3/(32π2γ 3GN ℓ2 )
+
+
+/
+a e-mail: marcello.miranda@unina.it (corresponding author)
+b e-mail: daniele.vernieri@unina.it
+c e-mail: capozziello@na.infn.it
+d e-mail: fslobo@fc.ul.pt
+corresponds to the critical energy density for the bounce,
+with γ ≈ 0.2375 and ℓP =  ℏGN /c3 being respec-tively the Barbero–Immirzi parameter [8] and the Planck length. Throughout this work, we use Planck units, where c = ℏ = GN = kB = 1.
+
+1 3
+
+975  Page 2 of 15	Eur. Phys. J. C	(2021) 81:975
+
+
+
+Notice that Eq. (1.1) is the standard Friedmann equation of GR with an additive source, which does not in fact increase the original degrees of freedom of the theory. Therefore, the quadratic ρ2 term becomes important at very high energy densities while, in counterpart, for ρ ≪ ρc, the correction ρ/ρc becomes negligible and we recover the standard Fried-mann equation. Indeed, it can also be noted that by taking the classical limit ℏ → 0, which implies ρc → ∞, and the effective LQC, Friedmann equation reduces to the classical one. The bounce takes place when ρ = ρc, which results in H 2 = 0. In fact, another condition we need to impose in order to have a bounce is that a¨ /a > 0, implying an expansion after the contraction phase (see Refs. [9,10]). In order to estimate a¨ /a > 0, taking into account a homoge-neous isotropic cosmological perfect fluid in a Friedmann–Lemaître–Robertson–Walker (FLRW) metric, it is necessary to consider the standard energy–momentum conservation law, given by ρ˙ + 3H(ρ + p) = 0, where p is the isotropic pressure. Differentiating Eq. (1.1) with respect to the cosmo-logical time and using the conservation law, it is straightfor-ward to arrive at an equation for the time derivative for the
+Hubble rate, H˙ = − 1 κ (ρ + p) (1 − 2ρ/ρc ), which can be
+1 κρc(w+1), and considering that a¨ /a be positive for ρ = ρc, then it follows that w > −11 (see also Ref. [10]).
+In this paper, we take in account the situation described by the above equations in order to find useful contributions to build up an effective action for gravity such that it reproduces the results obtained by LQC but provides General Relativity
+(GR) for ρc → ∞. Specifically, our aim is to adopt a metric “loop-inspired” modified gravity, in an isotropic context,
+in order to reproduce the effective Friedmann equation of LQC. Initially, we consider a general constant equation of state parameter w, and finally we will fix w = 1 which corresponds to a massless scalar field in LQC.
+To achieve our goal, we follow closely the analysis out-lined in Refs. [16–20], which is based on a reduction tech-nique of the order of the differential equations [21–23]. This approach will allow us to obtain solutions which are per-turbatively close to GR. Namely, first of all, we note that Eq. (1.1) can be interpreted as the classical Friedmann equa-tion with a modified source. Then, taking into account that the field equations of metric modified theories of gravity can be written as modified Einstein field equations, namely,
+Gμν = κ T (m) + T (curv), where T (curv) is an additive energy–
+
+rewritten as
+a¨	1
+2ρ + 3 p  ρ
+momentum tensor due to the higher order curvature terms of
+the theory (see Refs. [24–31]). This leads us to connect the LQC corrections of Eq. (1.1) to the additional contributions
+
+which is sometimes denoted as the modified Raychaudhuri equation [11,12]. It is interesting to notice that by a redef-inition of the pressure and energy density in terms of new effective variables [12], given by
+acterizing modified theories of gravity. The identification is done by using a perturbative approach from GR. Once the perturbation parameter ǫ has been introduced, we compare the term −κρ2/3ρc of Eq. (1.1) to the T (curv) component at the first perturbative order in ǫ.
+
+ρeff = ρ
+1 −  ρ 
+,	peff = p
+ ρ	ρ2
+1 − 2 ρ	− ρ
+, (1.3)
+In particular, in this work, we consider a general f (R, P, Q) theory of gravity, where R = gμν Rμν is the Ricci scalar, P = Rμν Rμν, and Q ≡ Rαβμν Rαβμν is the
+
+the Friedmann equations recover their standard form,
+H 2 = 1 κρ	,	a¨	1 κ(ρ	+
+Kretschmann, being Rαβμν the Riemann tensor and being Rμν = Rλμλν the Ricci tensor. However, this type of theo-
+ries is characterized by higher-order derivatives of the metric
+
+3	eff
+a = − 6
+eff
+3 peff ),	(1.4)
+tensor which generically provide spurious degrees of free-
+
+where ρeff and peff also obey the conservation law, ρ˙eff +
+3H(ρeff + peff ) = 0 .
+One usually assumes a barotropic equation of state, p = wρ, for the cosmological perfect fluid, where a priori w = w(ρ) is not constant (e.g. Ref. [13]), so that the conservation law reduces to ρ˙ = −3H (1+w)ρ, which yields the modified Friedmann equations, namely, Eq. (1.1) and
+dom. The order reduction is a way to get around the prob-lem and provides solutions which are perturbatively close to GR. The reduction technique consists in a redefinition of f (R, P, Q) → R + ǫ ϕ(R, P, Q), where ǫ is the perturba-tive parameter.
+In general, the dimensionless parameter ǫ indicates the deviation of the model from GR and, ϕ(R, P, Q) repre-sents a function incorporating all possible corrections to the
+
+a¨	1
+2 + 3w  ρ
+1 For classical perfect fluids, we have 0 ≤ w ≤ 1. However, when dark
+
+a = − 6 κρ(1 + 3w)
+1 − 2 1 + 3w ρ
+,	(1.5)
+energy is also taken into account, the range 1  w  1 is assumed (see Refs. [14,15]). Here, we do not want to deal with constraints of w in general but, in this context, it is immediate that w is strictly greater
+
+respectively. The simplest case is for a constant parameter
+w, and this is precisely the situation we consider throughout this work. Evaluating Eq. (1.5) at ρ = ρc, results in a¨ /a =
+1 3
+than −1.
+2 This step will be more rigorously explained in the following part of the section.
+
+Eur. Phys. J. C	(2021) 81:975	Page 3 of 15	975
+
+
+
+Einstein–Hilbert action. Thus, ǫ is designed so that when it approaches to zero GR is restored. Indeed, in our parame-terization f (R, P, Q) = R + ǫ ϕ(R, P, Q), if ǫ is set to zero, the action becomes the standard Einstein–Hilbert one. In this sense, ǫ indicates the deviations from GR and it can be absorbed in ϕ(R, P, Q). For the order reduction technique to be valid, it is necessary that ǫϕ ≪ R at the range of cur-vatures considered (here, essentially, R ≪ ρc ∼ l p−2). In other words, considering the order ǫ means that we are work-ing at first order in the correction ϕ(R, P, Q) of the effective action without reaching the critical quantum regime.
+We consider the FLRW metric in order to obtain the first Friedmann equation, then using the GR field equations as zeroth-order perturbative equations, we express our geomet-
+nique. In Sect. 3, we focus on a fixed metric tensor and derive the modified Friedmann equation together with its reduced form. In Sect. 4, we propose specific functional forms of f (R, P, Q) and analyse in great detail the validity of the parameter range of the functions considered in order to obtain bouncing cosmologies. Finally, we conclude in Sect. 5.
+
+
+2 Fourth-order gravity and order reduction technique
+
+Let us consider the following class of gravity theories in a 4-dimensional spacetime,
+S =  1  ∫ d4x √−g f (R, P, Q) + S (g  ,ψ),   (2.1)
+
+ric variables, (i.e, R, P and, Q) in terms of energy-matter	2κ fields. In this way, we obtain a modified Friedmann equation
+m  μν
+
+with an additive term depending on the first order of the per-turbation, H 2 = κρ/3 + ǫ T¯ (curv)/3, where T¯ (curv) is simply
+where the quantities R, P, and Q are the curvature invariants defined in the Introduction, and S (g  ,ψ) is the matter
+
+the 0–0 component of T (curv) evaluated at zeroth perturba-tive order (we will introduce the “bar” notation to indicate a “reduced quantity”). Consequently, equating ǫ T¯ (curv) with the LQC correction −κρ2/ρc of Eq. (1.1), we finally obtain a differential equation, in which the solutions represent pos-
+action, with matter minimally coupled to the metric and ψ collectively denotes the matter fields. Varying the action (2.1) with respect to the metric gμν, yields the following gravita-tional field equations:
+
+sible contributions to the Lagrangian which provide the LQC	1	1
+
+Friedmann equation (1.1).
+The reduction technique allows to control efficiently the deviation from GR, and it works in a given curvature regime: we have R ∼ ρ while the deviation from GR is ǫϕ ∼ ρ2/ρc.
+f,R Gμν = κ Tμν + 2 gμν f − 2 gμν f,R R − ∇μ∇ν f,R + gμν  f,R
+−2 f,Q Rαβγ μ R	ν + 4∇α ∇β [ f,Q R (μν) ]
+−2 f,P R μ Rαν + 2∇α ∇β [ f,P R (μδ ν)]
+αβ
+
+Therefore, the approximation we use is valid for R ≪ ρc ∼
+− [ f,P Rμν ]− gμν ∇α ∇β [ f,P R  ] ,	(2.2)
+
+l p−2. At ρ ≃ ρc the approximation breaks down. Neverthe-
+where ∇α denotes the covariant derivative associated to the
+
+less, our position is that, at stages close to the bounce, the
+effective Lagrangian obtained from the effective Friedmann equation of LQC is still a good approximation describing a collapsing universe just before and just after the bounce. Gen-erally, we can say that the approach is valid for ρ ∼ 0.1ρc, which corresponds to a typical length l ∼ 3lp.
+However, it is worth noticing that this approach leads to another limitation. Indeed, it is only possible to find some specific (and not all) terms which added to the Einstein–Hilbert action provide the effective Friedmann equation of LQC. Therefore, we cannot build the “ultimate” effective f (R, P, Q) theory of gravity due to the fact that we are working with a multi-variable function (see also Refs. [16, 17]).
+One of our goals is to generalize the results obtained in the Refs. [16–18] which consider f (R), f (G) and f (R, G), respectively, where G = Q − 4 P + R2 is the Gauss–Bonnet topological invariant (see Refs. [26,32–38] for more details about these modified theories of gravity).
+The paper is organised as follows. In Sect. 2 we describe the general action for f (R, P, Q) gravity and the respective field equations, and then deploy the order reduction tech-
+Levi–Civita connection,  = gαβ∇α∇β is the d’Alembert operator, the comma denotes a partial derivative, i.e., f,R =
+∂ f /∂ R, while the parenthesis in the subscript indicates the symmetric part of a tensor with respect to the indices inside
+them, i.e., S(ab)c = (Sabc + Sbac)/2. The energy–momentum tensor of the matter Tμν is defined in the standard manner,
+namely,
+
+2	δ Sm
+μν	√−g δgμν
+It is worth noticing that important subcases as f (R), f (G), and f (R, G) are included in f (R, P, Q) theories of gravity.
+Modified theories of gravity, such as the one we are going to analyse in this work, are characterized by the presence of further degrees of freedom. However, a way to restore the original degrees of freedom related to GR is by considering an order reduction, which essentially consists in a parame-terization of f (R, P, Q) as
+
+f (R, P, Q) = R + 2Λ + ǫ ϕ(R, P, Q),	(2.4)
+
+
+1 3
+
+975  Page 4 of 15	Eur. Phys. J. C	(2021) 81:975
+
+
+
+where Λ is a cosmological constant term and ǫ is a dimen-sionless perturbative parameter. This parameterization is such that, substituting Eq. (2.4) into Eqs. (2.1) and (2.2), for ǫ = 0 provides GR. Thus, it allows us to interpret
+At this point, we have all the ingredients to obtain the order reduced field equations, at first order in ǫ, by substituting Eqs. (2.4)–(2.11) in Eq. (2.2), which finally yields:
+ 1
+
+f (R, P, Q) gravity as an effective field theory with solutions perturbatively close to GR, when ǫϕ ≪ R. The order reduc-
+Gμν = κ Tμν + Λgμν + ǫ
+2 gμνϕ¯ − R¯μν ϕ¯,R¯
+¯
+
+¯ αβγ
+
+tion technique is then implemented by evaluating Eq. (2.2)
+to the first order in ǫ. However, this is not enough due to
+−∇μ∇ν ϕ¯,R¯ + gμν ϕ¯,R¯ − 2ϕ¯,Q¯ Rαβγ μ R	ν
++4∇α ∇β(ϕ¯,Q¯ R¯ α(μν)β)
+
+the presence of the Riemann tensor, and one needs a further
+simplification. To this effect, we assume that our spacetime
+−2ϕ¯
+,P¯
+R¯ αμ
+R¯αν
++ 2∇α∇β
+(ϕ¯
+,P¯
+R¯ α
+(μδβ
+ν))
+
+is conformally flat, i.e., there exists always a local reference frame where the metric is flat (Minkowski metric) up to a conformal factor. The reason for this assumption is that we are interested in studying this modified theory of gravity from a cosmological point of view and, in particular, we will work with the FLRW metric which always fulfils this property. In a conformally flat spacetime, the Weyl tensor Cαβμν, which is the traceless part of the Riemann tensor, vanishes identically. Thus, it is possible to express the Riemann tensor in terms of the Ricci tensor and the Ricci scalar only, as follows:
+− (ϕ¯,P¯ R¯μν ) − gμν∇α∇β(ϕ¯,P¯ R¯ αβ ) ,	(2.12)
+where ϕ¯ = ϕ(R¯ , P¯ , Q¯ ). These are the field equations that will be used throughout this work, in order to obtain the effective Friedmann equation (1.1) of LQC in our setting.
+
+
+3 Modified Friedmann equation and bouncing cosmology
+
+R	= 1 g	R
++ g  R
+g	R	− g  R
+In order to derive Eq. (1.1), let us consider the FLRW line
+
++ 1 g	g	− g	g   R .	(2.5)
+
+As mentioned in the Introduction, we use a “bar” to indi-cate a quantity evaluated at the zeroth-order with respect to ǫ (the reduced quantity). Then, Eq. (2.2) at the zeroth-order
+ds  = −dt
++ a(t)
+− kr 2 + r
+dθ + sin
+θ dφ
+,
+(3.1)
+
+reduces to
+
+R¯μν − 2 gμν
+
+
+R¯ = κ Tμν − gμνΛ.	(2.6)
+where k = −1, 0, 1 corresponds to a hyperbolic, flat, and
+hyperspherical spatial curvature, respectively. Furthermore,
+consider an energy–momentum tensor describing a homo-geneous isotropic cosmological perfect fluid, i.e., Tμν =
+
+Therefore, we get the expression of R at the zeroth-order with respect to ǫ considering the trace of Eq. (2.6), given by
+R¯ = −4Λ − κ T ,	(2.7)
+
+and we obtain the reduced forms of Rμν and Rαβμν, by using Eqs. (2.5)–(2.7), provided by
+κ
+R¯μν = −Λgμν + κ Tμν − 2 gμν T ,	(2.8)
+(ρ + p) uμuν + p gμν, where uμ is the 4-velocity of the fluid, with normalization uμuμ = −1, and p and ρ are the isotropic
+pressure and energy density, respectively. Moreover, as men-tioned in the Introduction, we assume a barotropic equation
+of state p = wρ, with a constant parameter w > −1, which corresponds to an accelerated expanding universe in LQC,
+where the energy–momentum conservation law, ∇μT μν = 0, provides the following continuity equation
+ρ˙ = −3H (1 + w) ρ.	(3.2)
+
+R¯	κ  g	T	+ g  T	− g	T	− g  T
+
+1
+3	μα
+gνβ
+gμβ
+gαν
+ (Λ + κ T ) ,	(2.9)
+the following explicit form, respectively,
+R¯ = −4Λ + κ(1 − 3w)ρ ,	(3.3)
+
+respectively, where T = gμν Tμν is the trace of the energy–momentum tensor.
+The last two quantities we need are the reduced form of our scalar variables, namely,
+P¯ = 4Λ2 + 2κΛ(3w − 1)ρ + κ2(3w2 + 1)ρ2 ,	(3.4)
+Q¯ = 8 Λ2 + 4 κΛ(3w − 1)ρ
+1 2	2	2
+
+P¯ = 4Λ2 + 2κ T Λ + κ2T μν Tμν ,	(2.10)
++ 3 κ (9w + 6w + 5)ρ ,	(3.5)
+
+¯	8  2	4
+1 2  2
+μν
+and by using Eq. (3.2), we obtain their derivatives with
+
+Q = 3 Λ
+1 3
++ 3 κ T Λ − 3 κ T
++ 2κ
+Tμν T
+.	(2.11)
+respect to cosmological time, given by
+
+Eur. Phys. J. C	(2021) 81:975	Page 5 of 15	975
+
+R˙¯ = 3κ(w + 1)(3w − 1)Hρ,	(3.6)
+
++ − 1 (3w + 1)κρ − Λ ϕ¯
+
+P˙¯ = 6κΛ(w + 1)(1 − 3w)Hρ
+6	3	,R¯
+4	2	2 2	2
+
+−6κ (w + 1)(1 + 3w )Hρ ,	(3.7)
++ 3 κρ(w + 1) (9w + 3w + 2)κ ρ − (9w − 3w + 4)Λκρ
+
+Q˙¯ = 4κΛ(w + 1)(1 − 3w)Hρ
+−3(9w2 + 3w + 2)  k κρ − 2(3w − 1)Λ2 − 6(3w − 1)  k  Λ ϕ¯
+
+−2κ
+(w + 1)(9w
++ 6w + 5)Hρ
+.	(3.8)
+a2
+2	2 2	2
+a2	,R¯ ,Q¯
+
+These are useful for computing the time derivative of ϕ¯
+2	 k 
+
+2	 k 
+
+field equations.
+The first Friedmann equation can be derived by consider-ing the 0–0 component of Eq. (2.2), and the second Fried-mann equation can be obtained by evaluating one spatial
+
+−κρ(3w − 1)(w + 1)
+
+k 
+κρ − 3 a2 −Λ
+
+
+ϕ¯,R¯ ,R¯ ,
+
+
+
+(3.9)
+
+component of Eq. (2.2). However, for the sake of brevity, only the first Friedmann equation is given below. Indeed, the second equation, as we have mentioned above, depends on
+where it was necessary to substitute the zeroth-order expres-sions of H 2 and a¨ /a which, in general, turn out to be
+
+the continuity equation and the first Friedmann equation, and therefore, in the present analysis, it is practically irrelevant. Taking into account what has been discussed so far, it is
+H 2 =
+1	 k 	Λ
+3 κρ − a2 − 3 ,
+a	1
+a = − 2
+1	Λ
+3  κρ − 3 .
+
+possible to see that the reduced modified Friedmann equation reads as:
+H 2 = 1 κρ − k − Λ
+/	/
+(3.10)
+
+Thus, following Refs. [16–18], we assume spatial flatness of the spacetime (k = 0), and noticing that Λ does not con-
+
+3	a2	3
+tribute to Eq. (1.1), we set Λ = 0. Thus, the reduced variables
+
++ǫ  − 1 ϕ¯ + 1 4Λ2 + 2(9w2 + 12w − 1)κρΛ
+are given by
+
++(−9w2 − 6w + 7)κ2ρ2 + 18(w + 1)(3w − 1)  k κρ ϕ¯
++κρ(w + 1)  − 4 (3w + 1)(9w2 + 6w + 5)κ3ρ3
+,Q¯
+R¯ = (1 − 3w)κρ ,	(3.11)
+P¯ = (3w2 + 1)κ2ρ2 ,	(3.12)
+Q¯ = 1 (9w2 + 6w + 5)κ2ρ2 ,	(3.13)
+
+4	2	k  2 2	16	2	2
+
++ 3 (3w + 1)(9w
++ 6w + 5) a2 κ ρ
+/(3w
+3
++ 1)Λ κρ
+while, the first Friedmann equation (3.9) reduces to
+
+4	2	2 2	16	2	 k 
++ (3w − 1)(3w + 1)Λκ ρ +	(9w + 3w + 2)	Λκρ
+1	1	1
+
++ 9 (3w − 1)Λ
++ 3 (3w − 1) a2 Λ
+ϕ¯,Q¯ ,Q¯
+1   3w2
+3w + 2
+κ2ρ2ϕ¯,P¯
+
++ 1 2Λ2 + (6w2 + 9w − 1)κρΛ + (−3w2 − 3w + 2)κ2ρ2
+/
++ 3  −	−
+/  
+
+3	1
+ k 	+ 9
+−9w
+— 6w + 7
+κ2ρ2 ϕ¯
+,Q¯
+
++ a2 6(w + 1)(3w − 1)κρ
+ϕ¯,P¯
+−(w + 1)(3w − 1)κ ρ ϕ¯
+
++κρ(w + 1)
+4	3
+3 (18w
++ 9w
++ 8w + 1)κ ρ
+
+−4w(w + 1)
+
+3w2 + 1 
+,R¯ ,R¯
+κ4ρ4 ϕ¯,P¯ ,P¯
+
+3	2	k  2 2	2	k
++4(18w + 9w + 8w + 1)	κ ρ + 8(15w + 2w + 3)	Λκρ
+4	4	3	2	4 4
+/
+
+
+4	3	2	2 2	8	2	2
++ (18w − 21w + 4w − 5)Λκ ρ +  (15w − 4w + 5)Λ κρ
+2	3 3
+
+16	3
++ 3 (3w − 1)Λ
+k	2
++ 16(3w − 1) a2 Λ
+
+ϕ¯,P¯ ,Q¯
+4
++ / (w + 1)
+
+9w2 + 3w + 2
+,R,P
+κ3ρ3 ϕ¯
+
+
+2	3 3
+2	k  2 2	3
+/
+
+,R¯ ,Q¯
+ 
+
++(3w
+6w
+2
+
+/
+3
++ 2w − 1)κ Λρ
+2	2	k
+,P¯ ,Q¯
+(3.14)
+
++2(3w − 2w + 1)κΛ ρ + 4(6w
+w + 1) a2 Λκρ
+
++(3w − 1)Λ
+k 
++ 3(3w − 1) a2 Λ
+ϕ¯,P¯ ,P¯
+Then, comparing the above modified Friedmann equation
+with Eq. (1.1), it turns out that ϕ has to satisfy the following
+
+1 3
+
+975  Page 6 of 15	Eur. Phys. J. C	(2021) 81:975
+
+
+
+differential equation,
+negative, or equal to zero, while P¯ and Q¯ are strictly positive,
+
+1	1	which is transparent from Eqs. (3.11)–(3.13). Therefore, we
+
+− 6 ϕ¯ + 6 (−3w − 1)κρ ϕ¯,R¯
+should pay special attention to the case in which R¯ = 0,
+
+1	2	2 2
+i.e., w = 1/3. Another particular case is w = −1/3 which
+
+/	/
+
+1	2	2 2
+3w)k ρ is the reduced Gauss–Bonnet term. Finally, recall
+
+
+−(w + 1)(3w − 1)κ ρ ϕ¯,R¯,R¯
+−4w(w + 1) 3w2 + 1 κ4ρ4 ϕ¯,P¯ ,P¯
+—   27w4 + 54w3 + 48w2 + 26w + 5  κ4ρ4 ϕ¯
+
+
+
+
+
+,Q¯ ,Q¯
+of a¨ /a > 0 for ρ = ρc.
+
+
+Specific functional forms of f ( R, P, Q) theory of gravity
+
++2(w + 1) 6w2 − w + 1 κ3ρ3 ϕ¯ ¯ ¯
+
+,R,P
++ 4 (w + 1)  9w2 + 3w + 2  κ3ρ3 ϕ¯
+Solution I
+
+/
+
+4 (w	1)   18w3	9w2	8w	1   κ4ρ4 ϕ
+3
+κ2ρ2
+,P¯ ,Q¯
+which discuss effective f (R) and f (G) bouncing cosmolo-gies, assuming f (R) = R + ǫϕ(R) and f (G) = R + ǫϕ(G), respectively. In Refs. [16,17], the perturbative function ϕ
+
+= − 3ǫκρc
+.	(3.15)
+depends only on a single variable, while in the present work
+
+In particular, fixing w = 1, the first Friedmann equation simplifies further to
+we are essentially dealing with three variables.
+In order to simplify our approach, and to arrive at a situa-tion similar to f (R) and f (G), we need to find a way to work
+
+H 2 = 1 κρ + ǫ  − 1 ϕ¯ − 2 κρ ϕ¯
+4 2 2
+—  κ ρ ϕ¯
+8 2 2
+— κ ρ ϕ¯
+with a single variable, which is a generalization of R and G.
+
+3	6	3
+3 3	4
+,R¯
+
+4
+3
+112
+,P¯	9
+3 3
+,Q¯
+To this effect, we define a new variable X	X (R, P, Q), and “perturb” the GR Lagrangian by using a function of X.
+
++24κ ρ ϕ¯,R¯,P¯ − 96κ ρ ϕ¯,P¯ ,Q¯ +
+κ ρ ϕ¯,R¯ ,Q¯
+In particular, we assume that
+
+−4κ ρ ϕ¯
+
+,R¯ ,R¯
+32κ ρ ϕ¯
+
+,P¯ ,P¯
+640 4 4
+9 κ ρ ϕ¯
+
+,Q¯ ,Q¯
+  ,
+(3.16)
+
+f (R, P, Q) = R + ǫϕ (X ) ,  with
+X = C1|R|2α + C2 Pα + C3 Qα ,	(4.1)
+
+and the associated differential equation is given by
+where α is a dimensionless real parameter, and the constants
+
+1	2	4 2 2
+8 2 2
+{Ci } with i = 1, 2, 3 possess the correct dimensions such
+
+− 6 ϕ¯ − 3 κρ ϕ¯,R¯ − 3 κ
++24κ ρ ϕ¯,R¯,P¯ − 96κ
+ρ ϕ¯,P¯ − 9 κ
+4ρ4ϕ¯,P¯ ,Q¯
+ρ ϕ¯,Q¯
+that the variable X is dimensionless.5 The variable X is the most general linear combination of the powers of R, P and Q we can consider in this context. The reason is that in order
+
+112 3 3
++ 3 κ ρ ϕ¯
+,R¯ ,Q¯
+4κ ρ ϕ¯
+,R¯ ,R¯
+32κ ρ ϕ¯
+,P¯ ,P¯
+to give a well posed definition of X, all the quantities in Eq. (4.1) must have homogeneous dimensions. Moreover,
+
+640 4 4
+κ2ρ2
+to apply the reduction method of Refs. [16,17], we need an
+
+9 κ ρ ϕ¯,Q¯ ,Q¯ = − 3ǫκρ
+.	(3.17)
+invertible relation between X and the energy-matter density
+
+Equations (3.15) and (3.17) are non-linear second-order partial differential equations for a three-variable function. Therefore, it is not possible to determine the general form of ϕ such that Eqs. (3.14) and (3.16) be equal to Eq. (1.1). Thus, we need to propose some specific ansatz on f (R, P, Q) and ϕ, and investigate the conditions under which the action (2.1) can reproduce a bouncing universe. In this regard, in order to construct a “loop-inspired modified gravity”,3 notice that R¯ is the only scalar among our variables which can be positive,
+
+3 Here we are considering Eq. (1.1) without further corrections as in Ref. [39]. Therefore, we are not entitled to consider different cases than w = 1, if we want to have a strict consistency with LQC.
+
+1 3
+ρ. In addition, notice that R can assume positive and negative values, depending on the value of w, while P and Q are always positive defined, as mentioned above. Therefore, the absolute value of R allows us to consider exponents that take on real values. Finally, it is easy to see that: for α = 1/2, C1 = 1, C2 = 0 = C3, we get X = R; for α =
+1, C1 = 1, C2 = −4, C3 = 1, we get X = G.
+
+4 Actually, in both treatments there is also the presence of the cosmo-logical constant Λ inside the gravitational action. However, they set Λ = 0 for our same reason.
+5 In our case, the following dimensional equation holds: [Ci ] = [κρ]−2α = [ρ]−2α , with i = 1, 2, 3.
+
+Eur. Phys. J. C	(2021) 81:975	Page 7 of 15	975
+
+
+At this point, we want to use the assumption (4.1) to solve Eq. (3.15). Therefore, we need to write the reduced form of X. Using Eqs. (3.11)–(3.13), it is straightforward to see that X¯ is given by
+
+× (3w − 1) 3w2 + 1  9w2 + 6w + 5 
+
+× 3α C1 |1 − 3w|  + C2 9w2 + 3  + C
+
+
+
+(3w + 1)2 + 4 α 2 −1 .
+(4.5)
+
+X¯ = C (κρ)2α ,  where C = C1 |1 − 3w|2α
++C2 3w2 + 1	+ 3−α C (9 + 6w + 5)α .	(4.2)
+Then, following an analogous procedure as done in Refs. [16–18], we compare Eq. (4.3) with Eq. (1.1), in order to obtain a differential equation for ϕ(X¯ ), i.e., a new version
+
+We are assuming to work with all possible configurations of parameters {w > −1, α, Ci } that correspond to a non-
+vanishing variable X¯ , i.e., C /= 0. Moreover, let us notice
+that the case w = 1/3 (corresponding to R = 0) needs to be analysed separately. Finally, we point out that, from
+the Eq. (4.2), for fixed values of constant parameters we have sign(X¯ ) = sign(C) where C is constant. Therefore,
+of Eq. (3.15) with the variable X¯ . However, as in Eq. (3.15), we have the presence of ρ as well as X¯ . Thus, using Eq. (4.2), we can rewrite ρ as a function of X¯ . In this way we obtain a second order differential equation for ϕ(X¯ ) which can be
+written in the following form:
+
+1
+ X 
+
+/	/	/	/
+
+
+definite.
+We can now obtain the reduced Friedmann equation (3.14) by making a change of variable, from R, P, Q to X
+X (R, P, Q). Thus, we obtain the following equation
+
+H 2 = 1 κρ
++ ǫ − 1 ϕ(X¯ ) + A ϕ′(X¯ )(κρ)2α + B ϕ′′(X¯ )(κρ)4α  ,
+(4.3)
+
+where the prime corresponds to the derivative with respect to the variable X¯ , while A and B are coefficients defined as
+A = 3α C (2 − 3(4α − 3)w(w + 1)) 3w2 + 1 α−1
+
+3 |C | α ǫκρc
+(4.6)
+
+The above differential equation is a second order non-homogeneous Euler–Cauchy equation. This is highly signif-icant because we already know all possible homogeneous and particular solutions, without entering too much into the possible values of the parameters {w, α, Ci }.
+Before proceeding into the analysis of Eq. (4.6), we stress that by choosing {α, Ci } such that X = R or X = G, Eq. (4.6) turns out to be the differential equation of Ref. [16]
+or the one of Ref. [17]. Indeed both differential equations of Refs. [16,17] are a second order non-homogeneous Euler–Cauchy equation. As we will see, the different solutions depend on the coefficients of the differential equation.
+In this regard, let us rewrite Eq. (4.6) in a more appropriate and useful form, defining x = X¯ (dimensionless positive
+
++3w(9w + 14) + 19)
+
+C1 |1 − 3w|2α (12α(w + 1) − 9w − 7) 
+/
+− 1 y(x) + A xy′(x) + B
+1
+2 y′′(x) =−	x α	.
+
+3w − 1
+ α
+/	/	/
+6	C	C 2
+/
+1
+
+/
+3 |C | α ǫκρc
+/
+
+
++C3 (3w + 1)2 + 4 α −1 ,	(4.4)
+B = 4α2(w + 1) (3w − 1) C 2w 9w2 + 6w + 5  9w2 + 3 2α
+
++C3  9w3 + 3w2 + 3w + 1  9w2 + 6w + 5 
+
+At this point, we can distinguish two general nontrivial cases depending on the coefficient of the second order term: B /= 0 and B = 0.
+Assuming B /= 0 and multiplying by C 2/B, the differen-
+
++3α C2C3  18w3 + 9w2 + 8w + 1 
+×  27w4 + 18w3 + 24w2 + 6w + 5 α 
++3 C1 C2 54w4 + 27w3 + 33w2 + w + 5  9w2 + 3 
+tial equation (4.7) reads as
+x 2 y′′(x) + axy′(x) + by(x) = cx1/α ,	(4.8) where
+
++2C3 27w4 + 9w3 + 15w2 + 3w + 2 ×
+×  9w2 + 6w + 5 α |1 − 3w|2α
+
+CA 	C 2		1	
+
+a = B ,	b = − 6B ,	c =−	/−2	.
+/	/	/
+1 3
+
+975  Page 8 of 15	Eur. Phys. J. C	(2021) 81:975
+
+
+
+In this case, the classification of the homogeneous solutions is based on the roots of the characteristic equation associated to Eq. (4.8),
+λ2 + (a − 1)λ + b = 0 ,	(4.10)
+which is obtained by substituting the trial solution y0 = xλ
+case of α = 1, which represents the easiest generalization of Refs. [16,17]. In this case, we have
+X¯ = C (κρ)2 ,  where C = C1(3w − 1)2 + C2 3w2 + 1 
++ 3 C3 9w + 6w + 5 ,	(4.12)
+
+into Eq. (4.8) setting the right-hand side equal to zero. There-
+fore, it results that:
+and, requiring that X¯ /= 0 , we must exclude the following configurations:
+
+
+If we have two distinct real roots, λ
+
+1,2
+1
+= 2 (1 − a
+
+C2 = −2C3  ∧  C1 =
+C3 ,	(4.13)
+/
+
+±,(a − 1)2 − 4b
+ , the homogeneous solution is yh =
+3
+3C1 + C2 + C3 /= 0  ∧	
+
+cλ1 xλ1 + cλ2 xλ2 ;
+3C1 − C3 ± ,−3C 2 − 12C1C2 − 8C3C2 − 4C 2 − 24C1C3
+
+If we have one repeated real root, λ = −√b, then the	w =
+homogeneous solution is given yh = c1xλ + c2xλ ln x ;
+2
+3 (3C1 + C2 + C3)
+3
+,
+(4.14)
+
+If we have two complex roots, λ
+
+1,2
+1
+=	2 (1 − a
+1
+3C1 + C2 + C3 = 0  ∧ C2 + 2C3 /= 0  ∧ w = − 3 .	(4.15)
+/
+
+
+/
+i 4b	(a	1)2 , then the homogeneous solution is y h  = c1x 1−a cos (4 b − (a − 1)2) ln x  + c2x 1−a
+
+In particular, if the first condition holds, the constant C in
+
+
+
+Regarding the particular solution of Eq. (4.8), we have the following possibilities:
+w = −1/3 we get C = 4(3C1 + C2 + C3).
+Then, the equation for y(x) results in:
+
+
+If 1/α is not equal to any root of the characteristic equa-
+1
+tion, then the particular solution is yp(x) ∝ x α ;
+
+a0 y(x) + a1
+
+x y′(x) + a2
+x 2 y′′(x)	x
+ǫκρc
+
+,	(4.16)
+
+If 1/α is equal to a root of the characteristic equation, then
+where
+
+the particular solution is given by yp(x)	x α (ln x)β, where β is the multiplicity of the root.6
+
+
+a = 1 C  9w2 + 3 + C3
+
+
+ 9w2 + 6w + 5 + 3C1(1 − 3w)2 ,
+
+Now, let us assume B = 0. Thus, Eq. (4.7) takes the
+following form
+
+a = 1 3C
+(4.17)
+ 3w2 + 3w − 2 + C3 9w2 + 6w − 7 
+
+A	′
+x 1/α
++3C1(3w − 1)(3w + 5)) ,	(4.18)
+
+− 6 y(x) + C xy (x) = − 3ǫκρ
+1/α .	(4.11)
+|C |
+a = 4(w + 1) (3C (3w − 1) + 3 (C
++ C ) w + C ) .	(4.19)
+
+In this case, we only have one (real) solution for the char-
+C
+
+Again, we have to distinguish the case where the coefficient
+
+acteristic equation, λ =
+. Therefore, we only have one
+6 A
+of the second order term is different from zero, a2 /= 0, from
+
+homogeneous solution, yh = xλ , and two possible particular solutions, given by:
+
+If 1/α is not equal to the root of the characteristic equa-tion, then the particular solution is yp(x) ∝ x 1/α ;
+If 1/α is equal to the root of the characteristic equation, then the particular solution is given yp(x) ∝ x 1/α ln x .
+
+At this point, let us focus on a particular value of α. It is interesting to further analyse the ansatz Eq. (4.1) in the
+
+6 Being Eq. (4.8) of the second order, in this case β can be only equal to 1 or 2.
+the a2	0 case. The latter can only be realized by setting
+3C	C	C	0	w		3C1−C3	 , excluding
+3(3C1+C2+C3)
+configurations of parameters such that {C2 = −2C3 ∧ C1 =
+C3/3} which implies C = 0 in Eq. (4.2), and w = −1. The former is more interesting because it is the case of f (R) and
+f (G). Therefore, let us focus on it.
+From the previous discussion of Eq. (4.8), we already know that there are three possible particular solutions for our problem: yp1(x) ∝ x , yp2(x) ∝ x ln x and yp3(x) ∝ x(ln x) . The easiest way to obtain the proportionality con-stant related to each particular solution is by substituting those prototypes of solutions in Eq. (4.16). This procedure allows us to outline the following classification:
+
+1 3
+
+Eur. Phys. J. C	(2021) 81:975	Page 9 of 15	975
+
+
+
+For 3C1 + C2 + C3 /= 0 and w /= 1/3, we get:
+
+2x
+The complete solution is then
+
+ϕ(X ) = 	3|X| ln |X|	 + A |X|1/8 + B |X| ,
+
+yp1(x) = 3 (3C + C + C ) (1 + w) (3w − 1) ǫκρ .
+14 (C2 + 2C3) ǫκρc
+
+1	2	3
+c
+(4.20)
+(4.28)
+
+
+
+The complete solution can be written in the following general form
+
+ϕ(X )		2 |X|	
+3 (3C1 + C2 + C3) (1 + w) (3w − 1) ǫκρc
+
+/
++ A |X|(−b− ∆)/(2a) + B |X|(−b+ ∆)/(2a) , (4.21)
+
+where A and B are integration constants, while a, b, and
+∆ are given by, respectively,
+
+a = 12(w + 1) (C1(9w − 3) + 3 (C2 + C3) w + C3) ,
+(4.22)
+b = −3C1(3w − 1)(9w + 7) − 3C2(9w(w + 1) + 2)
+C3(3w(9w	14)	19),	(4.23)
+∆ = 9C 2(3w − 1)2 9w2 + 78w + 73 
+which is analogous to the previous solution but differs to it as here we have no definition of C1 (which is the coef-ficient of R2). Therefore, C2 and C3 are not proportional to each other, in general.
+
+Thus, our differential equation does not admit the solu-tion yp3(x) ∝ x(ln x)2, because by substituting yp3(x) ∝ x(ln x)2 in Eq. (4.16) we obtain as the only possibility x = 0, which is not an admitted value.
+All the above solutions generalize the results obtained in Refs. [16,17]. The f (R) bouncing cosmology belongs to the first class of solutions of ϕ(X ), with 3C1 + C2 + C3 /= 0 and w /= 1/3, while the f (G) bouncing cosmology belongs to the second class of solutions of ϕ(X ), with 3C1 + C2 + C3 = 0, C2 + 2C3 /= 0, and w /= −1/3.
+In order to be complete in our analysis, it is worth saying that in the case of a2 = 0, i.e., {3C1 + C2 + C3 /= 0 ∧ w =
+
+1
+2
++6C3C1(3w − 1)(3w + 1) 9w + 90w + 85
+	3C1−C3	 , we only have one solution:
+3(3C1+C2+C3)
+
++18C2C1(3w − 1) 9w3 + 84w2 + 81w + 2 
+2 (3C1 + C2 + C3) |X|
+
+1/4
+
+2	4	3	2
+2
++C  81w + 972w + 1638w + 972w + 241
++6C2C3 27w4 + 297w3 + 399w2 + 147w + 26 .
+ϕ(X ) = (C
+2 + 2C3) (12C1 + 3C2 + 2C3) ǫκρc
++ A |X|	,
+(4.29)
+
+(4.24)
+
+For 3C1 + C2 + C3 = 0, C2 + 2C3 /= 0, and w /= ±1/3,
+we get:
+where A is an integration constant, and the parameters {Ci }
+cannot be chosen such that the denominator of the solution
+is zero.
+Let us consider the case of fixing w = 1 in Eq. (4.16). It is straightforward to write the three possible solutions taking into account that the coefficient of the second order term is
+
+yp2.1
+3x ln x
+(x) = (C + 2C ) (9w + 11)ǫκρ
+.	(4.25)
+a2 = 8(6C1 + 3C2 + 4C3):
+For 6C1 + 3C2 + 4C3 /= 0 and 3C1 + C2 + C3 /= 0, we
+
+In this case, the complete solution turns out to be:
+
+	3|X| ln |X|	
+get:
+ϕ(X ) = 	|X|	
+
+ϕ(X ) = (C
++ 2C ) (9w + 11)ǫκρ
+6 (3C1 + C2 + C3) ǫκρc
+
+2	3	c
+(−b−√∆)/(2a)
+(−b+√∆)/(2a)
+
++ A |X|(3w+1)/[12(w+1)] + B |X| ,	(4.26)
+
+where A and B are integration constants.
+For w = 1/3 and C2 + 2C3 /= 0, the above equation reduces to
+
+
+
+where
++ A |X|
++ B |X|
+,
+(4.30)
+
+
+3x ln x
+y	(x) =
+
+.	(4.27)
+a = 6 (6C1 + 3C2 + 4C3) ,	(4.31)
+b = −24C1 − 15C2 − 22C3,	(4.32)
+
+p2.2
+14 (C2 + 2C3) ǫκρc
+∆ = 360C 2 + 396C C + 552C C
+
+1	2  1	3  1
+2	2
++117C2 + 244C3 + 336C2C3 ,	(4.33)
+
+1 3
+
+975  Page 10 of 15	Eur. Phys. J. C	(2021) 81:975
+
+
+
+with A and B being integration constants.
+For 6C1 + 3C2 + 4C3 /= 0 and 3C1 + C2 + C3 = 0 we
+arrive at
+ϕ(X ) = 	3 |X| ln |X|	 + A |X|1/6 + B |X|,
+to see we need to exclude the following configurations of parameters:
+1
+w = 3 ,	(4.37)
+C3
+
+20 (6C1 + C2) ǫκρc
+C2 = −2C3	∧  C1 =
+,	(4.38)
+3
+
+(4.34)	3C1 + C2 + C3 /= 0  ∧	
+3C1 − C3 ±  −3C 2 − 12C1C2 − 8C3C2 − 4C 2 − 24C1C3
+
+where A and B are integration constants.	w =
+For 6C1 + 3C2 + 4C3 = 0 and C2 + 2C3 /= 0, we deduce
+2
+3 (3C1
++ C2
+3
+,
++ C3)
+(4.39)
+
+
+
+ϕ(X )
+
+	|X|	
+
+
+X 1/4
+3C1 + C2 + C3 = 0  ∧  C2 + 2C3 /= 0  ∧
+1
+w = − 3 .	(4.40)
+
+= − 3 (C + 2C ) ǫκρ + A | |	,	(4.35)
+
+2	3	c
+In particular, the first condition is related to R¯ = 0,
+
+where A is an integration constant.
+while the last three conditions correspond to C1 R¯ 2 +
+
+C2 P ¯ + C3 Q¯ /= 0, i.e., 3C1(3w − 1)2 + 3C2 3w2 + 1 +
+/
+
+
+Let us continue the discussion by proposing a further spe-cific solution for Eq. (3.15). By analogy to Ref. [18], let us assume that ϕ has a power-law form. In particular, in Ref. [18] the authors propose a solution of the form ϕ(R, G) = C |G|α |R|β . Here, in order to generalize this solution, we assume the following power-law form:
+
+ϕ(R, P, Q) = C0 |R|α Pβ Qγ |C1 R2 + C2 P + C3 Q|δ ,
+(4.36)
+
+Substituting Eq. (4.36) in Eq. (3.15), we get the following
+dimensional constraint:
+
+α = 2 − 2(β + γ + δ) .	(4.41)
+
+This arises from the fact that for Eq. (4.36) be a solution of Eq. (3.15) we have to impose ρα+2(β+γ +δ) ∝ ρ2, so that this constrains C0 to have dimension [C0]= [ρ]−1.
+Using the above condition, the ansatz (4.36) reproduces
+the bouncing universe of LQC by requiring that the constant C0 is given by:
+
+2  3γ +δ(3w − 1)2(β+γ +δ)−1(3w2 + 1)1−β(9w2 + 6w + 5)1−γ |UX |−δ UX
+
+C0 = ǫκρ
+UX Uβ
+β + Uγ
+γ + Uw
+ + U δ	,	(4.42)
+
+
+/
+
+
+
+
+
+where {Ci }, with i = 1, 2, 3, and α, β, γ, δ are real dimen-sionless parameters, while C0 has dimensions such that ϕ is
+7
+where
+UX =  3C1(1 − 3w)2 + 3C2  3w2 + 1 
++C3 9w2 + 6w + 5  ,
+
+
+
+
+
+(4.43)
+
+proportional to an energy density
+(as well as R).
+2
+
+Our aim is to determine the expression of the constant C0 such that Eq. (4.36) is a solution for Eq. (3.15). Therefore, we want to obtain the dependence of C0 on the other parameters
+{C1, C2, C3, α, β, γ, δ}. Obviously, for particular choices of the parameters we already know the value of the constant C0
+Uβ = −6(w + 1)(3w − 1)(3w + 1) 9w + 6w + 5
+
+Uγ = −36(w + 1)(3w − 1)(3w + 1) 3w2 + 1 ,
+,
+(4.44)
+
+(4.45)
+
+by taking into account the discussion of the previous ansatz and the results presented in Refs. [16–18].
+It is important to notice that we need to exclude cases in which the above function is identically zero. Therefore, using the reduced form of variables, Eqs. (3.11)–(3.13), it possible
+
+7 Because ǫ is a real dimensionless parameter, R and ϕ must have the same dimension so that the action is well-defined.
+Uw = +9(w + 1)(3w − 1) 9w2 + 6w + 5	3w2 + 1 ,
+(4.46)
+Uδ = −18 (C2 + 2C3) (w + 1)(3w − 1)(3w + 1)
+× 3w2 + 1	9w2 + 6w + 5 .	(4.47)
+The choice of the parameters must be such that the con-stant C0 be well-defined. Therefore, we exclude all the con-
+
+1 3
+
+Eur. Phys. J. C	(2021) 81:975	Page 11 of 15	975
+
+
+
+figurations of parameters such that the denominator is iden-tically zero, namely:
+
+For (C2 + 2C3) (3w + 1) /= 0, the denominator of Eq. (4.42) vanishes when
+where {Ci ,αj ,βj ,γj ,δj }, with i = 1, 2, 3 and j = 1, 2, are real parameters, while the constant Cρ is used to render dimensionless the argument of the logarithm.8
+As in the previous case, we get the non-vanishing condi-tions of the solution by considering the reduced form of the
+
+
+/
+
+UX  3 3w2 + 1  −4γ(3w + 1) + 9w2 + 6w + 5 − 2β(3w + 1) 9w2 + 6w + 5 
+
+/ /	/
+
+
+/
+
+For C2 + 2C3 = 0 and w /= −1/3, the denominator of Eq. (4.42) vanishes when we have
+variables, Eqs. (3.11)–(3.13). Therefore, we consider config-urations such that
+
+
+
+2	2	w /= 1/3 ,
+(4.52)
+
+/	/ / / / /
+
+(4.49)
++(9w + 6w + 5)C3 /= 0 ,	(4.53)
+
+3(1 − 3w)2C4 + 3 3w2 + 1 C5
+
+Notice that for the specific case of w = −1/3, the denom-inator of Eq. (4.42) vanishes when 3C1 + C2 + C3 = 0, but this condition is in fact excluded from the beginning.
+However, we are mainly interested in the case w = 1, where the constant C0 takes the form
++(9w + 6w + 5)C6 /= 0 ,	(4.54)
+
+where the first one is the non-vanishing condition of R¯ , while
+the second and the third ones are the non-vanishing condi-tions of |C1 R¯ 2 + C2 P¯ + C3 Q¯ | and |C4 R¯ 2 + C5 P¯ + C6 Q¯ |, respectively.
+
+
+/
+
+3γ +δ−1 51−γ (3C1 + 3C2 + 5C3) |3C1 + 3C2 + 5C3| −δ
+
+C0 = − 2ǫκρ
+((3C1
++ 3C2
++ 5C3) (10β + 12γ − 15) + 30 (C2
+.	(4.50)
++ 2C3) δ)
+
+
+/
+
+
+To conclude the discussion of this case, it is worth saying that by removing the dependence on R in the ansatz, i.e. ϕ(R, P, Q) = C0 Pβ Qγ |C2 P + C3 Q|δ , and fixing w =
+1/3, it is possible to see that there is no value of C0 such that
+the power-law form of ϕ(P, Q) satisfies Eq. (3.15).
+
+
+4.3 Solution III
+
+Finally, as last ansatz, we introduce a logarithmic depen-dence, as done in Ref. [18] where ϕ(R, G) = G ln(|R|α |G|β).
+When we replace Eq. (4.51) in Eq. (3.15), we also obtain a dimensional constraint α1 = 2 − 2(β1 + γ1 + δ1). Moreover, for Eq. (4.51) to be a solution of Eq. (3.15), we need to impose the following condition:
+
+ C2 9ω2 + 3 + C3 9ω2 + 6ω + 5 + 3C1(1 − 3ω)2 
+× −2β1(3ω + 1) 9ω2 + 6ω + 5 
+−12γ1(3ω + 1) 3ω2 + 1 
+
+The reason of the latter assumption comes from the forms of particular solutions obtained in Refs. [16,17], which have been generalized in Sect. 4.1. In particular, we propose the following solution:
+
+ϕ(R, P, Q) = C0 |R|α1 Pβ1 Qγ1 |C1 R2 + C2 P + C3 Q|δ1
++3 3ω2 + 1  9ω2 + 6ω + 5 
+
+
+
+8 The constant Cρ has dimension [Cρ ] = [κρ]−α2 −2(β2 −γ2 −δ2 ) =
+
+ln Cρ |R|α2 Pβ2 Qγ2 |C4 R2 + C5 P + C6 Q|δ2  ,	(4.51)
+ρ −α2 −2(β2 +γ2 +δ2 ); one could assume Cρ	(κρc)−α2 −2(β2 +γ2 +δ2 ), for instance.
+
+1 3
+
+975  Page 12 of 15	Eur. Phys. J. C	(2021) 81:975
+
+
+−6 (C2 + 2C3) δ1(3ω + 1)  3ω2 + 1 
+× 9ω2 + 6ω + 5  = 0 .	(4.55)
+The above condition comes from the substitution of
+
+× 27w3 + 30w2 + 3w + 4 ,	(4.62)
+Uγ = 2(3w − 1) 3w2 + 1 
+× 81w3 + 117w2 + 51w + 23 ,	(4.63)
+
+Eq. (4.51) in Eq. (3.15) and guarantees C0 is a constant.
+2	2
+
+For this specific case, from Eq. (4.55), we can distinguish the following two cases:
+
+For C2 + 2C3 /= 0 and w /= −1/3, we have
+Uδ = 2(3w − 1)
+3w + 1
+9w + 6w + 5
+
+
+/
+
+
+UX 1  9w2 + 6w + 5  −2β1(3w + 1) + 9w2 + 3 − 12γ1(3w + 1) 3w2 + 1 
+
+/ /	/
+
+
+9w2 + 6w + 5 C3.
+/
+
+
+ 9w2 + 6w + 5  3(3w2 + 1) − 2(3w − 1)β1 
++3 27w3 + 30w2 + 3w + 4 C5
+
+γ1 =
+12(3w + 1) 3w2 + 1	.
+(4.57)
++ 81w + 117w + 51w + 23 C6
+.	(4.64)
+
+
+Actually, there is another case where Eq. (4.55) is satisfied, namely, for w = −1/3 which corresponds to G¯ = 0, as seen in Sect. 3. However, we will see this value corresponds to a constant C0 = 0 and therefore it is not an acceptable value
+/
+
+For the sake of brevity, we omit writing all the configura-tions of the parameters which renders the denominator zero, and therefore, which must be excluded.
+To complete the discussion of this case, let us remove the dependence on R in Eq. (4.51), i.e., ϕ(P, Q)  =
+
+When one of the above conditions holds, it is possible to
+see that the ansatz (4.51) reproduces the bouncing universe of LQC by requiring that the constant C0 reads
+and fix w = 1/3. In this way we get the following equation for C0:
+
+
+/
+
+
+
+C0 =− 
+ǫκρ  U
+ U α
++ U β
++ U γ  + U δ	,	(4.58)
+
+
+/
+where
+UX 1 = 3(1 − 3w)2C1 + 3 3w2 + 1 C2
++ 9w2 + 6w + 5 C3 ,	(4.59)
+
+
+UX 2
+= 3(1 − 3w) C4 + 3 3w2 + 1 C5
+C0 =
+3 2β1+δ1−2 |C2 + 2C3| −δ1
+/
+
+,	(4.65)
+
++ 9w + 6w + 5 C6 ,	(4.60)
+7ǫκρc (β2 + γ2 + δ2)
+
+Uα =  3w2 + 1  9w2 + 6w + 5 
+× 27w2 + 30w − 1  ,	(4.61)
+Uβ = 2(3w − 1) 9w2 + 6w + 5 
+
+1 3
+where the dimensional constraint β1 + γ1 + δ1 = 2 must be satisfied.
+Finally, let us focus on the case w = 1. The following condition has to be satisfied in order to guarantee that C0 is constant and, therefore, in order to get a cosmological
+
+Eur. Phys. J. C	(2021) 81:975	Page 13 of 15	975
+
+
+
+bounce:
+(3C1 + 3C2 + 5C3) (10β1 + 12γ1 − 15)
++30 (C2 + 2C3) δ1 = 0 .	(4.66)
+From the last equation, we can distinguish two cases:
+
+For C2 + 2C3 /= 0, we have
+δ	(3C1 + 3C2 + 5C3) (10β1 + 12γ1 − 15) .
+we consider all possible corrections to the Einstein–Hilbert action in a regime where the contribution of R dominates over the small corrections. Such deviations from GR charac-terize the bounce when R ≪ ρc ∼ l P −2. In summary, the approach is based on two main ideas: (1) Assuming that GR is an incomplete theory, we want to extend semi-classically the Einstein’s theory considering deviations from GR due to high order curvature effects – therefore any new phenomenol-ogy is still a gravitational effect mediated by the curvature.
+Since we want to deal with metric f (R, P, Q) theory of
+
+1 =− 
+30 (C2 + 2C3)
+
+(4.67)
+gravity, not as an exact but as an effective field theory, whose solution ought to be perturbatively close to GR, we have to perform an order reduction to the field equations such to do
+
+For C2 + 2C3 = 0, we have
+away with the spurious degrees of freedom. The result is an effective Lagrangian which can mimic the effective Fried-
+
+5
+γ1 = − 12
+(2β1
+— 3) .	(4.68)
+mann equation of LQC far enough from the bounce. In this way, the search for bouncing solutions which are perturba-
+
+Therefore, when one of the above conditions holds, it is possible to see that the ansatz in Eq. (4.51) reproduces the bouncing universe of LQC, by requiring that (for w = 1) the constant C0 is given by
+tively close to GR can lead us to solutions that can be trusted reasonably close to the bounce. On the other hand, the effec-tive Friedmann equation of LQC, from loop quantum gravity, is supposed correct at the bounce itself. We rely on the essen-
+
+
+/
+51−γ1 (3C4 + 3C5 + 5C6) 3γ1+δ1 |3C1 + 3C2 + 5C3| −δ1
+
+C0 = 2ǫκρ
+((3C
++ 3C + 5C ) (35α + 40β + 34γ ) + 10 (21C + 12C
+,	(4.69)
++ 17C ) δ )
+
+
+/
+where it is necessary to exclude configurations of parameters which correspond to

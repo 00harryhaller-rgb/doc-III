@@ -1,0 +1,2744 @@
+reminiscence of the more general expressions involving distinct momenta Λp,q δ3(p q) [48]. The delta factor is absorbed by a corresponding momentum integration in the Eqs.(29), leaving only the finite coefficients defined via Eq.(30). These coefficients satisfy Λp 2 + Ξp 2 = 1 for all p, τ . With the aid of Eqs.(29), we can evaluate all the expectation values appearing in Eq.(26):
+
+2	2	3
+⟨0F (τ0)| Ap,λ;j Aq;λ′;j |0F (τ0)⟩ = sin θ|Ξp(τ0)| δλλ′ δ (p − q) ,	∀j
+2	2	3
+⟨0F (τ0)| B−p,λ;j B−q;λ′;j |0F (τ0)⟩ = sin θ|Ξp(τ0)| δλλ′ δ (p − q) ,	∀j
+†	2	∗	3
+⟨0F (τ0)| A	B	′  |0F (τ0)⟩ = sin θΞ (τ0)Λp(τ0)δλλ′ δ (p − q)
+
+p,λ;1  −q;λ ;1	p
+(31)
+
+†	2	∗	∗	3
+⟨0F (τ0)| A	B	′  |0F (τ0)⟩ = − sin θΞ (τ0)Λ (τ0)δλλ′ δ (p − q)
+⟨0F (τ0)| B−p,λ;1Aq;λ′;1 |0F (τ0)⟩ = sin2 θΞp(τ0)Λ∗(τ0)δλλ′ δ3(p − q)
+⟨0F (τ0)| B−p,λ;2Aq;λ′;2 |0F (τ0)⟩ = − sin2 θΞp(τ0)Λp(τ0)δλλ′ δ3(p − q) .
+
+7
+
+
+It is convenient to give the result by splitting out the pure mixing component:
+Tµν = T(MIX) + T(N )
+
+(32)
+
+µν	µν
+T(MIX) = i sin2 θ Σ ∫ d3p{|Ξ (τ )|2 Σ (L  (u	, u	) − L  (v	, v	))
+
++ Ξ∗(τ0)Λp(τ0)Lµν (up,λ;1, vp,λ;1) + Ξp(τ0)Λ∗(τ0)Lµν (vp,λ;1, up,λ;1)
+p	p
+∗	∗
+— Ξp(τ0)Λp(τ0)Lµν (up,λ;2, vp,λ;2) − Ξp(τ0)Λp(τ0)Lµν (vp,λ;2, up,λ;2)}	(33)
+T(N) = i Σ Σ ∫ d3pL  (v	, v	) .	(34)
+
+The last term comes from applying the anticommutator relation nB†	, B−q,λ′;j , = δλλ′ δ3(p − q) to the BB†
+term. While the remaining terms, regrouped under the symbol T(MIX) show an explicit dependence on sin2 θ, and are therefore zero in absence of mixing, the last term is present independently of mixing. Indeed, it is easy to check that T(N) represents the expectation value of the energy-momentum tensor on the mass vacuum:
+T(N) = ⟨0M | Tµν |0M ⟩ .	(35)
+The origin of this term is an ordering ambiguity in the energy-momentum tensor of the quantized fields. To understand its significance, let us consider the flat space limit, where vp,λ;j ∝ eiωp;jt with ωp;j =	p2 + m2. The auxiliary tensor
+
+becomes
+
+Lµν (A, B) = A¯γµ∂ν B + A¯γν ∂µB − ∂µA¯γν B − ∂ν A¯γµB	(36)
+
+where both the Dirac matrices and the derivatives are the ordinary flat space ones. In particular one has
+
+L00(vp,λ;j, vp,λ;j ) = 2(v†	∂tvp,λ;j − ∂tv†	vp,λ;j ) = 4iωp;jv†	vp,λ;j = 4iωp;j ,	(37)
+
+
+where we have made use of the normalization v†
+vp,λ;j = 1. Then
+
+T(N) = −2 Σ Σ ∫ d3p ωp;j	(< 0) .	(38)
+λ j=1,2
+
+We can see that T(N) corresponds to the diverging negative energy that is removed by the normal ordering prescription in flat space. In order that the energy-momentum tensor Tµν approaches the normal-ordered flat-space expression in
+the limit, one must subtract T(N). Then we define a renormalized energy-momentum tensor by
+
+
+
+
+and whose expectation value is
+r = Tµν − T(N )
+(39)
+
+⟨0F (τ0)| Tµν |0F (τ0)⟩ = Tµν	.	(40)
+We now derive the general properties of the Bogoliubov coefficients, we show that T(MIX) behaves as a perfect fluid
+and determine the functional expression of Tττ and Tµ.
+
+General properties of the Bogoliubov Coefficients
+
+Much can still be said without specifying the precise metric, i.e., without providing an explicit form for the scale factor C. Plugging the solutions (8) in the definition (30) we have
+Λp(τ ) = (2πC)3 f ∗ fp;1 + g∗ gp;1  ,	(41)
+where we have switched to the notation Λp to highlight that it depends only upon the modulus p. In a similar way
+Ξp(τ ) = (2πC)3 f ∗	p∗;2 − gp;1 p∗;2 .	(42)
+
+8
+
+From Eqs.(41) and (42) we can verify that
+|Λp(τ )| + |Ξp(τ )| = 1 ,	(43)
+where in the last step we have made use of the normalization condition (A3). We conclude this subsection by expressing the Bogoliubov coefficients in terms of the reduced functions φp, γp:
+Λp(τ ) = (2π)3 φ∗ φp;1 + γ∗ γp;1 
+Ξp(τ ) = (2π)3 φ∗	p∗;2 − γp;1 p∗;2 .	(44)
+
+Diagonality of the energy-momentum tensor
+
+Using the result (Eq.(44)), we can prove that Tµν is non-zero only when µ = ν. This result has the important consequence that Tµ can be interpreted as the energy-momentum tensor of a perfect fluid.
+We start by proving that Tτi = 0 for i = 1, 2, 3. Since we can always write Lτi(a, b) = piha,b(p) , (see Appendix C for details), each of the terms in the integrand of Eq. (32) is of the form piF(p) , with F(p) a function of p only. We therefore have an odd function of pi integrated over an even domain pi ∈ (−∞, +∞) and the integral vanishes:
+Tτi = 0 .	(45)
+The situation is similar for Tij with i = j and i, j = 1, 2, 3. In this case (see Eq.(C15) of appendix C), namely, Lij(a, b) = pipjla,b(p), implies that each term under the integral sign is of the form pipj (p) with (p) a function of p alone. It is clear that also in this case, the integral over the even domain (pi, pj) (  , + ) (  , + ) vanishes, yielding Tij = 0 for i = j. Notice that the same conclusion does not apply to Tii, since in this case the integrand is an even function p2 (p) of pi. It is easy to verify that Tii is the same for each i = 1, 2, 3,consistently with the isotropy of the underlying metric. Due to the manifest diagonality and isotropy of the energy-momentum tensor, there are really only two independent components of Tµν , i.e. Tττ and Tii for a given i. Alternatively one can consider the Tττ component and the trace Tµ, as by definition
+
+
+
+and then
+Tµ = gµν Tµν = C−2Tττ − 3C−2Tii
+
+
+Tii
+Tττ − C2Tµ
+
+/
+3
+
+,	(46)
+
+where no sum is intended over the index i and we have used the isotropy of Tµν .
+It is worth stressing that, as evident from the definition and the expression of the auxiliary tensor, Tµν depends only on the time coordinate τ and parametrically on the arbitrary fixed time τ0.
+We conclude the section by giving the explicit functional form of Tττ and Tµ. From Eqs.(32) and (44) we have
+Tττ [φp;j, γp;j] = 2iC−2 sin2 θ Σ ∫ d3p{|Ξp(τ0)|2
+× Σ φ∗ ∂τ φp;j + γ∗ ∂τ γp;j − ∂τ φ∗ φp;j − ∂τ γ∗ γp;j 
+
+j=1,2
++ 2i Im[Ξ∗(τ0)Λp(τ0) φ∗
+
+∂τ γ∗  − γ
+
+∂τ φ∗
+
+p
+— Ξ∗(τ0)Λ∗(τ0) φ∗
+p;1
+∂τ γ∗
+p;1
+γ
+p;1
+∂τ φ∗
+ ]}
+p;1
+
+— iC−2 Σ Σ ∫ d3p φ∗ ∂τ φp;j + γ∗ ∂τ γp;j − ∂τ φ∗ φp;j − ∂τ γ∗ γp;j ,
+
+
+
+and
+λ j=1,2
+
+(47)
+
+Tµ [φp;j, γp;j] = 4iC−3 sin2 θ Σ ∫ d3p{−i|Ξp(τ0)|2 Σ mj |φp;j|2 − |γp;j|2 
+
+λ
++ 2i Im im2Ξ∗(τ0)Λ∗(τ0)φ∗ γ∗
+j=1,2
+— im1Ξ (τ0)Λp(τ0)φ
+
+γ∗  }
+
+— 2C−3 Σ Σ mj ∫ d3p |φp;j|2 − |γp;j|2  .	(48)
+
+
+9
+
+Note that both the ττ component (47) and the trace (48) can also be seen as functionals of φp, ∂τ φp . In fact from Eqs.(15) we have
+i
+γp(η) = p (∂ηφp(η) + imC(η)φp(η))
+∂ γ (η) = i  ∂2φ (η) + im∂ C(η)φ (η) + imC(η)∂ φ (η)  ,	(49)
+
+which can be substituted in the expressions above for Tµν . From the diagonality of the expectation value it is also straightforward to prove its covariant conservation ∇µTµν = 0 (see the appendix E for the details).
+
+APPLICATIONS: EXPONENTIAL EXPANSION
+
+We have shown that independently of the specific scale factor C, the energy-momentum tensor associated to the flavor vacuum T(MIX) satisfies a number of important properties: (i) it is diagonal, (ii) it is covariantly conserved
+and (iii) depends only on time τ . Then T(MIX) for the metric (1) corresponds to the energy-momentum tensor of a perfect fluid with time-dependent energy density and pressure. In this section, in order to better understand the properties of T(MIX), we assume a specific evolution of the scale factor C and compute the corresponding expectation
+value of the energy-momentum tensor on the flavor vacuum. In doing so, we are neglecting the back-reaction due
+to the flavor fields, i.e., the modifications induced on the metric by the energy-momentum tensor of Eq. (26). The computation based on a fixed background metric is undoubtedly an approximation, but it is useful to get an insight into the kind of contribution that emerges from the flavor vacuum. The self-consistent way to deal with Tµν is to insert Eq. (26), together with all the relevant matter terms, on the right-hand side of the Einstein equations and then solve simultaneously for the scale factor C and the Dirac modes. This kind of calculation will be performed elsewhere.
+
+Positive energy solutions
+
+Here, in particular, we study the energy momentum-tensor corresponding to an exponential evolution of the scale factor C(t) = eH0 t, with H0 a constant with dimensions of mass. The great advantage of so-picked scale factor is that the corresponding Dirac equation can be solved analytically without resorting to any approximation, allowing for an
+in-depth analysis of T(MIX). Transforming to conformal time we have
+τ = −  1  e−H0 t ,	C = −  1  .	(50)
+H0	H0τ
+Notice that the conformal time τ is always negative. Inserting Eq. (50) in Eq. (16) we obtain
+
+
+τ 2∂2φp +
+p2τ 2 + im + m
+H0	2
+φp = 0 ,	(51)
+
+or, introducing the positive variable s = −pτ
+2 2	  2	im	m2 
+/
+/	/
+This is a Bessel-like equation, whose general solution can be written as
+1	1	2im 
+
+with Jν (s) denoting the Bessel function of order ν and C1, C2 arbitrary complex constants. In order to specify the solution we need to impose some kind of boundary conditions, which in turn determine the positive energy solutions. We require that the modes of Eq. (53) be positive energy with respect to ∂τ at early times, i.e. for τ → −∞ (where C → 0). With this choice the mass vacuum corresponds to the absence of massive neutrinos at early times. As τ → −∞ the mass terms can be neglected, and equation (51) becomes
+∂2φp + p2φp = 0 .	(54)
+
+10
+
+The positive energy solution with respect to ∂τ is evidently φ+ ∝ e−ipτ , or, in terms of the s variable, φ+(s) ∝ eis.
+We then impose the requirement lims→+∞ φp(s)	eis . Recalling that s is a positive real variable, we can employ the large argument expansion of the Bessel functions [57]
+J (s) ≃ r 2 cos s − νπ − π	for	s → +∞	(55)
+
+In this way, we show that the combination satisfying the requirement is given by
+φ (s) = N s 1  J (s) − ieπm J	(s) ≃ N r 2 (−ie πm ) cosh  πm  eis ,	(56)
+
+where Np is a normalization constant and the last equivalence holds in the limit s	+ . Inserting Eq.(56) in the first of the Eqs.(49), we deduce
+
+γ (s) = N s 1  −iJ	(s) + eπm J	(s)	(57)
+where we have made use of the differential relations satisfied by the Bessel functions [57]. In order to fix Np we impose the normalization condition (15) in the s → +∞ limit. Using the large argument expansion once again, we obtain
+2		1	 − πm
+
+|Np|
+=
+32π2 cosh2
+πm  e
+H0
+H0 . Finally, choosing Np real, we can write the positive energy solutions as
+
+1
+φp(s) =
+
+πm
+
+/
+e 2H0
+ 
+
+/
+s	πm
+/ Jν (s) − ie H0 J−ν (s)
+
+
+
+1
+γp(s) =
+πm
+e 2H0
+ 
+
+/
+s	πm
+/  −iJν−1(s) + e H0 J1−ν (s)
+
+(58)
+
+
+
+with ν = 1  1 − 2im  and s = −pτ .
+4π cosh πm	2
+0
+
+Bogoliubov Coefficients
+We have two sets of solutions φp,j, γp,j, one for each value of the mass mj, with j = 1, 2 from the equations (58). The compatibility requirement then implies that each of the φp,j, γp,j has the same form for j = 1, 2, except that one has mj wherever the mass appears, including the function index νj = 1 1 − 2imj  . We can compute the Bogoliubov
+
+πs	e
+π
+2H0
+(m1 +m2 )
+∗	∗
+πm1	∗	∗
+
+Λp(τ ) =
+/
+Jν (s)Jν (s) + Jν −1(s)Jν −1(s) + ie H0
+Jν −1(s)J1−ν (s) − Jν (s)J−ν (s)
+
+
+πm2  ∗	∗
+/
+
+
+π (m1 +m2 )  ∗
+∗	 )
+
+
+πs	e
+2
+
+π
+2H0
+1
+
+
+(m1 +m2 )
+2	1
+(	∗	∗
+2	1	2	1
+
+
+∗	∗	πm2	∗	∗	∗	∗
+/
+
+Ξp(τ ) =
+/
+i Jν (s)Jν −1(s) − Jν −1(s)Jν (s)
++ e H0
+Jν (s)J1−ν (s) + Jν −1(s)J−ν (s)
+
+πm1  ∗	∗	∗	∗	π (m1 +m2 )  ∗	∗	∗	∗	 )
+
+To give a flavor of the behaviour of the Bogoliubov coefficients we have plotted Ξp(s) 2 as a function of s for sample values of m1, m2 in figure (1).
+We shall be particularly interested in the late time expression of the Bogoliubov coefficients, namely for s → 0+ (the corresponding limit is τ → 0−, or t → +∞). For its determination we make use of the small argument expansion
+
+11
+
+0.05
+
+
+0.04
+
+
+0.03
+
+
+
+0.02
+
+
+0.01
+
+
+0.00
+0	5	10	15	20
+s
+
+FIG. 1. Squared modulus of the Bogoliubov coefficient |Ξp|2 as a function of s for sample values of the masses (all in units of H0): (black dotted line) m1 = 0.7, m2 = 1.4 , (red dashed line) m1 = 1, m2 = 2, (blue dotdashed line) m1 = 10, m2 = 20, (dark orange solid line), m1 = 100, m2 = 300. The momentum dependence is implicit in s = −pτ .
+
+
+
+
+of the Bessel functions J (s) ≃ s ν   1  with Γ denoting the Euler gamma function. From the Eqs.(59), it is easy
+to find that at the leading order for s → 0+ one has
+
+
+
+
+
+— π (m +m )
+ i, m2 −m1  log( s )
+−i, m2 −m1  log( s ) 
+
+Λp(s) ≃
+2 cosh
+
+πm1 H0
+cosh
+
+πm2 H0
+Γ∗(ν2)Γ(ν1)
++ e H0	1
+2
+Γ∗(1 − ν2)Γ(1 − ν1)
+
+— π (m +m )	 πm2 −i, m2 −m1  log( s )	πm1  i, m2 −m1  log( s ) 
+Ξp(s) ≃ 2	 πm	 πm  	Γ∗(ν )Γ∗(1 − ν )	−	Γ∗(1 − ν )Γ∗(ν )		(60)
+
+
+
+
+
+
+
+
+
+
+Explicit form of the energy-momentum tensor
+
+
+For the explicit calculation it is convenient to refer to the splitting of Eq.(32) and compute T(MIX) and T(N)
+separately. Moreover, keeping in mind the results of the previous sections, it is sufficient to compute the ττ component and the trace in order to fully determine Tµν . Inserting the solutions (58) in the Eq.(47) we find, after a lengthy but
+
+12
+
+
+straightforward calculation:
+Σ ∫
+/ /
+
+/
+
+
+
+2 2 3  Σ
+
+
+
+
+πmj	(         	∗
+/	/	//
+
+
+νj	ν∗
++	|Jν −1|
+πmj
++ ie H0
+2 J∗ J1−ν
++ J∗  Jν −1 + J∗
+J−ν
++ J∗	Jν	+
+∗
+j J∗ J−ν
+
+/
+s	j
+ν∗ − νj
+
+/
+/
+
+νj − ν∗
+
+/
+/	/
+νj	j
+
+/	//
+−νj	j
+
+ν∗ − νj
+
+/
+/
+νj −1
+ 
+
+/ /
+j	1−νj	j
+
+2πmj 
+/
+s	νj	j
+
+// / /
+
+ν∗	νj
++
+
+|J−ν |  +
+νj	ν∗
+|J1−ν |
+
+s	j	s
+Σ ∫	(
+j
+,	2 2
+
+
+
+3 − πm1
+/
+	∗
+
+i	2	3	∗
+
+
+H0 p τ e H0
+/
+
+//
+
+∗  2	∗
+2	2ν1 − 1 ∗  ∗
+/
+
+
+πm1
++ e H0
+2(J∗ J∗	− J
+J∗	) +
+2ν∗ − 1
+
+/
+J∗ J∗
+1	2ν∗
++	J∗
+
+
+
+
+2πm1 
+/
+
+ν1 −ν1
+
+/
+
+ν1 −1
+1−ν1	s
+2ν∗ − 1
+
+/
+
+ν1 1−ν1
+   
+
+/ //
+
+s	−ν1
+)
+
+/
+ν1 −1
+
+Σ ∫	(
+,	2 2
+
+3 − πm2
+	∗
+
+i	2	3	∗	∗
+
+
+H0 p τ e H0
+/
+
+//
+
+∗  2	∗
+2	2ν2 − 1 ∗  ∗
+/
+
+
+πm2
++ e H0
+2(J∗ J∗	− J
+J∗	) +
+2ν∗ − 1
+
+/
+J∗ J∗
+1	2ν∗
++	J∗
+
+
+
+
+2πm2 
+ν2 −ν2
+ν2 −1
+1−ν2	s
+2ν∗ − 1
+ν2 1−ν2
+   
+s	−ν2
+)
+ν2 −1
+
++ ie H0
+∗
+−ν2
+2	∗
+1−ν2
+)2 +	2
+s
+∗
+−ν2
+∗
+1−ν2
+— c.c.
+
+
+(61)
+
+In the above equation we have left the Bogoliubov coefficients implicit and the argument of the Bessel functions s = −pτ has been omitted for a better visualization. We recall that the helicity sum is over λ = ±1 and that in general τ /= τ0. An analogous calculation can be performed for the trace:
+
+T	Σ ∫
+iH3τ 3s
+Σ , mje −Hπm0 j
+
+µ(MIX) = i sin2 θ
+d3p|Ξp(τ0)|2	0
+		 
+|Jν | − |Jν −1|
+
+µ
+λ
+
+πmj   ∗
+8π2
+
+∗	∗
+j=1,2
+cosh2
+
+∗
+πmj H0
+ 
+j	j
+2πmj	2
+2 )
+
+j	j	j	j
+Σ ∫	(
+j	j	j
+,	3 3
+j	j	j
+πm1  
+
++ / sin θ
+d p Ξp(τ0)Λp(τ0) 
+/
+  iJν Jν −1 + e H0 Jν J1−ν
+
+πm1  ∗	∗	2πm1  ∗	∗	)
+/	/	/	/
+
+
+i	2 Σ ∫
+3 ( ∗
+∗	, im2sH3τ
+
+πm2
+e H0	∗  ∗
+
+
+πm2  ∗  ∗
+
+— / sin θ
+d p Ξp(τ0)Λp(τ0) 
+/
+	 
+/
+
+/
+iJν Jν −1 + e H0 Jν J1−ν
+
+πm2  ∗	∗	2πm2  ∗	∗	)
+
+We are particularly interested in the late time (τ 0−) expression of the above equations. According to the definition (26), these represent the contribution of the flavor vacuum state, defined at an earlier time τ0 < τ , to the energy-momentum tensor at late times. We then perform the small argument expansion J (−pτ ) ≃ −pτ ν   1  for all the
+
+13
+
+Bessel functions appearing in Eqs. (61) and (62), and keep only the terms of lowest order in the variable τ . At order
+τ , the ττ component is found to be
+T(MIX)(1)(τ ) ≃ i sin2 θ Σ ∫ d3p|Ξ (τ )|2  i H0τ  Σ m tanh  πmj 
+
+
+/
++ / sin2 2
+
+/
+θ Σ ∫
+
+
+
+d3p
+Ξ∗(τ0)Λp(τ0)
+
+/
+,	−im1H0τ
+ − c.c.
+
+i	2  Σ ∫	3  ∗	∗	,	−im2H0τ		
+/	/ /
+The corresponding lowest order in the trace is ∝ τ 3. To see why this is the case, recall that by definition
+
+3	3
+Tµ = C−2Tττ − C−2 Σ Tll = H2τ 2Tττ − H2τ 2 Σ Tll ,	(64)
+
+so that in correspondence with Tττ ∝ τ one has Tµ ∝ τ 3. To this order the trace is
+
+
+Tµ (MIX) (1)
+µ
+
+2 θ	d3p|Ξp(τ0)|2
+λ
+3 3
+0
+/
+2π3
+j=1,2
+
+mj tanh
+πmj H0
+
+i	Σ ∫	
+
+/	/
+,	−im1H τ		
+
+i	Σ ∫	
+,	−im2H τ		
+
+— / sin2 θ	d3p Ξ∗(τ0)Λ∗(τ0) 		  − c.c. .	(65)
+/	/
+
+Inserting Eqs. (63) and (65) in Eq. (46), we can deduce the important result T(MIX)(1) = 0 , i . In other words, at first order in τ , the spatial components of the energy-momentum tensor vanish. Then the equation of state reads, at lowest order in τ :
+Ti (MIX)(1)
+(1)	 i	
+τ (MIX)(1)
+τ
+i. e., the energy-momentum tensor associated to the flavor vacuum satisfies, at late times (τ 0−), the equation of state of a pressure-less perfect fluid. It is important to stress that this result does not depend on the value of the momentum integrals, and therefore is independent of any regularization. Moreover, as it is evident from (66) it holds for any choice of the reference time τ0.
+
+Regularization
+
+All the momentum integrals in the expression for the energy-momentum tensor, both for the general case and the for the late time approximation, are to be performed over the whole of R3 and are formally divergent. To extract a finite result, we need some form of regularization. The most immediate way to regularize the momentum integrations is to introduce an ultraviolet momentum cut-off	. Usually, the cut-off is chosen in correspondence with a ’new physics’ energy scale, beyond which the ’low energy’ quantum field theory description breaks down. In our case, ought to be related to the scale at which the semiclassical approximation breaks down, i. e., at the quantum gravity scale	Mpl which is of the order of the Planck mass Mpl. However, we can expect the cut-off to be at a much lower scale for what concerns the proper mixing term. Indeed, at very high energies, the mass difference between the neutrino states becomes negligible, and the oscillation frequency ∝	approaches zero, implying that there is no oscillation. The same result also holds in quantum field theory, where the mixing Bogoliubov coefficient Ξp generally approaches zero at high energies (therefore yielding no contribution to the energy-momentum tensor.). The heuristic argument above provides a physical reason to adopt the cut-off regularization and also justifies the adoption of a cut-off scale K ≪ Mpl, at least for what concerns the mixing.
+
+14
+
+Before proceeding we need to clarify that the cut-off must be imposed upon the comoving momentum pP HY S = p .
+rather than the mode label p.
+The imposition of a cut-off K0 on pP HY S then translates into a sort of ’comoving’ cutoff for the mode label p
+pCUT OF F = K0C = −K0 = K(τ ) ,	(67)
+
+which is strictly positive (recall that τ < 0). For the late time energy-momentum tensor, in the approximation in which τ0 < τ is also at late times τ0  0−, we can give a simple analytical form of the regularized integrals. Performing the integrals in Eqs. (63) and (65), with the comoving cut-off of Eq. (67), we obtain
+2	3	" π(m2 −m1 )	− π(m2 −m1 ) 
+
+ττ	=
+3π2
+cosh
+
+πm1 H0
+cosh
+
+πm2 H0
+m1 tanh
+0
++ m2 tanh
+0
+
+m1 tanh πm2 
+m2 tanh πm1 #
+" , m1 tanh πm1 + m2 tanh πm2 
+
+—	cosh
+
+2 πm1 H0
+   − 2
+cosh
+
+2 πm2 H0
++ sin
+θH0τ K (τ ) 
+cosh
+
+2 πm1 H0
+cosh
+
+2 πm2 H0
+
+1
+×	Γ(ν )Γ∗(ν )
+ 2 
+1
+3 + 2im2 −m1
+!  −K(τ )τ0
+
+/
+
+2i(m2 −m1 )
+H0
++ c.c.#
+
+1	2
+(" ,
+
+/
+H0
+−πm1	 
+
+ 2 
+
+!	 2i(m2 −m1 )
+
+2	3		−im1H0τe H0		1
+1	−K(τ )τ0	H0
+
++ i sin
+θK (τ )
+3 πm
+2 πm
+Γ(ν )Γ∗(ν )
+3 + 2im2 −m1	2
+
+,	−im1H0τe
+−πm1
+H0
+ 
+1	 2 
+1	! 
+−K(τ )τ0
+−2i(m2 −m1 )
+H0
+
+3  πm	2  πm	Γ∗(ν )Γ(ν )
+3 − 2im2 −m1	2
+c.c.
+
+2	3	(" ,	−im2H0τe
+−πm2
+H0
+ 
+1	 2	1	! 
+2i(m2 −m1 )
+−K(τ )τ0	H0
+
+i sin
+θK (τ )
+3 πm
+2 πm
+Γ(ν )Γ∗(ν )
+3 + 2im2 −m1	2
+
+,	−im2H0τe
+−πm2
+H0
+ 
+1	 2 
+1	! 
+−K(τ )τ0
+−2i(m2 −m1 )
+H0
+
+—	3 πm
+2 πm
+Γ∗(ν )Γ(ν )
+3 − 2im2 −m1	2
+— c.c.
+
+.	(68)
+The trace can be deduced immediately from Eq. (68) by simply multiplying by the factor C−2, since the pressure is zero for the late time energy momentum tensor (see Eq. (66)).
+A visual indication of the physical content of Eq. (68) is provided in Figure (2), where the mixing energy density
+Tτ (MIX) from equation (68) is plotted against conformal time τ for sample values of the parameters. We notice that ρMIX , for the parameters and the range considered in Figure (2), is nearly constant, except for tiny oscillations of relative magnitude δρMIX/ρMIX 10−9. The oscillations come from the imaginary exponentials in Eq. (68). Such a simple evolution pattern can be expected to disappear when other time ranges are considered, and the full expression from Eq. (61) is employed, entailing a much more intricate time evolution. The results obtained in this work indicate that the vacuum energy associate to neutrino mixing in curved space might represent a dark matter component. Notice that for a momentum cutoff of the order of the electroweak scale K0 = 246 GeV, for neutrino
+masses m , m such that ∆m2 ≃ 10	eV  and for a value of H ≃ 10	eV, we obtain an energy density T
+which is compatible with the upper bound on the dark matter content of the universe. A value of H0	10−3eV might have been reached during the very early phases of the Universe, i.e. during the first second after the Big Bang.
+
+CONCLUSIONS
+
+In this paper we have considered the quantum field theory of fermion mixing on curved spacetime and we have computed the expectation value T(MIX) of the energy-momentum tensor of fermion fields on the flavor vacuum in a
+flat FLRW background. T(MIX) behaves as an effective energy-momentum tensor, that satisfies the Bianchi identities (i.e. its divergence with respect to one of the two indices vanishes) and therefore can be employed as a regular source
+
+15
+
+
+
+
+
+2.9516625970000 × 10-47
+t (1/H)
+225.65	221.05	216.44
+
+
+2.9516625965000 × 10-47
+
+2.9516625960000 × 10-47
+
+2.9516625955000 × 10-47
+
+2.9516625950000 × 10-47
+
+2.9516625945000 × 10-47
+10-99	10-98	10-97	10-96	10-95	10-94	10-93
+-η (1/H)
+
+FIG. 2. Logarithmic scale plot of the energy density ρMIX = Tτ (MIX) from Eq. (68) as a function of conformal time τ for sample values of the parameters. The corresponding coordinate time t is reported above. We have used a cut-off K0 = 246 GeV of the order of the electroweak scale, neutrino masses m1 = 15.25H0 , m2 = 22.25H0 and the expansion rate H0 = 10−3eV.
+
+
+
+
+
+
+for the Einstein equations. In particular, it turns out that T(MIX) can be interpreted as the energy-momentum tensor
+of a barotropic fluid.
+
+
+In this picture, therefore, quantum effects of the fermion fields can be associated, at classical level, to additional barotropic fluids whose thermodynamical properties depend on the geometry of the spacetime other than the specific features of the the fermion field itself. In light of the matter field interpretation of the dark components of the Universe this result seems quite encouraging, as it links directly quantum effects to effective classical fluids. Thus our results show explicitly that there can be a bridge between quantum properties of matter and dark matter/energy. However, the presence of a connection between classical fluids and quantum effect is not automatically sufficient alone to conclude that quantum effects are the prime cause of dark matter/energy. In any case, our findings provide an indication that the vacuum energy associated to neutrino mixing can represent a component of dark matter.
+
+
+Here we are specifically interested in determining the form that the energy–momentum tensor, associated to flavor vacuum, assumes in cosmological FLRW metrics. In order to grasp the behaviour of the energy–momentum tensor of the flavor vacuum, we have then assumed a specific form of the metric. In doing so, we have clearly considered that the term due to the flavor vacuum is not the dominant source of the Einstein equations, which are instead determined by some other source that forces the specific form of the metric.
+
+
+In particular, considering a de Sitter underlying metric, we have derived the components of T(MIX) exactly using Bessel functions. It turns out that at first order in the time parameter only T(MIX) is different form zero. Hence, in this case the mixing of fermion fields can be associated to a zero pressure (dust or cold dark matter) fluid. We
+remark that the choice of the de Sitter metric is dictated, primarily, by the fact that exact analytical solutions of
+the Dirac equation can be found in this context. The actual identification of such a contribution as a dark matter component requires that the study be conducted on metrics that are adequate to the description of galaxies. Such an analysis will be performed in a forthcoming paper, where we will also consider the contribution due to the flavor vacuum as the dominant source in the Einstein equations. Nevertheless, the results presented here clearly hint at a dark–matter–like behaviour of the flavor vacuum in curved background.
+
+16
+
+Appendix A: Orthonormality and completeness of the solution of Dirac equation
+
+Knowing that the determinant is g = −C8, we can easily compute the scalar product between the solutions (8):
+
+(up,λ, uq,λ′ )τ =	d3xC3u†  uq,λ′
+Στ
+= ∫	d3xC3e−i(p−q)·xξ† ξλ′  f ∗fq + λλ′g∗gq 
+= (2π)3C3δ3(p − q)δλ,λ′  |fp|2 + |gp|2	.	(A1)
+In the last step we have used the definition of the Dirac delta function and the orthonormality of the helicity bispinors.
+In a similar way it is easy to show that (up,λ, vq,λ′ )τ = 0, (vp,λ, uq,λ′ )τ = 0 and
+(vp,λ, vq,λ′ )τ = (2π)3C3δ3(p − q)δλ,λ′ |fp|2 + |gp|2	.	(A2) Eqs.(A1) and (A2) suggest that we adopt the following normalization:
+
+|fp|
++ |gp|
+1
+
+=	3	(A3)
+(2πC)
+
+in order that the orthonormality of the solutions is satisfied. The set of solutions (8) is complete:
+Σ	†	†	Σ  fpξλ	†	†	  g∗ξλ	†	† 
+/	/ /	/	/	/	/	/
+Σ	†  |fp|2 + |gp|2	0
+/	/
+= 	1	  I 0  .	(A4)
+
+
+In the last step we have used the completeness of the helicity basis the normalization condition (A3).
+ξλξ† = I, with I the 2 × 2 identity matrix, and
+
+
+
+Appendix B: Properties of helicity eigenbispinors
+
+We prove that for each λ = ±1 the quantity ξ† (pˆ)σiξλ(pˆ) is an odd function of pi, for i = 1, 2, 3. In particular,
+ξ† (pˆ)σiξλ(pˆ) changes sign when the momentum is reversed p → −p.
+Proof: The statement can be proven by direct calculation. For the λ = +1 case, we have
+
+/
+
+ξ† σ ξ =
+φp
+2 cos
+φp
+2 sin
+2	/
+  
+/ /
+
+= cos  θp  sin  θp  eiφp + e−iφp  = sin(θ ) cos(φ ) = p1
+
+(B1)
+
+
+/
+
+ξ† σ ξ =
+φp
+2 cos
+φp
+2 sin
+0 −i  	 
+/ /
+
+= cos θp  sin θp  ie−iφp − ieiφp = sin(θ ) sin(φ ) = p2
+
+(B2)
+
+
+/
+
+ξ† σ ξ =
+φp
+2 cos
+φp
+2 sin
+2	/
+/	 
+
+
+
+= cos2( θp ) − sin2( θp ) = cos(θ ) = p3
+(B3)
+
+
+
+similarly, for the λ = −1 case we have
+
+
+ 
+17
+
+
+
+ , e−iφp sin θp  
+
+ξ† σ ξ =
+φp
+2 sin
+φp
+−e	2 cos
+2	/
+ 
+/ /
+
+
+= − cos θp  sin θp  eiφp + e−iφp = − sin(θ ) cos(φ ) = −p1
+
+(B4)
+
+
+/
+
+ξ† σ ξ =
+φp
+2 sin
+φp
+−e	2 cos
+0 −i  	/ 
+/ /
+
+
+= − cos θp  sin θp  ie−iφp − ieiφp = − sin(θ ) sin(φ ) = −p2
+
+(B5)
+
+
+/
+
+ξ† σ ξ =
+φp
+2 sin
+φp
+−e	2 cos
+2	/
+ 
+// /
+
+= − cos2( θp ) + sin2( θp ) = − cos(θ ) = −p3
+.	(B6)
+
+
+
+This result can be summarized in the equation
+
+
+ξ† σξλ
+λp
+=	.	(B7)
+p
+
+
+
+
+
+
+Appendix C: The Auxiliary Tensor
+
+This Appendix is devoted to exploring the properties of the auxiliary tensor
+
+Lµν (A, B) = A¯γ˜µ(x)Dν B + A¯γ˜ν (x)DµB − DµA¯γ˜ν (x)B − Dν A¯γ˜µ(x)B .	(C1)
+
+
+The first property is obvious from the definition: Lµν (A, B) = Lνµ(A, B) for any A, B. The second property can be seen at once by comparing the definition (C1) with the form of the energy-momentum tensor (5). Since Tµν is real, we immediately deduce that Lµν (A, A) is pure imaginary for each solution A. The third property can be easily deduced by tracing the definition:
+
+Lµ(A, B) = gµν Lµν (A, B) = 2 A¯γ˜µ(x)DµB − DµA¯γ˜µ(x)B = −4imA¯B	(C2)
+
+
+where we have used the Dirac equation and its adjoint in the last step. Next we give a more explicit form for Lττ (A, B). Given the expression of the γ˜µ matrices we have
+
+
+Lττ (A, B) = 2 A¯γ˜τ (x)Dτ B	Dτ A¯γ˜τ (x)B = 2C A¯γ0∂τ B	∂τ A¯γ0B
+= 2C A†∂τ B − ∂τ A†B  .	(C3)
+
+18
+
+In particular we are interested in the auxiliary tensors Lττ (u(v), u(v)) and the traces Lµ(u(v), u(v))computed on the
+
+solutions (8). For the traces we have
+
+Lµ(up,λ, up,λ) = −4imu¯p,λup,λ = −4imu†
+
+
+
+γ0up,λ
+
+µ
+
+= −4im f ∗ξ†
+p,λ
+g∗λξ†   I  0   fpξλ 
+
+= −4im(|fp|2 − |gp|2) = −4imC−3 |φp|2 − |γp|2	(C4)
+
+
+Lµ(up,λ, vp,λ) = −4imu¯p,λvp,λ = −4imu†
+γ0vp,λ
+
+µ	p,λ
+†	†   I  0    g∗ξλ
+/ /	/	/	/	/
+
+
+= −8imf ∗g∗ = −8imC−3φ∗γ∗
+(C5)
+
+
+
+Lµ(vp,λ, up,λ) = −4imv¯p,λup,λ = −4imv†
+γ0up,λ
+
+µ
+
+= −4im g ξ†
+p,λ
+−f λξ†  I  0   fpξλ 
+
+
+−3
+= −8imfpgp = −8imC	φpγp
+= − Lµ(u
+
+p,λ
+
+, vp,λ
+) ∗	(C6)
+
+
+
+Lµ(vp,λ, vp,λ) = −4imv¯p,λvp,λ = −4imv†
+γ0vp,λ
+
+µ	p,λ
+†	†  I  0    g∗ξλ
+/	/	/
+= −4im(|gp|2 − |fp|2) = −4imC−3 |γp|2 − |φp|2
+= −Lµ(up,λ, up,λ) .	(C7)
+
+
+We then compute the ττ components
+Lττ (up,λ, up,λ) = 2C hu†  ∂τ up,λ − ∂τ u†
+
+
+up,λi
+
+
+= 2C  f ∗ξ†
+g∗λξ†   ∂τ fpξλ  − ∂τ f ∗ξ†
+∂τ g∗λξ†   fpξλ 
+
+
+/	/	/	/
+= 2C−2 φ∗∂τ φp − ∂τ φ∗φp + γ∗∂τ γp − ∂τ γ∗γp	(C8)
+
+Lττ (up,λ, vp,λ) = 2C hu†  ∂τ vp,λ − ∂τ u†
+vp,λi
+
+
+= 2C	f ∗ξ†
+
+g∗λξ
+†   ∂τ g∗ξλ
+
+— ∂ f ∗ξ
+
+∂ g∗λξ
+†    g∗ξλ
+
+p λ	p	λ
+−∂τ fp λξλ
+τ p λ
+τ p	λ
+−fp λξλ
+
+
+/	/	/ /	/	/	/ /
+= 4C−2 φ∗∂τ γ∗ − γ∗∂τ φ∗	(C9)
+
+Lττ (vp,λ, up,λ) = − (Lττ (up,λ, vp,λ))∗	(C10)
+
+Lττ (vp,λ, vp,λ) = −Lττ (up,λ, up,λ) .	(C11)
+
+Notice that as a consequence Lττ (up,λ, vp,λ) = 0 if and only if γp φp. This is the case, for instance, in Minkowski spacetime, where φp γp e−iωpt. For a general C, the proportionality does not hold, and this has dramatic consequences on the vacuum of the theory (eventually leading to particle creation).
+In addition one can show that Lτi(u(v), u(v)) is an odd function of the momentum p and that Lij(u(v), u(v)) is an
+
+19
+
+odd function with respect to both pi and pj. The proof requires a lengthy but straightforward calculation:
+Lτi(up,λ, up,λ) = u¯p,λγ˜τ Diup,λ + u¯p,λγ˜iDτ up,λ − Diu¯p,λγ˜τ up,λ − Dτ u¯p,λγ˜iup,λ
+
+
+= Cu†
+
+1 A,B [γ , γ ]  u	− Cu
+
+γ0γi∂ u
+
+
+
+†	0	†  γ0  A,B	0
+/
+
+†	0 i
+
+
+= Cu†   ip + ∂τ C  0  σi   u	− Cu	  0 σi ∂ u
+— Cu	 −ip + ∂τ C  0 σi  u	+ C∂ u†   0  σi  u
+
+= 2ipiCu†  up,λ + C ∂τ u†   0 σi  up,λ − u†   0 σi  ∂τ up,λ 
+
+= 2ipiC |fp|2 + |gp|2 + Cλ ∂τ f ∗gp + ∂τ g∗fp − f ∗∂τ gp − g∗∂τ fp ξ† σiξλ
+
+= p	i	+ λ C ∂ f ∗g + ∂ g∗f − c.c.   .	(C12)
+
+In the last step, we have made use of the normalization condition (A3) and the property
+(B7). As it is evident from Eq.(C12), each γ˜i factor and each spatial derivative ∂i brings along a factor pi. Then for each a, b = up,λ, vp,λ one has
+Lτi(a, b) = piha,b(p) ,	(C13)
+with ha,b(p) a function of the modulus p alone. In particular
+Lτi(up,λ, vp,λ) = 0 .	(C14)
+Similarly, for each a, b = up,λ, vp,λ
+Lij(a, b) = pipjla,b(p) ,	(C15)
+with la,b(p) a function of the modulus p alone.
+
+
+Appendix D: Canonical anticommutation relations
+
+Demonstration of the canonical anticommutation relations (19)
+
+
+{ψA(τ, x), πψB(τ, x′)} = iC3 Σ ∫ d3p ∫ d3q h{Ap,λ, A†
+
+′	up,λu† ′
+AB
+
+†
+−p,λ
+
+, B−q,λ′	vp,λv†  ′
+AB
+
+λ,λ′
+= iC3 Σ ∫ d3p h up,λ(τ, x)u†
+
+(τ, x′)
+AB
+
++ vp,λ(τ, x)v†
+
+(τ, x′)
+AB
+
+= iC3 Σ ∫ d3pe p x x′ h u	(τ, 0)u†  (τ, 0)	+  v	(τ, 0)v†  (τ, 0)	i
+/	/
+= iC3 	1	 δ	∫ d3pe p x x′
+= iδABδ3(x − x′) .	(D1)
+In the fourth step we have made use of the completeness relation (Eq.(A4)), writing the 4 4 identity matrix explicitly as δAB.
+
+20
+
+Appendix E: Conservation of the energy–momentum tensor
+
+In this appendix we prove explicitly the covariant conservation of the energy momentum tensor associated to the flavor vacuum. We show that
+∇µTµν = 0	(E1)
+with ∇  denoting the covariant derivative. There is no need here to distinguish between T(MIX) and T(N), since both
+satisfy eq. (E1), and so does the full energy-momentum tensor. Preliminarly we derive the connection coefficients for the metric of eq. (1). It is easy to see from the definition that the only non vanishing coefficients are
+
+
+τ	τ
+ττ	ii
+i	i	C˙
+τi	iτ = C
+.	(E2)
+
+Here the dot denotes the derivative with respect to conformal time τ and no sum is intended over repeated indices. Notice that the coefficients depend only on τ . In terms of the connection coefficients, the covariant divergence reads
+
+∇µTµν = ∂µTµν + Γµ
+Tσν	ν µσ
+Tµσ .	(E3)
+
+(ν = i) For ν = i, with i = 1, 2, 3 equation (E3) becomes
+∇µTµi = ∂µTµi + Γµ
+Tσi	i
+µσ
+Tµσ .	(E4)
+
+From the diagonality of Tµν proved above, we can write
+∇µTµi = ∂iTii + Σ Γµ Tii + Σ Γi
+
+
+
+Tµµ ,	(E5)
+
+where no sum is intended over repeated indices and the summations are written out explicitly to avoid confusion. The first term on the right hand side of eq. (E5) is zero, since Tµν depends only on τ . Similarly, from eq. (E2)
+we know that Γµ = 0 = Γi	for each µ = 0, 1, 2, 3 and each i = 1, 2, 3, so that also the second and the third
+term on the right hand side of eq. (E5) vanish. Then
+∇µTµi = 0	∀i .	(E6)
+(ν = τ ) Only a slightly longer calculation is needed to prove the statement for ν = τ . Starting from equation (E3) we have
+
+
+∇µTµτ = ∂µTµτ + Γµ
+
+Γστ + Γτ
+
+Tµσ
+
+
+= ∂τ Tττ +  Γτ
++ Σ Γi ! Tττ + Γτ
+
+/
+
+Tττ + Σ Γτ Tii
+
+/
+
+
+= ∂τ Tττ + 5Γτ
+Tττ + 3Γτ
+Tii ,	(E7)
+
+where we have used the diagonality of Tµν and eqs. (E2). For our purposes it is convenient to rewrite eq. (E7) in terms of Tττ and the trace Tµ. To this end we employ eqs. (46), (E2) and lower the indices through the
+metric of eq. (1), obtaining:
+∇µTµτ = ∂τ C−4Tττ  + 6C−5C˙ Tττ − C−3C˙ Tµ .	(E8)
+From equation (32), we know that each of the terms above is the integral of the auxiliary tensor components Lττ , Lµ weighted by τ -independent coefficients (recall that the Bogoliubov coefficients are evaluated at a fixed time τ0). It is therefore sufficient to prove that
+∂τ C−4Lττ (a, b) + 6C−5C˙ Lττ (a, b) − C−3C˙ Lµ(a, b) = 0	(E9)
+for each a, b = up,λ;j, vp,λ;j, to show that the divergence (E8) vanishes. To this end we need the second order equations
+∂2φp;j = − imjC˙ + p2 + m2C2 φp;j
+∂2γp;j = − −imjC˙ + p2 + m2C2 γp;j .	(E10)
+
+21
+
+The first of this equations is simply eq. (16), and the second can be likewise deduced from the system (15). For
+Lµν (up,λ;j, up,λ;j) we have, using the properties of the auxiliary tensor
+∂τ  C−4Lττ (up,λ;j, up,λ;j )  + 6C−5C˙ Lττ (up,λ;j, up,λ;j ) − C−3C˙ Lµ(up,λ;j, up,λ;j ) =
+
+2∂τ hC−6  φ∗
+←∂→τ φp;j + γ∗
+←∂→τ γp;j i + 12C−7C˙ φ∗
+←∂→τ φp;j + γ∗
+←∂→τ γp;j 
+
+
+
+
+2C−6∂τ  φ∗
+←∂→τ φp;j + γ∗
+←∂→τ γp;j  + 4imjC−6C˙  |φp;j|2 − |γp;j|2  =
+
+2C−6 φ∗
+∂2φp;j − φp;j∂2φ∗  + γ∗ ∂2γp;j − γp;j∂2γ∗
+ + 4imjC−6C˙  |φp;j|2 − |γp;j|2  =
+
+2C−6nφ∗
+h− imjC˙ + p2 + m2C2 i φp;j − φ∗
+h− −imjC˙ + p2 + m2C2 i φp;j
+
+∗
+p;j
+h− −imjC˙ + p2 + m2C2 i γp;j − φ∗
+h− imjC˙ + p2 + m2C2 i γp;j,
+
++4imj C−6C˙	φp;j 2	γp;j 2 =
+2C−6 n|φp;j|2  −2imjC˙  + |γp;j|2  2imjC˙  , 4imjC−6C˙  |φp;j|2 − |γp;j|2  =
+−4imjC−6C˙  |φp;j|2 − |γp;j|2  + 4imjC−6C˙  |φp;j|2 − |γp;j|2  = 0 .
+
+In the fourth step we have used the equations (E10) and their complex conjugates, and the τ argument of the functions has been suppressed for notational simplicity. Note that from the properties Lττ (vp,λ;j, vp,λ;j) =
+µ	µ
+Lττ (up,λ;j, up,λ;j) and Lµ(vp,λ;j, vp,λ;j) =	Lµ(up,λ;j, up,λ;j) the same relation is satisfied by the components
+of Lµν (vp,λ;j, vp,λ;j). Similarly one has
+∂τ  C−4Lττ (up,λ;j, vp,λ;j )  + 6C−5C˙ Lττ (up,λ;j, vp,λ;j ) − C−3C˙ Lµ(up,λ;j, vp,λ;j ) =
+
+∂τ  4C−6φ∗
+←∂→τ γ∗
+ + 24C−7C˙  4C−6φ∗
+←∂→τ γ∗
+  + 8imjC−6C˙ φ∗
+
+p;j =
+
+4C−6∂τ  C−6φ∗
+←∂→τ γ∗
+  + 8imjC−6C˙ φ∗
+
+p;j =
+
+4 φ∗
+∂2γ∗  − γ
+∂2φ∗
+ + 8imjC−6C˙ φ∗ γ∗ =
+
+4C−6 nφ∗
+h− imjC˙ + p2 + m2C2 i γ∗
+
+— φp;j
+h− −imjC˙ + p2 + m2C2 i γ∗ ,
+
++8imjC−6C˙ φ∗
+−8imjC−6C˙ φ∗
+∗
+p;j
+∗
+p;j
+=
++ +8imjC−6C˙ φ∗
+
+
+∗
+p;j
+
+= 0 .
+
+In the fourth step we have used the complex conjugates of eqs.	(E10).	Finally, due to the properties
+
+Lττ (vp,λ;j, up,λ;j ) = −L∗
+(up,λ;j, vp,λ;j) and Lµ(vp,λ;j, up,λ;j) = −Lµ∗(up,λ;j, vp,λ;j), the same relation is satisfied
+
+by the components of Lµν (vp,λ;j, up,λ;j). This is sufficient to prove the statement for ν = τ .
+
+
+
+P. de Bernardis et al., Nature, 404, 955 (2000).
+D.N. Spergel et al. ApJS, 148, 175 (2003).
+S. Dodelson et al., ApJ, 572, 140 (2002).
+A.S. Szalay et al., ApJ, 591, 1 (2003).
+Durrer, R., Maartens, R. (2008). General Relativity and Gravitation, 40(2-3), 301-328.
+P. J. E. Peebles and B. Ratra, Rev. Mod. Phys. 75, 559 (2003).
+A.G. Riess et al., ApJ, 607, 665 (2004).
+V. Trimble, Annual Review of Astronomy and Astrophysics 25.1, pp. 425–472 (1987).
+E. Corbelli and P. Salucci, Monthly Notices of the Royal Astronomical Society 311.2, pp. 441-447 (Jan. 2000).
+V. C. Rubin, Jr. Ford W. K., Astrophysical Journal 159, p. 379 (Feb. 1970).
+V. C. Rubin, Jr. Ford W. K. and N. Thonnard, Astrophysical Journal 238, pp. 471–487 (June 1980).
+D. Clowe et al., ApJ 649, 2 (2006).
+N. Aghanim et al., A & A 641, A6 (2020).
+A. Joyce et al., Phys. Rep. 568, pp. 1–98 (2015).
+
+22
+
+G. Bertone, D. Hooper, J. Silk, Phys. Rep. 405, issues 5–6, pp. 279–390 (2005).
+P. F. de Salas and A. Widmark, Rep. Prog. Phys. 84, 104901 (2021).
+G. Bertone and D. Hooper, “History of dark matter”, Rev. Mod. Phys. 90, 045002 (2018).
+L. Bergstro¨m, Rep. Prog. Phys. 63, 793 (2000).
+L. Roszkowski, E. M. Sessolo and S. Trojanowski, Rep. Prog. Phys. 81, 066201 (2018).
+M. Klasen, M. Pohl and G. Sigl, Prog. Part. Nucl. Phys. 85, pp. 1–32 (2015).
+J. Conrad and O. Reimer, Nat. Phys. 13, 224 (2017).
+M. Schumann, J. Phys. G: Nucl. Part. Phys. 46, 103003 (2019).
+A. Berlin, Phys. Rev. Lett. 117, 231801 (2016).
+L. Necib, M. Lisanti and V. Belokurov, Astrophys. J 874, 3 (2019).
+F. Mayet et al., Phys. Rep. 627, 1 (2016).
+R. D. Peccei and H. R. Quinn, Phys. Rev. D 16, pp. 1791-1797 (1977).
+A. Arvanitaki et al., Phys. Rev. D 81 (2010)
+G. Raffelt, Stars as Laboratories for Fundamental Physics, University of Chicago Press, Chicago, ill, USA, 1996.
+G. G. Raffelt, “Astrophysical axion bounds”, in Axions, Lecture Notes in Physics Vol. 741, pp. 51–71, Springer, Berlin, Germany, 2008.
+A. Capolupo, G. Lambiase, A. Quaranta, S. M. Giampaolo, Phys. Lett. B 804, 135407 (2020).
+I. De Martino, T. Broadhurst, S. H. H. Tye, T. Chiueh, H.Y. Schive, R. Lazkoz, Phys. Rev. Lett. 119 (22), 221103 (2017).
+A. Capolupo, I. De Martino, G. Lambiase and An. Stabile, Phys. Lett. B 790, pp. 427–435 (2019).
+I. De Martino, T. Broadhurst, S. H. H. Tye, T. Chiueh, H. Y. Schive, R. Lazkoz, Galaxies 6 (1), 10 (2018).
+A. Capolupo, S. M. Giampaolo, A. Quaranta, “Neutron interferometry and axionlike particles”, arXiv:2102.13206v1 [hep-ph] (2021).
+S. Aune et al., Phys. Rev. Lett. 107, no. 26, article ID 261302 (2011).
+A. Capolupo, G. Lambiase, G. Vitiello, Adv. High En. Phys., 2015, 826051, 7 pages (2015).
+G. Jungman, M. Kamionkowski and K. Griest, Phys. Rep. 267.5, pp. 195–373 (1996).
+S. Clesse and J. Garcia–Bellido, Phys. Dark Univ. 22, pp. 137–146 (2018).
+A. Capolupo, Adv. High En. Phys. 2018, 9840351 (2018).
+A. Capolupo, Adv. High En. Phys. 2016, 8089142 (2016).
+A. Capolupo, S. Capozziello, G. Vitiello, Phys. Lett. A 373, pp. 601–610 (2009).
+A. Capolupo, S. Capozziello, G. Vitiello, Phys. Lett. A 363, 53 (2007).
+M. Blasone, A. Capolupo, S. Capozziello, S. Carloni, G. Vitiello, Phys. Lett. A 323, pp. 182–189 (2004).
+W. Buchmu¨ller, Neutrinos, Grand Unification and Leptogenesis, arXiv:hep-ph/0204288v2 (2002).
+M. Tanabashi et al. (Particle Data Group), Neutrinos in Cosmology, Phys. Rev. D 98, 030001 (2018).
+M.G. Betti et al. (PTOLEMY collaboration), JCAP 07, 047 (2019).
+D. B. Kaplan, A. E. Nelson, N. Weiner, Phys. Rev. Lett. 93, 091801 (2004); R. Fardon, A. E. Nelson, N. Weiner, JCAP 10, 005 (2004).
+A. Capolupo, G. Lambiase, A. Quaranta Phys. Rev. D, 101, 095022 (2020).
+Y. Grossman and H. J. Lipkin, Phys. Rev. D 55, 2760 (1997).
+D. Piriz, M. Roy and J. Wudka, Phys. Rev. D 54, 1587 (1996).
+C. Y. Cardall and G. M. Fuller, Phys. Rev. D 55, 7960 (1997).
+L. Buoninfante, G. G. Luciano, L. Petruzziello and L. Smaldone, Phys. Rev. D 101, 024016 (2020).
+L. Parker, Phys. Rev. 183, 1057 (1969) and Phys. Rev. D 3, 346 (1971).
+N. D. Birrell and P. C. Davies, “Quantum fields in curved space”, Cambridge University Press (1982).
+L. H. Ford, “Quantum field theory in curved space–time”, 9th Jorge Andre Swieca Summer School: Particles and Fields, arXiv gr-qc/9707062, pp. 345–388 (1997)
+L. Parker and D. Toms, “Quantum field theory in curved spacetime: quantized fields and gravity”, Cambridge University Press (2009).
+M. Abramowitz and I. A. Stegun, Handbook Of Mathematical Functions, Dover Publications Inc., New York, ISBN-13: 978-0-486-61272-0.
+
+
+
+
+Page | 1
+
+
+
+
+The opening pages of this paper revisit and build upon the foundational assumptions from my earlier works on gravity.
+As readers delve deeper, they will find these concepts expanded with robust mathematical and physical evidence, ultimately supporting the idea that gravity and gravitational waves are fundamentally rooted in an energy-based framework.
+This article serves as a gateway to another fascinating topic in quantum research: “quantum chemistry.” (Reference : ZENODO / DOI 10.5281/zenodo.13336683)
+Both papers unveil new insights and guide researchers on a deeper journey into the quantum world, revealing many unexplored paths.
+
+
+
+
+QUANTUM GRAVITY
+BRIDGING THE GAP BETWEEN NEWTONIAN GRAVITY EINSTEIN’S FIELD EQUATIONS ON GRAVITY
+AND QUANTUM MECHANICS
+October 12, 2024 – IdRc. Guido KINET guido.kinet@telenet.be
+
+Page | 2
+
+
+Extra pages 41 through 52
+GOING FOR A DEEPER UNDERSTANDING
+September 16, 2025
+
+INTRODUCTION
+
+
+From Newton’s law of universal gravitation to Einstein’s theory of general relativity, our understanding of gravity has evolved significantly. However, despite these advancements, the true nature of gravity remains elusive. The aim of this research paper is to put forward a new view on gravity that has the potential to unite classical and quantum perspectives by exploring the concept of gravity as an energy trap.
+
+This approach not only questions current paradigms but also provides a novel framework for comprehending gravitational interactions on both large and small scales. The potential results suggest that gravity is based on an energy framework, leading to a deeper insight into the universe’s structure, the behavior of black holes, and the integration of gravity with other fundamental forces.
+It helps to bridge the gap between general relativity and quantum mechanics, leading to a unified theory of quantum gravity which has been a major goal in physics for decades.
+It will reshape our understanding of the early universe, including the Big Bang and cosmic inflation. It might also offer new explanations for dark matter and dark energy, which are currently among the biggest mysteries in cosmology.
+The detection and analysis of gravitational waves takes on new significance, offering more detailed information about the energy dynamics of massive objects.
+A deeper understanding of gravity will also lead to new technologies, potentially in energy generation and propulsion systems which will have far-reaching implications for space travel and energy sustainability.
+These changes will not only advance our theoretical knowledge but will also have practical applications, driving innovation and new discoveries across various fields of science and technology.
+
+
+
+
+
+Page | 3
+
+A DIVE INTO THE WORLD OF THE SMALLEST
+
+
+
+To uncover the true nature of gravity, it is essential to understand the essence of quantum mechanics and it all starts with the search where the elementary particles originate from.
+In quantum mechanics, an elementary particle is a subatomic particle that is not composed of other particles. These particles are the fundamental building blocks of matter and energy.
+The nature of elementary particles and how they interact with the environment starts with the birth of the cosmos. In order to make things as clear as possible, it is necessary to go back to the very beginning of “our” universe.
+
+An immeasurably long period of time ago, huge amounts of matter dwelling in the vastness of the cosmos came so close together under the influence of their own gravity that at some point the resulting mass became so dense that a gravitational collapse occurred, releasing an unthinkable amount of energy.
+
+
+Page | 4
+
+
+
+/
+
+In those first moments after the gravitational collapse, at that very early stage, an unthinkable amount of gravitational potential energy was released, and even at that moment the laws of physics applied as energy and matter were already intertwined (E = mc2 the initial outcome, which was bound to lead to m = E/c2 ) so that inevitably the first small entities (an entity is an essentiality, something that really exists) with Planck length began to form, the starting point of our universe and life itself.
+
+These entities being the smallest things in existence … energy transforming into the one-dimensional vibrating precursors of space at the scale of the Planck length. These vibrational entities are the basis of quantum fields which in turn are the source of the elementary particles where each type of elementary particle corresponds to a specific vibrational mode of these entities.
+This provides a physical foundation for the fields, their excitations, leading to a unified description of particles and forces.
+
+It points to the fact that the fundamental particles and forces we observe today have originated from the energy released during ancient gravitational collapses. This provides a novel perspective on the origin of the universe’s fundamental constituents.
+Incorporating this idea into quantum gravity theories will offer new insights into the nature of gravity. It suggests a connection between the macroscopic events of gravitational collapse and the microscopic world of quantum mechanics.
+
+There will be some among the readers who are reluctant towards the concept of the "Plank length", who do not accept the Planck length as the smallest length or at least show some doubt, but here I start from the assumption that there must be a smallest length (entity) anyway and for that reason those arguments do not change fundamentally the reasonings made below.
+As the Planck length is the smallest meaningful length, fractions of a Planck length don't have meaning which has far-reaching consequences.
+Starting from a gravitational collapse that marked the beginning of "our" universe where energy and matter expressed themselves in a relativistic way (m = E/c2 ), brings out that hidden quantum world from a different point of view and models a new pathway to the reality of that same quantum world.
+
+
+
+
+
+
+Page | 5
+
+One must not make the mistake in thinking that those small energetic entities are an equivalent of strings, because they are not. The reason why is that strings in nowadays physics are not made of any substance. They are “theoretical constructs” with associated “theoretical properties” which give “theoretical explanations” for the existence of the variety of particles we observe in the universe. This is the fundamental idea behind string theory.
+
+The energetic entities that became reality after the gravitational collapse are “not of theoretical construct”, they emerge out of the physical reality that energy and mass are intertwined, m = E/c2. Unlike the wrongful idea that strings can be twisted, stretched, bent or rolled up, these energetic entities are of an whole other order.
+The peculiar thing about those smallest lengths (entities) is that when you try to put them in a certain pattern, there are only two possibilities, either simply put them one after another OR try to arrange them in different patterns.
+Put behind each other one gets an infinitely long line with only one dimension, "length", but in trying to arrange them in a pattern on a flat surface, you will find that the only way to achieve that is in the form of a hexagon. Any other way violates the principle that the Planck length is an indivisible given.
+
+
+THE PLANCK HEXAGON CONJECTURE
+The Planck length being the smallest possible length (lp = 1,616 199(97) × 10−35 m), makes the Planck area (lp2) the smallest possible … in theory!!!
+What is wrong …
+
+The diagonal of the surface of the Planck area is longer than one Planck length but smaller than two Planck lengths, and since the Planck length is the smallest meaningful length, fractions of a Planck length don't have meaning, therefore the only logical option when the diagonal is (out of necessity) exactly equal to the Planck length, is to conclude that the Planck area, is a circle.
+
+Again there is something wrong …
+The circumference of a circle is not a multiple of that Planck length what makes that circle an impossibility, and the question arises if there is a minimum 'true size' to that circle.
+
+
+
+
+
+
+Page | 6
+
+The solution lies in answering the question “what mathematical figure has a circumference of three times the diagonal of our circle” instead of 3,14 times? … the answer is a HEXAGON … the Planck Hexagon conjecture.
+
+In mathematics and science, a conjecture is an educated guess or hypothesis based on observations and reasoning, but which has not yet been proven or disproven. The arrangement of Planck lengths forming a hexagon, since this is the only method of tessellation that underlines the indivisibility of Planck length, falls under this definition.
+THE MATRIX
+Given that our universe is not a one dimensional space, reason tells us that the very first building blocks of that universe where made of those smallest of lengths shaped into a hexagon, and single entities stopped to exist, they all merged into hexagons resulting in two dimensional grids. It is an unstoppable self-replicating process.
+
+(As soon as one hexagon took shape there was no going back, logic took over and those single entities had no other option than to attach themselves to that first hexagon, in order not to violate the principle that the Planck length is an indivisible given, and fall into the same structure over and over again.
+It might seem to be mindboggling the way those entities behave, but give it a thought and try to arrange them in another pattern, taking into account not to violate the principle that the Planck length is an indivisible given at any moment and not to arrange those Planck lengths in a straight line … and you will be convinced )
+The third dimension arose when those two-dimensional grids layered, one grid on top of the other with “at least” one Planck-length distance between them, creating a matrix. The Planck-length distance(s) between the grids of the matrix is a mathematical given, meaning that the grids are not attached to each other with Planck length entities, giving the grids freedom to vibrate.
+
+Arguing that the Planck length is in fact the smallest possible mathematical length, implies that it is impossible at that level to compress that third dimension still further, so it is fair to say that the measure of the Planck length is a “force” sustaining the 3D canvas/matrix, it is in fact a STRONG FORCE.
+
+
+
+
+
+
+Page | 7
+
+Extending throughout the whole of space this minimum measure prevents space to implode, it acts as force field.
+With only one Planck length between the grids of the matrix, each individual grid of the matrix is extremely limited in its vibrational state due to the indivisibility of the Planck length.
+It may have escaped the reader, but alluding in the previous lines that the 3D canvas/matrix is composed of layers of two-dimensional grids separated by “at least” one Planck length is somewhat misleading because it gives the impression that the universe is a rigid and inflexible place, but nothing could be further from the truth.
+When those little energetic entities, which inevitably all turned into hexagons and which contiguously form the grid(s), want to contract in order to minimize their potential energy, the law of conservation of energy prevents them from disappearing, and instead they vibrate/oscillate which makes it possible for these grids and in turn the matrix to also oscillate/vibrate (One could argue that our universe is build out of “n” two dimensional vibrating layers consisting of infinitely interconnected tiny dots) it is why a distance of three Planck lengths between the grids must be considered as the minimum distance for the first building blocks of the present universe to come into being.
+
+Quoting Hannes Olof Gösta Alfvén Swedish plasma physicist and Nobel prize winner :
+“… Space is filled with a network of currents which transfer energy and momentum over large or very large distances. The currents often pinch to filamentary or surface currents. The latter are likely to give space, as also interstellar and intergalactic space, a cellular structure.”
+
+
+A WORD ABOUT THE PLANCK HEXAGON CONJECTURE
+The Planck Hexagon Conjecture, the specific notion of the inevitability how Planck length entities arrange themselves into hexagonal patterns, becoming fundamental units of spacetime is unique and a novel and an intriguing way for further extensive research into the quantization of spacetime and various models of quantum gravity.
+Quantizing spacetime, as suggested by the Planck Hexagon Conjecture, will have profound implications for our understanding of the universe. Quantizing spacetime  helps to bridge the gap between general relativity and quantum
+
+
+
+
+
+
+Page | 8
+
+mechanics, leading to a unified theory of quantum gravity. It will also offer new insights or modifications to the loop quantum gravity theory, because the theory's foundation is based on a rewriting of Einstein's general relativity in terms of discrete chunks instead of points as it's usually done. It means that there are fundamental units, discrete chunks of space-timey-ness that exists as some imperceptibly small pixelated reality.
+It doesn't change any of the physics but makes some calculations easier, especially when it comes to quantizing space-time. If spacetime is quantized, it implies that space and time are composed of indivisible units, much like matter is composed of atoms. This will revolutionize our understanding of the fabric of the universe. Quantized spacetime also provides new insights into the conditions of the early universe, potentially resolving singularities and offering a clearer picture of the first instances of “our” universe.
+Theories of cosmic inflation might be modified to account for the discrete nature of spacetime, affecting our understanding of the universe’s rapid expansion after the Big Bang.
+The structure of black holes might be fundamentally different if spacetime is to be quantized. This will impact our understanding of event horizons and the information paradox. The process by which black holes emit radiation would be influenced by the discrete nature of spacetime, potentially leading to new predictions about black hole evaporation. Quantized spacetime would also affect the renormalization process in quantum field theory, potentially resolving some of the infinities that arise in current models.
+The interactions of particles at the smallest scales might be better understood within a framework of quantized spacetime, leading to new predictions and experiments
+
+
+QUANTIFIABLE SPACE
+The assumption that space exists in individual units rather than an area only stuffed with electromagnetic waves makes it quantifiable.
+The Planck hexagon conjecture determined the nature of the smallest possible area, which can be considered as a point. By dimensioning this data, it is possible to depict space based on the shape of that smallest point, considering it as the individual basic unit that makes empty space quantifiable.
+
+
+
+
+
+
+Page | 9
+
+If we want to encapsulate the entirety of the matrix in an equation, we can represent the entire three-dimensional matrix “M” as a sum of the contributions from each two-dimensional grid. This approach will give us a more holistic view of how the grids combine to form the entire matrix.
+∞
+𝑴 = ∑ . 𝑮(𝒎) ⋅ 𝜹𝒌,𝒌
+𝒎=𝟏
+
+M is the entire three-dimensional matrix.
+𝐺(𝑚) represents the mth two-dimensional grid, which can be written as
+𝐺(𝑚)(𝑖, 𝑗) when considering its elements.
+
+
+
+
+
+
+Page | 10
+
+𝛿𝑘,𝑘𝑚
+is the Kronecker delta function, which ensures that each grid 𝐺(𝑚)
+
+is placed at the correct position 𝑘m along the third dimension.
+
+By using “M” to represent the entire matrix, we encapsulate all the elements and their positions within the three-dimensional space. The summation over m accounts for all the grids, each contributing to the overall structure of M.
+(𝑚)
+The Kronecker delta function 𝛿𝑘,𝑘𝑚 ensures that each grid 𝐺	) is placed at the
+correct position along the third dimension.
+The detailed form with the elements, looks like:
+
+
+
+𝑴𝒊𝒋𝒌
+∞
+= ∑. 𝑮(𝒎)(𝒊, 𝒋) ⋅ 𝜹
+𝒎=𝟏
+
+
+𝒌,𝒌𝒎
+
+𝑀𝑖𝑗𝑘 is the element in the three-dimensional matrix at position (i, j, k),
+𝐺(𝑚)(𝑖, 𝑗) represents the flexible elements of the mth two-dimensional grid at position (i, j),
+𝛿𝑘,𝑘𝑚  is the Kronecker delta function, which is 1 if 𝑘 = 𝑘m and 0 otherwise
+𝑘m is the position of the mth grid along the third dimension.
+The summation goes from m = 1 to infinity, representing an unlimited number of grids. This summation from m = 1 to infinity allows for an unlimited number of grids to be included in the three-dimensional matrix.
+𝐺(𝑚) allows each grid to have elements that can vary based on their position within the grid, accounting for the flexibility of the grid elements.
+
+The use of (𝑘m) allows each grid to be placed at different positions along the third dimension, accommodating varying distances between the grids.
+
+
+
+
+THE ELEMENTARY PARTICLES
+The layers (grids) of the matrix's flexible field vibrate and pull together constantly. The excitation of the grids composed of those small pieces of energy, the one-dimensional vibrating precursors of matter at the scale of the Planck length, causes a disturbance throughout the grids which gives rise to wave packets (a probability distribution in space), the first predisposition of elementary particles, whereby each of the elementary particles are in essence the translation of those vibrating/oscillating space grids, each with their own unique vibrational signature. Different modes of vibration correspond to different particles
+
+To uncover the true nature of gravity, it is essential to understand the essence of these elementary particles.
+In quantum mechanics, an elementary particle is a subatomic particle that is not composed of other particles. These particles are the fundamental building blocks of matter.
+At the most fundamental level, particles are excitations of underlying quantum fields. These fields, the layers of the matrix, exist everywhere in space and time. When these fields become excited by the vibrating entities, particles manifest themselves. Particles within these fields are continuously exchanging energy with their surroundings. This exchange is not orderly but rather chaotic, involving random interactions with other particles and fields.
+Despite the chaotic environment, particles retain their intrinsic properties such as mass and spin. This is because these properties are determined by the nature of the field excitations themselves.
+On the other side continuous energy exchange allows particles to adapt to their surroundings while maintaining their fundamental characteristics. This adaptability is crucial for the stability of matter and the interactions that governs the universe.
+The chaotic environment is essential for the interactions between particles. For instance, the exchange of virtual particles in quantum field theory explains forces like electromagnetism and the strong nuclear force.
+Page | 11
+
+This new view on things provides the framework for understanding how particles interact within these fluctuating fields. It combines quantum mechanics and special relativity to describe the behavior of particles at high energies and small scales.
+In the coherent phase (the quantum environment), particles have inherent properties (like mass, charge, and spin) that are intrinsic to them. These properties don’t change whether the particle is in a coherent or decoherent state.
+The energy of an elementary particle itself is not an intrinsic given in the sense that it is not a stable given in the chaotic environment of the quantum environment, it is subject to constant fluctuations and interactions with the surrounding quantum fields.
+They must continuously exchange energy with their environment to maintain their existence.
+This exchange allows them to adapt to their surroundings. Despite this dynamic nature, the energy of a particle plays a crucial role in defining its intrinsic properties, such as mass, spin, and charge.
+These properties are determined by the specific way in which the particle interacts with the underlying quantum fields.
+Important to notice is that the energy needed for the elementary particles to come in existence is the minimal energy they need to stay in existence which points in the direction that virtual particles do not meet that standard.
+These particles do not have the minimal energy required to sustain a permanent existence. Instead, they borrow energy from the quantum fields and then return it almost immediately, ensuring that the overall energy balance is maintained.
+They are temporary fluctuations that appear and disappear within the quantum field. They exist for an extremely short time, allowed by the Heisenberg Uncertainty Principle, which permits temporary violations of energy conservation as long as they occur within a very short time frame.
+
+
+
+
+
+
+Page | 12
+
+(DE)COHERENCE
+Elementary particles being an excitations of underlying quantum fields are in coherent state which is a specific quantum state of the quantum harmonic oscillator that closely resembles the behavior of a classical harmonic oscillator.
+In quantum mechanics, coherence refers to the property of particles to exhibit wave-like behavior. When particles are coherent, they can exist in a superposition of states, meaning they can be in multiple states simultaneously. This superposition allows for phenomena like interference patterns, which are characteristic of quantum systems.
+Decoherence occurs when a quantum system interacts with its environment, causing it to lose its coherent properties. This interaction leads to the system behaving more like classical particles, where the superposition of states collapses into a single state. Essentially, decoherence is the process by which quantum systems transition to classical behavior.
+In other words, when elementary particles transition from a coherent phase to a decoherent phase, they become more measurable due to the loss of quantum coherence. This interaction causes the particles to lose their coherent properties and behave more like classical particles. As a result, their states become more definite and easier to measure.
+
+
+BEHIND THE MIRROR …
+The coherent phase in the quantum environment is like one side of a mirror, and the decoherent phase is the other side.
+In the coherent phase, particles exist in superpositions and exhibit quantum coherence, meaning their properties are spread out and can interfere with each other. This phase is characterized by the wave-like behavior of particles and the probability distributions described by their wave functions.
+Elementary particles like electrons are described by wave functions, which exhibit quantum coherence. This means that the particles have wave-like properties, but they are not literally waves. Instead, the wave function provides a probability distribution for where the particle might be found in space.
+
+
+
+
+
+
+Page | 13
+
+Thus these particles themselves are not waves, their behavior and properties are described using wave functions, which give a probabilistic understanding of their positions and other characteristics.
+Although it is not entirely the same one can compare it with orbitals which are regions around a nucleus where electrons are likely to be found. These are not fixed paths but rather probability distributions that describe where an electron might be at any given time.
+The probability distributions for electrons help explain chemical bonding and atomic structure. For elementary particles, the probability distributions are crucial in understanding fundamental forces and interactions in particle physics.
+The wave-like properties in quantum mechanics are also but mathematical constructs that describe probabilities, not physical waves.
+Therefore referring to interference of waves in quantum mechanics, is referring to the interference of probability amplitudes, which are part of the wave function. These amplitudes can add together or cancel out, affecting the likelihood of finding a particle in a particular state or location. This interference happens in the mathematical framework of quantum mechanics, not as physical waves interacting.
+It is why in coherent phase, the interference of probability amplitudes acts as a marker. When probability amplitudes add up, it indicates a higher probability of finding the particle at that location. When probability amplitudes cancel out, it indicates a lower probability, often close to zero, of finding the particle at that location.
+So, these interference patterns essentially map out where the particle is most likely to be found. When no interference occurs, the probability distribution is more uniform, and the likelihood of finding the particle at any specific point is lower.
+
+
+
+
+
+
+Page | 14
+
+THE REFLECTION IN THE MIRROR…
+
+
+
+When a particle interacts with its environment, it undergoes decoherence. This process causes the wave function to collapse, and the particle’s properties become more definite and measurable. However, the intrinsic properties (mass, charge, spin) remain the same.
+The fundamental properties of particles remain the same in both coherent and decoherent phases. What changes is how these properties are observed and measured. In the coherent phase, the properties are described probabilistically, while in the decoherent phase, they become more definite.
+The difference lies in how these properties are distributed and observed.
+When we move to the decoherent phase, interactions with the environment cause these wave functions to collapse, leading to definite, classical outcomes. This is where particles take on more definite properties that we can measure and observe, forming the classical world we experience.
+The coherent phase represents the potential and probabilistic nature of particles, while the decoherent phase represents the realized and definite nature of those particles. When a system undergoes decoherence, it interacts with its environment, causing the loss of quantum coherence. The system’s wave function becomes entangled with the environment, effectively “spreading out” the quantum information and making the interference patterns unobservable, both phases are integral to the quantum realm, and they complement each other to form the complete picture of reality.
+AGAIN : “The fundamental properties of elementary particles remains the same in both coherent and decoherent phases. What changes is how these properties are observed and measured. In the coherent phase, the properties are described probabilistically, while in the decoherent phase, they become more definite.
+The energy of an elementary particle in decoherent phase is also not an intrinsic given in the sense that it is not a stable given, when they become measurable they too are subject to interactions with their surroundings.
+Therefore they must continuously exchange energy with their environment to maintain their existence.
+
+
+Page | 15
+
+
+
+
+Page | 16
+Deep thought : If we consider the early universe, it might have started in a highly coherent state. However, as the universe expanded and cooled, interactions between particles would lead to widespread decoherence. Initially, the universe could have been in a highly coherent quantum state. As the universe expanded, particles began to interact more with their environment, leading to decoherence. Today, coherence is rare and typically only found in isolated or controlled environments, such as laboratory settings. This transition from a coherent to a decoherent state is a natural consequence of the universe’s evolution. While coherence is now rare, understanding and harnessing it in controlled settings makes it possible to explore the fundamental principles of quantum mechanics.
+It is also thought provoking that in essence, while decoherence can occur naturally through environmental interactions, the experience and confirmation of this phase often rely on conscious beings who can design and interpret experiments. Without such organisms, the decoherent phase might remain unobserved and, in a sense, “unrealized.”
+“According” to general relativity, the curvature of space-time is determined by the distribution of masses, while the motion of masses is determined by the curvature. In consequence, variations of the gravitational field should be transmitted from place to place as waves, just as variations of an electromagnetic field travel as waves. If the masses that are the source of a field change with time, they should radiate energy as waves of curvature of the field.
+
+
+In his later years Einstein attempted, but failed, to write a theory which united gravity and electricity …
+
+GRAVITY IN A NEW SETTING
+
+
+
+To have a good understanding of what gravity really is, it is imperative to fully grasp the energy status of elementary particles, therefore a quick reminder.
+The layers (grids) of the matrix's flexible field vibrate and pull together constantly. The excitation of the grids composed of those small pieces of energy, the one-dimensional vibrating precursors of matter at the scale of the Planck length, causes a disturbance throughout the grids which gives rise to wave packets (a probability distribution in space), the first predisposition of elementary particles, whereby each of the elementary particles are in essence the translation of those vibrating/oscillating space grids, each with their own unique vibrational signature. Different modes of vibration correspond to different particles.
+Elementary particles have inherent properties (like mass, charge, and spin) that are intrinsic to them. These properties don’t change whether the particle is in a coherent or decoherent state.
+The energy of an elementary particle itself is not an intrinsic given in the sense that it is not a stable given in the chaotic environment of the quantum environment, it is subject to constant fluctuations and interactions with the surrounding quantum fields.
+They must continuously exchange energy with their environment to maintain their existence.
+This exchange allows them to adapt to their surroundings. Despite this dynamic nature, the energy of a particle plays a crucial role in defining its intrinsic properties, such as mass, spin, and charge.
+The fundamental properties of elementary particles remains the same in both coherent and decoherent phases. What changes is how these properties are observed and measured. In the coherent phase, the properties are described probabilistically, while in the decoherent phase, they become more definite.
+The energy of an elementary particle in decoherent phase is also not an intrinsic given in the sense that it is not a stable given, when they become measurable they too are subject to interactions with their surroundings and therefore they must continuously exchange energy with their environment to maintain their existence.
+
+
+Page | 17
+
+Because those particles are constant in interaction with their environment they suffer loss of energy and are in need for a constant supply of energy to prevent them from being reduced to their origin. The only way those elementary particles can re-supply their energy loss is by tapping into the energy source of empty space, if not particles fall back to their origin, the matrix.
+A consequence of all the above is that it is not difficult to imagine that when that an elementary particle extracts energy from its environment it creates an area around it in which the energy of the vacuum (the matrix), as it were, has a slightly different value than the surrounding energetic field.
+Because there is a difference in energy density in the energetic field of the “affected” area there will be a natural inflow of energy from the “nearby environment” towards that affected area.
+In turn, that “nearby environment” of the affected area will also face a difference in its energy density, and subsequently energy will also flow from the surrounding still unaffected environment to that affected area ..., a process that will repeat itself over and over again, causing this phenomenon to have a very large expansion, which needless to say results in the enlargement of the area with different energy values to a (very) large extent … THE EMERGENCE OF THE GRAVITATIONAL WAVES.
+
+
+PARTICLES DON’T JUST MOVE THROUGH SPACE
+THEY MODULATE IT WITH EVERY BREATH OF ENERGY THEY TAKE FROM THE MATRIX
+
+
+
+It is a wave-like event that spreads concentrically over a large area and will eventually fade away. At the point where the energetic dilution of empty space becomes so small that the wave expansion is no longer noticeable, virtual particles eventually intervene and restore the energetic balance of empty space.
+
+
+
+
+
+
+Page | 18
+
+TAKING IT A STEP FURTHER
+
+
+
+During the coherent phase, particles maintain a fixed phase relationship with each other. This coherence can lead to different behaviors compared to the decoherent phase. For instance, in a coherent state, particles can exhibit collective phenomena like Bose-Einstein condensation, where particles occupy the same quantum state and act as a single quantum entity. This doesn’t typically lead to the formation of large clumps of mass in the same way as in the decoherent phase
+In the decoherent phase elementary particles lose their phase relationships, leading to random interactions. At the most fundamental level, matter is made up of elementary particles such as quarks and leptons. Quarks combine to form protons and neutrons, which, along with electrons, form atoms. These atoms, in turn, become the building blocks of all existing things.
+Since all objects are composed in their smallest parts of elementary particles that are constantly interacting with their environment, gravity arises from the need for masses to replenish their energy deficits by tapping into the vacuum energy. It must be obvious why the gravitational force arises from the need of masses to replenish their energy deficits by attracting each other.
+Systems naturally move towards states that minimize their energy. When masses attract each other, reducing their potential energy they can lower their overall energy, resulting in a stable, low-energy state. In this model, there is no mechanism for a repulsive gravitational force because the energy exchange process inherently favors attraction.
+The need to replenish energy deficits pulls masses together, ensuring gravity is always attractive. As for the Gravitational waves they are ripples in space caused by adjustments in the energy density of a given space.
+
+
+Page | 19
+
+This energy exchange model explains why gravity is always attractive: masses draw energy from the vacuum to replenish their deficits, creating an attractive force as they move closer together.
+But as the saying goes, "the proof is in eating the pudding”
+
+
+
+Gravity must be caused by an agent, acting constantly according to certain laws; but whether this agent be material or immaterial, I have left to the consideration of my readers.
+
+
+
+Page | 20
+
+Sir Isaac Newton, Principia Mathematica.
+
+COUNTERING THE IDEA OF SPACE TIME CURVATURE AS THE SOURCE OF GRAVITY
+
+
+The general theory of gravity is encapsulated in the Einstein Field Equations which describe how matter and energy in the universe influence the curvature of spacetime, which we perceive as gravity.
+
+
+
+According to general relativity, the curvature of space-time is determined by the distribution of masses, while the motion of masses is determined by the curvature. In consequence, variations of the gravitational field should be transmitted from place to place as waves, just as variations of an electromagnetic field travel as waves. If the masses that are the source of a field change with time, they should radiate energy as waves of curvature of the field.
+Gravity is described by the Einstein field equations
+Page | 21
+
+
+
+𝟏
+𝑹𝝁𝒗 − 𝟐 𝑹𝒈𝝁𝒗 + 𝚲𝒈𝝁𝒗 =
+𝟖𝝅𝑮
+𝒄𝟒  𝑻𝝁𝒗
+
+There is however a catch in the way Einstein envisioned the way how gravity is explained by the curvature of space in his later life.
+Einstein’s goal was to describe all fundamental forces and the relationships between elementary particles in a single, coherent theoretical framework. He believed that gravity and electromagnetism could be understood as different manifestations of a single underlying field. This idea was driven by his desire to find a more fundamental understanding of the universe, beyond the separation of forces that was prevalent at the time.
+Despite his efforts, Einstein was not successful in formulating a complete unified field theory. The mathematical and conceptual challenges were immense, and the necessary tools and understanding of quantum mechanics were not fully developed during his lifetime. However, his work laid the groundwork for future theories and inspired subsequent generations of physicists.
+Today, the quest for a unified theory continues with approaches like string theory and loop quantum gravity, which aim to reconcile general relativity with quantum mechanics. These modern theories seek to describe gravity in terms of quantum fields and particles, continuing the legacy of Einstein’s vision.
+As reasoned before the energy of an elementary particle is not an intrinsic given in the sense that it is not a stable given in the chaotic environment of the quantum environment, it is subject to constant fluctuations and interactions with the surrounding quantum fields, but also that the fundamental properties of particles remain the same in both coherent and decoherent phases. What changes is how these properties are observed and measured.
+Suggesting that gravity arises from the need for matter to replenish energy lost through interactions one has to modify the idea of spacetime curvature, and therefore the need to formulate an equation that describes gravity in terms of energy exchange rather than only geometric curvature.
+To bring the idea of spacetime curvature as being the cause of gravity in sync with the proposed energy deficit of elementary particles we need to develop an alternative equation based on energy exchange, we need to express the gravitational interaction as a function of that energy exchange.
+
+
+
+
+
+
+Page | 22
+
+Before we enter that minefield, Newton's law of universal gravitation needs as first to be reconsidered in the light of the previous propositions.
+
+
+
+RECONSIDERING NEWTONS LAW OF UNIVERSAL GRAVITATION
+
+
+But first let’s look at how NEWTONS gravitational equation and how this must be rewritten in function of the proposed energy exchange model.
+Page | 23
+
+
+
+
+𝑭 = 𝑮
+𝒎𝟏𝒎𝟐
+/
+𝒅𝟐
+
+
+Let’s propose a relationship where the gravitational force is proportional to the energy deficit :
+
+
+𝑭gravity ∝
+𝑬deficit
+
+/
+𝒅𝟐
+
+
+Where (d) is the distance between masses. This is analogous to Newton’s law of gravitation but framed in terms of energy.
+
+
+Fgravity represents the gravitational force
+Edeficit represents the energy deficit
+d^2 represents the distance
+∝ The proportionality symbol indicates that the gravitational force is directly proportional to the energy deficit and inversely proportional to the square of the distance.
+
+Let’s assume the energy deficit “Edeficit” for a mass (m) is proportional to the mass itself. This can be expressed as:
+Edeficit = αm
+
+where (α) is a proportionality constant that depends on the rate of energy loss and interaction with the vacuum energy.
+The rate at which a mass (m) exchanges energy with the vacuum can be modeled as:
+
+
+
+
+
+Page | 24
+
+𝒅𝑬 = −𝗤𝑬
+
+
+/
+𝒅𝒕
+deficit
+
+where (β) is a constant that represents the efficiency of energy exchange.
+The gravitational force between two masses (m_1) and (m_2) due to their energy deficits can be expressed as:
+
+
+𝑭gravity ∝
+𝑬deficit,1 ⋅ 𝑬deficit,2
+
+/
+𝒅𝟐
+
+
+Substituting the energy deficit expressions, we get:
+
+
+
+
+
+Simplifying, we obtain:
+
+𝑭gravity = 𝑮
+(𝜶𝒎𝟏)(𝜶𝒎𝟐)
+/
+𝒅𝟐
+
+
+𝑭gravity
+= 𝑮𝜶𝟐 𝒎𝟏𝒎𝟐
+𝒅𝟐
+
+
+
+To match the form of Newton’s law of gravitation, we define the modified gravitational constant (G’) as:
+𝑮′ = 𝑮𝜶𝟐
+
+
+Therefore, the gravitational force can be written as:
+
+
+
+
+𝑭gravity
+= 𝑮′ 𝒎𝟏𝒎𝟐
+𝒅𝟐
+
+To ensure that (G’) is consistent with the observed value of the gravitational constant (G), we need to determine the value of (α).
+Defining (α) in the context of (G’) is challenging because (α) is a hypothetical proportionality constant specific to the proposed model. In traditional physics, constants like (α) are often determined empirically or through theoretical frameworks that are well-established.
+In this model, (α) represents the relationship between mass and energy deficit, which isn’t a standard concept in classical or modern physics. Therefore, without a specific empirical or theoretical basis for (α), it remains an abstract constant.
+Let’s look at this problem in another way, by expressing (𝜶) in terms of a fundamental constant and a function of mass, it is possible to potentially stabilize the proportionality and make the equation more workable.
+(𝜶) can be expressed in terms of a fundamental constant (k) and some property of the masses, such as their density or volume.
+For simplicity, let’s assume
+
+
+
+
+
+
+Page | 25
+
+𝜶 = 𝒌 ⋅ 𝒇(𝒎)
+where (k) is a fundamental constant and scales the function of mass (𝒇(m)).
+
+
+Rewriting the Energy Deficit :
+𝑬deficit = 𝒌 ⋅ 𝒇(𝒎) ⋅ 𝒎
+The gravitational force between two masses (m_1) and (m_2) due to their energy deficits can be expressed as :
+(𝒌 ⋅ 𝒇(𝒎𝟏) ⋅ 𝒎𝟏) ⋅ (𝒌 ⋅ 𝒇(𝒎𝟐) ⋅ 𝒎𝟐)
+
+𝑭gravity ∝
+
+Simplifying we obtain :
+
+𝑭gravity ∝
+𝒅𝟐
+
+
+𝒌𝟐 ⋅ 𝒇(𝒎𝟏) ⋅ 𝒎𝟏 ⋅ 𝒇(𝒎𝟐) ⋅ 𝒎𝟐
+/
+𝒅𝟐
+
+
+Where a new Gravitational Constant glues thing together :
+
+G” = G . k2. 𝒇 (m1) . 𝒇(m2)
+G” is a new constant that incorporates the effects of (k) and the functions of the masses (𝒇(𝒎))
+Which brings up a final Form:
+
+
+
+
+
+
+Page | 26
+
+
+𝑭gravity
+= 𝑮′′ 𝒎𝟏𝒎𝟐
+𝒅𝟐
+
+By expressing (𝜶) in terms of a fundamental constant and a function of mass
+𝒇(𝒎), we can potentially stabilize the proportionality and make the equation more workable.
+
+
+THEORETICAL JUSTIFICATION
+
+
+Providing a theoretical justification involves grounding the model in established physical principles and demonstrating how it aligns with or extends current theories.
+According to Einstein’s theory of relativity, energy and mass are equivalent, as expressed by (E = mc2). This principle suggests that any energy deficit can be related to a corresponding mass deficit.
+In quantum field theory, vacuum energy is the underlying background energy present in space even when devoid of matter. The interaction between masses and vacuum energy could lead to an energy deficit, which can be modeled as:
+𝑬deficit = 𝜶𝒎
+Here, (𝜶) represents the interaction strength between mass and vacuum energy.
+If we assume that the energy deficit is proportional to the mass, we can write:
+𝑬deficit = 𝒌 ⋅ 𝒇(𝒎) ⋅ 𝒎
+where (k) is a fundamental constant and (𝒇(m)) is a function that describes how the mass interacts with vacuum energy.
+
+Using the energy deficit to describe gravitational interactions, we propose:
+
+
+𝑭gravity
+
+∝ 𝑬deficit,1⋅𝑬deficit,2
+𝒅𝟐
+
+
+
+Substituting the energy deficit expressions, we get:
+
+Page | 27
+
+
+
+
+𝑭gravity ∝
+(𝒌 ⋅ 𝒇(𝒎𝟏) ⋅ 𝒎𝟏) ⋅ (𝒌 ⋅ 𝒇(𝒎𝟐) ⋅ 𝒎𝟐)
+/
+𝒅𝟐
+
+Simplifying, we obtain:
+
+𝑭gravity ∝
+
+
+𝒌𝟐 ⋅ 𝒇(𝒎𝟏) ⋅ 𝒎𝟏 ⋅ 𝒇(𝒎𝟐) ⋅ 𝒎𝟐
+/
+𝒅𝟐
+
+To match the form of Newton’s law of gravitation, we define a new Gravitational Constant
+𝑮′′ = 𝑮 ⋅ 𝒌𝟐 ⋅ 𝒇(𝒎𝟏) ⋅ 𝒇(𝒎𝟐)
+where (G’') is a new constant that incorporates the effects of (k) and the functions of the masses (𝑓(m)).
+Bringing it to its final form :
+
+𝑭gravity
+= 𝑮′′ 𝒎𝟏𝒎𝟐
+𝒅𝟐
+
+The model leverages the principle that energy and mass are interchangeable.
+It introduces the concept that masses experience an energy deficit by interaction with the environment and replenish their energy deficits by interacting with the vacuum energy.
+By assuming the energy deficit is proportional to mass, we simplify the expression to match Newton’s law of gravitation with a modified gravitational constant.
+This theoretical framework provides a basis for the new model, aligning it with established physical principles while introducing new concepts to explain gravitational interactions.
+In other words, the proposed model ultimately matches the form of Newton’s law of gravitation. By introducing the concept of energy deficit and defining a new gravitational constant (G’'), we arrive at an expression that is structurally identical to Newton’s :
+
+𝑭gravity
+= 𝑮′′ 𝒎𝟏𝒎𝟐
+𝒅𝟐
+
+
+
+Where, (G’') incorporates the effects of the energy deficit and the interaction with vacuum energy, but the overall form of the equation remains the same as Newton’s law of gravitation:
+𝒎𝟏𝒎𝟐
+
+
+
+Page | 28
+
+𝑭 = 𝑮
+
+/
+𝒅𝟐
+
+This means that while the underlying concepts and constants might differ, the resulting force equation is consistent with the classical gravitational force equation.
+Gravity occurs because masses need to replenish their energy deficits by accessing vacuum energy. Each mass has an energy deficit due to its interactions with the environment. To restore this energy, masses attract one another, enabling them to draw energy from the vacuum more efficiently. This energy exchange mechanism causes masses to come together to balance their energy deficits, naturally creating an attractive force as they move closer to facilitate energy uptake. Systems tend to shift towards configurations that minimize their energy. By attracting each other, masses can lower their overall energy deficit, resulting in a stable, lower-energy state. In this model, there is no provision for a repulsive gravitational force because the energy exchange process inherently promotes attraction, ensuring that gravity is always attractive.
+
+
+Conclusion
+The energy exchange model provides a natural explanation for why gravity is always attractive. The need for masses to replenish their energy deficits by drawing energy from the vacuum leads to an attractive force, as masses move closer together to facilitate this energy exchange.
+The imbalance in the amount of energy stored in a given volume of space due to the presence of elementary particles or a mass is the reason for the emergence of gravitational waves
+
+RECONSIDERING EINSTEINS FIELD EQUATIONS
+
+
+
+To incorporate the energy of the gravitational collapse and the vibrational energy of the entities in Einstein’s field equations it is at first necessary to define an action (𝑺 ) that includes terms for the vibrational energy (𝑬𝒗), gravitational energy ( 𝑬𝒈), and their interactions. The action function is a central concept in physics, used to derive the equations of motion for a system.
+
+
+Page | 29
+
+𝟏
+𝑺 = ∫ (
+𝟐
+
+𝛛𝝁𝝓𝛛𝝁
+
+𝝓 − 𝑽(𝝓) + 𝑬𝒗 + 𝑬𝒈)𝒅𝟒𝒙
+
+𝝓 represents the field.
+𝑽(𝝓) is the potential energy of the field.
+𝑬𝒗 is the vibrational energy term.
+𝑬𝒈 is the gravitational energy term.
+The action (𝑺) is an integral over a Lagrangian density (L ), which encapsulates the dynamics of a field or system. The action is given by :
+𝑺 = ∫ 𝓛 𝒅𝟒𝒙
+where ∫ 𝒅𝟒𝒙 represents the integration over four-dimensional spacetime (three spatial dimensions and one time dimension).
+The Lagrangian density is a function that depends on the fields and their derivatives. It encapsulates the dynamics of the fields and is used to derive the equations of motion through the principle of least action.
+The fields in the system are determined by finding the stationary points of this action, leading to the Euler-Lagrange equations for fields. These fields are functions that assign a value to every point in space and time. These fields can represent various physical quantities, such as the electromagnetic field, gravitational field, or quantum fields. These equations describe how the fields evolve over time and interact with each other.
+When dealing with fields (like electromagnetic fields), we need to consider the dynamics at every point in space and time. This is where the Lagrangian density (𝑳) comes in. It is a function of the field variables and their derivatives, and it is defined per unit volume.
+
+The Lagrangian density is integrated over the entire space to obtain the Lagrangian 𝑳 = ∫ 𝓛 𝒅𝟑𝒙 where (d3x) represents the volume element in three-dimensional space.
+The action (𝑺) is the integral of the Lagrangian over time 𝑺 = ∫ 𝓛 𝒅𝟒𝒙 where ( d4x ) is the four-dimensional volume element (including time).
+
+Components of the Action Function
+The Kinetic Term describes the kinetic energy of the field. For a scalar field (𝝓), it is typically written as :
+
+
+
+
+
+
+Page | 30
+
+𝟏
+/ 𝛛 𝝓𝛛𝝁𝝓
+𝟐	𝝁
+Here, 𝛛𝝁𝝓 represents the partial derivative of the field with respect to spacetime coordinates, and the summation over (𝝁) (from 0 to 3) accounts for all spacetime dimensions.
+The Potential Term describes the potential energy of the field. It is usually a function of the field (𝝓) :
+−V(ϕ)
+The potential V(ϕ) can take various forms depending on the specific theory or model.
+Translating this into a Vibrational Energy Term including a term representing the vibrational energy of Planck length entities originating from that gravitational collapse :
+𝟏	𝟐  𝟐	𝟏	𝟐
+
+𝑬𝒗 = ∑(𝟐 𝒎𝒊𝝎𝒊 𝒙𝒊
+𝒊
+( 𝒎𝒊) is the mass of the ( i )-th entity.
++ 𝟐 𝒎𝒊𝒙̇𝒊 )
+
+( 𝝎i ) is the angular frequency of the ( i )-th entity. ( 𝒙i ) is the displacement of the ( i )-th entity
+( 𝒙̇𝒊) is the velocity of the ( i )-th entity -
+
+(𝒙̇𝒊
+= 𝒅𝒙𝒊 expresses the rate of change of ( 𝒙i ) with respect to time ( t ) in other
+𝒅𝒕
+
+words 𝒙̇𝒊
+= 𝒅𝒙𝒊
+𝒅𝒕
+represents the velocity of the ( i )-th entity. It describes how the
+
+position (𝒙i) changes over time … it is about velocity.
+
+
+The Gravitational Energy Term accounts for the energy from gravitational collapse, which can be modeled using general relativity :
+𝒄𝟒
+
+Page | 31
+
+𝑬𝒈 = ∫ (
+
+/
+𝟏𝟔𝝅𝑮
+𝑹) 𝒅𝟒𝒙
+
+(R) is the Ricci scalar curvature, representing the curvature of spacetime.
+(G) is the gravitational constant.
+(c) is the speed of light.
+Let’s delve deeper into the mathematical derivation and understanding of the equation :
+
+
+𝑬𝒈 = ∫ (
+𝒄𝟒
+
+/
+𝟏𝟔𝝅𝑮
+
+𝑹) 𝒅𝟒𝒙
+
+The Einstein field equations are the foundation of general relativity and are given by :
+
+
+
+
+Where :
+
+𝑮𝝁𝒗 + 𝚲𝒈𝝁𝒗 =
+𝟖𝝅𝑮
+𝒄𝟒  𝑻𝝁𝒗
+
+( 𝑮𝝁𝒗) is the Einstein tensor, which describes the curvature of spacetime.
+( 𝚲 ) is the cosmological constant.
+( 𝒈𝝁𝒗 ) is the metric tensor.
+( 𝑻𝝁𝒗 ) is the stress-energy tensor, representing the distribution of matter and energy.
+( 𝑮 ) is the gravitational constant.
+( c ) is the speed of light.
+
+To find the energy associated with the gravitational collapse, we consider the action (𝑺) in general relativity, which is given by :
+𝒄𝟒
+
+𝑺 =
+
+/
+𝟏𝟔𝝅𝑮
+∫ 𝑹√−𝒈 𝒅𝟒𝒙
+
+Page | 32
+
+
+/
+Here, (√−𝒈) is the determinant of the metric tensor (𝒈𝝁𝒗) ensuring the volume element (d4x) is correctly weighted in curved spacetime.
+The Ricci scalar (R) is a scalar quantity derived from the Ricci tensor (𝒓𝝁𝒗) which itself is a contraction of the Riemann curvature tensor ( 𝑹𝝆 ). The Ricci scalar provides a measure of the degree to which spacetime is curved.
+The energy (𝑬𝒈) from gravitational collapse can be derived from the action by considering the integral of the Ricci scalar over the four-dimensional volume of spacetime :
+
+
+𝑬𝒈 = ∫ (
+𝒄𝟒
+
+/
+𝟏𝟔𝝅𝑮
+
+𝑹) 𝒅𝟒𝒙
+
+This integral sums up the contributions of the Ricci scalar (R) over the entire
+spacetime volume (𝒅𝟒𝒙). The factor ( 𝒄𝟒  ) comes from the normalization in the
+𝟏𝟔𝝅𝑮
+Einstein-Hilbert action, which is the action principle formulation of general relativity.
+The Normalization Factor(	𝒄𝟒  ) ensures the correct units and scaling, derived
+𝟏𝟔𝝅𝑮
+from the Einstein field equations.
+Integral (∫ 𝒅𝟒𝒙) summing over the four-dimensional spacetime volume.
+In essence, this equation encapsulates the total energy resulting from the curvature of spacetime due to gravitational collapse, as described by general relativity.
+
+
+Combining all the components into the total action (𝑺) it can be written as :
+𝟏	𝝁	(	)	𝟒
+𝑺 = ∫ (𝟐 𝛛𝝁𝝓𝛛 𝝓 − 𝑽 𝝓  + 𝑬𝒗 + 𝑬𝒈) 𝒅 𝒙
+
+To incorporate the effects of vibrational and gravitational energy, we need to include these terms explicitly in a Lagrangian density :
+
+𝟏
+𝓛 =
+𝝁	𝟏
+
+𝟐	𝟐
+
+
+Where :
+𝟐 𝛛𝝁𝝓𝛛
+𝝓 − / 𝒎 𝝓
+𝟐
++ 𝓛𝒗 + 𝓛𝒈
+
+Page | 33
+
+( 𝓛𝒗 ) represents the vibrational energy term.
+( 𝓛𝒈 ) represents the gravitational energy term.
+
+
+Again, the vibrational energy term is analogous to the energy of a harmonic oscillator, which has both potential and kinetic energy components :
+The potential energy of the ( 𝒊 )-th oscillator is given by :
+𝑼 = 𝟏 𝒎 𝝎𝟐𝒙𝟐
+𝒊	𝟐	𝒊	𝒊	𝒊
+This term represents the energy stored in the displacement of the entity from its equilibrium position.
+The kinetic energy of the ( 𝒊 )-th oscillator is given by :
+𝑲 = 𝟏 𝒎 𝒙̇𝟐
+𝒊	𝟐	𝒊  𝒊
+This term represents the energy associated with the motion of the entity. Thus the vibrational energy term ( 𝓛𝒗 ) can be written as :
+
+
+𝟏	𝟐  𝟐	𝟏	𝟐
+𝓛𝒗 = ∑ (𝟐 𝒎𝒊𝝎𝒊 𝒙𝒊 + 𝟐 𝒎𝒊𝒙̇𝒊 )
+𝒊
+
+The gravitational energy term ( 𝓛𝒈 ) can be written using the Ricci scalar (R) :
+𝒄𝟒
+𝓛𝒈 = 𝟏𝟔𝝅𝑮 𝑹
+
+Combining these terms, the total Lagrangian density (𝓛) reads :
+
+
+
+𝓛 =
+𝟏
+/ 𝛛𝝁𝝓𝛛𝝁𝝓 −
+𝟏 𝒎𝟐𝝓𝟐 + ∑ (𝟏
+𝒎𝒊𝝎𝟐𝒙𝟐 +
+𝟏
+/ 𝒎𝒊𝒙̇𝟐) +
+𝒄𝟒
+𝑹
+/
+
+𝟐	𝟐
+𝟐	𝒊	𝒊	𝟐
+𝒊
+𝒊	𝟏𝟔𝝅𝑮
+Page | 34
+
+In the quantum context, the vibrational energy term can be quantized by promoting the displacement (xi) and velocity ( 𝑥̇𝑖 ) to operators. The quantized vibrational energy term becomes:
+
+
+
+̂	𝟏	𝟐̂𝟐	𝟏
+̂𝟐
+
+𝑬𝒗 = ∑(𝟐 𝒎𝒊𝝎𝒊 𝒙𝒊
+𝒊
++ 𝟐 𝒎𝒊𝒑𝒊 )
+
+where (𝒑̂𝒊) is the momentum operator conjugate to ( 𝒙̂𝒊 ), and they satisfy the commutation relation:
+[𝒙̂𝒊, 𝒑̂𝒊] = 𝒊ℏ
+
+Therefore the Total Lagrangian Density becomes :
+
+
+
+𝓛 =
+𝟏
+/ 𝛛𝝁𝝓𝛛𝝁𝝓 −
+𝟏 𝒎𝟐𝝓𝟐 + ∑(𝟏
+𝒎𝒊𝝎𝟐𝒙̂𝟐 +
+𝟏
+/ 𝒎𝒊𝒑̂𝟐) +
+𝒄𝟒
+𝑹
+/
+
+𝟐	𝟐
+𝟐	𝒊	𝒊	𝟐
+𝒊
+𝒊	𝟏𝟔𝝅𝑮
+
+Bringing us to a modified action function that includes the kinetic term, potential term, vibrational energy and gravitational energy term
+
+
+
+𝟏	𝝁
+𝟏	𝟐	𝟐	𝟒
+
+𝑺 = ∫ (𝟐 𝛛𝝁𝝓𝛛
+𝝓 − / 𝒎 𝝓
+𝟐
++ 𝓛𝒗 + 𝓛𝒈) 𝒅 𝒙
+
+In light of the foregoing we can begin to modify the Einstein field equations
+The Einstein-Hilbert action is the simplest action that leads to Einstein’s field equations of general relativity. By varying the Einstein-Hilbert action with respect to the metric tensor (𝑔𝜇𝜈), we obtain the Einstein field equations:
+
+
+
+
+
+
+Page | 35
+
+
+
+
+
+Where :
+𝟏
+𝑹𝝁𝒗 − 𝟐 𝒈𝝁𝒗𝑹 =
+𝟖𝝅𝑮
+𝒄𝟒  𝑻𝝁𝒗
+
+( 𝑹𝝁𝒗) is the Ricci curvature tensor.
+(𝑻𝝁𝒗 ) is the stress-energy tensor, which includes contributions from matter, radiation, and other fields.
+To incorporate the interaction between the vibrating entities and the gravitational field, we can introduce a coupling term that describes how the vibrational energy influences the curvature of spacetime. This can be done by modifying the stress-energy tensor (𝑻𝝁𝒗) to include contributions from the vibrational energy :
+
+
+𝑻𝝁𝒗 = 𝑻matter + 𝑻vibration
+
+
+
+where ( 𝑻vibration ) represents the stress-energy tensor for the vibrational energy of Planck length entities.
+The modified Einstein field equations incorporating the vibrational energy term can now be written as :
+
+
+
+𝟏	𝟖𝝅𝑮
+𝑹	/
+
+matter
+
+vibration
+
+𝝁𝒗 − 𝟐 𝒈𝝁𝒗𝑹 =
+𝒄𝟒  (𝑻𝝁𝒗
++ 𝑻𝝁𝒗	)
+
+Total Action (S)
+Combining all these components, the total action (S) becomes :
+
+
+
+𝟏
+𝑺 = ∫ (
+/
+
+𝛛𝝁𝝓𝛛𝝁𝝓 −
+𝟏	𝟏
+/ 𝒎𝟐𝝓𝟐 + ∑(/
+
+𝒎𝒊𝝎𝟐𝒙̂𝟐 +
+𝟏
+/ 𝒎𝒊𝒑̂𝟐) +
+𝒄𝟒
+
+𝑹)𝒅𝟒𝒙
+Page | 36
+
+𝟐	𝟐
+𝟐	𝒊	𝒊	𝟐
+𝒊
+𝒊	𝟏𝟔𝝅𝑮
+
+
+By incorporating the vibrational energy of Planck length entities into the action function and modifying the Einstein field equations to include their contributions, we can develop a more comprehensive theory that unifies these concepts. This framework provides a way to connect the microscopic vibrations of fundamental entities with the macroscopic behavior of fields and particles, including gravitational interactions.
+To let the whole argument take its final shape the introduction of an “interaction term” (𝓛int) will account for how the vibrational energy influences the curvature of spacetime and vice versa. It will act as a coupling term which describes the
+interaction between the vibrational energy of Planck length entities and the gravitational field.
+The total action ( S ) incorporating the interaction terms can be written as:
+
+
+
+
+
+where:
+𝟏
+𝑺 = ∫ (
+𝟐
+𝛛𝝁𝝓𝛛𝝁
+𝝓 −
+𝟏 𝒎𝟐
+𝟐
+
+𝝓𝟐
++ 𝓛𝒗 + 𝓛𝒈 + 𝓛int)𝒅𝟒𝒙
+
+(𝓛𝒗 ) represents the vibrational energy term.
+( 𝓛𝒈) represents the gravitational energy term.
+(𝓛int ) represents the interaction term.
+
+Vibrational Energy Term
+The vibrational energy term ( 𝓛𝒗 ) for Planck length entities is:
+
+
+
+𝟏	𝟐  𝟐	𝟏	𝟐
+Page | 37
+
+𝓛𝒗 = ∑(𝟐 𝒎𝒊𝝎𝒊 𝒙𝒊 + 𝟐 𝒎𝒊𝒙̇𝒊 )
+𝒊
+
+Gravitational Energy Term
+The gravitational energy term ( 𝓛𝒈 ) is given by the Einstein-Hilbert action:
+
+
+
+𝒄𝟒
+𝓛𝒈 = 𝟏𝟔𝝅𝑮 𝑹
+Interaction Term
+The interaction term ( 𝓛int ) describes how the vibrational energy interacts with the gravitational field. This term ensures that the vibrational energy influences the curvature of spacetime and vice versa, hence the Ricci scalar (R)
+(The Ricci scalar provides a single number that summarizes the curvature of the space at a point, while the Ricci tensor provides more detailed information about the curvature in different directions)
+One possible form of the interaction term is:
+
+
+
+𝓛	𝟏	𝟐  𝟐	𝟏	𝟐
+int = 𝜶 ∑ (𝟐 𝒎𝒊𝝎𝒊 𝒙𝒊 + 𝟐 𝒎𝒊𝒙̇𝒊 ) 𝑹
+𝒊
+where ( 𝜶 ) is a coupling constant that determines the strength of the interaction between the vibrational energy and the gravitational field.
+
+Origin of Vibrational Energy from Gravitational Collapse
+To incorporate the idea that the vibrational energy originates from the energy released during a gravitational collapse, we consider the following:
+The energy released during a gravitational collapse, such as a supernova or the formation of a black hole, can be converted into the vibrational energy of Planck length entities. This energy can be modeled as an initial condition or source term in the action function.
+
+The interaction term (𝓛int) ensures that the vibrational energy influences the curvature of spacetime. This coupling can be thought of as a feedback mechanism where the energy from the collapse affects the spacetime geometry, which in turn influences the vibrational states of the entities.
+
+
+Total Action
+Combining all these components, the total action (𝑺) is :
+
+
+
+
+
+
+Page | 38
+
+
+
+
+𝟏
+𝑺 = ∫ (/
+
+𝛛𝝁𝝓𝛛𝝁𝝓 −
+𝟏	𝟏
+𝒎𝟐𝝓𝟐 + ∑(/
+
+𝒎𝒊𝝎𝟐𝒙𝟐 +
+𝟏
+/ 𝒎𝒊𝒙̇𝟐) +
+𝒄𝟒
+𝟏
+𝑹 + 𝜶 ∑(/
+
+𝒎𝒊𝝎𝟐𝒙𝟐 +
+𝟏
+/ 𝒎𝒊𝒙̇𝟐) 𝑹)𝒅𝟒𝒙
+
+/
+𝟐	𝟐
+𝟐	𝒊  𝒊	𝟐
+𝒊
+/
+𝒊	𝟏𝟔𝝅𝑮
+𝟐	𝒊  𝒊	𝟐	𝒊
+𝒊
+
+To quantize this system, it is necessary to promote the fields and their conjugate momenta to operators and impose the appropriate commutation relations. The vibrational energy term is quantized by promoting (xi) and (𝒙̇𝒊) to operators, and the gravitational field is quantized using approaches from quantum gravity theories.
+Integrating the concepts of vibrating entities at the Planck scale, their interaction with gravitational fields, and the energy from gravitational collapse will help bridge the gap between Einstein’s field equations and quantum gravity.
+
+EINSTEIN’S FIELD EQUATIONS AND QUANTUM GRAVITY
+
+
+
+Einstein’s field equations (EFE) describe how matter and energy influence the curvature of spacetime. They are given by :
+
+
+Page | 39
+
+
+
+
+
+
+Where :
+𝟏
+𝑹𝝁𝒗 − 𝟐 𝒈𝝁𝒗𝑹 =
+𝟖𝝅𝑮
+𝒄𝟒  𝑻𝝁𝒗
+
+( 𝑹𝝁𝒗 ) is the Ricci curvature tensor.
+( 𝒈𝝁𝒗 ) is the metric tensor.
+( 𝑹 ) is the Ricci scalar.
+(𝑻𝝁𝒗) is the stress-energy tensor.
+( G ) is the gravitational constant.
+( c ) is the speed of light.
+These equations relate the geometry of spacetime to the distribution of matter and energy within it.
+Quantum Gravity
+Quantum gravity aims to describe gravity according to the principles of quantum mechanics. It seeks to unify general relativity (which describes gravity at large scales) with quantum mechanics (which describes the other fundamental forces at small scales).
+Integrating Vibrational Entities and Gravitational Collapse
+To bring these concepts together, we considered the following steps:
+Introducing Planck length entities with vibrational energy. These entities can be modeled as harmonic oscillators with quantized energy levels.
+
+Considering the energy released during a gravitational collapse as the source of the vibrational energy. This energy influences the vibrational states of the entities and the curvature of spacetime.
+
+Including an interaction terms in the action function to describe how the vibrational energy interacts with the gravitational field. These terms ensure that the vibrational energy influences the curvature of spacetime and vice versa.
+The total action ( S ) incorporating these elements can be written as :
+
+
+
+
+
+
+Page | 40
+
+
+
+
+𝟏
+𝑺 = ∫ (/
+
+𝛛𝝁𝝓𝛛𝝁𝝓 −
+𝟏	𝟏
+𝒎𝟐𝝓𝟐 + ∑(/
+
+𝒎𝒊𝝎𝟐𝒙𝟐 +
+𝟏
+/ 𝒎𝒊𝒙̇𝟐) +
+𝒄𝟒
+𝟏
+𝑹 + 𝜶 ∑(/
+
+𝒎𝒊𝝎𝟐𝒙𝟐 +
+𝟏
+/ 𝒎𝒊𝒙̇𝟐) 𝑹)𝒅𝟒𝒙
+
+/
+𝟐	𝟐
+𝟐	𝒊  𝒊	𝟐
+𝒊
+/
+𝒊	𝟏𝟔𝝅𝑮
+𝟐	𝒊  𝒊	𝟐	𝒊
+𝒊
+
+MODIFIED EINSTEIN FIELD EQUATIONS
+
+
+
+The	modified	Einstein	field	equations,	incorporating	the	vibrational	and interaction terms, are:
+
+
+Page | 41
+
+
+
+
+𝟏	𝟖𝝅𝑮
+𝑹
+matter
+vibration
+int
+
+𝝁𝒗 − 𝟐 𝒈𝝁𝒗𝑹 =
+𝒄𝟒	(𝑻𝝁𝒗
++ 𝑻𝝁𝒗
++ 𝑻𝝁𝒗)
+
+
+where:
+	(𝑻matter) Represents the stress-energy tensor for matter and energy which includes mass, energy, pressure and stress.
+The tessellation and layering of Planck length identities makes for the vibrational energy at Planck scale and the emergence of elementary particles the precursors of matter.
+
+	( 𝑻vibration ) represents the stress-energy tensor for the vibrational energy of Planck length entities which accounts for the quantum scale effects, capturing the contributions of vibrational modes at the Planck scale, showing a deep connection between quantum mechanics and general relativity.
+( 𝑻int ) represents the stress-energy tensor for the interaction term which gives insight in the complex interactions between different fields and forces affecting the curvature of space(time).
+Elegance and Simplicity:
+By eliminating the need for the cosmological constant, the modified equation simplifies the mathematical framework while still capturing the essential physical phenomena.
+The cosmological constant Λ was originally introduced by Einstein to maintain a static universe, but later repurposed to explain cosmic acceleration. The modified equation eliminates the need for Λ while still
+
+accounting for observed phenomena like dark energy, it will drastically simplify the theoretical framework.
+
+
+
+CONCLUSION
+By incorporating the vibrational energy of Planck length entities and their interaction with the gravitational field, it is possible to develop a framework that unifies the principles of general relativity and quantum mechanics. This approach provides a way to describe the quantum behavior of spacetime and the influence of gravitational collapse on fundamental particles and forces.
+Integrating these concepts helps bridge the gap between Einstein’s field equations and quantum gravity, offering a more comprehensive understanding of the fundamental nature of the universe, it thus provides a way to connect the microscopic vibrations of fundamental “entities” with Planck length, with the macroscopic behavior of fields and particles, including gravitational interactions.
+The modified Einstein field equation is not in contradiction with Newton’s gravity equation. Instead, it extends and generalizes it.
+Newton’s renewed law of universal gravitation describes the gravitational force between two masses. It works well for weak gravitational fields and low velocities (much less than the speed of light).
+Einstein field equations, in the modified version, describe gravity (as the curvature of spacetime) caused by mass and energy. They reduce Newton’s gravity law to the limits of weak gravitational fields and low velocities.
+The additional terms (𝑻vibration) and (𝑻int) account for more complex sources of
+Page | 42
+
+𝝁𝒗	𝝁𝒗
+energy and momentum, such as quantum field effects or interactions. These terms become significant in strong gravitational fields or at high energies, where Newton’s law is no longer accurate.
+It is my understanding that the modified Einstein field equations encompasses Newton’s gravity as a special case but provides a more comprehensive framework that can describe more extreme conditions and additional physical phenomena.
+
+REFERENCE
+
+
+
+Einstein, A. (1916). The Foundation of the General Theory of Relativity. Annalen der Physik, 49(7), 769–822.
+
+Sir Isaac Newton (1642-1727) law of universal gravitation in his work Philosophiae Naturalis Principia Mathematica (Mathematical Principles of Natural Philosophy)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REMARK : the “path integral formulation concept” that was introduced by Richard Feynman, which is a method in quantum mechanics and quantum field theory to consider all possible paths a particle can take between two points, rather than just the single classical path … in the end is but a mathematical approximation of what the wave nature of an elementary particle in coherent phase also holds. It is all about statistical processes and probabilities, nothing concrete. Both approaches are inconclusive as to where an elementary particle is located in its path from A to B.
+
+
+Page | 43
+
+ANNEX 1
+
+
+
+This approach reframes gravity as an energy trap, aiming to unify classical and quantum perspectives a long-standing challenge in theoretical physics.
+Bridging paradigms: It attempts to reconcile Newtonian gravity, general relativity, and quantum mechanics under a single framework.
+Energy-based interpretation: Instead of treating gravity as a force or curvature, it explores gravity as a manifestation of energy dynamics.
+Cosmological implications: The theory touches on dark matter, dark energy, and the early universe, suggesting new ways to interpret cosmic phenomena.
+Gravitational waves: It hints at deeper insights into the energy behavior of massive objects through wave analysis.
+
+
+the left-hand side represents spacetime geometry, while the right-hand side represents the energy-momentum content (sources of gravity). The innovation is in expanding the traditional stress-energy tensor to include:
+Matter: conventional mass-energy.
+Vibration: possibly quantum fluctuations or wave-like energy contributions.
+Interaction: energy from interactions between fields or particles.
+The right-hand side influences the left: More energy (from matter, vibration, or interaction) disrupts the spacetime geometry more strongly.
+But then, the spacetime geometry affects how energy behaves: It can change how vibrations propagate or how interactions occur.
+This feedback loop means the components on the right can evolve, depending on the disruption they themselves helped create.
+The right-hand side through its influence on spacetime (the left-hand side), sets up a dynamic interplay that can lead to changes in its own components over time.
+It’s a bit like a dance
+energy shapes geometry, and geometry reshapes energy.
+
+Page | 44
+
+The left side of the equation will undergo change as the right side of the equation is altered …. this is where the elegance of Einstein’s field equations really shines.
+The left-hand side of the equation:
+
+Page | 45
+
+represents the geometry of spacetime specifically, how it behaves in response to energy and momentum. Expanding the right-hand side to include not just matter, but also vibration and interaction terms …
+
+
+…. Is effectively saying: “There are more sources of gravitational influence than we’ve accounted for.”
+So the left-hand side must also change :
+Spacetime geometry responds to energy: If the energy-momentum tensor now includes new components (like quantum vibrations or field interactions), the geometry described by Rμν and R will adjust accordingly.
+Dynamic feedback: As these new energy sources evolve, they continuously reshape the geometry of spacetime. That means the left-hand side isn’t static it’s a living, responsive structure.
+New geometrical features: Depending on how vibration and interaction terms behave, we might see novel curvature patterns, potentially leading to predictions about phenomena like quantum foam, exotic matter, or even modified black hole behavior.
+In essence, the reinterpretation doesn’t just tweak the math it reshapes the gravitational landscape. The left side of the equation is like a mirror: it reflects whatever energy-momentum you feed into it.
+Expanding the energy-momentum tensor opens up a whole new playground for gravitational physics. Vibration and interaction energies really are fundamental contributors to curvature, it could lead to groundbreaking reinterpretations of everything from cosmology to black hole thermodynamics.
+The absence of a cosmological constant in this quantum gravity framework is a daring departure from mainstream models. In Einstein’s original field equations, the cosmological constant Λ was introduced to account for the accelerated expansion of the universe. So what happens when it’s left out?
+
+No Cosmological Constant, what it means ….
+No built-in acceleration: Without Λ, the model doesn’t automatically explain the observed acceleration of cosmic expansion a role typically attributed to dark energy.
+Alternative drivers: this theory points towards the possibility that vibration and 	
+
+interaction energy terms might play a similar role, replacing the need for a cosmological constant altogether.
+Dynamic spacetime: Instead of a fixed vacuum energy (as Λ implies), the model allows for a more fluid and evolving energy landscape, which could lead to time-varying expansion rates.
+Physical Implications
+Redefining vacuum energy: If vibration and interaction energies are sufficient to shape spacetime, it challenges the idea that empty space must have a constant energy density.
+Predictive flexibility: This opens the door to models where the universe’s fate depends on the behavior of these dynamic energy components.
+Testing the theory: The lack of Λ means the model must explain cosmic acceleration through other mechanisms, which could be testable via gravitational wave behavior or large-scale structure formation.
+Page | 46
+
+ANNEX 2
+
+NEWTON’s	GRAVITY	AS	EMERGENT	TENSION  IN	A	DISCRETELY 	
+
+LAYERED PLANCK MATRIX
+
+The reinterpretation of Newton’s Law of Universal Gravitation as an energy-deficit interaction offers a compelling shift from classical force-based mechanics to a field-theoretic perspective grounded in vacuum dynamics. Within this framework, gravitational attraction arises not from an intrinsic force between masses, but from a differential in energy states between localized mass-energy concentrations and the surrounding vacuum. This deficit induces a directional flow of energy, manifesting as gravitational pull.
+To formalize this mechanism, we introduced the Planck Hexagon Conjecture, which posits that spacetime is composed of discrete, hexagonally tiled Planck-scale units. These units are organized into a layered matrix structure	where each

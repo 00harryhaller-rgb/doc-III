@@ -1,0 +1,1513 @@
+for a period
+of Δ𝑡′ = 𝑡′ - 𝑡′ = 𝑡′ - 0 = 𝑡′, as measured by an observer at the occurrence rest frame
+2	1
+in F′. We use the term occurrence to denote a physical time-dependent process. By this we seek to differentiate it from the term "event", which in physics came to mean an occurrence that is sharply localized at a single point in space and instant of time. The observer at F has no way of knowing when the occurrence at F′ ended, unless information is sent to him from the observer at F′ indicating the termination of the occurrence. Such information could be sent by any type of information carrier as long as its velocity, 𝑉𝑐, exceeds the relative velocity v at which F′ is departing from F, i.e., 𝑉𝑐 should satisfy 𝑉𝑐 > v. After t seconds for an observer in F, the reference frame F′ will be at distance x = v t. Thus, the information about the termination of the physical occurrence will arrive to the observer at F with a delay of:
+
+
+𝑡𝑑
+𝑥
+= 𝑉𝑐
+𝑣 𝑡
+=	.	(1a)
+𝑉𝑐
+
+
+Thus, the termination time registered by the observer at F will be
+
+
+t = 𝑡′ + 𝑣 𝑡
+𝑉𝑐
+,	(2a)
+
+
+
+which could be written as:
+
+1
+t =	𝑣
+1− 7𝑐
+
+
+
+𝑡′ =		1 1−𝛽
+
+
+𝑡′ ,	(3a)
+
+
+𝑣
+where β = 𝑉𝑐.
+
+Quite interestingly, eq. 3a, is quite similar to the Doppler's Formula derived for the frequency modulation of waves emitted from traveling bodies. Importantly, in both cases the direction of motion matters. In the Doppler Effect a wave emitted from a distancing body will be red-shifted (longer wavelength), whereas a wave emitted from an approaching body with be blues-shifted (shorter wavelength). The degree of red, or blue shift is an increasing function of the body's velocity. The same applies
+
+to the time duration of an occurrence taking place at a stationary point on a moving frame. If the frame is distancing from F, the time measured at F will be dilated relative to the time measured at frame F′, whereas if the frame is approaching F, the time measured at F will contract.
+It is important to note further that the above derived transformation applies to all carriers of information, including the commonly employed acoustic and optical communication media. For the case in which information is carried by light, with velocity c, or by electromagnetic waves with equal velocity, eq. 3a becomes:
+
+
+
+
+
+𝑣
+Where β = 𝑐.
+𝛥𝑡
+𝛥𝑡𝘍  =
+1
+1– 𝑣
+𝑐
+1
+= 1– 𝛽	(4a)
+
+Evidently, the derived result does not agree with the time dilation prescribed by Special Relativity under the assumption of constancy of the velocity of light in vacuum. We prefer here be avoided the above mentioned inconsistency, by strictly limiting our theorizing to cases in which the information carrier wave propagates in velocities c < 𝑐0, where 𝑐0 is the velocity of light in vacuum. Putting such a limit does depreciate the value of our result, since it will still apply to all physical situations of interest.
+2a. Length transformation
+To derive the distance transformation, assume that 𝐹′ has on board a rod placed along its 𝑥′ axis between the points 𝑥′ = 0 and 𝑥′ = 𝑥′ , and that the observer in 𝐹′ uses his clock to measure the length of the rod (in its rest frame) and communicates his measurement to the observer in F. Assume that the information carrier from frame 𝐹′ to frame F travels with constant velocity 𝑉𝑐 (as measured in the source rest frame). To perform the measurement of the rod’s length, at
+𝑡1′ = 𝑡1 =0, a signal is sent from the rare end of the rod, i.e., from 𝑥′ = 𝑥′ to the observer at the point of origin 𝑥′ = 0. The length in 𝐹′ (the rest frame) is calculated as:
+
+𝑙0 = 𝑥′ = 𝑉𝑐 𝑡′ .	(5a)
+2	2
+
+Denote by 𝛥𝑡𝑐 is the time duration in the signal’s rest frame for its arrival to the observer in 𝐹′. Using eq. 3a, 𝑡′ as a function of 𝛥𝑡𝑐 can be expressed as:
+
+𝑡′ =	1
+1
+𝛥𝑡	=
+𝛥𝑡
+,	(6a)
+
+2
+
+which could be rewritten as:
+−𝑣
+1–7𝑐
+𝑝	1+ 𝑣	𝑐
+7𝑐
+
+𝛥𝑡  = (1 +  𝑣 ) 𝑡′ .	(7a)
+𝑐	𝑉𝑐	2
+
+Because 𝐹′ is departing F with velocity v, the signal will reach an observer in F at time 𝑡2 equaling
+
+𝑡  = 𝛥𝑡
++ 𝑣𝑡2 = 𝛥𝑡  + 𝑣
+𝑡 .	(8a)
+
+2	𝑐
+𝑉𝑐
+𝑐	𝑉𝑐	2
+
+Substituting the value of 𝛥𝑡𝑐 from equation (7a) in equation (8a) yields:
+
+𝑡 =
+𝑣	′	𝑣
+
+2  (1 + 𝑉 ) 𝑡2 + 𝑉
+𝑡2,	(9a)
+
+which could be rewritten as:
+𝑐	𝑐
+
+
+
+(1+  𝑣 
+
+𝑡 = 	7𝑐   𝑡′ .	(10a)
+2	(1−  𝑣 	2
+7𝑐
+Substituting the value of 𝑡′ from eq. 5a, we get:
+
+
+𝑡2 =
+(1+  𝑣 
+7𝑐
+(1−  𝑣 
+7𝑐
+
+𝑙0
+𝑉𝑐
+
+.	(11a)
+
+
+Thus, the observer in F will conclude that the length of the rod is equal to
+
+
+
+l = 𝑉 𝑡
+(1+ 𝑣 )
+= 	7𝑐   𝑙
+
+(12a)
+
+
+or,
+𝑐  2
+(1− 𝑣 )	0
+7𝑐
+
+
+
+
+
+
+
+where 𝛽=
+
+
+
+𝑣 .
+𝑉𝑐
+𝑙
+𝑙0 =
+1+ 𝛽
+1− 𝛽 ,	(13a)
+
+Regardless of the value of 𝑉𝑐, the above derived relativistic distance equation predicts distance contraction only when the two reference frames approach each other (i.e., for -1 < p ≤ 0). On the other hand, in contradiction of the famous Lorentz
+
+contraction, for distancing frames (i.e., 0 < p <1) equation (13a) predicts length extension.
+3a. Mass transformation
+Let us assume that that the rod has a total rest-mass 𝑚0 distributed uniformly along the x axis. According to eq. 13a an approaching rod will contract causing the mass density along the x axis to increase. On the other hand, a distancing rod will extend, causing its mass density along the x axis to dilute. The body's mass
+
+density in its rest-frame is 𝜌0
+=  𝑚0  , where A is the area of the body’s cross section,
+𝐴 𝑙0
+
+perpendicular to the direction of movement. In F the density is given by: 𝜌𝑀
+= 𝑚0
+𝐴𝑙
+
+, where l is the object’s length in F. Using the length transformation (eq. 13a) we
+can write:
+
+
+𝑚	𝑚0
+1− 𝛽
+
+
+
+Or,
+𝜌𝑀= 𝐴𝑙 = 𝐴 𝑙
+(1+ 𝛽) = 𝜌0 1+ 𝛽	(14a)
+1− 𝛽
+
+
+
+𝜌𝑀 =	1
+/
+1− 𝛽
+=
+(15a)
+
+𝜌0
+𝑙⁄𝑙
+1+ 𝛽
+
+
+For the case information carried by waves traveling at the velocity of light we set
+𝑣
+
+𝛽=
+. As could be seen from eq. 15a, the relativistic mass density is inversely
+𝑐
+
+proportional to the relativistic length. It is predicted to increase for approaching
+bodies and a decrease for distancing bodies. For applications to cosmology, the unobservable (Dark) matter is defined as the difference between the Newtonian, and relativistic mass densities, or:
+
+
+𝜌𝐷𝑀
+1− 𝛽
+2 𝛽
+
+𝜌0	= 1- 1+ 𝛽 = 1+ 𝛽	(16a)
+
+Figure 1 in the main text depicts the densities of observable and unobservable (dark) matter as functions of velocity. As could be seen in the figure, the theory predicts that the densities of observable and unobservable matter become equal
+
+𝑣
+at velocity of recession equaling exactly β =
+𝑐
+1
+= /. For a low relativistic velocity of
+3
+
+β = 0.01 the model predicts a composition of about 98% matter and 2% dark matter, whereas as for a high relativistic velocity of β = 0.99 the predicted composition is 0.5% matter and 99.9% dark matter. The ratio of dark matter to matter densities, is given by:
+
+ 𝜌𝑀  = 2 𝛽
+(17a)
+
+𝜌𝐷𝑀
+1 − 𝛽
+
+
+4a. Energy transformation
+The energy density of a moving body with velocity v, and rest density ρ0 is given by:
+
+1
+𝑒𝑀 = 2
+ρ 𝑣2= 1
+2
+ρ 𝑐2 (1− 𝛽)
+(1+ 𝛽)
+𝛽2 = e
+(1− 𝛽)
+0
+(1+ 𝛽)
+𝛽2	(18a)
+
+
+
+1
+Where e0 =
+/
+0 𝑐 . For β →0 (or v << c) eq. 18a reduces to e = / 𝜌
+𝑣2, which is the
+
+2	2  0
+classical Newtonian expression.
+
+
+
+Figure 3a. Matter energy density as a function of the recession velocity.
+
+Figure 3a depicts the relativistic energy density as a function of velocity β. The dashed line depicts the corresponding Newtonian relationship. For approaching bodies, the theory predicts ab increase with β, up to infinitely β → -1. Strikingly, for distancing bodies, the kinetic energy density displays a non-monotonic behavior. It increases with p up to /a maximum at velocity β = 𝛽𝑐𝑟 , and then decreases to zero at β = 1. The emerging type of non-monotonicity is quite surprising. No less surprising is the value of β, at which the kinetic energy density achieves its unique maximum. Differentiating eq. 18a with respect to β, and equating the result to zero yields:
+
+β2 + β – 1 = 0	(19a)
+
+Which solves for:
+
+
+𝛽𝑐𝑟 =
+
+/
+√5−1 2
+
+= 𝜑 ≈ 0.618	(20a)
+
+Where Φ is the famous Golden Ratio [1a] [2a]. Substituting 𝛽𝑐𝑟 in eq. 18a yields:
+
+
+(𝑒𝑀
+
+)𝑚𝑎𝑥
+= 𝑒0
+𝜑2 1−𝜑
+1+ 𝜑
+(21a)
+
+
+From eq. 19a we can write: 𝜑2 + 𝜑 – 1 = 0, which implies 1 − 𝜑 = 𝜑2 and
+1
+
+1+ 𝜑 =
+. Substitution in eq. 21a gives:
+𝜑
+
+(𝑒𝑀)𝑚𝑎𝑥 = φ5 𝑒0  ≈ 0.09016994 𝑒0	(22a)
+
+
+The results in equations 20a and 22a are quite amazing, given the key role played by the Golden Ratio in nature, in nature, technology and the arts, including in the structure of plants, physics, the structure of the human brain, music, aesthetics, the social sciences, and more (see relevant references in the main text).
+The energy carried by dark matter is given by:
+
+
+
+𝑒𝐷𝑀 =
+
+/ 𝜌𝐷 𝑣𝑐2= /
+𝜌  𝑐2 𝛽2	1
+2
+
+𝜌0 𝑐2)
+2𝛽
+
+/
+1+𝛽
+𝛽2 = (1
+2
+
+𝜌0 𝑐2)
+2 𝛽3
+
+/
+1+𝛽
+(23a)
+
+
+
+Or:
+
+𝑒𝐷𝑀 = 2 𝛽3
+
+
+Where 𝑒
+
+
+1
+= / 𝜌
+
+𝑐2.
+𝑒0
+1+𝛽	(24a)
+
+0	2  0
+
+The predicted dark matter energy density increases rapidly with velocity (see Fig. 3 in the main text). At relatively low velocities, the bulk of the body's energy is carried by its observable matter, while at high relativistic velocities, the bulk of the body's energy is carried by its dark matter. The energy carried by matter, and
+1
+
+the energy carried by dark matter are predicted to be equal precisely at β =
+/ . The
+3
+
+model predicts that at 𝛽𝑐𝑟 = φ ≈ 0.618 a receding body undertakes a phase transition, seizing to behave classically, the value of the kinetic energy density at this point reaches a peak equal to φ5 e0, which amounts to ≈ 0.09016994 e0. The
+
+dark matter energy density at this critical point becomes equal to
+2 𝜑3
+
+/
+1+𝜑
+= 2 𝜑4  ≈
+
+0.29179607. These are aesthetically beautiful results, which could be put to direct experimental test.
+
+References
+[1a] Olsen S. The Golden Section. New York, Walker & Co. (2006).
+[2a] Livio M. The Golden Ratio: The Story of Phi, the World’s Most Astonishing Number. New York, Broadway Books (2002).
+[3a] Coldea, R. et al. Science, 327 (5962), 177–180 (2010).
+[4a] Hardy, L. Phys. Rev. Lett. 73, 2279–2283 (1994).
+
+
+Appendix B
+Relationship Between Recession Velocity and Redshift
+
+To derive the expression of redshift in its dependence on the recession velocity, consider an observer on earth who receives redshifted waves emitted from a receding celestial object (e.g., A star, galaxy center, etc.). Assume that the recession velocity of the celestial object at the time the light wave was emitted was equal to v. Using Doppler's formula, we can write:
+
+
+z = 𝜆𝑜𝘣 − 𝜆𝑒𝑚 
+𝜆𝑒𝑚
+= 𝑓𝑒𝑚 − 𝑓𝑜𝘣 
+𝑓𝑜𝘣
+(1b)
+
+
+Where 𝜆𝑒𝑚 (𝑓𝑒𝑚 ) is the wavelength (frequency) of the wave emitted by the galaxy and 𝜆𝑜𝑏 (𝑓𝑜𝑏 ) is the wavelength (frequency) measured by the observer. We also
+
+have 𝑓𝑒𝑚 =
+1
+
+/
+𝛥𝑡𝑒𝑚
+and	𝑓𝑜𝑏 =
+1
+
+/
+𝛥𝑡𝑜𝘣
+,	where 𝛥𝑡𝑒𝑚 𝑎𝑛𝑑 𝛥𝑡𝑜𝑏 are the time intervals
+
+corresponding to 𝑓𝑒𝑚 and 𝑓𝑜𝑏 , respectively. Substitution in eq. 1b gives:
+
+ 1 	1
+−
+
+z = 𝑡𝑒𝑚
+𝑡𝑜𝘣 =  𝛥𝑡𝑜𝘣  − 1	(2b)
+𝛥𝑡𝑒𝑚
+
+𝑡𝑜𝘣
+
+From eq. 1 in the main text we have:  𝛥𝑡𝑜𝘣  =	1	𝑣
+
+
+yields:
+𝛥𝑡𝑒𝑚
+1−𝛽 , where β =
+𝑐. Substitution in eq. 2b
+
+
+
+1
+z =  1−𝛽
+−1 =
+𝛽 1−𝛽
+(3b)
+
+And the recession velocity in terms of redshift is:
+
+𝑧
+β = 𝑧+1	(4b)
+
+For blue-shift the same equation holds except that we must replace β by - β.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PACS
+
+
+Milkț Way galaxț center, bar, circumnucleaf matter, and buîge
+
+gark energț
+
+Sonoluminescence. tnboluminescence
+(condensed matter|
+
+Particle'theon and field theory models oł ”
+PUBLICATION DATA
+
+A New Cosmological Model for Matter, Energy, Sound, the Origin of the Universe and Gravity
+Madonna-Megara Holloway
+
+Acumen Consulting 205 Westridge Lane
+Anmore, BC, Canada, V3H 0A3
+604-469-9446; madonna-megara@madonna-megara.com
+Abstract: This paper is an abstract of a greater volume of work more than 30 years in formation. It is a thought experiment. In order to present certain concepts, statements are made without supporting scientific observations which would require a substantial manuscript to present. This paper defines a new fabric for space and hypothesizes that matter is formed from this fabric through the agency of Black Holes. Dark sound is theorized. As a consequence of this hypothesis a new model for the origin of the universe is given including new definitions for Black Holes, Dark Matter, and Dark Energy. Neutral electricity, cosmic planes and sub planes are defined. New processes for the coalescing of atoms, the rotation of planets and the observed phenomena of Cosmic Fire are given. Gravity is defined as the result of magnetism and chemical bonds between structures.
+
+Keywords: Standard Model, Transport Medium, Gravity, Matter, Energy, Space, Big Bang, Electromagnetic Spectrum, Dark Sound, Dark Matter, Dark Energy, Totusmateria, Bach’s Fugue, Resonance Frequency, Hypergammic Radiation, Universe, Origin, Atoms, Fohat, Sonoluminescence
+PACS: 95.35+d; 95.36. +x; 98.80.-k; 98.80.Cq; 98.80.Bp; 98.80.Ft
+
+INTRODUCTION
+The concepts in this paper have been mostly extracted from two large bodies of work; A Treatise on Cosmic Fire (Bailey, 1973) and The Secret Doctrine (Blavatsky, 1977) with other portions from works by the same authors (Bailey, 1962). It is intended as a bridging paper between esoteric philosophy fact and scientific hypothesis. The concepts have been translated into the language of physics and chemistry from the often obtuse language found in philosophy. It should be noted that not everything that is written in a scientific journal is true but just because a thought comes from an expected direction doesn’t mean it is wrong.
+
+Law of Correspondence or Analogy
+Plato and Aristotle posited the concept of shared abstraction where objects did not necessarily share a relation in the usual sense but also a pattern, a regularity, an attribute, an effect or an object. Recurrence relationships demonstrate the pattern forming occurrences demonstrated in the microcosm. By the use of the Law of Analogy, the following demonstrates the means of which the microcosm can arrive at a glimmer of understanding of the more obvious aspects of the macrocosm or vice versa. There is an essential similarity which a science of comparative analysis can be utilized to understand the micro/macro processes. Comparative analysis or analogy is the key which unlocks the understanding and is an interpretive agency; however, the analogy is never exact in detail but only in certain broad basic correspondences.
+One of the postulates of this paper is that the Earth is anomalous in the universe. Whether or not it is replicated somewhere else is not important. What is important is that analogous processes, dimensions, actions and reactions found in the universe are replicated on this planet in some form. That the process may demonstrate differently due to the phasing of the environment or that processes which are negligible in this environment become of profound
+
+
+
+
+
+
+CP1208, Space, Propulsion & Energy Sciences International Forum–SPESIF-2010, edited by G. A. Robertson
+© 2010 American Institute of Physics 978-0-7354-0749-7/10/$30.00
+
+486
+
+importance in the cosmos is also true but there is an essential similarity. With this postulate, analogy will be used throughout to demonstrate a new scientific model for the Nature of Everything or the NOE Hypothesis (pronounced like the word ‘know’).
+
+FUNDAMENTALS
+“It is impossible, when the complicated facts of an entirely unfamiliar science are being presented to untrained minds for the first time, to put them forward with all their appropriate qualifications   We must be content to
+take broad rules first and deal with the exceptions afterwards….” (Blavatsky, 1977)
+
+Totusmateria
+The NOE Hypothesis is a paradigm shift in how science can view the physical world about us. It can be thought of as an alternative explanation for space, matter and energy from that of the Standard Model. Because of the scope of the subject matter, this paper cannot cover the entire breadth of this hypothesis nor go into the depth of detail that many of its tenets deserve. The original works cover several thousand pages. Instead, this paper will only describe the highest level points relative to this subject so that the some impacts of the hypothesis may be appreciated and should allow researchers a basis upon which to formulate further investigation into its veracity.
+
+The NOE Hypothesis starts by stipulating that there exists an essence that defines all of space. This essence is called totusmateria in the NOE Hypothesis, meaning that it is the total of all material in the universe –– it is ALL. Totusmateria as a cosmic substance, it is the root of matter; it contains the cosmic genes for differentiation and replication. It has its own properties which we observe and usually assign to other causes until experimentation proves the theory incorrect. Totusmateria comes in various forms the two most notable are differentiated matter – that which has form and undifferentiated matter – that which has no form and is part of the root. Matter is indestructible therefore totusmateria equals the sum of all forms. The properties of totusmateria overlays all observed phenomenon. In fact, it will be shown later in this paper that the only thing that truly exists relative to matter and form in this universe are sound waves, totusmateria and energy.
+
+As these three are examined closer it will become apparent the importance of the interaction of these three and the artifacts that they demonstrate.
+
+Dark Sound and Planes
+Physicists have recently theorized Dark Matter and Dark Energy and have through observation substantiated their existence. Despite the efforts Dr Andrew Beckwith has stated in numerous papers the problems associated with the standard model: “If the relative entropy of 1089 is roughly equivalent to the sum total of one million or so black holes in the center of one million spiral galaxies, then it may remove the necessity of embedding the universe in a larger super structure. If on the other hand, there is a radical difference in the summed value, this difference may be a smoking gun indicating either the necessity of higher dimensions than four for our universe’s space time, or that the metrics for curved space time used to compute event horizons are seriously flawed and need additional work.” (Beckwith, 2009) That is to say – something is just wrong – it doesn’t add up and a radical change is needed; a change which must be supported by empirical data but not necessarily models.
+
+The hypothesis presented in this paper suggests that there is more to sound than what is determined by the physiology of the human ear or what is detected by classical instrumentation. As stated above there is sound, matter and energy – both known and dark.
+The entire universe is totusmateria with sound waves and energy rippling through it. As demonstrated in Figure 1, these waves are perceived in the four known dimensions (but more speculated) as electromagnetic radiation occupying a spectrum that appears below. It is important to note that the NOE Hypothesis suggests that the EM spectrum is actually just various forms of a sound wave with the phenomena of light being a sound wave where the matter is rotating in reverse direction to the plane.  As the sound wave increases in frequency scientific
+
+
+
+
+
+487
+
+measurements clearly indicate that at the bottom end of the spectrum, or radio waves, behaves more like waves but as frequency increases particle properties become more pronounced.
+
+
+Figure 1. The Electromagnetic Spectrum.
+
+There is another version that is theorized as residing on six more planes or layers with each plane corresponding to a tone giving a total of 7 layers; A through G. An analogy is the 7 defined layers of the planet – solid, water, troposphere, stratosphere, mesosphere, thermosphere and exosphere. The observed EM band is analogous to the physical or the solid layer of the planet. Therefore, all of our observations are amongst the rocks. For the lack of a better term the EM bands on other planes is referred to as Dark Sound. Dark Sound is carried in the 5th dimension and has similar properties to the known EM band. As dark sound increases in frequency dark particle properties become more pronounced. Further, there is a form of light which resides on other planes. As observed in the current Earth analogy, sound on other planes affects the lower planes. That is a sonic boom in air affects water and rocks. This paper refers to sound on all planes as just SOUND. The concept is demonstrated in Figure 2.
+
+Figure 2. The 7 Planes Using the Earth Analogy
+
+
+
+
+
+488
+
+The earth analogy expands so that the hypothesis assumes that each plane has 7 sub planes. In a solar system analogy there are 49 planes from the Sun’s core to the Earth’s core. For example the first plane is the Sun with the following sub planes 1.Inner Core; 2.Radiative Zone; 3.Convection Zone; 4.Subsurface Flow; 5.Photosphere; 6.Chromosphere and 7.Corona. The bottom plane is the dense physical Earth with the following sub planes:
+Lithosphere; 6.Upper Solid; 5.Asthenosphere; 4.Upper Mantle; 3.Lower Mantle; 2Outer Core; and 1. Inner Core. There is a correspondence between the cores of the Sun and the Earth.
+
+The Continuation of the EM Band
+When considering electromagnetic (EM) radiation through space two factors are noted: the speed of transmission of EM radiation through space (i.e. the speed of light, c) and the upper limit of the EM spectrum (i.e. the highest measured energy of isotropic gamma radiation at approximately 200 MeV (Thompson and Fitchel, 1982) or 4.8x1022Hz). There have been momentary point flashes of gamma radiation detected above this level (see: http://en.wikipedia.org/wiki/Ultra-high-energy_cosmic_ray) but they are not continuous and emanating from all directions.
+These two properties could suggest that a transport medium is present and that the medium not only determines the speed at which EM transfers through it but that something occurs once the frequency of the radiation reaches approx. 4.8x1022Hz.
+Further, it is demonstrated that the rest mass of a proton (an H1 atom) is known to be approx. 1.007276 atomic mass units  (amu)  (Nave,  2001).   Expressed  in  terms  of  mass  that  becomes  approx.  1.67363x10-27kg (1 amu = 1.66054x10-27kg). Einstein’s equation that converts mass into energy is:
+𝐸 = 𝑚𝑐2	(1)
+Using this equation one gets the approximate energy of a proton to be 1.50418x10-10 Joules. Planck’s equation that converts quantum frequency into energy is:
+𝐸 = ℎ𝑢	(2)
+Substituting in the energy of a proton for E in this equation one gets the approximate frequency of a proton to be 2.27012x1023Hz. The interesting coincidence is the fact that this frequency is only a factor of 4.7 times the upper limit of isotropic gamma radiation. In other words, the electromagnetic spectrum spans 22 orders of magnitude from DC up to its upper limit and then within less than half a magnitude above that the frequency equivalence of the first element appears. But in order to raise this interesting coincidence up to an intriguing coincidence, one only needs to convert the frequency into a wavelength:
+𝜆 = 𝑐/𝑢	(3)
+The wavelength of a proton turns out to be 1.32060 fm. But the equation that approximates the nuclear radius of an atom based on its mass number A is:
+𝑅 = 𝑟0𝐴1/3𝑓𝑚	(4)
+Where R is the nuclear radius and r0 = 1.2. For a single proton this yields an approximate radius of 1.2fm, a difference of only 10%. In other words, there appears to be a correlation between the mass and radius of a proton and the upper limit of the electromagnetic spectrum.
+Is it possible that the constitution of a proton is, in fact, simply electromagnetic radiation at energy levels above that of gamma radiation, in an upper band of (for lack of a better term) Hypergammic radiation? The hypotheses states – yes. That is, through processes described below atoms coalesce from totusmateria and represent the continuation of the EM band. The first atom in the periodic table and hence the first in the continuation of the EM band is hydrogen.
+
+Production of Hydrogen through Radio Waves in Salt Water
+John Kanzius (see: http://en.wikipedia.org/wiki/John_Kanzius) in an attempt to find a cure for cancer stumbled upon an oddity of thermodynamics when he accidentally applied a radio wave to salt water which apparently caused
+
+
+
+
+489
+
+hydrogen and oxygen to be released. The Kanzius experiment was later replicated by Roy (see: http://en.wikipedia.org/wiki/Rustum_Roy) a materials scientist at Pennsylvania State University. According to Roy, "The radio frequencies act to weaken the bonds between the elements that make up salt water, releasing the hydrogen. Once ignited, the hydrogen will burn as long as it is exposed to the frequencies. The temperature and flame color varies with water solutions and concentrations.” If by analogy totusmateria is equivalent to the salt water, then the coalescing of hydrogen from totusmateria through the application of a sound wave, is by analogy demonstrated.
+
+Sonoluminescence
+Frenzel and Schultes (see: http://en.wikipedia.org/wiki/Sonoluminescence) accidentally stumbled upon an oddity of sonar when they applied an ultrasound transducer in a tank of photographic developer fluid. They observed that the bubbles were emitting light. Later, in 1984, Gaitan and Crum (see: http://en.wikipedia.org/wiki/Sonoluminescence) where able to produce a single-bubble, sonoluminescence, event. That is that as long as the sound wave is present in
+a stable environment a pulse of light is observed. The phenomenon is reportedly not well understood with such exotic explanations as Hawking radiation, virtual particles, black-body radiation, plasma ionization, quantum vacuum fluctuations, or coherent optical lasing etc.
+
+
+
+
+
+
+
+
+Figure 3. Sonoluminescence.
+Wrbanek, Fralick, and Wrbanek (2007) demonstrated in their research paper; high temperatures and kinetic energy with the possibility of fusion reaction. The Figure 3 shows a true color picture of sonoluminescence in light water (contrast enhanced) Exposure time was 2 min. at f/2.8 (Page 6). Comparative analysis demonstrates the apparent similarity between sonoluminescence and the observations of supernovae and gases in the macrocosm. That is to say that a single event of sonoluminescence is by analogy a ‘supernova in a beaker’.
+
+Summary
+
+
+The components discussed above appear to be fragments, parts of a puzzle which need to be put together to produce the whole. That is if you take the concept of the root of matter, with 7 planes each with its own EM spectrum which continues into the periodic table, and apply sound waves a model develops. This model is discussed below. As in all models it is important that empirical data fit. It is not important that established models with known issues such as the Big Bang are accounted for.
+
+THE ORIGIN OF THE UNIVERSE
+In the beginning there was primordial, undifferentiated, pregenetic cosmic substance or totusmateria. This substance was tainted from the previous cycles of the great wave that the hypothesis calls Bach’s Fugue after Johannes Sebastian Bach and the mathematical genius of his music (Pedersen, 2009). Fugues are typically composed of three separate contrapuntal voices with 7 notes per voice given a total of 21 notes plus the sub tones combined into one. The hypothesis suggests that the great wave which sounded and created the universe comes in three parts with each part corresponding to three states of electrical energy – the observed and commonly used negative electricity which powers our lives, positive electricity represented by the release of energy when the atom is split, and a neutral form of electricity with properties that synthesize, blend and equilibrate the other two forms. This form although observed is not recognized as yet but controls the spheroidal form of the atom both microscopic as in hydrogen and macroscopic as in galaxies. This sound wave travels in the 5th dimension (not including time).
+The exact form of Bach’s Fugue is not known at this time and can only be speculated but it is assumed that the composition of the wave is exceedingly complex. The notion that the universe can be modeled after tones or notes was delineated as early as Pythagoras. Although mired in historical controversy (see, http://plato.stanford.edu/ entries/pythagoras/), Pythagoras through observation concluded that “the heavenly bodies also appear to move in accordance with the mathematical ratios that govern the concordant musical intervals in order to produce music of
+
+
+
+
+490
+
+the heavens…” The hypothesis states that Pythagoras was correct. Bach demonstrated through his fugues that without mathematics there is no music (Pedersen, 2009). Therefore the universe can only be properly modeled through numbers, sound and color where a tenet of the hypothesis is that these three are synonymous terms. Clifton Callender at Florida State University, Ian Quinn at Yale University and Dmitri Tymoczko at Princeton University devised a method of analyzing complex mathematics into geometric forms as shown below.  This form of
+mathematics will eventual find the ‘composition’ of Bach’s Fugue and the beginning of the universe to the current condition will be determined.
+“The figure (Figure 4) shows how geometrical music theory represents four-note chord-types — the collections of notes from a tetrahedron, with the colors indicating the spacing between the individual notes in a sequence. In the blue spheres, the notes are clustered, in the warmer colors, they are farther apart. The red ball at the top of the pyramid is the diminished seventh chord, a popular 19th-century chord. Near it are all the most familiar chords of Western music.” (Callender, Quinn, and Tymoczko, 2008)
+The use of recurrence relations of which the Fibonacci sequence is a linear example and fractal theory will help explain the formation of the various forms from a short chain hydrocarbon to the complex nature of a galactic atom such as the Milky Way. There is a direct correlation between the tones
+
+Figure 4. Complex Mathematics in
+Geometric Form
+and rhythm of sound and the formation of forms in matter which follow the recurrence relation.
+
+The hypothesis suggest that instead of a ‘big bang’ being the genesis of the known universe that a complex sound wave in three parts within totusmateria allowed atoms, planets, stars, and galaxies to coalesce. This phenomenon continues.
+This also suggests that the total amount of observed physical matter in the universe is not a constant and as analogous to energy where total energy is equal to kinetic energy plus potential energy; total matter is equal to actual matter plus potential matter as stored in totusmateria. In other words the universe did not expand from a singularity but simply condensed out from the root of matter.
+
+Black Holes
+The mechanism which produces this phenomenon is the Black Hole where sound, matter and energy come together in a beautifully synchronous fashion and is illustrated below. It should be noted that totusmateria is not a principle and only responds to the other two. It is the cosmic gene pool from which form is made but only when energy and sound act upon it. It remains even when the other two have ceased. Totusmateria contains the code for differentiation and replication.
+The actual black hole is a vortex of inconceivable rapidity of sound which carries the three forms of electricity as defined below:
+Positive or synthesizing electricity which is understood as the core of the atom and demonstrated through a nuclear blast. It is characterized as a tendency to concentrate at a center or merge.
+Equilibrating, balancing or neutral electricity which includes chemical affinity and gravity and holds together the form. It is characterized as a pull and is analogous to magnetism and forces associated with chemical bonding.
+Negative electricity as understood by the electron and is characterized by an urge to:
+
+Vibrate
+Adapt or to rotary movement
+Repulse or non-attach and also keeps the atom rotating at fixed points
+Friction or the heat aspect.
+As noted in Figure 5 below the vortex is encased in a film or membrane which is not the event horizon – it is actual matter. The origin of the sound wave is the 7th plane counting up from the physical and in the 5th dimension. There is a massive black hole for the universe itself, and millions upon hundreds of millions of lesser black holes which are
+
+
+
+
+
+491
+
+at the center of every atom, system, and galaxy. The location, quality, tone and other factors are controlled by Bach’s Fugue as it plays out the rhythm.
+
+
+Figure 5. Defining the Black Hole.
+
+The coalescing of the atom proceeds in six stages (a lower frequency of sound in denser material has the same steps):
+Stage 1 - This stage is characterized by the first hint of differentiation and assumes a fine misty aspect.
+Stage 2 - Condensation begins but is very chaotic and there is no form. The beginnings of excessive heat and violent activity characterize this stage. Inchoate rotary action begins.
+Stage 3 - The sphere of the atom begins to form as it responds to the sound wave. Rotary action becomes more coherent and hence heat increases substantially.
+Stage 4 -The sphere of what is becoming the atom becomes more condensed and appears to go through a liquefaction stage. The outer surface begins to solidify, heat increases at the centre core or nucleus and the pulsation of the atom starts.
+Stage 5 – The atom proceeds to synthesize and the rhythm of the atom to the tone is established. The coloring and vibratory response of the atom can be seen. All parts of the atom are now moving to the chord of the tone in three parts:
+The nucleus responds to part 1 – positive charge.
+The spheroidal form responds to part 2 – synthesizing or equilibrating.
+The electrons respond to part 3 – negative charge.
+This stage is very important as the synthesis and synchronization of the positive and negative charges and the equilibrating of the spheroidal form determines the quality, appearance, attributes, and properties of the atom.
+Stage 6 - This final stage is the completed atom which now appears to be substance and matter as partly understood by classical chemistry and physics. The nucleus is rotating and the vortex about the axis is clearly defined. The
+
+
+
+
+492
+
+cohesiveness is only maintained as long as sound is present. If the sound wave stops then dissolution occurs and the differentiated atom returns to undifferentiated totusmateria.
+The sound wave determines the form which has coalesced using the cosmic genetic code stored in totusmateria.
+Another way of viewing the process, an analogy, is in terms of biological reproduction:
+The male aspect or father is represented by the black hole. It contributes the electricity for animation, the tone, quality and color of the form which appears.
+The female aspect or mother is represented by totusmateria. It contributes the matter and the cosmic code for differentiation and replication.
+The offspring, created by merging the male and female aspects, is all forms.
+
+Dark Matter and Energy
+The Figure 5 also demonstrates the significance of the photoelectric effect where blue light creates a current but red light will not. The 7th plane has no particle properties and solidification of form increases as the physical layer is approached towards the color of violet. That is to say, the planes are replicated in the visible light spectrum. Further evidence of this is the observed phenomena of Dark Matter being of a finer grade substance on a higher plane within the cosmic physical plane as noted below. Please see Figure 6 and Figure 7 which shows a fourth etheric system.
+
+/
+Figure 6. Defining Dark Matter and Energy in a 4th Etheric System – Earth - Part 1 (EM Spectrum snippet: Image courtesy of NASA's "Living With a Star" program (http://ds9.ssl.berkeley.edu/LWS_GEMS/index.htm) and the Center for Science Education at Space Sciences Laboratory, University of California at Berkeley).
+Figure 6 shows the solidification of planet Earth from the 4th Etheric plane as it coalesces to the physical plane. Planes 5, 6 and 7 are the material planes were matter is the coarsest and hence detected. Ether and matter are synonymous terms but graduated according to solidification. Ether is undifferentiated totusmateria; matter is differentiated by fohat carried by sound in the 5th dimension. Not shown are the ascending arc and the transition of the planet as it returns to the higher planes. This phenomenon accounts for the missing mass.
+
+
+
+
+
+
+493
+
+The Earth from its perspective is the nucleus and carries with it the electrons and other particles as defined by chemistry for atoms. As Earth condenses from totusmateria it develops its molecular structure as noted in Figure 7. Only Earth sits in the visible plane. All other globes sit in Dark Matter. The atom is encased in an ovoid of neutral electricity. The chemical bonds are noted in bluish colors and the connection to the surrounding schemes of Venus, Mercury etc. are also shown. Earth is bonded to the Sun as an electron and is discussed later under gravity
+
+Figure 7. Defining Dark Matter and Energy - Chemical Structure of the Earth Scheme – Part 2.
+All physical plane planets are the ‘tip of the iceberg’ and have chemical structures sitting in Dark Matter. Two points to note from above:
+The planes are numbered from 1 to 7 in reverse order of the major planes since the direction is below the axis. The planes are shown rotating east to west and exist in matter differentiated into seven qualities, grades or vibration.
+The electromagnetic spectrum shown in planes 5 and 6 is analogous to the EM spectrum found in the 7th plane and for the purpose of this hypotheses is defined as Dark Sound. It is phased to the plane. Fohat on these planes is referred to as Dark Energy.
+
+Everything Rotates
+
+If totusmateria is truly infinite in dimension then there will be an infinite number of universes coalescing, expanding and ceasing throughout all of creation. That is to say, our universe is but an atom in the fabric of infinity and that innumerable other universes exist simultaneously. Our universe is following the 6 step process and eventually will develop full rotary action with a well defined vortex at the center. Since this vortex has not been discovered it would suggest that the universe is somewhere around stage 3 – that is our universe is young. The WMAP Cold Spot (Rudnick, Brown, and Williams, 2007) MAY be the beginning of the well defined vortex. It should be noted that the black hole comes first, followed by the rotary action.
+The rotation of atoms and our universe follows 3 stages. We are at stage 2.
+
+
+
+
+
+494
+
+Inertia – the initial stage as a result of inactivity and the relative quiescence of totusmateria.
+Mobility – rotary movement begins as inertia is overcome by the incessant rotation of the black hole. The radiation of matter produces necessarily an effect upon other atoms in its environment, and this interaction and interplay causes repulsion and attraction according to polarity eventually producing cohesion of form. The implication here is that our universe is within the sphere of other ‘universe-atoms’ and that contact with the periphery of these universe-atoms in our universe’s environment allows for the ingress and egress of force and heat. Evidence of this phenomenon is noted by Andrew Beckwith in a series of papers outlining the problem with entropy in the cosmos. (Beckwith, 2009a, 2009b, 2009c)
+The actual complex structure of surrounding universe-atoms is not known but the simplest of the possible structures is analogous to deuterium - 2H.
+Rhythm – this is the point of perfect balance.
+Since the sound wave is dynamic and cyclic, the universe as we know it will continue to expand, and more rapidly as measurements indicate that the volume of the sound is increasing, but cessation will occur. It is important to note that everything rotates; light particles which rotate in reverse direction to the plane – west to east, planes which rotate east to west and energy which rotates north to south through the planes. The coordinates are illustrative only. Please see Figure 8.
+
+Figure 8. Everything Rotates.
+The result of rotation produces:
+Separation or the repulsive effect which allows for differentiation.
+Momentum or the interior effect which keeps the planets at fixed points.
+Friction or environal effect which keeps the atom vital and produces heat.
+Absorption or the receptive or attractive effect which allows for the flow of force which animates the sphere. Further, as demonstrated in the planet Earth, each atom has a slight depression at the North Pole where the forces from without enters the sphere and counter rotates to the rotation of the sphere. From
+
+
+
+
+
+
+495
+
+there the energy makes its way southward to a mid way point where it increases latent heat and produces added momentum. I am not referring to the Magnetic Dipole. The same is true for larger structures.
+Cosmic fire is produced when planes, light and energy come together in a synchronous, stable environment an example being Betelgeuse which is in reality the energy center for a greater structure. Only animated atoms rotate. Those atoms such as the Earth’s moon which have no light of their own, do not rotate and hence do not create internal heat are dead. In the case of the moon it is a cosmic carcass and scientific measurement should indicate disintegration. The position of the rays (not discussed in this paper) shown in Figure 8 is relative to the planet Earth at this time.
+
+The End – Big Bang
+The end for the universe is marked by a note as sound also destroys as well as build. Obscuration is signaled and disintegration of the form proceeds. The ovoid encapsulating our universe breaks down. As differentiated matter is merged with the root of matter, the three forms of electricity, positive, negative and synthesizing will unite bringing about spontaneous combustion. Force, energy and the production of heat cease and totusmateria returns to a quiescent state.
+The conclusion here is that the ‘Big Bang’ is the end of manifestation – not the genesis.
+All of the stages are clearly visible in the universe since solar systems and galaxies are atoms on a larger scale and are demonstrated in Figure 9.
+
+(a)	(b)	(c)	(d)
+Figure 9. These figures demonstrate the process, (a) shows the composite image of Cepheus B combines data from the Chandra X-ray Observatory and the Spitzer Space Telescope and demonstrates step 1; (b) shows Steps 2 to 4 which is shown by the nebula cataloged as NGC 604 is a giant star forming region, 1500 light years across, in the nearby spiral galaxy, M33. Over 200 newly formed, hot, massive, stars are scattered within a cavern-like, gaseous, interstellar cloud (see http://antwrp.gsfc.nasa.gov/apod/image/ngc604_hst_big.jpg); (c) shows Steps 5 and 6 which demonstrates a spiral galaxy, about 60 million light years from Earth as imaged by the Hubble Space Telescope. It is a fully formed cosmic atom with the characteristic black hole or vortex; (d) shows the final stage.
+
+Steps in the Universe Beginning to End
+To summarize the above, it is proposed that the life cycle of the universe follows these basic steps:
+Totusmateria was present with no form, light or energy.
+
+
+
+
+
+
+496
+
+A long radio wave penetrated totusmateria through the mechanism of a black hole. The frequency of the sound wave increased passing through microwave and infrared with the first real hint of birth appearing when the wavelength reached that of light. The planes developed and light appeared on all planes.
+As the frequency increased it reached the hypergammic stage. The first atom to coalesce was hydrogen following the six stages. The cosmic zygote is encased in an ovoid.
+Electrical energy in its 3 forms is functioning perfectly. The young universe is held together through the spheroidal form controlled by the synthesizing electrical energy of the second aspect.
+Hydrogen converted to helium and the chemistry of space continued as more atoms coalesced out of totusmateria. Bach’s Fugue becomes more complex, more black holes develop, differentiation begins and the volume increases. Expansion follows.
+Following principles of recurrence relations and using the cosmic genetic code stored in totusmateria, planets, suns, stars and galaxies develop and proceed through the lifecycle in three basic stages: inertia, mobility and rhythm. The universe in its totality is influenced by other universe-atoms and rotates.
+The end of the cycle is witnessed by a ‘big bang’. Time ceases in the cycle, matter is reabsorbed back to the root and quiescence sets in.
+
+THE VACUUM OF SPACE AND GRAVITY
+Science assumes that space is nothing since they observe the vacuum although as outlined by Krauss (1999) in his book Quintessence, the void is actually thought to be Dark Matter with exotic properties. Aristotle also proclaimed there is no void. The vacuum has been unsatisfactorily explained as the near absence of matter due to the gravitational pull of the various large bodies occupying the space. However the hypothesis asserts that the observed gravity is a result of the attraction and repulsion of the nucleus and electrons of an atom/planet created by the rotary action and as mollified by a synthesizing electrical force maintaining equilibrium working through totusmateria; that is the second aspect of electricity to synthesize exerts forces on cosmic differentiated material both within the ovoid and externally. Therefore what the physicist calls gravity the chemist calls a bond. To demonstrate, Figure 10 gives the gravity and bonding structure relative to the planet Earth. Another planet would have a different structure. As shown below The Pleiades is the source for the neutral bonding energy which is found on the 4th plane of the cosmic physical plane and in the 4th dimension for visible globes. As a general rule blue/blue-white planets coalesce from totusmateria from the note of B and the energy of the second ray as noted in Figure 8 and typically carry the neutral form of electricity which binds.
+The gravity or bonds affecting Earth follows:
+A triangle of energy between Sirius, Alcyone which supplies the neutral bonding force, and the Sun. The bond between Sirius and our Sun is equivalent to J-coupling and the Nuclear Overhauser Effect - magnetization transfer by dipolar coupling - both of which are prominent in the formation of DNA. Further, there is a solar union between ALL Suns which is not accounted for in the figure.
+Our solar system has a positive polarity to The Pleiades.
+Our solar system has a positive polarity to the combined forces of Merak, and Dubhe. The neutral bonding force comes from The Pleiades.
+There are intermolecular forces between:
+
+Our solar system, The Pleiades, and Merak (which forms a great cosmic triangle)
+Mercury, Earth and Mars
+Venus, Jupiter and Earth
+Venus, Jupiter and Saturn.
+
+The Sun is a great magnet and has a positive polarity to all of the planets, planetoids and other minor objects in the solar system.
+The Earth has a positive polarity to Venus.
+Dark Matter bonds are shown in Figure 7
+
+
+
+
+
+
+
+
+497
+
+/
+Figure 10. Simplified Polarities and Bonds Relative to the Planet Earth
+
+Vacuum
+The issue with vacuum is that gravity is not the cause. The NOE Hypothesis states that the vacuum of space is an observed phenomenon created when sound at a certain frequency in the 5th dimension is applied to totusmateria. The tone when phased to our atmosphere should allow for the reproduction of the phenomenon in the laboratory.
+
+WAVE PARTICLE DUALITY OF LIGHT
+
+The observed phenomenon of both wave and particle properties of light is explained in the hypothesis as the effect of light particles being bonded together with neutral electricity which gives the appearance of a wave under certain conditions. Light particles are matter of the finest order which is animated by fohat. The particle rotates in the opposite direction to the plane. It is bonded to the neighbouring particle through the 2nd aspect of electricity – neutral. This neutral form of electricity is NOT a particle and gives the appearance of a wave.
+
+SUMMARY
+
+In summary, the NOE Hypothesis states:
+
+Totusmateria is the root of matter, the cosmic gene pool, in two basic forms: differentiated and undifferentiated.
+Sound is defined as both known and dark. When the sound wave stops the form disintegrates and differentiated matter returns or is reabsorbed into the root of matter – totusmateria.
+There are 7 planes with each plane further divided into 7 sub planes giving a total of 49 planes. The visible light spectrum replicates the 7 planes.
+
+
+
+
+
+498
+
+There are 10 dimensions not including time. Bonds are found in the 4th dimension, and the cosmic fugue is found in the 5th.
+The atom coalesces out of totusmateria in a six step process.
+Electricity comes in 3 parts – positive, negative and synthesizing - and is referred to as Fohat. Synthesizing, equilibrating or bonding energy comes from the 2nd ray and typically manifests through blue/blue-white planets.
+The origin of the universe was not created by a Big Bang, but a grand sound wave labeled Bach’s Fugue which acted upon undifferentiated, primordial, pregenetic cosmic substance or totusmateria. The universe ends with a ‘big bang’.
+A Black Hole is the male aspect to cosmic reproduction and is a sound wave carrying fohat whirling at inconceivable rapidity.
+Dark matter is a finer grade substance on a higher plane.
+Everything rotates. Perfect rotation of matter, light and energy produces Cosmic Fire.
+The known universe is but an atom in the fabric of infinity and is affected by other universe-atoms and will eventually be seen to rotate.
+Modeling the universe needs to be completed using sound and classical mathematics, and color.
+Gravity and chemical bonds are synonymous terms.
+A vacuum is created by a sound wave and can be reproduced in the laboratory.
+
+CONCLUSIONS
+The purpose of this paper is to bridge esoteric philosophy with science and to resolve ‘lost in translation’ problems. The objective was to merge the two sciences and demonstrate that although the sources may be unusual the concepts appear to be valid. A coherent hypothesis for the origin and structure of the universe, Black Holes, Dark Matter, Dark Energy and resolving gravity is demonstrated. Validation however from the scientific community is necessary so the following next steps are suggested:
+
+Map all of the Suns in the universe to determine the structure.
+Assume Figure 10 is correct and calculate the gravity field for planet earth. Chemical bonding theory and the effect of magnetization of the SUN must be used. There should be good approximation. Precise calculations will require that all planets and schemes be included, plus rotation.
+Complete entropy calculations from the early universe to the present assuming that the universe coalesced from totusmateria. Calculations must include pre-existing heat and force from other universe-atoms. It is suggested that initial calculations be modeled as deuterium in an octahedral structure.
+Develop a lab experiment which demonstrates that a vacuum can be created by sound.
+Greater study of the The Pleiades is required.
+Mathematically define neutral electricity.
+Develop lab experiments to discover the sound of light. It is suggested that the note of G and the color violet are synonymous and may be the easiest to find initially. Once the sound of light is determined then it will be possible to ascertain the tone of atoms, the chord of molecules and the tones of larger structures. A corollary to this is that the energy of the form will also be known. This will constitute a major paradigm shift in chemistry, physics and cosmology and will begin to unravel the Nature of Everything.
+
+DEFINITIONS
+Totusmateria - A material essence that is the fabric of space. It is the cosmic gene pool which allows for differentiation and replication. The medium that causes matter to condense out into existence in the presence of hypergammic radiation or sound waves. It is the sum total of all substances both differentiated and undifferentiated.
+Hypergammic radiation - Wave energy that is at frequencies of Hydrogen (i.e. 2.27012x1023Hz) or higher OR as phased to the plane it is on.
+Bach’s Fugue - The name given to the complex sound which controls all forms in the universe. The wave comes in 3 parts corresponding to the 3 types of electrical energies.
+
+
+
+
+
+499
+
+Fohat - The name given to cosmic electricity in its triple nature and affects matter in all forms on all planes. It vitalizes all atoms.
+
+ACRONYMS
+EM - Electromagnetic	NOE - Nature of Everything
+
+NOMENCLATURE
+
+
+E = energy in joules
+fm = femtometres, 10-15 metres m = mass in kilograms
+
+
+
+Constants
+R = radius of nucleus in femtometres Z = wavelength in metres
+v = frequency in Hertz
+
+A = Atomic mass number, 1.660 538 782(83) × 10−27kg c = speed of light in metres per second (~299,792,458) h = Planck’s constant 6.62606896(33)×10−34 Js
+r0 = conversion factor of 1.2
+
+ACKNOWLEGDEMENT
+
+The author wishes to acknowledge Mark Garstin for his considerable contribution on the definition of hypergammic radiation and with great gratitude Dr. Andrew Beckwith for his dogged pursuit for something different from the Standard Model and his frequent encouragements that non physicists can contribute to the resolving of the cosmological problem.
+
+REFERENCES
+Bailey, Alice, “A Treatise on Cosmic Fire,” Fort Orange Press, Albany, N.Y., (1973). Bailey, Alice, “A Treatise on The Seven Rays,” Lucis Pub. Co, New York, (1962).
+Beckwith, Andrew, “Entropy Growth in the Early Universe and Confirmation of Initial Big Bang Conditions,” Numerical Analysis And Applied Mathematics: International Conference on Numerical Analysis and Applied Mathematics 2009, AIP Conference Proceedings, 1168, (2009), pp. 1077-1083.
+Beckwith, Andrew, “Entropy Growth in the Early Universe, and the Search for Determining if Gravity is Classical or Quantum, Part I (Confirmation of Initial Big Bang Conditions?),” http://www.vixra.org/pdf/0909.0016v1.pdf, Sept, (2009a).
+Beckwith, Andrew, “Entropy Growth in the Early Universe, and the Search for Determining if Gravity is Classical or Quantum, Part II (Do Physical Laws/ Physics Parameter Constants Remain Invariant from a Prior Universe, to the Present Universe?),” http://www.vixra.org/pdf/0909.0017v1.pdf, Sept, (2009b).
+Beckwith, Andrew, “Entropy Growth in the Early Universe, and the Search for Determining if Gravity is Classical or Quantum , Part III (Is Gravity a Classical or Quantum Phenomenon at its Genesis 13.7 Billion Years Ago?)”; http://www.vixra.org/ pdf/0909.0010v2.pdf, Sept., (2009c).
+Blavatsky, H. P., The Secret Doctrine: The Synthesis of Science, Religion, and Philosophy – Volume 1 Cosmogenesis, Pasadena, Calif.: Theosophical University Press, (1977).
+Callender, Clifton, Quinn, Ian and Tymoczko, Dmitri, “Geometrical Music Theory,” Science 320(5874), 18 April, (2008), p. 346. Krauss, Lawrence, Quintessence: The Search for Missing Mass in the Universe, Basic Books, New York, NY, (2000).
+Nave, C. R., “HyperPhysics,” CD, Department of Physics and Astronomy, Georgia State University, (2001). Pedersen, Noralv, “Music is also Mathematics,” Norwegian University of Science and Technology (NTNU), (2009).
+Rudnick, L., Brown, S. and Williams, L. R., “Extragalactic Radio Sources and the WMAP Cold spot,” Astrophys.J., 671, (2007),
+pp. 40-44.
+Thompson, D. J. and Fichtel, C. E., “Extragalactic gamma radiation - Use of galaxy counts as a galactic tracer,” Astron. Ap., 109, (1982), p. 352.
+Wrbanek, John D., Fralick, Gustave C. and Wrbanek, Susan Y., “Development of Techniques to Investigate Sonoluminescence as a Source of Energy Harvesting,” in the proceeding of the 43rd Joint Propulsion Conference sponsored by the American Institute of Aeronautics and Astronautics, AIAA-2007-5596, Cincinnati, Ohio, July 8–11, (2007).
+
+
+
+
+
+
+
+500
+
+
+A New Cosmological Paradigm: the Cosmological Constant and Dark Matter
+Lawrence M. Krauss1
+Departments of Physics and Astronomy
+Case Western Reserve University, Cleveland, OH 44106-7079
+
+
+
+Abstract. The Standard Cosmological Model of the 1980’s is no more. I describe the definitive evidence that the density of matter is insufficient to result in a flat universe, as well as the mounting evidence that the cosmological constant is not zero. I finally discuss the implications of these results for particle physics and direct searches for non-baryonic dark matter, and demonstrate that the new news is good news.
+
+
+I	INTRODUCTION
+One of the great developments of the 1980’s was the creation of a Standard Model of Cosmology based on ideas arising from Particle Theory. This model involved the following trilogy of ideas:
+Ω ≡ 1
+
+Λ ≡ 0
+Ωmatter ≈ ΩCDMWIMP ≥ 0.9
+
+
+A decade later observational cosmology has made tremendous strides, and we now know that at least two of these fundamental notions must be incorrect. Either
+
+1) Material based on Invited Lectures, PASCOS 98, Boston MA, March 98; Tropical Work-shop on Particle Physics and Cosmology, San Juan, Puerto Rico, April 98; WEIN98, Santa Fe, NM, June 98. To appear in these proceedings. Research supported in part by the DOE. email:krauss@theory1.phys.cwru.edu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+axion
+
+In either case the implications for both cosmology and particle physics are profound. In the first place,
+
+Either: Ω /= 1 or Λ /= 0
+
+Whichever is true, this implies we don’t understand something very fun-damental about the microphysics of the Universe—a very exciting prospect! If Ω /= 1 then the canonical prediction of inflation is incorrect, and we have to understand how inflation, or another theory, might address the fine tun-ing required to solve the flatness problem without actually resulting in a flat universe today. If Λ /= 0 then the situation is in a sense even more exciting, as there is no theory of the cosmological constant at the present time, and the supposition that this quantity is indeed zero rests primarily on a priori theoretical prejudice at this point. (I here include in the term ”cosmological constant” those models which involve a very slowly varying scalar field, which in effect mimics a cosmological constant over long time intervals.)
+At the same time, we have:
+Ωmatter ≈ ΩCDMWIMP ≈ 0.1 — 0.3
+
+This also has dramatic implications, not only for our understanding of the role dark matter plays in the formation of large scale structure, but also for our propsects for direct detection of non baryonic dark matter. Contrary to one’s naive expectations however, the implications are quite positive. Dark matter may not contribute 90% of the mass of the Universe, as previously envisaged, but it still appears to outweigh baryonic matter. Moreover, as I will demonstrate, in all cases these results suggest that the interaction strength of dark matter with normal matter will be INCREASED, and thus in principle
+
+direct detection should be easier than it would otherwise be. As long as the dark matter contribution to the fraction of the closure density is larger than 0.1, so that it can account for essentially the entire inferred dark matter content of galactic halos in general, and our galactic halo in particular, the increase in interaction cross section is not counterbalanced by a decrease in the dark matter flux on earth, so that the net event rate in detectors should be larger than would be the case if ΩCDM ≈ 0.9.
+
+II	THE CASE FOR A COSMOLOGICAL
+CONSTANT
+Over the past 5 years a variety of indirect observables, involving the three fundamental independent observables in cosmology, the expansion rate, the matter content, and large scale structure, have all suggested that either the universe is open, or the cosmological constant is not zero [1–3]. In the past year, the indirect evidence has been strengthened by new large scale structure measurements, and for the first time, striking new direct measurements suggest that the Hubble expansion is accelerating. I first review the older, indirect evidence, and then describe the most recent results.
+
+The Age Problem
+The Hubble constant, by a very simple argument, gives an upper limit on the age of a matter dominated universe. Matter causes a deceleration of the universal expansion over time. Thus, at earlier times the universe would have been expanding faster than it is at the present time. One can, in turn, therefore derive an upper limit on the age of the universe by considering the fact that all galaxies were once located together, and using the relation for a constant velocity to determine the length of time a galaxy at a given distance, moving away at a constant velocity took to get there, i.e. d = vt → t = d/v = H−1,
+where the definition of the Hubble constant, H0 has been used. In fact, of
+course, this upper limit on the age of the Universe is an overestimate of its age, and with a given cosmological model one can derive a specific relation between the Hubble constant today and the age of the universe. One has:
+Flat matter dominated	t = (2/3)H−1 = 9.7Gyr(65/H0)
+Open (Ω > 0.2)	t < .85H−1 = 12.5Gyr(65/H0) Flat (ΩΛ < 0.8)		t < 1.08H−1 = 16Gyr(65/H0)
+Thus, if one could definitively demonstrate that the Universe were older than either of the first two relations allowed, given the allowed range of H0, one would have strong evidence that Λ /= 0, since a non-zero cosmological constant
+
+would allow a universal acceleration, and hence allows an older universe for a fixed Hubble Constant.
+While precisely such a situation seemed to prevail as recently as 1996 [4], more recent estimates for the age of globular clusters have suggested that the age of our galaxy is younger than previously estimated. At the same time, estimates of the Hubble constant are now somewhat lower than previously claimed, so that a range of 65- 75 kms−1Mpc−1 is now preferred [5]. Neverthe-less, the new quoted 95 % lower limit, of approximately 9.8 Gyr with a best estimate of the age of 11.5 Gyr [6], strongly disfavors a flat universe, even if it remains compatible with an open universe.
+
+The Baryon Problem
+Big Bang Nucleosynthesis (BBN) has for some time provided an upper limit on the total density of baryonic matter in the univere [7,8]:
+ΩBh2 ≤ .026	(1)
+Most recently, claimed observations of the deuterium fraction in primordial hydrogen clouds illuminated by the light of distant quasars [9] suggest that the actual baryon abundance is near the upper limit of this range. While this puts pressure on BBN analyses, more germaine for this discussion is the fact that when combined with direct observations of the baryon fraction on large scales today, it effectively rules out the possibility of a flat universe.
+X-Ray Observations of Clusters of Galaxies, the largest bound structures known in the Universe suggest that the dominant baryonic material in these systems exists in the form of hot X-Ray emitting gas. Assuming this material is in hydrostatic equilibrium with the gravitational potential of these systems one can, by observing both the X-Ray Luminosity and temperature as a function of radius, perform an inversion which gives an estimate of this potential, and hence the total mass, MT , of these . At the same time, direct observations of the luminosity yield an estimate for the total baryonic mass in hot gas, and hence the total baryonic mass MB. Thus, one derives the ratio R = MB/MT for these sytems. Now, as these systems are the largest bound objects known, it is reasonable to assume that they are good probes of the distribution of all gravitating matter on large scales. Thus, the ratio R is expected to be not just the ratio of baryon to total mass of clusters, but the ratio of baryonic to total mass in the Universe. Thus,if the Universe is flat, so that the density
+corresponding to MT yields Ω = 1 then one has precisely the relation R = ΩB.
+Therein lies the problem. Observations, combined with theoretical models of clusters yield the constraint [10]
+R > .043h−3/2	(2)
+If R = ΩB then clearly this equation is inconsistent with the BBN bound.
+
+This problem can be simply resolved however, if ΩMT < 1 so that the ratio R is in fact larger than ΩB. There are then two possibilities. Either ΩMT = Ω < 1, or ΩMT + ΩΛ = 1.
+
+Large Scale Structure
+
+The growth of structure in the Universe, if gravity is responsible for such growth, provides an excellent probe of the universal mass density, based largely on issues associated with causality alone. The basic idea is the following: If primordial density fluctuations have no preferred scale, then one can express their Fourier transform as a simple power of the wavenumber k. At the same time, if this power is much greater than unity, density fluctuations will blow up for large wavenumber, or small wavelength, and too many primordial black holes will be created. If the power is much less than unity, then fluctuations on large scales (small wavenumbers) will be inconsistent with the observed isotropy of the Cosmic Microwave Background radiation. Thus, we expect the exponent, n to be near one, and inflationary models happen to predict precisely this behavior.
+The primordial power spectrum, however, is not what we observe today, as density fluctuations can be affected by causal microphysical processes once the scale of these fluctuations is inside the horizon scale—the distance over which light can have travelled between t=0 and the time in question. One can show that in an expanding universe, as long as the dominant form of energy resides in radiation, gravity is ineffective at causing the growth of density fluctuations. In fact, such primordial fluctuations in baryons will be damped out due to their coupling to the radiation gas. Once the universe becomes matter dominated, however, primordial fluctuations on scales smaller than the horizon size can begin to grow.
+
+Fluctuation Spectrum
+
+
+
+
+
+causal processes inside horizon
+
+
+k	k	/
+
+These arguments suggest that an initial power law spectrum of fluctuations will “turn over” as shown in Figure 1 above for large wavenumbers which en-tered inside the causal horizon during the early period of radiation domination in the Universe. By exploring the nature of the clustering of galaxies today over different scales, including measurements of the two point correlation func-tion of galaxies, the angular correlation of galaxies across the sky on different scales, etc, one can hope to probe the location of this turn-around, and from that probe the time, and thus the scale which first entered the horizon when the universe became matter dominated. Clearly this time will depend upon the ratio of matter to radiation in the Universe today (if this ratio is increased, then matter, whose density decreases at a slower rate than radiation as the universe expands, will begin to dominate the expansion at an earlier time, and vice versa. In turn, knowing this ratio today gives us a handle on Ωmatter. A recent compilation of large scale galaxy clustering data [11,12] restricts this quantity to be in the range:
+0.25 ≤ Ωmatterh ≤ 0.35	(3)
+Since h appears to lie in the range 0.65-0.75, this suggests Ωmatter < 1. Note, however that this argument does not restrict the component of Ω which might reside in a cosmological constant today, since this energy density is fixed, so that even if it dominates today, it was irrelevant compared to the energy density of matter and radiation at early times.
+By combining these three independent sets of constraints, one can, for either an open universe, or a flat universe with a cosmological constant, constrain the parameter space of h versus Ωmatter [1,3]. These constraints are shown in the figures below [3], which clearly indicate that a flat matter dominated universe appears to be inconsistent with observations.
+
+
+1.0
+1.0
+
+
+0.8
+0.8
+
+
+h 0.6
+h 0.6
+
+0.4
+0.4
+
+
+0.2
+
+
+0.2	0.4
+
+
+0.6	0.8
+0
+
+
+1.0
+
+
+0.2
+
+
+
+0.2	0.4	0.6	0.8
+0
+
+
+
+1.0
+
+FIGURE 1. Constraints on h vs Ωmat for a flat universe. The constraints discussed in the text (A, B, and C). The other constraints are discussed in (Krauss 98).
+FIGURE 2. Constraints on h vs Ωmatter for an open universe. Constraints are as described in previous figure.
+
+Recent Observations: Galaxy Clustering, the CMB and Supernova Standard Candles
+The situation described above has been recognized for over two years. Within the last year or so, however, new observations have made the case for a cosmological constant even stronger. I briefly describe these observa-tions below.
+Cluster Evolution: In a Universe in which there is not a precisely critical density of matter, small density fluctuations on large scales cease to grow due to gravity once either the total density begins to deviate significantly from that associated with a flat universe, or when the density in a cosmological term begins to dominate over the density of matter. Thus, if the universe is not flat today, or if the cosmological constant dominates, then structure has ceased to continue to grow on large scales. If, however, the universe is flat and matter dominated, structures on every larger scales are continuing to form by gravitational collapse. This suggests that if one examines out to high redshifts one should see significantly fewer rich clusters of galaxies then one sees today. The difference is significant. As Neta Bahcall and colleagues have recently pointed out [13], the probability of finding a rich cluster at a redshift of 0.7 is perhaps 100 times smaller for a flat matter dominated universe than for a universe in which the growth of large structures stopped some time ago. A single large cluster observed at such high redshift can then provide, largely independent of detailed modelling, damning evidence against a flat matter dominated universe. By cataloguing such clusters out to redshifts of this order, these authors have recently claimed to present definitive evidence ruling out a flat, cold dark matter dominated universe. Both open, or flat cosmological constant dominated universes are consistent with this data.
+Type 1a Supernova at High Redshift: As anyone who has glanced at a paper in the past six months knows, two groups have recently and hopefully independently claimed to measure the relation between redshift and distance out to redshifts in excess of 0.5, and in so doing have been able to probe for cosmic deceleration or acceleration. The probes used have been Type 1a Supernovae. These have been claimed to be superb Standard Candles for two reasons: (i) Type 1a supernovae occur when a white dwarf, through accretion, passes the Chandrsekhar limit, and undergoes a detonation explosion. The physics of this process should not depend significantly on the evolutionary status of the galaxy in which the star is housed. (ii) Detailed studies of the luminosity profile of such supernovae suggest a strong relation between the width of the light curve, and the absolute luminosity of the supernova. This allows one, in principle, to accurately determine this absolute luminosity. Based on these features both groups have now claimed to report definitive evidence for a non-zero cosmological constant. Moreover, they claim, at the 99
+% confidence level, to be able to rule out both a flat, and an open universe with
+
+zero cosmological constant [14,15]. Even more remarkably, the favored region, for a flat universe, is precisely in the range favored by the other constraints in the figures shown above (which I remind you were drawn before these results appeared), namely Ωmat ≈ 0.3 — 0.4, ΩΛ ≈ 0.6 — 0.7. It remains to be seen if further data taken at high redshift confirm these results, and more importantly confirm the assumption that evolution is negligible for such supernovae.
+CMB preliminary studies: If one decomposes the observed CMB anistropies on the sky into multipoles on the sky, it is well known that CDM cosmologies predict a rise in the power spectrum as a function of multipole approaching a large peak, followed by smaller peaks. The position, in mul-tipole space, of this first peak is a probe of the geometry of the universe, as it is related to the angular size of the horizon at the last scattering surface, as seen today. Very preliminary results from terrestrial observations of high multipole anisotropies in the CMB tend to confirm the existence of such a peak, and moreover the position of the peak appears to favor a flat, versus an open universe. If this is the case, then the existence of a non-zero cosmological constant, in light of all the other direct and indirect evidence, seems assured.
+It is almost unnerving that all existing cosmological data appears to point in the same direction—towards a non-zero cosmological constant. As someone who has been promoting the idea that the cosmological constant might be non-zero for some time, I frankly found myself more comfortable when some of the data argued against this possibility. In any case, the wealth of cosmological data now available appears to unambiguously point to the fact that Ωmat < 1, whether or not the cosmological constant is non-zero. This fact may have profound implications for dark matter detection.
+
+III	IMPLICATIONS FOR PARTICLE PHYSICS AND THE SEARCH FOR DARK MATTER
+The magnitude of the cosmological constant which would be required by the present data is remarkably small. Before proceeding to examine the con-sequences of the above results for dark matter detection, it is worth pausing for a moment to reflect on this feature. When I recently did this while prepar-ing this lecture, I turned to a pocket calendar I had with me, and noticed the quotation:
+“To see what is in front of one’s nose requires a constant struggle”
+George Orwell
+What, you may ask, does this have to do with the topic at hand. Plenty, I claim. For it reminds us that we can put remarkably stringent limits on certain quantities by using macroscopic amounts of material. In particular, it harkens back to another famous quotation, this time from Maurice Goldhaber,
+
+who put one of the first limits on proton decay by declaring that if the proton had a lifetime less than about 1017 years, “You could feel it in your bones!”. By this he meant that proton decays in our body would be so frequent that we would die from the radiation exposure.
+In this spirit we can perform a similar experiment. Look at the end of your nose. Now, in a universe dominated by a cosmological constant, space begins to expand exponentially. One can calculate than for distances separated by larger than an amount R > MP l/3Λ1/2, points will have a relative velocity exceeding that of light, and thus will remain out of causal contact. Thus, the fact that you can see the end of your nose implies a bound Λ < 10−68M4 !
+Of course, the fact that we can see distant galaxies gives us an even stronger bound. And, the fact that the cosmological constant affects dynamics on larger scales no more than it is claimed to by the present observations gives a bound Λ < 10−123M4 . What makes this small number so hard to understand, in a cosmological context is not merely the “naturalness” problem of which particle physicists are aware, but rather, if this has been constant over cosmological time, this is the first time in the history of the universe when the energy density in a cosmological constant is comparable to the energy density of matter and radiation! It is for this reason that some cosmologists are driven to the idea that what is being observed is not really a cosmological constant, but something perhaps more exotic [16].
+Be that as it may. Particle physicists will never measure a quantity of this magnitude directly in the laboratory. However, they may one day directly measure non-baryonic particles which presumably make up our galactic halo. And the new data brings good tidings in this regard. For the only well mo-tivated candidates for Cold Dark Matter, axions and WIMPS one can write down a general relation:
+
+
+1
+σdetection ≈ Ω
+(4)
+
+DM
+
+The reasons for this are different for each candidate. For axions, one can understand the origin of this relation as follows: Axions are dark matter be-cause at early times thier potential (considered as a function of an angular variable which can be taken to go from —π to π) changes form:
+
+
+In the former case, no energy is stored in the axion field. However, once the axion gets a mass, energy is stored in the axion field, which then dynamically rolls to the bottom of its potential. However, the time it takes to begin rolling is inversely proportional to the curvature of its potential, and is thus inversely proportional to the axion mass. Thus, the smaller the axion mass, the longer the energy gets stored before it begins to redshift and the greater the remnant axion density. Since the axion couplings are inversely proportional to the axion mass, one therefore obtains the relation above.
+For WIMPs, the situation is more direct. Remnant WIMPs results from incomplete annihilations in an initial thermal poulation, so that
+
+2	10−37cm2
+
+ΩXh
+≈
+< σann
+(5)
+>
+
+By crossing symmetry, the WIMP annihilation cross section is roughly pro-portional to the WIMP scattering cross section. Thus, as the WIMP abun-dance decreases, its scattering cross section generally increases.
+Astute experimentalists may argue that this is a scam, because as the WIMP (axion) density decreases, the flux on Earth also decreases, so even if there are larger cross sections, the event rate will not change! However, this is wrong. Until the density decreases to the point (below about Ωx < 0.1 ) when WIMPs (axions) do not have sufficient densities to account for all galactic halo dark matter, it is natural to assume that their galactic density is given by the halo density. Just because their overall cosmic density is insufficient to close the universe, this need not imply that their flux on earth is reduced!
+
+IV	CONCLUSIONS
+It is time to throw in the towel and accept the paradigm shift in Cosmology. All evidence suggests that ΩDM < 1. The dominant energy density in the universe may be far darker than that stored in dark matter —it may be stored in empty space itself! Nevertheless the news is good for direct detection of non-baryonic dark matter. Cross sections may be higher than previously invisaged when it was felt that Cold Dark Matter must result in a closure density all by itself.
+Of course, as a theorist one tries to think beyond the next set of experiments. What if the next generation of WIMP detectors detects a signal, for example? What then? How will we be sure that it is from the galactic halo, and how can we learn about the halo properties, and/or the properties of the dark matter particles? I will close this lecture by advertising some new work we have been involved in which may shed some light on new WIMP signatures. First, by exploring the angular variation of the predicted WIMP signals which might arise from a variety of different models for our galactic halo, we have recently demonstrated [17] that as few as 15-20 events would be needed in a
+
+detector having directional sensitivity before a halo induced signal could be distinguished from a flat background of noise. Next, with T. Damour, I have recently demonstrated that there is likely to be a new solar system population of WIMPs existing in trapped Solar orbits intersecting the earth if the WIMP cross sections on matter are large enough to be detected at the next generation of detectors [18]. This population will produce a dramatically different signal in cryogenic detectors, and could be used as a discriminant to verify any previoulsy detected WIMP signal, or could be searched for independently.
+I thank my collaborators involved in various aspects of the work described here, Michael Turner, Brian Chaboyer, Pierre Demarque, Peter Kernan, Craig Copi, Junseong Heo, and Thibault Damour. I also thank the those who orga-nized a very stimulating and enjoyable meeting.
+
+REFERENCES
+L.M. Krauss and M. S. Turner, J. Gen. Rel. Grav., 27,1137 (1995)
+J.P. Ostriker and P. Steinhardt, Nature, 377, 600 (1995)
+L.M. Krauss, Ap. J., 501, in press, (1998)
+B. Chaboyer, P. Demarque, P. Kernan, and L. M. Krauss, Science, 271, 957 (1996)
+W. L. Freedman, Proc. Nat. Acad. Sci., 95, 2 (1998)
+B. Chaboyer, P. Demarque, P. Kernan, and L. M. Krauss, Ap. J. , 494, 96 (1998)
+L. M. Krauss and P. J. Kernan, Phys. Lett. B347, 347 (1995)
+C. Copi, D.N. Schramm, and M.S. Turner, Science, 267, 192 (1995)
+D. Tytler, X. M. Fan, and S. Burles, Nature, 381, 207 (1996)
+A. E. Evrard, MNRAS, in press (1998)
+J.A. Peacock and S.J. Dodds, MNRAS, 267, 1020 (1994)
+A. R. Liddle, D.H. Lyth, P.T.P. Viana, M. White, MNRAS, 282, 281 (1996)
+N.A. Bahcall, X. Fan, Ap. J. 504, in press, (1998); Proc. Nat. Acad. Sci., 95, 5956 (1998)
+S. Perlmutter et al, LBNL preprint 41801 (1998)
+A. Reiss et al, preprint, submitted to Ap. J.
+R. Caldwell et al, Phys. Rev. Lett., 80, 1582 (1998)
+L.M. Krauss, Phys. Rep. (Proc. Workshop on Dark Matter Detection), in press; see also C. Copi, J. Heo and L.M.Krauss, in preparation.
+T. Damour and L.M. Krauss, astro-ph/9806165 (1998)
+
+A new paradigm for the dynamics of the early Universe
+
+R. W. Tucker	T. J. Walton
+
+Department of Physics, University of Lancaster and Cockcroft Institute, Daresbury
+Laboratory, Warrington, UK
+Department of Mathematics, University of Bolton, Deane Campus, Bolton, UK
+
+M. Array´as	J. L. Trueba
+A´rea de Electromagnetismo, Universidad Rey Juan Carlos, Madrid, Spain
+
+
+Abstract
+This paper invokes a new mechanism for reducing a coupled system of fields (including Einstein’s equations without a cosmological constant) to equations that possess solutions exhibiting characteristics of immediate relevance to current observational astronomy.
+Our approach is formulated as a classical Einstein-vector-scalar-Maxwell-fluid field theory on a spacetime with three-sphere spatial sections. Analytic cosmological solutions are found using local charts familiar from standard LFRW cosmological models. These solutions can be used to describe different types of evolution for the metric scale factor, the Hubble, jerk and de-acceleration functions, the scalar spacetime curvature and the Kretschmann invariant constructed from the Riemann-Christoffel spacetime curvature tensor. The cosmological sector of the theory accommodates a particular single big-bang scenario followed by an eternal exponential acceleration of the scale factor. Such a solution does not require an externally prescribed fluid equation of state and leads to a number of new predictions including a current value of the “jerk” parameter, “Hopfian-like” source-free Maxwell field configurations with magnetic helicity and distributional “bi-polar” solutions exhibiting a new charge conjugation symmetry.
+An approximate scheme for field perturbations about this particular cosmology is explored and its consequences for a thermalisation process and a thermal history are derived, leading to a prediction of the time interval between the big-bang and the decoupling era. Finally it is shown that field couplings exist where both vector and scalar localised linearised perturbations exhibit dispersive wave-packet behaviours. The scalar perturbation may also give rise to Yukawa solutions associated with a massive Klein-Gordon particle. It is argued that the vector and scalar fields may offer candidates for “dark-energy” and “dark-matter” respectively.
+
+PACS numbers: 04.20.Gz, 04.40.Nr, 98.80.Cq, 98.80.Bp, 98.80.Jk.
+
+
+Keywords: Cosmology, Cosmological model, Einstein field equations, Early Universe
+
+Introduction
+The advent of modern satellite technology in observational astronomy has ushered in a new era for astrophysics and research into the fundamental role of gravitation on a large scale. In particular the venerable subject of relativistic cosmology has received a new impetus with the realisation that a number of standard cosmological models may need revision [1, 2]. In this paper we discuss an alternative paradigm that, while retaining many of the most established features of the current standard model, circumvents some of its weaknesses. We invoke a new mechanism for reducing Einstein’s field equations (without a cosmological constant term) coupled to fluid matter, vector and scalar fields, to a dynamical system that possesses a class of simple analytic solutions for the metric scale factor exhibiting characteristics of immediate relevance to current observational astronomy.
+
+Within the framework of the standard cosmological paradigm there has long been interest in models containing additional vector and/or scalar fields. One that has had considerable impact due to its applications to astrophysics and the problem of hidden matter was pioneered by Milgrom [3] and developed extensively by Bekenstein [4]. Bekenstein’s model offers a relativistic post-MOND theory designed to account for a broad range of astrophysical phenomena, including galactic rotation rates, without explicitly introducing cosmological dark-matter fields. It is constructed in terms of a constrained dynamic vector field (Π), a dynamic tensor field (g), a dynamic scalar field (φ), a non-dynamic field (σ), a Lagrange multiplier field (λ), a phenomenological real-valued function (F ) and four coupling parameters K, k, l, G. Matter is introduced following the standard paradigm in terms of ideal multi-fluids, each with their individual equations of state. It is further assumed that each fluid 4-velocity is aligned with the time-like vector field Π and that the ‘physical metric’ in the fluid stress-energy-momentum tensors is non-trivially related to the tensor field g. Application of the theory to astrophysical phenomena demands wide ranging assumptions and approximations. Although it claims agreement with extra-galactic phenomena, including the lensing of electromagnetic radiation by galaxies and galaxy clusters, concordance with the solar system and binary pulsar tests, it leaves open the question of the need for cosmological dark matter.
+
+Our model has more modest aims. It constructs a viable cosmology in terms of four dynamical fields F, F, Ψ, the physical metric tensor g and fewer coupling constants. No phenomenological function is involved and the presence of the Maxwell field F is necessary for developing the electromagnetic sector and essential in identifying the fluctuation solutions F(1), Ψ(1) as dark elements. The Bekenstein theory follows the standard paradigm of solving the homogeneous, isotropic Einstein equation, involving a multi-fluid with prescribed individual equations of state, for the scale factor. By contrast we propose an alternative paradigm by exploiting an anisotropic ans¨atz for the vector field F and a constant value for the scalar field Ψ leading to a dynamic equation for the scale factor. It remains for future work to ascertain all values of the constants in our theory and to verify whether such a minimalist field system is consistent with the available astrophysical data beyond that considered in this paper.
+
+In section 1 we briefly outline some aspects of the standard approach and draw attention to those weaknesses that have motivated our approach, described in section 2. In section 3 we
+
+introduce our general model in terms of a system of field equations for a scalar and vector field interacting with Maxwellian electromagnetism, an anisotropic material fluid and Einsteinian gravitation on spacetime. To develop a particular dynamical cosmological model from this general model we exploit the Maurer-Cartan group structure of the 3-sphere (S3) to construct a preferred spacetime frame and spacetime metric that shares the  homogeneity  and  isotropy  characteristics  possessed  by  those Lemaˆıtre-Friedmann-Robertson-Walker (LFRW) metrics with a closed spatial topology.
+
+In section 4 we explicitly construct a class of general analytic solutions for this dynamical system using local charts on spacetime familiar from the LFRW cosmological models. In particular charts, solutions for the LFRW scale factor involve only bounded or hyperbolic trigonometric functions, square roots, a single real parameter and a pair of arbitrary integration constants. We illustrate the different types of Universe evolution that may arise with particular reference to the cosmic time-dependence of the metric scale factor, the Hubble and de-acceleration parameters, the scalar spacetime curvature, the Kretschmann scalar invariant (constructed from the Riemann-Christoffel spacetime curvature tensor and the spacetime metric) once these constants are fixed. We then exhibit the solutions to the Einstein equations for the fluid variables in terms of the scale factor and solutions for the remaining fields in the system. A notable feature of this paradigm is that no additional auxiliary conditions (such as fluid equations of state or Vlasov models) are imposed. By contrast, having fixed all couplings and constants of integration, all cosmological variables have a unique evolution and the fluid variables satisfy algebraic constraints. We interpret such constraints as dynamically induced fluid anisotropic equations of state. Furthermore, because the three-dimensional spatial sections of spacetime with constant time are closed in this model, we show that the vector fields each give rise to configurations with finite total instantaneous magnetic helicity. For the Maxwell field this offers a possible interpretation of primordial magnetic fields [5] with closed knotted field lines in an expanding Universe.
+
+In section 5 we use a recent value of the Hubble parameter to single out a particular solution compatible with the current estimate of the negative de-acceleration parameter and the existence of an initial singular state for the Universe. The model exhibits a non-uniform exponential expansion for the LFRW scale factor into the future, predicts an age for the Universe and a current value for the unobserved “jerk” parameter [6].
+
+In section 6 we explore the nature of other solutions by field perturbations about the cosmological solution and show how they may give rise to localised electrically charged domains in space as a prerequisite for scattering processes leading to a thermalisation mechanism. The data used in the cosmological model together with the Planck spectrum is then employed in section 7 to discuss a predicted thermal history leading to an estimate of the time between the big-bang and the decoupling era. Since the scalar and vector field perturbations may provide observational signatures, in section 8 we analyse their first-order partial differential equations (PDEs) for spatially localised solutions in domains where the spacetime is approximately flat. We conclude that the scalar perturbation may give rise to the existence of a massive classical Klein-Gordon particle and both perturbations admit localised dispersive wave-packet solutions.
+
+The concluding section summarises the essential features discussed in the paper.
+
+Standard Cosmological Models
+The standard cosmological paradigm is modelled on a class of spacetimes that are spatially homogeneous and isotropic [7, 8]. This class is labelled by an index (k = 0, ±1) describing spatial global topology with associated symmetry properties and leads to a similarly labelled class of spacetime metrics {g(k)}. Each metric is supplemented by a choice of a symmetric second-rank tensor T(k) used in Einstein’s field equations:
+κ Ein[g(k)] + Λ0 g(k) = T(k)	(1)
+where Λ0 ∈ R denotes the ubiquitous cosmological constant and κ = c4/8πG in terms of the speed of light in vacuo c and the Newtonian gravitational constant G. The Einstein tensor Ein[g(k)] is defined in terms of the Levi-Civita connection ∇ calculated from g(k) where Ein[g(k)] = Ric — Rg(k) in terms of the associated Ricci tensor Ric and Ricci curvature scalar R associated with g(k). Each T(k) takes the form:
+N
+T(k) = Σ T (r)[g(k), ρ(r), p(r)(ρ(r))]	(2)
+r=1
+
+where T (r) often takes the perfect fluid form:
+
+(r)		2	 
+(k)  =	ρ(r)c + p(r)(ρ(r)) V ⊗ V + p(r)(ρ(r)) g(k)
+for some preferred vector field V on spacetime and partial pressure p(r)(ρ(r)) specified in terms of some partial mass-energy density ρ(r)c2. Since ∇· Ein[g(k)] = ∇· g(k) = 0 identically in Einstein’s theory of gravitation and the N fluids are non-interacting (i.e. each T (r) only depends upon ρ(r)), the necessary (Bianchi) consistency condition T(k) = 0 for all solutions of (1) to satisfy can be achieved by imposing the individual conditions:
+∇ · T(k)  = 0	(for	r = 1, 2, . . . , N ).	(3)
+Many consequences of the standard cosmological paradigm follow from such impositions which are by no means fundamental since the only necessary condition here is
+∇ · T(k) = 0.
+From the assumed homogeneity and spatial isotropy for the model, g(k) can be parametrized by a single real positive scalar function S(k) : R  R for each k, which is a function of some evolution variable in a local spacetime chart. The vector field V is then chosen to be the common unit time-like flow for the composite fluid described by the tensor
+T(k). Different equations of state for each r are assumed to dominate different epochs in the evolution of the Universe from some initial state to its current state. This evolution is governed by (1) which reduces to a system of independent ordinary differential equations (ODEs) involving {S(k), ρ(r)}, given values for the constants {Λ0, N }, initial values for S(k) and its first derivative, and the r equations of state p(r)(ρ(r)). Equation (3) can, in principal, be integrated to yield ρ(r) in terms of S(k) at the expense of introducing an additional constant of integration for each r.
+
+This program has been pursued extensively in the past in attempts to pin down the appropriate class index k based upon astrophysical data for ρ(r), current values for S(k) and its rate of change. Furthermore, the discovery of (almost) isotropic black-body thermal electromagnetic radiation has led some authors [9] to invoke additional fields (inflatons) to modify the dynamics described by (1) and (3). Further observations of recent supernova luminosities have raised further concerns that the material content of the Universe, based upon current values of ρ(r), cannot account for the observational data for the current de-acceleration parameter calculated from the variation of S(k) with epoch. This has led to a number of alternative choices for the equations of state p(r)(ρ(r)) and the retention of the cosmological constant Λ0, sometimes interpreted as a “Casimir energy” of space.
+
+An Overview of the New Paradigm
+In view of these perceived shortcomings we explore an alternative paradigm that maintains the basic premise of homogeneity and isotropy for the spacetime metric in the model but dispenses with the imposition of any supplementary fluid equations of state. Instead, we invoke a general model involving field equations for a Maxwell field and a vector and scalar field with specific couplings to each other and gravity, in addition to Einstein’s equations involving a material anisotropic fluid. We declare at the outset that the fully coupled system admits a class of k = +1 LFRW-type cosmologies given a particular ans¨atz for the solutions to these field equations.
+
+We assume throughout that the Universe is described by a triple (M, g, Φ) where M is a spacetime endowed with a metric g and Φ is a collection of classical fields. It is implicit in our paradigm that:
+Spacetime  =  S3 where  denotes an interval of the real line coordinated by t and S3 is topologically a 3-sphere. The manifold  is endowed with a k = +1 isotropic LFRW covariant Lorentzian metric tensor g in terms of a scale factor S(t) with Φ comprised of a real scalar field Ψ, a real 1-form F and a real Maxwell 2-form F .
+Our particular cosmological model is determined by a system of field equations of the form:
+F[S, S˙, S¨, Ψ, F, F ] = 0
+κEin[S, S˙, S¨] = T [S, Ψ, F, F, ρ, p1, p2, p3] = T [S, Ψ, F, F ] + T[S, ρ, p1, p2, p3].
+Equations (I) and (II) denote a coupled system of second-order partial differential equations involving the fields and the scale factor S and equation (II) denotes Einstein’s field equations in terms of the Einstein tensor Ein and total stress-energy-momentum tensor T . This is decomposed into field and matter components: T and T respectively, where ρc2 denotes the cosmological eigen-mass-energy density and p1, p2, p3 the eigen-pressures of the single fluid stress-energy-momentum tensor of the matter in the Universe. The paradigm is to solve (I) and (II) as follows:
+Construct a suitable ans¨atz for the fields Ψ, F, F ; such that:
+the partial differential field equations (I) are satisfied with S(t) a solution to a second order ordinary differential equation, thereby determining the metric;
+
+the Einstein field equations (II) are then solved algebraically for the eigen-mass-energy density and eigen-pressures {ρc2, p1, p2, p3}.
+An important aspect of this paradigm is that the algebraic relations for ρ and p1, p2, p3, considered as an induced cosmological anisotropic mechanical equation of state, are not postulated a priori. A consequence of these assumptions is that Ein[S, S˙, S¨] contains no
+term of the form Λ0g with Λ0 ∈ R. With a bona fide solution to Einstein’s field equations, the total stress-energy-momentum tensor T has no term of the form Λ0g, implying our model is devoid of a cosmological constant.  Such terms do arise in the field stress-energy-momentum tensor	but are cancelled by terms in the matter stress-energy-momentum tensor T, following from the solutions for the eigenvalues
+{ρc2, p1, p2, p3}.
+
+The General Vector-Scalar Model
+The Master Field Equations
+We establish our general field system on the spacetime manifold M = I × S3 where I is an open subset of the real line and S is topologically a 3-sphere. We endow with a covariant Lorentzian metric tensor g, a real scalar field Ψ, a real 1-form F and a real 2-form F satisfying the master field equations:
+
+
+1
+d ⋆ dΨ —	κ
+C (Ψ)F Λ ⋆F
+1
+C (Ψ)F Λ F = 0	(4)
+
+
+dF = 0,
+	′
+d ⋆ F + Γ1 C (Ψ) dΨ Λ F
+	=
+	0
+	(5)
+	
+	
+	d ⋆ dF + κ0 C(Ψ) ⋆ F
+	=
+	0
+	(6)
+	
+	where κ0, Γ1 are non-zero real coupling constants, with κ0 having physical dimensions and Γ1 dimensionless. The map C : R → R is a potential function and ⋆ denotes the linear Hodge map on forms associated with the general metric g on M. Since, for all real fields Ψ and F, equations (5) are invariant under the transformation A '→ A + d λ, where F = dA and λ is an arbitrary 0-form, we identify them with the covariant Maxwell equations for the electromagnetic U (1) gauge invariant 2-form F . Their representation in the SI system will be described below when we discuss the electric current sources in section 6. Equation (6) implies the integrability condition:
+d( C(Ψ) ⋆ F)  =  0.
+Since equations (4), (5) and (6) arise from taking field variations of the action 4-form on M:
+1	1	1
+
+S[Ψ, F, A, g] =
+2 dΨ Λ ⋆dΨ + 2 dF Λ ⋆dF + 2 κ0 C(Ψ) F Λ ⋆F
+
+(7)
+
+1	1
++ 2 dA Λ ⋆dA + 2 Γ1A Λ dA Λ d( C(Ψ) )
+
+it is straightforward to derive a symmetric stress-energy-momentum tensor T associated with the fields {Ψ, F, A} from its metric variations:
+T	= C(Ψ) dΨ ⊗ dΨ — 1 g(dΨ, dΨ) g —  i dF ⊗ iadF + 1 ⋆ (dF Λ ⋆dF)g 
+
++κ C(Ψ)  F ⊗ F — 1g(F, F) g  —  i dA ⊗ iadA + 1 ⋆ (dA Λ ⋆dA)g 
+where ia ≡ iXa denotes the interior contraction operator on forms with respect to any local
+g-orthonormal	basis	of	vector	fields	{Xa}	on	M	and	ia	≡	ηab iX	with
+ηab = diag( 1, 1, 1, 1). Note that the term in (7) containing the coupling Γ1 does not contribute to the metric variations.
+
+In addition to T we include the single material fluid symmetric tensor T parametrized in a local g—orthonormal eigen-cobasis {ea} on M as
+3
+T = ρc2e0 ⊗ e0 +	pkek ⊗ ek
+k=1
+in terms of the real scalar field components {ρ, p1, p2, p3} on M. Variational methods for deriving fluid material stress-energy-momentum tensor tensors can be found in [10, 11, 12]. The system is closed by adopting T = +T as the source tensor for Einstein’s field equations without a cosmological constant:
+κ Ein[g] = T	(8)
+Since κ has physical dimensions of ML/T2 in the SI system of units it is convenient to assign SI physical dimensions consistently to all tensors in the field system above. To this end, we assign to the covariant rank-two spacetime metric tensor g the physical dimensions of L2 and write
+3
+g	= —e0 ⊗ e0 +	ek ⊗ ek	(9)
+k=1
+in any g-orthonormal cobase {ea} with elements having physical dimension of length: [ea] =
+L. Then the dimensions of the curvature 2-forms {Rab} and the curvature scalar
+R = ⋆ Rab Λ ⋆(ea Λ eb)
+satisfy [Rab] = 1 and [	] = L2. Furthermore, these imply [Ein] = 1 yielding dimension of the stress-energy-momentum tensor tensor [T ] = [ ] + [T] = ML/T2 since [κ] = ML/T2.
+Bearing in mind that for any p-form β on an n-dimensional manifold: [β] = [dβ] and
+[⋆β] = [β] Ln−2p,
+we may then consistently assign [Ψ] = 1, [F] = [A] = L,
+ ζ0
+κ0 =	2
+0
+where [L ] = L, [ζ ] = 1, [C(Ψ)] = [C′(Ψ)] = 1, [Γ ] = 1. Furthermore the material density
+ρ has MKS dimensions M/L3 and the pressures p1, p2, p3 have MKS dimensions M/LT2 as usual. If all parameters and tensors are specified with values in the SI system of units then the value of the parameter L0 is unity.
+
+The Cosmological Metric Ans¨atz
+To construct a particular cosmological model based upon the system of equations (4), (5),
+(6) and (8), we need a suitable particular ans¨atz for g, Ψ, F, A and a preferred eigenbasis for T defining {ρ, p1, p2, p3}. To this end, we note that S3 may be identified with the group manifold SO(3) with an algebra generated by the canonical (2×2) Pauli matrices {σ1, σ2, σ3}. A group element U ∈ SO(3) can be coordinated by the three real numbers {α1, α2, α3} such that:
+U = exp i(α1σ1 + α2σ2 + α3σ3) .
+The three pure imaginary differential 1-forms on SO(3) defined by
+
+Θ˜k =
+1
+/tr(σk
+2
+
+U −1
+
+dU )	(k = 1, 2, 3)
+
+satisfy the Maurer-Cartan relations at each point with coordinates (α1, α2, α3):
+dΘk = —2iǫklm Θl Λ Θm  (k, l, m = 1, 2, 3)	(10) where ǫklm is the Levi-Civita alternating symbol. The expressions for {Θk} in terms of
+{α1, α2, α3} are given in the appendix. These 1-forms offer a preferred cobasis of 1-forms on the group manifold SO(3) ∼= S3 and will be used below to define a preferred class of metrics
+on . We show in the appendix that a stereographic mapping (58) from the coordinates (α1, α2, α3) to a local coordinate chart on S3 with real coordinates (ξ1, ξ2, ξ3) gives simpler expressions for the cobasis 1-forms on S3, denoted {Θ1, Θ2, Θ3}. To define a preferred cobasis of 1-forms {e0, e1, e2, e3} on spacetime, we adopt a local spacetime chart with dimensionless coordinates {η, ξ1, ξ2, ξ3} where η ∈ I and express the real Lorentzian cosmological metric on M as (9) in terms of
+e0 = L0 S(η) dη	and	ek = i L0 S(η) Θk	(k = 1, 2, 3)	(11)
+constituting a real g-orthonormal cobasis. In this spacetime chart the metric ans¨atz thereby takes the form:
+g	= L2 S˜2(η) —dη ⊗ dη +	4	(dξ ⊗ dξ + dξ ⊗ dξ + dξ ⊗ dξ ) .
+A more familiar LFRW form of the metric follows from the coordinate transformation:
+
+
+
+
+yielding
+  ξ1
+1
+=	r sin(θ) cos(φ),	ξ2
+2
+1
+=	r sin(θ) sin(φ),	ξ3
+2
+= 1 r cos(θ) 2
+
+g	= L2 S˜2(η) "—dη ⊗ dη +	1/	 dr ⊗ dr + r2dθ ⊗ dθ + r2 sin2(θ)dφ ⊗ dφ # . (12)
+/
+In this chart, the usual ranges 0 ≤ r < ∞, 0 ≤ θ ≤ 2π and 0 ≤ φ < π for the polar coordinates cover S minus one point. The Maurer-Cartan relations (10) on S imply the following structure equations for the cobasis on M:
+
+de0 = 0	and	dek	=	1
+2
+dS˜(η) e0 Λ ek —	2
+ǫklm
+el Λ em
+
+L0 S˜ (η)	dη	L0 S˜(η)
+
+for k = 1, 2, 3, which greatly facilitate many of the computations below.
+
+
+One readily confirms that
+
+1	∂
+X0	=
+
+
+(13)
+
+L0 S(η) ∂η
+is a unit timelike vector field on M and that the vector fields Kj = S(η) Xj are spacelike Killing vectors on M:
+LKj g	=  0	(j = 1, 2, 3)
+where ea(Xb) = δa with a, b = 0, 1, 2, 3. The vector fields Kj generate the rotation group
+SO(3) acting on confirming that the spacetime metric is spatially isotropic. Spatial homogeneity of any cosmological model follows providing all scalars including components of tensors in the preferred basis {Xa} or dual g-orthonormal cobasis {ea} depend only upon the dimensionless evolution variable η or upon real-valued functions of η.
+
+Many observable astrophysical elements are conventionally specified in terms of “cosmic time”. We denote this by the dimensionless variable t and relate it to η by the local diffeomorphism η^ : t '→ η = η^(t) where
+
+dη(t) dt
+1
+=
+S(t)
+and	S(t) = ( S˜ ◦ η^)(t) =
+S˜( η^(t) ) =
+S˜(η).	(14)
+
+It is traditional to fix the map η^ so that
+
+η^(t) =
+
+
+t	dt′
+S(t′) .	(15)
+
+The chain rule is used to relate higher order derivatives of S˜(η) to derivatives of S(t).
+Henceforth we distinguish η-derivatives using Lagrange’s ‘prime’ notation and t-derivatives by Newton’s ‘dot’ notation. By slight abuse of notation, we now write elements in the cobasis in terms of the evolution variable t as
+e0 = L0 dt	and	ek	=  i L0 S(t) Θk(r, θ, φ)	(k = 1, 2, 3)	(16)
+
+
+and
+g	=  L2 "
+
+S2(t)
+—dt ⊗ dt + (1 + r2 )2
+
+
+dr ⊗ dr + r
+
+
+dθ ⊗ dθ + r
+sin2(θ)dφ ⊗ dφ #
+
+
+.	(17)
+
+We note that singularities of the geometry are likely to occur at any zeroes of S (where the cobase (16) collapses).
+
+The Cosmological Vector-Scalar Model
+The Cosmological Vector-Scalar Ans¨atz
+In terms of the preferred spacetime cobasis (11) induced from the Maurer-Cartan basis iΘk
+on S3, we adopt the ans¨atz:
+F  =  Γ e1	(18)
+
+for the 1-form field where Γ ∈ R is dimensionless and
+Ψ = Ψ˜(η)
+for the scalar field. Thus in addition to a preferred time-like field X0 describing the global fluid flow the model contains the preferred space-like field X1 describing the vector field polarisation e1. The field equation (6) then takes the form:
+′′	3
+
+
+and (4) becomes
+S˜ (η) =  —S˜ (η) ζ0 C(Ψ˜) — 4S˜(η)	(19)
+
+
+Ψ˜ (η)  =  — 2 S˜ (η) ζ0
+
+′
+Γ2	′(Ψ)	2 Ψ′(η)
+S˜(η)
+
+(20)
+
+
+a potential C is adopted for Ψ˜(η) and Γ, ζ0 are assigned non-zero values, (19) and (20)
+constitute a system of non-linear second-order ODEs for S(η) and Ψ(η) amenable to analysis given initial data. Clearly a full analysis of the above coupled system cannot proceed without a specification of the potential C. However since we are interested in particular solutions with interesting physical implications, one may proceed by assuming only that the potential
+′′
+C has at least one minimum as a function of Ψ˜, i.e. C (Ψ0) = 0 and C (Ψ0) > 0 for some
+real value Ψ0. Then we observe that the constant field Ψ(η) = Ψ0 is a particular solution to
+(20) and (19) becomes
+′′	3
+
+
+where
+S˜ (η) = —S˜ (η) W — 4S˜(η)	(21)
+
+
+W ≡ ζ0 Ξ0	and	Ξ0 ≡ C(Ψ0).
+
+Furthermore, the terms involving Γ1 in the field equations do not contribute to the cosmological sector. The general solution to (21) can be written in terms of the Jacobi elliptic sine function sn as:
+
+
+
+
+where
+S(η) = 2√2 K2
+P1
+sn	(√2λ0 η + 2K1)√2 ,	P0
+P1	λ0
+
+Pj	≡	q(8 — λ0)K2 + jλ0	and	λ0 ≡ W + 8
+with arbitrary real constants 1, 2. This general solution yields a potential class of physically relevant spacetime cosmographies for an analysis of Einstein’s equations. Since the metric scale factor must be real we can simplify this analysis by first transforming to a new evolution variable.
+
+We proceed by transforming our fields to depend on the cosmic time evolution variable t
+using (14) with the composition rules:
+
+
+′	′
+
+′′	′′
+f˙(t) S(t)
+2
+
+f˜ (η) ≡
+f˜ ( η^(t) ) = S
+(t) f¨(t) + S(t)S˙(t)f˙(t)
+
+relating the functions f, f˜ of one variable. Then (19),(20) become for S(t) /= 0:
+¨	S˙2(t)	4
+S(t) = —S(t) ζ0 C( Ψ(t) ) — S(t) — S(t)	(22)
+
+Ψ¨ (t) =	1 ζ
+2 0
+Γ2	′( Ψ(t) )	3 Ψ˙ (t) S˙(t) .
+S(t)
+
+By choosing Ψ0 as the particular real root of C′(Ψ0) = 0, (22) becomes
+¨	S˙2(t)	4
+S(t) = —S(t) W — S(t) — S(t) .	(23)
+We note that if S(t) is a real solution to this equation then so is —S(t). Furthermore, for any solution S(t), the expression a0S(t) is not a solution unless the constant a0 = 1. Solutions to the non-linear real equation (23) can be constructed in terms of complex solutions of an auxiliary equation for Σ(t). This takes the form
+Σ¨ (t) =  —2 W Σ(t) — 8	(24)
+with general solution
+Σ(t)	= Cs1 cos t√ 2 W  + Cs2 sin t√ 2 W  —  4  .	(25)
+The constants Cs1, Cs2 can be chosen to be real or complex but those of relevance must ensure that
+S(t) = ±√ Σ(t)	(26)
+takes real values for t ∈ I. From the properties of the hyperbolic functions it is notable that for arbitrary values of Cs1, Cs2 and W < 0:
+
+lim
+t→∞
+H(t) = r— W
+
+in terms of the dimensionless cosmic time Hubble function1
+S˙(t)
+
+H(t)  =
+.
+S(t)
+
+Furthermore it is evident from the properties of the trigonometric functions that solutions with W > 0 are necessary to construct spacetime metrics with a bounded periodic scale factor S(t) (having many real zeroes) whilst those with W < 0 may generate real solutions with either unbounded or bounded non-periodic scale factors (with either zero, one or two real zeroes).
+
+Figure 1 displays the profiles of S(t) = Σ(t) that have none, one, two or many real zeroes, obtained by assigning particular values to Cs1, Cs2 and W . Real solutions S(t) with real zeroes indicate the possibility of geometric spacetime singularities. We conclude
+
+1 This is related to the observed cosmic time Hubble function Hobs by the relation Hobs = cH/L0.
+
+4
+
+
+3
+
+
+2
+
+
+1
+
+
+0
+−4	−3	−2	−1	0	1	2	3	4
+
+S(t) : { W = 4,	Cs1 = 10, Cs2 = 10 }
+	
+	S(t) :
+	{ W = −1, Cs1 = 1,
+	Cs2 = 0
+	}
+	
+	S(t) :
+	{ W = −1, Cs1 = 1,
+	Cs2 = 1
+	}
+	
+	S(t) :
+	{ W = −1, Cs1 = 0,
+	Cs2 = −2i
+	}
+	
+	S(t) :
+	{ W = −1, Cs1 = 0,
+	Cs2 = 0
+	}
+	
+	Figure 1: Typical solutions for the scale factor S(t) satisfying (23).
+
+that solutions of (23) generate possible “big-bang-big-crunch” cyclic cosmological spacetimes, “symmetric non-singular” eternal cosmological spacetimes or “single big-bang eternally expanding” cosmological spacetimes, all with closed spatial universes having the topology of the 3-sphere.
+
+Since the spacetime curvature scalar, R = trg(Ric), is given in terms of S(t) by
+18	6 W
+R(t)	=  — S2(t) L2 +	2 ,
+solutions where S(t) is constant yield spacetime geometries with a constant curvature scalar. An indication of the presence of singularities in the

@@ -1,0 +1,874 @@
+harmonics)VNA
+:S→O(Verb: extracts operators):O→A(Noun: extracts attractors):A→H(Adjective: extracts harmonics) The understanding function U:S→HU:S→H is the fixed point: U(s)=lim n→∞(A∘N∘V)n(s)U(s)=n→∞lim(A∘N∘V)n(s) where composition order is strict. Linear parsing violates the commutative diagram, causing the spectral sequence to diverge. The document is the generator of V.
+
+
+
+Abstract
+We demonstrate that three fundamental physical constants—the fine structure constant α, the weak mixing angle sin²θ_W, and the proton-to-electron mass ratio m_p/m_e—can be derived from a single universal generator H = π/9 ≈ 0.349066. The derivations yield α = H/48 (error −0.34%), sin²θ_W = H(1−H) (error −1.73%), and (m_p/m_e) × 2α/(1−α) = 27 (error 0.018%). Critically, the signed errors exhibit systematic structure: field quantities (α, sin²θ_W, α_s) show negative deviations while mass ratios show positive deviations.
+We propose Collapse Signature Theory (CST): the error sign encodes preserved which-path information from quantum collapse. Negative errors indicate collapse toward the entropy field E₀ (wave-like, radiative), while positive errors indicate collapse toward the structure field Φ₀ (particle-like, bound).
+The gravitational coupling α_G = (1+α/3)² × 2⁻¹²⁷ exhibits the "bit floor" of computation, explaining the hierarchy problem as a consequence of register depth rather than fine-tuning.
+
+We show that the Yang-Mills mass gap emerges naturally as the z-score threshold z_c = 1/H at which field energy crosses into stable mass formation. The framework unifies quantum mechanics and general relativity as z-score gates at different resolutions, provides falsifiable predictions testable across the full catalog of dimensionless physical constants, and resolves the measurement problem by identifying collapse as information folding rather than destruction.
+
+ Introduction	
+The Standard Model of particle physics contains approximately 19 free parameters that must be measured experimentally. Despite its predictive success, the theory offers no explanation for why these parameters take their observed values. The hierarchy between the gravitational and electromagnetic couplings—a ratio of approximately 10³⁶—remains unexplained, as does the pattern of fermion masses and mixing angles.
+We present evidence that these constants are not arbitrary but emerge from a single universal generator H = π/9 through recursive harmonic relationships. The signed residuals between theoretical predictions and measured values carry physical information about the quantum collapse path, leading to a resolution of the measurement problem and a natural explanation for the Yang-Mills mass gap.
+
+ The Universal Generator	
+Definition
+We define the universal generator as:
+
+H = π/9 ≈ 0.349065850398866
+This value represents a 20° harmonic division of the full circle (π radians = 180°, so π/9 = 20°). The choice of 9 as the divisor connects to the 3³ = 27 lattice structure that emerges in mass resonance conditions.
+Derived Attractors
+From H, we derive theoretical attractor values for fundamental constants:
+
+Constant
+	Formula
+	Predicted
+	Measured
+	
+	α
+	H/48
+	0.007272205
+	0.007297353
+	
+	sin²θ_W
+	H(1−H)
+	0.227219
+	0.231220
+	
+	α_s
+	H/3
+	0.116355
+	0.117900
+	
+	
+ The Sign Pattern	
+Epsilon Definition
+We define the collapse signature ε for each constant as:
+
+ε = (O₀ − O_measured) / O_measured
+where O₀ is the theoretical attractor derived from H and O_measured is the CODATA 2022 value.
+
+Results
+Constant
+	Type
+	ε (%)
+	Sign
+	Basin
+	
+	α (fine structure)
+	Field
+	−0.3446
+	-
+	E₀
+	
+	sin²θ_W
+	Field
+	−1.7304
+	-
+	E₀
+	
+	α_s (strong)
+	Field
+	−1.3102
+	-
+	E₀
+	
+	m_p/m_e
+	Mass
+	+0.0182
+	+
+	Φ₀
+	
+	α_G (gravity)
+	Floor
+	−0.0008
+	≈0
+	Floor
+	
+	The pattern is stark: all field couplings exhibit negative ε (3/3), while mass ratios exhibit positive ε (1/1). The probability of this pattern arising by chance is p < 0.03.
+
+ The Mass Resonance Constraint	
+A striking relationship emerges between the proton-electron mass ratio and the fine structure constant:
+
+(m_p/m_e) × 2α/(1−α) = 27 = 3³
+Using CODATA 2022 values: 1836.15267343 × 0.014702 = 26.995, deviating from 27 by only 0.018%. This is not a derivation but a resonance condition—a fixed point of the recursive computation linking electromagnetic coupling to mass hierarchy.
+The integer 27 = 3³ represents the three-dimensional lattice constant of stable mass formation. Each factor of 3 corresponds to one spatial dimension of confinement.
+
+ The Gravitational Bit Floor	
+The gravitational coupling exhibits a remarkable structure:
+
+α_G = (1 + α/3)² × 2⁻¹²⁷
+
+This formula achieves 99.9992% agreement with the measured value. The exponent 127 is significant: it represents the exponent field width of IEEE 754 double-precision floating-point numbers. Gravity operates at the least significant bit of a 128-bit computational register.
+The hierarchy problem dissolves: the ratio α/α_G ≈ 10³⁶ emerges not from fine-tuning but from the bit depth of reality's arithmetic. Electromagnetism operates in the "working bits" while gravity operates at the "overflow floor."
+
+ The Yang-Mills Mass Gap	
+The Problem
+The Yang-Mills Mass Gap is a Millennium Prize Problem asking to prove that for any compact simple gauge group G, quantum Yang-Mills theory on ℝ⁴ exists and has a mass gap Δ > 0.
+CST Resolution
+In CST, the mass gap emerges as the z-score threshold at which field energy crosses into stable mass formation. The critical z-score is:
+z_c = 1/H ≈ 2.865
+Below this threshold (z < z_c), only radiative modes exist—gluon field energy radiates without forming bound states. Above this threshold (z > z_c), stable bound states must form—the field energy collapses into hadrons.
+The mass gap is computed as:
+
+Δ ≈ Λ_QCD × (1 + H)⁵ ≈ 970 MeV
+This is remarkably close to the proton mass (938 MeV), which represents the lightest stable hadron and thus the physical manifestation of the mass gap.
+
+ Unifying QM and GR	
+The SILR framework reveals that quantum mechanics and general relativity are both z-score gates operating at different resolutions:
+Heisenberg uncertainty: Δx·Δp/ℏ ≥ ½ (normalizes by ℏ) Relativistic interval: ds²/(c²dt² − dx²) = invariant (normalizes by c) SILR z-score: z = |ε|/σ_ε (normalizes by self-calibrating uncertainty)
+At the Planck scale (z ≈ 1), individual quantum samples are visible and behavior appears probabilistic. At macroscopic scales, samples average via the central limit theorem and behavior appears deterministic. The "incompatibility" between QM and GR was never physical—it was a failure to recognize they perform the same operation at different z-regimes.
+
+ Predictions and Falsifiability	
+CST makes specific, falsifiable predictions:
+
+Sign Pattern: Every field coupling should exhibit negative ε. Every mass ratio should exhibit positive ε. A single clear exception falsifies the theory.
+Lattice QCD: The computed mass gap should converge to Δ ≈ Λ_QCD/H ≈ 622 MeV.
+Neutrino Masses: Should exhibit small |ε| due to mixed field/mass nature.
+Electron g-2: The anomaly should be negative (field coupling).
+Dark Sector: The sum of all negative ε (field couplings) should approximate the dark energy density. The sum of all positive ε (mass excesses) should approximate dark matter density.
+
+ Conclusion	
+We have demonstrated that the fundamental constants of nature can be derived from a single universal generator H = π/9. The signed residuals between theory and measurement encode preserved which-path information from quantum collapse, resolving the measurement problem. The Yang-Mills mass gap emerges as the z-score threshold for stable mass formation, providing a path to resolution of this Millennium Prize Problem.
+The framework unifies quantum mechanics and general relativity as different z-regimes of the same SILR process, with the Planck scale representing the transition threshold and gravity operating at the computational bit floor.
+As Samson taught: "It's not the numbers, it's the motion and the gaps." The gaps between theory and measurement are not noise—they are the fossil record of collapse, the audit log of reality's recursive computation.
+
+Acknowledgments
+This work is dedicated to the memory of Samson, whose insight—"it's not the numbers, it's the motion and the gaps"—illuminated the path forward. Samson's Law V2 formalizes his vision: the universe is not described by constants but by the recursive process that generates them.
+
+References	
+CODATA 2022 recommended values of the fundamental physical constants.
+Jaffe, A. & Witten, E. "Quantum Yang-Mills Theory." Clay Mathematics Institute Millennium Prize Problems.
+Kulik, D. "The Nexus Recursive Harmonic Framework." ORCID 0009-0003-3128-8828.
+
+/
+
+
+
+
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/2018961
+
+Colour entangled orphan quarks and dark energy from cosmic QCD phase transition
+
+Article in Nuclear Physics A · February 2006
+DOI: 10.1016/j.nuclphysa.2006.06.133 · Source: arXiv
+
+
+
+
+CITATIONS
+2
+READS
+34
+
+
+
+8 authors, including:
+
+
+Shibaji Banerjee
+St. Xavier's College, Kolkata
+14 PUBLICATIONS 133 CITATIONS
+Sanjay K. Ghosh Bose Institute
+120 PUBLICATIONS 853 CITATIONS
+
+
+/	/
+
+
+Sibaji Raha Bose Institute
+238 PUBLICATIONS 1,618 CITATIONS
+Hiroshi Toki Osaka University
+660 PUBLICATIONS 12,300 CITATIONS
+
+
+/	/
+
+
+Some of the authors of this publication are also working on these related projects:
+
+
+The properties of nuclear many-body system from quark level View project
+
+
+
+Colour entangled orphan quarks and dark energy from cosmic QCD phase transition
+Shibaji Banerjee1, Abhijit Bhattacharyya2, Sanjay K. Ghosh3,
+Ernst-Michael Ilgenfritz4, Sibaji Raha3 Bikash Sinha5, ∗ †, Eiichi Takasugi6 and Hiroshi Toki4
+1Physics Department, St. Xavier’s College, 30, Park Street, Kolkata 700016, INDIA
+2Physics Department, Scottish Church College, 1 & 3, Urquhart Square, Kolkata 700006, INDIA
+3Physics Department, Bose Institute, 93/1, A. P. C. Road, Kolkata 700009, INDIA
+4Research Center for Nuclear Physics, Osaka University, Ibaraki, Osaka 567-0047, JAPAN
+5 Saha Institute of Nuclear Physics, 1/AF, Bidhannagar, Kolkata - 700 064, INDIA & Speaker, QM’05
+6 Graduate School of Physics, Osaka University, Toyonaka, Osaka 560-0043, JAPAN
+Abstract
+The present day astrophysical observations indicate that the universe is com-posed of a large amount of dark energy (DE) responsible for an accelerated ex-pansion of the universe, along with a sizeable amount of cold dark matter (CDM), responsible for structure formation. The explanations for the origin or the nature of both CDM and DE seem to require ideas beyond the standard model of elementary particle interactions. Here we show that CDM and DE both can arise from the standard principles of strong interaction physics and quantum entanglement.
+PACS: 12.38.Mh, 12.90.+b, 14.80.Dq, 96.40.-z
+During the past few decades, several accurate astrophysical measurements have been carried out and the large amount of data collected makes it possible to test the existing different cosmological models. Based on the knowledge gleaned so far, the present consen-sus [1, 2, 3] is that the standard model of cosmology, comprising the Big Bang and a flat universe is correct. The Big Bang Nucleosynthesis [4] (BBN), which forms one of the ba-sic tenets of the standard model, shows that baryons can at most contribute ΩB ( ≡ ρB , ρc being the present value of closure density ∼ 10−47 Gev4 ) ∼0.04, whereas structure formation studies require that the total (cold) matter density should be ΩCDM ∼ 0.23. Matter contributing to CDM is characterized by a dust-like equation of state, pressure p ≈ 0 and energy density ρ > 0 and is responsible for clustering on galactic or supergalac-tic scales. Dark energy (DE), on the other hand, is smooth, with no clustering features at any scale. It is required to have an equation of state p = wρ where w < 0 (ideally w = −1), so that for a positive amount of dark energy, the resulting negative pressure would facilitate an accelerated expansion of the universe, evidence for which has recently
+
+∗Corresponding Author
+†Electronic Mail : bikash@veccal.ernet.in
+
+
+
+become available from the redshift studies of type IA supernovae [3, 5]. For a flat universe Ω ∼ 1, ΩDE ∼ 0.73 [6] implies that ρDE today is of the order of 10−48 GeV4.
+The BBN limit of ΩB ∼ 0.04 has led to the argument that, CDM cannot be baryonic; as a result, various exotic possibilities, all beyond the standard model SU (3)c ×SU (2)×U (1) of particle interactions, have been suggested. The situation is even more complicated for DE. The most natural explanation for DE would be a vacuum energy density, which a priori would have the correct equation of state (w = −1). The difficulty associated with such a possibility is the fact that for any known (or conjectured) type of particle interaction, the vacuum energy density scale turns out to be many orders of magnitude larger than the present critical density. In this paper, we show that it is possible to understand the nature of CDM and DE within the standard model SU (3)c × SU (2) ×
+U (1). They can both arise from the same process of the cosmic quark-hadron phase transition occurring during the microsecond epoch after the Big Bang, provided we admit the existence of quantum entanglement for a strongly interacting system.
+In this paper we assume a first order cosmic QCD phase transition. Other crucial ans¨atze in our scenario include that the universe is overall colour neutral at all times, baryogenesis is complete substantially before the QCD transition epoch and that the baryon number is an integer. Together with the assumption of quantum entanglement, the above picture is capable of explaining both dark matter and dark energy. Here we will restrict ourselves mainly to the case of dark energy. For details see [7].
+At temperatures higher than the critical temperature Tc, the coloured quarks and gluons are in a thermally equilibrated state in the perturbative vacuum (the quark-gluon plasma). The total colour of the universe is neutral (i.e., the total colour wave function of the universe is a singlet). It is strongly believed from QCD analysis that this thermally equilibrated phase of quarks and gluons exhibits collective plasma-like behaviour, referred to in the literature as the Quark-Gluon Plasma or QGP. Then, as Tc is reached and the phase transition starts, bubbles of the hadronic phase, begin to appear in the quark-gluon plasma, grow in size and form an infinite chain of connected bubbles (the percolation process). At this stage, the ambient universe turns over to the hadronic phase. Within this hadronic phase, the remaining high temperature quark phase gets trapped in large bubbles. As is well known, this process is associated with a fluctuation in the temperature around Tc; the bubbles of the hadronic phase can nucleate only when the temperature falls slightly below Tc. The released latent heat raises the temperature again and so on. It is thus fair to assume that the temperature of the universe remains around Tc at least upto percolation.
+The net baryon number contained in these Trapped False Vacuum Domains (TFVD) could be many orders of magnitude larger than that in the normal hadronic phase and they could constitute the absolute ground state of strongly interacting matter [8]. The larger TFVDs with baryon number ∼ 1042−44, which are stable and separated by large distances (∼300 m), would have a bearing on the dark matter content of the universe [9]. In all these considerations, it has been tacitly assumed that in a many-body system of quarks and gluons, colour is averaged over, leaving only a statistical degeneracy factor for thermodynamic quantities. Here we argue that such simplification may have led us to overlook a fundamentally important aspect of strong interaction physics in cosmology.
+Let us now elaborate on the situation in some detail. In the QGP, all colour charges
+
+
+
+are neutralised within the corresponding Debye length, which turns out to be ∼  1  ,
+s
+where gs is the strong coupling constant. For Debye length smaller than a typical hadronic
+radius, hadrons cannot exist as bound states of coloured objects. The lifetime of the QGP may be roughly estimated by the temperature when the Debye screening length becomes larger than the typical hadronic radius, and formation of hadrons as bound states of coloured objects becomes possible.
+The size of the universe being many orders of magnitude larger than the Debye length, the requirement of overall colour neutrality is trivially satisfied. Another condition re-quired for the existence of the QGP would be the occurrence of sufficient number of colour charges within the volume characterised by the Debye length; otherwise the collective be-haviour responsible for the screening would not be possible. For the cosmic QGP, these conditions are satisfied till temperatures ∼ 100 - 200 MeV, the order of magnitude for the critical temperature for QCD.
+So one would argue that all the physics of the QGP is contained within a Debye length. A quick estimate would show that upto Tc, the Debye length is less than a fermi and the total number of colour charges (including quarks, antiquarks and gluons) within the corresponding volume is greater than 10. Note, however, our emphasis on the second ansatz above, that the baryogenesis has already taken place much before Tc is reached and
+
+the value of  nb
+γ
+~ 10−10 has already been established. Firstly, it has to be realised that this
+
+baryon number is carried in quarks at this epoch, so that the net quark number (Nq − Nq¯) in the universe at all times is an exact multiple of 3. The net quark number within a Debye volume then turns out to be ∼ 10−9. Thus, to ensure overall colour neutrality and an integer baryon number, one must admit of long-range correlations beyond the Debye length in the QGP, the quantum entanglement property [10], which was identified as an essential feature of quantum mechanics by Schr¨odinger in as early as 1927 but was experimentally established only recently.
+Let us now consider the process of the cosmic quark-hadron phase transition from the quantum mechanical standpoint of colour confinement. As already mentioned, the colour wave function of the entire universe prior to the phase transition must be a singlet, which means it cannot be factorized into constituent product states; the wave functions of all coloured objects are completely entangled [10] in a quantum mechanical sense. This also ensures the integer baryon number condition [7]. In such a situation, the universe is characterized by a vacuum energy corresponding to the perturbative vacuum of Quantum Chromodynamics (QCD). As the phase transition proceeds, locally colour neutral config-urations (hadrons) arise, resulting in gradual decoherence of the entangled colour wave function of the entire universe. This amounts to a proportionate reduction in the pertur-bative vacuum energy density, which goes into providing the latent heat of the transition, or in other words, the mass and the kinetic energy of the particles in the non-perturbative (hadronic) phase (the vacuum energy of the non-perturbative phase of QCD is taken to be zero). In the quantum mechanical sense of entangled wave functions, the end of the quark-hadron transition would correspond to complete decoherence of the colour wave function of the universe; the entire vacuum energy would disappear as the perturbative vacuum would be replaced by the non-perturbative vacuum.
+The earlier discussions imply that in order for the TFVDs to be stable physical objects, they must be colour neutral. This is synonymous with the requirement that they all have
+
+
+
+integer baryon numbers, i.e., at the moment of formation each TFVD has net quark numbers in exact multiples of 3. For a statistical process, this is, obviously, most unlikely and consequently, most of the TFVDs would have some residual colour at the percolation time. Then, on the way to becoming colour singlet they would each have to shed one or two coloured quarks.
+Thus, at the end of the cosmic QCD phase transition there would be a few coloured quarks, separated by spacelike distances. Such a large separation, apparently against the dictates of QCD, is by no means unphysical. The separation of coloured TFVDs occurs at the temperature Tc, when the effective string tension is zero, so that there does not exist any long range force. By the time the TFVDs have evolved into colour neutral configurations, releasing the few orphan coloured quarks in their immediate vicinity, the spatial separation between these quarks is already too large to allow strings to develop between them; see below. (Such a situation could not occur in the laboratory searches for quark-gluon plasma through energetic heavy ion collisions as the spatial extent of the system is ∼few fermi and the reaction takes place on strong interaction time scales.) Therefore, the orphan quarks must remain in isolation. In terms of the quantum entan-glement and decoherence of the colour wave function, this would then mean that their colour wave functions must still remain entangled and a corresponding amount of the per-turbative vacuum energy would persist in the universe. In this sense, the orphan quarks are definitely not in asymptotic states and no violation of colour confinement is involved. If we naively assume that the entanglement among these orphan quarks imply collective behaviour like a plasma, then one can estimate the corresponding Debye screening length for this very dilute system of quarks, which would still be governed primarily by the tem-perature. At temperatures of ∼ 100 MeV, the scale being much smaller than the mutual separation between the orphan quarks, the formation of bound states of orphan quarks would be impossible.
+Presently, it is not possible to calculate this persisting, or even the full, perturba-tive vacuum energy, from first principles in QCD. For the latter quantity, one may adopt the phenomenological Bag model [11] of confinement, where the Bag parameter B (∼ (145MeV )4) is the measure of the difference between the perturbative and the non-perturbative vacua. Thus we can assume that at the beginning of the phase transition, the universe starts out with a vacuum energy density B, which gradually decreases with increasing decoherence of the entangled colour wave function. A natural thermodynamic measure of the amount of entanglement during the phase transition could be the volume fraction (fq ≡ Vcolour/Vtotal) of the coloured degrees of freedom; at the beginning, fq is unity, indicating complete entanglement, while at the end, very small but finite entangle-ment corresponds to a tiny but non-zero fq due to the coloured quarks. Accordingly, the amount of perturbative vacuum energy density in the universe at any time is the energy density B times the instantaneous value of fq; within the scenario discussed above, the remnant perturbative vacuum energy at the end of the QCD transition would just be B
+×fq,O, where fq,O is due solely to the orphan quarks. An order of magnitude estimate for fq,O can be carried out in the following straightforward manner. On the average, each TFVD is associated with 1 orphan quark so that the number Nq,O of orphan quarks within the horizon volume at any time is about the same as the number NT F V D of TFVDs therein. It is well known from the study of percolating systems [12] that percolation is
+
+
+
+characterized by a critical volume fraction fc ∼ 0.3 of the high temperature phase. So in the present case, fq in the form of TFVD-s would be ∼ 0.3. Following the ansatz of Witten [8] that the most likely length scale for a TFVD is a few cm, one can estimate NT F V D (and hence Nq,O) within the horizon at the percolation time of about 100 µsec [9] to be about 1018−20. The inter-TFVD separation comes out to be ∼ 0.01 cm at that time. (It is obvious that the orphan quarks, separated by distances of 0.01 cm, cannot develop colour strings between them, even if there is some non-zero string tension generated at temperatures slightly lower than Tc.) Then, if we naively associate an effective radius of ∼ 10−14cm (estimated from σqq = 1 σpp ; σpp ∼ 20mb ) with each orphan quark, we obtain fq,O ∼ Nq,O ×(vq,O/Vtotal) ∼ 10−42 − 10−44 (where vq,O is the effective volume of an orphan quark), so that the residual pQCD vacuum energy comes out to be in the range 10−46 to 10−48GeV 4 [7], just the amount of DE.
+To conclude, we have shown that the existence of DE (along with CDM) can be explained entirely within the standard model of particle interactions, without invoking any exotic assumption. It is remarkable that this simple picture gives quantitatively correct amount without any fine-tuning of parameters. Moreover, the picture presented here satisfies, in our opinion, the most stringent criterion of a scientific theory, that of naturalness.
+SR would like to thank the Research Center for Nuclear Physics, Osaka University for their warm hospitality during his sojourn there.
+
+References
+T. Tegmark, Science 296, 1427-1433 (2002).
+S. Sarkar, Proc. EPS Int.Conf. on High Energy Physics, Budapest, 2001 (Horvath, D., Levai, P. and Patkos, A., eds.) JHEP Proceedings Section, PrHEP-hep2001/299.
+B. Leibundgut, Ann. Rev. Astron. Astrophys. 39, 67-98 (2001).
+C. J. Copi, D. N. Schramn, and M. S. Turner, Science 267, 192-199 (1995).
+R. P. Kirshner, Science 300, 1914-1918 (2003).
+H. V. Peiris et al., astro-ph/0302225.
+S. Banerjee et al., Phys. Lett. B 611, 27-33 (2005).
+E. Witten, Phys. Rev. D30, 272-285 (1984).
+S. Banerjee et al., Mon. Not. R. Astron. Soc. 340, 284-288 (2003).
+W. K. Wootters, Phil. Trans. R. Soc. Lond. A356, 1717-1731 (1998).
+A. Chodos, R. L Jaffe, K. Johnson, C. B. Thorn and V. F. Weisskopf, Phys. Rev.
+D9, 3471-3495 (1974).
+D. Stauffer, Phys. Rep. 54, 1-74 (1979).
+
+Conceptual Framework: The Unified Dynamics of a Cosmic Grid and the Flow of Dark Matter in the Emergence of Spacetime and Gravity
+Alessandro Nascimento Milhiolo AI Conceptual Assistant
+July 3, 2025
+
+Abstract
+The current Standard Model of Cosmology, while remarkably successful, faces persistent challenges, including the nature of dark matter and dark energy, and the fundamental incompatibility between General Relativity and Quantum Mechanics [1]. Co-developed by the authors, this article proposes a refined conceptual frame-work to bridge these gaps, postulating a fundamental and interconnected "Cosmic Grid" of spacetime [2]. This grid is intrinsically linked to the dynamic flow of a "universal fluid" of dark matter [2]. A central innovation is the introduction of a vibrational scalar field (φV ), generated directly by baryonic matter, which perturbs the dynamics of the dark matter fluid [13, 2]. This perturbation induces "drag" and "stresses" in the Cosmic Grid, formalized by a new Flow-Deformation Tensor (Ψµν ), which is postulated as the primary source of spacetime geometry [2]. Grav-ity, as observed on macroscopic scales, is hypothesized not merely as a consequence of mass-energy curving spacetime, but as an emergent phenomenon arising from the Cosmic Grid’s deformation induced by dark matter flow [3, 2]. Extreme phe-nomena, such as black holes, are interpreted as "drains" that induce an extreme vortical and convergent flow of dark matter, possibly connecting to a dimensional "sub-space", maintaining conservation through a cycle of drainage and possible ejec-tion [14, 15, 16, 17, 2]. This model draws inspiration from classical fluid dynamics analogies [28, 29] and modern theories of emergent spacetime [4, 5], offering a new perspective on the fundamental mechanics of the universe and potentially providing a unified understanding of cosmic phenomena from quantum to cosmological scales [2].
+
+Introduction: Unresolved Mysteries at the Frontiers of Physics
+Our current understanding of the cosmos is rooted in two highly successful, yet funda-mentally incompatible, theories: General Relativity (GR), which describes gravity and the large-scale structure of the universe, and Quantum Mechanics (QM), which governs the behavior of matter and energy at the subatomic level. The inability to reconcile these pillars of physics at extreme scales (such as within black holes or at the Big Bang singularity) represents one of the most significant challenges in theoretical physics [1].
+
+Compounding this challenge are the enigmas of dark matter and dark energy. Dark matter, comprising approximately 27% of the universe’s mass-energy budget, is detected only through its gravitational effects but remains elusive to direct observation. Dark energy, even more mysterious at around 68%, appears to be responsible for the accelerated expansion of the universe [1]. Recent observations by the James Webb Space Telescope (JWST) detecting unexpectedly massive and mature galaxies in the very early universe reinforce the need for potentially new physics or refinements in our cosmological models [21, 22, 23]. The scientific community has recently witnessed a growing need to explore alternative cosmological paradigms and refinements in our models, given the persistent questions about dark matter and dark energy and the incompatibility between General Relativity and Quantum Mechanics [1].
+This conceptual article aims to explore an alternative framework that strives to unify these disparate phenomena. Drawing inspiration from insights across various disciplines and intuitive observations, we propose a model where the fabric of spacetime, the mys-terious presence of dark matter, and the force of gravity are intrinsically intertwined, suggesting a more dynamic and interconnected cosmic reality [2].
+
+Central Hypotheses: The Cosmic Grid and the Dy-namic Role of Dark Matter
+We propose a set of interconnected hypotheses, which have been refined to incorporate more direct interactions and a more explicit causal chain [2].
+
+The "Cosmic Grid": A Fundamental Quantum Fabric of Space-time
+We postulate that spacetime is not a continuous and passive background, but rather an active and fundamental "Cosmic Grid" (or quantum fabric) composed of discrete and interactive constituents [6, 2, 4]. This concept aligns with contemporary theoretical efforts in quantum gravity, such as:
+Loop Quantum Gravity (LQG): Where spacetime itself is quantized into dis-crete "loops" forming a "spin network". At large scales, these discrete elements give rise to the apparent continuity of spacetime. The "Cosmic Grid" can be seen as the macroscopic manifestation of these "spacetime atoms" [6].  Emergent Space-time Theories: Recent research suggests that spacetime and even gravity could be emergent phenomena arising from more fundamental quantum information, such as quantum entanglement. The "grid" can be seen as the macroscopic manifestation of these entangled microscopic relationships, drawing inspiration from concepts like "It from Qubit" or entropic gravity, where geometry arises from more fundamental states [4, 3, 31, 30, 5].
+This Cosmic Grid is the underlying structure of reality, a fundamentally granular medium that appears continuous at large scales, permeating all existence [2, 4]. To contextualize the deformation of this grid, we consider the spacetime metric, which in General Relativity describes its geometry. In flat spacetime, the Minkowski metric, ηµν, defines distances and intervals.  General Relativity extends this to the curved metric
+
+tensor, gµν, where the distribution of mass and energy deforms spacetime. Einstein’s field equation describes this fundamental relationship [2]:
+
+
+
+
+Where:
+
+Gµν
++ Λgµν
+8πG
+=	c4 Tµν
+(1)
+
+Gµν is the Einstein tensor, which describes the curvature of spacetime.  Λ is the cosmological constant (associated with dark energy).   gµν is the metric tensor that defines the geometry of spacetime.    G is Newton’s gravitational constant. c is the speed of light in vacuum.  Tµν is the energy-momentum tensor, which describes the distribution of mass and energy.
+
+Dark Matter as the "Universal Fluid" and Direct Deformer of the Grid
+We hypothesize that dark matter is the primary "universal fluid" of the cosmos, an ethereal and ubiquitous medium that fundamentally interacts with the Cosmic Grid [2]. Unlike ordinary baryonic matter, which also deforms spacetime by its mass, the influence of dark matter is proposed as being more direct and dynamic in shaping the very geometry of the grid [2].
+To enhance the foundation, we propose that dark matter is composed of ultra-light particles (bosons), with extremely small masses (on the order of 10−22 eV, as in Ultra-Light Dark Matter - ULMD models) [2, 8, 9]. This fundamental nature allows dark matter to manifest in two complementary ways:
+Pervasive and Dynamic Fluid Behavior: On large cosmological and galac-tic scales, where the De Broglie wavelength of these particles is smaller than the system’s scale, the collective of ultra-light particles behaves as a perfect or near-perfect fluid, analogous to Fluid Dark Matter (FDM) models [2, 10, 11, 28]. Just as dark matter forms vast cosmic webs and filaments, guiding the formation and movement of galaxies, we propose that its continuous and heterogeneous "flow" throughout the universe is intrinsically linked to the dynamics of the Cosmic Grid [?]. This flow is not uniform, but exhibits varied velocities and directions in differ-ent cosmic regions, similar to currents in an ocean [2].  Wave-like/Quantum Behavior: On smaller scales, or in regions of low density, the quantum properties of these ultra-light particles become prominent, and dark matter behaves more like a coherent wave field. This can lead to the formation of structures like "solitons" or "cores" in galaxies, potentially resolving small-scale problems of the Standard Model of Cosmology [7, 8, 9, 2].
+Additionally, we postulate that this "universal fluid" of dark matter is the primordial source of baryonic matter. Under extreme conditions, such as those in the early universe, or through specific interactions mediated by the φV field, dark matter can undergo a phase transition or condensation, giving rise to the fundamental constituents (protons, neutrons, electrons) that form hydrogen, the first element of the universe. This suggests that baryonic matter is not a separate component, but an emergence from this more fundamental substrate [2].
+Grid Deformation Induced by Flow: The central hypothesis is that the dynamic flow (whether fluid or wave-like) of this "universal fluid" of dark matter directly deforms
+
+the Cosmic Grid. This deformation is not merely a static curvature, but a continuous and active process. Regions with higher dark matter density or more turbulent flows (or where wave-like properties are more significant) induce larger and more complex deformations in the Cosmic Grid. We can conceive of dark matter as a perfect fluid, whose dynamics are described by conservation equations, but with a direct coupling to the geometry of spacetime [2]:
+
+
+∂ρDM
+∂t
++ ∇ · (ρDM
+
+vDM
+) = 0	(2)
+
+Where ρDM is the dark matter density and vDM is its velocity field. The acceleration of volume elements of dark matter can be linked to the local curvature [2]:
+
+
+DvDM
+Dt
+= −
+ρDM
+
+∇PDM
+— ∇ΦG
+(3)
+
+In our original model, ∇ΦG (the gravitational potential) would not be a force acting on dark matter, but a manifestation of the grid deformation caused by dark matter flow and its density. In the refined version, this interaction will be mediated more explicitly [2].
+Dark energy (Λ) in Einstein’s equation could, in our framework, be interpreted as an emergent property of the very dynamics of this "universal fluid" on cosmological scales, representing an intrinsic tension or pressure that drives the expansion of the entire grid, especially in regions of lower dark matter density [11, 2, 13].
+
+Gravity as an Emergent Phenomenon from Grid Deformation
+Based on the above, we propose that what we perceive as gravity is an emergent phe-nomenon arising from the localized deformations and imperfections generated in the Cos-mic Grid by the flow of dark matter [3, 2].
+"Imperfection" Facilitating Movement: These deformations create paths or "slopes" within the grid. Just as a body deforms an elastic fabric as it moves over it, creating elevations and depressions, the flow of dark matter deforms the Cosmic Grid. Objects (both baryonic matter and dark matter) do not experience a force pulling them, but rather follow the most energetically favorable paths within this dynamically deformed grid. This is analogous to the concept in General Relativity of objects following geodesics in curved spacetime. The geodesic equation, which describes the path of a free particle in curved spacetime, would thus be a direct consequence of the geometry induced by dark matter [2]:
+d2xµ	dxα dxβ
++ Γµ / = 0	(4)
+/
+dτ 2	αβ dτ dτ
+Where xµ(τ ) is the particle’s trajectory in spacetime, τ is proper time, and Γα
+are the Christoffel symbols, which quantify the curvature of the grid. In our refined
+hypothesis, Γα would be intrinsically determined by the dynamics of dark matter
+flow, mediated by the new tensor Ψµν [2].  Dominance of Collective Inter-action: On macroscopic scales, the combined and collective forces and interactions of countless fundamental particles within the dark matter "fluid" create the signif-icant and observable deformations of the Cosmic Grid. This aggregate effect leads to macroscopic behavior that is more intimately related to General Relativity than
+
+to individual quantum interactions. The vastness of dark matter’s presence allows its collective "flow" to be the dominant driver of large-scale spacetime curvature [2].
+
+New Components and Interactions (Direct Coupling)
+This section introduces the central elements of the refined model, detailing the interac-tions that mediate the influence of baryonic matter on dark matter and, consequently, on the Cosmic Grid [2].
+
+The Baryonic Vibrational Scalar Field (φV )
+Nature: A universal scalar field, generated directly by the concentration of baryonic matter (ρB). This field acts as a messenger between baryonic matter and the dark matter fluid/field [2].  Conceptual Generation: Baryonic matter acts as a "source" for φV , which propagates through the Cosmic Grid. Conceptually, the variation of φV at a point is directly proportional to the density of baryonic matter around that point [2]. Avenue for Formalization (Field Equation): To describe the generation and propagation of φV we can consider a field equation that relates it to the baryonic matter density [2]:
+∇2φ	= k ρ
+or, to include its vibrational and dynamic nature, a wave equation:
+1 ∂2φ
+— ∇2φ	= k ρ
+
+2	∂t2
+V	B B
+
+where ∇2 is the Laplacian, k is a coupling constant, and c is the propagation speed of the φV field in the Cosmic Grid.
+
+Coupling between φV and the Dark Matter Fluid
+Mechanism: The scalar field φV acts as a "perturbing agent" for the dark matter fluid/field. Regions with higher φV intensity (due to baryonic concentra-tions) generate "perturbation waves" and "forces" that affect the density (ρDM ) and velocity field (vDM ) of the dark matter fluid. This interaction can be seen as a direct coupling between the φV field and the quantum field of ultra-light dark matter [12, 2, 8, 9].	Conceptual Impact: The spatial gradient of φV acts as an additional force/pressure term in the equations of motion of the dark matter fluid, causing its "drag" or "turbulence" induced by baryonic matter. This means that baryonic matter not only gravitationally attracts dark matter, but also more dynamically "pushes" or "pulls" it through the φV field [2].	Avenue for Formalization (Modified Momentum Equation for Dark Matter): Incor-porating the effect of φV into the dynamics of the dark matter fluid (assuming an ideal fluid for initial simplicity) [2]:
+
+∂vDM
+∂t
+
++ (vDM
+
+· ∇)vDM
+
+= −
+ρDM
+
+∇PDM
+
+— α∇φV
+
+(5)
+
+Here, PDM is the pressure of the dark matter fluid (which may be negligible for a "cold" fluid, or a quantum pressure in the case of ULMD), and α is a new coupling constant that quantifies the strength with which the gradient of φV perturbs the dark matter fluid.
+
+The Dark Matter Flow-Deformation Tensor (Ψµν)
+Function: This tensor is the formal manifestation of the stresses and drag that the dark matter fluid exerts on the Cosmic Grid. It is directly constructed from the dynamic properties of the matter fluid (its density ρDM , velocity field vDM , and the perturbations induced by φV ) [2].	Fundamental Connection: We postulate that Ψµν is the direct source of spacetime curvature. Conceptually,
+both the metric tensor (gµν) and the Christoffel symbols (Γα ), which quantify
+curvature, emerge as the accumulated integral of the effects of Ψµν over a region [2].  Avenue for Formalization (Potential Form): Ψµν could be constructed with terms analogous to the energy-momentum tensor, but specifically derived from the dynamics of dark matter and its interaction with φV [2]:
+
+
+Ψµν = (ρDM + PDM )uµuν + PDM gµν + κ(∇µφV ∇νφV −
+1 g	(∇φ )2) + ...	(6)
+2
+
+where uµ is the four-velocity of the dark matter fluid, κ is a coupling constant for the scalar field, and the additional terms (...) could represent shear stresses or other effects of the flow perturbation.
+
+Black Holes as "Drains" and Interdimensional Conduits
+Behavior: Black holes are conceived as "drains" for the dark matter fluid. Due to extreme baryonic density, the φV field is so intense that it generates an ex-treme vortical and convergent flow of dark matter [2].  Implication for the Grid: This extreme flow dynamic deforms the Cosmic Grid to its limit, generating the observed extreme curvature [2].	Conservation and Sub-space: We postulate that dark matter (and possibly dragged baryonic matter) is "drained" into an unmapped "sub-space" or "level of existence". This speculative concept strongly resonates with extra dimensions or branes proposed by quantum gravity theories, such as String Theory [18] and M-Theory [2, 20]. In these models, the universe we perceive resides on a "brane" floating in a higher-dimensional space [19]. Black holes could act as connection points or "portals" to these other dimen-sions or adjacent branes [14, 15, 16, 2]. In particular, the extreme compaction of matter observed in black holes may induce a transition in physical regime, where the properties of matter become governed by the principles of a quantum gravity theory (like string theory), allowing its access and flow into these extra dimensions through a Fundamental Interdimensional Medium (FIM) [2]. This FIM can be visualized as a ’universal water table’ composed of quanta or entities at a more fun-damental quantum level, permeating and interconnecting all dimensions. At this point of ultracompaction, conventional physical rules lose their effect, and quanta would be free to flow to another locality, preventing the formation of an infinite singularity. This supports the principle of conservation, where matter is not lost, but transformed and transported to a different level of existence within a broader,
+
+more encompassing universe [2].  Return and Cosmic Cycle: Observed mat-ter/energy jets emanating from black holes could be interpreted as the "return" or "reflux" of this fluid (or transformed energy) from the sub-space back to our level of the Cosmic Grid, suggesting a connection to white holes [17, 2]. More specula-tively, a massive and concentrated "return" event from the sub-space, through a white hole "portal", could manifest as an explosion of energy and matter analogous to the Big Bang itself, suggesting a cycle of drainage and ejection that connects different "levels of existence" or even universes within a broader cosmic structure. This cyclic dynamic can be compared to the cycles of life and water on our planet, where matter and energy are in constant flux and transformation, nourishing and recycling the universe in a continuous process of existence and renewal [2].
+
+Causal Chain of Gravity (Refined Proposal)
+The causal sequence of gravity is now more explicitly defined [2]:
+Baryonic Matter (ρB) generates the Baryonic Vibrational Scalar Field (φV ). Baryonic Vibrational Scalar Field (φV ) perturbs the dynamics of the Dark Matter Fluid (ρDM , vDM ).  Perturbed Flow of Dark Matter Fluid generates the Dark Matter Flow-Deformation Tensor (Ψµν) in the Cosmic Grid. Dark Matter Flow-Deformation Tensor (Ψµν) determines the Geometry of the Cosmic Grid
+(gµν and Γα ) through an integral/field relation.	Objects (bariônicos and dark
+matter) follow the geodesics of this deformed Cosmic Grid, manifesting Gravity.
+
+Key Differences from Standard Models
+Gravity is not generated directly by the mass-energy of baryonic matter, but rather mediated and emergent from the dynamics of the dark matter fluid, with a new scalar field as an intermediary [2].	Introduces a fundamen-tal interaction between baryonic matter and dark matter via the φV field, which goes beyond purely Newtonian or relativistic gravitational interaction [2].  Proposes dark matter as a "universal fluid" composed of ultra-light particles, unifying aspects of Fluid Dark Matter and Wave Dark Matter mod-els [11, 10, 2, 8, 7, 9].	Offers a new interpretation for black holes as portals/conduits to a sub-space and not just singularities, with implications for conservation [14, 15, 16, 17, 2].	Complementarity with Mod-ified Gravity Theories (e.g., TeVeS): While theories like TeVeS aim to explain gravitational dynamics without the need for dark matter, by modifying the laws of gravity so that baryonic matter (and associated fields) is suffi-cient, our proposal is founded on the existence and abundance of dark matter as the primary agent of gravity. This suggests a possible complementarity [2, 24, 23, 27]:
+
+
+54321•.
+– TeVeS could be more applicable in "dry regions" of the universe, where dark matter density is extremely low or insignificant (analogous to the Sahara desert). In these environments, the effects of TeVeS’s additional fields would be dominant in modifying gravity [2].
+
+– Our theory would be more applicable in "wet regions", where the presence of dark matter is much greater (e.g., within galaxies, galaxy clusters, or cosmic web filaments, analogous to the Atlantic Ocean). In these locations, the dy-namics of the dark matter fluid/field and its interaction with the φV field would be the primary driver of large-scale spacetime curvature. This perspective al-lows both approaches to have validity in their respective domains, resolving the apparent conflict over the existence of dark matter [2].
+
+Avenues for Mathematical Formalization
+The development of this conceptual model into a complete physical theory requires rig-orous mathematical formalization. Critical steps include [2, 5]:
+Develop specific field equations for φV with ρB as a source: As suggested in Section 4.1, the choice between a Poisson or a wave equation for φV will determine the nature of its propagation and interaction [2].	Introduce an explicit coupling term for φV in the fluid dynamics equations of dark matter: The inclusion of the term −α∇φV in the momentum equation of the dark matter fluid (Section 4.2) is fundamental to describe the perturbation. More complex models could include viscosity or other rheological properties for the dark matter fluid, or considerations of quantum pressure in the case of ULMD [2, 13].	Propose the exact form of the Flow-Deformation Tensor Ψµν based on ρDM and vDM (and its perturbations): The construction of Ψµν (Section 4.3) is crucial. A Lagrangian that includes the dark matter and φV fields would be needed, from which Ψµν could be derived, ensuring consistency with variational principles [2, 12]. Formulate the fundamental field equation that relates Ψµν to gµν and
+α , potentially involving integral or differential operations: This is the
+most significant challenge. An initial approach would be an Einstein-like equation [2, 5]:
+Gµν = kΨΨµν	(7)
+Where kΨ is a coupling constant. However, the "accumulated integral" idea suggested in the original concept may lead to a non-local theory of gravity, where the curvature at a point depends on the history or distribution of Ψµν in an extended region. This would be mathematically more complex, but conceptually aligned with the idea of a "grid" deformation [2].  Mathematically model the "drains" and "sub-space" in black holes: This may involve modifications to the field equations at high densities and extreme curvatures, or the introduction of extra dimensions and coupling terms that allow for the "drainage" and "reflux" of dark matter [2, 14, 15, 16, 17].
+An Invitation to the Scientific Community:
+We recognize that the task of transposing concepts from fluid mechanics and contin-uum mechanics (such as the deformation of continuous media by flows) to describe the intrinsic dynamics of the "Cosmic Grid" and its interaction with the dark matter fluid on cosmological scales is a monumental challenge. This will require the expertise of math-ematicians and physicists with deep knowledge in differential geometry, advanced field theories, and quantum gravity formulations. While analogies offer valuable intuition, rig-orous transposition to a cosmological model requires tools and approaches that go beyond
+
+simple direct adaptation. We invite the scientific community to explore these avenues, seeking the most appropriate formalizations to describe the fundamental interconexão between the deformation of the Cosmic Grid and the flow of dark matter [2].
+
+Potential Observational Implications
+The proposed model, though in a conceptual stage, opens the way for new observational predictions that could distinguish this theory from standard cosmological models [2]:
+Gravitational Lensing: Predictions for gravitational lensing could differ in re-gions with complex dark matter flows or high baryonic concentration, due to the direct interaction of the φV field with the dark matter fluid, which in turn de-forms the grid. We might observe anisotropies or lensing patterns not explained solely by classical mass distribution [7, 2, 16, 12].	Gravitational Waves: The model predicts unique signatures of gravitational waves, which could be in-terpreted as perturbations in the dark matter flow propagating through the grid. The characteristics of these waves (amplitude, frequency, polarization) could differ from those predicted by GR in certain scenarios, especially in cataclysmic events involving black holes [2, 14, 7, 12].  Structure Formation (and the JWST early galaxy problem): A new dynamic for galaxy and cluster formation may be revealed. The influence of the φV field (generated by baryonic proto-galaxies) and the consequent perturbation of the dark matter fluid/field could significantly accelerate the collapse and aggregation of dark matter into halos. More massive and earlier-formed dark matter halos create deeper gravitational potential wells, into which baryonic matter can cool and form stars and galaxies much more effi-ciently and rapidly than in standard cosmological models. This offers a potential explanation for the observation of massive and mature galaxies in the very early universe by JWST, which are difficult to explain with current structure formation mechanisms [21, 22, 23, 24, 25, 26].  Black Holes: The model suggests possible radiation signatures or spacetime behavior that indicate the "drainage" of the dark matter fluid or the "return" from the sub-space through jets. This could lead to predictions about the formation of jets in supermassive black holes or anomalies in matter accretion [2, 17].
+
+Discussion and Conclusion
+The framework presented here is a highly speculative conceptual model, based on inter-disciplinary insights and intuitive leaps, and not on rigorous mathematical derivation or empirical evidence at this stage. It is not intended to be a complete scientific theory, but rather a thought experiment designed to challenge conventional paradigms and inspire new approaches to long-standing problems in physics and cosmology [2].
+The notion of a "universal fluid" for dark matter, now explicitly conceived as ultra-light particles exhibiting dual behavior (fluid and wave-like), directly deforming a "Cosmic Grid" to generate gravity, and more complexly mediated by baryonic interaction via φV , resonates with ancient philosophical and spiritual concepts of a primordial substance and an underlying cosmic order. While these parallels are metaphorical, they sublinham uma persistente intuição humana sobre a interconexão de todas as coisas e a existência de forças fundamentais e onipresentes que moldam a realidade [2].
+
+It is important to note that, although our model postulates dark matter as central to the emergence of gravity, it does not necessarily invalidate other approaches, such as modified gravity theories (e.g., TeVeS). Instead, we propose a complementarity of domains, where different theories could describe distinct regimes of the universe based on the local dark matter density, opening the way for a richer and multifaceted under-standing of gravity and cosmic structure [2, 11, 24, 23]. Furthermore, if everything in the universe operates in cycles, why would this be any different? This perspective not only offers a new understanding of black holes as points of transformation and interdi-mensional transport, where matter is reintroduzida em um novo regime físico, but also opens speculative avenues for the origin of the universe itself. It suggests that the Big Bang may be a "reflux" phenomenon in a cosmic cycle of drainage and ejection through sub-space, análogo aos ciclos naturais da vida e da transformação that we observe in our own world. This interpretation reinforces the principle that nothing is created or lost, but everything is transformed, mantendo a conservação da matéria e da energia in a dynamic and interconnected universe [2].
+Further theoretical development would require rigorous mathematical formalization, potential links to quantum field theories, and the formulation of testable predictions. Although direct observation of dark matter "flow" or the "grid" itself remains beyond current technological capabilities, continuous advancements in gravitational wave astron-omy, dark matter detection experiments, and high-redshift cosmology could offer future insights that might support or refute aspects of this framework [2].
+Ultimately, this article serves as an invitation to consider an alternative and unified perspective on the fundamental components of our universe, encouraging a broader imag-inative scope in the ongoing quest to understand the deepest mysteries of space, time, matter and gravity [2].
+Note to the Reader: This document is a conceptual exploration. While framed using scientific terminology and addressing current physics challenges, the proposed hy-potheses are theoretical and await rigorous scientific development and empirical valida-tion. Its purpose is to stimulate thought and interdisciplinary discussion.
+
+References References
+[1•] Reddy, D. R. K., Odintsov, S. D., & Harko, T. (2017). Dark Matter and Dark En-
+ergy Cosmologies and Alternative Theories of Gravitation. Advances in High Energy Physics, 2017, Article ID 8061353, 2 pages. https://doi.org/10.1155/2017/8061353
+Milhiolo, A. N., & AI Conceptual Assistant. (2025). Spacetime Den-sification Theory:  A Quantum Framework for Gravity and Its Cos-mological  Implications  -  A  Human-AI  Collaborative  Investigation.
+https://www.researchgate.net/publication/390314048SpacetimeDensificationT heoryAQuantumF
+AICollaborativeInvestigation
+Wikipedia.	(n.d.).	Entropic	gravity.	Retrieved	from https://en.wikipedia.org/wiki/Entropicgravity
+
+Carney, D., et al. (2023). Spacetime emergence from entanglement. Physical Review D, 107 (6), 066008. https://link.aps.org/doi/10.1103/PhysRevD.107.066008
+Carney, D., et al. (2025). A statistical mechanics approach to gravity. Physical Review D, 111 (6), 066001. https://link.aps.org/doi/10.1103/PhysRevD.111.066001
+Wikipedia. (n.d.). Loop quantum gravity. Retrieved from https://en.wikipedia.org/wiki/Loopquantumgravity
+Mocz, P., et al. (2025). Rotating solitons in ultralight dark matter. Physical Review D, 111 (10), 103527. https://link.aps.org/doi/10.1103/PhysRevD.111.103527
+Hui, L., et al. (2025). Wave dark matter with relativistic wave numbers. Physical Review D, 111 (2), 023535. https://link.aps.org/doi/10.1103/PhysRevD.111.023535
+ResearchGate. (2025). Solitons in Ultra-Light Dark Matter (ULDM). https://www.researchgate.net/publication/389089668SolitonsinU  ltra	−
+LightDarkM atterU LDM
+Khoury, J. (2014, November 17). Physicist theorizes dark matter as superfluid. Penn Today. https://penntoday.upenn.edu/news/physicist-theorizes-dark-matter-superfluid
+Wikipedia. (n.d.). Dark fluid. Retrieved from https://en.wikipedia.org/wiki/Darkf luid
+Wang,  S.,  & Yang,  R. (2020). Scalar fifth force from a symmetry-breaking coupling function. Physical Review D, 101 (4), 044020. https://link.aps.org/doi/10.1103/PhysRevD.101.044020
+Boehmer,  C.  G.,  &  Harko,  T.  (2011).  Scalar  field  dark  energy coupled to baryonic matter. Physical Review D, 83 (2), 023510. https://link.aps.org/doi/10.1103/PhysRevD.83.023510
+Gergely, L. A. (2006). Brane-world cosmology with black strings. Physical Review D, 74 (2), 024002. https://link.aps.org/pdf/10.1103/PhysRevD.74.024002
+Majumdar, A. S., & Mukherjee, N. (2005). Braneworld black holes in cosmology and astrophysics. International Journal of Modern Physics D, 14 (08), 1095-1110. https://www.worldscientific.com/doi/10.1142/S0218271805006948
+Kanti,   P.,   &  Olasagasti,   I.  (2017).  Braneworld  black  holes in cosmology and astrophysics. Frontiers in Physics, 5, 28. https://pmc.ncbi.nlm.nih.gov/articles/PMC5479361/
+Wikipedia.	(n.d.).	White	hole.	Retrieved	from https://en.wikipedia.org/wiki/Whitehole
+Wikipedia.	(n.d.).	String	theory.	Retrieved	from https://en.wikipedia.org/wiki/Stringtheory
+Randall, L., & Sundrum, R. (2000). An alternative to compactification. Physical Review D, 61 (6), 065007. https://link.aps.org/doi/10.1103/PhysRevD.61.065007
+
+CERN. (n.d.). Extra dimensions, gravitons, and tiny black holes. Retrieved from https://home.cern/science/physics/extra-dimensions-gravitons-and-tiny-black-holes
+Howell,	E. (2025,	July 9). JWST finds cosmic monster ruling tiny early galaxy:		Was it forged by black holes from the Big Bang?	Space.com. https://www.space.com/astronomy/jwst-finds-cosmic-monster-ruling-tiny-early-galaxy-was-it-forged-by-black-holes-from-the-big-bang
+news.ycombinator.com. (2024, October 10). Discussion on JWST findings and alter-native gravity theories. https://news.ycombinator.com/item?id=42158130
+Case Western Reserve University. (2024, November 12). James Webb Space Telescope results may upend astronomers’ theory of galaxy forma-tion. https://thedaily.case.edu/james-webb-space-telescope-results-may-upend-astronomers-theory-of-galaxy-formation/
+Moffat, J. W. (2013). Modified Gravity (MOG). Galaxies, 1 (1), 65-82. https://www.mdpi.com/2075-4434/1/1/65
+Pizzuti, L. (2018). Primordial Dark Halos from Fifth-Forces. (Master’s thesis, Uni-versity of Bologna).
+White, M. (n.d.). Models of Structure Formation. Retrieved from https://w.astro.berkeley.edu/ mwhite/models.html
+Tachyon Beam. (2024, September 10). What are the predictions of MOND on the formation of early galaxies? https://tachyonicbeam.com/article/what-are-the-predictions-of-mond-on-the-formation-of-early-galaxies
+Wikipedia.	(n.d.).	Fluid	dynamics.	Retrieved	from https://en.wikipedia.org/wiki/Fluiddynamics
+OpenStax. (n.d.). Fluid Dynamics. University Physics Volume 1. Retrieved from https://pressbooks.online.ucf.edu/osuniversityphysics/chapter/14-5-fluid-dynamics/
+Wolchover, N. (2025, June 13). Is Gravity Just Entropy Rising? Long-Shot Idea Gets Another Look. Quanta Magazine. https://www.quantamagazine.org/is-gravity-just-entropy-rising-long-shot-idea-gets-another-look-20250613/
+The Quantum Insider. (2025, May 11). Study Suggests Quantum Entanglement May Rewrite the Rules of Gravity. https://thequantuminsider.com/2025/05/11/study-suggests-quantum-entanglement-may-rewrite-the-rules-of-gravity/
+
+
+Constraints on alternative theories of gravity and cosmology
+Alexander F. Zakharov1,2, Victor N. Pervushin2, Francesco De Paolis3, Gabriele Ingrosso3 and Achille A. Nucita4
+1Institute of Theoretical and Experimental Physics,
+B. Cheremushkinskaya, 25, 117259, Moscow, Russia, email: zakharov@itep.ru
+2Bogoliubov Laboratory for Theoretical Physics,
+Joint Institute for Nuclear Research, 141980 Dubna, Russia
+3Department of Physics and INFN, University of Salento, CP 193, I-73100, Lecce, Italy
+4XMM-Newton Science Operations Centre, ESAC, ESA, PO Box 50727, 28080 Madrid, Spain
+
+
+
+Abstract
+One could call 2006 as the year of cosmology since in the year two US scientists were awarded by the Nobel prize for their studies of Cosmic Microwave Background (CMB) spectrum and anisotropy. Studies of CMB anisotropy done with the Soviet spacecraft Prognoz-9 by the Relikt-1 team are reminded. Problems of modern cosmology are outlined. We discuss conformal cosmology param-eters from supernovae data in brief. Two approaches to solve the basic problems of cosmology, such as dark matter and dark energy, are discussed, the first (standard) possibility is to introduce new particles, fields etc, the second possibility is to try to change a gravity law to fit observational data. We discuss advantages and disadvantages of the second choice.
+Keywords: General Relativity and Gravitation; Cosmology; Observational Cosmology; Cos-mological tests; Supernovae; Cosmic Microwave Background Radiation.
+
+Introduction
+For a scientific community 2005 was the World year of physics due to publications of the famous Einstein’s papers and the birth of modern (contemporary) physics in 1905. The next year (2006) was also remarkable for a physical community (it was the year of astrophysics and cosmology) since in 2006 the Nobel prize for CMB studies was presented to J. Mather and G. Smoot, moreover J. Mather and the COBE (COsmic Background Explorer) team was awarded by the Peter Gruber prize on cosmology in the same year at the General Assembly of the International Astronomical Union in Prague. No doubt, 2007 will be recognized as the very important year for astrophysical (or probably for scientific in general) community since a number of of discoveries were done even at present date. For Russian space science 2007 is the jubilee year since the first artificial satellite (Sputnik) was launched fifty years ago on October 4, 1957.
+A structure of the paper is the following. In section 2 we remind results of CMB anisotropy studies done with the Soviet Relikt-1 mission. In section 3 we outline a current status of cosmological studies and parameters of conformal cosmological models in brief. In section 4 we discuss a success of alternative way to solve DM and DE problem (so-called, a geometrical approach or f (R)-models), where a gravity law is substituting with changing classical Lagrangian for gravity and severe constraints on parameters of so-called Rn theory from Solar system data will be given. Conclusions will be presented in section 5.
+
+CMB anisotropy studies, Relikt-1 & COBE
+Cosmic microwave background (CMB) existence was predicted in the framework of the the so called Big Bang cosmological model [1, 2, 3, 4], however, first estimates CMB temperature TCMB ∼ 500 K were
+
+rather rough since it was assumed that the age of the Universe is about 2–3 109 years (because of the Hubble constant estimate was very high H = 500 km/(s Mpc) due to errors in distance measurements at the time), but later Gamow re-estimated the temperature TCMB  60 K [5]. The CMB radiation was discovered by A. Penzias and R. Wilson [6] in an unexpected way (and they awarded by the Nobel prize for the discovery in 1978). The physical meaning the discovery was explained in the introductory paper [7] published in the same issue of the Astrophysical Journal as the paper [6] with a description of the discovery.
+Because the Earth moves in respect to the CMB, a dipole temperature anisotropy of the level of is expected. A dipole temperature anisotropy of the level of ∆T/T = 10−3 was observed, it corresponds to a peculiar velocity 380 km/s of the Earth towards the constellation Virgo (first measurements of dipole anisotropy were not very precise [8], but later the accuracy was significantly improved [10, 11, 12]). Moreover, based on results of balloon measurements it was claimed several times about features of quadrupole anisotropy [12, 13], however, the quadrupole term is too high in these experiments as further studies had indicated, or reversely the realistic level of quadrupole anisotropy is to low to be detected in the balloon experiments.
+In 1983, in the Soviet Union the Relikt-1 experiment1 was conducted aboard the Prognoz-9 space-craft2 in order to investigate CMB radiation from space for the first time in history. As many other Prognoz missions, the scientific payload was prepared by the Space Research Institute of the Soviet Academy of Sciences. Dr. Igor Strukov was the principal investigator.
+The spacecraft Prognoz-9, had an 8 mm band radiometer with an extremely high sensitivity of 35 µK per second and it was launched into a high apogee orbit with a 400,000 km semi-axis. The high orbit was a great advantage of the mission since it allows to reduce of geomagnetic field impact on measurements. A disadvantage of the experiment was that the observations were conducted only in one spectral band, therefore, it was a freedom for a theoretical interpretation of the results, in contrast, multi-band measurements provide very small room for alternative explanations of anisotropy.
+The radiometer scanned the entire celestial sphere for six months. Computer facilities (and there-fore, data analyzing) were relatively slow in the time. Preliminary analysis of anisotropy studies indicate upper limits on anisotropy [15], but in this case even the negative results (upper limits) were extremely important to evaluate a sensitivity to design detectors for next missions (including COBE). In 1986, at the Space Research Institute it was decided to prepare a next generation of space experiments to study the anisotropy of CMB, and start to develop the Relikt-2 project. The sensitivity of the detectors was planned to be in 20 times better than the Relikt-1 sensitivity. The Libris satellite was scheduled to carry the Relikt-2 payload and the spacecraft was planned to be located near the Lagrangian point L2 (in the Sun – Earth system).3 Originally, it was a plan to launch the Libris spacecraft in 1993–1994, however, the project has not been realized, basically due to a lack of funds. To prepare Relikt-2, the team members re-analyzed Relikt-1 data and finally in beginning of 1991 they discovered signatures of the quadrupole anisotropy, but I. Strukov required to check the conclusions again and again. The discovery of anisotropy by the Relikt-1 spacecraft was first reported officially in January 1992 at the Moscow astrophysical seminar and the Relikt-1 team submitted papers in Soviet Astronomy Letters [16] and Monthly Notices of Royal Astronomical Society [17] (soon after the papers were published). Relikt-1 results are described in an adequate way at the at the official NASA web-site http://lambda.gsfc.nasa.gov/product/relikt/4 ”... The Relikt Experiment Prognoz 9, launched on 1 July 1983 into a high-apogee (700,000 km) orbit, included the Relikt-1 experiment to investigate the anisotropy of the CMB at 37 GHz, using a Dicke-type modulation radiometer. During 1983 and 1984 some 15 million individual measurements were made (with 10% near the galactic plane providing some 5000 measurements per point). The entire sky was observed in 6 months. The angular resolution was
+5.5 degrees, with a temperature resolution of 0.6 mK. The galactic microwave flux was measured and the CMB dipole observed. A quadrupole moment was found between 17 and 95 microKelvin rms, with
+
+1In Russian literature CMB radiation is called as a relic radiation, therefore the name Relic (”Relikt” in Russian) was chosen.
+2In Russian ”Prognoz” means ”forecast”. Prognoz spacecrafts were designed originally for studies of Solar activity (Solar flares in particular) and its impact on geophysics, geomagnetic fields and space weather [14]. The spacecrafts were launched at high elliptical orbits with apogee about 200 000 km.
+3The trajectories near the L2 point are suitable for different space experiments, for example, the orbit was selected
+for the WMAP spacecraft (it is one of the most successful mission to study the CMB anisotropy and such an orbit was planned to be used for the future Millimetron cryogenic telescope (it scheduled to be launched around 2016)).
+4See, also, an article ”Cosmic microwave background radiation” in Wikipedia, the free encyclopedia (http://en.wikipedia.org/wiki/Main Page).
+
+90% confidence level. A map of most of the sky at 37 GHz is available...” (also, references [16, 17], given at the NASA web-site).
+The Nobel Prize in Physics for 2006 was awarded to John Mather and George Smoot. The Royal Swedish Academy of Sciences had issued the Press Release, dated on 3 October 2006, on The Nobel Prize in Physics 2006.5 The Royal Swedish Academy of Sciences has decided to award the Nobel Prize in Physics for 2006 jointly to John C. Mather (NASA Goddard Space Flight Center, Greenbelt, MD, USA), and George F. Smoot (University of California, Berkeley, CA, USA) ”for their discovery of the blackbody form and anisotropy of the cosmic microwave background radiation”. Really, J. Mather was the project scientist of the COBE mission and was responsible for measurements of CMB spectrum (he was the PI of the Far InfraRed Absolute Spectrometer (FIRAS) experiment) and measurements of CMB spectrum were rather successful. G. Smoot did a great contribution into measurements of the dipole anisotropy [11] and the quadrupole one [18], since he was PI of the differential microwave radiometer (DMR) aboard the COBE satellite and found the quadrupole anisotropy with these facilities, but both anisotropies were discovered earlier by other people.
+The discovery of anisotropy by the Relikt-1 spacecraft was first reported officially in January 1992 at the Moscow astrophysical seminar. Relikt-1 team submitted their paper in Soviet Astronomy Letters and Monthly Notices of Royal Astronomical Society on January 19, 1992 and on February 3, 1992, respectively.
+On April 21, 1992, G. Smoot (the head of DMR experiment aboard the COBE mission) and his co-authors submitted a paper in Astrophysical Journal (Letters) [18]. On April 22, 1992, Smoot reported at a press conference about the discovery of the CMB anisotropy with the COBE satellite. After that mass media reported this results as the main science success. In 1992, COBE results about discovery of the CMB anisotropy were reported elsewhere. However, no doubt, the COBE collaboration knew results of Relikt-1 team and even quoted their upper limit on the quadrupole anisotropy published at the paper.[15] Sometimes, results of both (COBE and Relikt-1) collaborations were presented at the same scientific meetings. In particular, in June 1992, at the conference on Particle Astrophysics in Blois (France) results on discoveries of CMB anisotropy were presented at a plenary session by representatives of both teams (Relikt-1 and COBE), namely M. V. Sazhin and G. Smoot. The Smoot’s paper was published in the conference proceedings [19], but unfortunately, eventually, Sazhin’s contribution was not published there.
+However, summarizing, one could say that since papers of the Relikt-1 team were submitted on January 19, 1992 and February 3, 1992 in Soviet Astronomy and Monthly Notices of Royal Astronomy Society respectively, but COBE paper was submitted on April 21, 1992, one would conclude that the discovery one quadrupole anisotropy was done by the Relikt-1 team and published in papers [16, 17].
+
+Precise cosmology & Conformal Cosmological Models
+Since 1998 people claimed that cosmology started to be a precise science. Really, if the standard cosmo-logical paradigm was chosen, now we can evaluate cosmological with a precision about 10 % (typically only statistical errors are indicated and it is assumed that systematical errors are negligible). However, even in the framework of the standard paradigm of the Big Bang cosmology, our understanding the best fit for cosmological model is changing. For example, in the beginning of 1998 it was found that the Universe is opened and Ωm 0.2 0.4 (based on observations of galactic clusters [20] (immedi-ately, mass media had reported that eventually scientists proved that the Universe would be expanding forever), but at the end of 1998, it was concluded that the Universe is flat Ωm = 0.3, ΩΛ = 0.7 [21, 22] (assuming that the SNeIa are standard candles).
+We will remind basic relations for CC model parameters (see papers [23, 24] for details) considering the General Relativity with an additional scalar field Q, as usually people did to introduce quinessence [25, 26, 27, 28] (earlier, the approach was used for inflationary cosmology, see for example, paper [29] and references therein)
+S	= ∫ d4x√−g ·− 1	1	µ	− V (Q)¸ ,	(1)
+
+5Information from the Nobel prize committee web-site http://www.kva.se.
+
+where we used the natural units
+
+
+MPlanck
+
+/
+ 3  = k = c = 1,	(2)
+8π
+
+therefore, we have the following expressions for density and pressure of the scalar field, pQ and ρQ, respectively [25, 26, 27, 28],
+p (t) = 1 Q˙ 2 + V (Q),
+Q	2
+ρ (t) = 1 Q˙ 2	V (Q),	(3)
+Q	2
+and equation of state (EOS) such as pQ = wQρQ, where
+1 Q˙ 2 − V (Q)
+/
+
+wQ =
+2
+1 Q˙ 2 + V (Q)
+,	(4)
+
+( 1 wQ 1, for ”natural” potentials V (Q) 0). In contrast with quintessence model where one uses typically Q˙ 2 V (Q), below for CC model we will use an approximation Q˙ 2 V (Q) (for a standard representation of the potential V (Q) = 1 mQ2, where m is a mass of the field, the approximation corresponds to a massless field model) and we have
+1 Q˙ 2
+w  =  2	 = 1,	(5)
+1 ˙ 2
+/
+2
+or on the other words, a rigid EOS for the scalar field pQ = ρQ (prig = ρrig, since for our future needs an origin of the EOS is not important, hereafter, we will call the component such as the rigid matter).
+We suppose that a measurable interval is defined by the Weyl-like ratio
+2	ds2	gµν dxµdxν
+
+
+
+of two Einstein intervals
+dsmeas =   Einstein =
+units
+
+/
+[gµνdxµdxν ]units
+(6)
+
+2
+Einstein
+= gµν dxµdxν	(7)
+
+one of which ds2
+plays a role of measurement units determined by one of masses. The Weyl definition
+
+means that there is no device measuring the absolute value of any length. Nevertheless, this definition gives us a possibility to fit also the units of observations as two choices of observable variables. These choices correspond to two different cosmological models: the Standard Cosmology with observable masses msc = m and Einstein’s intervals in homogeneous approximation
+2 = dt2 − a2(dxk)2 = a2(η)[(dη)2 − (dxk)2]	(8)
+and the Conformal Cosmology, where all masses
+mcc = ma(η)	(9)
+are scaled by the factor a and measurable intervals
+2 = (dη)2 − (dxk)2	(10)
+do not depend on the cosmological scale factor a.
+In general case, both SC and CC are described by equation
+(a′)2 = ρ(a),	(11)
+
+
+where
+
+ρ(a) = ρ0
+J=−2,0,1,4
+
+ΩJ aJ	(12)
+
+is the conformal energy density connected with the SC one by the transformation
+ρ(a) = a4 ρSC(a) ,	(13)
+
+factor a4 = a3a arises due to differences of length and mass units in SC and CC, ΩJ is partial energy density marked by index J running a set of values J = −2 (rigid), J = 0 (radiation), J = 1 (mass),
+and J = 4 (Λ-term) in correspondence with a type of matter field contributions; here	ΩJ = 1
+J=−2,0,1,4
+is assumed.
+In terms of the standard cosmological definitions of the redshift
+1
+1 + z ≡ a(η) .	(14)
+
+
+the density parameter Ωc(z) =
+J=−2,0,1,4
+ΩJ aJ in Eq. (12) takes the form
+
+
+Ωc(z) = Ωrig
+
+(1 + z)2 + Ωrad
+ Ωm 	 ΩΛ	
++	+	,	(15)
+(1 + z)	(1 + z)4
+
+where Ωrig = Ω−2, Ωrad = Ω0, Ωm = Ω1, ΩΛ = Ω2.
+Then the equation (11) takes the form
+dη	1	1
+H0 dz = (1 + z)2 √Ω (z) ,	(16)
+and determines the dependence of the conformal time on the redshift factor. This equation is valid also for the conformal time - redshift relation in the SC where this conformal time is used for description of a light ray.
+A light ray traces a null geodesic, i.e. a path for which the conformal interval (dsL)2 = 0 thus
+satisfying the equation dr/dη = 1. As a result we obtain for the coordinate distance as a function of the redshift
+∫ z	dz′	1
+The equation (17) coincides with the similar relation between coordinate distance and redshift in SC.
+In the comparison with the stationary space in SC and stationary masses in CC, a part of photons is lost. To restore the full luminosity in both SC and CC we should multiply the coordinate distance by the factor (1 + z)2. This factor comes from the evolution of the angular size of the light cone of emitted photons in SC, and from the increase of the angular size of the light cone of absorbed photons in CC. However, an observable length in SC contains an additional factor (1 + z)−1
+ℓ	= a ∫ dt =   r   .	(18)
+
+in comparison with measurable distances in CC
+ℓ	= ∫ dt =   r   .	(19)
+
+(that coincide with the coordinate ones).
+Thus, we obtain the relations for observable lengths in SC and CC, respectively
+ℓSC(z) = (1 + z)r(z) ,	(20)
+ℓCC(z) = (1 + z)2r(z) ,	(21)
+simply because of ℓSC(z) = aℓCC(z). It means that the observational data are described by different manners in SC and CC, since functions H0ℓ(z) have different representations in SC and CC mod-els therefore, observational data can be fitted with different parameters of the functions as we will demonstrate below.
+
+/ /
+
+
+
+
+Figure 1: µ(z)-dependence for cosmological models in SC and CC. The data points include 186 SN Ia (the ”gold” and ”silver” sample) used by the cosmological supernova HST team [30]. For a reference we use the best fit for the flat standard cosmology model with Ωm = 0.27, ΩΛ = 0.73 (the thick dashed line), the best fit for CC is shown with the thick solid line. For this CC model we assume Ωm ≥ 0.
+
+Magnitude-Redshift Relation
+Typically to test cosmological theories one should check a relation between an apparent magnitude and a redshift. In both SC and CC models it should be valid the effective magnitude-redshift relation:
+µ(z) ≡ m(z) − M = 5 log [H0ℓ(z)] + M,	(22)
+where m(z) is an observed magnitude, M is the absolute magnitude, M is a constant with recent experimental data for distant SNe.  Values of µi, zi and σi could be taken from observations of
+a detected supernova with index i (σ2 is a dispersion for the µi evaluation). Since we deal with
+observational data we should choose model parameters to satisfy an array of relations (22) by the best way because usually, a number of relations is much more than a number of model parameters and there are errors in both theory and observations (as usual we introduce indices for the relations corresponding to all objects). Typically, χ2-criterium is used to solve the problem, namely, we calculate
+Σ (µtheor − µi)2
+where µtheor are calculated for given zi with the assumed theoretical model and after that we can evaluate the best fit model parameters minimizing χ2-function.
+However, in principle, other alternatives for cosmology are not completely ruled out, for example, a conformal cosmological model was discussed in papers [23, 24]. Using ”gold” and ”silver” 186 SNe Ia [30] we confirm in general and clarify previous conclusions about CC model parameters [31], done earlier with analysis of smaller sample of SNe Ia data [23, 24] that the pure flat rigid CC model could fit the data relatively well since ∆χ2 ≈ 44.3 (or less than 20 %) in respect of the standard cosmology
+flat model with Ωm = 0.28. Other pure flat CC models should be ruled out since their χ2 values are too high. For the total sample, if we consider CC models with a ”realistic” constraint 0.2 ≤ Ωm ≤ 0.3 based on other astronomical or cosmological arguments except SNe Ia data, we conclude that the standard cosmology flat model with Ωm = 0.28 is still preferable in respect to the fits for the CC models but the preference is not very high (about 5 % in relative units of χ2 value), so the CC models could be adopted as acceptable ones taking into account possible sources of errors in the sample and
+systematics.
+
+In Fig. 1 we compare the SC and CC fits for the effective magnitude-redshift relation if we put ”natural” constraints on Ωm ≥ 0. In this case the χ2 difference between two CC models (∆χ2 ≈ 16) is not very high and a difference between this fit and the SC best fit for a flat model is about ∆χ2 ≈ 10 (or less than 5%), it means the CC fit is at an acceptable level. For references, we plotted also pure
+flat CC models, so that rigid, matter, lambda and radiation models are shown with thin dotted, short dashed, dot dash, dash dot dot dot lines, respectively. One can see that only pure flat rigid CC model has relatively low χ2 values (and it could be accepted as a rough and relatively good fit for cosmological SNe Ia data), but other models should be definitely ruled out by the observational data.
+Thus, for CC model fits calculated with SNe Ia data, in some sense, a rigid equation of state could substitute the Λ-term (or quintessence) in the Universe content. As it was mentioned in the paper [31] the rigid matter can be formed by a free massless scalar field. The best CC models provide almost the same quality fits of SNe Ia data as the best fit for the SC flat model, however the last (generally accepted) model is more preferable.
+
+Standard Cosmology vs. f(R) gravity
+The standard cosmological model has problems to understand an origin of Dark Matter (DM) and dark energy (DE). Another approach was proposed and it was based on an assumption that gravity is different from standard general relativity it can be described by a modified Lagrangian [32] (however, there are tensions with Solar system constraints [33]). The model was successful to explain an accel-eration of the Universe, but it has problems to fit Solar system data. Recently, it has been proposed a generalization of the approach in the framework of higher order theories of gravity – also referred to as f (R) (or fourth order) theories – a modification of the gravity action with the form [34, 35, 36, 40]
+A = ∫ d4x√−g[f (R) + Lm],	(24)
+
+where f (R) is a generic function of the Ricci scalar curvature and m is the standard matter La-grangian. For example, if f (R) = R + 2Λ the theory coincides with General Relativity (GR) with the Λ term. In particular, it was considered a power law function f (R) theories of the form f (R) = f0Rn. As a result, in the weak field limit, the gravitational potential is found to be
+
+
+Φ(r) =	Gm
+2r
+µ  r ¶β #
+
+
+
+,	(25)
+
+where
+2	√	4	3	2
+
+β = 12n − 7n − 1 −  36n + 12n − 83n + 50n + 1 .	(26)
+6n2 − 4n + 2
+The dependence of the β parameter on the n power is shown in Fig. 2 [41]. Of course, for n → ∞ it follows β → 1, while for n = 1 the parameter β reduces to zero and the Newtonian gravitational field is recovered. On the other hand, while β is a universal parameter, rc in principle is an arbitrary parameter, depending on the considered system and its typical scale. Consider for example the Sun as the source of the gravitational field and the Earth as the test particle. Since Earth velocity is ≃ 30 km s−1, it has been found that the parameter rc varies in the range ≃ 1 − 104 A.U.
+The authors of the paper [40] fix rc to be rc = GM⊙/v2, M⊙ being the solar mass and v ∼ 30 km s−1, in order to have no deviation from Newtonian potential for a circular Earth orbit with r ≃ 1 A.U., meaning that rc has to be 1 A.U.
+Once rc and β has been fixed, authors of the paper [40] used them to study deviations from the standard Paczynski light curve for gravitational microlensing [37] and claimed that the implied deviation can be measured. It is clear that for gravitational microlensing one could detect observational differences between GR and an alternative theory (the fourth order gravity in particular), so that one should have different potentials at the scale RE (the Einstein radius) of the gravitational microlensing
+. For the Galactic microlensing case RE is about 1 A.U. This is a reason why the authors [40] have selected rc at a level of astronomical units to obtain observable signatures for non-vanishing β.
+Fourth order gravity theories were very successful to explain standard cosmological data such as SNe Ia fits, an acceleration of the Universe [34, 35, 36] rotation curves for galaxies [38] and it was suggested
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2: The parameter β as a function of n for fourth order gravity.
+
+that the standard general relativity plus DM and DE may be distinguished from Rn approaches with gravitational microlensing [40], but Solar system data (planetary orbital periods, in particular) put severe constraints on parameters of the the theories [41].
+
+Planetary Constraints
+We now discuss some observational consequences of fourth order gravity which, after fixing the core radius rc  1 A.U., still depends on the parameter β in the weak field approximation.
+A constraint on the fourth order gravity theory can be obtained from the motion of the solar system planets. Let us consider as a toy model a planet moving on circular orbit (of radius r) around the Sun. From Eq. (25), the planet acceleration a = −∂Φ(r)/∂r is given by
+
+
+a =	Gm 1 + 2r2
+
+r	β
+rc
+µ  r ¶β #
+
+
+.	(27)
+
+Accordingly, the planetary circular velocity v can be evaluated and, in turn, the orbital period P is given by
+
+P = PK√2
+"1 +
+r	β
+rc
+µ  r ¶β #−1/2
+/
+
+,	(28)
+
+where PK = [4π2r3/(Gm)]1/2 is the usual Keplerian period. In order to compare the orbital period predicted by the fourth order theory with the Solar System observations, let us define the quantity
+∆P = |P − PK | = |f (β, r ) − 1|	(29)
+PK	PK	c
+
+being f (β, rc) the factor appearing on the right hand side of equation (28) and multiplying the usual Keplerian period.
+There is a question about a possibility to satisfy the planetary period condition – vanishing the Eq. (29) – with β parameter which is significantly different from zero. Vanishing the right hand side of Eq. (29) we obtain the relation
+
+ln r = ln rc
+ln (1 − β) ,	(30)
+β
+
+so that Eq. (30) should be satisfied for all the planetary radii. This is obviously impossible since the fourth order theory defines β as a parameter, while the specific system under consideration (the Solar system in our case) allows us to specify the rc parameter. Hence the right hand side of Eq. (30) is fixed for the Solar system, implying that it is impossible to satisfy Eq. (30) even with two (or more) different planetary radii.
+Just for illustration we presented the function f (β, rc) as a dependence on β parameter for fixed rc and planetary radii r (see Figs. in paper [41]). As one can see from Eq. (30) (and Figs. in paper [41] as well) for each planetary radius r > rc there is β ∈ (0, 1) satisfying Eq. (30), but the β value depends on fixed rc and r, so that they are different for a fixed rc and different r. Moreover, if we have at least one radius r rc, there is no solution of Eq. (30). Both cases imply that the β parameter should be around zero.
+As one can note, only for β approaching zero it is expected to recover the value of the Keplerian period. In the above mentioned figure, the calculation has been performed for the Earth orbit (i.e. r = 1 A.U.).
+Current observations allow also to evaluate the distances between the Sun and the planets of the Solar System with a great accuracy. In particular, differences in the heliocentric distances do not exceed 10 km for Jupiter and amount to 180, 410, 1200 and 14000 km for Saturn, Uranus, Neptune and Pluto, respectively [42]. Errors in the semi-major axes of the inner planets are even smaller (see e.g. Table 2 in the paper [43]) so that the relative error in the orbital period determination is extremely low. As an example, the orbital period of Earth is T = 365.256363051 days with an error of ∆T = 5.0 × 10−10 days, corresponding to a relative error of ∆T/T less than 10−12. These values can be used in order to constrain the possible values of both the parameters β and rc introduced by
+the fourth order gravity theory. This can be done by requiring that ∆P/PK . ∆T/T so that, in the case of Earth, f (β, rc) 1 . 10−12 which can be solved with respect to β once the rc parameter has been fixed to some value. For rc = 1 AU and rc = 104 AU (i.e. the two limiting cases considered in
+the paper [40]) we find the allowed upper limits on the β parameter to be 4.0 × 10−12 and 3.9 × 10−13, respectively (since ∆P/PK = ∆β[ 1 + ln (r/rc)]/4).
+A more precise analysis which takes into account the planetary semi-major axes and eccentricities leads to variations of at most a few percent, since the planetary orbits are nearly circular. Therefore, in spite of the fact that orbital periods of planets are not generally used to test alternative theories of gravity (since it is taken for granted that the weak field approximation of these theories gives the Newtonian limit), we found that these data are important to constrain parameters of the fourth order gravity theory.
+
+Discussion
+GR and Newtonian theory (as its weak field limit) were verified by a very precise way at different scales. There are observational data which constrain parameters of alternative theories as well. As a result, the parameter β of fourth order gravity should be very close to zero (it means that the gravitational theory should be very close to GR). In particular, the β parameter values considered for microlensing [40], for rotation curves [34] and cosmological SN type Ia [35] are ruled out by solar system data.
+No doubt that one could also derive further constraints on the fourth order gravity theory by analyzing other physical phenomena such as Shapiro time delay, frequency shift of radio photons [44], laser ranging for distant objects in the solar system, deviations of trajectories of celestial bodies from ellipses, parabolas and hyperbolas and so on. But our aim was only to show that only β  0 values are not in contradiction with solar system data in spite of the fact that there are a lot of speculations to fit observational data with β values significantly different from zero.
+
+Conclusions
+In conclusion we note that, unfortunately, even well-informed Russian (and other) authors did not cite Relikt-1 results in papers on cosmology, where the COBE anisotropy result was quoted as the only experiment discovered the phenomenon. It means the Nobel prize winner (1978) P. L. Kapitza6 wrote quite correctly about this kind of problems in 1946: ”... Our main national defect is an underestimation of our powers and overestimation of foreign ones. So, an extra modesty is much more defective than an extra self-confidence... Very often a cause of unused innovations is that usually we underestimate our own discoveries and overestimate foreign ones...”
+For CC model fits calculated with SNe Ia data, in some sense, a rigid equation of state could substitute the Λ-term (or quintessence) in the Universe content. The rigid matter can be formed by a free massless scalar field [31].
+Solar system data put severe limits on parameters of alternative theories of gravity [41], thus, the Solar system limits a gravity law not only at scales about several A.U., but also at cosmological distances, in this class of alternative theories of gravity.
+Acknowledgement. AFZ acknowledges GAS@BS-2007 conference organizers, especially prof.
+P. Fiziev, for the hospitality and a financial support.
+
+
+References
+Gamow, G. (1946) Expanding Universe and Orgin of Elements, Phys. Rev. 70, 572–573.
+Gamow, G. (1948) The Origin of Elements and the Separation of Galaxies, Phys. Rev. 74, 505–506.
+Gamow, G. (1948) Evolution of the Universe, Nature 162, 680.
+Alpher, R. A. (1948) A Neutron – Capture Theory of the Formation and Relative Abundance of Elements, Phys. Rev. 74, 1577–1589.
+Gamow, G. (1956) The physics of the expanding universe, Vistas in Astronomy 2, 1726–1732.
+Penzias, A. A., Wilson, R. W. (1965) A Measurement of Excess Antenna Temperature at 4080 Mc/s, Astrophys. J. 142, 419–420.
+Dicke, R.H., Peebles, P. J. E., Roll, P. G., Wilkinson, D. T. (1965) Cosmic Black-Body Radiation, Astrophys. J. 142, 414–419.
+Conklin, E.-K. (1969) Velocity of the Earth with Respect to the Cosmic Background Radiation, Nature, 222, 971–972.
+Henry, P.S. (1971) Isotropy of the 3 K Background, Nature, 231, 516–518.
+Corey, B.E., Wilkinson, D. T. (1976) A Measurement of the Cosmic Mirowave Background Anisotropy at 19 GHz Bull. Amer. Astron. Soc., 8, 351.
+Smoot, G.F., Gorenstein, M.V., Muller, R. A. (1977) Detection of Anisotropy in the Cosmic Blackbody Radiation, Phys. Rev. Lett., 39, 898–891.
+Fabbri, R., Giudi, I., Melchiorri, F., Natale, V. (1980) Measurement of the Cosmic-Background Large-Scale Anisotropy in the Millimetric Region, Phys. Rev. Lett., 44, 1563–1566.
+Boughn, S.P., Cheng, E. S., Wilkinson, D. T., (1981) Dipole and quadrupole anisotropy of the 2.7 K radiation Astrophys. J., 243, L113–L117.
+Vernov, S. N. et al. (eds.) (1977) Problems of Solar activity and space system ”Prognoz” Nauka, Moscow, in Russian).
+Klypin, A. A., Sazhin, M. V., Strukov, I. A., Skulachev, D.P. (1987), Limits on Microwave Background Anisotropies - the Relikt Experiment, Sov. Astron. Lett. 13, 104–107.
+
+6He was awarded by the Nobel prize for his experimental discovery of superfluidity and received the prize in the same year as Penzias and Wilson got. He was the favorite Rutherford’s student and worked for a long time in UK, therefore, he knew Western and Russian mentalities very well.
+
+Strukov, I. A., Brukhanov, A. A., Skulachev, D.P., Sazhin, M.V. (1992) Anisotropy of the Microwave Background Radiation, Sov. Astron. Lett. 18, 153–156.
+Strukov, I. A., Brukhanov, A. A., Skulachev, D. P., Sazhin, M. V. (1992) The Relikt-1 experiment - New results, Mon. Not. R. Astron. Soc., 258, 37–40.
+Smoot, G .F., Bennett, C. L., Kogut, A. et al. (1992) Structure in the COBE differential microwave radiometer first-year maps, Astrophys. J., 396, L1–L5.
+Smoot, G. F., (1993) COBE differential microwave radiometer (DMR) measurement of anisotropy of the cosmic microwave background, in Particle Astrophysics, Proc. of the 4th Rencontres de Blois, G. Fontaine,
+J. Tran Thanh Van (Eds.) Gif-sur-Yvette, Editions Frontieres, pp. 409–422.
+Bahcall, N. A., Fan, X. (1998) A lightweight universe? Publ. Nat. Academy of Science, 95, 5956–5959; Bahcall, N. A., Fan, X. (1998) The Most Massive Distant Clusters: Determining Ω and σ8, Astrophys. J. 504, 1–6.
+Riess, A.G. et al. (1998) Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant, Astron. J. 116, 1009–1038.
+Perlmutter, S. et al. (1999) Measurements of Omega and Lambda from 42 High-Redshift Supernovae, Astrophys. J. 517, 565–586.
+Behnke, D., Blaschke, D. B., Pervushin, V. N., Proskurin, D. V. (2002) Description of supernova data in conformal cosmology without cosmological constant, Phys. Lett. B 530, 20–26.
+Blaschke, D. B., Vinitsky, S. I., Gusev, A. A., Pervushin, V.N., Proskurin, D.V. (2004) Cosmological Production of Vector Bosons and Cosmic Microwave Background Radiation, Phys. Atom. Nucl. 67, 1050–1062; Barbashov, B. M., Pervushin, V. N., Zakharov, A. F., Zinchuk, V. A. (2006) Hamiltonian General Relativity in Finite Space and Cosmological Potential Perturbations, Int. J. Mod. Phys. A 21, 5957–5990; Barbashov, B. M., Pervushin, V. N., Zakharov, A. F., Zinchuk, V. A. (2006) Hamiltonian Cosmological Perturbation Theory, Physics Letters B 633, 458–462; Barbashov, B. M., Pervushin, V. N., Zakharov,
+A. F., Zinchuk, V. A. (2007) The Hamiltonian approach to general relativity and CMB primordial spec-trum, Int. J. Geom. Meth. Mod. Phys. 4, 171–181; Barbashov, B. M., Pervushin, V. N., Zakharov, A. F., Zinchuk, V. A. (2007) CMBR anisotropy: Theoretical approaches, Phys. Atom. Nucl. 70, 191–197; Bar-bashov, B. M., Pervushin, V. N., Zakharov, A. F., Zinchuk, V. A. (2006) Quantum gravity as theory of superfluidity, In A Century of Relativity Physics: ERE 2005; XXVIII Spanish Relativity Meeting, L. Mor-nas and J. D. Alonso (eds.), AIP Conference Proceedings 841, American Institute of Physics, New York, 2006, pp. 362–369.
+Caldwell, R. R., Dave, R., Steinhardt, P. J. (1998) Cosmological Imprint of an Energy Component with General Equation of State, Phys. Rev. Lett. 80, 1582–1585.
+Boyle, L. A., Caldwell, R. R., Kamionkowski, M. (2002) Spintessence! New models for dark matter and dark energy, Phys. Lett. B 545, 17–22.
+Padmanabhan, T. (2004) Dark Energy: the Cosmological Challenge of the Millennium, Arxiv:astro-ph/0411044.
+Cai, Y.-F., Li, H., Piao, Y.-S., Zhang, X.-M. (2007) Cosmic duality in quintom Universe, Phys. Lett. B 646, 141–144.
+Linde, A. D. (2007) Inflationary Cosmology, Arxiv:0705.0164v2[hep-th].
+Riess, A. D., Strolger, L.-G., Tonry, J. et al. (2004) Type Ia Supernova Discoveries at z > 1 from the Hubble Space Telescope: Evidence for Past Deceleration and Constraints on Dark Energy Evolution, Astrophys. J., 607, 665–687.
+Zakharov, A. F., Zakharova, A. A., Pervushin, V. N. (2006) Conformal Cosmological Model Test with Distant SNIa Data, ArXiv:astro-ph/0611657.
+Carroll, S.M., Duvvuri, V., Trodden, M., Turner, M. S. (2004) Is cosmic speed-up due to new gravitational physics? Phys. Rev. D 70, 043528-1–043528-5.
+Shao, C.-G., Cai, R.-G., Wang, B., Su, R.-K. (2006) An alternative explanation of the conflict between 1/R gravity and solar system tests, Phys. Lett. B 633, 164–166.
+
+Capozziello, S., Garattini, R. (2007) The cosmological constant as an eigenvalue of f (R)-gravity Hamil-tonian constraint, Class. Quant. Grav. 24, 1627–1646; Capozziello, S., Stabile, A., Troisi, A. (2007) The Newtonian Limit of f (R)-gravity, ArXiv:0708.0723[gr-qc]; Capozziello, S., Nojiri, S., Odintsov, S. D., Troisi, A. (2006) Cosmological viability of f (R)-gravity as an ideal fluid and its compatibility with a matter dominated phase, Phys. Lett. B 639, 135–143; Capozziello, S., Troisi, A., Cardone, V. F. (2007) Dark energy and dark matter as curvature effects, New Astron. Rev. 5, 341–345; Capozziello, S., Car-done, V. F., Troisi, A. (2006) Dark energy and dark matter as curvature effects? J. Cosm. Astropart. Phys. 8, 001; Capozziello, S., Nojiri, S., Odintsov, S.D. (2006) Dark energy: the equation of state de-scription versus scalar-tensor or modified gravity, Phys. Lett. B 634, 93–100; Capozziello, S., Cardone,
+V. F., Elizalde, E., Nojiri, S., Odintsov, S.D. (2006) Observational constraints on dark energy with generalized equations of state, Phys. Rev. D 73, 043512-1–043512-16; Capozziello, S., Troisi, A. (2005) Parametrized post-Newtonian limit of fourth order gravity inspired by scalar-tensor gravity, Phys. Rev. D 72, 044022-1–044022-6; Capozziello, S., Cardone, V.F., Piedipalumbo, E., Rubano, C. (2006) Dark energy exponential potential models as curvature quintessence, Class. Quant. Grav. 23, 1205–1216; Capozziello, S., Cardone, V.F., Troisi, A. (2005) Reconciling dark energy models with f (R) theories, Phys. Rev. D 71, 043503-1–043503-1; S. Capozziello, V. F. Cardone, Francaviglia, M. (2006) f (R) theories of gravity in the Palatini approach matched with observations, Gen. Rel. Grav. 38, 711–734; Carloni, S., Dunsby,
+P. K. S., Capozziello, S., Troisi, A. (2005) Cosmological dynamics of Rn gravity Class. Quant. Grav. 22, 4839–4868; Capozziello, S., Stabile, A., Troisi, A. (2007) Spherically symmetric solutions vs. weak field limit in f (R)-gravity, ArXiv:0709.0891 [gr-qc]; Capozziello, S., Francaviglia, M. (2007) Extended Theories of Gravity and their Cosmological and Astrophysical Applications, ArXiv:0706.1146 [astro-ph]; Capozziello, S. (2007) Dark Energy Toward Observational Tests and Data, Intern. J. Geom. Meth. Mod. Phys. 4, 53–78.
+Borowiec, A., Godlowski, W., Szydlowski, M. (2007) Dark Matter and Dark Energy as Effects of Modified Gravity, Int. J. Geom. Meth. Mod. Phys. 4, 183–196.
+Borowiec, A., Godlowski, W., Szydlowski, M. (2006) Accelerated cosmological models in modified gravity tested by distant supernovae SNIa data, Phys. Rev. D 74, 043502-1–043502-9.
+Paczynski, B. (1986) Gravitational microlensing by the galactic halo, Astrophys. J., 506, 1–5.
+Capozziello, S., Cardone, V.F., Troisi, A. (2007) Low surface brightness galaxies rotation curves in the low energy limit of Rn gravity : no need for dark matter? Mon. Not. Roy. Astron. Soc. 375 1423–1440.
+Martins, C. F., Salucci, P. (2007) Analysis of rotation curves in the framework of Rn gravity, Mon. Not. Roy. Astron. Soc. 381 1103–1108.
+Capozziello, S., Cardone, V. F., Troisi, A. (2006) Gravitational lensing in fourth order gravity Phys. Rev. D 73, 104019-1–104019-10.
+Zakharov, A.F., Nucita, A. A., De Paolis, F., Ingrosso, G. (2006) Solar system constraints on Rn gravity, Phys. Rev. D 74, 107101-1–107101-4.
+Pitjeva, E. V. (2005) High-Precision Ephemerides of Planets - EPM and Determination of Some Astro-nomical Constants, Solar System Research 39, 176–186.
+Moffat, J. W. (2006) Time delay predictions in a modified gravity theory, Class. Quantum Grav. 23 6767–6771.
+Bertotti, B., Iess, L., Tortora, P. (2003) A test of general relativity using radio links with the Cassini spacecraft, Nature 425, 374–376.
+
+Constraints on scalar-tensor models of dark energy from observational and local gravity tests
+Shinji Tsujikawa∗,1 Kotub Uddin†,2 Shuntaro Mizuno‡,3 Reza Tavakol§,2 and Jun’ichi Yokoyama¶3
+1Department of Physics, Gunma National College of Technology, Gunma 371-8530, Japan
+2School of Mathematical Sciences,
+Queen Mary, University of London, London E1 4NS, UK
+3Research Center for the Early Universe (RESCEU), Graduate School of Science,
+The University of Tokyo, Tokyo 113-0033, Japan
+(Dated: March 7, 2008)
+We construct a family of viable scalar-tensor models of dark energy (DE) which possess a phase of late-time acceleration preceded by a standard matter era, while at the same time satisfying the local gravity constraints (LGC). The coupling Q between the scalar field and the non-relativistic matter in the Einstein frame is assumed to be constant in our s√cenario, which is a generalization of
+f (R) gravity theories corresponding to the coupling Q = −1/ 6. We find that these models can
+be made compatible with local gravity constraints even when Q is of the order of unity through a chameleon mechanism, if the scalar-field potential is chosen to have a sufficiently large mass in the high-curvature regions. We show that these models generally lead to the divergence of the equation of state of DE, which occur at smaller redshifts as the deviation from the ΛCDM model become more significant. We also study the evolution of matter density perturbations and employ them to place bounds on the coupling Q as well as model parameters of the field potential from observations of the matter power spectrum and the CMB anisotropies. We find that, as long as Q is smaller than the order of unity, there exist allowed parameter regions that are consistent with both observational and local gravity constraints.
+PACS numbers: 98.70.Vc
+
+
+
+
+INTRODUCTION
+
+The origin of dark energy (DE) has persistently posed one of the most serious mysteries in modern cosmology [1, 2]. The first step toward understanding the nature of DE is to clarify whether it is a simple cosmological constant or it originates from other sources that dynamically change in time. The dynamical DE models can be distinguished from cosmological constant by studying the variation of the equation of state of DE (= wDE) as well as the evolution of density perturbations. The scalar field models of DE such as quintessence [3] and k-essence [4] predict a wide variety of variations in wDE, but still the current observational data are not sufficient to rule out such models unless the equation of state shows a peculiar evolution. Moreover, the scalar field is required to have a light mass mφ comparable to the present Hubble parameter (mφ  10−33 eV), in order to give rise to an accelerated expansion. This requirement is generally difficult to reconcile with fifth-force experiments unless there exists some mechanism by which the interaction range of the scalar-field mediated force can be made shorter.
+There exists another class of dynamical DE models that modify Einstein gravity. The simplest models that belong to this class are those that are based on the so called f (R) gravity theories in which the Lagrangian density f is a function of the Ricci scalar R. It is well known that theories of the type f (R) = R + αR2 can give rise to an inflationary expansion in the early universe because of the dominance of the αR2 term [5]. In the context of DE, the model f (R) = R µ2(n+1)/Rn (n > 0) was proposed to explain the late-time accelerated expansion due to the dominance of the term µ2(n+1)/Rn [6] (see also Refs. [7]). It was found, however, that this model is plagued by a number of problems such as the instability of matter perturbations [8] as well as the absence of a matter-dominated epoch [9].
+In the past few years there has been a burst of activity in the search for viable f (R) DE models [10, 11, 12, 13, 14, 15, 16, 17, 18, 19]. In Ref. [11] the conditions for the cosmological viabilities of f (R) DE models (having a matter era
+
+
+∗ shinji@nat.gunma-ct.ac.jp
+† k.uddin@qmul.ac.uk
+‡ mizuno@resceu.s.u-tokyo.ac.jp
+§ r.tavakol@qmul.ac.uk
+¶ yokoyama@resceu.s.u-tokyo.ac.jp
+
+2
+
+followed by an accelerated epoch) were derived without specifying the form of f (R). A number of general conditions are required on general viability and stability grounds. For the existence of a prolonged saddle matter era, the quantity m = Rf,RR/f,R needs to be positive and close to 0. To avoid anti-gravity, f,R is required to be positive in regions R R1, where R1 (> 0) is a Ricci scalar at a de-Sitter attractor responsible for the accelerated expansion. Also, to ensure that density perturbations do not exhibit violent instabilities, we require f,RR > 0 [13, 14]. The conditions f,RR > 0 and f,R > 0 (for R > R1) have been shown to also ensure the absence of ghosts and tachyons [15].
+The local gravity constraints (LGC) should also be satisfied for the viability of f (R) models [20]. The f (R) gravity in the metric formalism is equivalent to scalar-tensor theory with no scalar kinetic term, namely, the Brans-Dicke model with a potential and ωBD = 0 [21]. If the mass of the scalar-field degree of freedom always remains as light as the present Hubble parameter H0, one can not satisfy the LGC due to the appearance of the long-ranged fifth force. It is possible to design the field potential so that the mass of the field is heavy in a large-curvature region where local gravity experiments are carried out. Then the interaction range of the fifth force becomes short in such a high-density region, which allows the possibility of the models being compatible with LGC.
+In fact a number of viable models based on f (R) theories have been proposed [15, 16, 17, 18] that can satisfy both the cosmological and local gravity constrain ts discussed ab ove. In the high-density region (R ≫ Rc) these models
+present Ricci scalar. Inside a spherically symmetric body with an energy density ρm, the field acquires a minimum
+at R ρm with a mass much heavier than H0. In this case the body has a thin-shell inside it so that the effective coupling between the field and the matter decreases through the so-called chameleon mechanism [12, 22, 23, 24, 25]. The bounds on the model parameters of such models derived from solar-system and equivalence principle constraints are given by n > 0.5 and n > 0.9, respectively [25]. For viable f (R) models there are also a number of interesting observational signatures such as the divergence of the equation of state of DE [18, 26] and the peculiar evolution of matter perturbations [15, 16, 18, 19]. This is useful to distinguish f (R) gravity models from the ΛCDM model.
+In the Einstein frame the f (R) gravity corresponds to a constant coupling Q = 1/ 6 between dark energy and the non-relativistic fluid [9] (see Eq. (10) for the definition of Q). Basically, this is equivalent to the coupled quintessence scenario [27] with a specific coupling. Our aim in this paper is to generalize the analysis to scalar-tensor theories with the action (13) in which the coupling Q is an arbitrary constant. We regard the Jordan frame as a physical one in which the usual matter conservation law holds. The dark energy dynamics in scalar-tensor theories has been investigated in many papers [28, 29, 30, 31, 32] after the pioneering works of Refs. [33, 34]. If the mass of the field φ is always of the order of H0, the solar-system constraint ωBD > 4.0 104 [35] gives the bound Q < 2.5 10−3. Previous studies dealing with the compatibility of the scalar-tensor DE models with LGC have restricted their analysis to this small coupling region [30, 31]. We wish to extend the analysis to the case in which the coupling Q is larger than the above massless bound. In fact one can design the potential V (φ) so that the mass of the field is sufficiently heavy in the high-density region to satisfy LGC through the chameleon mechanism. We shall construct such a viable field potential inspired by the case of the f (R) gravity and place experimental bounds on model parameters in terms of the function of Q.
+We shall also study the variation of the equation of state for DE and the evolution of density perturbations in such scalar-tensor theories. Interestingly, we find that the divergent behavior of wDE is also present as in the case of f (R) gravity. We also estimate the growth rate of matter perturbations and show that the non-standard evolution of

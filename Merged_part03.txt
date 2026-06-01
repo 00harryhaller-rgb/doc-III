@@ -1,0 +1,1593 @@
+introducing arbitrary parame-ters, string compactifications, or background-dependent quantization.
+A single mathematical object (the bridge operator) can encode both Einstein’s curvature and quantum field spectral data in a way that preserves their respective invariances exactly.
+
+Resolution of a Century-Old Problem
+The quantum gravity problem has historically been regarded as intractable due to:
+Perturbative non-renormalizability of gravity as a quantum field.
+Conceptual incompatibility between background-independent GR and background-dependent QFT.
+Lack of experimentally accessible predictions in Planck-scale physics. The framework presented here overcomes all three:
+Non-perturbative finiteness is achieved via absolute convergence of the spectral invariants.
+Background independence is preserved through direct quantization of the metric via Spec(Dg) rather than perturbation around a fixed geometry.
+Near-term falsifiable predictions are provided in gravitational wave astronomy, precision in-terferometry, and high-energy scattering.
+
+Beyond Quantum Gravity
+The methodology extends naturally to other domains:
+Cosmology: The spectral invariants can be computed for Friedmann–Lemaˆıtre–Robertson–Walker spacetimes, yielding quantum corrections to early-universe expansion.
+Gauge–Gravity Dualities: BQG may serve as an explicit constructive model for AdS/CFT-type correspondences, free of asymptotic boundary restrictions.
+Condensed Matter Analogs: The Hilbert bundle formalism can be applied to emergent spacetime geometries in topological phases of matter, enabling laboratory analog tests.
+
+Historical Positioning
+This work represents:
+The first explicit, parameter-free, background-independent, and testable theory of quantum gravity.
+A demonstration that bridging invariants can circumvent longstanding theoretical barriers without loss of physical predictability.
+A unification principle that could serve as a foundation for the next era of fundamental physics
+— comparable in historical importance to the unification of electricity and magnetism, or special and general relativity.
+
+Nobel-Level Impact
+By resolving quantum gravity in a fully explicit, mathematically rigorous, and empirically falsifiable manner, this framework:
+Provides the definitive closure to one of the most challenging open problems in physics.
+Introduces a new invariant-based methodology applicable across the entire landscape of the-oretical physics.
+Offers a self-contained set of tools that can be independently verified, reproduced, and ex-tended by the scientific community.
+The combination of theoretical elegance, mathematical completeness, and predictive experimental accessibility positions this result as a generational breakthrough.
+
+Conclusion
+We have presented a complete, parameter-free, and mathematically rigorous theory of quantum gravity that unifies General Relativity and Quantum Field Theory through an explicitly defined geometric–spectral bridge operator BQG.
+This framework satisfies all of the following criteria simultaneously:
+Exact recovery of GR and QFT in their respective low-energy limits.
+Non-perturbative finiteness without background dependence.
+Explicitly defined invariants ensuring diffeomorphism and unitarity preservation.
+Near-term falsifiable predictions in gravitational wave dispersion, matter-wave interferometry, and high-energy scattering.
+Freedom from arbitrary parameters — all constants are fixed by matching to known low-energy physics.
+The explicit construction ensures that every component of the theory is independently checkable within the current mathematical framework, while its predictive content opens a clear experimental path to validation or falsification.
+By overcoming the key theoretical and empirical barriers that have hindered progress for over a century, this work establishes a definitive resolution to the quantum gravity problem and introduces a unifying principle that is likely to reshape multiple domains of physics in the decades to come.
+
+Acknowledgements
+The author thanks the broader research community for decades of insight into both the successes and limitations of previous approaches to quantum gravity, as well as the developers of advanced
+
+computational and symbolic reasoning systems that aided in the explicit construction and verifica-tion of the presented framework.
+
+References
+A. Einstein, “Die Feldgleichungen der Gravitation,” Sitzungsberichte der K¨oniglich Preuftis-chen Akademie der Wissenschaften, vol. 2, pp. 844–847, 1915.
+P. A. M. Dirac, The Principles of Quantum Mechanics, 1st ed., Clarendon Press, Oxford, 1930.
+N. D. Birrell and P. C. W. Davies, Quantum Fields in Curved Space, Cambridge Monographs on Mathematical Physics, 1982.
+A. Connes, Noncommutative Geometry, Academic Press, 1994.
+A. Ashtekar and J. Lewandowski, “Background independent quantum gravity: A status re-port,” Classical and Quantum Gravity, vol. 21, no. 15, pp. R53–R152, 2004.
+C. Rovelli, Quantum Gravity, Cambridge Monographs on Mathematical Physics, 2004.
+B. P. Abbott et al. (LIGO Scientific Collaboration and Virgo Collaboration), “Observation of Gravitational Waves from a Binary Black Hole Merger,” Physical Review Letters, vol. 116, no. 6, p. 061102, 2016.
+P. W. Graham et al., “Mid-band gravitational wave detection with precision atomic sensors,”
+arXiv:1711.02225, 2017.
+A. Connes and M. Marcolli, Noncommutative Geometry, Quantum Fields and Motives, AMS, 2008.
+
+A&A 529, A26 (2011)
+DOI: 10.1051/0004-6361/201016057
+⃝c ESO 2011
+Astronomy
+&
+Astrophysics
+
+
+
+A conventional approach to the dark-energy concept
+K. Kleidis1 and N. K. Spyrou2
+
+1 Department of Mechanical Engineering, Technological Education Institute of Serres, 621.24 Serres, Greece e-mail: kleidis@teiser.gr
+2 Department of Astronomy, Aristoteleion University of Thessaloniki, 541.24 Thessaloniki, Greece e-mail: spyrou@astro.auth.gr
+
+Received 3 November 2010 / Accepted 14 January 2011
+
+ABSTRACT
+
+Motivated by results implying that the constituents of dark matter (DM) might be collisional, we consider a cosmological (toy-) model, in which the DM itself possesses some sort of thermodynamic properties. In this case, not only can the matter content of the Universe (the baryonic component, which is tightly gravitationally-bounded to the dark one, also being included) be treated as a classical gravitating fluid of positive pressure, but, together with all its other physical characteristics, the energy of this fluid’s internal motions should be taken into account as a source of the universal gravitational field. In principle, this form of energy can compensate for the extra (dark) energy, needed to compromise spatial flatness, while the post-recombination Universe remains ever-decelerating. What is more interesting, is that, at the same time (i.e., in the context of the collisional-DM approach), the theoretical curve representing the distance modulus as a function of the cosmological redshift, µ(z), fits the Hubble diagram of a multi-used sample of supernova Ia events quite accurately. A cosmological model filled with collisional DM could accommodate the majority of the currently-available observational data (including, also, those from baryon acoustic oscillations), without the need for either any dark energy (DE) or the cosmological constant. However, as we demonstrate, this is not the case for someone who, although living in a Universe filled with self-interacting DM, insists on adopting the traditional, collisionless-DM approach. From the point of view of this observer, the cosmologically-distant light-emitting sources seem to lie farther (i.e., they appear to be dimmer) than expected, while the Universe appears to be either accelerating or decelerating, depending on the value of the cosmological redshift. This picture, which, nowadays, represents the common perception in observational cosmology, acquires a more conventional interpretation within the context of the collisional-DM approach.
+Key words. dark matter – dark energy
+
+
+
+Introduction
+and Λ ≠ 0, in which ΩM
+≃ 0.3 and ΩΛ
+= Λc2
+0
+≃ 0.7 (Riess
+
+The beginning of the 21st century was one of the most excit-ing epochs for cosmology as a science. According to obser-vational data on the temperature variations in the cosmic mi-crowave background (CMB) that became in public at that epoch (de Bernardis et al. 2000; Jaffe et al. 2001; Padin et al. 2001; Stompor et al. 2001; Netterfield et al. 2002), now, we are quite confident that the Universe can be adequately described by a spa-tially flat Robertson-Walker (RW) cosmological model.
+As a consequence, the total energy density, ε, of the Universe matter-energy content, in units of the energy density εc = ρcc2
+3H2
+(equivalent to the critical rest-mass density, ρc =   0 , where H0
+et al. 2001, 2004). Since a non-vanishing cosmological constant
+(necessarily) involves a repulsive (gravitational) force (see, e.g., Sahni 2004), the apparent dimming of the distant light-emitting sources was attributed to a relatively recent phase of accelerated expansion (see, e.g., Linder 2008).
+The onset of the dimming of the cosmologically distant in-dicators used (hence, the associated transition from acceleration to deceleration), takes place at a relatively low value of the cos-mological redshift, z, the so-called transition redshift, zt, which, nowadays, is being (observationally) set at zt = 0.46 0.13 (Riess et al. 2004, 2007). In this case, the cosmological constant can be determined observationally, since, on theoretical grounds,
+
+8πG
+is the Hubble parameter at the present epoch, c is the velocity
+of light, and G is Newton’s universal constant of gravitation),
+zt =
+ ΩΛ 1/3
+ΩM
+−1 (see, e.g., Perivolaropoulos 2007, Eq. (21)), i.e.,
+
+should be very close to unity, Ω = ε
+c
+≃ 1, i.e., much larger than
+the transition redshift depends on the value of Λ. The particle-
+physics vacuum does contribute an effective cosmological con-
+
+the measured quantity, ΩM =  ρ
+c
+≃ 0.3 (Komatsu et al. 2009).
+stant, which could serve (also) as compensation to the extra en-
+
+At the same time, high-precision distance measurements, performed with the aid of the supernovae Ia (SNe Ia) standard candles, indicated that, in any cosmological model with vanish-ing cosmological constant, Λ, the far-off light-emitting sources appear to be dimmer than expected (Riess et al. 1998; Perlmutter et al. 1999).
+The observational data then seemed to favour a Universe of collisionless content (i.e., filled with matter in the form of dust)
+ergy needed to flatten the Universe (Sahni & Starobinsky 2000).
+Unfortunately, the energy-density attributed to such a source is 10123 times larger than what is observed (see, e.g., Padmanabhan 2003; Sahni 2004).
+Hence, it became evident that, for the above-mentioned ob-servational results to be reconciled within a unified theoretical framework, a different approach (i.e., other than the cosmologi-cal constant) was needed.
+
+Article published by EDP Sciences	A26, page 1 of 14
+
+A&A 529, A26 (2011)
+
+
+In this context, theorists have focused on two main ar-eas: (i) the introduction of an exotic, negative-pressure fluid, the dark energy (Caldwell et al. 1998), occasionally referred to as quintessence (Carroll 1998); and (ii) the consideration of alternative-gravity theories, such as the scalar-tensor theo-ries (Esposito-Farese & Polarski 2001) and the f (R)-gravity (Capozziello et al. 2003), together with several braneworld sce-narios, including DGP-gravity (Dvali et al. 2000) and the land-scape scenario (Bousso & Polchinski 2000).
+Other physically-motivated models, predicting an acceler-ated expansion, have also appeared in the literature, involv-ing holographic gravity (Cohen et al. 1999; Li 2004; Pavón & Zimdahl 2005), Chaplygin gas (Kamenshchik et al. 2001; Bean & Doré 2003; Sen & Scherrer 2005), Cardassian cosmology (Freese & Lewis 2002; Wang et al. 2003), theories of compact-ified internal dimensions (Perivolaropoulos 2003), and mass-varying neutrinos (Fardon et al. 2004; Peccei 2005).
+However, most of these attempts were inhibited by the so-called coincidence problem, i.e., the need to explain why the Universe transferred from deceleration to acceleration so re-cently (see, e.g., Perivolaropoulos 2007).
+It has been more than a decade since the first observations, which provoked the aforementioned scientific (r)evolution, be-came in public, and, still, no undisputed theoretical framework has been developed to accommodate them (for a detailed review see, e.g., Caldwell & Kamionkowski 2009). In the meantime, the need for an extra (dark) energy component has been confirmed by other observational methods, including galaxy clusters dy-namics (Allen et al. 2004), the integrated Sachs-Wolfe (ISW) effect (Boughn & Crittenden 2004), and baryon acoustic oscilla-tions (BAO) (Eisenstein et al. 2005; Percival et al. 2010). In spite of the wealth of references, previous studies have been far from exhaustive (see, e.g., Albrecht et al. 2006; Peacock et al. 2006) and, perhaps, we should keep our options open, also, to more conventional interpretations (see, e.g., Buchert 2000, 2001; Kolb et al. 2006; Celerier 2007; Ellis 2009).
+On the other hand, much evidence has already been accu-
+radiation much earlier than pure-baryonic matter does. Hence, very soon after recombination (tR), the baryons fall into deep potential wells of the already evolved DM-perturbations and be-come bounded to them, i.e., for t > tR, there are no freely-floating baryons around (Olive 2003).
+Among the various candidates for DM constituents, the thermal WIMPs remain one of the most attractive. They ap-pear, generically, in theories of weak-scale physics beyond the standard model, while giving the appropriate relic abundance (Srednicki et al. 1988; Gondolo & Gelmini 1991). These par-ticles are also helpful to consider in terms of direct and indirect detection of DM (see, e.g., Jungman et al. 1996; Bertone et al. 2005), because they must have some connection to standard-model particles (see, e.g., Hooper 2009). In addition to debating their precise nature, the scientific community used to argue that the WIMPs should be collisionless.
+However, many results from high-energy particle detectors, such as the ATIC (Chang et al. 2008) and PAMELA (Adriani et al. 2009), combined with data from the Wilkinson microwave anisotropy probe (WMAP) survey (Hooper et al. 2007), have revealed an unusually high electron-positron production in the Universe, much more than anticipated by SNe explosions or cosmic-ray collisions. These results have led many scientists to argue that among the best candidate sources of these high-energy events are the annihilations of WIMPs (see, e.g., Barger et al. 2008; Bergstrom et al. 2008; Cirelli & Strumia 2008; Regis & Ullio 2008; Baushev 2009; Cholis et al. 2009a,b; Fornasa et al. 2009; Fox & Poppitz 2009; Kane et al. 2009; Zurek 2009, for an extensive, though incomplete list), i.e., that the DM constituents can be slightly collisional (see, e.g., Spergel & Steinhardt 2000; Arkani-Hamed et al. 2009; Cirelli et al. 2009; Cohen & Zurek 2010), although, some studies disagree with this interpretation (see, e.g., Feng et al. 2010).
+A cosmological model filled with self-interacting DM could be a relatively inexpensive solution to the DE problem, and, sev-eral ways of accommodating both the DM and the DE into a unified theoretical framework have been considered (see, e.g.,
+
+mulated in support of a (non-baryonic) DM component in the
+Zimdahl et al. 2001; Bilic´
+et al. 2002; Balakin et al. 2003;
+
+Universe matter-content (see, e.g., Tegmark et al. 2006; Spergel et al. 2007). Among other pieces of evidence, this support in-cludes flattened galactic rotation curves (Begeman et al. 1991; Borriello & Salucci 2001), the weak gravitational lensing of distant galaxies by (some dark) foreground structure (Hoekstra et al. 2002), and the weak modulation of strong lensing around individual massive elliptical galaxies (Moustakas & Metcalf 2003). On the scale of galaxy clusters, observations (of radial ve-locities, weak lensing, and X-ray emission) indicate a total mass density almost ten times higher than the corresponding density in baryons (Bahcall & Fan 1998; Kashlinsky 1998; Tyson et al. 1998). On cosmological scales, the anisotropies observed in the CMB have led to an estimate of the total-mass density of the or-der of ΩMh2 = 0.1358  0.0037, where h is the Hubble param-eter in units of 100 km s−1 Mpc−1 (Komatsu et al. 2009). In con-trast, measurements of the light-chemicals’ abundances (Olive et al. 2000) have led to an estimate of the baryonic-mass density of the order of ΩBh2 = 0.02273 0.00062. The combination of these results suggests that, more than 85% (by mass) of the mat-ter in the Universe consists of non-luminous and non-baryonic material.
+Although we do not know for certain how the DM came to be formed, a sizeable relic abundance of weakly-interacting massive particles (WIMPs) is generally expected to have been produced as a by-product of the Universe’s hot youth (see, e.g., Kolb & Turner 1990, p. 369). These particles decouple from
+Scherrer 2004; Lima et al. 2008; Basilakos & Plionis 2009, 2010; Dutta & Scherrer 2010). In this context, we suggest that, phenomenologically, the self-interacting DM could attribute to the Universe matter-content some sort of fluid-like properties, and (so) lead to a conventional approach to the DE concept.
+The main outstanding problem of the current cosmological picture is that the Universe must contain an amount of energy that is considerably higher than the equivalent of the total rest-mass of its matter content. However, if the DM constituents col-lided with each other frequently enough, enabling their (kinetic) energy to be re-distributed, i.e., if the DM itself possessed some sort of thermodynamic properties, a conventional extra-energy component might be present in the Universe, given by the en-ergy of the internal motions of the collisional-DM fluid.
+On this basis, it is worth examining the evolution and the dynamical characteristics of a cosmological model (not neces-sarily reflecting our own Universe), in which (in principle) there is no DE at all. The matter-energy content of this model consists solely of two components, i.e., the DM (dominant) and the bary-onic one (subdominant), both having the abundances attributed to them by analyses of the five-year survey of the WMAP (Dunkley et al. 2008; Komatsu et al. 2009). Accordingly, we demonstrate that these two components are (by themselves) sufficient (i) to reproduce the result that (today) Ω = 1;
+(ii) to account for the observed dimming of the distant light-emitting sources; and (iii) to explain the apparent accelerated
+
+A26, page 2 of 14
+
+K. Kleidis and N. K. Spyrou: A conventional approach to the dark-energy concept
+
+
+expansion of the Universe. All the above provided that, macro-scopically, these two constituents (basically the dark one) form a gravitating fluid with a thermodynamical content. In this case, together with all the other physical characteristics, the energy of this fluid’s internal motions should (also) be taken into ac-count as a source of the universal gravitational field. Although speculative, the idea that the extra (dark) energy needed to flat-ten the Universe could be attributed to the internal motions of a collisional-DM fluid is (at least) intriguing.
+This paper is organized as follows. In Sect. 2, we explore the dynamical characteristics of a cosmological model driven by an ideal fluid, consisting (mainly) of (thermodynamically-involved) DM, with positive pressure, the volume elements of which perform adiabatic flows. Accordingly, after deriving the corresponding scale factor, we determine the functional form of several parameters of cosmological significance, each one depending on the cosmological redshift, such as the luminos-ity distance and the distance modulus of the cosmologically-distant light-emitting sources, together with the Hubble and the deceleration parameters, which characterize the cosmic expan-sion. The corresponding results suggest that, in the context of the collisional-DM treatment, the extra (dark) energy (needed to compromise spatial flatness) can be compensated by the energy of the internal motions of this fluid, while, the post-recombination Universe remains ever-decelerating. However, as we demonstrate in Sect. 3, this is not the case for someone who (although living in a Universe filled with collisional DM) insists on adopting the traditional (collisionless-DM) approach. From the point of view of this observer, besides the need for an extra-energy component (for confronting the CMB-based observa-tional results), the cosmologically-distant light-emitting sources seem to lie farther (i.e., they appear to be dimmer) than expected, while the Universe appears to be either accelerating or decelerat-ing, depending on the value of the cosmological redshift. Finally, we conclude in Sect. 4.
+
+A Universe filled with collisional dark matter
+It is generally accepted that the study of the CMB has proven to be a powerful tool in exploring the post-recombination Universe. According to the various CMB-oriented observational data, the Universe has emerged out of the radiation epoch as a spatially-flat RW model (see, e.g., de Bernardis et al. 2000)
+ds2 = S 2(η) c2dη2 − dx2 + dy2 + dz2 ,	(1) where η is the conformal time and S (η) is the scale factor. As a
+thermodynamical content. In this case, the evolution of the post-recombination Universe is no longer driven by dust, but, by a gravitating fluid of positive pressure, p, satisfying the equation of state
+p = wρc2,	(3)
+where ρ is the rest-mass density (the part, equivalent to the en-ergy density ρc2, that remains unaffected by the internal motions of the cosmic fluid) and 0  w = ( cs )2  1 is a dimension-less constant, which measures the square of the speed of sound, cs, in units of c2. Now, the fundamental units of the Universe matter-content are the volume elements of the collisional-DM fluid (elements of fluid, each one consisting always of the same particles).
+The motions of the volume elements in the interior of a con-tinuous medium are governed by the equations
+T µν = 0,	(4)
+where Greek indices refer to the four-dimensional space-time (in connection, Latin indices refer to the three-dimensional spatial slices), the semicolon denotes covariant derivative, and T µν is the energy-momentum tensor of the Universe matter-content, i.e., basically (but not solely), of the collisional-DM fluid.
+Confining ourselves to the particular case of a perfect fluid, T µν takes on the standard form
+T µν = (ε + p)uµuν − pgµν,	(5)
+where uµ = dxµ/ds is the four-velocity (uµuµ = 1) at the posi-tion of a fluid’s volume element, gµν are the contravariant com-ponents of the Universe metric tensor, and ε is this fluid’s total-energy density. In an (ideal) equilibrium state, i.e., in the absence of shear, viscocity and heat conductivity, ε is decomposed to
+ε = ρc2 + ρΠ	(6)
+(for a detailed analysis see, e.g., Fock 1959, pp. 81 83 and 91 94), where Π is the potential energy per unit rest-mass, as-sociated with the infinitesimal deformations (expansions or/and compressions) of the fluid. Upon consideration of adiabatic pro-cesses, Π coincides with the energy of this fluid’s internal mo-tions (per unit rest-mass), thus defining ρΠ as the corresponding energy density, associated with the thermodynamical content of the (collisional) DM.
+Along these lines, the equations represented by Eq. (4) are the hydrodynamic flows of the volume elements in the interior of a perfect-fluid source
+
+consequence, the value of the Hubble parameter at the present
+
+/
+
+uν =   1   p
+ δκ − u uκ ,	(7)
+
+H2 = 8πG ρ
+(2)
+where the comma denotes a partial derivative and δκ
+is the
+
+0	3	c
+(see, e.g., Peacock 1999, p. 77). The evolution of this model de-
+µ
+Kronecker symbol. The equations given in Eq. (7) can be cast
+in the more convenient form
+
+pends on the nature of the source that drives the universal gravi-
+duκ
+κ  µ ν
+1	κλ
+
+tational field, i.e., its matter-energy content.
+Along the lines of the collisional-DM approach, in speci-
+ds + Γµνu u
+= ε + ph
+p,λ,	(8)
+
+fying the Universe matter-energy content, we assume that, in
+where Γκ
+are the Christoffel symbols corresponding to the
+
+principle, there is no DE at all. Instead, we admit that the DM, together with the small, baryonic “contamination” (the latter is too tightly gravitationally-bounded to the former), possess fluid-like properties. In this sense, the collisions of the WIMPs maintain a tight coupling between them and their energy can be re-distributed, i.e., the DM itself also possesses some sort of
+Universe metric tensor, gµν, and hκλ = gκλ uκuλ is the projection operator.
+However, in a maximally symmetric cosmological setup, there is no real difference between hydrodynamic flows and the ballistic motions along the (non-intersecting) geodesic tra-jectories xµ = const., since the equations of motion given by
+A26, page 3 of 14
+
+A&A 529, A26 (2011)
+
+
+Eq. (8) are trivially satisfied by the fluid’s volume elements with uµ = (1, 0, 0, 0). In other words, in comoving coordinates, both sides of Eq. (8) vanish identically, resulting in the geodesic
+
+/
+
+which, upon consideration of Eqs. (3) and (6), results in
+ S 0 3
+
+/
+
+
+duκ
+κ  µ ν
+where S 0 is the value of S (η) at the present epoch. Equation (17)
+
+ds + Γµνu u = 0	(9)
+and the equations of the ballistic trajectories
+represents the conservation of the total mass in a cosmological model in which matter dominates, i.e., for every η within the post-recombination epoch (see, e.g., Tsagas et al. 2008).
+
+hκλ p,λ
+= 0.	(10)
+With the aid of Eqs. (15) and (17), Eq. (11) is written in the form
+
+Notice however that, in this case, Eq. (10) is satisfied only be-
+/
+
+2	8πG
+ S 0 3	Π0
+
+/
+
+ S 0 
+
+/
+
+
+motions and the hydrodynamic flows of the cosmological model
+given by Eq. (1) are, practically, indistinguishable. Therefore,
+Now, combining Eqs. (2) and (18), we obtain
+
+a comoving observer of the cosmic expansion also traces the hydrodynamic flow of the homogeneous cosmic fluid and the Weyl’s postulate is valid (see, e.g., Narlikar 1983, p. 91).
+H  2
+H0
+
+= ΩM
+ S 0 3 
+
+/
+
+1 + Π0 + 3w ln
+c2
+ S 0 
+
+/
+
+
+·	(19)
+
+As a consequence, the dynamical evolution of the model
+given by Eq. (1) is governed by the Friedmann equation (with
+At the present epoch, where S = S 0 and H = H0, we have
+
+Λ = 0) of the classical Friedmann-Robertson-Walker (FRW)
+cosmology
+Ω	1 + Π0  = 1,
+M	c2
+(20)
+
+H2 = 8πG ε,	(11)
+3c2
+
+from which, the present-time value of the internal energy per unit rest-mass, Π0, emerges as
+
+where
+H = S ′	(12)
+S 2
+
+Π0 =
+ 1 
+Ω	− 1
+
+c2.	(21)
+
+is the Hubble parameter as a function of the scale factor, and the prime denotes differentiation with respect to η.
+Nevertheless, inherently, there is an essential difference be-tween our model and the rest of the classical FRW cosmologies. In our case, the basic matter constituents (although they may re-semble test particles receding from each other) are the volume
+Since ΩM < 1, Eq. (21) suggests that, at the present epoch, the energy density, ρ0Π0, of the internal motions of a gravitating perfect fluid (consisting, mainly, of collisional DM and a small baryonic contamination) dominates over the corresponding rest-mass quantity, i.e.,
+ρ Π =  1  − 1 ρ c2 > ρ c2.	(22)
+
+elements of a collisional-DM fluid, i.e., they possess some sort	0  0	ΩM	0	0
+of internal structure, hence thermodynamical content. Therefore,
+
+the functional form of ε in Eq. (11) is no longer given by ρc2
+alone, but by Eq. (6) (see also Narlikar 1983, pp. 61, 62).
+In this model, the first law of thermodynamics for adiabatic flows, given by,
+But, what is more important, is that, at the same time, the com-bination of Eqs. (6) and (21) results in the following value of the total-energy density parameter
+
+ε	ρ c2	ρ Π	Π
+
+ 1 
+
+(see, e.g., Chandrasekhar 1965), results in
+  ρ 
+
+/
+
+Ω =  0 =  0   +  0  0 = ΩM + ΩM  0 = 1.	(23)
+
+In view of Eq. (23), the extra (dark) energy, needed to flatten the Universe, can be provided by the energy of the internal motions of a thermodynamically-involved-DM fluid.
+
+/
+
+
+where the constants ρ0 and Π0 are assumed to denote the cor-
+
+/
+  H  2
+
+
+ S 0 3 
+
+/
+
+ S 0 
+
+/
+
+
+the form
+ε = ρc2 1 + Π0 + w ln  ρ 
+/
+
+
+
+·	(15)
+Equation (24) can be solved, explicitly, in terms of the error function (see Appendix A). However, it can become particu-larly transparent (and useful) if we take into account that, since 0 ≤ w ≤ 1 and ΩM ≃ 0.3, the combination wΩM can be quite
+
+On the other hand, for every value of w, the conservation law T 0ν = 0, in terms of the metric tensor of Eq. (1), yields
+small, i.e., wΩM	1. In this case, we may take the natural log-
+arithm on both sides of Eq. (24), to obtain
+
+ε′ + 3 S ′
+S
+
+(ε + p) = 0,	(16)
+H 2
+ln
+H0
+
+= ln
+ S 0 3
+
+/
+
++ ln
+
+ 1 + wΩM ln
+ S 0 3 
+
+/
+
+·	(25)
+
+A26, page 4 of 14
+
+K. Kleidis and N. K. Spyrou: A conventional approach to the dark-energy concept
+
+Within the post-recombination era, S 0 ≤ 1090, hence ln S 0 3 ≤
+Mistreating the dark matter as collisionless
+
+S
+21. Therefore, as long as wΩM ≪ 1, we have
+S
+When the (unexpected) dimming of the SNe Ia standard candles
+
+
+ln 1 + wΩM ln
+ S 0 3 
+
+/
+
+
+≃ wΩM ln
+ S 0 3
+
+/
+
+
+,	(26)
+was first discovered, the common perception about the cosmos, to the best of our knowledge, was that the DM constituents are collisionless, thus the various motions in the Universe were (nec-
+
+so that, to terms linear in wΩM, Eq. (24) results in
+ S  3 (1+wΩM)
+
+
+essarily) interpreted as geodesic motions of test particles reced-
+ing from each other, i.e.,
+κ
+
+/	/
+
+
+In this case, using Eq. (12), we can solve Eq. (27), to determine
+the scale factor of the collisional-DM model (1), as follows
+  2 
+1+3wΩM
+Tilde variables are used, to distinguish the various quantities in Eq. (34) from the corresponding quantities used in Eq. (9), thus reflecting that the physical content of a collisionless-DM
+Universe (in which both the pressure and the energy of the inter-
+
+S = S 0
+0
+,	(28)
+nal motions are assumed to be negligible and, therefore, disre-
+
+where we have defined the present-time value, η0, of the confor-mal time, η, as
+2
+garded) is entirely different from that of the thermodynamically-involved-DM model (where p, Π ≠ 0).
+In other words, the dynamical properties of a dust model are no longer described by gµν, i.e., Eq. (1), but rather in terms of an-
+
+η0 = (1 + 3wΩ
+) H0S 0
+·	(29)
+other metric tensor, g˜µν, for which the corresponding (spatially-flat) line-element is written in the form
+
+For w ≠ 0, Eq. (28) is the natural generalization of the corre-sponding collisionless-DM model, the well-known Einstein-de Sitter (EdS) Universe (S  η2) (see, e.g., Peacock 1999, pp. 77, 83 and 142 144).
+Eventually, in the collisional-DM model given by Eq. (1), the cosmological redshift parameter is defined as
+z + 1 = S 0 ,	(30)
+S
+thus Eq. (27) is written in the form
+H = H (1 + z) 3 (1+wΩM).	(31)
+ds˜2 = R2(η) c2dη2 − dx2 + dy2 + dz2  .	(35)
+Clearly, the evolution of this model is given in terms of the scale factor R(η). From the point of view of an observer who (mis)treats the DM as collisionless, g˜µν is the metric tensor upon which he/she should rely on, in interpreting observations.
+However, we recall that, for this observer, the accumulated evidence in favour of spatial flatness (necessarily) leads to the assumption of an extra (dark) energy component, in contrast to the collisional-DM case, where this assumption would no longer be necessary. In the latter case, the appropriate candidate to pro-
+
+0	vide the extra energy needed to flatten the Universe is already
+
+We note the striking functional similarity between Eq. (31) and the corresponding result for a dark-energy fluid with equa-tion of state in the form of Eq. (3) (cf. Eqs. (13) and (14) of Perivolaropoulos 2007). In our case, however, w 0 and, there-fore, on the approach to z = 0, H(z) decreases monotonically. In other words, a cosmological model filled with collisional DM, necessarily, decelerates its expansion.
+This can be readily verified, by expressing the corresponding deceleration parameter, q, in terms of H and z, as
+q(z) = dH/dz (1 + z)  1	(32)
+H(z)
+(cf. Eq. (16) of Perivolaropoulos 2007), which, in view of Eq. (31), yields
+1
+q(z) = 2 (1 + 3wΩM) > 0,	(33)
+independently of z, even for w = 0. In other words, the model of a gravitating perfect-fluid source, as it stands, i.e., either pres-sureless (geodesic motions) or not (hydrodynamic flows), seems to be inappropriate for explaining the apparent accelerated ex-pansion of the Universe.
+The actual reason is that it does not have to account for
+included in the model (the energy of the internal motions).
+Furthermore, in the collisionless-DM scenario, every theo-retical effort to interpret the (apparent) dimming of the SNe Ia standard candles, naturally, should also be based on g˜µν and the cosmologically relevant parameters arising from it. Accordingly, a possible explanation could be that, recently, the Universe ac-celerated its expansion (Riess et al. 1998; Perlmutter et al. 1999). This assumption, however, attributes unnecessarily-exotic prop-erties to the extra amount of energy needed to account for the spatial flatness (e.g., it should be repulsive in nature, i.e., of neg-ative pressure, etc.). Therefore, we cannot help but wondering whether there is another (more conventional) explanation to be found (also) within the context of the collisional-DM model.
+In what follows, we demonstrate that both the observed dim-ming of the distant light-emitting sources and the accelerated expansion of the Universe could be only apparent, based on the misinterpretation of several cosmologically-relevant parameters, by someone who (although living in a Universe filled with colli-sional DM) insists on adopting the traditional (collisionless-DM) approach.
+To explore this possibility, we note that the collisional-DM treatment of the Universe’s matter content (in terms of which p ≠ 0 and the motions of its constituents are, in principle, hydro-dynamic flows) can be related to the collisionless-DM approach
+
+any acceleration at all. As we demonstrate in the next section,
+where p˜
+= 0 and the corresponding motions are, necessarily,
+
+in a Universe filled with collisional (i.e., thermodynamically-involved) DM, the observed dimming of the distant light-emitting sources can be explained without the assumption of the accelerated expansion.
+geodesics, by means of a conformal transformation of the metric tensor (Kleidis & Spyrou 2000; Spyrou 2005; Spyrou & Tsagas 2004, 2010). Accordingly, from the original metric, gµν, in terms of which the hydrodynamic flows have their well-known form
+A26, page 5 of 14
+
+A&A 529, A26 (2011)
+
+
+given by Eq. (8), we can transfer the problem to a virtual metric, g˜µν, in terms of which the volume elements of the fluid move along geodesic-like trajectories, i.e., their velocity-vector obeys Eqs. (34) (in connection, see Synge 1937; Lichnerowicz 1967,
+pp. 24−29 and 54−61; Carter 1979). The appropriate (confor-
+For p = const. = p0, the first law of thermodynamics given in Eq. (13) yields
+Π+  p0 = const.,	(40)
+ρ
+
+mal) transformation for such a transition is
+which, in the particular case of dust, where p0 = 0, results in
+
+g˜µν = F2 (xκ) gµν,	(36)
+where, upon consideration of isentropic flows, the conformal factor F(xκ) takes on the functional form (Kleidis & Spyrou 2000)
+Π = const. = Π0. Now, from Eq. (19) it becomes evident that, at the present epoch, Π (= Π0) is (also) given by Eq. (21), even for w = 0. Accordingly, inserting Eq. (21) into Eq. (37), we find that, the condition F(w = 0) = 1 leads to
+= Ω .	(41)
+
+
+F (xκ) = C
+ ε + p 
+
+
+= C 1 +
+1  Π+ 
+ p 
+
+
+C	M
+,	(37)
+
+with  being an arbitrary (integration) constant. From Eq. (37), it becomes evident that F(xκ) is, essentially, the specific enthalpy of the ideal fluid under consideration.
+Verozub (2008) extrapolated these results to include every Riemannian space-time and not just the metric attributed to a bounded, perfect-fluid source. In particular, he showed that the adiabatic hydrodynamic motion of an ideal-fluid element in a space-time with metric tensor gµν, takes place along the geodesic lines of a Riemannian manifold with metric tensor given by the combination of Eqs. (36) and (37).
+With the aid of the technique developed by Kleidis & Spyrou (2000), we then determine the scale factor of the spatially-flat cosmological model in Eq. (35), i.e., the scale factor of the Universe as inferred by someone who, although living in a collisional-DM Universe (where p, Π > 0 and dp ≠ 0), misin-terprets the DM as collisionless (p˜ = 0).
+In principle, one can (always) use a (conformal) transforma-tion to remove (from the rhs of Eqs. (8)) either the pressure gra-dient, which measures the response to non-gravitational forces, or the pressure itself (see, e.g., Lichnerowicz 1967, p. 26). Nevertheless, something like this (usually) comes with a price (see, e.g., Bruneton & Esposito-Farese 2007): the new metric, in terms of which the DM appears to be pressureless, is no longer a solution of general relativity (GR), but, rather, a solution to a modified theory of gravity. The reason is that, in terms of this new metric (i.e., after the transformation (36) is applied), the ac-tion of the original gravitational field is also modified, acquiring extra terms in addition to the Einstein-Hilbert Lagrangian (see Appendix B). In other words, every effort to treat a collisional-DM fluid as pressureless, cannot be accomplished in the context of GR. As a consequence, R(η) is no longer a solution of the original Friedmann equation, given by Eq. (11).
+In view of Eq. (36), the scale factor of the Universe as it is inferred by a supporter of the collisionless-DM scenario, R(η), is related to the corresponding quantity of the collisional-DM model, S (η), as follows
+R(η) = F (xκ) S (η),	(38)
+where, by virtue of Eqs. (7), (17), and (30), F(xκ) is given, in terms of z, by
+F(z) = 1 + wΩM [1 + 3 ln(1 + z)] .	(42)
+Using Eqs. (38) and (42), we can then express several cosmolog-ically relevant parameters of the collisional-DM model in terms of their collisionless-DM counterparts, such as the cosmologi-cal redshift, the luminosity distance, and the distance modulus of the various light-emitting sources, together with the Hubble and the deceleration parameters, which characterize the cosmic expansion.
+
+The cosmological redshift
+A supporter of the collisionless-DM scenario would define the corresponding cosmological redshift parameter, z˜, as
+z˜ + 1 = R (η0) ,	(43)
+R(η)
+which, upon consideration of Eq. (38), is written in the form
+z˜ + 1 =  F (η0) (z + 1),	(44)
+F(η)
+where
+F (η ) = R (η0) = 1 + wΩ .	(45)
+0	S (η0)	M
+Taking into account Eq. (42), Eq. (44) results in
+
+z˜ + 1 = 	1 + wΩM	 (z + 1).	(46) 1 + wΩM[1 + 3 ln(1 + z)]
+Confining ourselves to relatively low values of the cosmological redshift parameter (e.g., z < 5), to ensure that the combination 3wΩM ln(1+z) remains sufficiently-lower than unity even for rel-atively large values of the combination wΩM (e.g., wΩM 0.1, i.e., w  1 ), we can apply the technique used in Eqs. (25) (27), to obtain
+1 + z˜ ≃ (1 + z)1−3wΩM .	(47)
+
+F(z) =  C  (1 + wΩ
+ΩM	M
+
+[1 + 3 ln(1 + z)]) .	(39)
+In this case, we note that, for every (fixed) value of the cosmo-logical redshift z, i.e., as defined in the collisional-DM model, the corresponding collisionless-DM quantity z˜ is always a little
+
+In Eq. (39), the arbitrary integration constant, , can be deter-mined, by demanding that, in the (isobaric) pressureless case, these two models should coincide, i.e., g˜µν = gµν. In other words, for w = 0 = p, R(η) = S (η, w = 0), which represents the EdS model. Hence, F(w = 0) = 1.
+bit smaller (z˜ < z).
+In other words, on observing a light-emitting source of the collisional-DM model, an observer who adopts the collisionless-DM scenario (realizing redshifts as z˜ instead of z), necessarily admits that this source lies a little bit farther (z) than expected (z˜).
+
+A26, page 6 of 14
+
+K. Kleidis and N. K. Spyrou: A conventional approach to the dark-energy concept
+
+
+The luminosity distance and the distance modulus
+Nowadays, the most direct and reliable method for determining, observationally, the (relatively) recent history of the Universe expansion, is to measure the redshift and the apparent luminos-ity (equivalently, the apparent magnitude, m) of cosmologically-distant indicators (standard candles), whose absolute luminos-ity (equivalently, the absolute magnitude, M) is assumed to be known.
+SN Ia events constitute one of the most suitable cosmo-logical standard candles (Plionis et al. 2009). With the aid of these events, a number of scientific groups have attempted to find evidence in support of a recently-accelerating stage of the Universe (Garnavich et al. 1998; Riess et al. 1998, 2001, 2004, 2007; Perlmutter et al. 1999; Knop et al. 2003; Tonry et al. 2003; Astier et al. 2006; Wood-Vasey et al. 2007; Kowalski et al. 2008; Hicken et al. 2009). In each and every one of these sur-veys, the SN Ia events, at peak luminosity, appear to be dimmer (i.e., they seem to lie farther away) than expected. This result was, eventually, accommodated within the context of the concor-dance model, by a DE fluid of negative pressure, with ΩX 0.7 (see, e.g., Spergel et al. 2003; Tonry et al. 2003). However, in view of Eq. (47), there may be also another, more conventional interpretation.
+Photons travel along null geodesics, ds˜2 = 0 = ds2, which re-main unaffected by conformal transformations. Accordingly, in both the collisional-DM and collisionless-DM approaches, the radial distance of a light-emitting source (in comoving coordi-nates) is the same, i.e.,
+r˜ = c (ηr − ηe) = r,	(48)
+where ηr and ηe are the conformal times of reception and emis-sion of light, respectively (usually, ηr = η0).
+In this case, with the aid of Eq. (47), the formula determining the luminosity distance in a spatially-flat collisional-DM model
+dL(z) = rS (η0) (1 + z)	(49)
+(see, e.g., Peacock 1999, p. 92) can be expressed in terms of the corresponding collisionless-DM quantity
+(see, e.g., Narlikar 1983, Eqs. (13.10) and (13.12), p. 359), where dL is measured in megaparsecs (Mpc). In a similar fashion,
+µ˜ (z˜) = 5 log  d˜L  + 25	(54)
+Mpc
+is the distance modulus of the same source, as defined by someone who, although living in the collisional-DM model, in-sists on adopting the (traditional) collisionless-DM approach. Subtracting Eqs. (53) and (54) by parts, and using Eq. (51), we obtain
+µ = µ˜ + 15wΩM log(1 + z) − 5 log (1 + wΩM) .	(55)
+According to Eq. (55), any light-emitting source of the collisional-DM Universe located at z > zc, from the point of view of an observer who insists on adopting the collisionless-DM ap-proach (treating the various distance moduli in terms of µ˜), ap-pears to be dimmer than expected, i.e., µ˜ < µ.
+We cannot help but notice the prominent similarity between the characteristic value zc and the transition redshift, zt, which, according to a supporter of the collisionless-DM scenario, sig-nals the onset of the dimming of the SNe Ia standard candles, something that is interpreted (by such an observer) as an entry into a phase of accelerated expansion. As we see, what actu-ally happens in a collisional-DM model is that, from the point of view of someone who incorrectly assumes the DM as colli-
+sionless (i.e., measuring cosmological distances in terms of d˜L
+instead of the truly-measured quantity dL), an inflection point in the d˜L versus z diagram (namely, zc) will arise anyway. For wΩM = 0.1, i.e., w = 1 (the DM consists of relativistic particles), the characteristic transition value in Eq. (52) is set at zc = 0.37, while, for lower values of w, zc reaches up to 0.39. These results lie within the observationally traced range of values concern-ing zt, namely zt = 0.46  0.13 (Riess et al. 2004, 2007). In other
+words, the spatially-flat collisional-DM model given by Eq. (28) does not suffer from the coincidence problem.
+Therefore, if the DM possesses some sort of thermodynami-cal content, then, it is possible that (i) the “infernous” discrep-ancy between the expected value of the distance modulus (µ˜) of
+
+d˜L
+as
+(z˜) = r˜R (η0) (1 + z˜)	(50)
+a SN Ia standard candle and the corresponding observed one (µ); and (ii) the accompanying inflection point, zt, that signals the transition from deceleration to acceleration, may both arise only because many cosmologists (although living in a collisional-DM
+
+dL =	1
+d˜L	1 + wΩM
+(1 + z)3wΩM .	(51)
+model) insist, instead, on adopting the (traditional) collisionless-DM approach. In the next section, we demonstrate that this is
+
+This relation is very interesting. It suggests that, in a Universe containing collisional DM (i.e., as long as w ≠ 0), there exists a characteristic (transition) value of the cosmological redshift,
+  1 
+zc = (1 + wΩM) 3wΩM − 1,	(52)
+such that, the luminosity distance of the various light-emitting
+exactly what happens in a collisional-DM Universe.
+
+The Hubble and the deceleration parameters
+By virtue of Eq. (38), the Hubble parameter inferred by a sup-porter of the collisionless-DM scenario, H˜ , is written in terms of H as
+
+sources located at z > zc, is always larger than what is inferred by
+H˜ =  1 H −  1
+d    1  ,	(56)
+
+
+
+in terms of d˜L) necessarily admits that any standard candle lo-cated at z > zc lies farther than expected, i.e., d˜L < dL.
+The same also happens in the case of the distance moduli
+from which, a much more interesting relation can be obtained in terms of the cosmological redshift. By taking into account that
+1  d   1	 d  1 
+
+corresponding to dL and d˜L. The K-corrected distance modulus,
+µ(z) = m − M, of a light-emitting source in the collisional-DM
+S dη F
+= −(1 + z) H dz
+,	(57)
+F
+
+model is given by
+µ(z) = 5 log  dL  + 25	(53)
+Eq. (56) is written in the form
+H˜ = H  d  1 + z ,	(58)
+
+Mpc
+dz	F
+
+A26, page 7 of 14
+
+A&A 529, A26 (2011)
+
+
+which, in view of Eq. (42), results in
+H˜ = H 1 − 2wΩM + 3wΩM ln(1 + z) (1 + wΩM [1 + 3 ln(1 + z)])2
+or else
+
+
+(59)
+transition value, z˜t, of z˜, below which, the post-recombination Universe (as being realized by such an observer) is accelerating, independently of any notion of DE or the cosmological constant. In other words, if the Universe evolution is driven by a collisional-DM fluid with w > wc, then, the apparent acceler-ation of the cosmic expansion could (very well) be due to a mis-
+
+H˜ = H (1 + z) 3 (1+wΩM)
+interpretation of several cosmologically-relevant parameters, by
+
+/
+0	2
+an observer who (although living in a cosmological model filled
+
+1 − 2wΩM + 3wΩM ln(1 + z) ,	(60)
+(1 + wΩM[1 + 3 ln(1 + z)])2
+where we have also used Eq. (31). We note that, to terms linear in wΩM,
+H˜0 = H0 (1 − 4wΩM) ,	(61)
+i.e., within the context of the collisionless-DM approach, at the present epoch (when z = 0), the Universe expands only as long as wΩM < 1 , and, in any case, at a lower rate than the collisional-DM treatment (H0) implies. In view of Eq. (47), i.e., at relatively
+with collisional DM) insists on adopting the collisionless-DM approach. At the same time, for this observer, the cosmologically distant indicators would appear to be dimmer than expected (cf. Eq. (55)).
+We recall here that the recent observational data concerning the SNe Ia standard candles set the transition redshift between accelerated and decelerated expansion at zt = 0.46 0.13 (Riess et al. 2004). In this case, the combination of Eqs. (47) and (67) results in the non-linear algebraic equation involving the transi-tion value, zt, of the truly-measured quantity z
+(1 + z ) e0.25/3wΩM = 3.2114 (1 + z )3wΩM .	(69)
+
+low values of z, Eq. (60) can be written in terms of z˜, as	t	t
+
+
+ 3(1+wΩM)
+H˜ = H0 (1 + z˜) 2(1−3wΩM) (1 − 3wΩM)
+Equation (69) can be solved numerically with respect to the com-bination wΩM. Accordingly, we verify that the value
+
+1 − 5wΩM + 3wΩM ln (1 + z˜) + O (wΩM)2
+.1 − 2wΩM + 3wΩM ln (1 + z˜) + O (wΩM)
+(wΩ
+
+M)t
+= 0.0932 ± 0.0060	(70)
+
+
+We verify that, to terms linear in wΩM, Eq. (61) is (also) valid at z˜ = 0.
+By analogy with Eq. (32), a supporter of the collisionless-DM scenario would define the corresponding deceleration pa-rameter, q˜, as
+dH˜ /dz˜
+q˜ (z˜) = H˜ (z˜) (1 + z˜) − 1,	(63)
+which, by virtue of Eq. (62), yields
+1  1 − 4wΩM + 6wΩM ln (1 + z˜) + O (wΩM)2  
+
+/
+/ / / / / /
+
+reproduces (exactly) the above observational result for zt.
+By virtue of Eq. (70), we note that w  1 , i.e., compatibility of the collisional-DM approach with the observational data, cur-rently available, suggests that, in Eq. (3), the pressure of the cos-mic fluid under consideration is due to radiation. Nevertheless, in view of Eq. (17), the evolution of the rest-mass density indi-cates that, for every value of w, the spatially-flat model given by Eq. (28) is matter-dominated. Taken together, these results im-ply that the DM itself, being responsible for the non-vanishing pressure, consists of relativistic particles (“hot” DM). We verify this result by overplotting Eq. (55) in the Hubble (µ versus z) diagram of a SN Ia dataset.
+
+/
+
+Now, the condition for accelerated expansion (q˜ < 0) is trans-lated to
+[1 − 4wΩM + 6wΩM ln (1 + z˜)]
+× [1 − 10wΩM + 6wΩM ln (1 + z˜)] < 0,  (65)
+from which, to terms linear in wΩM, we obtain
+q˜ (z˜) < 0 ⇔ 1 − 14wΩM + 12wΩM ln (1 + z˜) < 0.	(66)
+From Eq. (66) it becomes evident that, from the point of view of someone who insists on adopting the collisionless-DM ap-proach, q˜(z˜) < 0 at cosmological redshifts
+14wΩM−1
+z˜ < z˜t = e 12wΩM − 1.	(67)
+This relation is very interesting: it suggests that, if the Universe matter-content is treated as a collisional-DM fluid with w being larger than a critical value, wc, such that
+An extended sample of 192 SN Ia events has been used by Davis et al. (2007) to scrutinize the viability of various DE scenarios. This sample1 consists of 45 SNe from a nearby SN Ia dataset (Hamuy et al. 1996; Riess et al. 1999; Jha et al. 2006), 57 events from SNLS – the SuperNova Legacy Survey (Astier et al. 2006), 60 intermediate-redshift events from ESSENCE – the Equation of State: SupErNovae trace Cosmic Expansion program (Wood-Vasey et al. 2007), and 30 high-z SNe from the Gold-07 sample (Riess et al. 2007).
+To overplot Eq. (55) on the µ versus z diagram of this dataset, first of all, we need to determine the functional form of the lu-minosity distance d˜L(z˜) (and, through it, the corresponding form of the distance modulus, µ˜(z˜)), used by someone who, although
+living in a collisional-DM model, insists on the collisionless-DM approach. This observer performs calculations in the (tradi-tional) framework of a pressureless Universe, adopting the cor-responding formula of the luminosity distance. In a spatially-flat model, this formula is given by (see, e.g., Carroll et al. 1992)
+
+
+wΩM
+
+> wcΩM
+1 
+= 14 ≈ 0.0714	(68)
+d˜L
+ 2c
+(z˜) = H˜
+(1 + z˜)1/2 .(1 + z˜)1/2 − 1. ,	(71)
+
+(i.e., w > wc	0.238), then, from the point of view of someone who incorrectly assumes the DM as collisionless, there exists a
+
+/
+1  Available at http://www.ctio.noao.edu/essence or at
+http://braeburn.pha.jhu.edu/~ariess/R06
+
+A26, page 8 of 14
+
+K. Kleidis and N. K. Spyrou: A conventional approach to the dark-energy concept
+
+
+representing the luminosity distance in the EdS Universe, the	46 (conformally) pressureless counterpart of the collisional-DM model given by Eq. (28).
+However, we need to stress that, in a collisional-DM	44 Universe, the measured quantity (corresponding to the cosmo-logical redshift) is z and not z˜, as it is (falsely) admitted by some-
+42
+one who (mis)treats the DM as collisionless. Therefore, in order
+to include, also, the function µ˜(z˜) in the Hubble diagram of the
+SN Ia dataset used by Davis et al. (2007), we have to express	40 d˜L(z˜) in terms of the truly-measured quantity, z. It can be done (appropriately) by inserting Eqs. (47) and (61) into Eq. (71), to obtain		38
+SN data as used by Davis et al. (2007)
+
+d˜ (z) =	2c
+(1 + z) 1 (1−3wΩM)
+
+(1 − 4wΩM
+2
+) H0
+
+× .(1 + z) 1 (1−3wΩM) − 1. .	(72)
+34
+0.0	0.5	1.0	1.5	2.0
+
+However, as we have already mentioned, this is not the case for a supporter of the collisionless-DM scenario. In depicting Eq. (54) – with d˜L(z˜) being given by Eq. (71) – on the µ ver-sus z diagram of a sample of SN events, this observer (admitting that w = 0), unavoidably, misinterprets the measured quantity z as z˜ (and the quantity H0 as H˜0). In other words, the theoretical formula of the luminosity distance that is used by someone who, although living in a (spatially-flat) collisional-DM model, insists on adopting the collisionless-DM approach is (incorrectly) writ-
+ten in the form of Eq. (71) with z˜ simply replaced by z
+Redshift
+
+Fig. 1. Hubble diagram of the SN Ia sample used by Davis et al. (2007). Overplotted are the theoretical curves, corresponding to the dis-tance moduli: µ(z) for wΩM = 0.16 (green solid line); µ˜(z) (also for wΩM = 0.16) with d˜L (z) being given by Eq. (72) (orange solid line); and
+µ˜(z) with d˜L (z) being given by Eq. (73) (dashed line). We observe that,
+after the thermodynamical content of a collisional-DM fluid is taken into account, the theoretical curve representing the distance modulus, µ(z) (Eq. (55)), fits the entire dataset quite accurately (green line).
+
+SN data as used by Davis et al. (2007)
+
+d˜ (z) =  2c (1 + z)1/2 .(1 + z)1/2 − 1. ,	(73)	46
+
+instead of that given by Eq. (72). In what follows, we admit that H0 = 70.5 km s−1 Mpc−1 (Komatsu et al. 2009), hence 2c/H0 =
+8509.8 Mpc.	42
+We then overplotted in the Hubble diagram of the SN Ia dataset used by Davis et al. (2007) the theoretical curves cor-
+responding to the distance moduli: µ(z) for wΩM = 0.16 (green	40
+solid line); µ˜(z) (also for wΩM = 0.16) with d˜L(z) being given
+by Eq. (72) (orange solid line); and µ˜(z) with d˜L(z) being given	38
+by Eq. (73) (dashed line). The outcome is presented in Fig. 1. We observe that, the (appropriately translated in terms of z)
+collisionless-DM quantity µ˜(z) – with d˜L(z) being given by	36
+
+Eq. (72) (orange solid line) is quite far from being able to re-
+produce these data, although, for z  1.75, it is much closer to the “real world” (the µ versus z distribution of the SN Ia data available) than the incorrectly used quantity µ˜(z) – with d˜L(z) being given by Eq. (73) (dashed line).
+The situation changes, completely, when someone takes into account the thermodynamical content of a collisional-DM fluid with wΩM = 0.16, thus using Eq. (55) instead of Eq. (54) alone. In this case, the function µ(z) (green solid line) seems to fit the entire dataset under consideration quite accurately.
+As we observe in Fig. 2, apart from a small number of SN events (4 of 192), the entire dataset used by Davis et al. (2007) lies within the stripe formed by the theoretical curves µ(z), cor-responding to wΩM = 0.10 (red solid line) and wΩM = 0.19 (blue solid line), while the best fit to this sample appears to be achieved for wΩM = 0.16 (green line). In a spatially-flat cos-mological model, it is clear that, the collisional-DM treatment is not only much closer to, but, actually, can reproduce quite ac-curately the µ versus z distribution of the SN Ia sample used by Davis et al. (2007).
+Nevertheless, there is a “delicate point” in this treatment. For
+wΩM ≥ 0.10, we have w ≥ 1 . In other words, compatibility
+
+
+
+34
+0.0	0.5	1.0	1.5	2.0
+Redshift
+
+Fig. 2. Overplotted in the Hubble diagram of the SN Ia sample used by Davis et al. (2007), are the theoretical curves of the distance mod-ulus in the collisional-DM model, i.e., Eq. (55), for several values of the combination wΩM. Almost the entire dataset lies within the stripe formed by the curves µ(z), corresponding to wΩM = 0.10 (red solid line) and wΩM = 0.19 (blue solid line), while, the best fit to this sample is achieved for wΩM = 0.16 (green line). Once again, the dashed line
+represents the (incorrectly used) theoretical curve µ˜(z) with d˜L (z) being
+given by Eq. (73).
+
+
+
+of the collisional-DM approach with the currently available ob-servational data, suggests that the cosmic fluid (i.e., above all, the DM itself) consists of relativistic particles.
+Taken together, these results strongly suggest that, if the DM constitutes a perfect fluid (of relativistic particles) with ther-modynamical content, then, what is interpreted as the “dim-ming” of the SNe Ia standard candles might only be apparent,
+A26, page 9 of 14
+
+
+A&A 529, A26 (2011)
+
+
+provided that the cosmologists no longer insist on adopting the collisionless-DM approach.
+In other words, in a Universe filled with collisional (and relativistic) DM, the unexpected dimming of the distant light-
+To minimize the systematic errors arising from treating the line-of-sight dilation in an equivalent manner to the transverse one (a common bias, involving the so-called Alcock-Paczyn´ski 1979, effect), cosmologists defined the distance measure
+
+emitting sources can be explained in a more conventional way,
+than that implemented within the context of the accelerated ex-	DV
+pansion. Hence, before inventing any new theory, it is useful
+ 	
+3	2
+|| ⊥
+ (1 + Z)2D2 (Z)
+ cZ  1/3
+H(Z)
+
+(74)
+
+to allow for a suitable use of the (so far) neglected degrees of freedom (energy of the internal motions, pressure, etc.). As we have shown, these internal physical characteristics can reveal their influence on several parameters of cosmological signifi-
+(Eisenstein et al. 2005; Percival et al. 2007), where Z is the observationally-determined (i.e., spectroscopically-measured) value of the cosmological redshift of a large-scale structure, and
+
+cance (scale factor, cosmological redshift, luminosity distance, Hubble and deceleration parameters) and yield a consistent al-
+D (Z) = S (η0) r
+A	1 + Z
+(75)
+
+ternative to the currently-accepted DE concept.
+
+3.5. An independent confirmation from BAO’s data analysis
+is the corresponding angular diameter distance in a spatially-flat cosmological model (see, e.g., Peacock 1999, p. 22). The com-bination of Eqs. (74) and (75) results in
+
+Among the various (currently available) techniques for tracing the expansion history of the Universe, baryon acoustic oscilla-
+
+DV(Z) =
+
+ S 2 (η0) r2
+ cZ  1/3
+H(Z)
+
+,	(76)
+
+tions (BAO) appear to have the lowest level of systematic uncer-tainty (Albrecht et al. 2006).
+BAO is a series of peaks and troughs, with wavenumber (approximately) 0.06 h (Mpc)−1 (Eisenstein et al. 2005), aris-ing, on large scales, in the power spectrum of matter fluctu-ations after recombination. They occur because the primordial cosmological perturbations excite sound waves in the relativistic plasma of the early Universe (Silk 1968; Peebles & Yu 1970; Sunyaev & Zel’dovich 1970; Bond & Efstathiou 1984, 1987; Holtzman 1989; Hu & Sugiyama 1996). This process contin-ues for a short time-interval after recombination, until the epoch known as baryon-drag epoch (zd  1089), when, eventually, the baryons are released from the Compton “drag” of photons (Eisenstein & Hu 1998).
+The BAO’s wavenumber is related to the comoving distance of the sound horizon at the baryon-drag epoch, rs, which depends on both the total-mass density of the Universe and the corre-sponding baryonic quantity (see, e.g., Wang 2006). WMAP con-
+straints on ΩMh2 and ΩBh2 (Komatsu et al. 2009) suggest that
+where, once again, r is the radial distance (in comoving coordi-nates) of the structure formation under consideration.
+According to Percival et al. (2010), there exists a ro-bust, statistically-independent (distance) constraint, arising from BAO’s data, which involves the value of the ratio
+f = DV(0.35) = 1.736  0.065.	(77)
+DV(0.2)
+Clearly, in a collisional-DM model, Eq. (77) represents the truly-measured value of f . In this case, we ask ourselves what is ob-served by someone who, although living in a collisional-DM model, insists on adopting the (traditional) collisionless-DM approach.
+To answer this question, we note that, when, either the collisional-DM-oriented observer or the corresponding collisionless-DM one, spectroscopically measures the cosmo-logical redshift of a particular large-scale structure, they both refer to the same quantity, Z. Accordingly, a supporter of the collisionless-DM scenario would express Eq. (76) in the form
+
+rs(zd) 153.5 Mpc. In other words, BAO are met on relatively-large scales, which, at the present epoch, are (still) in the linear regime. It is, therefore, expected that, these acoustic signatures
+D˜ V(Z) =
+
+ R2 (η0) r2
+ cZ  1/3
+H˜(Z)
+
+,	(78)
+
+should be present (also) in the distribution of galaxies (Goldberg & Strauss 1998; Meiksin et al. 1999; Seo & Eisenstein 2005; Eisenstein et al. 2007).
+Since the comoving distance of the sound horizon at the baryon-drag epoch is known, we can use BAO as standard
+where we have also used Eq. (48). Equation (78) differs from
+Eq. (76) only in the definition of the present-time value of the scale factor and in the functional dependence of the Hubble parameter on Z. In this case, upon consideration of Eqs. (45) and (60), we obtain
+
+rulers, to determine the functional form of the distance – redshift
+
+/
+D˜V(Z)
+
+//
+
+2/3 H 1/3
+
+/
+
+
+clustering within a galaxy distribution), we can extract reliable estimates of the Hubble parameter, as well as the angular diame-ter distance, at the cosmological redshift, in which, this acoustic
+D˜V(Z) = (1+wΩ ) D (Z)	M
+2/3 [1+wΩM+3wΩM ln(1 + Z)]2/3
+
+/
+[1−2wΩ +3wΩ  ln(1 + Z)]
+
+signature is observed (Blake & Glazebrook 2003; Hu & Haiman 2003; Seo & Eisenstein 2003).
+The spectroscopic Sloan Digital Sky Survey (SDSS) Data Release 7 (DR7) represents the final set of galaxies, observed us-
+Now, as far as a supporter of the collisionless-DM scenario
+is concerned, the BAO’s constraint given by Eq. (77) is trans-lated as
+D˜V(0.35)	  1 − 2wΩM + 3wΩM ln(1.2) 1/3
+
+ing the original SDSS-target selection criteria (York et al. 2000). When combined with the data released from the 2-degree Field
+f˜ =
+D˜ V
+=
+(0.2)
+1 − 2wΩM
++ 3wΩM
+ln(1.35)
+
+(2dF) galaxy-redshift survey (Colless et al. 2003), the resulting sample comprises 89 3319 galaxies and covers a solid angle of 9100 deg2. An analysis of the clustering of galaxies within this sample, inferred BAO signals in the power spectrum measured in
+1 + wΩM + 3wΩM ln(1.35) 2/3
+×  1 + wΩM + 3wΩM ln(1.2)
+DV(0.35)
+
+several slices of the cosmological redshift (Percival et al. 2010).
+A26, page 10 of 14
+× DV
+,	(80)
+(0.2)
+
+K. Kleidis and N. K. Spyrou: A conventional approach to the dark-energy concept
+
+
+which for, wΩM = 0.10, results in
+ D˜ V(0.35)
+f˜|wΩ =0.1 =	= 1.766,	(81)
+In particular, since observational data indicates that WIMPs (of which the DM is believed to consist) can be collisional, we have assumed that the matter of the Universe (although re-
+
+M	D˜
+V(0.2)
+sembling test particles receding from each other) can be repre-
+
+and for wΩM = 0.16, we have that
+sented by the volume elements of a (classical) collisional-DM fluid with some sort of internal structure, hence thermodynam-
+
+f˜|
+= D˜V(0.35) = 1.788.	(82)
+ical content. In this way, we have been able to determine the
+
+wΩM=0.16
+D˜ V
+(0.2)
+“correct” form of the scale factor, which (under the assumption
+that the DM is thermodynamically involved) governs the evo-
+
+Both values of f˜ lie within the range of values [1.671, 1.801] of
+the measured quantity, f , given by Eq. (77). Therefore, as far as a supporter of the collisionless-DM scenario is concerned, the ob-servational constraint, f˜, inferred from BAO’s data, is (at least)
+compatible with (if not almost identical to) the corresponding constraint, f , obtained within the context of the collisional-DM model.
+However, when the collisionless-DM-oriented observer at-tempts to verify Eq. (81) (or Eq. (82)) theoretically, a contro-versy arises. This observer applies Eq. (78) to the EdS Universe (the pressureless counterpart of the collisional-DM model un-der study), which accommodates the standard (w = 0) cold dark matter (SCDM) cosmology. In this case,
+.(1 + Z)1/2 − 1.2/3
+lution of the Universe (modeled as a spatially-flat RW space-time), in addition to a series of parameters of cosmological significance.
+Our findings are quite promising. In principle, the energy of the internal motions of the collisional-DM fluid can account for the (extra) DE, so that, at the present epoch, Ω = 1 (cf. Eq. (23)), while the post-recombination Universe remains ever-decelerated (cf. Eq. (33)).
+We next attempted to determine what is inferred by some-one who, although living in a collisional-DM model, insists on adopting the (traditional) collisionless-DM approach.
+To do so, we have applied the technique developed by Kleidis & Spyrou (2000). With the aid of this technique, we have derived the (conformal) transformation (cf. Eqs. (38) and (42)),
+
+/
+
+V	H˜
+/
+(1 + Z)5/6
+model (in terms of which p, Π > 0 and dp
+≠ 0) to the corre-
+
+hence, a supporter of the collisionless-DM scenario obtains
+f˜	= D˜V(0.35) = 1.553	(84)
+sponding collisionless-DM (pressureless) approach. With such a “tool” at hand, we have explored the way that a supporter of the collisionless-DM scenario interprets observations carried out in
+
+SCDM
+D˜ V
+(0.2)
+a collisional-DM Universe. In passing, we note that, within the
+context of general relativity, every effort to treat a collisional-
+
+(see, also, Percival et al. 2010). Clearly, there is a difference be-
+tween the theoretical result of Eq. (84) and the observational one given by Eq. (81) (or Eq. (82)). As far as the supporter of the collisionless-DM scenario is concerned, one way to compensate this difference, is to impose the existence of an extra (dark) en-ergy component or the cosmological constant. However, even when he/she does so, i.e., within the context of the ΛCDM
+model, the theoretical value of the distance constraint, f˜, induced
+by the signature of BAO on cosmic structure, reaches up to
+f˜ΛCDM = 1.670	(85)
+(Eisenstein et al. 2005; Percival et al. 2010). Although marginally, f˜ΛCDM lies outside the range of values of the truly-measured quantity, f , given by Eq. (77). In view of the above-
+mentioned results, we may conclude that, within the context of the collisional-DM approach, the BAO’s-oriented observational data require (and acquire) a more sophisticated interpretation than the one provided by the (collisionless) ΛCDM model.
+
+Discussion
+We have examined the possibility that the extra (dark) energy needed to flatten the Universe is represented by the energy of the internal motions of a collisional-DM fluid. Accordingly, we have considered the evolution of a cosmological (toy-) model driven by a gravitating fluid (consisting of DM – dominant – and bary-onic matter – subdominant) with thermodynamical content. As a consequence, the energy of this fluid’s internal motions has also been taken into account as a source of the universal gravitational field. Accordingly, we have asked ourselves, whether this model can also accommodate the apparent dimming of the cosmolog-ically distant indicators and the associated phase of accelerated expansion.
+DM model as pressureless is questioned (Appendix B).
+The debate between collisional- and collisionless-DM ap-proach is, definitely, in favor of the former. In particular, for every value of the cosmological redshift (z), as it is defined in the collisional-DM model, the corresponding collisionless-DM quantity, z˜, is always a little bit smaller (cf. Eq. (47)). As a con-sequence, in the collisional-DM model there is a characteristic value of the cosmological redshift, zc (cf. Eq. (52)), above which, the luminosity distance of the various light-emitting sources is always higher than what is inferred by an observer who treats the DM as pressureless (cf. Eq. (51)). In other words, from the point of view of someone who (although living in a collisional-DM model) insists on adopting the (traditional) collisionless-DM ap-proach, the cosmologically-distant indicators, located at z > zc, seem to lie farther away (i.e., appear dimmer) than expected (cf., also, Eq. (55)).
+The similarity between the characteristic value zc and the (observationally-traced) transition redshift, zt, which, according to a supporter of the collisionless-DM scenario, signals the onset of the dimming of the SNe Ia standard candles, is obvious.
+On the other hand, after the thermodynamical content of a collisional-DM fluid is taken into account, the theoretical curve representing the distance modulus, µ(z) (now given by Eq. (55)), fits the Hubble diagram of an extended sample of SN Ia standard candles quite accurately (green solid line in Fig. 1), in contrast to the corresponding collisionless-DM quantity, µ˜(z˜), given ei-ther (appropriately) by the combination of Eqs. (54) and (72) (orange solid line in Fig. 1) or (incorrectly) by the combination of Eqs. (54) and (73) (dashed line in Fig. 1). In fact, a cosmo-logical model filled with collisional DM could accommodate the majority of the currently-available observational data, including, also, those related to BAO, without the need for any dark energy or the cosmological constant (cf. Eqs. (81) and/or (82)).
+A26, page 11 of 14
+
+A&A 529, A26 (2011)
+
+
+At the same time, from the point of view of an observer who treats the DM as collisionless, the Universe appears to be either accelerating or decelerating, depending on the value of the cos-mological redshift (cf. Eq. (67)).
+In this case, the quantity w, which, in the collisional-DM approach, parameterizes the various flows, also plays another (more interesting) role. As we have found, for wΩM 0.0714, there exists a (theoretically-determined) transition value, z˜t, of the (collisionless-DM-oriented) cosmological redshift, z˜, such that, for z˜ < z˜t, we have q˜ < 0, i.e., from the point of view of someone who adopts the (traditional) collisionless-DM ap-proach, the Universe is accelerating, without the need for any DE or the cosmological constant. Accordingly, taking into account the observational result that the transition redshift between ac-celerated and decelerated expansion is set at the value zt =
+0.46  0.13 of the truly measured quantity z, we have deter-mined the precise value of the combination wΩM, for which the collisional-DM approach to the post-recombination Universe is compatible with observations, i.e., (wΩM)t = 0.0932 0.0060. This result is in complete agreement with what is implied by Fig. 2, i.e., w 1 . In other words, compatibility of the collisional-DM treatment under study with the observational data currently available, suggests that the DM itself consists of relativistic particles (hot DM).
+In conclusion, the assumption that the DM constituents can be both collisional and relativistic, could provide a reasonable and conventional explanation for several open aspects of modern cosmology, including: (i) the extra (dark) energy needed to flat-ten the Universe, which can be compensated by the energy of the internal motions of the collisional-DM fluid; (ii) the observed dimming of the SNe Ia standard candles and the apparent accel-erated expansion of the Universe, both of which might be due to the misinterpretation of several cosmologically relevant parame-ters by those observers who, although living in a collisional-DM Universe, insist on adopting the collisionless-DM approach. The absence of any ad hoc fine-tuning in our study, makes the above (purely theoretical) results very promising.
+In spite of all the above advantages of our model, we have to point out that this is, definitely, a toy model. The collisional-DM approach, developed in this article, can (and should) be debated, at least, along the following lines:
+The collisional-DM treatment of the Universe does not al-leviate the age problem, but, rather, makes it harder. In the model given by Eq. (28), the coordinate time, t, is related to the corresponding conformal quantity (η) by
+sector consists of hot DM. For the time being, the con-ventional theory of hot DM does not appear to conform with the large-scale structure of the Universe (see, e.g., Hooper 2009), although there are recent studies that ap-pear to challenge this result (see, e.g., Farrar & Peebles 2004; Gubser & Peebles 2004). Nevertheless, a hot-DM model looks much less exotic than most of the (currently-investigated) DE scenarios.
+In any case, the assumption that the Universe matter content (ba-sically its DM component) can be collisional (in the sense that it also possesses some sort of thermodynamical content), is to be seen as a natural effort to take into account all the (so far, prac-tically, neglected) internal physical characteristics of a classical cosmological fluid as sources of the universal gravitational field. As we have shown, under this assumption, one can compen-sate for the majority of the recent observational data, inferring that Ω	1, as well as the “unexpected” dimming of the SNe Ia standard candles and the “apparent” accelerated expansion of the Universe, not to mention the compatibility with BAO’s data anal-ysis, without the need for any DE or the cosmological constant, and (certainly) without suffering from the coincidence problem. From the point of view of someone who (although living in the collisional-DM model) insists on adopting the collisionless-DM
+approach, an inflection point (in the d˜L versus z diagram) arises,
+anyway, at relatively low values of the cosmological redshift.
+Although speculative, the idea that the DE (needed to flat-ten the Universe) could be attributed to the internal motions of a collisional-DM fluid, is (at least) intriguing and should be ex-plored further and scrutinized in the search for conventional al-ternatives to the DE concept.
+
+Acknowledgements. The authors would like to thank Professors George F. R. Ellis and Manolis Plionis, together with Drs. Leandros Perivolaropoulos and Christos G. Tsagas, for their constructive critisism, many illuminating discus-sions and useful comments on an earlier version of this article, as well as on this kind of research, in general. We also thank the anonymous referee for his/her kind comments and his/her useful suggestions, which improved this paper’s final form. Finally, financial support by the Research Committe of the Technological Education Institute of Serres, under grant SAT/ME/151210-71/01, is gratefully acknowledged.
+
+Appendix A
+In this Appendix, we present the exact solution to Eq. (24) in the text and its subsequent reduction to Eq. (28). In paricular, upon consideration of Eq. (12), Eq. (24) reads
+
+
+3(1+wΩM)
+1		2 	η	1+3wΩM
+
+/
+/	/ //	/
+
+S ′ 2
+
+/
+S 2
+= H2
+S   3
+1 + 3wΩM
+S
+ln S 0 
+(A.1)
+
+Admitting that, at the present epoch (when t = t
+/	/
+and
+⎢⎡⎛⎜⎜ , S ⎞⎟′⎥⎤2
+/
+
+ H S
+ 2	 S
+
+we find that, within the context of the model given by
+Eq. (28), the age of the Universe is
+	1	
+t0 = 1 + wΩ	× 9.3 Gys,	(87)
+In an expanding Universe, Eq. (A2) is valid for every η within the past light-cone (where S < S 0) and it can be solved in terms of the error function (see, e.g., Abramowitz & Stegun 1970, p. 297) as
+
+i.e., less than 9.3 billion years. Clearly, Eq. (87) could	√π
+⎡⎢	⎜⎛ , 1 + 3wΩM ln S 0 ⎞⎟⎟	⎤⎥
+
+be a serious drawback of the spatially-flat collisional-DM
+√	e1/6wΩM ⎢er f ⎜
+	S 
+⎟ − 1⎥ =
+
+
+
+the observational data currently available (cf. Eq. (70) and/or Fig. 2), suggests that the matter content of the dark
+± (1 + 3wΩM
+) H0S 0 η. (A.3) 2
+
+A26, page 12 of 14
+
+K. Kleidis and N. K. Spyrou: A conventional approach to the dark-energy concept
+
+
+Equation (A3) becomes particularly transparent (and useful) if we restrict ourselves to the limiting case, where wΩM  1.
+For wΩM  1, the argument of the error function in Eq. (A3) becomes very large. In this case, the special function under con-sideration behaves as
+er f (ϕ) ≃ 1 −  1  1 e−ϕ2	(A.4)
+(see, e.g., Lebedev, Eq. (2.2.4), p. 19) and, therefore, Eq. (A3) results in
+References
+Abramowitz, M., & Stegun, I. 1970, Handbook of mathematical functions (New York: Dover)
+Adriani, O., Barbarino, G. C., Bazilevskaya, G. A., et al. [PAMELA Collaboration] 2009, Nature, 458, 607
+Albrecht, A., Bernstein, G., Cahn, R., et al. [The Dark Energy Task Force] 2006, Report of the DE Task Force [arXiv:astro-ph/0609591]
+Alcock, C., & Paczyn´ski, B. 1979, Nature, 281, 358
+Allen, S. W., Schmidt, R. W., Ebeling, H., Fabian, A. C., & van Speybroeck, L.
+2004, MNRAS, 353, 457
+
+S 
+	0	 = (1 + 3wΩ
+H0S 0 2
+)
+
+η2.	(A.5)
+Arkani-Hamed, N., Finkbeiner, D. P., Slatyer, T. R., & Weiner, N. 2009, Phys.
+Rev. D, 79, 015014
+Astier, P., Guy, J., Regnault, N., et al. [SNLS Collaboration] 2006, A&A, 447,
+
+1 + 3wΩM
+ln S 0	M	2
+31
+Bahcall, N., & Fan, X. 1998, ApJ, 504, 1
+
+We now take the natural logarithm on both sides of Eq. (A5), to
+obtain
+Balakin, A. B., Pavón, D., Schwarz, D. J., & Zimdahl, W. 2003, New J. Phys., 5, 85
+Barger, V., Keung, W. Y., Marfatia, D., & Shaughnessy, G. 2008, Phys. Lett. B,
+
+S 
+ln S	− ln
+ 1+wΩM ln
+ S 0 3 
+
+/
+
+= ln
+
+ (1+3wΩM)
+2  H0S 0 2
+
+/
+
+
+η2 .
+672, 141
+Basilakos, S., & Plionis, M. 2009, A&A, 507, 47
+Basilakos, S., & Plionis, M. 2010, Interactive Dark Matter as an alternative
+
+(A.6)
+Within the post-recombination era, S 0 ≤ 1090, hence ln S 0 3 ≤
+to Dark Energy, in Invisible Universe: Conference Proceedings, AIP Conf.
+Proc., 1241, 721
+Baushev, A. N. 2009, MNRAS, 398, 783
+
+
+Eq. (A6) is written in the form
+M ≪ 1, Eq. (26) holds, hence
+Bergstrom, L., Bringmann, T., & Edsjo, J. 2008, Phys. Rev. D, 78, 103520 Bertone, G., Hooper, D., & Silk, J. 2005, Phys. Rep., 405, 279
+
+  S  1+3wΩM	 H S  2
+
+/
+
+Bean, R., & Doré, O. 2003, Phys. Rev. D, 68, 023515
+/
+
+which, in view of the definition given by Eq. (29), results in
+  2 
+1+3wΩM
+Bond, J. R., & Efstathiou, G. 1987, MNRAS, 226, 655 Borriello, A., & Salucci, P. 2001, MNRAS, 323, 285
+Boughn, S., & Crittenden, R. 2004, Nature, 427, 45
+
+
+/	/
+
+that is, Eq. (28).
+
+Appendix B
+In curved space-time, the Einstein-Hilbert (EH) action, which governs the dynamical evolution of the gravitational field, gµν, within the context of GR, is given by (see, e.g., Papapetrou 1973, Eq. (33.29), p. 122)
+, √		4
+Buchert, T. 2000, Gen. Relativ. Gravit., 32, 105
+Buchert, T. 2001, Gen. Relativ. Gravit., 33, 1381
+Caldwell, R. R., & Kamionkowski, M. 2009, Ann. Rev. Nucl. Part. Sci., 59, 397
+Caldwell, R. R., Dave, R., & Steinhardt, P. J. 1998, Phys. Rev. Lett., 80, 1528 Capozziello, S., Carloni, S., & Troisi, A, 2003, Recent Res. Dev. Astron.
+Astrophys., 1, 625
+Carroll, S. M 1998, Phys. Rev. Lett., 81, 3067
+Carroll, S. M., Press, W. H., & Turner, M. S. 1992, ARA&A, 30, 499
+Carter, B. 1979, Perfect Fluid and Magnetic Field Conservation Laws in the Theory of Black-Hole Accretion Rings, in Active Galactic Nuclei, ed. C.
+/
+
+
+where g is the determinant of the metric tensor gµν, is the scalar curvature, κ = 8πG/c4, and is the trace of the energy-momentum tensor of the Universe matter-energy content. In a similar fashion, the action of the gravitational field in terms of g˜µν, i.e., after the transformation indicated in Eq. (36) is per-formed, is written in the form
+I˜ = , −g˜ R˜ + κT˜ d4x,	(B.2)
+which, upon consideration of Eqs. (36) and (39) of Kleidis & Spyrou (2000), results in
+I˜ = IEH − 12 , √−g   d4 x,	(B.3)
+where ∆F = gµνF; µν is the d’Alembert operator with respect to the original metric, gµν. It is evident that, every effort to ex-press ˜ in terms of the original gravitational field, gµν, yields the appearence of extra terms in the gravitational action, in addition to the EH one. In this way, variation of Eq. (B3) with respect to gµν does not lead to the Einstein field equations of GR (i.e., those derived from Eq. (B1)), thus (necessarily) resulting in a modified theory of gravity (in connection, see, e.g., Bruneton & Esposito-Farese 2007).
+Chandrasekhar, S. 1965, ApJ, 142, 1488
+Chang, J., Adams, J. H., Ahn, H. S., et al. [ATIC Collaboration] 2008, Nature, 456, 362
+Cholis, I., Goodenough, L., Hooper, D., Simet, M., & Weiner, N. 2009a, Phys.
+Rev. D, 80, 123511
+Cholis, I., Dobler, G., Finkbeiner, D. P., Goodenough, L., & Weiner, N. 2009b, Phys. Rev. D, 80, 123518
+Cirelli, M., & Strumia, A. 2008, Minimal Dark-Matter Predictions and the PAMELA Positron Excess [arXiv:astro-ph/0808.3867]
+Cirelli, M., Kadastik, M., Raidal, M., & Strumia, A. 2009, Nucl. Phys. B, 813, 1 Cohen, A. G., Kaplan, D. M., & Nelson, A. G. 1999, Phys. Rev. Lett., 82, 4971 Cohen, T., & Zurek, K. 2010, Phys. Rev. Lett., 104, 101301
+Colless, M., Peterson, B. A., Jackson, C., et al. [2dF Galaxy Redshift Survey Team] 2003, The 2dF galaxy redshift survey: Final data release [arXiv:astro-ph/0306581]
+Davis, T. M., Mörtsell, E., Sollerman, J., et al. [ESSENCE Supernova Survey Team] 2007, ApJ, 666, 716
+de Bernardis, P., Ade, P. A. R., Bock, J. J., et al. [BOOMERanG Collaboration] 2000, Nature, 404, 955
+Dunkley, J., et al. [WMAP Collaboration] 2008, ApJS, 180, 306 Dutta, S., & Scherrer, R. J. 2010, Phys. Rev. D, 82, 043526
+Dvali, G. R., Gabadadze, G., & Porratti, M. 2000, Phys. Lett. B, 485, 208 Eisenstein, D. J., Zehavi, I., Hogg, D. W., et al. [SDSS Collaboration] 2005, ApJ,
+633, 560
+Eisenstein, D. J., & Hu, W. 1998, ApJ, 496, 605
+Eisenstein, D. J., Seo, H.-J., & White, M. 2007, ApJ, 664, 660 Ellis, G. F. R. 2009, JPhCS, 189, 012011
+Esposito-Farese, G., & Polarski, D. 2001, Phys. Rev. D, 63, 063504
+
+A26, page 13 of 14
+
+A&A 529, A26 (2011)
+
+
+Fardon, R., Nelson, A. E., & Weiner, N. 2004, JCAP, 10, 005 Farrar, G. R., & Peebles, P. J. E. 2004, ApJ, 604, 1
+Feng, J. L., Kaplinghat, M., & Yu, H.-B. 2010, Phys. Rev. Lett., 104, 151301 Fock, V. 1959, The Theory of Space, Time and Gravitation (London: Pergamon
+Press)
+Fornasa, M., Pieri, L., Bertone, G., & Branchini, E. 2009, Phys. Rev. D, 80, 023518
+Fox, P. J., & Poppitz, E. 2009, Phys. Rev. D, 79, 083528 Freese, K., & Lewis, M. 2002, Phys. Lett. B, 540, 1
+Garnavich, P. M., Jha, S., Challis, P., et al. [High-z Supernova Search Team] 1998, ApJ, 509, 74
+Goldberg, D. M., & Strauss, M. 1998, ApJ, 495, 29 Gondolo, P., & Gelmini, G. 1991, Nucl. Phys. B, 360, 145
+Gubser, S. S., & Peebles, P. J. E. 2004, Phys. Rev. D, 70, 123510 Hamuy, M., Phillips, M. M., Suntzeff, N. B., et al. 1996, AJ, 112, 2408 Hicken, M., Wood-Vasey, M., Blondin, S., et al. 2009, ApJ, 700, 1097 Hoekstra, H., Yee, H., & Gladders, M. 2002, New Astron. Rev., 46, 767 Holtzman, J. A. 1989, ApJS, 71, 1
+Hooper, D. 2009, TASI 2008, Lectures on Dark Matter [arXiv:hep-ph/0901.4090]
+Hooper, D., Finkbeiner, D. P., & Dobler, G. 2007, Phys. Rev. D, 76, 083012 Hu, W., & Sugiyama, N. 1996, ApJ, 471, 542
+Hu, W., & Haiman, Z. 2003, Phys. Rev. D, 68, 3004
+Jaffe, A. H., et al. [BOOMERanG Collaboration] 2001, Phys. Rev. Lett., 86, 3475
+Jha, S., Kirshner, R. P., Challis, P., et al. [ESSENCE Supernova Survey Team] 2006, AJ, 131, 527
+Jungman, G., Kamionkowski, M., & Griest, K. 1996, Phys. Rep., 267, 195 Kamenshchik, A., Moschella, U., & Pasquier, V. 2001, Phys. Lett. B, 487, 7 Kane, G., Lu, R., & Watson, S. 2009, Phys. Lett. B, 681, 151
+Kashlinsky, A. 1998, Phys. Rep., 307, 67
+Kleidis, K., & Spyrou, N. K. 2000, Class. Quantum Grav., 17, 2965
+Knop, R. A., Aldering, G., Amanullah, R., et al. [Supernova Cosmology Project Group] 2003, ApJ, 598, 102
+Kolb, E. W., & Turner, M. S. 1990, The Early Universe (Menlo Park: Addison-Wesley)
+Kolb, E. W., Matarrese, S., & Riotto, A. 2006, New J. Phys., 8, 322
+Komatsu, E., Dunkley, J., Nolta, M. R., et al. [WMAP Collaboration] 2009, ApJS, 180, 330
+Kowalski, M., et al. [Supernova Cosmology Project Group] 2008, ApJ, 686, 749 Lebedev, N. N. 1972, Special Functions and Their Applications (New York:
+Dover)
+Li, M. 2004, Phys. Lett. B, 603, 1
+Lichnerowicz, A. 1967, Relativistic Hydrodynamics and Magneto-hydrodynamics (New York: W. A. Benjamin Inc.)
+Lima, J. A. S., Silva, F. E., & Santos, R. C. 2008, Class. Quantum Grav., 25, 205006
+Linder, E. V. 2008, Rep. Prog. Phys., 71, 056901
+Meiksin, A., White, M., & Peacock, J. A. 1999, MNRAS, 304, 851 Moustakas, L. A., & Metcalf, R. B. 2003, MNRAS, 339, 607
+Narlikar, J. V. 1983, Introduction to Cosmology (Boston: Jones and Bartlett Publishers Inc.)
+Netterfield, C. B., Ade, P. A. R., Bock, J. J., et al. [BOOMERanG Collaboration] 2002, ApJ, 571, 604
+Olive, K. A. 2003, TASI Lectures on Dark Matter [arXiv:astro-ph/0301505] Olive, K. A., Steigman, G., & Walker, T. P. 2000, Phys. Rep., 333, 389
+Padin, S., Cartwright, J. K., Mason, B. S., et al. [CBI Collaboration] 2001, ApJ, 549, L1
+Padmanabhan, T. 2003, Phys. Rep. 380, 235
+Papapetrou, A. 1973, Lectures on General Relativity (Dordrecht: D. Reidel Publishing Company)
+Pavón, D., & Zimdahl, W. 2005, Phys. Lett. B, 628, 206
+Peacock, J. A. 1999, Cosmological Physics (Cambridge: Cambridge University Press)
+Peacock, J. A., et al. 2006, Report of ESA – ESO Group on Fundamental Cosmology [arXiv:astro-ph/0610906]
+Peebles, P. J. E., & Yu, J. T. 1970, ApJ, 162, 815 Peccei, R. D. 2005, Phys. Rev. D, 71, 023527
+Percival, W. J., Cole, S., Eisenstein, D. J., et al. 2007, MNRAS, 381, 1053 Percival, W. J., et al. [SDSS Collaboration] 2010, MNRAS, 401, 2148 Perlmutter, S., et al. [Supernova Cosmology Project Group] 1999, ApJ, 517, 565 Perivolaropoulos, L. 2003, Phys. Rev. D, 67, 123516
+Perivolaropoulos, L. 2007, Accelerating Universe: Observational status and theoretical implications, in The Invisible Universe: Dark Matter and Dark Energy, ed. L. Papantonopoulos, Lecture Notes in Physics, 720, 257 (New York: Springer Verlag)
+Plionis, M., Terlevich, R., Basilakos, S., et al. 2009, JPhCS, 189, 2032 Regis, M., & Ullio, P. 2008, Phys. Rev. D, 78, 3505
+Riess, A. G., et al. [High-z Supernova Search Team] 1998, AJ, 116, 1009 Riess, A. G., et al. [High-z Supernova Search Team] 1999, AJ, 117, 707 Riess, A. G., et al. [High-z Supernova Search Team] 2001, ApJ, 560, 49 Riess, A. G., et al. [High-z Supernova Search Team] 2004, ApJ, 607, 665 Riess, A. G., et al. [High-z Supernova Search Team] 2007, ApJ, 659, 98
+Sahni, V. 2004, Dark matter and dark energy, in The Physics of the Early Universe, ed. L. Papantonopoulos, Lecture Notes in Physics, 653, 141 (Berlin: Springer Verlag)
+Sahni, V., & Starobinsky, A. 2000, IJMP D, 9, 373 Scherrer, R. J. 2004, Phys. Rev. Lett., 93, 011301
+Sen, A. A., & Scherrer, R. J. 2005, Phys. Rev. D, 72, 063511 Seo, H.-J., & Eisenstein, D. J. 2003, ApJ, 598, 720
+Seo, H.-J., & Eisenstein, D. J. 2005, ApJ, 633, 575 Silk, J. 1968, ApJ, 151, 459
+Spergel, D. N., & Steinhardt, P. J. 2000, Phys. Rev. Lett., 84, 3760 Spergel, D. N., et al. [WMAP Collaboration] 2003, ApJS, 148, 175 Spergel, D. N., et al. [WMAP Collaboration] 2007, ApJS, 170, 377 Spyrou, N. K. 2005, JPhCS, 8, 122
+Spyrou, N. K., & Tsagas, C. G. 2004, Class. Quantum Grav., 21, 2435 Spyrou, N. K., & Tsagas, C. G. 2010, Cent. European J. Phys., 8, 989 Srednicki, M., Watkins, R., & Olive, K. A. 1988, Nucl. Phys. B, 310, 693
+Stompor, R., Abroe, M., Ade, P., et al. [MAXIMA Collaboration] 2001, ApJ, 561, L7
+Sunyaev, R. A., & Zel’dovich, Ya. B. 1970, ApJS, 7, 3
+Synge, J. L. 1937, Proc. London Math. Soc., 43, 376 [reprinted in Gen. Relat.
+Grav., 34, 2177 (2002)]
+Tegmark, M., Eisenstein, D. J., Strauss, M. A., et al. [SDSS Collaboration] 2006, Phys. Rev. D, 74, 123507
+Tonry, J. L., et al. [High-z Supernova Search Team] 2003, ApJ, 594, 1 Tsagas, C. G., Challinor, A., & Maartens, R. 2008, Phys. Rep., 465, 61 Tyson, J. A., Kochanski, G. P., & de ll’ Antonio, I. P. 1998, ApJ, 498, L107 Verozub, L. 2008, IJMP D, 17, 337
+Wang, Y. 2006, ApJ, 647, 1
+Wang, Y., Freese, K., Gondolo, P., & Lewis, M. 2003, ApJ, 594, 25
+Wood-Vasey, W. M., et al. [ESSENCE Supernova Survey Team] 2007, ApJ, 666, 694
+York, D. G., et al. [SDSS Collaboration] 2000, AJ, 120, 1579
+Zimdahl, W., Schwarz, D. J., Balakin, A. B., & Pavón, D. 2001, Phys. Rev. D, 64, 3501
+Zurek, K. M. 2009, Phys. Rev. D, 79, 115002
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A26, page 14 of 14
+
+A dark matter hypothesis
+Giovanni Zanella
+
+Studioso senior dell’Università di Padova, Dipartimento di Fisica e Astronomia, via Marzolo 8, 35131 Padova, Italy
+
+Proceedings of the “100° Congresso Nazionale della Società Italiana di Fisica”, Pisa, 23-26 Sept. 2014, vol. 1, pag. 212
+
+Abstract
+
+It is hypothesized that dark matter (DM) can be due to the energy loss of the electromagnetic radiation, or of the massive particles, which cross the gravitational field of their cosmic sources.
+Indeed, before to be dispersed in the space, such radiations travelling against the gravitational field lose energy on long distances and this loss of energy is not recovered by an equivalent increase of mass at the source, while the energy conservation requires necessarily its restoring.
+Therefore, it is supposed the generation of a massive field, associated to the emissive activity of the cosmic sources and distributed in their gravitational field.
+This massive field is increasing during the time, being it correlated both to the history of the emissive activity of the sources themselves and to the intensity of their gravitational field.
+Hence, DM must decline at higher z-parameters of red-shift, while the presence of black holes must depress the presence of DM (core-cusp problem).
+The gravitational field produced by this hypothesized DM results in agreement with the MOND model.
+E/perimental observations of merging gala/y clusters justify this representation.
+
+Introduction
+
+A. Einstein in his paper on the equivalence mass-energy [1] supposed a body, of proper mass m, sending out simultaneously in opposite directions two plane waves of light, each of energy E/2. The body was intended at rest
+
+in the origin of a Cartesian system S, while a system S’ was introduced in uniform parallel translation with respect to S and having its origin in motion with velocity u along the /-axis of S, in the direction of increasing /.
+Hence, for the theory of the Special Relativity [2], the whole comple/ of light acquires the energy
+E' 	E	  E
+
+,	(1)
+
+being E’ measured from S’.
+In Eq.(1) c denotes the velocity of the light and γ the Lorentz’s factor, pertaining the velocity u.	Expanding  in series, we have
+
+
+  1 
+u 2
+2c 2
+3 u 4
+
+8 c 4
+ 
+
+,	(2)
+
+
+and, in the case of u<<c, we can neglect magnitudes of fourth and higher orders, obtaining
+
+E'  E 
+Eu 2
+2c 2
+
+.	(3)
+
+
+Then, for the principle of conservation of energy, independently on the internal processes of conversion, the energy increment Eu2/2c2 will be equivalent to the kinetic energy of a mass m missing from the initial mass
+m. We have necessarily
+
+
+m u 2
+2
+Eu 2
+
+2c 2
+
+.	(4)
+
+Therefore, independently on the velocity u, we obtain
+
+
+m c 2  E
+.	(5)
+
+
+At the same manner, we can consider the body emitting simultaneously in opposite directions two massive fragments travelling at velocity k. Thus, indicating with Ek the kinetic energy of the fragments in the reference S, such energy measured in the reference S’, in analogy with Eq.(5), becomes
+
+m c 2  E
+,	(6)
+
+
+where the mass mk is missing from the proper mass of the body being it converted in the kinetic energy Ek.
+
+Gravitational interaction of light particles
+
+In the case of a relativistic particle, such as a photon or a light massive particle of energy E and traveling with velocity v= c in the gravitational field of a very heavy body of mass M, the force acting on the particle at the distance r, measured from the center of M (Fig.1), has the form [3]
+
+
+GM
+→  
+E
+c 2 →
+
+2	→ → → 
+,	(7)
+
+
+/
+Fg		r (1   ) (r ) r 3
+
+where G is Newton’s constant .
+→	→
+When β  1 and  is directed along the radius r , Eq.(7) coincides with the
+
+classical expression
+
+E
+→	GM  2
+
+Fg  		r r3
+
+
+.	(8)
+
+
+Dark matter hypothesis
+
+If we look, at the distance r, the emitting complex of mass M (Fig.1), the particles emitted from the body, which have reached this distance, have interacted gravitationally loosing energy along the radius r. Therefore, the final decrement m’ of the mass M will be lower than the initial decrement
+m, so it is inevitable, due the energy conservation, that the loss of the energy of the particles be contextually restored by an equivalent mass that we can attribute to a massive field attached to the gravitational field. This massive field, eventually quantized in WIMPs, can be a candidate for the elusive dark matter (DM).
+The properties of DM so generated necessarily will be:
+The density of DM halos goes with the inverse of the squared distance from the center of the generating mass, so a consequent gravitational force, proportional to the inverse of the distance, appears in agreement with MoND model;
+
+The intensity of DM halos increases with the intensity of the source;
+The DM halos depend from the emissive history of the emitting sources.
+The mass of the DM halos declines at higher redshifts;
+Most massive DM halos must have lowest fraction of stellar mass.
+Black holes oppose to DM halos.
+
+MoND agreement
+Modified Newtonian Dynamics (MoND) is a theory that proposes a modification of Newton's law of gravity to explain the galaxy rotation problem [4]. Stars are observed to revolve around the centre of the galaxy at almost the same speed v over a large range of distances r from the centre of the galaxy. Therefore, being the centripetal force
+
+
+v 2
+F 
+r	,	(9)
+the gravitational force F must be proportional to 1/r to maintain invariant v. Therefore, if we look to our hypothesis of DM generation, the mass dm of the DM contained in a spherical shell, thick dm and concentric to the generating mass, will be
+
+
+dm 
+4 r 2
+r 2
+dr  const
+
+.	(10)
+
+In conclusion, the gravitational force produced at the distance r, both by the generating mass M and by DM, will be at the distance r
+
+F M  r const  M  const
+
+r 2	r 2
+r 2	r
+.	(11)
+
+So, when the gravitation of M declines, the gravitation of the DM halo maintains invariant v.
+But, a criticism of MoND involves the systems of colliding galaxy clusters [5]. Indeed, DM-like effects in these colliding galactic cluster systems appear to emanate from different points in space than the center of mass of the visible matter in the system, which is easy to discern due to the high-energy collisions of the gas and dust in the vicinity of the clusters themselves.
+
+Vice versa, according to our hypothesis, DM remains attached to the gravitational field of the galaxy clusters, depending on their emissive history, while gas and dust clouds, initially anchored to merging clusters, colliding slow down and shift from the gravitational field of the clusters themselves, so increasing DM. But, differently of the MoND model, these clouds of residual gas and dust, being of recent formation in comparison to the galaxy clusters history, cannot be source of DM halos.
+
+Other confirms
+
+Our hypothesis is also in accord with other astronomical measurements, and observations. Indeed:
+The luminosity of the galaxies appears correlated with the intensity of their dark halo, in such a manner that the brightest appear the most DM dominated [6].
+The relation between stellar to DM halo mass is that the most massive halos have the lowest fraction of stellar mass [7]. In other words, the increase of the stellar masses opposes to the emission of light and of massive particles depressing the DM halo, so that very big masses (black holes) do not generate DM.
+DM density within galaxies declines at higher redshifts [7].
+	Cosmological simulations of galaxy formation have led to a cusp-density profile toward the center of the DM halo, which is in sharp contradiction with the observations of the rotations curves of disk galaxies, tending to favor mass profile with a flat central core [8]. This is the so-called cusp-core problem, which can be solved if we suppose in the center of the galaxies (as inferred) a supermassive black hole.
+
+References
+Einstein A 1905 Zur electrodynamik bewegter corper Ann. Phys. 17, 891-921.
+Einstein A 1905 Ist die Trägheit eines Körpers von seinem Energiehalt abhängig? Ann. Phys. 18, 639-641.
+Okun LB 1989 The concept of mass Phys. Today, June, 31-36.
+Milgrom M 1983 A modification of the Newtonian dynamics as a possible alternative to the hidden mass hypothesis Astroph. J. 270, 365–370.
+http://hubblesite.org/newscenter/archive/releases/2012/10/image/a/
+/
+
+Napolitano N R, Capaccioli M, Romanowsky A J, et al. 2004 Mass-to-light ratio gradients in early-type gala/y halos http://arxiv.org/abs/astro-ph/0411639
+http://chalonge.obspm.fr/CIAS11_Conselice.pdf
+Li N, Chen DM 2009 Cusp-core problem and strong gravitational lensing Res. in Astron. Astrophys. 9, 11, 1173-1184.
+
+
+
+
+
+
+
+
+E’
+
+E’
+E
+M
+r	Gravitational force
+
+
+E	E	E
+
+/
+Emission direction
+E’
+
+
+
+
+
+Fig.1. Loss of luminous and kinetic energy from the particles emitted in the gravitational field of a mass M (E’<E) and consequent generation of DM (see text).
+
+A Discrete Universal Medium: An Alternative Ontological Framework for Matter, Energy, Fields, and Gravitation
+Author: Hikmat Alakbarov Hasan
+Affiliation: Independent Researcher
+Keywords: ontology of physics, discrete medium, field theory, quantum foundations, determinism, process ontology, gravitation, electromagnetic propagation
+
+Abstract
+This paper proposes an alternative ontological model for the fundamental structure of physical reality. Contrary to the standard view in modern physics, which treats “vacuum” as an empty background or as the lowest-energy state of quantum fields, the present model asserts that true emptiness does not exist. Instead, all space is filled with a discrete universal medium composed of elementary process units that interact through field-like synchronizing mechanisms. Within this framework, matter, energy, fields, particles, light, and gravitation emerge as different manifestations of processes occurring within this medium. The model is deterministic,
+process-based, and eliminates the conceptual dualism between particles and fields. The paper formulates the axioms of the model, derives its conceptual consequences, and outlines its potential to resolve several paradoxes in quantum mechanics and field theory.
+
+Introduction
+Modern physics describes nature through two major frameworks: quantum field theory (QFT) and general relativity (GR). QFT treats fields as fundamental and particles as quantized excitations of these fields, while GR interprets gravitation as curvature of space time. Despite their empirical success, these frameworks face conceptual challenges:
+
+the ontological status of the vacuum,
+the duality between particles and waves,
+the measurement problem in quantum mechanics,
+the nonlocal correlations observed in entanglement,
+the incompatibility between GR and QFT at fundamental scales.
+
+This paper introduces a unified ontological model that reinterprets these issues through a single assumption: there is no empty space. Instead, the universe is permeated by a discrete, dynamic, elastic medium whose internal processes give rise to all observable physical phenomena.
+
+This approach is not a revival of classical aether theories. The proposed medium is not static, continuous, or mechanically rigid. It is a process-based, dynamic substrate whose behavior is governed by local interactions and deterministic evolution.
+
+/
+Axiomatic Foundations of the Model
+The model is built on six fundamental axioms.
+
+Axiom 1. Existence of a Universal Medium
+What is commonly called “vacuum” is not empty. It consists of discrete elementary processes that fill all space.
+
+Axiom 2. Discreteness
+The medium is composed of minimal process units. These units are not particles in the classical sense but localized, quantized processes.
+
+Axiom 3. Field-Like Interaction
+Elementary processes interact through synchronizing mechanisms analogous to fields. A field is not a separate entity but a process that coordinates the behavior of the medium.
+
+Axiom 4. Determinism
+There is no fundamental randomness. At every moment, each process evolves according to the strongest local influence. Apparent probabilistic behavior arises from incomplete knowledge of the medium’s full state.
+
+Axiom 5. Matter and Energy
+Matter is a stable, harmonious configuration of processes within the medium. Energy is the intensity of these processes.
+
+Axiom 6. Gravitation
+Gravitation results from variations in the density and tension of the medium. It is not a force or curvature of spacetime but a structural property of the medium.
+
+Redefining Fundamental Physical Concepts
+Matter
+Matter is not a substance separate from space. It is a stable, self-sustaining pattern within the universal medium. Its properties arise from the way local processes resonate with the surrounding medium.
+
+Energy
+
+Energy is the degree of activity or intensity of a process. It is not an independent entity but a measure of how strongly a process influences the medium.
+
+Fields
+A field is a synchronization process that coordinates the behavior of elementary units in the medium. Fields are not ontologically distinct from matter; they are modes of interaction within the same substrate.
+
+Elementary Particles
+Particles are the smallest stable process units of the medium. They are not point-like objects but localized patterns of activity.
+
+Light
+Light is the propagation of a process through the medium, not the movement of a particle. A photon is not an object traveling through space but a sequence of changes transmitted across the medium.
+
+Gravitation
+Gravitation emerges from gradients in the medium’s density and tension. Objects follow paths determined by these gradients, producing effects analogous to gravitational attraction.
+
+Physical Consequences of the Model
+Absence of Photon Trajectories
+Since light is a process, not a particle, it does not follow a classical trajectory. This naturally explains the wave-particle duality and the behavior observed in double-slit experiments.
+
+Medium-Dependent Speed of Light
+The speed of light depends on the density and elasticity of the medium. This aligns with observed variations in refractive index and propagation speed in different materials.
+
+Deterministic Explanation of Quantum Probabilities
+Quantum probabilities arise from incomplete knowledge of the medium’s full state. The underlying dynamics are deterministic.
+
+Interference and Observer Effects
+Measurement alters the local configuration of the medium, which in turn modifies interference patterns. This provides a physical explanation for the observer effect without invoking wavefunction collapse.
+
+Unified View of Forces
+All forces are manifestations of the medium’s internal dynamics. Electromagnetism, gravitation, and possibly other interactions emerge from different modes of process synchronization.
+
+Comparison with Existing Theories
+Quantum Field Theory
+QFT treats fields as fundamental; this model treats fields as emergent processes.
+QFT allows vacuum fluctuations; this model denies the existence of vacuum as emptiness.
+QFT is probabilistic; this model is deterministic.
+
+General Relativity
+GR interprets gravitation as spacetime curvature; this model interprets it as medium tension.
+GR has no underlying substrate; this model posits a discrete substrate.
+
+Classical Aether Theories
+The proposed medium is not a classical aether:
+
+it is discrete, not continuous,
+dynamic, not static,
+process-based, not material,
+compatible with relativistic invariance (to be developed in future work).
+
+Future Directions
+To develop this model into a full physical theory, several steps are required:
+
+Mathematical formulation of the medium’s discrete dynamics.
+Elasticity equations describing density and tension variations.
+Propagation equations for process transmission (light).
+Deterministic analogues of quantum behavior.
+Testable predictions that distinguish this model from QFT and GR.
+
+Conclusion
+This paper presents a unified ontological framework in which matter, energy, fields, particles, light, and gravitation are all manifestations of processes occurring within a discrete universal medium. By eliminating the concept of empty space and grounding all physical phenomena in
+
+the dynamics of this medium, the model offers a coherent and deterministic alternative to the standard interpretations of modern physics. It provides conceptual clarity, resolves several foundational paradoxes, and opens new directions for theoretical and experimental exploration.
+
+
+
+A Structural Unification of Quantum Field Theory and General Relativity
+Jeremy Rodgers December 9, 2025
+
+Context and Position in the Framework
+This paper constitutes the sixth foundational pillar in a unified operator-theoretic, geometric, and structural program for physical law.
+The first pillar, The Tier–0 Framework and the Everything Equation: A Universal Recursion Law for Physics, Mathematics, and Information (DOI: 10.5281/zenodo.17813117), established the generative recursion identity
+L = Ω ∆ ∂(L),
+providing the foundational operator that produces admissible lawhood.
+The second pillar, A Complete Operator-Theoretic Resolution of the Quantum Measurement Problem (DOI: 10.5281/zenodo.17823241), demonstrated that quantum collapse, outcome unique-ness, and observer-independence arise as necessary consequences of Tier–0 operator closure and spectral stability.
+The third pillar, The Law of Endogenous Constraint: The Selection and Stabilization Principle Underlying All Physical Law (DOI: 10.5281/zenodo.17823404), identified the intrinsic constraint surface on which all lawful systems must live, establishing the topological balance condition χ(L) = 8.
+The fourth pillar, The Kappa Law: Geometric Rigidity and the Stability of Physical Law in Law–Space (DOI: 10.5281/zenodo.17851714), proved that law-space admits a Ricci-type contraction flow with exponential rigidity, ensuring the uniqueness and dynamical stability of admissible physical laws.
+The fifth pillar, The Tier–Ω Monad: Trans-Recursive Completion of the Everything Equation for Physical Law (DOI: 10.5281/zenodo.17859631), established that admissible laws must satisfy monadic bidual closure, identifying the terminal object in the recursive hierarchy and proving that algebraic modular flow and geometric renormalization flow are equivalent.
+With generative recursion, measurement, constraint, rigidity, and bidual closure now established, the remaining open structural problem concerns the consistent unification of quantum field theory and spacetime geometry. Historically, quantum field theory and general relativity rest on incompatible assumptions about locality, vacuum structure, renormalization, and scaling. Attempts at unification ordinarily require new degrees of freedom, higher-derivative operators, or dimensional extensions that destabilize the vacuum or violate established low-energy limits.
+The present work resolves this final structural gap by showing that a single dimension-one scalar field χ, interpreted as the local deviation from the Tier–Ω monadic fixed point, provides the unique
+
+mediator that satisfies all classical and quantum consistency requirements simultaneously. We prove that:
+general relativity and flat-space quantum field theory are recovered exactly as χ → 0,
+the effective cosmological constant vanishes identically at the physical vacuum,
+the Born rule and its L2 Hilbert-space structure remain rigid under renormalization in curved backgrounds,
+the non-Abelian Yang–Mills mass gap persists in the full interacting theory,
+and the unified action is closed under renormalization and admits no further local extensions without violating stability or observational limits.
+
+This paper therefore occupies the natural position of the unification pillar in the overarching Tier–0 program. It demonstrates that the operator-theoretic, geometric, and probabilistic structures established in the preceding works converge into a single, renormalization-stable, non-extendable effective action that unifies the quantum and gravitational sectors without introducing higher-curvature terms, extra dimensions, or vacuum fine-tuning.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2025 Jeremy Rodgers. This preprint is released under CC BY-NC-ND 4.0 unless otherwise stated.
+
+Abstract
+We present a dynamically unified framework for quantum field theory and general relativity based on a single scalar structural mediator χ that regulates the effective gravitational coupling and enforces consistency between probabilistic and geometric regimes. The unified action is local, covariant, and second order in derivatives. It reproduces exact Einstein gravity in the χ  0 limit and exact flat–space quantum field theory in the gµν  ηµν limit, with no higher–curvature operators, extra dimensions, or vacuum fine–tuning.
+A non–minimal curvature coupling ξRχ2R dynamically controls the gravitational interaction, while a uniquely admissible quartic potential enforces a structurally stable vacuum. At the classical level, the effective cosmological constant vanishes identically at the physical vacuum χ0 = 0. At the quantum level, an exact bidual spectral projection forbids vacuum counterterms in the renormalized effective action, enforcing Λeff = 0 to all orders in perturbation theory as a derived structural invariant.
+The probabilistic sector is simultaneously fixed by Born–exponent rigidity: the L2 Hilbert–Schmidt geometry is shown to be the unique renormalization–stable probability metric, and non–quadratic probability laws are dynamically excluded. The non–Abelian gauge sector reduces exactly to ordinary four–dimensional Yang–Mills theory at the fixed point, and the unconditional spectral mass gap is preserved under full coupling to the χ sector, ensuring infrared confinement stability.
+The scalar mediator propagates as an exactly massless field in flat spacetime and acquires only curvature–induced effective mass in weakly curved backgrounds. No fifth forces, equivalence–principle violations, or scalar gravitational radiation modes arise. Gravitational waves propagate identically to general relativity, and all cosmological perturbation constraints are preserved at linear order. The resulting theory defines a closed, renormalization–stable, and

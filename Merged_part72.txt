@@ -1,0 +1,774 @@
+nevertheless review some of the key concepts and results in compact 3d geometries in this appendix. A clear and thorough treatment of the topic can be found in [44, 45, 46, 47]. Let us begin with a few definitions (in this appendix we employ the abstract index notation as in [48]). We are interested in “geometries” in
+the sense of a pair, ((4)M˜ , g˜ab), where (4)M˜ is a non-compact simply connected Lorentzian
+manifold, and g˜ab its metric, or universal cover, a solution of the Einstein equations. This geometry needs to be reduced to a 3d Riemannian one that we call (M˜ , h˜(t)ab), at each given time (for the purpose of engineering a compact 3d slice of the 4d manifold the time lapse and shift functions can not depend on the spatial coordinates, but only on time itself), whose compact subgeometries can be studied. Here the term “subgeometry” refers to the fact that a geometry (X, hab) can always be thought of as a pair (X, H) where H is some symmetry group, and the corresponding H-invariant metric can be always constructed:
+
+therefore a pair (X, Q) with Q ⊂ H is a subgeometry of (X, H), and the same applies to the corresponding manifold-metric pairs. In this example H would be the group of the isometries of the metric hab.
+In order to make the 3d manifold compact, and find the corresponding metric, we need
+to know the group of isometries of (M˜ , h˜ab), which we denote IsomM˜ (in fact, we need
+the subgroup of IsomM˜ which is orientation-preserving and extendible). Once this group
+is identified we make (M˜ , h˜ab) compact by taking its quotient with a discrete subgroup of IsomM˜ , which we name Γ. This group is basically the group of the identifications that wrap and glue the manifold to make it compact, and it is referred to as the covering transformations group. Therefore, the resulting compact 3d geometry (M, hab) is metrically diffeomorphic to (M˜ , h˜ab)/Γ. At this point one can jump back to 4d and naturally extend the covering group Γ to the Lorentzian geometry ((4)M˜ , g˜ab): the resulting compact 4d spacetime ((4)M, gab) will inherit the metric from the universal cover g˜ab, and if that is homogeneous, so will the compact space metric gab be.
+Notice that thinking of a compact space as of M˜ /Γ automatically separates the degrees of freedom of M to those of Γ. The latter admits a group of smooth deformations (for instance, stretching or skewing a parallelepiped in 2d) which are known as the Teichmu¨ller deformations, which form a group and are parametrised by the Teichmu¨ller parameters. Therefore, the Teichmu¨ller parameters know about the global structure of the manifold while preserving all local quantities, whereas the local coordinate parameters are insensitive to the global structure. In general there will be degrees of freedom associated with the Teichmu¨ller parameters, and they may have some dynamical roˆle, which for simplicity we neglect in our report. The complete classification of the possible compact topologies and their Teichmu¨ller parameters is given in [45, 46, 47].
+With all the definitions at hand, we can present a specific example for the simplest compact manifold in a flat (i.e., Euclidean) 3d space, that is, the three-torus T 3.	In general this type of compactification is admitted in the context of the Bianchi I or Bianchi VII(0) geometries only. These geometries of course admit also other more complicated orientable compactifications, e.g., T 3/Z2 or T 3/Z3 etc., each of which will come with its own Teichmu¨ller space. For concreteness, we stick to a non-twisted T 3 on Bianchi I geometry.
+The aim is to find the most general metric which contains all the information about the dynamical local variables and the global deformations of the manifold. Schematically, the process goes as follows. First of all, we identify the 4d universal cover, that is, we
+specify g˜ab from which we immediately derive the 3d slice (E3, h˜ab). This is going to be a
+particular solution of the Bianchi I type, which for instance, once a coordinate basis has been chosen, is given by
+ds2 = dt2 — a(t)2 dx2 — b(t)2 dy2 — c(t)2 dz2 ,	(B.1)
+with three, in general unequal, scale factors.
+At this point one can choose a specific 3-torus T 3 by giving its fundamental domain. The resulting geometry will therefore be (T 3, Hab) where Hab is the metric inherited from the universal cover h˜ab (in fact, it is the same). However this is not yet what we want, as the degrees of freedom corresponding to the Teichmu¨ller deformations are hidden in
+
+the definition of the compact manifold, that is, in its covering group. It is however always possible to transfer the information about the global structure of the manifold to the metric. This can be achieved by pulling back the pair (T 3, Hab) to (T 3, hab), where now T 3 is the
+g	0	0
+reference 3-torus (the unit cube), and hab contains all the global and local geometrical information.
+In order to calculate the metric hab we need the pullback from the torus T 3 to the
+reference T 3 one, which can be written explicitly in terms of the generators of the group of the isometries defining the covering group, which in this case are three dimensional rotations and translations, parametrised by the three three-vectors g1, g2, and g3. Precisely how this is done is detailed in [45, 46, 47], and we only repeat their results here. In the Bianchi I case given in (B.1) the result would be
+hij = a(t)2g1g1 + b2(t)g2g2 + c(t)2g3g3 .	(B.2)
+i j	i j	i j
+It is easy at this point to make the connection with the Teichmu¨ller parameters. Indeed, every metric on the reference torus T 3 can always be parametrised in terms of the Euclidean metric suitably deformed by the Teichmu¨ller group. This is to say, we can always describe
+
+(T 3, hab) in terms of (T 3	, ηab), where ηab is the Euclidean 3d metric and T 3
+is the
+
+0	Teich	Teich
+deformed torus. The advantage of using the Teichmu¨ller parameters comes from their easy geometrical interpretation in terms of global distortions of a compact manifold, and that this scheme can be implemented for each and every possible compact space of a general homogeneous (although not necessarily isotropic) metric.
+The specific shape of these distortions is thus going to be parametrised by the Te-ichmu¨ller parameters, that for the 3-torus can be thought of as three-vectors identifying the axes of the manifold. Of course we do not need nine parameters to describe the man-ifold, as we can always choose the first vector to lie on the, say, x-axis, and the second vector to span the xy-plane. In this case the most general deformation can be obtained by the following generators
+ a1 	 a1 	 a1 
+a =	0	, a =	a2	, a =	a2	,	(B.3)
+
+acting on the standard Euclidean metric dl2 = dx¯2, where ds2 = dt2 — dl2. The overall volume of the manifold is not fixed, therefore there are six degrees of freedom in the Teichmu¨ller space. The resulting metric is of course
+ (a1)2	a1a1	a1a1	
+h	=	a1a1	(a )2	a1a1 + a2a2	.	(B.4)
+The time-dependence of the Teichmu¨ller parameters can be read off by comparing the two metrics (B.2) and (B.4). Of course in simple cases such as the one just worked out, it is straightforward (and intuitive) to separate the time dependence from what one calls Teichmu¨ller parameters, in such a way that the metric hij shows explicitly the separation in local (time-dependent) and global quantities.
+
+As a final example, and because it is relevant for our discussion in the main text, we shall specialise further to the usual isotropic FLRW universe, setting equal the three scale factors a(t) = b(t) = c(t). If we moreover demand that the angles of the fundamental domain are all right, this leaves only diagonal Teichmu¨ller parameters. The most general 3d metric for this universe is given by
+dl2 = a(t)2 (a1)2 dx2 + (a2)2 dy2 + (a3)2 dz2  ,	(B.5)
+
+where we have explicitly factored out the scale factor. This compact Bianchi I universe has a common expansion rate, but different physical sizes in the three directions of space, and therefore will not support an isotropic perfect fluid but rather will have a direction dependent equation of state [49, 50]. This means that our parametrisation of the equation of state (5.3) is incomplete, and that in general more freedom is allowed when the universe is compact. In the most general case there will also be off-diagonal terms describing skew toruses, which will carry even more parameters in the attempt to describe the system.
+A final comment on the relevance of the global parameters in the real world. First, as it has just been explained, these parameters may impose some restrictions on the specific form of the energy-momentum tensor that one can employ; second, as it is well known a QFT on a compact manifold is not the same as on a non-compact one, and it is in general sensitive to the specific structure of the compact manifold through the boundary conditions imposed on the quantum fields. We have given in [6] a concrete example on how the physics can be radically different when one quantises on a finite manifold rather than on infinite spacetime, where corrections even linear in the size of the fundamental compact domain may arise in physical quantities such as the topological susceptibility of the vacuum and the value of the chiral condensate. The same phenomenon is expected in Minkowski 4d [1], and we have provided several arguments in this work in support of the idea that even an expanding universe will exhibit the very same properties.
+
+References
+F. R. Urban and A. R. Zhitnitsky, arXiv:0906.2162 [gr-qc].
+E. C. Thomas, F. R. Urban and A. R. Zhitnitsky, JHEP 0908, 043 (2009) [arXiv:0904.3779 [gr-qc]].
+A. G. Riess et al. [Supernova Search Team Collaboration], Astron. J. 116, 1009 (1998) [arXiv:astro-ph/9805201].
+S. Perlmutter et al. [Supernova Cosmology Project Collaboration], Astrophys. J. 517, 565 (1999) [arXiv:astro-ph/9812133].
+E. Komatsu et al. [WMAP Collaboration], Astrophys. J. Suppl. 180, 330 (2009) [arXiv:0803.0547 [astro-ph]].
+F. R. Urban and A. R. Zhitnitsky, Phys. Rev. D 80, 063001 (2009) [arXiv:0906.2165 [hep-th]].
+F. R. Urban and A. R. Zhitnitsky, JCAP 0909, 018 (2009) [arXiv:0906.3546 [astro-ph.CO]].
+G. Veneziano, Nucl. Phys. B 159, 213 (1979).
+
+Y. B. Zeldovich, JETP Lett. 6, 316 (1967) [Pisma Zh. Eksp. Teor. Fiz. 6, 883 (1967)].
+J. Bjorken, arXiv:hep-th/0111196.
+R. Schutzhold, Phys. Rev. Lett. 89, 081302 (2002).
+J. D. Bjorken, arXiv:astro-ph/0404233.
+F. R. Klinkhamer and G. E. Volovik, Phys. Rev. D 77, 085015 (2008) [arXiv:0711.3170 [gr-qc]].
+F. R. Klinkhamer and G. E. Volovik, Phys. Rev. D 78, 063528 (2008) [arXiv:0806.2805 [gr-qc]].
+F. R. Klinkhamer and G. E. Volovik, Phys. Rev. D 79, 063527 (2009) [arXiv:0811.4347 [gr-qc]].
+E. Witten, Nucl. Phys. B 156, 269 (1979).
+P. Di Vecchia and G. Veneziano, Nucl. Phys. B 171, 253 (1980).
+J. B. Kogut and L. Susskind, Phys. Rev. D 11, 3594 (1975).
+C. Rosenzweig, J. Schechter and C. G. Trahern, Phys. Rev. D 21, 3388 (1980).
+S. Gupta, Proc. Phys. Soc. A 63, 681, (1950).
+K. Bleuler, Helv. Phys. Acta 23, 567 (1950).
+G. M. Shore, Lect. Notes Phys. 737, 235 (2008) [arXiv:hep-ph/0701171].
+N. D. Birrell and P. C. W. Davies, Quantum Fields In Curved Space, Cambridge Univ. Pr. , 1982.
+B. S. DeWitt, Phys. Rep. C 19, 295 (1975).
+G. W. Semenoff and A. R. Zhitnitsky, in preparation.
+L.D.Landau and E.M.Lifshtz, Quantum Mechanics, volume 3, Butterworth-Heinemann, 1977.
+E. J. Copeland, M. Sami and S. Tsujikawa, Int. J. Mod. Phys. D 15, 1753 (2006) [arXiv:hep-th/0603057].
+J. Frieman, M. Turner and D. Huterer, Ann. Rev. Astron. Astrophys. 46, 385 (2008) [arXiv:0803.0982 [astro-ph]].
+D. Diakonov and M. I. Eides, Sov. Phys. JETP 54, 232 (1981) [Zh. Eksp. Teor. Fiz. 81, 434
+(1981)].
+J. S. Dowker and R. Critchley, Phys. Rev. D 13, 3224 (1976).
+B. Allen and T. Jacobson, Commun. Math. Phys. 103, 669 (1986).
+N. C. Tsamis and R. P. Woodard, J. Math. Phys. 48, 052306 (2007) [arXiv:gr-qc/0608069].
+A. R. Liddle and D. H. Lyth, Cosmological inflation and large-scale structure, Cambridge Univ. Pr. , 2000
+R. H. Brandenberger, arXiv:0902.4731 [hep-th].
+B. A. Bassett, P. S. Corasaniti and M. Kunz, Astrophys. J. 617, L1 (2004) [arXiv:astro-ph/0407364].
+
+D. Stern, R. Jimenez, L. Verde, M. Kamionkowski and S. A. Stanford, arXiv:0907.3149 [astro-ph.CO].
+D. Hooper and S. Dodelson, Astropart. Phys. 27, 113 (2007) [arXiv:astro-ph/0512232].
+S. Basilakos and L. Perivolaropoulos, Mon. Not. Roy. Astron. Soc. 391, 411 (2008) [arXiv:0805.0875 [astro-ph]].
+J. Q. Xia and M. Viel, JCAP 0904, 002 (2009) [arXiv:0901.0605 [astro-ph.CO]].
+S. Basilakos, M. PLionis and J. Sola, arXiv:0907.4555 [astro-ph.CO].
+J. B. Jimenez and A. L. Maroto, JCAP 0903, 016 (2009) [arXiv:0811.0566 [astro-ph]].
+J. B. Jimenez and A. L. Maroto, arXiv:0903.4672 [astro-ph.CO].
+J. M. Cline, S. Jeon and G. D. Moore, Phys. Rev. D 70, 043543 (2004).
+J. J. Levin, Phys. Rept. 365, 251 (2002) [arXiv:gr-qc/0108043].
+T. Koike, M. Tanimoto and A. Hosoya, J. Math. Phys. 35, 4855 (1994) [arXiv:gr-qc/9405052].
+M. Tanimoto, T. Koike and A. Hosoya, J. Math. Phys. 38, 350 (1997) [arXiv:gr-qc/9604056].
+M. Tanimoto, T. Koike and A. Hosoya, J. Math. Phys. 38, 6560 (1997) [arXiv:gr-qc/9705052].
+R. M. Wald, Chicago, Usa: Univ. Pr. ( 1984) 491p
+T. Koivisto and D. F. Mota, Astrophys. J. 679, 1 (2008) [arXiv:0707.0279 [astro-ph]].
+T. Koivisto and D. F. Mota, JCAP 0806, 018 (2008) [arXiv:0801.3676 [astro-ph]].
+A. Zhitnitsky, Phys. Rev. D 74, 043515 (2006) [arXiv:astro-ph/0603064].
+M. M. Forbes and A. R. Zhitnitsky, Phys. Rev. D 78, 083505 (2008) [arXiv:0802.3830 [astro-ph]].
+E. Witten, Phys. Rev. D 30, 272 (1984).
+D. H. Oaknin and A. Zhitnitsky, Phys. Rev. D 71, 023519 (2005) [arXiv:hep-ph/0309086].
+
+Volume-3-Issue-8-August,2025	International Journal of Modern Science and Research Technology
+ISSN- 2584-2706
+
+The Timeless Energy Principle as a Ground for Cosmological Unification
+
+Kunal Kishor Verma
+
+
+Abstract
+The Timeless Energy Principle (TEP) presents a radical departure from conventional paradigms in physics and metaphysics, proposing a unified framework that integrates the domains of quantum mechanics, general relativity, cosmology, and philosophical ontology. At its core, the TEP postulates the existence of a primordial, pre-temporal energy field—an energetic substratum that exists independently of time, space, or causality. In contrast to traditional models that assume spacetime as fundamental, the TEP views time and space as emergent properties born from the inherent instability of this timeless energy domain.
+The TEP framework offers a compelling response to one of the most profound and ancient philosophical inquiries: 'Why is there something rather than nothing?' Rather than treating this as a metaphysical abstraction, the TEP embeds this question into a mathematical structure—the Existence Instability Equation (Ξ)—which encapsulates how ontological void (Ω → 0) is intrinsically unstable due to energetic fluctuations. This instability drives a spontaneous phase transition from non-being to being, from an ontological vacuum to a structured cosmos. Such a transformation challenges the classical notion of causality, emphasizing that the origin of the
+
+universe does not require a cause in time but results from the structural
+necessity of energy’s inability to remain in a void state.
+Mathematically, the Existence Instability Equation  (Ξ)  is  expressed  as: Ξ = lim(Ω→0) [∇E_TEP × (δΦ/δt) + S(Ψ)]
+Here, ∇E_TEP represents the gradient of the timeless energy field, δΦ/δt is the field evolution with respect to emergent temporal flow, and S(Ψ) signifies entropy derived from quantum uncertainty. As the parameter Ω tends toward zero, representing pure void, the instability encapsulated in this equation becomes maximal, instigating the genesis of spacetime and matter.
+This paradigm asserts that the observable universe—including time’s arrow, spatial extension, gravitational fields, quantum superpositions, and even information dynamics—arises as a stabilized echo of a deeper energetic disturbance. It replaces the singularity and inflationary models with a continuous, self-generating process rooted in timeless fluctuation. Moreover, it provides a bridge across the conceptual divide separating general relativity’s geometric interpretation of gravity and quantum mechanics’ probabilistic nature. Both are seen as contextual projections of the deeper, pre-geometric TEP field.
+The TEP model aligns conceptually with process philosophy, Nagarjuna’s Madhyamaka, Whitehead’s notion of becoming, and Heidegger’s ontological distinction between being and time. In all
+
+Volume-3-Issue-8-August,2025	International Journal of Modern Science and Research Technology
+ISSN- 2584-2706
+
+
+these traditions, reality is not static or predetermined but unfolds through processes of emergence and differentiation. The TEP model offers a modern,	mathematically-supported formulation of these philosophical intuitions.
+This paper articulates the principles of TEP through a series of rigorous equations, dimensional emergence flowcharts, and theoretical constructs. These elements work together to show how the instability of the void, encoded through Ξ, becomes the mechanism by which the cosmos arises. The result is a cohesive and elegant alternative to current theories, offering not only a scientific explanation for cosmogenesis but also a philosophical foundation for understanding the universe as a layered, evolving manifestation of timeless energy.
+Thus, the TEP framework stands as a candidate for a Grand Unified Theory—not merely of physics but of existence itself—integrating the empirical and the metaphysical into a singular narrative rooted in the instability of nothingness. It suggests that the reason for existence lies not in arbitrary initial conditions or divine intervention but in the natural dynamics of energetic necessity. The universe, in this light, exists because it could not exist.
+
+Introduction
+The origins of the universe, the nature of time, and the underlying source of all physical phenomena have occupied a central position in both scientific and philosophical discourse. Despite the remarkable success of modern physics in explaining the observable cosmos through Quantum Mechanics (QM) and General Relativity (GR), a profound conceptual schism persists between the
+two theories. QM excels in the probabilistic domain of subatomic particles, while GR governs the deterministic geometry of space time on cosmological scales. Attempts to reconcile them—through theories such as quantum gravity, string theory, and loop quantum gravity—have not yet led to a universally accepted framework.
+The Timeless Energy Principle (TEP) is introduced herein as a bold new framework that endeavors to bridge this chasm, not by modifying existing models, but by rethinking the very foundations of existence. TEP posits that energy, not time or space, is the fundamental essence of reality. This energy is timeless, unbound by causality, and ontologically prior to the emergence of all known physical structures.
+TEP proposes that the universe did not emerge in time, but rather that time itself emerged from a primordial energetic substrate. This premise diverges significantly from conventional Big Bang cosmology and challenges the idea that space time is the necessary backdrop for physical processes. Instead, it offers a more metaphysical and ontologically grounded foundation, rooted in the instability of non-being — suggesting that "nothingness" is inherently unstable due to energetic potential fluctuations, leading to spontaneous being.
+The theoretical basis of TEP is supported by three core pillars:
+
+Ontological Primacy of Energy: Energy is not just a conserved quantity within physics but a necessary metaphysical ground from which all dimensions emerge. Unlike Einstein’s view where energy is derived from mass (E = mc²), TEP posits energy as self-existent, independent of mass or space time.
+
+Volume-3-Issue-8-August,2025	International Journal of Modern Science and Research Technology
+ISSN- 2584-2706
+
+
+Existence Instability Equation (Ξ): A novel formulation that mathematically expresses the transition from non-being to being, capturing the spontaneous generation of time, space, and matter from energetic instability in a vacuum state.
+Unified Field Interaction: TEP incorporates QM and GR as emergent layers of a deeper energy continuum, formulated through a composite field equation that integrates wave function dynamics with space time curvature and entropy.
+This paper also introduces flowcharts and structural models illustrating how layered dimensions, physical laws, and ontological categories evolve from the timeless energy field. The cosmological, philosophical, and informational implications of this theory are explored in detail, leading to a redefinition of foundational metaphysics and a possible
+blueprint for a Grand Unified Theory (GUT).
+By grounding physical emergence in ontological necessity rather than temporal causality, the TEP model provides not only an explanation for how the universe exists but also why it exists at all. This transitions the conversation from descriptive science to explanatory metaphysics, bridging the gap between physical law and philosophical inquiry.
+Ξ = lim(Ω → 0) [∇E_TEP × (δΦ/δt) + S(Ψ)]
+TEP	unifies		Quantum	Mechanics (QM) and General Relativity (GR) by embedding both within a comprehensive energetic	ontology.	The		following Unified		Quantum-Gravitational Equation illustrates this synthesis: (iℏ∂Ψ/∂t−H^)Ψ+(R/16πG+I(Qm))Ψ=E_ TEPΨ
+
+
+
+layered Ontological Expansion
+The emergence happens not instantly, but in ontological layers — similar to
+
+how software compiles in stages or how the universe cools in epochs:
+
+
+Layer
+	Ontological Status
+	Physical Interpretation
+	
+	0. Void (Ω → 0)
+	Non-being, no laws
+	Philosophical nothingness
+	
+	1. Ξ Instability
+	Energy field unstable
+	Metaphysical emergence
+	necessity
+	of
+	
+	2. Time Field
+	Temporal gradient appears
+	Proto-time emerges, δΦ/δt ≠ 0
+	
+	3. Spacetime
+	Geometry activate
+	forms,
+	tensors
+	General Relativity (GR)
+	
+	4. Quantum Field
+	Fluctuation	and  superposition
+begin
+	Quantum Mechanics (QM)
+	
+	5. Information
+	Entropy, symmetry breaking
+	Thermodynamics, entropy S(Ψ)
+	
+	6. Matter
+	Bosons, Fermions stabilize
+	Observable condensation
+	matter,	Higgs
+	field
+	
+	
+
+Visualization (Ξ Field to Spacetime)
+Ω → 0
+↓
+Ξ > 0
+↓
+Time gradient (δΦ/δt)
+↓
+Emergence of curvature (GR)
+↓
+Fluctuating wavefunction (Ψ)
+↓
+
+Volume-3-Issue-8-August,2025	International Journal of Modern Science and Research Technology
+ISSN- 2584-2706
+
+
+Entropy (S) and collapse
+↓
+Structured Universe
+Comparative Framework: GR, QM, and TEP, Space time vs. Timelessness and Literature review
+The quest to reconcile general relativity (GR) with quantum mechanics (QM) has persisted for over a century. GR governs the macroscopic, geometric behavior of space time and gravity, while QM explains the probabilistic, wave-particle duality of subatomic particles. However, their underlying assumptions are fundamentally incompatible. The Timeless Energy Principle (TEP) offers a novel synthesis that not only harmonizes their discrepancies but also reveals their deeper ontological foundation in a timeless field of energy. General Relativity treats space time as a continuous 4-dimensional manifold, inherently dynamic and curved by the presence of mass-energy. Time in GR is relative, fused with space, and susceptible to dilation and curvature. Quantum Mechanics, in contrast, treats time as a fixed background parameter. The Schrödinger equation assumes time as an external, absolute parameter, unchanged by quantum fluctuations. The TEP framework challenges both by asserting that time is not fundamental. Instead, time emerges from the instability of a timeless energetic field. In this model, the universe begins not with space or time, but with an unstable Ξ-field,  whose  internal  gradient
+(∇ETEP) and fluctuation δΦ/δt result in dimensional expansion and the appearance of temporal order.
+Gravity and Quantum Fields
+In GR, gravity is not a force but the curvature	of space	time	caused	 by energy-mass	density,		governed	by Einstein’s field equations: Gμν+Λgμν=8πGTμνG_{\mu\nu}		+
+\Lambda	g_{\mu\nu}	=	8\pi	G T_{\mu\nu}Gμν+Λgμν=8πGTμν
+In QM, forces are mediated by particles (e.g., photons for EM), and gravity lacks a well-defined quantum carrier (graviton remains		hypothetical).				Moreover, attempts	to	quantize	gravity	face divergences and non-re normalizability. TEP	replaces the	need		to		quantize gravity by embedding both space time curvature and quantum fields within a single fluid-like tensor equation: TμνTEP=ρTEP					uμuν+pTEP (gμν+uμuν)T^{TEP}_{\mu\nu}			=
+\rho_{TEP} u_\mu u_\nu + p_{TEP} (g_{\mu\nu} + u_\mu u_\nu)TμνTEP= ρTEPuμuν+pTEP(gμν+uμuν)
+Here, pressure pTEPp_{TEP}pTEP and density ρTEP\rho_{TEP}ρ TEP arise from fluctuations in timeless energy, suggesting that both gravity and quantum wave functions are emergent behaviors of the same substratum.
+
+Volume-3-Issue-8-August,2025	International Journal of Modern Science and Research Technology
+ISSN- 2584-2706
+
+Unified Equation Comparison
+
+
+Element
+	General Relativity (GR)
+	Quantum
+Mechanics (QM)
+	Timeless	Energy
+Principle (TEP)
+	
+	Time
+	Relative, geometric
+	Absolute, background
+	Emergent,	unstable potential
+	
+	Gravity
+	Spacetime curvature
+	Undefined
+	Emergent from pressure in energy field
+	
+	Matter
+	Continuous mass-energy
+	Probabilistic wavefunction
+	Collapse from timeless field
+	
+	Origin
+	Not addressed
+	Not addressed
+	Arises from ontological instability
+	
+	Mathematical
+Anchor
+	Einstein	tensor
+GμνG_{\mu\nu}Gμν
+	Schrödinger / Dirac
+equation
+	Ξ, unified field tensor,
+Planck-scale emergence
+	
+	
+
+Conclusion
+The TEP model does not discard GR or QM but instead re -contextualizes them as limited regimes of a broader, timeless energetic framework. Where GR sees curvature and QM sees probability, TEP sees both as manifestations of timeless energetic instability. Thus, TEP stands as a candidate not only for physical unification but for ontological coherence, explaining not just what the universe is, but why it must be. The Timeless Energy Principle (TEP) offers a unified framework for understanding the emergence of reality from a timeless, energy-dense substrate. Unlike classical models, TEP does not assume time, space, or matter as foundational; instead, these arise due to inherent instabilities within a timeless energy field. The Existence Instability Equation (Ξ) explains the spontaneous transformation from non-being to being, aligning physical processes with metaphysical principles.
+
+References
+Einstein, A. (1915). The General Theory	of	Relativity.
+Planck,	M.	(1900).	Quantum Hypothesis.
+Schrödinger,	E.	(1926).	Wave Mechanics.
+Hawking, S. (1983). Wave Function of		the	Universe.
+Penrose, R. (2004). The Road to Reality.
+Rovelli, C. (2004). Quantum Gravity.
+Greene,	B.	(2000).	The	Elegant Universe.
+Bousso, R. (2002). The Holographic Principle.
+Carroll, S. (2010). From Eternity to Here.
+Barbour, J. (1999). The End of Time.
+Witten, E. (1995). String Theory Dynamics.
+Smolin, L. (1997). The Life of the Cosmos.
+Padmanabhan, T. (2002). Emergent Gravity.
+Mukhanov,	V.	(2005).	Physical Foundations		of		Cosmology.
+Tegmark,	M.	(2003).	Parallel Universes.
+Linde,	A.	(1990).	Inflationary Cosmology.
+Vilenkin,	A.	(1984).		Quantum Creation		of		Universes.
+Misner, Thorne & Wheeler (1973). Gravitation.
+Dirac, P.  (1928). The  Quantum
+
+Volume-3-Issue-8-August,2025	International Journal of Modern Science and Research Technology
+ISSN- 2584-2706
+
+
+TheoryoftheElectron.
+Heisenberg, W. (1927). The Physical
+Content of Quantum Kinematics.
+
+The Waves of Space:
+A New Model of the Universe, with Space as its Fundamental Substance, Waves not Particles, and New Concepts of Gravity, Universe Expansion, Dark Energy, Fields, and More
+
+Ronald P. Hattis
+Published in Cosmos and History: vol. 21, no. 1, July 13, 2025
+
+
+ABSTRACT
+An innovative new “Waves of Space” model is presented, providing more unified and inter-related explanations of phenomena in physics. It might help to bridge gaps between general relativity and quantum mechanics, and to resolve other mysteries. Space, composed of uniform quantized units (“volons”), is proposed as the fundamental substance of the universe, and the medium of waves and fields. That agrees with super-substantivalist philosophy, and provides physical mechanisms that help make that concept feasible. Included are intuitive new conceptions of gravitation (deletion of space units, bringing bodies together, with gravitational potential energy absorbed into spatial pressure), and of the Hubble expansion (accelerating addition of space units, pushing bodies apart). Universe expansion and contraction phases might alternate, a “Big Bang” alternative. Waves and other processes in space produce properties of matter and most energy. “Standard model” particles are actually waves in the medium of space. Most are unsustainable and inconsequential transitional waves. Time is a relationship to repetitive motions in space. Four-dimensional spacetime is geometrically optional and complicates calculations. Space deletion in moving bodies generates the Lorentz transformations. Thermodynamics’ second law is a probability phenomenon, not universal. “Singularities,” dimensionless points, and infinity lack physical reality. Mass can survive matter shrinkage or disintegration. Supporting this model, space has known physical properties and is
+
+expanding; particles have wave forms. This alternative to current theories offers causal mechanisms where currently only equations exist. New plausible hypotheses from outsiders have been resisted, but may be needed for physics, and associated philosophy, to progress.
+
+TABLE OF CONTENTS	PAGE
+Introduction	4
+The Pathways of Thinking that Generated the “Waves of Space” Model	6
+Limitations of Standard Physics	10
+What is Real, and Overcoming Errors of Reification and Denialism	11
+Unity, Composition, Simplicity, and Effectiveness	12
+What This Model Will and Will Not Do, and the Requirements of Science	13
+Some Unfamiliar Definitions	15
+Space, the Fundamental Substance	17
+Space as a Substance, Substantivalism, and Super-substantivalism	18
+The Properties of Space, including the Speed of Light	23
+Units of Space, and Comparisons with Strings	24
+The Dimensions of It All	27
+The Aether Hypothesis, and Space as its Successor	29
+Questioning the Reality of Dimensionless Points, “Singularities,” and Infinity	31
+More Space: Expanding our Thinking	34
+The Hubble Expansion	35
+Addition of New Space, the Likely Mechanism for the Expansion	36
+Thoughts on Isotropy and the Cosmological Principle: How Can We Always
+Be in the Center?	42
+The Origin and Future of the Universe, and of Energy (Light and “Dark”)	48
+“The Acceleration (“Dark Energy”), and Possible Future of the Hubble Expansion	48
+Big Bang” vs. Alternated Expansion and Contraction	54
+Energy: What It Is, and Its Association with Waves, Space Deletion, and Mass	57
+The Sources of Matter and Energy	60
+The Gravity of the Situation	62
+Space Deletion as the Cause of Gravity	62
+
+Deriving Newton’s Inverse Square Law from Geometry and Space Deletion	71
+Space as a Medium; “Gravitational Field Waves” and How They May Oscillate,
+and “Free Volons”	75
+Alternative Theories of Gravity, and “Dark Matter”	79
+Relativity, Space Deletion in Moving Bodies, and Non-uniform Gravitational Fields 82
+Relativity Theories: Geometry, Gravity, and What Space Deletion May Offer	82
+Effects of Space Deletion on Moving Bodies, a Mechanism for the Lorentz Transformations and Non-uniformity	86
+Inertia, Gravitation, and Time in Moving Bodies	93
+Size and Time Changes Due to Gravity	98
+Some Confirmed General Relativity Predictions Can Be Explained by the “Waves of Space” Model, or by Others	103
+Challenges to Relativity Theories	106
+Do we Need Particles when We Have Waves?	108
+Light is Made of Waves and Does Not Require Particles	108
+Matter is Also Made of Waves and Does Not Require Particles	113
+The “Standard Model:” More Particles than Relevance.	117
+Mechanical Waves	122
+Quantum Queries	123
+Quantization, and Hypothetical to-and-fro Transfers of “Volons”	123
+Fields and Quantum Field Theories	125
+What and Where is a Quantum Wave Function	127
+Time and Motion	128
+Time as a Function of Repetitive Motion in Space	128
+Doing without Spacetime	132
+What is Motion? Four Types. Including the Mechanics of Matter through Space	134
+Motion is Relatively “Real”	140
+Time, Mass, and Matter in a Black Hole	145
+Thermodynamics): How Reversible?	150
+The “Arrow” of Entropy	152
+Cold Comfort	153
+New Space, New Energy, Less Entropy?	155
+Probably So	158
+Conclusions (1 through 21)	160
+
+Acknowledgements	170
+References	170
+
+
+INTRODUCTION
+
+
+An innovative new model presented here may help make sense of many inadequately explained physical phenomena. The reader is invited to join an adventurous exploration of a universe in which space, once thought of as a void, is actually the fundamental substance of the universe (as suggested by super-substantivalist philosophy). In such a universe, waves within that substance rather than particles could constitute matter and most energy. Gravity, space expansion, “dark energy” and “dark matter” would receive new interpretations. Extrapolations demonstrate the model’s ability to define time and motion, to show impacts on geometry, mechanics, and thermodynamics, to consider an alternative to the “Big Bang,” and to explain some findings of other models and theories, such as relativity and quantum mechanics, but by different mechanisms.
+
+This alternative model is proposed in hopes of explaining both observations that do not fit current theories and models, and older data that were considered as evidence for them. Mechanisms, structures, and inter-relations that are lacking in current theories are prioritized over mathematical abstractions. This is an alternative way of viewing the physical world, with certain advantages that will become apparent. It should not be rejected or bypassed simply because it is different, because that is its intent. Readers may enjoy the ride.
+
+Four quotations provide a suitable send-off for this project:
+
+
+Niccolo Machiavelli (1513) in his famous book, The Prince:
+
+“It ought to be remembered that there is nothing more difficult to take in hand, more perilous to conduct, or more uncertain in its success, than to take the lead in the introduction of a new order of things. Because the innovator has for enemies all those who have done well under the old conditions, and lukewarm defenders in those who may do well under the new. This coolness arises partly from fear of the opponents, who have the laws on their side, and partly from the incredulity of men, who do not readily believe in new things until they have had a long experience of them.”
+
+Isaac Newton, in a famous (and unanswered) letter to antagonist Robert Hooke (Popova 2016):
+
+
+“If I have seen further it is by standing on the shoulders of giants.”
+
+
+Richard Feynman in his Nobel Prize lecture (Feynman 1965):
+
+
+“…I, therefore, think that a good theoretical physicist today might find it useful to have a wide range of physical viewpoints and mathematical expressions of the same theory (for example, of quantum electrodynamics) available to him. …possibly the chance is high that the truth lies in the fashionable direction. But, on the off-chance that it is in another direction…who will find it? Only someone who has sacrificed himself by teaching himself…from a peculiar and unusual point of view; one that he may have to invent for himself…”
+
+Art Hobson, in his book “Tales of the Quantum” (Hobson 2017):
+
+“Science, because it accepts only evidence and reason, goes frequently against the conventional grain. Science does not accept authority as sufficient reason for reaching conclusions. So beware: Science can be dangerous to your beliefs.”
+Those quotations inspire the following perspectives: That a new proposal, if it achieves attention at all, will likely be strongly opposed at first; that the developer will be deeply indebted to many past and present leaders in physics and astronomy, for what may seem at first to be a radical departure is often just a small step further than they have already reached; that creative thinking, openness to multiple possibilities, persistence, and courage will be required of both the developers of new proposals and those who will dare to test, apply, or support them; and that authority and conventional or personal beliefs should not restrict either the developers of new scientific proposals or those who come across them. In consideration of the above, this article is dedicated to all creative and open-minded theoretical physicists, cosmologists, and philosophers of science, plus their students who are the future.
+
+The Pathways of Thinking that Generated the “Waves of Space” Model
+
+
+The genesis for the ideas presented in this article was the author’s realization over three decades ago that if distant galaxies are receding in all directions at rates proportional to their distances (the Hubble effect), the most reasonable explanation is that more space is being added during every unit of time to every amount of existing space. The addition of space between any bodies in the universe makes them more distant from one another. Each volume of space, and the next and next more distant after that, grow similarly with the addition of new space, and carry the objects within them still farther away from each other per unit of time. That is why the speed of distancing due to
+
+the added space (the velocity of recession) is in proportion to how far they already are away from each other.
+
+If the expansion is due to more space being added, then space must be “something,” some sort of substance and not a void. In order for tiny amounts of space to be added to each measure of existing space, and for the Hubble expansion to be roughly homogeneous throughout the universe, the substance must be made up of very small units, most likely uniform and three-dimensional.
+
+If the expansion process occurs in proportion to existing space, yet increases that very existing space, the expansion of the universe should be accelerating (“dark energy”). There could be additional mechanisms for acceleration, and counter-mechanisms of deceleration to limit the acceleration to the actual observed values.
+
+If it is possible to add space, it should conversely be possible to delete it. Space deletion between bodies could move them toward one another, producing the effects of gravity. The strength of gravity is proportional to mass, and all matter has mass. Mass might therefore be the property of matter that enables space deletion and thereby brings other matter closer. Since gravity and space expansion tend to oppose one another, it might seem fitting if one functioned by adding space and the other by deleting it.
+
+But added space should require a source (a possibility that has been overlooked in most discussions of the expansion until now), and deleted space should need somewhere to go. When new space appears, it might theoretically be coming from a set of unseen dimensions. When space is deleted, it might be transferred to those same extra dimensions. The ability of space to be added and deleted, especially if it does this by transferring back and forth to alternate dimensions, could be
+
+considered to support the possibility of an alternative to a one-time “Big Bang.” In this hypothesis, there could be alternating expansion and contraction phases.
+
+If matter properties can be attributed to waves, particles might not be necessary at all. The only substance needed for all functions in the universe could be space, made of just one type of unit. This would seem to be the “holy grail” of simplicity, vs. the multitude of subatomic particles of the “standard model.”
+
+Space could be a medium for waves if its units oscillate between positions. Deletion of space within objects at high velocities could cause shortening, deletion within clocks could slow time, and deletion of space being traversed could enhance inertia and resist further acceleration. If space deletion is responsible for both gravity and inertia, it is reasonable to suppose a close relationship between them.
+
+Based on the above and similar thinking, and on pre-existing science and philosophy, a new model for the universe is introduced in this article. It will be discussed in detail and explained below, topic by topic. It is lengthy because it attempts to explain each aspect of the model. In its entirety, it creates a new paradigm for understanding reality. All parts of the model are inter-related, leading to a certain amount of inevitable redundancy, and the usefulness of cross-referencing. Many of the key statements, starting with this paragraph, will be in bold italics for prominent display.
+
+The basic thesis or “Fundamental Principle” of the model, drawn from the above reasoning, is that many of the unsolved mysteries of science could be unraveled by conceiving of space as the fundamental substance of which the universe is made, as well as the medium of electromagnetic waves, gravity, and fields. It should be a substance, made up of discrete, universal
+
+units, which can however be added and deleted and can behave consistently with quantum mechanics. Matter and most energy would be made up of waves and other processes occurring in this space. The proposed waves would be truly “of space,” both constructed of oscillating units of space and able to travel through space.
+
+Much of what is proposed below flows logically, directly or indirectly, from that “Fundamental Principle.” There are some commonalities with currently accepted physics theory, including among other things that space has physical properties, that it is expanding, that particles are already considered to have wave equivalents, and that familiar waves (such as mechanical ones, see 7.4) have media to transmit them. Therefore, the model should not be rejected out of hand by physicists.
+
+On the other hand, there will be novel concepts, mostly new ways of thinking about familiar phenomena. Among other things, new conceptions of space and its expansion, gravity, and motion are included. The concepts of particles and of four-dimensional spacetime are suggested to produce unnecessary complexity. The model supports an alternative to the “Big Bang” theory that is somewhat different from previous proposals. The predictions of special and general relativity are suggested to result from different mechanisms. Such ideas in the model are not as radical as they may seem at first; as they flow logically from existing theories and data and borrow from the work of other scientists and philosophers. They are offered in a spirit of humility, with a realization that they contradict elements of some major current theories that have been developed by prominent physicists and accepted by numerous others over a considerable period. The model is proposed as a contribution to the philosophy of science, specifically of physics, space, and time, and to theoretical physics and cosmology. An attempt has been made to incorporate the history and evolution of past and present
+
+theories. The net result is a conception of many, though not all, aspects of physics and of the universe, that should arguably be simpler, more integrated, and more elegant (see 5.1) than suggested by current theories.
+
+Limitations of Standard Physics Theories
+
+
+Why should anyone develop a new model for the universe? Physics and cosmology (the latter considered over time as part of physics, astronomy, metaphysics, or philosophy) face unresolved mysteries. There are no consensus theories about a number of issues, including the following among others:
+
+A complete and generally accepted “grand unified theory” theory uniting the strong and electroweak forces. These are thought to both be compatible with quantum mechanics, but potential unification may only be possible at very high energy levels that have not yet been achieved.
+A complete and generally accepted theory to unite all those forces with gravity and relativity theories (which are not quantized), to produce a “Theory of Everything.” (Biggs and Rehm, 2021). (There is extensive research on “quantum gravity,” but no new theory has been totally successful or generally accepted.)
+A reconciliation of the expansion of the universe with the standard forces in physics, and a convincing explanation for "dark energy,” thought by some as “the greatest mystery in the universe” (Panek 2010).
+A verified explanation for "dark matter,” thought to be a main component of the universe and much more common than regular matter, but still not understood (Fore 2020; Horvath 2023).
+
+Theories for the origin of the universe and for black holes that do not rely on imaginary constructs like “singularities” and “inflation,” which are inconsistent with the rest of science.
+Causes and actual explanations for many of the physical processes that are expressed in so-called "laws" of physics. In most cases, those “laws” are merely or predominantly mathematical relationships expressed in equations, without adequate reasons or physical mechanisms. Aristotle taught that “The highest science is that which gives both the fact and the cause,” and that science that gives only the fact is at a lower level (Bouchier 1901). In that respect, this model may be said to strive for a higher science than physics orthodoxy currently accepts.
+
+These gaps suggest that there is a current need for new and more flexible thinking about the nature of the universe, and this model is an attempt to address some of that need. The proposed model has a sound scientific basis, and even if only a few of its many innovations proposals prove to be useful or to stimulate fresh thinking, it should be a significant contribution to theoretical physics and to the philosophy of science.
+
+What is “Real”: Overcoming Errors of Reification and Denialism
+
+
+In interpreting the world around them, humans are prone to two types of errors, reification and denialism. Reification is the assumption that something abstract is a physical substance, and denialism is the assumption that something does not exist as an entity, regardless of evidence to the contrary.
+
+In some cases, unnecessary phantom entities have been created to explain observed properties.
+
+The understanding of heat, for example, went through an evolution in the 17th and 18th centuries through several fallacious reifications as concrete entities (see 10.2).
+
+Similarly, in particle physics, when a resonance has been found at a particular combinations of mass, charge, and spin, and energy level, a particle has been hypothesized by reification, and has been named and added to the “standard model.” On the other hand, the physical existence of space has traditionally been denied or underemphasized.
+
+The best way to avoid both types of errors is to carefully consider the properties of the physical world, and their simplest adequate explanations, as has been attempted in the development of this model. As examples, it sees particles as a reification, and attempts to offer a pathway to do without them. It also attempts to correct the denial of space as a substance.
+
+Unity, Composition, Simplicity, and Effectiveness
+
+Physics includes multiple complex concepts, but the human mind longs for unity, which is relevant to mention in this introduction. A “grand unified theory” of the four recognized forces of physical science including gravity has been a dream in physics for at least 50 years (Krauss 2017, Georgi 1989). Three of the four forces are at least somewhat compatible with quantum theory. However, no satisfactory theory of “quantum gravity” has yet been developed, that is considered complete or has been generally accepted (Rovelli 2008; Fernandez 2024). Those issues may leave an opening for the present model, and for other new ideas to come in the future.
+
+Humans have also always been curious about the composition of the universe, what everything is made of, and philosophers since at least ancient Greek civilization have theorized about fundamental substances (Stanford Encyclopedia of Philosophy 2016). It would be philosophically satisfying to unify the substances of which the universe was constructed. Particle physicists may be well pleased by the “standard model” that will be discussed (see 7.3), but to some outsiders, it may
+
+seem like a chaotic and not very satisfying system, because there are so many different particles, and so many of them are unstable. The model proposed here proposes a single substance as the basic building block for the universe.
+
+Another thing that the human mind craves is simplicity. Members of the lay public with an interest in science would appreciate a new model comprehensible to them. The math of a new theory should add up, but if possible it should also be simple enough to be understandable without years of specialized training. The model proposed here may involve simpler mathematics, because complex metric tensors in curvilinear four-dimensional spacetime may be unnecessary. Unifying what the world is made of to one substance is also simpler than having dozens of different particles. Fewer unexplained concepts will need to be accepted by faith (a common feature of physics and religion).
+
+Consistent with the aim of simplicity, this article contains a minimum of jargon, undefined acronyms, and math compared to most physics articles. For convenient access, most of the references selected are posted on the Internet.
+
+Yet another thing that the human mind craves is ideas that work. They should be adequate and effective. There are criteria for “effective theories” (Wells 2016). Readers of this article are encouraged to make their own assessment of the extent to which the objectives above of unity, fundamental composition, simplicity, and effectiveness have been met.
+
+What this Model Will and Will Not Do, and the Requirements of Science
+
+The model will not negate well-established experimental evidence, but will propose alternative explanations, interpretations, and implications for some existing data. It lacks new experimental data,
+
+but hopefully will inspire experimental research to test its new predictions, which will admittedly be technologically challenging. It offers only limited new mathematics, but more can be developed to fit the model. It covers many aspects of physics, but the strong and weak nuclear forces and some aspects of electromagnetism are not explained. Its greatest value may to create a new alternative theoretical framework, in which more of the components of the physical world would explain and cause each other than in current theories.
+
+The question arises of whether hypotheses as proposed in this model are scientific, as the traditional scientific method requires experimental verification of hypotheses before they can be considered as theories. However, theoretical physics has produced unverified (and possibly unverifiable) concepts that are taken seriously, such as string theory. Physicists debate the value of theories without new experimental data (Walker 2015), but explanations for experiments already done are also valuable. There is scientific merit in hypotheses associated with a model that can explain recent experimental findings inconsistent with older theories, as well as findings that were considered as confirmations of those theories, and/or can propose previously lacking mechanisms to explain confirmed mathematical relationships.
+
+The goal is not to find ultimate truth. As recognized by James Wells (2016), “all theories are incomplete,” and in today’s environment “no competent scientist should retain an unfailing commitment to any theory,” but rigorous thinking about existing theories “can lead to the thought processes that generate significantly better theories.” Whether a true and complete understanding of the natural world is theoretically achievable by humans is subject to considerable doubt, and is left to philosophers and psychologists as a continuing question of ontology (the study of being) and epistemology (the study of knowledge)
+
+Some Unfamiliar Definitions
+
+The proposed model seeks to redefine and refine some scientific terminology. Clear definitions can enhance the understanding by scientists of how certain entities and processes operate in the natural world. Space, energy, and time are defined and discussed in detail in the text (see 2.1, 4.3, and 9.1). Here are the innovative meanings of a few other key terms as used in the model and in this article. They are listed alphabetically, and will be further explained as the discussion continues:
+
+Field: A region of space passively conducting and propagating waves, additions or deletions, or other processes. Gravitational fields ultimately extend throughout the universe, and Qin argued (2002) that they could not logically impart or store positive or negative energy density, charge, momentum, or inertia, since an incredible amount of these would be needed with no identifiable sources or sites of disposal.
+Instead, any area of space in which each location acquires a value (as a field is traditionally defined) may obtain it transiently from the wave or process being transmitted. This concept is not consistent with current theories on electromagnetic fields.
+
+Mass: A property possessed by matter waves that deletes units of space, and thereby produces the features of gravitation and inertia. This term is often used synonymously with matter, but on deeper analysis, its nature has been mysterious, confusing, and difficult to define precisely since at least the time of Newton (Roche 2004). In most physics equations, it relates to two specific features of matter, gravitation and inertia, and not to other properties such as charge or spin.
+Gravitation and inertia are proposed to be caused by space deletion (see 5.1 and 6.3), and the quantity of mass and distance from it determine the rate of that deletion. Since in this model, matter consists of waves, the term mass will be presumed to be a wave property or component of matter (which is
+
+itself made up of spatial units organized into waves), that deletes space (other spatial units whether or not organized into waves). According to special relativity, mass = energy/c2. Using a water analogy, just as a drain removes water from a tank or tub, mass drains space from our dimensions and facilitates its transfer to alternate dimensions. However, mass may also be able to exist after destruction of its associated matter, e.g., if matter waves break down due to excessive deletion of their units of space. That might occur at the event horizon of a black hole (see 9.5), and in “dark matter” (see 5.4). Thus, all matter has mass, but not all mass may have matter.
+Matter: Standing wave complexes that are constituted of units of space and that may move through space, which possess the property of mass along with others (e.g., charge, spin, “color”). They are composites of less complex waves joined together in discrete quantities that are commonly but misleadingly referred to as particles (e.g., electrons, protons, and neutrons, or and up and down quarks). Waves on a macroscopic scale have measurable wave lengths and amplitudes; others on an atomic scale have quantum properties. Material means relating to matter.
+
+Space: The fundamental substance of the universe, made up of uniform units that in this model are named “volons.” Space also serves as the medium for electromagnetic and gravitational waves. Units of space may be added or deleted. Where there is motion, space is traversed by matter or energy, which are thought to also be made up of space units.
+
+Time: A ratio of the occurrences of specified events in space, to the number of repetitions (or fraction of a repetition) of a selected repeating motion in space. Time can therefore be considered as a function of space, and not necessarily a separate dimension. The repeating motion has historically been a regular astronomical phenomenon such as the rotation or revolution of the earth or
+
+moon, but more recently oscillations within atoms have been used as well. In common experience, this measurement only goes in one direction. It can optionally be thought of as a dimension.
+
+Wave: An oscillating disturbance, usually but not necessarily regular and repeating, of space between two locations or values, lacking duality with so-called particles. This is similar to standard definitions (Kaylegian-Starkey & Howard 2023), but includes unique provisions of the current model, specifically that what have been commonly called particles of matter are actually waves in space. Mechanical waves require a material medium in addition to space; electromagnetic waves and gravitational fields require only space as a medium. In some waves proposed by this model, there may not be a neutral baseline between fluctuating positions (see 5.3). Orthodox definitions apply to several features: In traveling waves, the disturbance is transmitted through the material medium or across space. If the oscillation is in the direction of the transmission, the wave is longitudinal; if perpendicular to it, the wave is transverse. Standing or stationary waves are produced by two superimposed waves of the same frequency (which is the inverse of the wave length), speed, and amplitude, moving in opposite directions, and are not propagated across space. In this model, however, matter is made of standing waves, and it may be moved through space by separate energy waves (Vitz et al. 2024). A vibration is a regular and repeating oscillation that does not meet the criteria for either a traveling or a standing wave.
+
+SPACE, THE FUNDAMENTAL SUBSTANCE
+In Section 1, the logical train of thought leading to this model was laid out. This was followed by a wide-ranging discussion, from the gaps in current physics theories to the quest of humanity to understand the world. Some proposed new definitions that will be used in this model were presented. Now, we shall move on, and consider what space is, including its properties as a substance and the
+
+arguments for it in fact being the only substance, its units and dimensions, and fallacies in its measurement. The earlier aether theory will be included for historical perspective.
+
+Space as a Substance, Substantivalism, and Super-Substantivalism
+
+
+One common philosophical conception of space, dating to antiquity, was that it consisted of nothingness. Leucippus, Democritus and Lucretius wrote that the world was constructed out of “atoms and the void,” and the void was a truly empty place. This concept persisted in Epicurean philosophy during the Greek and Roman periods (Stanford Encyclopedia of Philosophy 2016). However, not all classical philosophers thought that space was devoid of properties. Plato, in his work Timaeus, described physical bodies (matter) as a part of space limited by geometric surfaces, which themselves contained nothing but space (Jammer, 1954).
+The early Greek atomists provided an ontological service by introducing the idea that the universe was composed of tiny units. However, their conceptions of “atoms and the void” have turned out to be inaccurate on both counts, and those errors unfortunately may have helped shape human thinking for more than two millennia, extending to the present. Atoms were thought to be tiny solid chunks in different shapes, representing different types of materials, and after all the centuries later, the Western lay public still has an inherited (and admittedly intuitive though inaccurate) concept of particles as being somewhat solid. The idea of space as a void has also had lasting negative impacts through the present day. A void or a vacuum, which refers to space without matter, also implies emptiness, neglecting the fact that it is filled by space itself. Those conceptions can subconsciously influence the thinking of students and some scientists. This model, and similar proposals from a number of other theorists cited in this article, strive to overcome these conceptual barriers.
+
+Centuries after ancient Greek civilization, philosophers debated about whether space was a substance of some kind. This could not be settled by experiment, and seems to have been a purely philosophical dispute. Dennis Lehmkuhl (2015) described the two dominant positions in that debate as follows: “Either spacetime is fundamental, i.e. a substance in its own right (substantivalism), or only material bodies are fundamental, and space and time are just abstractions of, or derive from, the relationships between material bodies (relationalism).”
+
+Newton supported a nuanced version of the substantivalist position, calling “absolute space” a real physical entity (Greene 2004), but not really material, part of the physical, not mental, realm.
+Gottfried Leibniz supported the relationalist position, and their arguments became famous (Lehmkuhl 2015; Wells 2016). These two geniuses, who were physicists, mathematicians who dually invented calculus, and philosophers, debated about this as they did about many other scientific and theological matters (Huggett & Hoefer 2021).
+
+René Descartes suggested that vortices in aether actually created matter (Marder 1971; Pilkington 2004). Albert Michelson also hypothesized about aether vortices (Goodman, 1994). That idea has similarities to the current model, if space is substituted for aether.
+
+The debate about space continues today. Tim Maudlin (1993) did a historical and philosophical review and concluded that substantivalist arguments were stronger. Peter Jackson (2012) argued strongly against the persistent idea that space is nothing, suggesting instead that it is a “diffuse dielectric medium” of intergalactic extent, which he thought should be helpful in unifying relativity with quantum systems. In “The Substance of Spacetime,” Andrew Ryan complained (2016) that “relativity treats spacetime as a mathematical abstraction…not a “thing” in any tangible
+
+sense...it merely serves as the background needed to describe the behaviors of the “real” things that exist within it,” and he argued for its being a substance.
+But substantivalism and relationalism are not the only possible views about the nature of matter and space. There is a third school of thought, which has historical origins in the philosophical works of Plato, Descartes, and Spinoza, but was set aside and little discussed until the last 50 years. Lawrence Sklar (1974) is credited with originating the term super-substantivalism. As summarized by Lehmkuhl (2015): “Substantivalists claim that there are two kinds of fundamental substances in the world: spacetime and matter. Relationalists claim that there is only one kind of fundamental substance: matter. Super-substantivalists agree that there is only one (kind of) fundamental substance in the world. But, they hasten to add, this fundamental substance is not matter but spacetime.
+According to the super-substantivalist, everything in the world is spacetime.”
+
+
+Super-substantivalism in turn has been described (Duerr & Calosi 2021) as being divided into three views. The differences are subtle:
+In the “Identity View,” material objects are identical to spacetime regions.
+In the “Constitution View,” material objects are constituted by spacetime regions.
+In the “Priority View,” material objects derive from spacetime regions.
+
+The current model offers a fourth view, also subtly different. Material objects are constituted of waves and other processes taking place in space (see 2.3), and they are defined by those processes rather than simply by the space they occupy. Spacetime is an optional and complicating concept. The waves and other processes can also move through regions of space.
+
+Jonathan Schaffer (2009) claimed that most philosophers today are substantivalists, and distinguished between dualistic substantivalism (material objects being one substance and regions of spacetime being another), vs. monistic substantivalism (a synonym for super-substantivalism), in which spacetime is “the one substance.” He supported the latter, and concurred that it comprises several schools of thought. His conception was that regions of spacetime define material objects (similar to the “Identity View”), and he claimed that Descartes had held a similar view.
+
+Henry Lindner, a physician and philosopher, described space as “a gravitoinertial-electromagnetic quantum fluid,” and said that it “…unifies all physical phenomena, as due to various motions or distortions in and of a single substance.” He also quoted Nobel physics prize winner Frank Wilczek as writing in 2008 that space is “the primary ingredient of physical reality, from which all else is formed.”
+
+The present author (until 2022) and some of the other innovative thinkers cited in this article were unaware of the philosophical school of super-substantivalism. They came upon their similar views independently.
+
+Super-substantivalist literature to date has had some limitations. There has been relatively little effort to explain how space, or regions of spacetime, can fulfill the various properties of matter. A structural model capable of that explanation has apparently been lacking, at least since aether fell out of favor, and there has not been as much extrapolation to various areas of physics as has been attempted in the present model. An exception (Duerr & Calosi 2021) was a mathematical argument that general relativity is consistent with super-substantivalism.
+
+Philosophy literature generally contains relatively little math but a lot of theorizing and references to the thoughts of prior philosophers, while most physics literature generally contains little new theorizing (mostly applying and testing existing theories), and is crammed with calculus equations. The two also frequently use different vocabularies. The gap has been difficult to bridge, even though some philosophers of science address issues highly relevant to physics, and a small percentage of physicists dare to propose important new theories that imply a philosophy. The latter are generally difficult to publish, and usually receive considerable pushback from the physics community.
+
+Some specialists on each side have had negative things to say about the other. The physics Nobel Prize winner Steven Weinberg wrote a chapter entitled "Against Philosophy" (1992). He said that we should not expect philosophy “to provide today’s scientists with any useful guidance about how to go about their work or about what they are likely to find,” and that “…a knowledge of philosophy does not seem to be of use to physicists…”
+
+On the other side, modern physics theory has been lambasted on philosophical grounds, as being mathematical but not relating to actual cosmic entities (Lindner 2015). Current “theoretical models and fundamental views” have been criticized as “extremely contradictory,” and “a lot of other fundamental contradictions do not have any solutions in theories” (Pastushenko 2019). A rare philosophically-oriented critique by a physicist declared that the foundations of physics are “profoundly and disturbingly flawed” (Cahill 2017).
+
+The present model, which attempts to make connections between the fringes of the two specialties, may not satisfy either side. That is unfortunate, because a physical theory is more
+
+comprehensible if it has a philosophy, or at least a geometrical representation that can be pictured and imagined. Scientific findings can generate a philosophical explanation. Conversely, a philosophical idea can inspire scientific research. Physics and philosophy are thus interdependent (Sklar 1974). As already noted, early physicists like Descartes, Newton, and Leibniz were also philosophers (Huggett & Hoefer 2021). Optimally, the two intellectual approaches can alternate, so that science and philosophy can nudge each other forward, much as theoretical physics does with experimental physics and with mathematics (Strogatz & Tong 2022).
+
+2.2..The Properties of Space, including the Speed of Light
+
+
+In support of space being a substance, it has a number of physical properties of its own, which strongly suggest that space is a substance and an integral and essential component of the universe.. Its expansion implies that it is “something” that can be increased, a consideration that inspired this entire inquiry (see 1.1). It conducts electromagnetic waves and gravitation, and their fields and quantum wave functions exist within space. The electromagnetic field can be considered as a property of space (Hobson 2017). Space also allows matter to exist within it and to travel through it. Dimensions and
+geometry of course relate to space. Space has permittivity and permeability Permittivity (ϵ) measures
+
+the resistance offered by the material in the formation of an electric field, while permeability (μ) measures the ability of the material to allow magnetic force to pass through it or to develop a magnetic field.
+
+One of the most definitive properties of space as a substance is a uniform velocity of transmission, in space with a negligible amount of matter (only occasional hydrogen molecules, there being no space totally empty of matter), for electromagnetic radiation and presumably for
+
+gravitational effects. We refer to this as the speed of light, and in equations as c. This speed is rather mysterious, because while light in space travels at exactly that rate, recessional velocity of very distant objects resulting from space expansion can exceed it, while mechanical motion cannot reach it. The product of permittivity and permeability equals c2, so they are related to each other and to the speed of light in space (Yadav 2023). Light travels more slowly in any other material (gases, liquids, or solids) or may be reflected or absorbed, and its rate in matter may represent a combination of the rate-limiting effects of both the material and space.
+
+The present model proposes that the universe is not surrounded by space, because space is what is inside and not outside of it. Today’s experimental physics cannot receive any information from beyond the universe we know. Therefore, hypotheses about other universes that might be part of a “multiverse” cannot be experimentally tested or verified (Hooper 2014; Fernandez 2020).
+
+Units of Space, and Comparison with String Theory
+
+All known macroscopic substances are built out of subunits. This is consistent with the thinking of the Greek atomists, (see 2.1) except that they did not suggest that space was one of the divisible entities, since it was nothing but a void. Indian Upanishads (dates uncertain) recognized that perceptible objects are composed of parts (Berryman 2022). Space, too, is proposed in this model to be made up of units.
+
+The distribution of galaxies is similar in all directions (Guth 2018), indicating that they are homogeneous and suggesting that they may also be isotropic (see 3.3). If this expansion is due to space units being added to existing amounts of space, however small, and if the effects of added space are similar in all directions, then space can be hypothesized to exist in extremely small units of
+
+uniform size. If units of space are the building blocks of everything, there cannot be anything smaller, because a whole entity cannot be smaller than one of its constituent parts. The units must also be so small that they can be inserted into the shortest light wave lengths, in the gamma spectrum.
+
+Space is therefore hypothesized to be made up of extremely small, uniform units, unchanging in size over space and time. A new term, “volon,” is proposed for the fundamental unit of space or volume, in the naming style of electron, proton, etc.
+
+(Footnote: No association is intended with any past or present commercial or other unrelated use of the term (e.g., https://www.masarishop.com/brands/the-volon.html), or to Rousseau’s term “volonté”
+to refer to the general will.)
+
+
+Physics is said to break down at measurements smaller than a Planck length (approximately 1.616255*10−35 meter), for a number of reasons including practical immeasurability (Gilliland 2024) and quantum uncertainty. It is appealing to conceptually associate the size of the theoretical fundamental component of the universe with a cubic Planck length, because that would assure that it could not be made up of subunits. Edwin Cartlidge noted that “most attempts to devise a theory of quantum gravity require space–time to come in discrete grains at the smallest (Planck-length) scales.”
+
+“Volons” are unlikely to have complex internal structure, because that would imply having separable parts, which would be ruled out if they are the smallest, most basic components of space and of the universe. However, they are not just units of volume, in this model, they are subdivisions of a space substance that has properties (see 2.2), and are also components of matter and energy, so they should have the capabilities to perform those roles.
+
+Individual “volons” should be able to oscillate, rotate, and spin, to be added and deleted, and to also move past and displace other “volons.” “Volons” should also be able to work in groups. Such group action by “volons” will be termed “volon mechanics” (see 5.3). This can include the generation of waves, which are central to this model. It should also permit more complex properties and functions such as charge and space deletion, which together with the capabilities of individual “volons” constitute the other processes in space (processes among “volons”) referred to throughout this article.
+
+The “volon” concept is a partial parallel to string theory. In that theory or group of related theories, all of matter is made up of one-dimensional strings on the order of one Planck length long, and the properties of particles are produced by different vibration patterns within the strings (Greene 2004), though mechanisms for that to create matter do not seem to be clear. One of the vibration patterns in strings supposedly could produce “gravitons,” the theoretical particles of gravitational waves, but those have not been found. Vibrations in the current model, might in contrast involve oscillations of groups rather than individual “volons.”
+
+In string theories, one-dimensional “open” strings would supposedly be attached to another substance, the membrane-like “branes,” on which they could travel. Strings in which both ends attach to each other are called “closed” strings, which should require at least two dimensions if lying on a plane surface. Strings are not proposed as the material of spacetime, which requires 11 dimensions in “M-theory,” the leading version of string theory (Greene 2004). Since they would be one-dimensional, they apparently could not constitute three-dimensional space, or be the sole component of the universe. “Volons,” in contrast, would not be anchored on any other substance, although some would participate in waves and “shells” with variable structures.
+
+“Volons” of space are also reminiscent of the loops of spacetime in loop quantum gravity theory (Rovelli 2008). That theory postulates quantized units of spacetime (though not simply of space) in “spin networks” of approximately Planck length size.
+
+The Dimensions of It All
+
+
+Most comprehensive modern theories of the universe require more than three dimensions (Melbeus & Ohlsson 2012). The Kaluza-Klein theory requires five. Current string theories depend on the existence of 10 (Superstring theory), or 11 (M-theory). An earlier version, bosonic string theory, required 26 dimensions (Greene 2004). Special and general relativity combine time with space, to make four dimensional spacetime (Einstein 1921).
+
+The new model presented here includes the capacity for space to be deleted from or added to an existing manifold. If "volons" of three-dimensional space suddenly appear and disappear, the question naturally arises, where does this space go to or come from? A convenient way to imagine this is to suppose theoretically that there are three dimensions in our universe and an additional three dimensions, for a total of six, and that units of space can be transferred between them and our familiar three dimensions. A three-dimension “volon” deleted from one set of dimensions would likewise be three-dimensional in the other set, and the six dimensions would function as two sets, with space moving space back and forth between sets of three.
+
+The hypothesis regarding three extra dimensions does not imply that they have separate time dimensions. The two sets of dimensions are proposed to share a common passage of time, though possibly subject to the relativity of simultaneity in special relativity (Einstein 1921). If time common to both sets of dimensions is considered optionally as a dimension, there would be seven dimensions.
+
+For those preferring to think in terms of four-dimensional spacetime which is not encouraged by this model (see 9.2), there would be four rather than three dimensions in each set, for a total of eight, but that would count two different time dimensions rather than one shared passage of time, raising the question about how the expansion of one set could be coordinated with the contraction of the other set. For the discussions in this article, three dimensions in each set and a total of six will be described, and time will be explained as a function of three-dimensional space rather than a true dimension or a component of spacetime (see 9.2). Differences of perspective regarding time as a dimension and spacetime need not interfere with following the other useful ideas presented here.
+
+In the present proposed model, both sets of dimensions would always be present in every location, attached to and reaching out from our current location or from any other, just as our familiar dimensions do, but in additional and unseen directions. A suggested way of thinking about this is that every “volon” has six dimensions, only three of which are accessible to us. We cannot see them, because light (including the entire spectrum of electromagnetic radiation) as we know it is limited to transmission through the three dimensions that we know, and in addition, our brains are limited to three-dimensional visualization. Hypothetically, there could be a different equivalent of electromagnetic waves in the alternate dimensions. We cannot travel in the extra dimensions as intact material beings, and none of our senses can perceive anything occurring in the extra dimensions.
+However, we do perceive gravity, which may be the process of units of space (“volons”) being transferred by mass from one set of dimensions to the other (see 5.1),
+
+The six-dimension concept cannot be proven, but will be shown to be useful conceptually in explaining an expanding universe (see 3.2), the origin and future of the universe “dark energy” (see 4.1), and hypothetical explanations of some quantum phenomena (see 8.1).
+
+The Aether Hypothesis, and Space as its Successor
+
+Aether, an ancient Greek concept sometimes referred to as a fifth element, appears to have entered into physics theories in the 17th century (Marder 1971). Descartes is believed to be the first scientist to have introduced the concept of the aether as a mechanical medium (Meschni & Lehto 2025). From then until the late 19th century, the aether concept enjoyed remarkable durability, and most scientists seemed to support the idea. The "luminiferous aether" was conceived as a medium that filled space, and conducted light and presumably also gravity and electromagnetism. Newton, who declined to characterize aether in detail, nevertheless thought at first that it was a necessity as a medium between celestial bodies for gravity to exist (Meschni & Lehto 2005). However, he seems to have ultimately rejected it as a substance providing a physical connection between bodies interacting gravitationally, because he thought it would make the planets unstable (McMullin 2002).
+
+The Michelson-Morley experiment of 1887, repeated and confirmed many times subsequently, showed that if there were an aether, it could not be a medium that could speed up or retard the speed of light, by means of its own motion relative to observers on earth. Henri Poincaré also tried to measure velocities with respect to an aether in 1899 and was unsuccessful (Meschni & Lehto 2005). Many scientists thereafter ceased to believe in an aether altogether (Ball 2004; Pilkington 2004), although references to it persisted into the early 20th century.
+
+That seemed to leave just space itself, with no additional substance to take over the properties that had previously been assigned to the aether. Yet the reassignment of those properties to space itself as a substance is not commonly identified in a clear manner.
+
+Descartes may have entertained the idea of space being the aether rather than aether being a separate substance filling space, because he sometimes used the terms aether and space synonymously (Pilkington 2004). In 1900, Paul Drude proposed that the physical properties of the electromagnetic field were actually those of space, not of an aether substance within it (Walter 2018).
+
+Einstein eventually developed a similar approach. He had evolving views about the existence of an aether. His special relativity theory made no reference to such a substance and he was widely credited with having destroyed the concept of it. However, 15 years after introducing special relativity and five years after introducing general relativity, he delivered a lecture at the University of Leiden (Einstein, 1920) that included these selected remarks (translated; highlighting added):
+
+“…The next position which it was possible to take up in face of this state of things appeared to be the following. The aether does not exist at all. The electromagnetic fields are not states of a medium, and are not bound down to any bearer, but they are independent realities which are not reducible to anything else, exactly like the atoms of ponderable matter…Certainly, from the standpoint of the special theory of relativity, the aether hypothesis appears at first to be an empty hypothesis… But on the other hand there is a weighty argument to be adduced in favour of the aether hypothesis. To deny the aether is ultimately to assume that empty space has no physical qualities whatever…Newton objectivizes space. Since he classes his absolute space together with “real” things, for him rotation relative to an absolute space is also something” real.” Newton might no less well have called his absolute space aether…More careful reflection teaches us however, that the special theory of relativity does not compel us to deny aether. We may assume the existence of an aether; only we must give up ascribing a definite state of motion to it…We shall see later that this point of view…is justified by the
+
+results of the general theory of relativity…Recapitulating, we may say that according to the general theory of relativity space is endowed with physical qualities; in this sense, therefore, there exists an ether…”
+
+Einstein thus acknowledged by 1920 that Newton could have accepted absolute space as the aether medium, and he implied that he could as well. Gene Goodman (1993) also identified space as an ether substance. If space and ether are equivalent, the “Waves of Space” model could be considered as a revival of a type aether theory, but with differences. For example, aether theorists did not believe that everything was made of aether.
+Questioning the Reality of Dimensionless Points, “Singularities,” and Infinity
+
+
+Euclid’s geometry is about 2,400 years old, and historically his book “Elements” may be the second most studied reference after the Bible (Norton 2024). Euclidean geometry is extremely useful for mathematical problem-solving, and will shortly be utilized to help explain the inverse square in Newton’s gravitation equations (see 5.2).
+
+Although Newton considered Euclidean geometry to be a true description of reality, to the extent of being a branch of mechanics (Jammer 1954), some of the abstractions used in its axioms and postulates seem problematic today. Examples are definitions that imply the existence of points without dimensions, lines with only one dimension and that can extend straight indefinitely, and surfaces with two dimensions but no thickness (Norton 2024). There is no evidence that any of these
+exist in reality. LaFrenière (2009) preferred to refer to points as granules, “because a point cannot exist.”
+
+To have “real” existence, a point would have to occupy at least a cubic Planck length in size, and in this model could not be smaller than a “volon,” which might be of similar size. Lines and surfaces would have to have at least “volon” thickness. Because “volons” are proposed to be three-dimensional, lines and surfaces would need to occupy three-dimensional space, which violates the Euclidean definitions. A line could not be exactly straight over long distances, because any pathway pointing “straight” ahead would eventually be deflected by space deletions and additions alongside, but that is not the same as saying that space itself is curved, as in general relativity (se 6.1). Waves and quantum uncertainty also require distributions in space and cannot exist in dimensionless points.
+
+Currently, small fundamental entities like electrons, quarks, and neutrinos with no known internal structure are frequently described in physics as being “point particles.” In the current model, “point particles” are doubly unreal, as there are no points and waves supplant particles. Hobson (2017) said that Newtonian physics seemed to accept such entities, but he presented the argument that “…the universe is made of spatially extended fields, not point particles.” Nevertheless, when size, shape, and extent of location of tiny non-rotating matter waves are negligible and irrelevant to a problem, it is mathematically useful to ignore those properties, and to assign other properties that are known and relevant, such as mass, charge, and momentum, to a junction of spatial coordinates near the center of mass. Such ‘point particle” techniques have been widely utilized for decades in various fields of physics, for electrons or sometimes for larger matter entities (Pawl 2009). But characterization of any matter entity as if it actually existed without occupying any space is unrealistic and should not be taken seriously. “Point particle” techniques and approaches to calculations in physics need not be renamed, let alone abandoned, but any implications that such dimensionless particles actually exist should be removed from physics theories.
+
+A “singularity” is the concept of a dimensionless point with a huge amount of energy or mass. The “Big Bang” is supposed to have started in one (see 4.2). The Einstein field equations reportedly all require an initial “singularity,” though they provide no information on what came before it and how it came to be (Marsh 2014). However, zero volume is inconsistent with quantum theory (Hobson 2017). Nevertheless, there is also supposed to be a zero volume “singularity” in the center of every black hole (see 9.5). There is no realistic physical model to account for such a construct. With no volume, a “singularity” should have no capacity to contain, generate, or destroy anything. In addition, below Planck size, physics would break down (Walchover 2018). So “singularities” cannot really exist (Sutter 2022, February), and physics theories should be updated to delete them.
+
+Mathematics also includes abstractions that do not correspond to reality, which it has every right to do because it is an abstract science and neither a description of nor dependent on reality. A philosophical issue is the concept of infinity, which is accepted in mathematics but can also impact physics. Infinite sets of numbers or points, as developed by Georg Cantor, can be imagined in mathematics as abstractions but should not be applied to the real world (Hilbert 1925). Carl Friedrich Gauss and Jean D’Alembert suggested that even in mathematics, the term infinity was just a way of referring to limits (Waterhouse 1979). In the actual universe, nothing infinitely large or small in space or time has ever been identified.
+
+A century ago, mathematician David Hilbert concluded (1925) that “Our principal result is that the infinite is nowhere to be found in reality. It neither exists in nature nor provides a legitimate basis for rational thought - a remarkable harmony between being and thought.” Yet some physicists and cosmologists apply abstract mathematical concepts and refer to infinities, e.g., when discussing “singularities” (Tegmark 2020), or when discussing certain integration limits. Some variables in
+
+calculus equations and physics theories do approach such high values that their limits may seem to be headed for an infinite size, quantity, velocity, or time, but in reality no such limit can ever be achieved. For example, functions may approach infinity as a divisor approaches zero, but actually dividing by zero gives an “indeterminate” rather than an infinite result. Ryan (2016) claimed “infinity is an inherently irrational concept,” and that “currently, physicists reject infinities as meaningless and none of the accepted laws of nature require them.” As noted by Robert Marks (2022), “reasoning with the infinite leads to ludicrous conclusions and is evidence that the infinite does not exist in reality.” In the current model, everything from a “volon” to the universe is finite. Physics teaching should emphasize that there are no true infinities, and physics theories and literature should avoid characterizing infinity as a reality.
+
+Alternative geometrical systems have arisen. One of those, Minkowski’s geometry, will be discussed later (see 9.2). All geometrical systems to date have been theoretical frameworks or grids to localize objects and events in space, overlying them and involving sets of abstractions and the relationships among them. Such theoretical grids can approximate reality under specific conditions, but none can conform perfectly to it.
+
+This model suggests a fresh approach. The geometrical grid is physical. Rather than providing abstractions and rules for measurement, every unit of space is an actual distance marker. Space itself, rather than a theoretical geometrical system, defines and creates the metrics.
+MORE SPACE: EXPANDING OUR THINKING
+
+
+In Section 2, we reviewed the evidence for space as a substance, with hypothetical units termed as “volons,” and dimensions (including three hypothetical extra dimensions). The old aether hypothesis
+
+was discussed, and space alone was proposed to replace it as a substance and a medium. The alternative string theory was compared. Geometrical systems were described as theoretical grids that overlie and approximate but do not fully describe reality. Now, we shall move on to how space expands.
+The Hubble Expansion
+
+In 1929, Edwin Hubble made the dramatic discovery that the light from 24 galaxies was exhibiting an increasing wavelength (referred to as a redshift because the red end of the visible spectrum has longer wave lengths than the blue end) that was proportional to their estimated distance. The wave length of light increased with the distance of the source galaxies (Bahcall 2015). Back in 1912, Vesto Slipher had discovered similar red shifts in the wave lengths of nebulae, but had not correlated them with distance (Ott 2025).
+Hubble himself did not immediately advocate that the redshifts were due to velocity, and considered an alternative interpretation involving so-called “tired light,” which would not imply an expanding universe (Marmet 1989). Some of Hubble’s calculations were also in error (Ott 2025). Georges Lemaître, a Belgian priest and physicist, who had predicted an expanding universe from Einstein’s equations in 1927, interpreted the results as confirmation of his theory of expansion, and went on to propose what became the “Big Bang” theory in 1931 (Stewart 2017). Nevertheless, the assumption that increasing wave lengths are evidence for expansion of the universe has been credited as the Hubble effect.
+
+There is general acceptance today that the galaxies are receding from us, with apparent velocities that increase the farther they were from us, and therefore that the universe is expanding.
+
+The idea is that increases in light wave lengths accrued over billions of years of travel through an expanding space. The increase of recession effects with distance and their lack of limitation by the speed of light are unique in physics. The explanation below will remove some of the mystery by attributing them to cumulative effects of space addition.
+
+The well-known Hubble equation (owing much to Lemaître), using v for velocity of recession H0 for the Hubble constant, and s for the existing distance to the receding galaxy (a physics notation tradition after Latin “spatium,” the source of our word space) is listed below for frequent reference as equation (1).
+
+v=H0*s	(1)
+
+
+(Footnote: Throughout this article, an asterisk * between letters, numbers, or symbols will be entered to indicate multiplication, in equations where there might otherwise be lack of clarity as to whether two letters or symbols represent single or separate entities.)
+
+The Hubble equation (1) deals with linear distance from an observer anywhere in the “observable universe.” Assuming as above that the “volon” units of space are three-dimensional, then not just distance but also the volume of the universe is increasing, but one of those three dimensions is the linear distance included in the Hubble equation (1).
+
+Addition of New Space, the Likely Mechanism for the Expansion
+
+Over the years since the Hubble discovery, the expansion of the universe has not only become accepted, but is considered to be one of the “arrows” (along with time and the increase in entropy of thermodynamics) that in our common experience proceed in only one direction. However, later, we
+
+shall consider the possibility of eventual contraction of the universe (see 4.2). We shall also consider the concept of gravity as a space-reducing force, counteracting the expansion and preventing it entirely in locations near large concentrations of mass (see 5.1).
+
+Two potential mechanisms could be responsible for the expansion of the universe. The expansion of space is sometimes described as a stretching of existing space like a rubber band or balloon (Siegel 2021). The second possible mechanism is the addition of more units of space to existing space (Palma 2024). With either of those alternatives, the apparent speed of recession in every direction should be proportional to distance. The redshift would seem to be consistent with either of the two potential explanations, the stretching of light waves along with the rest of space, or the insertion of more space within the light waves (between the crests) along with everywhere else in space. In either case, the wave lengths would increase.
+
+Either alternative would seem to be an exception to the rest of physics. However, the stretching alternative seems less plausible. Nothing known has unlimited flexibility, and other stretchable objects, such as springs, encounter resistance and require more force the further they are displaced. In Hooke’s law, F=kx where F is force to achieve the “stretch,”, x is the distance of “stretching” displacement, and k is a constant; the restoring force is F=-kx (M. Williams 2015).
+Stretching thins a material, and anything continually “stretched” will eventually break.
+
+
+Regardless of whether space encountered resistance to stretching, it would need an endless capacity to “stretch” without diminishing capacity or breaking down, a capacity not known in physics and for which there is neither theory nor evidence. One rather unusual suggested mechanism for the
+
+expansion is the deformation of bosons (Dil 2016), another type of stretching with no explanation of how it could continue without limit.
+
+Ethan Siegel has noted that if there is a type of potential energy that causes the expansion, it does not seem to weaken as the redshift continues. He considers space as a “stage” rather than a
+substance, and says “It’s as though new space is getting created due to the Universe’s expansion”
+
+(Siegel 2021). The “Waves of Space” model would reverse that concept, i.e., the universe is expanding because new space is being created to push the galaxies further apart from each other.
+
+Thus, the more likely explanation for the redshift, however strange it might seem, is the addition of new space to join every measure of existing space. New space appears everywhere, including within wave lengths, so that they lengthen. That realization by this author over three decades ago inspired the development of this model, because it implied that space must be an actual physical entity (see 2.1).
+This means that each unit of distance in space (whether a gamma ray wave length or a light year) is joined by an addition and becomes longer continually over time. The farther away an object is from us, the greater the number of existing units of distance there are between us (whether micrometers or light years), and if each such unit is joined by extra space per time, that extra space increases the distance proportionately to the existing distance.
+
+
+/
+
+
+Figure 1: The addition of new space into each expanse of existing space would produce an effect similar to the Hubble expansion.
+
+Figure 1 is offered to help illustrate this. In the figure, there are five expanses of five units each drawn as lighter cubes, representing 25 units of existing space. (The units are drawn as cubes because they are actually three-dimensional, but we are only considering length in one dimension to measure distance.) Each set of five can represent a light wave length. The black cubes represent one additional unit of space added to each set of five per second, a 20% increase in length.
+
+In the Hubble observations, wave length redshift was what was actually observed, but actual distance between objects in space was what was implied. Let us set an imaginary Hubble-like constant Hi at 1/5 or 0.2 wave lengths/second, or one added cube length for every five existing cube lengths, per second. The added space makes objects more distant and creates the recession.
+
+The velocity of this recession at the 25th unit would be v= Hi*s= Hi*25 cube lengths=0.2*25 or five cube lengths added and therefore becoming added distance per second. If the existing (pre-expansion) distance s were n times as long, the new space appearing per second would likewise be n times as great. The increase in distance/second causing apparent recession would be 20 per 100 units per trillion years, still a one to five ratio.as defined in the Hi Hubble-like constant. In other words, n
+
+times the baseline distance (the length before addition of new space) would result in n times the total added space/second and therefore n times the recession rate. The velocity of recession would always be proportional to distance, as in the Hubble equation (1).
+
+If new space were added in discrete, constant units like “volons,” those units would pop up in between existing similar units, analogously to carbon dioxide bubbles in a carbonated soda or champagne. The source of the new space is suggested to be the additional dimensions (see 2.4).
+
+The occasional articles in physics literature attributing the expansion to new space being added are usually not followed up by hypothesizing where this new space comes from, and what makes it appear. Other issues generally not typically addressed with respect to added space include its physical reality, what it does, and the potential impact on thermodynamics and time (see 10.3),
+
+The concept proposed here is that units of space are added everywhere, however inside of matter, electromagnetic and strong forces supplement gravity to hold the waves together in relatively stable structures. When material bodies decrease or increase in size it is because of deletions and restorations of “volons,” rather than changes in those structures. In space surrounding matter, however, the space deletion effect of gravitation (see 5.1) slows the expansion, or reverses it at short distances from matter with large masses. Because all the stars and other objects with concentrated matter occupy only a small fraction of space in the universe, the expansion of space on a broad scale predominates over the more local deletions by gravity. A net expansion of space occurs in all locations where the gravitational space-deletion effect, divided by the square of distance (the inverse square law), is too weak to exceed the expansion (see 5.2). From an earthly perspective, expansion should overpower the effect of gravitation in the vast expanses between the earth and distant stars, but
+
+gravitation should overpower expansion at the much closer distances of the sun, moon, and nearby planets. The Hubble expansion is the net expansion of our dimensions, i.e., total expansion minus gravitational deletions.
+
+The relative homogeneity of the universe permits this expansion predominance to produce the Hubble equation (1). The expansion process accumulates over distance to produce recession velocities that can exceed the speed of light.
+
+Currently, gravity is considered to be one of the four forces of physics, except in general relativity, in which Einstein considered it as an effect of the curvature of space (see 6.1) in the presence of mass (Koberlein 2014). Since the expansion has the capacity to counteract gravity, it could be considered as a candidate for future recognition as a fifth force in physics. Gravity and the expansion are in competition. They both permeate the universe, although gravitational fields are centered locally where there is mass. If space expansion did not exist, gravitational force would presumably be greater, and reflected in a larger gravitational constant G. If gravity did not exist, the Hubble constant H0 would presumably be greater.
+
+The term “observable universe” has been used throughout this article, in recognition that many galaxies are today already receding from us more rapidly than the speed of light c. This is not considered mathematically to be a violation of special relativity, but philosophically it seems to be inconsistent with that theory.
+
+The farther we are able to see, the more we are viewing the positions of stars in the distant past. The light we see today from the most distant visible galaxies was emitted billions of years ago. Light being emitted today from those same galaxies will not be expected to reach our solar system,
+
+because the galaxies are now receding from it at a speed greater than that of light. According to Siegel (2018), our “observable universe” includes about 2 trillion galaxies, but 96.7% of them are today so far away that the light they emit today will never reach us and light emitted from our sun today will never reach them.
+
+The energy implications of the insertion of new “volons” among existing ones will be discussed later (see 10.3). This could have profound effects on thermodynamics and the evolution of the universe.
+
+In recent years, the expansion of the universe has been found to be accelerating. The term “dark energy” has been applied, because current theories do not explain it. This will be discussed in the next section (see 4.1).
+
+Thoughts on Isotropy and the Cosmological Principle: How Can We Always Be in the Center?
+
+Modern cosmology accepts the Cosmological Principle, which holds that the distribution of galaxies and inter-galactic stars is relatively homogeneous when looked at over huge distances. This principle moreover implies that universe it is isotropic, i.e., that the density looks roughly the same in all directions, so that no matter your location, it is as though you are in the center of the universe (Durrer 2020). If the universe is isotropic to all observers, it must also be homogeneous, but simply being homogeneous does not require that it be isotropic (Peacock 2012).
+
+Also generally accepted is the Copernican Principle, which holds that the earth is not uniquely located, and has no access to privileged types of observations not available elsewhere (Jones 2019).
+
+Specifically, it is highly improbable that the reason for similar density of distribution of celestial bodies in all directions is that the earth happens to be located at the exact location where a “Big Bang” occurred. Our sun in fact lies in a peripheral and undistinguished spiral arm of our unremarkable Milky Way galaxy, which contains an estimated 200 billion other stars (Freudenrich & Bowie 2023).
+
+There is good evidence for homogeneity of the universe from galaxy counts, and from the uniform distribution of the cosmic microwave background (CMB, see 4.2) radiation (Guth 2018). There is strong evidence for isotropy in observations from earth, with some possible exceptions (Mohon 2020). Universal isotropy is consistent with solutions to Einstein’s equations as calculated by Aleksandr Friedmann in 1922 (Durrer 2020). A number of physical processes occur in an isotropic manner, including gas kinetics, thermal expansion, permittivity, and permeability. But because we are largely confined to the earth, confirmation has not been available to date from distant locations in the universe that the density of distribution of galaxies looks similar in all directions.
+
+The size of our universe is finite, and all of its contents can be conceptualized to occupy a huge globe-like volume of space, matter, energy, and “dark matter.” From our earthly perspective, we are inside the globe and in each direction we are looking outward (with the help of our best telescopes) toward the outer “shell” or spherical surface of the “observable universe.” But what we see depends on where we are located. Parallax was discovered by the ancient Greeks, with its first known use by Hipparchus over two millennia ago (Lucas 2022). A general rule can be stated, that at any specified time, views of the universe by observers in different locations cannot be the same.
+
+Light travels through space and cannot travel where there is no space, and neither can anything else. There is no such thing as gazing (or traveling) into non-space. From our current perspective, there is a theoretical outer spherical surface “shell” or periphery of the universe, although we cannot see that far. But if we were able to get closer to that surface, we would see beyond that, and some of the galaxies that would appear to be straight ahead of us would be those that from our previous perspective, we saw as being on the spherical surface. That is because from our current view, there is no space beyond their locations and therefore we cannot view them as being straight ahead. Figure 2 may help in visualizing this concept. Regardless of how counter-intuitive it may seem, nearby locations along what may appear to be an outer sphere of the universe are functionally adjacent, because we can see no space beyond them. To traverse the periphery of a spherical universe, light must follow curved paths. Isotropic appearance of the universe from every location is consistent with such pathways, because it makes the other side of the universe accessible. This may be consistent with the curved space of general relativity (see 6.1), but not with Euclidean geometry.
+
+If we could travel all across the universe, galaxies that now appear to be in separated locations on an outer spherical surface would visually extend out in front of us. As we continued forward, more distant and widely separated locations from what had appeared to be that outer spherical surface, including those that had seemed to be on the other side of the universe, would continue to join together in front of us, and light from them would now come to us. Imagine one of the most distant visible galaxies, near the edge of the “observable universe.” The view from that location would not be that it is so located, but instead, it would be isotropic like the view we see from our own initial location. In fact, in the view from that other location, it is we who are at the periphery.
+
+The above conception is consistent with and helps to supply an explanation for a standard but mysterious assumption in cosmology that if we were to travel great distances in a continuous path, we would still see ourselves as being in the center of the universe, which would never have a reachable edge. It is also assumed that other theoretical observers throughout the universe would have the same experience.
+
+If the universe were limited to the surface of a hollow sphere, it would be easy to see in standard Euclidean geometry how an observer at every location of that surface would seem to be at the center (Palma 2024). But as we know, the universe is three (or four)-dimensional and filled with space and stars.
+
+This discussion has been included because it relates to four ideas from the “Waves of Space” model that could provide such mechanisms. The first is that any locations with no space beyond or between them, even if they appear separated to us, are functionally adjacent. The second is that light can only travel where there is space. The third is that light paths are curved by gravity due to space deletion (see 5.1). The fourth (which will be demonstrated by the thought experiment and Figure 2 below) is that motion of matter is accomplished by displacing space from near the front of the moving object to near the rear. How that occurs will be better explained later (see 9.3).
+
+To help visualize the difficult concept of how it is possible to be moving forward from a position with an isotropic view, and

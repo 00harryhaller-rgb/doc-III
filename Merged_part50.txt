@@ -1,0 +1,2108 @@
+основном поглощением их света межгалактическим газом;
+существующие гипотезы о темной материи и темной энергии не находят научного подтверждения.
+ЛИТЕРАТУРА
+Диаграмма распределения массы во Вселенной.– Доступно по адресу: URL: https://commons.wikimedia.org/wiki/File: Darkenergy.png (дата доступа 20 августа 2020).
+Planck Collaboration. Planck 2015 results. XIII. Cosmological parameters // Astronomy and Astrophysics: 2016. Vol. 594, no. 13. pp. A13.
+Радзини Д. Космос. М.: ООО «Издательство АСТ»; ООО «Издательство Астрель», 2002. 320 с.
+Вэнс Феррел. Время против эволюции. Почему возраст Вселенной – не миллионы лет? М.: Русский Хронографъ, 2003. 128 с.
+Эйнасто Я., Чернин А. Д. Темная материя и темная энергия. М.: Век-2, 2018. 176 с.
+Энциклопедия для школьников и студентов. Т. 2. Физика. Математика / под общ. ред. Н. А. Поклонского. Минск: Бела-руская Энцыклапедыя iмя П. Броўкі, 2010. 528 с.
+REFERENCES
+https://commons.wikimedia.org/wiki/File: Darkenergy.png.
+Planck Collaboration. Planck 2015 results. XIII. Cosmological parameters // Astronomy and Astrophysics, 2016, vol. 594, no. 13, pp. A13.
+Radzini D. Kosmos [Space}. Moscow, Izdatel’stvo AST Publ.; Izdatel’stvo Astrel’ Publ., 2002. 320 p.
+Vjens Ferrel. Vremja protiv jevoljucii. Pochemu vozrast Vselennoj – ne milliony let? [Time is against evolution. Why is the Universe not millions of years old?]. Moscow, Russkij Hronograf Publ., 2003. 128 p.
+Jejnasto Ja., Chernin A. D. Temnaja materija i temnaja jenergija [Dark matter and dark energy]. Moscow, Vek-2 Publ., 2018. 176 p.
+Jenciklopedija dlja shkol’nikov i studentov. T. 2. Fizika. Matematika [Encyclopedia for pupils and students. Vol. 2. Physics. Maths]. Minsk, Belaruskaya Entsyklopedya im P. Broukі Publ., 2010, 528 p.
+
+/
+On the horizons in a viable vector-tensor theory of gravitation
+Roberto Dale1 • M`arius J. Fullana2 • Diego S´aez3
+
+
+
+
+
+
+
+
+
+
+Abstract A certain vector-tensor (VT) theory of grav-itation was tested in previous papers. In the back-ground universe, the vector field of the theory has a certain energy density, which is appropriate to play the role of vacuum energy (cosmological constant). More-over, this background and its perturbations may ex-plain the temperature angular power spectrum of the cosmic microwave background (CMB) obtained with WMAP (Wilkinson Map Anisotropy Probe), and other observations, as e.g., the Ia supernova luminosities. The parametrized post-Newtonian limit of the VT the-ory has been proved to be identical to that of general relativity (GR), and there are no quantum ghosts and classical instabilities. Here, the stationary spherically symmetric solution, in the absence of any matter con-tent, is derived and studied. The metric of this solution is formally identical to that of the Reissner-Nordstro¨m-de Sitter solution of GR, but the role of the electrical charge is played by a certain quantity Γ depending on both the vector field and the parameters of the VT theory. The black hole and cosmological horizons are discussed. The radius of the VT black hole horizon de-
+last horizon is almost independent of the mass source, the vector field components, and the VT parameters. It essentially depends on the cosmological constant value, which has been fixed by using cosmological observa-tional data (CMB anisotropy, galaxy correlations and so on).
+
+Keywords Modified theories of gravity . Spherical symmetry:horizons . Methods: numerical
+
+
+Introduction.
+
+Recently, several vector-tensor (VT) theories –involving a vector field, Aµ, and the metric tensor gµν – have been applied to cosmology (Dale, et al. 2009; Dale and Sa´ez 2012a); in these theories, the background energy den-sity, ρA, of the vector field Aµ plays the role of the dark energy (hereafter the subscript B stands for back-ground); for example, in Dale, et al. (2009), where the theory of gravitation considered in this paper was
+proposed, the equation of state is PA = WρA, where
+
+viates with respect to that of the Kottler-Schwarzschild-	A	Bµ	B
+
+de Sitter radius. Realistic relative deviations depend on Γ and reach maximum values close to 30 per cent. For large enough Γ values, there is no any black hole hori-zon, but only a cosmological horizon. The radius of this
+
+Roberto Dale
+PB is the pressure due to the field A  and W =  1;
+hence, the constant energy ρA plays the role of vac-uum energy. However, in the theory studied in (Dale and Sa´ez 2012a), which might be appropriate to explain the anomalies observed in the angular spectrum of the cosmic microwave background (CMB) for small ℓ mul-
+tipoles, the equation of state is PA = W (a)ρA, where
+
+B	B
+
+Departament d’Estad´ısica, Matema`tiques i Informa`tica, Univer-
+sitat Miguel Herna´ndez, 03202-Elx, Alacant, Spain. Ma`rius J. Fullana
+Institut	de	Matema`tica	Multicisciplina`ria,	Universitat Polit`ecnica de Val`encia, 46022, Val`encia, Spain
+Diego Sa´ez
+Departamento de Astronom´ıa y Astrof´ısica, Universidad de Va-lencia, 46100-Burjassot, Valencia, Spain, and Observatorio As-trono´mico, Universidad de Valencia, E-46980 Paterna, Valencia, Spain
+W (a) is negative for any value of the scale factor a; hence, in this theory, we have a sort of dynamical dark energy different from that associated to the cosmologi-cal constant (vacuum energy).
+Here, our attention is focused on the theory pro-posed by Dale, et al. (2009), which was applied to cos-mology in Dale and Sa´ez (2012b) and Dale and Sa´ez (2014). In this last reference, the VT theory under consideration was proved to be viable in the sense that:
+
+2
+(i) its post-Newtonian parametrized limit is identical to that of general relativity (GR), and (ii) the theory may simultaneously explain the seven year WMAP data about the CMB temperature anisotropy and the mea-surements of supernova Ia luminosities. Conclusion (ii) was obtained by using the well-known Bardeen formal-ism (Bardeen 1980) to write the evolution equations of
+
+where (∇ · A)B = (∇µAµ)B. Therefore, constant γ must be positive to have ρ > 0. The vector field equations, when applied to Robertson-Walker cosmol-ogy, predict a constant value for (∇ · A)B and, conse-quently, ρ is strictly constant as the vacuum energy density. The viability of VT as a theory of gravitation and its cosmological success require γ and ε parameters
+
+the scalar linear perturbations in VT theory, and also to
+satisfying the inequalities ε > γ
+> 0, but their values
+
+find the initial conditions at high redshift necessary to solve these equations [see Ma and Bertschinger (1995)]. By using these elements, a modified version of the code COSMOMC (Lewis and Bridle 2002) –based on statis-tical techniques as the Markov chains – was designed to fit the VT predictions with the observational data mentioned above. A model involving seven free cosmo-logical parameters was used. Results were encouraging (Dale and Sa´ez 2014) and the theory deserves attention. Before writing any field or cosmological equation, let us fix some notation criteria. Our signature is (–
+,+,+,+). Latin (Greek) indexes run from 1 to 3 (0 to 3).The symbol ∇ (∂) stands for a covariant (partial) derivative. The antisymmetric tensor Fµν is defined by the relation Fµν = ∂µAν − ∂ν Aµ, in terms of the Aµ vector field. Quantities Rµν , R, and g are the covariant components of the Ricci tensor, the scalar curvature and the determinant of the matrix gµν formed by the covariant components of the metric, respectively. The gravitational constant is denoted G and the speed of light c. Units are chosen in such a way that c = G = 1; namely, we use geometrized units. The dimension of any quantity is Ln, n being an integer number. Length unit is chosen to be the kilometer. Our coordinates are denoted t, r, θ, and φ. Whatever the quantity ξ may be, ξ′ stands for a partial derivative with respect to the radial coordinate r.
+The two VT theories mentioned above correspond to different choices of the parameters ω, η, ε, and γ involved in the action (Will 1993):
+I =  ∫ (R/16π + ωAµAµR + ηRµν AµAν −
+εFµν Fµν + γ ∇ν Aµ∇ν Aµ + Lm) √−g d4x , (1)
+where the tensor Fµν –defined above– is not the electro-magnetic one. The VT theory studied in this paper [see Dale, et al. (2009)] corresponds to the following choice of the free dimensionless parameters involved in action
+(1): ω = 0 and η = γ. In this theory of gravitation, it has been proved that there are no ghosts and unstable modes for 2ε−γ > 0. Moreover, for a homogeneous and isotropic Robertson-Walker background universe, the energy density of the vector field ρA has been proved to be
+cannot be fixed. In this situation, it is worthwhile the design of new applications of the VT theory with the essential aim of fixing γ and ε and any other arbitrary quantity related with our limited knowledge of the Aµ nature and properties, which are being analyzed. Previ-ous outcomes (based on linearity) strongly suggest that the new applications should be nonlinear. On account of these considerations, we have planed the study of various gravitational physical systems as, for example:
+(a) the black hole horizons of different sizes and their neighborhoods, (b) the cosmological evolution of non-linear structures (galaxies, clusters, superclusters and so on) by using either approximations or simulations, and (c) binary stellar systems radiating gravitational waves. Here, our attention is focused on the simplest of these problems: the study of the VT horizons of outer (no matter content) spherically symmetric stationary space-times, which are fully characterized by the mass m (no electrical charge and rotation) and the cosmo-logical constant Λ.
+According to its formulation, VT is a theory of pure gravitation. The field Aµ has nothing to do with the potential vector of the electromagnetic field. It does not couple with electrical currents. The U(1) gauge symmetry of Maxwell theory is not required in VT. In other words, VT is a simple and manageable theory of gravitation. The electromagnetic interaction must be described in the standard way.
+There are many alternative theories which are be-ing currently studied, some of these theories are only concerned with gravitation; e.g., the so-called f (R) and f (T ) theories, where T is the torsion scalar. In these theories the electromagnetic field is treated in the standard way (minimal coupling with the gravita-tional part of the Lagrangian). In other theories the action is designed to describe both the gravitational and the electromagnetic fields; interesting cases may be found, e.g., in Novello and Perez Bergliaffa (2008), where non-minimal couplings of the electromagnetic field with gravity are proposed. A very promising non-minimal coupling between the electromagnetic field and a f (R) function is applied to cosmology in Bamba and Odintsov (1980), where it is claimed that the theory is viable, and also that inflation and late time accelera-
+
+ρA = γ(∇ · A)2
+,	(2)
+tion may be simultaneously explained. However, in VT
+
+3
+theory, as well as in GR, it must be recognized that inflation is to be produced by additional fields. It is due to the fact that inflation must lead to an isotropic universe, whereas the inflation due to a vector field is expected to be anisotropic. Only a triplet of orthogonal vector fields or N randomly oriented vector fields might produce an isotropic enough expansion (Golovnev et al. 2008), but this is not the case of the VT theory.
+In order to explain inflation we could replace R by an appropriated function f (R) in the Lagrangian of the VT theory; in this way, the field Aµ could explain the accelerated late time expansion, whereas the scalar field, associated to f (R) in the Einstein frame, could account for the required inflation; hence, function f (R) would be chosen to achieve a good inflation, without producing late time acceleration, which implies less re-strictions to be satisfied by f(R). Nevertheless, we think that before any generalization, the VT theory must be fully developed as a simple viable and manageable grav-itation theory, which explains many observations (see above) for arbitrary values of ǫ and γ.
+
+Variations of the vector field Aµ in action (1) give 2(2ε − γ)∇ν F	= JA ,	(6)
+A
+where Jµ = −2γ∇µ(∇ · A) plays the role of a fictitious
+current.
+From Eq. (6) one easily gets the relation
+A
+∇ Jµ = 0 ,	(7)
+which may be seen as the conservation law of the ficti-
+A
+tious current Jµ defined above.
+Since the parameters γ and ǫ are dimensionless, a dimensional analysis of Eqs. (3) and (4) leads to the important conclusion that the dimension of the Aµ com-ponents is L0. This fact will be important below. By using the chosen units and the relation between the Einstein (Gµν ) and Ricci (Rµν ) tensors, Eqs. (3) may be written as follows:
+1	µ	µ
+ν − 2 Rδ	= T	,	(8)
+
+This paper is structured as follows: The VT theory
+where δµ
+is the Kronecker delta, and
+
+is described in Sect. 2, the stationary spherically sym-metric solutions of the field equations are found in Sect. 3, the horizons are studied in Sect. 4 and; finally, Sec-tion 5 contains a general discussion and a summary of
+T µν = 8π (T µν + T µν ) + T µν .	(9) Equation (8) may be easily rewritten in the form:
+
+the main conclusions.
+T µ − 1 T δµ
+= Rµ
+,	(10)
+
+
+
+
+The VT theory: basic equations.
+
+Variational calculations based on action (1), with ω = 0 and η = γ, lead to the following field equations (Dale and Sa´ez 2014):
+
+Gµν = 8π (T µν + T µν ) + T µν ,	(3)
+where T µν is the contribution of matter to the energy-momentum tensor, which have the same form as in GR.
+T being the scalar T µν gµν .
+We have the basic equations to look for horizons in next Sections.
+
+
+The stationary spherically symmetric case in the VT theory
+It is well known that, in the stationary spherically sym-metric case, the line element may be written as follows [see e.g., Stephani, et al. (2003)]:
+
+Tensor T µν is the contribution due to the Aµ field of
+ds2	=	−e2α(r)dτ 2 + e2β(r)dr2
+
+the VT theory, whose form is
++r2( dθ2 + sin2θ dφ2) ,	(11)
+
+1
+T µν	=  2(2ε − γ)[Fµ Fνα −  gµν F
+
+Fαβ ]
+and, moreover, the covariant components A
+have the
+
+V T	α
+
+α
+αβ
+1	2	µν
+µ
+form:
+
+−2γ[{A ∇α(∇ · A) + 2 (∇ · A) }g
+A	≡ [A (r), A (r), 0, 0] .	(12)
+
+ν
+−A ∇ (∇ · A) − A ∇
+µ	0	1
+(∇ · A)] ,	(4)
+
+and T µν also have the same form as in GR; namely,
+Accordingly, the nonvanishing Fαβ components are
+
+Λ
+µν	µν
+F10
+= −F01
+= A′
+.	(13)
+
+TΛ  = −Λg
+.	(5)
+We have the four unknown functions α(r), β(r),
+
+Eqs. (3) are a generalization of the Einstein equa-tions of GR.
+A0(r), and A1(r) to be found from the field equations of Sect. 2.
+
+4
+Hereafter, it is assumed that the matter tensor T µν vanishes and, then, taking into account Eqs. (4), (5), (9), plus Eqs. (11)–(13), one easily get that, in terms of the new dimensionless parameters γ˜ = 8πγ and ε˜ = 8πε, the nonvanishing T µν components are:
+T 01	=  T 10 = 2γ˜g00g11A0(∇ · A)′ ,	(14)
+
+T 00	=	g00{(2ε˜− γ˜)[g00g11(A′ )2]
+
+3.2 Second step: deriving the relation α(r) = −β(r)
+
+The trace T is first calculated by using the T µν com-ponents calculated from Eqs. (14) – (18) and the gµν metric components. The result is
+T = −4γ˜[A1(∇ · A)′ + (∇ · A)2] − 4Λ ,	(20)
+and, then, taking into account this result, Eq. (10), and Eq. (19), one easily get the relation
+
+1	′	2
+
+−γ˜[2A (∇ · A) + (∇ · A) ] − Λ} ,	(15)
+R0 = R1 ,	(21)
+
+0	1
+
+T 11	=	g11{(2ε˜− γ˜)[g00g11(A′ )2]
+From this equation and the nonvanishing components
+
+1	′	2
+
+−γ˜[−2A (∇ · A) + (∇ · A) ] − Λ} ,	(16)
+
+T 22	=	g22{(γ˜ − 2ε˜)[g00g11(A′ )2]
+−γ˜[2A (∇ · A) + (∇ · A) ] − Λ} ,	(17)
+
+T 33	=	g33{(γ˜ − 2ε˜)[g00g11(A′ )2]
+of the Ricci tensor:
+R00 = e2(α−β) α′′ + (α′)2 − α′β′ + 2r−1α′  ,	(22)
+
+R11 = −α′′ − (α′)2 + α′β′ + 2r−1β′	(23)
+
+R22 = e−2β [r(β′ − α′) − 1] + 1 ,	(24)
+
+1	′	2
+
+−γ˜[2A (∇ · A) + (∇ · A) ] − Λ} .	(18)
+R33
+= sin2θ R22
+,	(25)
+
+The line element (11) does not depend on time and, consequently, it does not describe a cosmologi-cal space-time. This is also valid in GR, where the same line element leads to various metrics as those of Schwarzschild and Kottler-Schwarzschild-de Sitter [see Kottler (1918)]. The region where these solutions are physically significant must be determined in each case; e.g., regions where g00 > 0 must be excluded. In VT, it has been claimed (see above) that the cosmological constant is related with the value of ∇ · A in the back-ground universe, but this value is different from that of the same divergence in the stationary spherically sym-metric case; by this reason, in spite of its origin, the cosmological constant is treated as in GR, and it is de-noted Λ.
+Let us now look for the stationary spherically sym-metric solutions of the VT field equations following var-ious steps.
+First step: proving that ∇ · A is constant
+the following relation is easily obtained:
+2r−1(α′ + β′)  =  0 .	(26)
+The same equation is also obtained in GR. After in-tegration, it leads to α = −β [see, e.g., Stephani, et al. (2003)]. Evidently, this relation implies that g00g11 = −1.
+
+Third step: calculation of the A0 component
+
+Function A0(r) may be calculated by solving Eq. (6) in the stationary spherically symmetric case. Since ∇ · A has been proved to be constant [see Eq. (19)], the vector
+A
+Jµ vanishes and, consequently, taking into account the
+relation 2ǫ /= γ, which must be satisfied (see Sect. 1), Eq (6) reduces to ∇ν Fµν = 0. Moreover, taking into account Eqs. (12)–(13), the covariant derivative ∇ν Fµν may be easily calculated to get
+
+A′′ + 2r−1A′
+= 0 .	(27)
+
+0	0
+The calculation of ∇ · A may be performed by solving	′
+the tensor field equation (8) for µ = 1 and ν = 0. In this	In terms of the new variable y = A0, the last equation
+case, since the components R1 and δ1 vanish, from	reduces to y′ +2r−1y = 0. The solution of this equation
+
+Eq. (14) one easily obtains: 2γ˜g00g11A0(∇ · A)′ = 0; hence, for γ˜ /= 0, g00 /= 0, g11 /= 0, and A0 /= 0, it
+is y = A′ = −R0/r2 and, then, a new integration gives
+
+follows that (∇·A)′ vanishes and, consequently, a trivial integration gives
+∇ · A = K0 ,	(19)
+where K0 is an integration constant.
+A0(r)  =  R0r−1 + R1 ,	(28)
+where R0 and R1 are integration constants.
+
+5
+Fourth step: computing metric components
+For µ = 1 and ν = 1, the tensor field equation (10) may
+
+So, the particular solution wp takes on the form:
+w (r) = 1 − 4 (γ˜ − 2ε˜)[r2 ∫ r−1(A′ (r))2dr −
+
+p
+be easily written in the form
+(γ˜ − 2ε˜)(A′ )2 − γ˜(∇ · A)2 − Λ − T/2 =
+e2α (−α′′ − 2(α′)2 − 2r−1α′) ,	(29)
+3	0
+r−1 ∫ r2(A′ (r))2dr] .	(37)
+
+Let us now use the explicit form of A′
+(see above) to
+
+where we have taken into account the relation g00g11 =
+−1 (see Sect. 3.1), the nonvanishing components of Rµν
+easily find
+
+
+2  −2
+
+and T µν listed in previous Sections, and Eq. (19). In the same way, for µ = 2 and ν = 2, one finds
+wp(r) = 1 + (2ε˜− γ˜) R0 r
+.	(38)
+
+(2ε˜− γ˜)(A′ )2 − γ˜(∇ · A)2 − Λ − T/2 =
+ 
+[e2α( 2α′r	1) + 1] .	(30)
+r2
+
+Subtracting equations (29) and (30) and multiplying by the factor e−2α, the following second order differen-tial equation is obtained:
+α′′+2(α′)2+[r−2+2(γ˜−2ε˜)(A′ )2]e−2α−r−2 = 0 . (31) This equation can be solved by using the new variable
+w = e2α. In terms of w, Eq. (31) reads as follows:
+w′′ − 2r−2w = g(r) ,	(32)
+where g(r) = −2[r−2 +2(γ˜−2ε˜)A′ )2] and A′ = −R /r2 (see above in this Section). The general solution of Eq. (32) is w = wh + wp, where wh is the general solu-tion of the corresponding homogeneous equation, and
+Finally, Eqs. (33) and (38) allow us to write the gen-
+eral form of function w = e2α, which directly leads to the metric components
+g00 = − 1 + C1r2 + C2r−1 + (2ε˜− γ˜)R2 r−2 , (39)
+and
+g11 = −g−1 .	(40)
+
+Fifth step: calculation of the A1 component
+
+The last step is the integration of Eq. (19) –derived in Sect. 3.1– to get the function A1(r). This equation may be easily rewritten as follows
+∇ · A = e2α 2(α′ + r−1)A1 + A′  = K0 .	(41) This is a linear first order differential equation of the
+
+wp is a particular solution of the complete inhomoge-
+form h(r)A′
+= f1(r)A1 + K0, with h(r) = e2α and
+
+neous equation. The general solution wh is:
+f1(r) = −2e2α(α′ + r−1). The solution of this equation
+
+wh = C1w1(r) + C2w2(r) = C1r2 + C2r−1 ,	(33)
+is:
+
+A (r) = eF (r)  K
+
++ ∫ e−F (r) K0 dr
+
+
+,	(42)
+
+C1 and C2 being integration constants.	1
+In order to obtain a particular solution, wp, we may
+1	h(r)
+
+apply the method of parameter variations; according to this method, we must look for a solution of the following form:
+wp = u (r)w (r) + u (r)w (r) =
+where K1 is another integration constant, and F (r) = [f1(r)/h(r)] dr. After performing these integrals, one
+obtains:
+K0r/3 + K1r−2
+
+1	1	2
+u1(r)r2
+2
++ u2(r)r−1
+,	(34)
+A1(r) =
+
+/
+1 + C1r2 + C2/r + (2ε˜− γ˜)R2 r−2
+.	(43)
+
+where
+u (r)	=	 w2(r)g(r)  dr
+W(w1 ,w2)(r)
+u (r)	=	 w1(r)g(r)  dr ,	(35)
+(w1 ,w2)
+and W(w ,w )(r) is the Wronskian:
+Eqs. (28) and (43) give the vector field Aµ, and Eqs. (39) and (40) define the metric of the VT the-ory in the stationary spherically symmetric case. The resulting metric is a generalization of the Kottler-Schwarzschild-de Sitter one, which is obtained for C1 =
+— 3 , C2 = −2m = −RS (RS being the Schwarzschild
+radius), and (2ε˜ − γ˜) = 0. In the VT theory we have found a new term (2ε˜− γ˜)R /r , which is positive due
+
+1  2
+
+ w (r)	w (r)
+0
+to the fact that the relation 2ǫ − γ > 0 must be satis-
+
+W(w1 ,w2)(r) =
+  w′ (r)	w′ (r) 
+
+w1(r)w′ (r) − w′ (r)w2(r) = −3.	(36)
+de Sitter metric (Kayll (1979)), which corresponds to
+
+6
+a stationary spherically symmetric charged system in GR. The form of this known metric is
+
+The dimensional analysis in not extended to the com-ponent A1, since the metric is also independent of the constants K0 and K1 involved in Eq. (43).
+
+g00 = −g−1 = −h1 −
+2m	Λ 2
+r − 3 r
+Q2
++
+r2
+,	(44)
+After the above dimensional considerations we can write:
+
+it involves a positive term proportional to 1/r2 which depends on the electrical charge Q; evidently, in Eqs. (39) and (40), there is also a term of this kind,
+A0(r) =
+R˜0m/r ,	(45)
+
+in which, the role of Q2 is played by the constant
+−1	h
+Λ 2	2m
+˜2 m2 i
+
+(2ε˜− γ˜)R2.
+
+
+4 Horizons in the VT theory
+
+In the stationary spherically symmetric case, outside the matter distribution, and in the absence of electrical charge, the solution of the VT field equations involves the integration constants R0, R1, K0, K1, C1, and C2. In this situation, the physical system under considera-tion is fully described by the quantities m and Λ, whose dimensions –in geometrized units– are L1 and L−2, re-spectively. Let us now perform a dimensional analysis to predict the dependence of the parameter R0 involved in the metric components in terms of m and Λ.
+The constants C1, and C2 also appear in GR. Since the dimensions of gαβ are L0, the term C2/r involved in
+g00 = −g11 = − 1− 3 r − r +(2ε˜−γ˜)R0 r2  , (46)
+where R˜0 plays the role of a dimensionless arbitrary constants, which should be fixed by studying appro-priate nonlinear problems in the framework of the VT theory, as, e.g., the geodesic motion of proof particles close to possible horizons.
+In terms of the function f (r) = −g00(r), the horizons are the hypersurfaces r = rh defined by the condition f (rh) = 0. In the regions where the inequality f (r) > 0 is satisfied, our description of the stationary spherically symmetric space-time is physically consistent. Condi-tion f (r) < 0 is not compatible with the assumed metric signature.
+In the standard ΛCDM cosmological model of GR, most current observations are explained for values of the vacuum energy density parameter ΩΛ close to 0.73, which corresponds to Λ ≃ 10   Km  .  The same
+
+g00 is dimensionless and, consequently, the dimension of C2 must be L1; hence, C2 must be a dimensionless number, C˜2, multiplied by m; in this case, we have a
+well known criterion to conclude that C˜2 = −2, a num-
+ber leading to the well known term −2m/r. In the same way, the dimensionless character of C1r2 leads to the conclusion that the dimension of C1 is L−2; hence, this term must be the product of a dimensionless constant
+C˜1 by the factor Λ. In this case, there are also argu-
+ments to conclude that C˜1 = −1/3, a number which
+leads to the well known term −Λr2/3 involved in the Kottler-Schwarzschild-de Sitter metric.
+A similar analysis may be performed for the con-stants R0 and R1; in fact, according to Eq. (28), the dimensionless component A0 is the sum of two terms of the form R0r−1 and R1; hence, the dimensions of R0 and R1 are L1 and L0, respectively and, consequently,
+we conclude that the constant R0 must be the product of a dimensionless constant R˜0 by m; in this case, we have not any criterion to fix the dimensionless constant R˜0, which keeps arbitrary by the moment. This analysis does not give any information about the dimensionless constant R1, but this information is not necessary to
+look for the horizons, which follows from the fact that –according to Eqs. (39) and (40)– the metric compo-nents do not depend on R1.
+value also explains current observations in the frame-
+work of the VT theory [see Dale and Sa´ez (2014)]; hence, the above value of the cosmological constant is hereafter fixed.
+The mass m is varied between 10 M⊙ and 109 M⊙; so, the masses of different types of black holes are con-sidered. From stellar black holes due to supernova ex-plosions, to supermassive ones located in the galactic central regions.
+Once a mass m has been fixed, function f (r) only involves the unknown positive parameter Γ = (2ε
+γ)R˜2. For Γ = 0, the metric reduces to the Kottler-
+Schwarzschild-de Sitter one and, in such a case, there are two horizons, the first (second) one is the black hole (cosmological) horizon, whose radius is hereafter denoted rBH (rC ). In the region limited by these two horizons, namely, for rBH < r < rC , function f (r) is positive and the Kottler-Schwarzschild-de Sitter metric is physically admissible.
+Kayll (1979) studied the horizons in the Reissner-Nordstro¨m-de Sitter space-time. If the outcomes ob-
+tained in that paper are rewritten in our case, by re-placing Q2 by (2ε˜ − γ˜)m2R˜2, it is straightforward to conclude that from Γ = 0 to a certain Γ value, Γmax,
+which is greater than 1/8π but very close to it, there are both a black hole horizon and a cosmological one; how-ever, for Γ > Γmax, there is an unique horizon which is cosmological. Our calculations have verified all this.
+
+7
+For appropriate m values, the algebraic equation f (r) = 0 has been numerically solved for Γ = 0 and for many positive Γ values. For Γ > 1/8π and whatever m may be, we have found only a root at rC ≃ 1.73 × 1023 Km (there is no black hole horizon). However, for any Γ < 1/8π, apart from the above rC ra-dius for the cosmological horizon, we have also obtained a black hole horizon with a rBH radius depending on both m and Γ.
+Figure 1 corresponds to a mass m = 10 M⊙ (stellar black hole). The left panel shows rBH as a function of Γ inside the interval [0, 1/8π]. The radius of the black hole horizon decreases as Γ separates from the zero value corresponding to the Kottler-Schwarzschild-de Sitter solution of the GR field equations. In the right panel, the relative deviation
+2[rBH (Γ = 0) − rBH (Γ)]
+
+Sitter space-times, but the authors recognize that -in these theories– the meaning of the quantity playing the role of the electrical charge is not clear.
+Since the cosmological constant, Λ, is fixed by com-parisons between predictions of the VT theory and cur-rent observations, the cosmological horizon is practi-cally constant. Its radius is almost independent of the mass, m, for any realistic black hole. There is always a cosmological horizon whatever the value of the param-eter Γ defined in Sect. 4 may be.
+In the VT theory, we have proved that, for a given mass m, the radius of the black hole horizon is smaller than the radius of the Kottler-Schwarzschild-de Sitter black hole having the same mass. The relative devia-tions between these two radius are small but significant, reaching values close to 30 %. This effect is important since it is similar to the effect due to the black hole
+
+D =
+rBH
+(Γ = 0) + rBH
+(47)
+(Γ)
+rotation in GR, which leads to a horizon radius smaller
+than that corresponding to J = 0. For Γ > 1/8π there
+
+is represented, as a function of Γ, in the same interval as in the left panel. We see that these deviations reach values close to 30%, which are not very large deviations, but moderate significant ones.
+In Figure (2), the mass is m = 109 M⊙ (galactic supermassive black hole) and, consequently, the radius rBH (Γ = 0)  2m is greater than in the top panels by a factor of 108; nevertheless, this proportionality fac-tor is the same for any Γ and, consequently, the form of the curves represented in the left panels of Figs. (1) and (2) are identical. Moreover, the relative deviations D defined in Eq. (47) reach the same values in the right panels of the two Figures, which means that these de-viations do not depend on m.
+
+
+5 Conclusions.
+
+This paper has been devoted to the development of the VT theory of gravitation proposed by Dale, et al. (2009). Previous applications of this theory to both the solar system and cosmology have given excellent results (Dale and Sa´ez 2014). Here, we have solved the field equations of the VT theory, in the absence of matter and electrical charge, by assuming a stationary spheri-cally symmetric space-time. It has been proved that the resulting solution has the same form as the Reissner-Nordstro¨m-de Sitter solution of GR, but the role of the electrical charge is played by a quantity proportional to the source mass m. After reaching this conclusion, we have focused our attention on the horizons associated to stellar and massive black holes.
+In the absence of electrical charge, Nojiri and Odintsov (2014) have proved that there are f (R) the-ories of gravitation leading to Reissner-Nordstro¨m-de
+is no any black hole horizon in the VT theory under consideration.
+Various methods have been designed to estimate the mass m and angular momentum J of a black hole from observations. If, in future, the mentioned methods be-come accurate enough, and the estimated m and J quantities obey the relation predicted by means of the Kerr solution of Einstein equations, the contribution of the vector field to the horizon radius will have to be considered negligible (Γ ≃ 0); however, if the Kerr re-lation is not satisfied by the observed values of m and J, an appropriate Γ value could solve the problem.
+Let us finally mention two interesting extensions of this paper: first of all, the motion of test particles in the neighborhood of the above VT black hole deserves at-tention; so, accretion disks and other phenomena might be studied. Afterward, the stationary axially symme-try line element, plus an appropriate vector field Aµ, should be considered to study rotating black holes in the framework of the VT theory; in this way, a rela-tion between m and J could be found, which might be satisfied by accurate future observed values of these quantities.
+
+Acknowledgements This research has been sup-ported by the Spanish Ministry of Econom´ıa y Com-petitividad, MICINN-FEDER project FIS2012-33582
+
+8
+
+
+
+
+
+2.6
+10M⊙
+10M⊙
+
+0.3
+2.5
+
+0.2
+2.4
+
+
+2.3
+0.1
+
+
+
+
+2.2
+
+10−5	10−4
+Γ
+
+10−3	10−2
+0
+10−5	10−4
+Γ
+
+10−3	10−2
+
+Fig. 1 Left panel shows the radius rBH of the black hole horizon as a function of Γ. Right panel represents the relative deviations, D, between rBH (Γ = 0) and rBH (Γ), in the Γ interval where there is a black hole horizon. In both panels m = 10 M⊙
+
+
+
+
+
+109M⊙
+3.0
+109M⊙
+0.4
+
+
+
+2.8	0.3
+
+
+2.6	0.2
+
+
+
+
+
+
+2.2
+
+
+
+
+
+
+10−5	10−4
+Γ
+
+
+
+
+
+10−3	10−2
+0.1
+
+
+0
+
+
+
+
+
+
+10−5	10−4
+Γ
+
+
+
+
+
+10−3	10−2
+
+
+
+Fig. 2 Same as in Fig. 1 for m = 109 M⊙
+
+9
+
+References
+
+Bamba, K., Odintsov, S.D.: J. Cosmol. Astropart. Phys.04, 024 (2008)
+Bardeen, J.M.: Phys. Rev. D22, 1882 (1980)
+Dale, R., Morales, J.A., S´aez, D.:(2009). arXiv:0906.2085 [astro-ph]
+Dale, R., S´aez, D.: Astrophys. Space Sci.337, 439 (2012) Dale, R., S´aez, D.: Phys. Rev. D85, 124047 (2012)
+Dale, R., S´aez, D.: Phys. Rev. D89, 044035 (2014)
+Golovnev, A., Mukhanov, V., Vanchurin, V.: J. Cosmol. Astropart. Phys.06, 009 (2008)
+Kayll, L.: Phys. Rev. D19, 421 (1979)
+Kottler, F.: Ann. Phys. 361, 401 (1918)
+Lewis, A., Bridle, S.: Phys. Rev. D66, 103511 (2002) Ma C.P., Bertschinger, E.: Astrophys. J.455, 7 (1995) Nojiri, S., Odintsov, S.D.: Phys. Lett. B 735, 376 (2014)
+Novello, M., Perez Bergliaffa, S.E.: Phys. Rep.463, 127 (2008)
+Stephani, H., et al.: Exact Solutions of Einstein’s Field Equations, Cambridge University Press, Cambridge, (2003)
+Will, C.M.: Theory and experiment in gravitational physics, Cambridge University Press, Cambridge, (1993)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This manuscript was prepared with the AAS LATEX macros v5.2.
+
+
+
+
+
+
+
+
+Viiew publliicatiion stats
+
+On the Nature of Dark Energy, Cosmological Constant and Dark Matter V3
+Ramon Isasi isasi.ramon@gmail.com
+December 27, 2020
+
+
+
+Abstract
+In the present essay, we consider the origin of the dark energy, cosmological constant and the dark matter. The dark energy, is consequence of the annihilation of the matter - antimatter at the very biginning of the big bang.This dark energy was the origin and cause of the cosmo-logical expansion and the past and present creation of the whole space. We take into account the presence of the call “dark” matter as consequence of highly excited hydrogen and helium Ridberg’s atoms in perfect equilibrium with the CMB radiation. The cosmological constant is considered as an arbitrary ad hoc anti gravitational entity. Finally, we note that the Casimir ef-fect, as a suitable and truly efficient physical method and a reliable resource in the experimental determination of the dark energy.
+
+Keywords: Cosmology; Dark Matter; Dark Energy; Empty space, Casimir effect; Rydberg atoms; Hubble constant; CMB radiation.
+
+Introduction
+Nature always has the same design, which evolved from simple elementary units to produce more complex structures. In cosmology and astrophysics all its evolutionary processes was originated from a plasm of gas formed principally by ions, free electrons, neutrinos and radiation.
+As the intensity of the electrical force is 1039 times stronger than the gravitational interactions, during the recombination the electrical charge are canceled and lather the gravitational collapse is produced in the formation of the massive structures as galaxies and stars. In consequence, the characteristics of all these structures - including all the minior unities - were imposed and established by the hegemonic arrangement of the whole. The Rydberg H and He highly excited atoms are the best candidates in the formation of the called “dark matter”. This Rydberg atoms, from the recombination they are in perfect equilibrium with the CMB radiation, and do no interacts with any other shorter forms of the electromagnetic radiation i.e. UV, IR, X, gamma. However, this Rydberg’s atoms together with the “ordinary” matter were fundamental in the formation of galaxies and stars. The evidence of his presence is noted in the anomalous rotation curves of spiral galaxies. Also, the observation of the phenomenon called “gravitational lensing” between galaxies and cumulus of galaxies can be only attributed to the “dark” matter (Zwicky, F. 1937). All this gravitational “anomalies” can be perfectly caused by the highly excited H and He Rydberg atoms. The empty cosmological space is all “dark” energy. The source of this energy was originated from the initial conditions of the big bang process whose physical significance is related as the expansive evolution of the self space. This process was initiated from the annihilation of near the same matter - antimatter particles. At the present time development, the empty space energy
+density is the same as the registered by the Casimir effect.
+
+Microspace vacuum and macrospace vacuum
+Relativistic meaning of the spectral lines
+For an electron pertaining to an isolated hydrogen atom, when n = 1 and v = c/137 (v << c), the Lorentz relativistic expression may by stated in the following form
+
+
+
+m0(1 + δ) = m0
+v2  1/2
+1 + c2
+
+≃ m0
+v2
+1 + 2c2
+
+(1)
+
+When this single electron evolves from a state (i) towards a state (j), there is within the empty contour of the atom a mass increase of ∆m
+
+mi = me (1 + δi)	(2)
+
+mj = me (1 + δj)	(3)
+
+∆m = mi − mj = me (δi − δj)	(4)
+Taking into account δ = v2/c2 = α2/n2, being α the Sommerfeld constant, and as this relation-ship expresses the relativistic quantum ratio in electromagnetic emission (or absorption), we can insert it in (1) and (4)
+
+
+∆m = me
+  v2
+v2 !
+ m α2  1 − 1 !
+/	/
+
+(5)
+
+
+Since α = e2/kc, we have
+2c2
+2	2	2
+i	j
+
+mee4   1 	 1  !
+
+As with the expansion, the kinetic energy K diminishes and the potential energy U increases, this means that the potential energy is equivalent to the space1 that has been created. Likewise, the spectral process of emission or absorption is an interaction between a microbubble of energy (atom) and the macrospace. In this process, both entities always exchange simultaneously the same quantum unit of energy. The absorption lines expresses the mass-energy quantity proceeding from the exterior space, and the emission lines are equivalent to the mass-energy transferred to the macrospace when the electron falls down to an inferior quantum level.
+This correlativity of mass-energy and space-time reciprocal exchange is the foundation for es-tablishing the equivalence between both vacuum contours: the microspace “vacuum” mass-energy and the macrospace “vacuum” mass-energy (Section 2.2).
+From the Equations (1) and (6) it is evident that as the atomic radius increases, the electron energy decreases and ∆m, which means the mass equivalent of the empty atomic space between ni and nj increases too.
+Likewise, according to Bohr’s formalism, the electron “velocity” is vi for ni = 1 and ri = a0 (Bohr radius). When the atom is excited or “expands”, v decreases inversely and linearly in terms of the Bohr’s radius: v = k/(mena0).
+
+1The space is equivalent to mass or energy
+
+
+As the velocity depression is also parametrized with respect to a scale unit (a0), it allows us to establish the following formalism:
+
+
+vj = a0 = 1
+(7)
+
+vi	rj	2
+
+Cosmological expansion and the hydrogen atom excitation
+According to Eq.(7) it may be deduced that the relativistic mass of a photon emitted or absorbed for any transition is inversely proportional to the ratios of the corresponding stable orbits.
+Consequently
+
+mi	 rj
+=	,	r
+
+= 4a , 9a , . . . , n2a
+
+(8)
+
+mj	a0
+j	0	0	0
+
+Also the following proportions are valid:
+
+
+ mi
+mj
+=  Ei
+Ej
+=  Ti
+Tj
+= rj a0
+ n2 2
+i
+=  λj
+λi
+
+(9)
+
+This means, that the relativistic interactive photons mass-energy is directly proportional to the relativist temperature, and inversely proportional to the atomic radius. Even though it is certain that the expansion of the Universe operates in a continuous form, it is a particular congruence that the information of the event was provided by quantum transitions of atomic emissions systems. If for a practical convenience, we change the sign of these transitions, and instead of emission, it would correspond to the excitement of an electron of an isolated hydrogen atom. Here, its eigenvalues would have the same scale proportions in their spatial development as the cosmological values expressed as redshift or temperature of the CMB radiation.
+This correspondence, is due to the equivalence between the energetic mechanism itself that originates the radiation (quantum states) associated to the size of the atoms, its emitted wavelength, and the size of the Universe in expansion.
+It is because of that
+λ	R0	n2	T
+
+z + 1 =  obs =   U  =  j =  em
+(10)
+
+λem	Rem	2	Tobs
+Where z is the measurement of the cosmological expansion; Rem and R0 are the respective
+Universes radii when light was emitted, compared with the present radius.
+For a transition ni = 1 to nj = 2, the atomic radius is 4 times greater, λobs for n = 2 is 4 times larger too. If z = 3, it means that the Universe was 4 times smaller: Rem = R0 /4, or what is the
+same, the wavelength emitted was a quarter of the observed λem = λobs/4.
+As the monodimensional parameters of cosmological expansion have the same ratio as those of atomic excitation states, it means that the energetic implications of both vacuum contours are identical, despite of their scale magnitudes.
+Thus, due to the cosmological expansion, the Lyman alpha line shift of the atomic hydrogen spectra, coincides with the ratio between the two atomic radii which generates this transition Eq.
+(10). E.g., for z = 3 the Lyman alpha line is shifted to a cosmological expansion with a factor 4. Likewise, when an isolated hydrogen atom originates a photon of λ = 1, 216˚A, the electron has a quantum transition from nj = 2 to ni = 1, due to a spatial transition of 4a0 → a0. Although we have adopted the intense Lyman alpha line, the same properties for any other electronic transition
+can be verified.
+
+
+Macrocosm and microcosm moments of interaction
+I view of these preliminary antecedents of equivalence - which link the gravitational field with the Coulombic field - it is possible to relate the atomic and subatomic universe, to the cosmological Universe. In order to accomplish this, we will connect both scales through their corresponding moments of interaction (Law of the Lever). Then, the moment between the microscopic and macroscopic magnitudes can be made equal and be superimposed in the following way:
+
+Energy A = Energy B
+
+FG × L
+
+max
+= Fcoul
+× re
+(11)
+
+The “classical electron radius” re, physically has an entirely relativistic signification of equiva-lence between mass, radial distance and the unit of charge. This constant re, is the radial separation between two electrical charges when the Coulombic potential of energy is equivalent to the electron relativistic mass mec2 = e2/re. The gravitational interaction between a proton and an electron in the domain of re is FG = Gmpme/(2π2r2). As in this conditions Fcoul = e2/r2 = mec2/re we can
+e	e
+substitute it in the Eq. (11) and resolve for Lmax.
+
+
+
+Lmax =
+2π2ree2
+
+/
+Gmpme
+2 2 2
+= 	e	 = 1.26 × 1028cm = 1.36 × 1010Ly	(12)
+Gmp
+
+Being: Lmax Universe critical radius; electron charge e = 4.8 × 10−10cm3/2g1/2s−1; electron mass me = 9.11 × 10−28g; proton mass mp = 1.673 × 10−24g; gravitational constant G = 6.67 × 10−8cm3g−1s−2; classical radius re = 2.82 × 10−13 cm.
+It is evident the critical radius Lmax established in this way is a constant, because it was originated by means of constants. Nevertheless, as Lmax is a superior limit, it is accomplished when the expansive energy is the same as the potential energy. As the generalized state of expansion continues, this limit in the present has not been reached.
+
+Critical number of protons
+A microspace contour, and all the whole Universe contour are complementary when these opposite extremes are represented by means of a limited energy bubble with a well defined critical radius in its spherical surface. This makes it possible to determine another critical parameter, which can be found applying the Principle of Correspondence (Bohr, 1929) about Eq.(12). Its result lead to the obtainment of the number of baryons Nb and the critical mass m0 .
+Multiplying and dividing Eq. (12) by N , being N a constant
+
+
+2π2r2Nc2
+R2 c2
+
+Lmax = 	e	 = 	U	
+(13)
+
+GmpN	2 Gm0
+
+as m0 = mpNb and L2	= 4π2r2Nb	(14)
+from which we obtain the Schwartzchild Radius 2.
+
+
+L	= 2GM ;	M = m0
+(15)
+
+
+/
+max	c2	U
+
+2The scale 4.10 × 1017s : 1.23 × 1028cm : 8.36 × 1055g, is the same as Schwartzchild scale in Natural Units 1s : 3 × 1010cm : 2 × 1038g.
+
+
+The equations (13) and (14) show that Nb represent the critical number of baryons. Therefore:
+
+
+
+Nb =
+Lmax  2
+=
+2πre
+π rec2 2
+=
+G mp
+π e2	2
+G mpme
+= 5.08 × 1079	(16)
+
+The critical baryon density is:
+3Nbmp	 3 
+
+/
+
+  H0  3
+
+
+
+
+−29	−3
+
+The Principle of Correspondence is clearly expressed in the Eq.(16) when microphysics scale gets connected with cosmological scale through the Nb constant.
+The ratio of interaction between two units of charges, with respect to the intensity of its gravi-tational field is 7.13 × 1039 times greater. It signifies that 7.13 × 1039 units of mass are required to produce a gravitational field of the same intensity as a single pair of units of charge. These assertion and principles can be applied to other very extensives or massive forms: galaxies formation, the structure of the Sun and stars.
+
+The Hubble constant
+Kinematics implications of H0
+Theorically, the Hubble constant is defined as a parameter established by the speed of the cosmo-logical expansion within a scale unit (Misner et al; 1972).
+R˙
+H = /
+R
+Starting from this constant, the following parameters can be deduced: a) Linear recession law: v = dl/dt = l˙ = R˙ l/R being l, the mean distance between two referential physical points (i.e. galaxies). b) Hubble time tH = l/v = H−1 where tH is the time from the present referential position, extrapolated to zero distance between galaxies moving at the recession rate observed today. c) Hubble length LH = c/H, where LH is the top distance, which is attained by use of the linear recession law when v is extrapolated to c.
+
+The origin of H0
+One second of parallax (parsec), given by the diameter of the terrestrial orbit around the Sun, is an anthropic scale unit, and physically unmeaning by itself. The origin of H0 must be marked by a physic unit of scale transcendent and significant as the radius of the gravitational collapse RG, which it may allow us the acquisitions of physical implications which are comparative to the atomic referential radius as unit of scale (i.e. a0 or re).
+When the Universe radius was 6.20 × 1024 cm = 2 Mps = RG with a Planck’s blackbody distribution curve corresponding to a temperature of ∼ 5, 400◦K = TG, there still existed a fraction of photons in a thermic state equivalent to ∼ 166, 000◦K, whose number was the same as the whole population of baryons.
+Starting from these conditions, the collapse of gravitation is produced; all the matter and radiation which up to that epoch was in an undiferenciated state of plasm, undergoes a 3-d globular packing condensation. The development of these clumps is a fundamental point of reference: the
+
+
+history of the cosmological expansion begins with the withdrawal of these formations, in order to mark the initial time of H−1.
+
+0
+Since kilometer and megaparsec are units of distance, the dimensions km s−1
+.Mps−1
+means
+
+second−1; then, as the cosmological space progresses, the Hubble expansion rate will decrease continuously, until it reaches the present time value of H0 = 75.4 Km s−1 Mps−1 = 151 Km s−1 2 Mps−1 (Table 1).
+At the present the observational determination of H0 shows acceptable precise values and by means of different methods converges within H0 = 73.8(±3.1) Km·s−1·Mps−1 (Riess, 2011); H0 = 73(±2)(±4) Km·s−1·Mps−1 (Freedman - Madore, 2010); H0 = 73.9 Km·s−1·Mps−1 (Bonamente,
+2006); H0 = 76.5 Km·s−1·Mps−1 (Holanda, 2011); H0 = 74.3 Km·s−1·Mps−1(±2.1) (Freedman -
+Madore, 2012); H0 = 74.03(±1.42) Km·s−1·Mps−1 (Riess, 2019).
+
+Origin and evolution of the repulsive dark energy
+All the 3.12 × 1087 photons of the CMB radiation vibrate in all possible directions through a symmetric axis. But, as they have their origin in the annihilation of almost the same quantity of matter-antimatter, they are formed from Nγ/2 pairs of polarized waves. This polarization still remains after the inverse thermoionization (recombination) because the recombinant electron also collapses in atoms with two possible quantum states. Likewise, the electrons of the hydrogen atoms and He too, show two equal quantum states and emit polarized photons in both pairs.
+Because the great supremacy of the Nγ/2 pairs of polarized waves, and despite of the pertur-bations provoked by the Nb baryons, this scheme remains invariant through all the cosmological evolution. Therefore, from the present conditions, if we fix an inverse sequential order towards a collapse on the space itself (gravitational implosion), it will show the following phases:
+a - When the temperature is higher than 4, 000◦K the electrons and the hydrogen and helium nucleus will still be at the plasma state. The Nγ photons of the CMB radiation keep their polarity, taking into account that they are 1/2Nγ (−) and 1/2Nγ(+).
+b - For the electrons’ threshold temperature T ∼ 6 × 109◦K and RU ∼ 2.6 × 1019 cm, 1/4 photons (-) and 1/4 photons (+) collapses as 1/4 electrons and 1/4 positrons.
+c - When RU ∼ 1.6 × 1016 cm and T > 2 × 1012◦K (neutron’s threshold temperature) other 1/4 photons (+) plus 1/4 photons (-) collapse as 1/4 protons and 1/4 antiprotons, their final
+
+result being N/2 neutrons.
+1/4N (p+ + e− + νneutrino → n0) 1/4N (p− + e+ + νantineutrino → n0)
+N/2 neutrons
+
+Where N/2 = 1.6 × 1087 neutrons, and the constant MV = 2.6 × 1063 g is the mass intake from the empty space.
+d - Finally, this N/2 neutrons coalesces to give ∼ 1.2 × 1068 Planck’s “particles” when RU =
+6.4 × 10−11 cm and T = 1.62 × 1032 ◦K.
+
+In a cyclic, or periodic Universe, the Planck state was not an initial ex-nihilo big bang starting point, instead, it was a crossing point for a new cycle. As at this point, there is not a preexistent surface, the Universe does not rebound on it, but it passes across itself, and expands toward any 3d points of space. Then, the former inward gravitational implosive falling energy was shifted to an opposite outward acceleration. This accelerative expansion, in fact, was not simultaneously canceled by an equal attractive gravitational field (g = 0). Consequently, the origin of the cosmological expansion was produced exclusively from matter-antimatter annihilation (dark energy).
+
+
+Both opposite interactions were still unchanged until the gravitational baryonic collapse, which started at 2Mps (Sect. 3.2).
+
+Dynamical implications of H0
+Taking into account the Cosmological Principle, and considering H0 for a simultaneous time (unob-servable) for any point in all the extension of the cosmological space, we may establish the dynamic state of the Universe from the radiative transition, to baryonic up to present time. Thus, for the
+
+extremes RG = 2 Mps (gravitational collapse) and R0
+(present time radius) we have
+
+
+
+c	2 v
+H0 =	=
+(z + 1)RG	RG
+= 2.45 × 10−18 s−1	(18)
+
+being v = 7.6 × 106 cm s−1 ; RG = 6.20 × 1024 cm
+
+
+
+
+where R0
+
+
+
+= 1.225 × 1028cm
+c
+Also: H0 =	0
+U
+
+= 2.45 × 10−18 s−1	(19)
+
+Equalizing (18) with (19) and reordering, we find the following dimensionless scale
+
+2 v	1
+=
+= 2 H0 = RG
+(20)
+
+c	z + 1	H	0
+Any value from the linear recession law is comparable to whatever intensive property of a system
+i.e. it is similar to the absolute temperature used universally as an indicator of the thermic state, or as a measure of energy for any system.
+Then
+2 v	T
+
+=
+c	TG
+TG: Gravitational collapse temperature	(21)
+
+Since H0 defines the present Hubble expansion rate, and H defines a value of the Hubble constant at different epoch, we may extend (20) in the following way:
+
+ v	 1 
+=	=
+c	z + 1
+2 H0 H
+= RG =  T  =
+RU	TG
+8 mde 1/2
+MV
+
+(22)
+
+MV = 2.64 × 1063g is the mass of the cosmological vacuum (Sect. 3.3). Raising to square all this dimensionless terms and reordering, we find
+
+
+mde =
+MV v2
+
+/
+2 c2
+	M
+8 (z + 1)2 =
+MV H2
+
+/
+2 H2
+MV R2
+=	G =
+8 R2
+MV T 2
+
+/
+8 T 2
+(23)
+
+These proportions express the dynamic state of the Universe unquestionably. The term MV v2/2 c2, the same as the other terms, represents the relativistic vacuum mde dark mass-energy equiv-alence of the space in expansion.
+Despite of the different methods for the determination of the Hubble constant, and the impli-
+cations of the Universe age, for us, H−1 as well as t , are not independent quantities, since we
+0
+consider for H0 a clear point of arrival. Thus RG = 2 Mps (6.20 × 1024 cm) referential point, is coincident with the initial withdrawal of the gas protogalaxies after gravitational collapses.
+The Hubble time is an indicator of the cosmological age through the expansion rate in relation
+−1
+with the RG referential point of departure. Hence, the present value of H	means the duration
+of the expansion from RG until now. For this reason, t0 = age, determined on the basis of the
+−1
+antiquity of the oldest objects, plus its time of formation, is the same as t0 ≃ H	, as likewise
+H0t0 ≃ 1.
+
+The extension of the cosmological space
+Energy constraint
+All terms of the Eq.(23) determine the main implication of the Hubble parameter, because it establishes the dynamic index (scale factor) of the relativistic kinetic energy of the global expansion, prevailing for any point in space in a simultaneous time (Cosmological Principle).
+In the initial evolutive process, because of EV > EG and mV = mde > mM , the Universe was hegemoneously expansive. Up to the RG ∼ 2Mps, the gravitation collapses, and as it implies a force exerted, this makes a continuous decrease of mde = MV v2/2 c2. Thus, the space expansion range can be established by means of the ratio between the expansive energy and the gravitational attractive force (Planck, 1926).
+Slightly modifying the mechanical equivalent of heat, we have:
+Expansive energy = FgravLmax	(24)
+As FgravLmax is the potential energy U , it determines that the expansive energy (kinetic K) be depressed continuously up to the equilibrium limit given by 1 K = U , which constraints the
+Universe extension (Lmax).
+MV v2	2
+Lmax = 2 Gm0 2 RU	(25)
+0 : critical mass = Nbmp(constant)
+Being Nb = 5 × 1079; m0 = 8.35 × 1055 g and MV : mass of the vacuum 2.64 × 1063g (Sect. 3.3),
+K = mV = mde = MV v2/2 c2 (dynamic mass of the vacuum or dark enegy) and U = mM = 2 Gm0 2/c2RU (gravitational mass).
+Considering RG as the starting point, for any historic value of RU and v, the results from Eq.
+(25) are always L = 1.23 × 1028cm = 1.32 × 1010ly. The dark enegy density is:
+	mde		3MV v2
+ρdarkenegy = Universe volume = 8πR3 c2	(26)
+
+Physical meaning of the cosmological term
+The cosmological constant Λ, was designed exclusively for static model of universe. Its origin, was from an arbitrary ad-hoc constant of integration (Peebles P.J.E. 1993), and its negative sign, gives it the meaning of a repulsive “antigravity”. Because of its static non-expansive nature, its implementation is ineffective for any previous stage in the evolution of the universe. Moreover, this repulsive term acts only on the space itself, but not acting on the matter. For this properties, it does not gravitates.
+As a consequence of its static origin, the Eq.(25) is used with all terms as constants
+
+L	= MV v2 R2
+max	2Gm0 2  U
+Multiplying both terms by 4πRU c2 and reordering
+
+
+
+2	2 Gρ 0 m0 c2	0
+
+	3c	 =
+mU	U
+Being ρ
+0 = 3mU  ≃ ρ  = ρ
+
+8πRU Lmax
+MV v2
+mU	4π R3	Λ	V
+
+
+2
+At present time R0 ≃ Lmax, and m0 ≃ mV ≃ mΛ ≃ MV v . Then
+1	−8π	8π
+
+
+
+As c2/Lmax2 ≃ H02
+Λ =	=
+Lmax2
+3 c2 G ρΛ ≃ 3c2 G ρm0
+(27)
+
+
+
+
+H02 =
+−8π G ρΛ
+3
+8π G ρ 0
+≃ 	U 
+3
+
+(28)
+
+For H0 = 2.44 × 10−18s−1; ρΛ = 1.10 × 10−29g cm−3
+This means definitely, that the origin of the cosmological constant proceed from the referential energy of the vacuum mV (Eq. 23).
+It is very evident that the cosmological constant Λ do no shows evolution; it not has pass or future: it is totally adjusted to the present time. Clearly it states that the cosmological constant is directly imposed by the present critical mass.
+After the discovery of the expansive universe by Hubble, the cosmological constant was aban-doned, and Einstein himself considered it as the worst schlupfen (blunder) of his life.
+However, in the last 25 years, the cosmological constant was retaken and currently is considered as one of the greatest star than shines in the sky of the standard model of cosmology.
+
+Photons number density of the CMB radiation
+The energy spectrum of the CMB radiation registered at present, whose mean wavelength is 0.105
+cm, represents a huge magnified copy of the photons produced by annihilation of m± and m±
+(matter - antimatter particles). The number of photons ηγ of the CMB radiation per cm−3 may be easily calculated from the Wien’s Law which related the wavelength with temperature.
+
+
+T · λ
+2π k c
+=
+2π
+Reordering
+−1) = k T
+
+−1)	(29)
+
+CMB	5k
+
+/
+5λCMB
+(cm
+k c (cm
+
+In order to obtain it, is only necessary to apply in both terms the sphere formula:
+
+
+
+ηγ =
+6π2 cm−3
+
+—
+= 0.47374 cm
+
+· λCMB−3 ; ηγ =
+ 3   k TCMB  3
+
+cm−3
+
+= 19.8◦K−3c  −
+
+T 3 (30)
+
+/
+(5λCMB)3
+4π	k c
+
+e.g. TCMB = 2.73◦K and λCMB = 0.105cm; ηγ = 404 photons·cm−3 and ηγ = 408 photons·cm−2.
+
+Otherwise, the Universe photons number Nγ is a constant of nature since TCMB ·RU and RU /λCMB
+are constants:
+
+
+
+Nγ =
+ 2πRU  3
+=
+5λCMB
+k TCMBRU	3
+k c
+
+= 3.12 × 1087	(31)
+
+This equality shows the invariance of Nγ throughout the evolution of RU . Multiplying the Eq.
+(30) by kT/c2, we can arrive to the Universe density of the CMB radiation in g·cm−3.
+
+
+(kTCMB)4
+
+−36
+
+−3◦
+
+−4  4
+
+ρCMB = 4π
+= 3.00 × 10
+c
+g cm	K	T
+(32)
+
+
+Clearly in the expansion process from a temperature of 2 × 109 ◦K to 2.73 ◦K, a huge transfer of energy to the own created space is produced. This means that all the cosmological empty space is entirely energy in itself (dark energy).
+
+Dynamic repulsive density of the empty space
+According to the foundations indicated in Sects. 3.3 and 4.3, it is possible to establish the density of the expanding empty space in terms of CMB rad. temperature evolution.
+Because of its expansive origin (from annihilation of matter-antimatter particles) the cosmo-logical vacuum is a repulsive “antigravitational” entity. Then, at the present temperature of the CMB radiation (2.73 ◦K), the vacuum density of dark energy is equivalent to
+ρde = 102 m+ + m− + m− + m+ · c2 = 204m± · c2 = 0.31 erg·cm−3
+
+Since:  m+ + m− ≃ m± and 1 nγ = 1 408 = 204
+From Eq. (32) the static vacuum dark density at any temperature below 1 × 109◦K is
+
+±	3m±  k T  3	−	−	−
+ρde =	ηγ · m	and ρde =	= 1.66 × 10 23g · cm 3 · ◦K 3 · T 3	(33)
+2	p	8π	k c
+Multiplying by v2/2c2 we have the vacuum dark energy density in g · cm−3 for temperatures bellow to 5,400◦K.
+
+
+
+ρde =
+3m± · v2  k T  3
+
+/
+
+(34)
+
+16π c2	k c
+As the temperature TG = 5, 400◦K marks a point of departure from the gravitational collapse, by use of the Eq.(21), v/c = T/2TG we have:
+3m± · T 5	  k  3
+
+At the present time T = TCMB, radiation = 2.73◦K and ρde = 1.08 × 10−29g cm−3.
+
+Time	Temp.	RU
+seg.	◦K	cm
+	z	ρb
+g·cm−3
+	ρde
+g·cm−3
+	ρCMB
+g·cm−3
+	H	H
+Km·s−1 R−1 Km·s−1 Mps−1
+G
+	
+	2.13 × 1014
+	5,400
+	6.20 ×1024*
+	2,000
+	8.96 ×10−20
+	3.25×10−13
+	2.55 ×10−21
+	3.0 ×105
+	1.50 ×105
+	
+	3.34 × 1014
+	3,350
+	1.01 ×1025
+	1,280
+	1.97 ×10−20
+	3.00 ×10−14
+	3.82 ×10−22
+	2.0 ×105
+	9.69 ×104
+	
+	4.27 × 1014
+	2,625
+	1.28 ×1025
+	960
+	9.68 ×10−21
+	8.85 ×10−15
+	1.44 ×10−22
+	3.0 ×104
+	1.45 ×104
+	
+	—
+	—
+	—
+	—
+	—
+	—
+	—
+	—
+	—
+	
+	5.33 × 1016
+	21.00
+	1.60 ×1027
+	7.68
+	4.96 ×10−27
+	2.40 ×10−25
+	5.89 ×10−31
+	1,200
+	581
+	
+	6.40 × 1016
+	17.50
+	1.92 ×1027
+	6.40
+	2.87 ×10−27
+	1.16 ×10−25
+	2.84 ×10−31
+	1,000
+	484
+	
+	7.47 × 1016
+	15.00
+	2.24 ×1027
+	5.55
+	1.88 ×10−27
+	5.38 ×10−26
+	1.53 ×10−31
+	856
+	415
+	
+	8.55 × 1016
+	13.10
+	2.56 ×1027
+	4.80
+	1.28 ×10−27
+	2.73 ×10−26
+	2.92 ×10−32
+	750
+	363
+	
+	—
+	—
+	—
+	—
+	—
+	—
+	—
+	—
+	—
+	
+	4.10 × 1017**
+	2.73
+	1.23 ×1028
+	0
+	1.09 ×10−29
+	1.07 ×10−29
+	1.68 ×10−34
+	156
+	75.5
+	
+	* Gravitational collapse	** Present time
+
+Table 1: The numerical result obtained from Eq.(23) show that the expansion rate is c when the radius of the universe is RG = 6.20 × 1024 = 2 Mps. Making use of this scale, the expansion rate progressively decreases up to the present value of 150 km·s−1·(2 Mps)−1 or 75.5 km·s−1·Mps−1. By use of the Eqts. (17) and (35), ρb and ρde are obtained. Using the Eq.(38) or 1/H, time is accomplished, the ρCMB result from Eq. (33)
+
+
+
+
+10−12
+
+10−14
+
+10−16
+
+10−18
+
+10−20
+
+10−22
+
+10−24
+
+10−26
+
+10−28
+
+10−30
+1025	1026	1027	1028
+Distance cm
+
+Figure 1: The red line represent the dynamical density of the vacuum ρV . The blue line represent the density of the baryonic matter ρb. The numerical values are from Table 1.
+
+Cosmological time - temperature relationship
+Expansive ideal gas of photons
+Since the whole cosmological space is a black body contour full of radiation and a very repulsive-expansive bubble of energy, the ideal gas equation as a kinetic expression is a suitable tool to resolve this problem directly.
+
+
+
+
+As the relation volume to radius is
+V = NγkT
+ργc2
+
+
+R =   3  V 1/3
+(36)
+
+Since t = RU and ρCMB = ργ , substituting ργ by Eq. (33), and dividing by c, we can determine
+the universe age in terms of the radiation temperature
+k
+
+1/3
+kT	γ
+(37)
+
+
+If Nγ = 3.12 × 1087 (Eq. 32), it means
+
+T = 1.12 × 1018s · ◦K · t−1	(38)
+
+Formulation of the density of energy from the Casimir force
+Conversion of force into energy density
+In the plane - plane geometry, the areas of both planes are L2, and the pressure is independent of the extension of the areas. But in the sphere-plane geometry, when the radius of curvature is relatively high, (10 - 15 cm), this surface can be considered approximately as a plane. However the spherical surface causes an optical dispersion, which geometrically can be corrected by the factor 2 3. Then, for the two system the Casimir pressure is expressed by
+
+plane - plane	plane - sphere
+
+π2kc ρ = 240d4
+= 1.30 × 10−18
+erg cm d−4
+π2kc ρ = 120d4
+= 2.60 × 10−18
+erg cm d
+−4	(39)
+
+At the point of closest separations, d = 6.0×10−5 cm, the static density of energy is 0.20 erg cm−3. For the micro electromechanical MEMS devices, the Casimir force and the Coulombic force are ex-pressed by the following equation.
+
+
+π3kcR
+
+−20
+
+3  −3
+
+FCas =
+= 2.73 × 10
+360d3
+πε0RV 2
+dyn cm d
+
+−10	−1
+(40)
+
+FCoul =
+= 5.15 × 10
+d
+dyn cm d
+(41)
+
+Being R = 0.01 cm; ε0 = 7.97 × 10−2 (dimensionless in c g s); V = 0.136V (1V = 3.333 ×
+10−3 cm1/2 g1/2 s−1); k = 1.05457 × 10−27erg · sec
+In all microelectromecanics systems (Chan and similar) at the “point of closest approach” (7.6 × 10−6cm) the Casimir force (∼ 7.0 × 10−5 dyn) is equal to the Coulombic force at 136 mV. This point, marks a limit, due to the fact that in all experiments a constant is obtained when the differ-ent results are derived in the form of energy density. Then, we can infer that all these “coincident” results, obeys the fact that are measurements of a constant of nature (Table 2).
+The Casimir energy density within the boundaries of any microscopic cavity appears from an ini-tially attractive interaction, which then, at the point of closest separation begins to have a repulsive perturbation. Reaching this balance, allows us to register the static energy density.
+If we consider in Eqts. (41) and (42) as 2R2 to be the effective area of the sphere, the static Casimir and the Coulombic pressure are:
+
+
+π3kc
+
+−16	−3
+
+ρCas = 720Rd3 = 1.36 × 10
+erg d
+(42)
+
+
+
+πε0V 2
+
+−6	−1  −1
+
+ρCoul =
+= 2.57 × 10
+2Rd
+dyn cm	d
+(43)
+
+e.g d = 7.57 × 10−6cm; ρCas = 0.314 erg cm−3; ρCoul = 0.337 erg cm−3
+
+3 The ratio between hemisphere surface / circle surface= 2πR2 = 2
+
+
+
+
+
+
+
+t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 2: The results of static energy density ρst is obtained from Eqts. (40) and (43). The dynamic energy density ρΛ is obtained from Eqts. (49), (50) and (51)
+
+
+The Casimir static experimental energy density is coincident with the obtained from the theo-retical equation (34) ρvac = 0.015 erg · cm−3 · ◦K−3 · T 3. Also the density is:
+−3
+ρV = 0.296 erg·cm	= 3.30 × 10−22g · cm−3
+Which is the same:
+3MU vacuum
+ρ	=	= 3.30 × 10−22g · cm−3	(44)
+V	4πR3
+Cosmological H and HeI highly excited Rydberg atoms
+Thermic equilibrium between the CMB radiation and the Rydberg atoms
+The cosmological space, acts as an entity since it expands by itself as an active element (dark energy). This phenomenon becomes clear by stretching the Nγ photons of the CMB radiation which permeates the whole cosmological space in a homogeneous form.
+In the halos of galaxies, the intergalactic medium and the medium between clusters and in-terclusters, the undetectable dark matter is formed by highly excited Rydberg hydrogen atoms at n = 80 − 90; Z = 1, and by helium Rydberg atoms Z = 1.34, at n = 110 − 120 which are in perfect thermic equilibrium with the CMB radiation. These Rydberg atoms can be detected by its gravitational effect as dark matter.
+∆E	Z2mee4   1 	 1  !
+For H	⇄ H	∆EH ; Z = 1 result T = 157, 100◦K   1  −  1  !	(46)
+In the same way for Heni ⇄ Henj ; Z = 1.34
+We have: T = 282, 130◦K   1  −  1  !	(47)
+
+
+As a representative example, in the Milky Way halo, there are 3,200 photons of the CMB radiation for one hydrogen Rydberg atom and 12,800 CMB radiation photons fo rone Rydberg He atom.
+
+Hydrogen Rydberg atom	Helium Rydberg atom
+ni
+	nj
+	Temp. ◦K
+	λCMBrad · cm
+	ni
+	nj
+	Temp. ◦K
+	λCMBrad · cm
+	
+	76
+	80
+	2.65
+	0.109
+	103
+	109
+	2.85
+	0.101
+	
+	77
+	81
+	2.55
+	0.113
+	104
+	110
+	2.77
+	0.104
+	
+	78
+	82
+	2.46
+	0.117
+	105
+	111
+	2.69
+	0.107
+	
+	78
+	83
+	3.02
+	0.096
+	106
+	112
+	2.62
+	0.110
+	
+	79
+	84
+	2.91
+	0.099
+	107
+	113
+	2.55
+	0.113
+	
+	80
+	85
+	2.80
+	0.103
+	107
+	114
+	2.95
+	0.098
+	
+	81
+	86
+	2.70
+	0.107
+	108
+	115
+	2.85
+	0.101
+	
+	82
+	88
+	3.08
+	0.094
+	109
+	116
+	2.78
+	0.104
+	
+	83
+	88
+	2.52
+	0.114
+	110
+	117
+	2.71
+	0.106
+	
+	83
+	89
+	2.97
+	0.097
+	111
+	118
+	2.64
+	0.109
+	
+	Table 3: According to Equations (46) and (47) we have some illustrative result for H and He Rydberg atoms. λCMB radiadion is obteined by use of the Eq. (29). λCMB = 0.28804◦K · cm
+
+
+
+Dynamic expression form of the energy density
+The transition from the radiative era, to the gravitational era, occurs after the baryonic mass sur-passes the mass-energy of the radiation at 5, 400◦K. At this epoch, the first clumps or clouds of gas were formed and this point marks the initial time of the Hubble parameter. From Eq. (23) the ratio between the Hubble constant at the present time, with respect its value at the gravitational collapse and other directly related parameters are equal to
+
+
+2	H2
+D	2H2
+
+v2
+2c2
+
+T 2
+=  CMB
+G
+
+R2
+=   G  =
+U
+
+1
+/
+8(z+1)2
+
+This index, defines the dynamic relativistic factor of the empty space in expansion. At present time YD2 is
+
+
+Y 2 = 1  75.4km s−1Mps−1  2	1  2.73◦K  2	1  6.4 × 1024cm  2	1 v2 = 3.18 × 10−8
+
+
+/
+D	2	c km s−1 Mps−1
+
+/
+8	5, 400◦K
+
+/
+8	1.23 × 1028cm
+
+/
+2 c2
+
+(48)
+
+
+Expression of the dynamic density in the Casimir experimental results
+The dynamic empty space density registered by the Casimir system is:
+
+
+plane - plane
+
+
+ρCas =
+
+π2 k YD2 = 4.62 × 10
+240 c d4
+
+
+−47
+
+g cm d−4
+
+(49)
+
+For d = 5 × 10−5cm	ρCas = 7.40 × 10−30g cm−3
+
+
+
+plane - sphere
+
+
+ρCas =
+
+π2 k YD2 = 9.21 × 10
+120 c d4
+
+
+−47
+
+g cm d−4
+
+(50)
+
+For d = 5 × 10−5cm	ρCas = 1.50 × 10−29 g cm−3
+MEMS plane - microsphere
+
+
+π3 k YD2
+ρCas = 720 R c d3 = 4.82 × 10
+For d = 7.6 × 10−6cm	ρCas = 1.10 × 10−29 g cm−3
+
+−45
+
+g d−3
+(51)
+
+
+CMB radiation anisotropies
+Sinse de temperature of the CMB radiation and the density of the dark energy are directly related by Eq. 29 and 34, the anisotropies or fluctuations of the CMB radiation temperature must be caused by the density inhomogeneities which perveades between the cumulus and supercumulus of galaxies. According these equations 29 and 34,the fluctuations ratio can be expresses by the
+
+folowing form:
+
+ρ		3.00×10−36g·cm−3◦
+
+K−4T 4
+
+−6◦
+
+Fluctuation index =
+CMBradiation  =
+−31
+−3  3
+CMB
+= 5.67 × 10
+KTCMB
+
+For T = 2.725◦K
+ρDarkenergy
+5.29×10
+g·cm
+TCMB
+
+Fluctuation index = ρCMBradiation = 1.54 × 10−5	(52)
+ρDarkenergy
+This small ratio is in coincidence with the temperature fluctuation of the CMB radiation as well its expresses the spatial index in the anisotropies distribution of the dark matter and the dark energy. The same tiny fluctuations in the CMB radiation were registered by the Planck Mission which its experimental value is: ∼ ±1 × 10−5◦K
+In resume: the universe is formed by 0.05 of visible matter, 0.35 “dark” matter or Rydberg H − He atoms and 0.60 of “dark” energy. The “dark” energy was originated at the very begining of the big bang process during the annhilation of near the same amount of matter - antimatter particles. This “dark” energy is the self energy of all the cosmological space in expansion (Sect. 3.3)
+
+Conclusions
+In natural science, particularly in any branch of the physics, it is extremely hard to construct a scientific framework on basis of generalized hypothetical and enigmatic unknown forms of matter energy. Hence, it is very unusual, as in the cosmological “standard model”, it is considered as a natural fact, that ∼95% of the matter-energy (near the whole) is in unknown hidden form.
+Cosmology requires particles, radiation, space and energy; likewise, atomic physics and astro-physics require the same components. Since atomic physics and astrophysics do not make use of any hidden form of matter-energy, the theoretical cosmology must be free of these artifices. Given these failures, another physics, independent of the dogmas by the hegemonic standard model, would be essential and imperative. In this respect, a new interpretation of the experimental results of the Casimir effect, is a proof of this.
+
+References
+Bohr, N. 1913; Phil. Mag. 261, 10; 476 - 587.
+
+Bonamente, M.; Marshall, K. J.; et. al; 2006; ApJ. 647; 25 - 54.
+
+Bressi, G. ; Carugno, G. et. al; 2002. Phys. Rev. Lett. vol. 88, 041 804
+
+Capasso, F. Monday, J. N. Iannuzzi D.; 2007; IEEE, Journal in Select Topics in Quantum Elec-tronics vol. 13, 400
+
+Casimir, H. B. G. 1948; Proc. K. Ned. Akad Wet. vol 60
+
+Chan, H. B. Aksyoub, R. N. Kleiman, D. J. et. al; 2001; Science, 291, 1941 Freedman, W. L.; Madore B. F.; 2010; Ann. Rev. A&A, 48, 673.
+Freedman, W. L.; Madore B. F.; et. al; 2012; ApJ. 758, 24.
+
+Holanda, R. F.; Cunha, et. al 2012; General Relativity and Gravitation; Springer p. 501 - 508. Iannuzzi, D.; Lisanti, M. Capasso, F. et. al; 2004, PNAS, vol. 101 4018 - 4023
+Kim, W. J. Sushkov, D. A. et. al. 2009; Phys. Rev. A. 79, 026102 Lamoreaux, J. R. 1997, Phys. Rev. Lett. 78, 5
+Lamoreaux, J. R. 2007, Physics Today, 544. 357
+
+Lisanti, M.; Iannuzzi, D.; Capasso, F. 2005, Solid State Comm. vol. 135 Milonni, P. W. Shih, M. L. 1992, Cont. Physics, vol. 33, p. 313 - 326
+Misner, C. W. Thorne, K. S. Wheeler, J. A. 1973; Gravitation, Freeman p. 709
+
+Peebles, P. J. E.; 1993. Principles of Physical Cosmology. Princeton University Press p. 65 Planck, M.; 1926. Treatise on Thermodynamics. Dover Publi. p. 44.
+Riess, A. G. et. al 2011; ApJ. 730, 119.
+
+Riess, A. G. et. al 2019; arXiv; 1903.07603; V. 2
+
+Roy, A., Lin, Yuang, Mohideen U.; 1999, Phys. Rev. D 60, 111101 Sparnaay, M. J., 1958; Physics, 24, 451
+
+
+Sushkov, A. O.; Kim, W. J. et. al. 2011; Phys. Rev. Lett. 107, 171101 Zwicky, F.; 1937; The Astrophysical Journal V. 86; 217
+V.2 version. Number 1812.0462 submited 2019.01.10.
+
+Issue 2 (April)	PROGRESS IN PHYSICS	Volume 14 (2018)
+
+
+LETTERS TO PROGRESS IN PHYSICS
+
+On the Possible Nature of Dark Matter and Dark Energy
+Analtoly V. Belyakov
+E-mail: belyakov.lih@gmail.com
+It is assumed that the dark matter particle can be a structural unit of cosmological scale (superphoton) emitted by the active center of galaxies, analogous to a photon and ball lightning (macrophoton), which are structural units of micro- and macroscales. The low density, potential and temperature of superphotons make them invisible during as-tronomical observations, and their negative charge prevents the galaxies from approach-ing each other which can explain the phenomenon of dark energy. It is shown that the existence of superphotons together with the presence of cosmic rays indicates the con-servation of the electric charge as a whole in cosmological scales. It is assumed that the superphoton, like a giant ball lightning with energy of 1.03 × 1017 J, could collide with the Earth which could explain the Tunguska phenomenon.
+
+
+Introduction. On the natural range of the unit structural objects
+In nature, as the scale changes, a regular range of certain single structural objects is observed. Let us consider them from the point of view of the mechanistic interpretation of
+J. Wheeler’s geometrodynamic [1].
+So, in the microcosm opposite charges (the proton and the electron, for example) are connected by a current vortex tube, forming as a whole a closed contour based on the balance of magnetic and gravitational forces; its structural unit is a photon (wave). The number of these units depends on the contour size, i.e. on the main quantum number n. The size of the “standard” contour rst = 1.25 × 10−9 m. It contains approximately 137 photons (the inverse of the fine structure constant) [1,2]. In the limit, the contour can have one photon, that is, being identical to the photon itself.
+A photon, like the contour itself, is a one-dimensional ob-ject; the photon does not exist at rest alone.
+In the area of Earth’s scales between charged macroob-jects — a thundercloud and Earth — a linear lightning arises, also a kind of the current tube that generates a ball lightning, which, in turn, can be regarded as a structural unit. Calcula-tion of the parameters of a typical ball lightning, provided that it has a mass close to the Planck mass (quasiparticle) is de-scribed in [3]. It is assumed that the ball lightning consists of many single elements — photons or of one long closed con-tour packed into a spherical shape, forming a macrophoton. A macrophoton is a multilayer spherical capacitor, i.e. a kind of two-dimensional object; the lifetime of a macrophoton is limited.
+As for cosmic scales, there was shown in [4] that the structure of quasars can contain very long open vortex tubes with opposite currents carrying charges of different signs at the place of their rupture that resembles a kind of a superatom. Vortex tubes consist of vortex threads, which, supposedly, can be transformed into compact structural units — superphotons
+emitted by a quasar. Accordingly, continuing the analogy, the superphoton should be a three-dimensional object, and its lifetime is unlimited.
+Indeed, galaxies form a homologous generation — from galaxies with a quasar in the center to galaxies with a black hole in the center. Thus, if a black hole absorbs matter, then the quasar as a white hole (the superdense body according to Ambartsumyan) generates matter. Then galaxies with quasars passing into a state of galaxies with black holes should radiate (to split off) part of its mass in the form of some particles.
+
+On the possible super-photon structure
+In [4] some parameters of the “standard” quasar were cal-culated, namely such ones, where the speed of the medium along the vortex tubes is that of “standard” proton-electronic contour. In particular, the following are defined:
+quasar mass M, kg	4.76 × 1042
+quasar total energy E, J	9.61 × 1053
+length of the quasar vortex tube l, m	 1.58 × 1021 mass of 1 vortex threads of a quasar tube mi, kg	5.10 × 105 number of unit threads const. the vortex tube, z	 9.33 × 1036
+If the vortex thread forms a certain stable structure, then, obviously, certain balances of interactions must exist to main-tain such a structure in equilibrium.
+So, in [4] it is calculated that there is a balance of the vor-tex tube kinetic energy and the electrostatic energy of all sin-gle charges (not necessary electrons) placed along the vortex tube length, provided the distance between the vortex threads is equal to the size of the “standard” proton-electronic con-tour rst and the maximum single charges number must be
+zie = l/re = 5.6 × 1035,	(1) where re is the electron classical radius (2.82 × 10−15 m).
+At the same time, when the vortex threads are split off
+from the vortex tube, for a pair of threads a balance of electric
+
+Volume 14 (2018)	PROGRESS IN PHYSICS	Issue 2 (April)
+
+
+and magnetic forces must be realized that leads to a geometric mean [5]:
+(li rst)1/2 = 7.52 × 108 m,	(2)
+from which follows li = 4.52 × 1026 m.
+Let us assume that this extended one-dimensional struc-ture, i.e. a double vortex thread with charges of opposite signs can somehow be packed into a compact volume (similar to a double helix of DNA). In the most dense packing its linear dimension D can be estimated as
+D = (l r2 )1/3 = 890 m.
+Superphoton as a candidate for the role of dark matter
+A superphoton, unlike a ball lightning, has an insignificant density, potential, and surface temperature, hence it inter-acts with other bodies only in a collision or through gravity. Therefore, this object, inconspicuous against the background of relic radiation, can claim the role of the desired dark mat-ter. The generality of its origin with ordinary baryonic matter is obvious; this possibility is also allowed in [6]. Let us as-sume that as the quasar “burns out” (before becoming into a galaxy), most of its mass is radiated in the form of superpho-
+
+i st
+(3)
+tons (dark matter), and less of its mass remains in the form of a conventional galaxy (baryonic matter). Then the ratio of
+
+Further one can find other averaged parameters of the ob-
+ject — density, energy, charge and potential:
+ρ = m /D3 = 0.72 × 10−3 kg/m3,	(4)
+Ei = E/z = 1.03 × 1017 J,	(5)
+Qi = zie e0 = 9.0 × 1016 K,	(6)
+where e0 is the electron charge,
+Ui = Ei/Qi = 1.14 V.	(7)
+It is important that in this volume the average distance be-tween charges d is close to the size of the “standard contour” rst, i.e. the balance characteristic of the proton-electronic contour is also realized. Really,
+d = (D3/zie)1/3 = 1.08 × 10−9 m.	(8)
+Recall that all of the above calculated values are the result of using only the fundamental values.
+Thus, when carrying out these balances, one can expect that such an object is stable and exists for a long time. Let’s estimate this time, assuming that its object radiates as an ab-solutely black body and has a surface temperature close to the cosmic background radiation temperature T = 2.7◦ K (otherwise such objects would be seen in the process of as-tronomical observations). The power radiated by its surface is determined from the well-known formula:
+Ni = T 4σ S,	(9)
+where σ is the Stefan-Boltzmann constant, equal to 5.67 × 10−8 Wm−2 (0K)−4, and S is the sphere area of diameter D equal to πD2. Substituting the data, we get Ni = 7.5 W and than the lifetime of the object is:
+τ = Ei/Ni = 1.37 × 1016 sec or 442 million years,	(10)
+which in order of magnitude corresponds to the lifetime of a quasar. Obviously, such an object can exist for a longer time, since it gradually dissipates its power and reduces the radiation temperature.
+these masses should be close to the mass ratio of the quasar to the galaxy minus one. The calculated mass of the “stan-dard” quasar is about five times greater than the baryon mass of our Milky Way galaxy [4]; for most other galaxies, less massive, this ratio is even greater. Thus, the ratio of the mass of superphotons to the mass of the average galaxy is gener-ally consistent with the ratio of the dark matter mass to the baryonic matter mass. According to WMAP (Wilkinson Mi-crowave Anisotropy Probe, 2003), the universe contains: dark matter of 22%, baryonic matter of 4%.
+Apparently, young galaxies as the most massive and ac-tive should gradually lose their mass and reduce activity. This provision is consistent with the recently discovered of very massive young galaxies, about one billion years of age that produce stars with intensity much higher than the rate of star formation in our galaxy the Milky Way [7].
+If the superphoton has kinetic energy relative to the point of origin (the quasar center) equal to its internal energy, then its relative velocity is equal to the circulation velocity of the medium along the vortex tube (for the “standard” quasar, v = 448, 000 m/sec), i.e. it is close to the escape velocity. If par-ticles are emitted mainly in the disk plane, then in this case their total velocity (peripheral velocity plus particle one) ex-ceeds the escape velocity. Thus, during its lifetime (quasar activity), super-photons can move away from galaxies and fill the halo of galaxies, thereby playing the role of dark matter. In this case, in the most remote galaxies, i.e. the youngest from the point of view of observers, dark matter should be less. Indeed, this fact is established [8, 9].
+According to the model, the super-photon is a cold and slowly moving formation that corresponds to the model of Cold dark matter. And just in favor of this particular model, the results obtained by a group of astronomers led by Vid Irsˇicˇ, who analyzed the distribution of dark matter in the uni-verse, based on observations of the lyman alpha radiation from distant galaxies obtained with the help of the Keck Tele-scope (Hawaii) and the Very Large Telescope Observatory (Chile) indicate [10].
+Some features of the behavior of dark matter is not yet amenable to computer simulation: the cosmological models of formation and evolution of disk Galaxies, the distribution
+
+Issue 2 (April)	PROGRESS IN PHYSICS	Volume 14 (2018)
+
+
+of the density of dark matter in the galaxy disk (the prob-lem of the central cusp), coplanarity dwarf galaxies-satellites relative to central galaxies, weak interaction of clouds of dark matter among themselves and others [11]. Therefore, it would be interesting to perform computer simulation, believing that dark matter particles have the properties of superphotons and move mainly in the plane of the galaxy disk.
+The average density of particles in the form of superpho-tons in a galaxies interior, including the halo of diameter 105 light years, is very small, about one particle per cubic with a side of 0.5 million kilometers, which gives 5 × 10−24 g /cm3. And, having the same charge, superphotons repel each other and can not form clusters. Therefore clouds of dark matter can freely intersect without significant interaction. At this density of dark matter and even several orders of magnitude greater (in the case of dark matter distribution mainly in the disc plane), its presence in the solar system can not be de-tected, which corresponds with the conclusions [12].
+Let’s try roughly to estimate the probability of a super-photon collision with the Earth. Let’s assume that during our existence (1.3 × 1010 years) our galaxy has lost 4/5 of its baryonic matter due to the uniform radial radiation of super-photons on its inner spherical surface with a diameter of 105 light years. Then the number of super-photons from the total number of them ( 1 × 4 × 9.33 × 1036 = 3.73 × 1036) that fall
+2	5	−16	2
+sity of particles in the corresponding volumes, i.e. cube ratio of linear scales, corresponds to the same order of magnitude.
+
+On the forces of repulsion and dark energy
+If the hypothesis of a superphoton is correct, then the galaxies periphery, where dark matter is mainly accumulated, should be surrounded by a distributed negative charge, which should counteract the “clumping” of galaxies between each other and also the walls of galactic vaults as a whole. Considering the masses and charges of galaxies at very great distances as point ones, it is possible to determine the magnitude of the equilib-rium negative charge, at which electric forces are compared with gravitational ones:
+
+Q = 2M (π ε0 γ)1/2 ,	(11)
+
+where ε0 and γ are known electric and gravitational constants. Substituting the data, we find for the “standard” mass of the quasar Q = 4.08 × 1032 Coulomb.
+Neither the charge distribution around galaxies nor its fraction responsible for the repulsive force between them is known. Therefore, for a rough estimate of the smallest value of the acting charge it suffices to restrict oneself to only the fraction of superphotons enclosed in a single spherical layer along the halo periphery, and — in the superphotons them-
+
+per unit sphere area is 10	units per m per year. Accord-
+
+ingly, 0.013 units per year (one superphoton at 77 years) fall on the globe cross-section or, in terms of unit charges, there are 1.46 × 1034 charges per year.
+This is a reasonable value, but in reality this probability is much less and not only because of shading of the Earth by other cosmic bodies, dust, etc. The main reason is obviously the age of our galaxy and the presence of a black hole at its center; so we can assume that by now the radiation of super-photons is replaced by the reverse process — the absorption of matter by a black hole. Superhotons are carriers of namely negative charges, since there simultaneously are streams of positively charged particles — cosmic rays; at the same time negative and positive charges should be compensated in space as a whole. Obviously, there is some physical mechanism that separates the primary plasma into particles of opposite signs. Positive particles (mainly protons) form cosmic rays, and electrons are decelerated in interstellar magnetic fields (the material basis of the vortex tubes in our model).
+The intensity of cosmic rays at the surface of the Earth is approximately one particle per cm2 per second or 1.6 × 1026 particles per year on the entire Earth surface that is eight or-ders of magnitude less than the number of negative charges. However, the characteristic scale of the propagation of slow superphotons is the size of the galaxy (105 light years), and the similar propagation scale of cosmic rays, provided that they are uniformly distributed throughout the cosmic space, is the size of a larger structure — the cell of the cosmological network or the vault (107–108 light years). Thus, the unit den-
+selves — to a single spherical layer of negative charges along
+the periphery of superphotons. It was previously calculated that in the halo volume of 105 light years in size, the super-photon occupies the cell of 5 × 108 m; then, based on the areas ratio, one can find that 1.13 × 1025 superphotons can be placed in a single peripheral layer of the halo. Similarly, bearing in mind the dimensions of the superphoton D and the standard contour rst, one can find that 1.59 × 1024 charges can be placed in the peripheral layer of the superphoton. Thus, the effective minimum charge of the “standard” galaxy will be 1.13 × 1025 × 1.59 × 1024 × e0 = 2.87 × 1030 Coulomb
+or 0.7% of the equilibrium charge. This is already an appre-ciable value; therefore, with more number of active charges, for example, with the expansion of the halo surface, the re-pulsive forces between galaxies can increase up to exceeding them above the forces of gravitational attraction.
+So, if this hypothesis is correct, then in the space between galaxies and their clusters the electric field also acts, and the electrostatic repulsive forces beyond the galaxies have the same distance dependence as the gravitational ones, i.e. in-verse quadratic form. This is consistent with the opinion of some researchers that “the physical nature of dark energy is determined by the interaction of gravitation and electroweak forces” [13]. These forces manifest themselves as antigravity, which in total can be interpreted as a modification of the the-ory of gravity at extremely long distances and cosmological durations [6], which is one of the explanations of dark energy accepted to date.
+
+Volume 14 (2018)	PROGRESS IN PHYSICS	Issue 2 (April)
+
+
+Conclusion
+Thus, the super-photon, bearing in mind its properties, may turn out to be the desired dark matter or the missing substance of the universe. Its existence as a carrier of negative charges is indirectly confirmed in the existence of cosmic rays — car-riers of positive charges that correspond to the condition of the charge conservation in the universe as a whole. In the case of correctness of the model presented, the problem of dark matter and dark energy finds the most rational explana-tion: dark matter (superphotons having a negative charge) is a product of the evolution of ordinary matter, and dark energy (repulsive forces) is the property of dark matter.
+Of course, the superphoton is such a “particle” that clearly does not meet the expectations of researchers studying dark matter. Perhaps direct evidence of the existence of super-photons can be detected by observations during their interac-tion with the Sun or against the background of the Sun’s disk, the probability of which is four orders of magnitude higher than when super-photons interact with the Earth.
+There is only one event that could be explained by the collision of the superphoton with the earth — this is the Tun-guska phenomenon. Indeed, the superphoton as the analog of a giant ball lightning with an energy of 1.03×1017 J, in size of 890 m and moving at cosmic speed could produce the specific effects of the Tunguska catastrophe, including those that are not explained by the currently dominant meteorite hypothe-sis [14].
+Submitted on December 22, 2017
+References
+Belyakov A.V. Charge of the electron, and the constants of radia-tion according to J. A. Wheeler’s geometrodynamic model. Progress in Physics, 2010, v. 6, issue 4, 90–94.
+Belyakov A.V. Macro-analogies and gravitation in the micro-world: further elaboration of Wheeler’s model of geometrodynamics. Progress in Physics, 2012, v. 8, issue 2, 47–57.
+Belyakov A.V. On the nature of ball lightning. Progress in Physics, 2016, v.12, issue 3, 276–279.
+Belyakov A.V. Are quazars white holes? Progress in Physics, 2017, v.13, issue 1, 7–10.
+Belyakov A.V. Evolution of stellar objects according to J. Wheeler’s geometrodynamic concept. Progress in Physics, 2013, v.9, issue 1, 25–40.
+Lukash V.N., Rubakov V.A. Dark energy: myths and reality. Physics-Uspekhi, March 2008, v.178, issue 3, 301–308.
+Discovered: Fast-growing galaxies from early universe. Carnegie Insti-tution for Science, Public Release: 24 May 2017.
+Swinbank M. Astrophysics: distant galaxies lack dark matter. Nature, 16 March 2017, v.543, 318–319.
+Genzel R. et al. Strongly baryon-dominated disk galaxies at the peak of galaxy formation ten billion years ago. Nature, 16 March 2017, v. 543, 397–401.
+Irsˇicˇ V. et al. First constraints on fuzzy dark matter from Lyman-α forest data and hydrodynamical simulations. Physical Review Letters, 2017, v.119, 031302; arXiv: 1703.04683.
+Khoperskov S.A., Shustov B.M., Khoperskov A.V. The interaction of dark matter cusp with the baryon component in disk galaxies. arXiv: 1204.4917 [astro-ph.CO].
+Pitjev N.P., Pitjeva E.V. Constraints on Dark Matter in the Solar System. arXiv: 1306.5534 [astro-ph.EP].
+Chernin A.D. Dark energy and universal antigravity. Physics-Uspekhi, 2008, v.178, issue 3, 267–300.
+Bronshten V.A. Tunguska meteorite: the history of the study. Moscow, Selyanov A. D. Publisher, 2000.
+
+
+/
+
+On the Unified Field Theory and the Structure of Space-Time
+
+Tuan Van Tran
+VNUHCM University of Science
+Email: ttgauss@gmail.com
+Email: vantuanvnu@gmail.com
+September 13, 2025
+
+
+
+
+Abstract
+This paper proposes a geometric Unified Field Theory where all fundamental interactions, mediator particles, and vacuum fluctuations are treated as manifestations of space-time curvature. We establish a direct link between the Ricci scalar curvature (R) and the nature of forces, and introduce a quantized space-time structure that selectively filters particles based on their volumetric oscillation amplitudes.
+
+Keywords: Unified field theory; Ricci scalar curvature; quantized space-time; graviton; photon; gluon; weak interaction; General Relativity; Quantum Gravity; black hole thermodynamics.
+
+Introduction
+The quest for a Unified Field Theory has been the ”Holy Grail” of modern theoretical physics, seeking to describe all fundamental interactions—gravitational, electromagnetic, strong, and weak—within a single consistent geometric framework. In this paper, we present a novel approach in which the local curvature of space-time, quantified by the Ricci Scalar (R), strictly determines the dynamic nature of fundamental forces.
+The central hypothesis is that each interaction corresponds to a specific geometric deformation of the vacuum:
+R < 0 ⇒ Attractive Force (Gravity, Strong Force, Weak Force, EM attraction), R = 0 ⇒ Equilibrium (Flat Space-time),
+R > 0 ⇒ Repulsive Force (Dark Energy, EM repulsion).
+
+
+R < 0
+Attractive (Valley)
+R = 0
+Equilibrium (Flat)
+R > 0
+Repulsive (Hill)
+
+
+
+Dark Energy
+
+Gra/ity
+
+Figure 1: Geometric visualization of the Unified Field Theory hypothesis based on the Ricci Scalar curvature
+(R). From left to right: Attractive potential well (R < 0), Flat equilibrium (R = 0), and Repulsive potential hill (R > 0).
+This framework extends Einstein’s General Relativity by incorporating all interactions as geometric manifestations of the same underlying structure. In this view, the gravitational field is not unique in curving
+
+space-time; fields mediated by photons, gluons, and weak bosons also induce specific curvature signatures corresponding to their range and coupling strength. A key implication of this theory is that space-time is not continuous but quantized, containing discrete topological defects or ”gaps” (δquantum). Postulating a quadratic relation between frequency and amplitude (f = T0 2), we explain the anomaly of black hole radiation: Gravitons, possessing extremely low frequencies, exhibit infinitesimal oscillation amplitudes that allow them to traverse the spatial gaps of the event horizon. In contrast, high-energy photons possess large volumetric amplitudes and are geometrically obstructed. Through this approach, the Unified Field Theory naturally incorporates the curvature-dependent behaviors of all forces, bridging the gap between the smooth geometry of General Relativity and the discrete nature of Quantum Mechanics.
+
+The  Fundamental  Amplitude-Frequency  Relation
+Properties of Elementary Particles
+The elementary particles listed below—including Quarks, Leptons, Bosons, and the hypothetical Gravi-ton—exhibit a fundamental dual nature:
+ˆ Quarks: Up, Down, Charm, Strange, Top, Bottom.
+ˆ Leptons: Electron, Muon, Tau, Electron Neutrino, Muon Neutrino, Tau Neutrino.
+ˆ  Bosons (Force Carriers): Photon, Gluon, W Boson, Z Boson, Higgs Boson.
+ˆ Hypothetical: Graviton.
+We postulate that all these particles possess both a particle nature, characterized by frequency f , and a wave nature, characterized by amplitude A. Furthermore, there exists a direct correlation between the particle’s energy (or mass) and its wave properties: as the mass or energy increases, both the frequency f and the amplitude A increase. This relationship is governed by the equation:
+
+f = T0 · A2	(1)
+where T0 is the fundamental proportionality constant.
+
+The Quadratic Constraint Postulate
+In classical wave mechanics, the amplitude (A) and frequency (f ) of a wave are generally independent parameters. We propose that these two quantities are geometrically coupled. We introduce the Postulate of Frequency-Amplitude Relation:
+
+
+
+
+where:
+f = T0 · A2	(2)
+
+ˆ f is the oscillation frequency of the string (Hz).
+ˆ A is the amplitude (m).
+ˆ T0 is a new fundamental constant, termed the Spatial Vibration Density Constant, representing the “stiffness” or topological constraint of the vacuum at the Planck scale.
+
+Unification of Classical and Quantum Energy Laws
+The quadratic relation postulated in Eq. (2) serves as the missing link between classical field theory and quantum mechanics.
+
+The Quantum Perspective: According to the Planck-Einstein relation, the energy of a quantum particle is proportional to its frequency:
+Equantum = hf	(3)
+
+The Classical Perspective: According to Maxwell’s electromagnetic theory and classical mechanics, the energy density of a wave is proportional to the square of its amplitude:
+Eclassical ∝ A2	(4)
+
+The Unified Derivation: By substituting our postulate f = T0A2 into the quantum energy equation, we obtain:
+E = h(T0A2) = (hT0)A2 = hf	(5)
+Letting the proportionality constant be k = hT0, we recover both the classical law and the Planck-Einstein relation:
+E ∝ A2	and  E ∝ f	(6)
+Conclusion: It naturally derives the classical amplitude-energy relationship from quantum principles without modification. This suggests that the ”particle” nature (frequency) and ”wave” nature (amplitude) are merely two mathematical manifestations of a single geometric reality governed by the constant T0.
+
+Implications for Black Hole Thermodynamics
+
+This quadratic relationship (A =	f/T0) provides a robust mechanism for the selective emission of particles from black holes, based on the Quantized Gap Hypothesis (δquantum).
+ˆ Gravitons (Low Energ√y): Since gravitons possess extremely low frequency (f → 0), their spatial
+amplitude scales as Ag ∝	f . Consequently, Ag becomes infinitesimally small, satisfying the condition
+Ag < δquantum. This allows gravitons to traverse the discrete gaps of the spacetime metric, explaining why gravity ”leaks” out of singularities.
+ˆ Photons (High Energy): For electromagnetic radiation, the frequency f is high. The quadratic scaling forces the amplitude Ap to grow significantly (Ap > δquantum). Due to their large volumetric displacement, photons are physically obstructed by the quantized structure of spacetime near the event horizon.
+
+The Nature of Hawking Radiation at the Horizon
+It is important to clarify that Hawking radiation originates at the event horizon, not at the singularity. In this region, the gravitational field is relatively weak, and the local space-time curvature is significantly less extreme compared to the black hole’s core. Consequently, particles can escape from this boundary without satisfying the strict microscopic condition that their oscillation amplitude must be smaller than the discrete spatial gaps of the vacuum (A < δquantum).
+
+The Geometric Mechanism of Black Hole Evaporation
+This theoretical framework provides a geometric resolution to the information paradox by distinguishing interactions based on their volumetric oscillation signatures. The reason why gravity can escape from a black hole while electromagnetism cannot lies in the quantized structure of space-time. We postulate that the vacuum is not continuous but contains discrete topological defects or ”gaps” (δquantum).
+According to the relation derived in this theory (f = T0A ):
+ˆ Gravitons: Possess extremely low energy and frequency, leading to infinitesimal oscillation amplitudes (Ag ≪ δquantum). Consequently, they can thread through the spatial gaps of the event horizon.
+ˆ Photons: Possess high energy and frequency, resulting in large volumetric amplitudes ( p > δquantum). They are physically obstructed by the vacuum lattice structure.
+This mechanism explains Hawking radiation and particle escape purely through geometric filtering.
+In this unified framework, fundamental forces are not abstract fields superimposed on space-time; rather, they are direct consequences of geometric deformations induced by specific mediator particles. These particles modify the local Ricci scalar curvature (R), creating potential wells (attraction) or barriers (repulsion).
+We classify the geometric contributions of these mediators as follows:
+
+ˆ Graviton (g): Mediates Gravity. It induces a long-range, smooth negative curvature (R < 0) corre-sponding to mass-energy density, creating the macroscopic attractive force observed in General Rela-tivity.
+ˆ Photon (γ): Mediates the Electromagnetic Force. Depending on the charge configuration, photons induce either negative curvature (R < 0, attraction) or positive curvature (R > 0, repulsion). Due to the massless nature of the photon, this curvature extends over infinite ranges.
+ˆ Gluon (g): Mediates the Strong Nuclear Force. Gluons create an intensely curved and highly localized ”geometric knot” (R ≪ 0) within the femtometer range (10−15 m), responsible for quark confinement.
+ˆ Weak Bosons (W±, Z0): Mediate the Weak Nuclear Force. These massive bosons create sharp, short-range topological defects in the space-time lattice (R < 0) at the sub-femtometer scale (10−18 m), governing radioactive decay and neutrino interactions.
+
+Interaction
+	Mediator Particle
+	Curvature Sign
+	Geometric Type
+	Range
+	
+	Gravity
+	Graviton (g)
+	R < 0
+	Smooth Well
+	Infinite
+	
+	Electromagnetic
+	Photon (γ)
+	R < 0 / R > 0
+	Well / Hill
+	Infinite
+	
+	Strong Force
+	Gluon (g)
+	R ≪ 0
+	Deep Knot
+	−15
+~ 10	m
+	
+	Weak Force
+	Bosons W±, Z0
+	R < 0
+	Sharp Defect
+	−18
+~ 10	m
+	
+	Table 1: Classification of fundamental forces based on mediator-induced space-time curvature.
+
+
+The Unified Principle of Curvature
+Unified Field Theory seeks to combine all interactions—gravity, electromagnetism, strong, and weak nu-clear forces—into a single theoretical framework. In our approach, the structure of space-time plays the fundamental role. The core principle is that the Ricci scalar curvature (R) determines the balance of forces.
+Denoting the local scalar curvature by R, we categorize the interactions as follows:
+
+Case A: Attractive Force (R < 0) If R < 0, the geometry creates a potential well, resulting in an attractive force.
+ˆ Historically, Einstein used this to explain Gravity.
+ˆ In this unified framework, we extend it to explain the Strong and Weak interactions,Electromagnetic force between two opposite charges (localized deep wells).
+ˆ It also applies to Dark Matter, which manifests as an additional intrinsic attractive curvature of the vacuum.
+ˆ It applies to Electrostatics between opposite charges.
+
+Case B: Equilibrium (R = 0) If R = 0, the attractive and repulsive geometric contributions cancel each other out, resulting in a flat, force-free region.
+
+Case C: Repulsive Force (R > 0) If R > 0, the geometry creates a potential hill, resulting in a repulsive force.
+ˆ This explains the repulsion between like electric charges.
+ˆ Crucially, it explains Dark Energy as a pervasive positive curvature that opposes gravitational col-lapse, driving cosmic acceleration.
+
+Geometry of the Strong Interaction
+The Strong Interaction is interpreted as a highly localized geometric deformation. Particles like gluons induce a curvature of R	0 (highly concave) within a confinement radius of approximately rs	10−15 m.
+Outside this range, the induced curvature vanishes rapidly (R	0). Mathematically, this curvature profile follows a Yukawa-like exponential decay:
+
+
+
+Rstrong(r) ∝ −
+e−r/r0 r
+
+This explains why the strong force is powerful but confined to the nucleus.
+
+Geometry of the Weak Interaction
+Similarly, the Weak Interaction, mediated by W± and Z bosons, generates an intensely concave curvature (R < 0) but within an even shorter range of rw 10−18 m. Outside this microscopic radius, the curvature contribution becomes negligible (R 0). This geometric localization is due to the high mass (and thus high frequency/amplitude) of the weak bosons, which strongly distort the local topology.
+
+Distinguishing Macroscopic and Microscopic Curvature
+A critical distinction in this Unified Field Theory is the scale of geometric deformation:
+ˆ Gravity and Electromagnetism: Arise from long-range variations in space-time curvature caused by massless mediators (gravitons, photons). The curvature decay is polynomial (1/r2).
+ˆ Strong and Weak Interactions: Do not propagate as long-range waves but manifest as non-perturbative topological defects. They are ”glue-like” geometric knots that bind quarks and par-ticles together. While they are still manifestations of curvature (R < 0), they represent the ”stiffness” or high-frequency distortion of the quantized lattice, rather than the smooth undulations of gravity.
+
+Space-time Fluctuations and Quantum Unity
+Space-time is not a smooth continuum but is subject to inherent quantum fluctuations. This theory preserves the probabilistic nature of Quantum Mechanics by interpreting it as the statistical behavior of these geometric fluctuations.
+By building a Unified Field Theory on the foundation of Space-Time Fluctuations (δquantum), we establish a natural boundary and bridge between Classical Physics (smooth geometry) and Quantum Physics (discrete geometry).
+
+General Equation
+The local Ricci curvature R(x) is defined as the superposition of two opposing geometric tendencies: the attractive curvature component R1(x) and the repulsive curvature component R2(x).
+The general equation is given by:
+R(x) = R1(x) + R2(x)	(7)
+Where:
+ˆ R(x): The local Ricci curvature at position x (representing the geometry of spacetime).
+ˆ =: Equality, representing the geometric balance or definition.
+ˆ R1(x): The attractive curvature component (negative/concave curvature), generating attractive forces.
+ˆ +: The superposition of two geometric states.
+ˆ R2(x): The repulsive curvature component (positive/convex curvature), generating repulsive or expan-sive forces.
+
+Attractive Component (R1)
+This component represents the contractive forces of nature. It creates a negative curvature (concave geometry), leading to matter aggregation.
+Formula:
+R (x) = −A	· GE1E2 + ke|q1q2| + κ f (x, m) + κ f (x, m) + |F	(x, p)| + . . . 
+
+Detailed Explanation of Terms:
+−Ageom: Negative geometric conversion constant.
+ˆ (−) Sign: Indicates converging (attractive) curvature.
+GE1 E2 : Gravitational Term (Gravitational field force).
+ˆ  G: Newton’s Gravitational Constant.
+ˆ E1, E2: Total energy of the interacting bodies (including rest mass, ordinary matter, dark matter).
+ˆ x2: Follows the inverse square law of distance.
+ke |q1 q2 | : Electrostatic Attraction Term.
+ˆ ke: Coulomb constant.
+ˆ |q1q2|: Absolute value of the product of opposite charges (+, −), resulting in attraction.
+κsfs(x, m): Strong Nuclear Force Term.
+ˆ κs: Strong interaction constant (strong coupling constant).
+ˆ fs(x, m): Short-range force function (Yukawa type), active within the range x	10−15 m, where
+m is the mass of the particle.
+κwfw(x, m): Weak Nuclear Force Term.
+ˆ κw: Weak interaction constant (weak coupling constant).
+ˆ fw(x, m): Ultra-short-range force function, active within the range x	10−18 m, where m is the mass of the particle.
+ˆ Fsuction Force due to negative pressure .
+ˆ etc
+
+Repulsive Component (R2)
+This component represents the expansive forces (Anti-Gravity/Dark Energy and Electrostatic repulsion, p pressure creating repulsion, etc.). It creates a positive curvature (convex geometry), leading to cosmic expansion or separation.
+
+
+R2(x) = Ageom
+Detailed Definition of Terms:
+
+Gph Ei Etarget
+x2c4
+
+ke q′ q′
++	+ F	(x, p) + ...
+x2
+
+(8)
+
++Ageom: Positive geometric conversion constant.
+ˆ  (+) Sign: Indicates a diverging (repulsive/expansive) curvature.
+Gph: Anti-Gravity Constant (Repulsion coefficient).
+Ei: Active energy source, defined by index i:
+ˆ If i = −1: Ordinary Matter or Dark Matter.
+ˆ If i = +1: Represents Dark Energy.
+
+Etarget: Target energy field interacting with Ei. The mechanism is defined as follows:
+ˆ  Case 1: Ordinary/Dark Matter (i = −1) encounters Dark Energy → Generates Repulsive Force.
+ˆ Case 2: Dark Energy (i = +1) encounters Dark Energy → Generates Repulsive Force.
+Electrostatic and Pressure Terms:
+′ ′
+ˆ  ke q1 q2 : Electrostatic Repulsion Term.
+ˆ q′ q′ : Product of like charges (+, + or −, −), resulting in repulsion.
+ˆ Fpush:Force exerted by positive pressure.
+ˆ etc
+
+Universal Energy Relation
+The definition of energy is unified through the following relation, linking mass, frequency, and spacetime wave amplitude:
+
+
+
+
+Where:
+Ei = mic2 = hfi = hT0A2
+(9)
+
+ˆ Ei: Total energy of the particle or field state i.
+ˆ mic2: Einstein’s mass-energy equivalence (mi: mass, c: speed of light).
+ˆ hfi: Planck’s relation (h: Planck’s constant, fi: quantum frequency).
+ˆ  hT0A2: Proposed Spacetime Amplitude Relation.
+T0: Fundamental time constant (or spacetime tension constant).
+Ai: Amplitude of the spacetime wave generating the particle/energy.
+
+Geometric Interpretation & Force Classification
+The Attractive Component (Rattract < 0):
+This term induces a concave geometry, pulling space-time inward.
+ˆ Mass-Energy Terms (i): Includes Gravity, Weak Interaction, Strong Interaction, and Dark Matter.
+ˆ Charge Terms (j): Includes Electromagnetic interaction between opposite charges (+−).
+The Repulsive Component (Rrepulse > 0):
+This term induces a convex geometry, pushing space-time outward.
+ˆ  Mass-Energy Terms: Includes Dark Energy (Vacuum Energy).
+ˆ Charge Terms (k): Includes Electromagnetic interaction between like charges (++ or −−).
+Geometric Stability Conditions:
+ˆ If R(x) < 0: The region is Concave. Attraction dominates .
+ˆ If R(x) > 0: The region is Convex. Repulsion dominates.
+ˆ If R(x) = 0: The space-time is Flat. Forces are in perfect equilibrium.
+This equation serves as a conceptual bridge, asserting that the ”force” we observe is merely the elastic response of the volumetric space-time fabric to the oscillation amplitudes of matter and energy.
+This paper establishes a conceptual framework linking space-time curvature to fundamental interac-tions and the discrete structure of the vacuum. The proposed equation serves as a foundation for future refinements—incorporating precise quantization rules and experimental constraints—to advance the devel-opment of a complete quantum theory of gravity.
+
+Macroscopic Recovery of General Relativity: When observed at the macroscopic scale (where length scales L ℓP ), the discrete topological gaps become imperceptible, and the lattice structure is effectively smoothed out. In this regime, the quantum fluctuation term vanishes on average:
+macro
+⟨δquantum(x)⟩ −−−−→ 0.
+Consequently, the space-time manifold appears continuous. Thus, Einstein’s General Relativity is recovered not as the fundamental reality, but merely as a low-energy approximation or a specific subset of this broader Unified Field Theory.
+or phenomena ranging from quark confinement to cosmic expansion.
+
+The Geometric Balance of Forces
+A cornerstone of this update is the formulation of the Unified Field Equation as a superposition of competing curvature components (R = Rattract + Rrepulse). Unlike standard General Relativity, where curvature is primarily associated with mass-energy attraction, our model generalizes geometry to include:
+ˆ Concave Geometry (R < 0): Universally describing attractive potentials, including Gravity, Strong/Weak nuclear forces, Dark Matter, and the electromagnetic force between two opposite charges.
+ˆ Convex Geometry (R > 0): Describing repulsive effects, effectively unifying Dark Energy and electromagnetic repulsion under a single geometric sign.
+This classification eliminates the need for ad hoc “exotic matter” to explain Dark Energy, interpreting it instead as the

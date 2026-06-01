@@ -1,0 +1,1559 @@
+Copernican principle (c.f. [1] for reviews). Among them, the assumption of the Copernican Principle (leading to the Friedmann-Lemaître-Robertson-Walker (FLRW) metric) and the expression of the scale factor as a function of an auxiliary variable – for instance either time or redshifts – lead to the so-called cosmographic approach [2] which aims to reconstruct the underlying cosmological dynamics using comparison to data derived from such two basic assumptions. Cosmography has thus tried to spot deviations from the standard CDM model, to reconstruct models for dark energy and to even shed some light on the form of the gravitational Lagrangian for classes of modified (extended) gravity theories [3, 4, 5, 6, 7, 8].
+Technicalities of Cosmography are widely known and we refer the reader to more detailed literature [9]. The most standard approach assumes as an auxiliary variable the usual redshift z and then performs an expansion in the derivatives of the FLRW scale factor. Thus the Hubble parameter and its derivatives can be rewritten in terms of the well-known cosmographic parameters. One is then tempted to think that these parameters can be directly fitted with observational data, and that such a process leads to model (or theory)-independent constraints enabling reconstruction of the underlying cosmological models (or theories). As an alternative to the independent variable z, the above expansion may be expressed in terms of a variables ensuring the convergence of the series for the whole history of the Universe (c.f. [4, 10] for some possibilities). Nonetheless, the use of other redshifts, such as y = z/(1 + z) will be shown below to present strong limitations.
+As a starting point, Cosmography was recently shown [11] to suffer from shortcomings even to target CDM as the underlying theory when SNIa mock data [12] are precisely generated from a CDM model and studied by means of the cosmographic method when several expansion or-ders or auxiliary redshift are considered. In Table 1 as taken from [11] it is shown how the y-
+parametrisation gives completely biased estimators, the trends being as follows: the y-parametrisation provides much bigger errors, biasing q0 to smaller values and j0 and s0 to greater values than the true ones. In fact only a few a extensive simulations lie within 1 whereas most of them do at 3  or more [11]. Moreover, the consideration of different number of parameters, namely 1 and 2 as described in Table 1, in the cosmographic expansion does not fix this limitation to correctly trace the exact values for the CDM cosmographic parameters. In fact, as seen in Table 1 as taken from [11], the inclusion of one extra parameter (namely l0 in 2) leads to error overestimates for both z and y variables. Consequently a first caveat in the standard cosmographic approach lies precisely in which variable to use: analysis in [11] led to conclude that despite the fact that y might seem a more appealing variable from a theoretical point of view, it clearly turns out to not even be appropriate to derive cosmological constraints in CDM, since fittings obtained in this variable are completely biased.
+Another consistency check of Cosmography consists of testing the ability of the method to spot the Concordance CDM model against other competitive theories with constant (although
+
+Limitations of cosmography in extended theories of gravity	Álvaro de la Cruz-Dombriz
+
+
+Table 1: Coverage test for two sets of parameters: 1 = {H0, q0, j0, s0} and 2 = {H0, q0, j0, s0, l0}. We refer the reader to [11] for further details.
+
+
+	1
+	
+	
+	
+	
+	2
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	1
+	2
+	3
+	1
+	2
+	3
+	1
+	2
+	3
+	1
+	2
+	3
+	
+	q0	26
+	32
+	42
+	67
+	27
+	6
+	82
+	12
+	6
+	82
+	18
+	0
+	
+	j0	10
+	45
+	45
+	64
+	29
+	7
+	93
+	5
+	2
+	88
+	12
+	0
+	
+	s0	10
+	67
+	23
+	83
+	15
+	2
+	92
+	7
+	1
+	93
+	6
+	1
+	
+	l0	-
+	-
+	-
+	-
+	-
+	-
+	100
+	0
+	0
+	100
+	0
+	0
+	
+	
+
+/	/
+
+−10	−5	0	5	10
+j0
+−2. 5	−2. 0	−1. 5	−1. 0	−0. 5
+w
+
+
+
+Figure 1: As shown in [11]; Left panel: Posterior probability for j0 considering cosmographic expansions in z-redshift of four parameters (1), five parameters (2) and the exact X CDM model {m = 0.3 , X = −1.3}. Right panel: Posterior probability for the dark energy equation of state parameter  in agreement with the
+ = −1.3 value.
+
+slightly different from  = −1) dark-energy equation of state, i.e., X CDM models. Once again, the use of mock SNIa data can serve to illustrate the limitations of the method; this time those mock data have been obtained from a flat X CDM model with cosmological parameters m = 0.3 and X = −1.3. In Fig. 1 we have considered two cosmographic realisations 1 (fourth order) and
+2 (fifth order) in th z-redshift expansion, which have then been compared to the direct fitting of free parameters {m , X } in the exact X CDM model. Results therein show that direct fitting to the X CDM model provides smaller errors than the cosmographic approaches, so the direct fitting allows us to easily spot differences from CDM model (for instance j0 /= 1), as expected from data which don’t correspond to CDM. Moreover, the order of the expansion ultimately affects the posterior constraints on the cosmographic parameters: there is some evidence of j0 /= 1 for the 1 set, which unexpectedly disappears for the 2 set.
+
+Towards a better understanding of Cosmography in extended theories of gravity
+
+The surprising limitations described in Sec. 1 referred either to the drawbacks in the Taylor ex-
+
+Limitations of cosmography in extended theories of gravity	Álvaro de la Cruz-Dombriz
+
+pansions truncation or to the inability of targeting CDM against simple dark energy theories, i.e., those with a minimal coupling and a constant equation of state representing the dark fluid. Nonethe-less, the intense interest in the latest years on several types of gravitational theories beyond General Relativity, poses the question of the accuracy of cosmographic methods in spotting and eventually constraining such theories, or more to the point, of the intrinsic limitations that non-minimal cou-plings between geometry and matter and/or the presence of higher-order equations may have when such scenarios are subject to a cosmographic treatment. Most of the previous literature devoted to taking into account modern cosmography in the context of extended theories of gravity usually lacked any criticism and focused on finding constraints for classes of theories [7, 13]. Moreover the literature at hand has often assumed General Relativity represents our Universe today exactly and thus assigned strict priors to the extra parameters. More recently [11] has performed a more general treatment for both K-essence theories, scalar-tensor f (R) theories and Galileons models, i.e., extended gravitational theories with either second order equations, higher-order equations or non-minimal couplings were addressed respectively there. Difficulties in those three classes shared the common denominator of the presence of extra parameters, a fact that prevents us from finding a one-to-one correspondence between the derivatives of the theory and the cosmographic parameters. Let’s summarise some of the main results of [11] as follows,
+
+
+K-essence theories
+For a theory with an action - in appropriate units - given by
+S = ∫ d4x√−g  1 R − 1 ()    −V () + L
+
+
+
+
+  ,	(2.1)
+
+
+where Lm is the matter Lagrangian, () the factor that renormalises the scalar field  and V () the potential, the mapping between cosmographic parameters and derivatives of the potential V and the factor  when evaluated today only requires fixing one extra parameter [11]. Thus, the derivatives of the potential1 evaluated at z = 0, can be written2 as
+
+
+ V0 
+H2
+3m	Vz0	9m
+= 2 − q0 −	,	2 = 4 + 3q0 − j0 −	,
+
+0	2	H0	2
+
+V2z0
+2
+0
+V3z0
+2
+0
+= 4 + 8q0 + j0(4 + q0) + s0 − 9m ,	(2.2)
+= j2 − l0 − q0 j0(7 + 3q0) − s0(7 + 3q0) − 9m .
+
+The standard assumption herein in order to recover a one-to-one correspondence consists of con-necting m and the cosmographic deceleration parameter q0 as in the CDM model, i.e., m ≈ 2/3(1 + q0). Despite this assumption, cosmography can be shown [11] to perform far worse than other model-independent approaches such as Gaussian process regression [14] for which errors are much smaller and no assumption about the model behaviour today needs be made, so any attempt at reconstructing K-essence theories following a cosmographic approach seems to be disfavoured with respect to Gaussian regression. Moreover, dependence in the order expansion is also present, resulting with after z ∼ 0.5 no useful constraints for V () are derived for a 2 realisation, whereas
+1Analogous results are obtained for the expansion of () derivatives evaluated today.
+2Field equations in a spatially-flat FLRW were used.
+
+Limitations of cosmography in extended theories of gravity	Álvaro de la Cruz-Dombriz
+
+for the 1 counterpart good constraints are obtained up to z ∼ 1, showing the fragility of the method for these theories.
+
+f (R) theories
+The understanding of limitations in cosmography for theories involving higher-order equa-tions, can be exemplified by the paradigmatic f (R) scalar-tensor theories which in the metric for-malism give rise to fourth-order equations. Once again, a mapping between cosmographic parame-ters and derivatives of the gravitational Lagrangian f (R) can be found [11]. The price to pay is the existence of two extra free parameters which can be thought of as the first and the second deriva-tives of the f (R) Lagrangian evaluated today. Previous works [7] fixed those values so that the f (R) Lagrangian was forced to coincide with General Relativity at z = 0, namely fR(z = 0) = 1 and fRR(z = 0) = 0. However such naive priors may lead to either singularities or instabilities occuring [?], apart from the fact that cosmological values for f (R) derivatives today may be different from GR exact values and still produce viable cosmological models [15]. Thus one is led to abandon the one-to-one correspondence between the f (R)-derivatives and the cosmographic parameters, so ei-ther priors over these f (R) parameters or alternative tests are required [16]. Whenever either those priors are too strict or marginalisation of extra parameters is not carefully performed, the obtained constraints can lead to a reconstruction of the f (R) models which are not capable of generating the SNIa mock data used to test the method. A combination a wide set of priors through extensive Markov Monte Carlo Chain simulations is performed in [17] and is expected to improve the pre-dictability of the method also making use of other astrophysical probes, such as Baryon Acoustic Oscillations and H(z) measurements.
+
+Galileons theories
+Finally, we could exemply the cosmography limitations when dealing with theories which have higher-order derivatives but this time in the matter sector, such as Galileons [18]. Thus for one of the simplest Galileon models involving three coupling constants, analogous issues as those described for f (R)theories show up, due to the existence of two additional free parameters. As remarked in [11], the sole advantage of cosmographic treatment for Galileons theories is that since the gravitational sector does not involve higher-order derivatives the errors are not as large as those obtained in the f (R) gravity case. This could also be understood by the fact that the expansion of the scalar field for Galileons up to second order only depends on q0 and not on higher cosmographic parameters [11].
+
+Conclusions and Prospects
+
+At the present stage, the cosmographic approach seems to be plagued with drawbacks, previ-ously overlooked in the literature, such as the dependence of results with the chosen independent variable in which the cosmographic expansion is performed as well as the lack of hints of the re-quired expansion order which minimises the induced errors. These two facts can for instance lead to not correctly spotting fiducial models which slightly differ from the Concordance cosmological
+CDM model.
+
+Limitations of cosmography in extended theories of gravity	Álvaro de la Cruz-Dombriz
+
+
+Moreover, the reconstruction process based on cosmography for theories containing extra de-grees of freedom, such as quintessence-like theories, f (R) gravities or Galileons and, by extension other modified theories, seem to lead to completely unconstrained parameters of the models under consideration when either a) Einsteinian gravity is assumed as a benchmark for models’ behaviour today, or b) narrow priors or limited marginalisations for extra parameters are considered. Such cosmographic treatment may prevent us from ruling models which exhibit very unrealistic cosmo-logical background evolutions and more dangerously, could lead to think of the viable character of models that are already excluded thanks to the use of other methods.
+Consequently, it might seem that the cosmographic approach - as traditionally thought - is a strongly limited tool for theory reconstruction. In fact other limitations, apart from those explained in the bulk of this communication might appear, namely there are at least two effects which, for the sake of simplicity, were neglected in this communication. The first one considers the eventual role of the spatial curvature k in fixing constraints, due to the fact that k /= 0 can induce a time variation for the dark energy equation of state [19] and eventually distort the cosmological constraints as recently claimed in [20]. The second, additional limitations concerns other effects such as both gravitational and Doppler lensing [21], or even local gravitational redshifts [22], which may involve the appearance of extra scatters in the Hubble diagram, a fact which might degrade cosmological constraints as obtained from SNe Ia data analysis. Although quantified and included as an extra error SNe Ia analysis within the paradigm of the CDM model [12], the impact that such scatters may have in theories of modified gravity, still requires a thorough study to be able to determine for which extended theories the cosmographic approach is expected not to be useful in constraining parameters.
+But not everything is negative: as possible routes which deserve further exploration with the hope of curing limitations in Cosmography we could mention:
+the need for a clear definition of the adequate auxiliary variable(s), together with the com-prehension of their range of validity and extensive testing against mock data from several catalogues. In this respect, the determination of a convenient pivot redshift, around which the performed expansions become optimal could shed light on whether or not the lack of com-petitiveness of the cosmographic method remains. Clearly, such a pivot choice is expected to severely depend upon the redshift distribution of the considered astrophysical catalogue. In other words, this adaptive study may help us to understand how the redshift distribution of different samples influences the results of some ongoing and future surveys, such as DES and LSST.
+a robust statistical method involving, for instance, full freedom in the priors and a combined analysis of several probes which could in principle establish a correlation between the num-ber of data points, location in the redshift space and the optimal number of cosmographic parameters, as well as Bayesian evidence enabling us to provide some criteria to rule out regions in the parameter space of classes of models.
+Finally, as mentioned in the bulk of the communication, the use of well posed priors over the extra parameters in higher-order theories which allow us to obtain competitive constraints for such theories, even when lensing and local effects are neglected. Work in progress in [17] is
+
+Limitations of cosmography in extended theories of gravity	Álvaro de la Cruz-Dombriz
+
+
+in this direction for several classes of theories, namely scalar-tensor and extended theories of torsion.
+Finally, the aim of the present communication has been to illustrate the limitations of Cos-mography by making sole use of one observable, namely supernovae of type Ia, with the aim of diverting from the technicalities of a multi-observable treatment, which might have obscured the origin of our results. Although mainly in the context of Einstein gravity different observables have been used to constrain cosmographic parameters, such as H(z) data, baryon acoustic oscillations, gamma-ray bursts, angular distances to galaxy clusters [23], it is easier to understand both the cause and the extent of possible limitations with only one observable. We shall present a combined probes analyses, namely H(z), BAO and extend the supernovae treatment in our future work [17].
+
+Acknowledgments
+The author acknowledges financial support from the University of Cape Town (UCT) Launch-ing Grants programme, National Research Foundation grant 99077 2016-2018, Ref. No. CSUR 150628121624, MINECO (Spain) projects FIS2014-52837-P, FPA2014-53375-C2-1-P, CSIC I-
+LINK1019 and Consolider-Ingenio MULTIDARK CSD2009-00064. He would also like to thank the Yukawa Institute for Theoretical Physics (Kyoto, Japan) for their hospitality and the invitation to present these results.
+
+References
+E. J. Copeland, M. Sami and S. Tsujikawa, Int. J. Mod. Phys. D 15, 1753 (2006) [hep-th/0603057];
+D. H. Weinberg, M. J. Mortonson, D. J. Eisenstein, C. Hirata, A. G. Riess and E. Rozo, Phys. Rept. 530, 87 (2013) [arXiv:1201.2434 [astro-ph.CO]]; S. Nojiri and S. D. Odintsov, Phys. Rept. 505, 59 (2011) [arXiv:1011.0544 [gr-qc]]; S. Capozziello and V. Faraoni, Beyond Einstein Gravity, Springer, 2010; L. Amendola and S. Tsujikawa, Dark Energy, Theory and Observations, Cambridge University Press 2015. A. Joyce, L. Lombriser and F. Schmidt, arXiv:1601.06133 [astro-ph.CO].
+S. Weinberg Gravitation and Cosmology: Principles and Applications of the General Theory of Relativity (Wiley, New York, 1972) ; E. R. Harrison, Nature, 260, 591 (1976).
+G. M. Bernstein and B. Jain, Astrophys. J. 600, 17 (2004) [astro-ph/0309332]; M. Visser, Gen. Rel. Grav. 37, 1541 (2005) [gr-qc/0411131]; M. Bouhmadi-Lopez, S. Capozziello and V. F. Cardone, Phys. Rev. D 82, 103526 (2010) [arXiv:1010.1547 [gr-qc]].
+C. Cattoen and M. Visser, Class. Quant. Grav. 24, 5985 (2007).
+A. Aviles, C. Gruber, O. Luongo and H. Quevedo , Phys. Rev. D 86, 123516 (2012) [arXiv:1204.2007].
+K. Bamba, S. Capozziello, S. Nojiri and S. D. Odintsov, Astrophys. Space Sci. 342, 155 (2012) [arXiv:1205.3421 [gr-qc]].
+A. Aviles, A. Bravetti, S. Capozziello and O. Luongo, Phys. Rev. D 87, no. 4, 044012 (2013) [arXiv:1210.5149 [gr-qc]]. ; Phys. Rev. D 87, no. 6, 064025 (2013)
+S. Capozziello, R. Lazkoz and V. Salzano, Phys. Rev. D 84 (2011) 124061 [arXiv:1104.3096 [astro-ph.CO]].
+
+Limitations of cosmography in extended theories of gravity	Álvaro de la Cruz-Dombriz
+
+
+S. Weinberg Gravitation and Cosmology: Principles and Applications of the General Theory of Relativity (Wiley, New York, 1972) ; E. R. Harrison, Nature, 260, 591 (1976).
+P. K. S. Dunsby and O. Luongo, arXiv:1511.06532 [gr-qc].
+V. C. Busti, A. de la Cruz-Dombriz, P. K. S. Dunsby and D. Sáez-Gómez, Phys. Rev. D 92, no. 12, 123512 (2015) [arXiv:1505.05503 [astro-ph.CO]].
+N. Suzuki et al., Astrophys. J. 746, 85 (2012) [arXiv:1105.3470].
+A. Aviles, A. Bravetti, S. Capozziello and O. Luongo, [arXiv:1302.4871 [gr-qc]].
+R. Nair, S. Jhingan, and D. Jain, J. Cosmol. Astropart. Phys. 01 (2014) 005 [arXiv:1306.0606].
+Á. de la Cruz-Dombriz, P. K. S. Dunsby, S. Kandhai and D. Sáez-Gómez, Phys. Rev. D 93 (2016) no.8, 084016 [arXiv:1511.00102 [gr-qc]].
+F. D. Albareti, J. A. R. Cembranos, A. de la Cruz-Dombriz and A. Dobado, JCAP 1307 (2013) 009; [arXiv:1212.4781 [gr-qc]]; A. de la Cruz-Dombriz, P. K. S. Dunsby, V. C. Busti and S. Kandhai, Phys. Rev. D 89 (2014) 6, 064029 [arXiv:1312.2022 [gr-qc]]; B. Jain, V. Vikram and J. Sakstein, Astrophys.
+J. 779 (2013) 39 [arXiv:1204.6044 [astro-ph.CO]]; L. Lombriser, A. Slosar, U. Seljak and W. Hu, Phys. Rev. D 85, 124038 (2012) [arXiv:1003.3009 [astro-ph.CO]]; L. Lombriser, F. Schmidt,
+T. Baldauf, R. Mandelbaum, U. Seljak and R. E. Smith, Phys. Rev. D 85, 102001 (2012) [arXiv:1111.2020 [astro-ph.CO]]; Y. -S. Song, H. Peiris and W. Hu, Phys. Rev. D 76, 063517 (2007) [arXiv:0706.2399 [astro-ph]]; Y. -S. Song, W. Hu and I. Sawicki, Phys. Rev. D 75, 044004 (2007) [astro-ph/0610532]. M. A. Resco, A. de la Cruz-Dombriz, F. J. L. Estrada and V. Z. Castrillo, arXiv:1602.03880 [gr-qc]. A. de la Cruz-Dombriz, E. Elizalde, S. D. Odintsov and D. Saez-Gomez, arXiv:1603.05537 [gr-qc].
+Á. de la Cruz-Dombriz, P. K. S. Dunsby, O. Luongo and L. Reverberi, work in progress.
+C. Deffayet, S. Deser and G. Esposito-Farese, Phys. Rev. D 80, 064015 (2009) [arXiv:0906.1967 [gr-qc]].
+C. Clarkson, M. Cortês, and B. Bassett, J. Cosmol. Astropart. Phys. 08 (2007) 011 [arXiv:astro-ph/0702670].
+C. D. Leonard, P. Bull and R. Allison, arXiv:1604.01410 [astro-ph.CO].
+D. E. Holz and R. M. Wald, Phys. Rev. D 58, 063501 (1998) [arXiv:astro-ph/9708036]; L. Hui and P.
+B. Greene, Phys. Rev. D 73, 123526 (2005) [arXiv:astro-ph/0512159]; D. J. Bacon, S. Andrianomena,
+C. Clarkson, K. Bolejko, and R. Maartens, Mon. Not. R. Astron. Soc. 443, 1900 (2014) [arXiv:1401.3694].
+R. Wojtak, T. M. Davis, and J. Wiis, [arxiv:1504.00718].
+V. Vitagliano, J.-Q. Xia, S. Liberati, and M. Viel, J. Cosmol. Astropart. Phys. 03 (2010) 005 [arXiv:0911.1249]; L. Xu and Y. Wang, Phys. Lett. B 702, 114 (2011) [arXiv:1009.0963]; M.
+Demianski, E. Piedipalumbo, C. Rubano, and P. Scudellaro, Mon. Not. R. Astron. Soc. 426, 1396 (2012) [arXiv:1206.7046]; R. F. L. Holanda, J. S. Alcaniz, and J. C. Carvalho, J. Cosmol. Astropart. Phys. 06 (2013) 033 [arXiv:1303.3307].
+
+universe
+
+Review
+Loop Quantum Cosmology, Modified Gravity and Extra Dimensions
+Xiangdong Zhang
+Department of Physics, South China University of Technology, Guangzhou 510641, China; scxdzhang@scut.edu.cn
+Academic Editor: Jaume Haro
+Received: 24 May 2016; Accepted: 2 August 2016; Published: 10 August 2016
+Abstract: Loop quantum cosmology (LQC) is a framework of quantum cosmology based on the quantization of symmetry reduced models following the quantization techniques of loop quantum gravity (LQG). This paper is devoted to reviewing LQC as well as its various extensions including modified gravity and higher dimensions. For simplicity considerations, we mainly focus on the effective theory, which captures main quantum corrections at the cosmological level. We set up the basic structure of Brans–Dicke (BD) and higher dimensional LQC. The effective dynamical equations of these theories are also obtained, which lay a foundation for the future phenomenological investigations to probe possible quantum gravity effects in cosmology. Some outlooks and future extensions are also discussed.
+Keywords: loop quantum cosmology; singularity resolution; effective equation
+
+
+Introduction
+Loop quantum gravity (LQG) is a quantum gravity scheme that tries to quantize general relativity (GR) with the nonperturbative techniques consistently [1–4]. Many issues of LQG have been carried out in the past thirty years. In particular, among these issues, loop quantum cosmology (LQC), which is the cosmological sector of LQG has received increasing interest and has become one of the most thriving and fruitful directions of LQG [5–9]. It is well known that GR suffers singularity problems and this, in turn, implies that our universe also has an infinitely dense singularity point that is highly unphysical. However, in contrast with GR, LQC is a singularity free theory that stands for one of the most attractive features of this theory. In LQC, the classical cosmological singularity is naturally replaced by a quantum bounce [10,11] and thus avoids the inevitable cosmological singularity in classical GR.
+Recently, this non-perturbatively loop quantization procedure has been successfully generalized to the modified gravity theories such as metric f (R) theories [12,13], Brans–Dicke (BD) theory [14] and scalar-tensor theories [15,16]. However, at the level of the full theory of quantum gravity, it is extremely complex. In order get around this complexity, to test the ideas and constructions of the full theory and also to draw some physical predictions, it is desirable to study their symmetry-reduced models, such as cosmological models. Among all scalar-tensor theories of gravity, the simplest one is the so-called Brans–Dicke theory that was introduced by Brans and Dicke in 1961 to modify GR in accordance with Mach’s principle [17]. Therefore, in this review, we will focus on the loop quantum cosmology of Brans–Dicke theory.
+The cosmological models of classical Brans–Dicke theory were first studied in [18,19]. Since then, many aspects of Brans–Dicke cosmology have been widely investigated in the past decades [20]. The scalar field non-minimally coupled with curvature in Brans–Dicke theory is even expected to account for the dark energy problem [21–26], which has become a topical issue in cosmology [27]. It should be noted that the solar system experiments constrain the coupling constant ω of the
+
+Universe 2016, 2, 15; doi:10.3390/universe2030015	www.mdpi.com/journal/universe
+
+Universe 2016, 2, 15	2 of 13
+
+
+original four-dimensional Brans–Dicke theory to being a very large number [28,29]. For simplicity consideration and consistency with the solar system experiments, in this review, we will only focus on the Brans–Dicke LQC theory [30] with coupling constant ω /= − 3 .
+On the other hand, higher dimensional spacetime and gravity theories are subjects of great interest in the grand unify theories. Historically, the very first higher dimensional gravity theory is the famous five-dimensional Kaluza–Klein theory, which tries to unify the four-dimensional GR and Maxwell theory [31]. Recent theoretical developments such as the string/M theories [32], AdS/CFT correspondence [33], Brane world scenario [34,35], and so on reveal that higher dimensions are preferred by these theories. In the past half century, many aspects of these higher dimensional gravity theories have been extensively studied, particularly on the physical issues related with Black holes and cosmology. In fact, higher dimensional cosmology now is a rather huge and active field with fruitful outputs. For instance, the accelerated expansions of our universe can be naturally explained by some of the higher dimensional cosmological models [23,36]. Hence, one is naturally to ask: is it possible to generalize the structure of LQC to the spacetime dimensions other than four, (particularly in the higher dimensions)?
+However, this is not an easy task, essentially because LQG is a quantization scheme based on the connection dynamics, while the SU(2) connection dynamics are only well defined in three and four dimensions (the LQC in 2 + 1 dimensions has already been constructed in [37]), and, thus, do not have a simple generalization to the higher dimensions. Fortunately, this difficulty has been overcome by Thiemann et al. in a series of papers [38–41]. The main idea of [38] is that in n + 1 dimensional GR, in order to obtain a well defined connection dynamics, one should adopt SO(n + 1) connections AIJ rather than the speculated SO(n) connections. With these higher dimensional connection dynamics in hand, Thiemann et al. successfully generalize the LQG to arbitrary spacetime dimensions. Based on this higher dimensional LQG, the authors construct the n + 1 dimensional LQC, with n ≥ 3 [42].
+This paper is organized as follows: after a brief introduction, we review four-dimensional spatial flat k = 0 LQC in Section 2. Then, we generalize LQC to modified gravity and higher dimensional case in Section 3 and 4, respectively. The effective Hamiltonian and modified Friedman equations of these theories are obtained. Conclusions and outlooks are given in the last section.
+k = 0 Loop Quantum Cosmology
+
+Classical Connection Dynamics
+To make this paper self-contained, we first review some basic elements of four-dimensional k = 0 loop quantum cosmology [7]. Loop quantum cosmology is a model that quantizes the symmetry reduced cosmological model by following the techniques of LQG as closely as possible. While loop quantum gravity is a quantization scheme of gravity built on the connection dynamics formalism of general relativity, with 3-metric hab, loop quantum gravity instead uses the densitized triad Ea and
+SU(2) connections Ai as the basic building blocks, where these canonical geometric variables are
+
+defined as follows:
+
+Ea = √hea,	Ai = Γi + γKi ,	(1)
+
+i	i	a	a	a
+where ea is the triad such that habeaeb = δij, Ka ≡ Kabei , Γi is the spin connection determined by Ea,
+and γ is a nonzero real number called Barbero–Immizi parameter.
+These canonical conjugate pairs satisfy the following commutation relation:
+
+a	j	j a
+{Ai (x), Eb (y)} = 8πGγδi δbδ(x, y).	(2)
+
+Universe 2016, 2, 15	3 of 13
+
+
+Moreover, to make sure these connection dynamics are equivalent to the general relativity, we have to impose three constraints as follows [2,4]
+Gi	=	DaEa,	(3)
+Va	=	1 Fi Eb,	(4)
+/
+κγ ab  i
+ǫijk Ea Eb	Ea Eb
+
+Hgr	=
+√ j F ,k −2(γ2 + 1)  [i√j] Ki Kj ,	(5)
+
+
+where κ = 8πG.
+ab
+2κ  h
+/ a
+2κ  h
+
+Now, we consider an isotropic and homogenous k = 0 Universe. We choose a fiducial Euclidean metric oqab on the spatial slice of the isotropic observers and introduce a pair of fiducial orthonormal
+triad and co-triad as (oea, oωi ), respectively, such that oqab = oωi oωi . Then, the physical spatial metric
+i	a	a	b
+is related to the fiducial one by qab = a2oqab. In the cosmological model, our universe can be described by the Friedman–Robertson–Walker (FRW) metric:
+ds2 = −dt2 + a2(t) hdr2 + r2(dθ2 + sin2 θdφ2)i ,	(6) where a is the scale factor.	By using these fiducial orthonormal triad and co-triad (oea, oωi ),
+i	a
+the densitized triad and spin connection can be simplified as
+a =	− 2 q	(  )o a	j =	− 1 o  j
+
+By using the classical expression and comological line elements, one can easily link (c, p) with scale factor a as p = a2 and c = γa˙, respectively. Commutation relation between c and p can be reduced from (2) as follows
+
+{c, p} =
+κγ
+.	(8)
+3
+
+For our spatial flat and isotropic cosmological case, Gaussian and diffeomorphism constraints are satisfied automatically. The only remaining part is the Hamiltonian constraint (5). By using the strategy in [5], assume that the matter field is a massless scalar field φ. We denote pφ as the conjugate momentum of scalar field φ. The commutation relation between φ and pφ reads {φ, pφ} = 1. In the cosmological model, this Hamiltonian, therefore, reduces to
+
+
+
+HT	=	−
+ 3 
+κγ2
+c2√
+2
+p + 	φ  .	(9)
+2p3/2
+
+In order to yield the dynamic evolution equation, we need to calculate the equation of motion for p, which reads
+
+
+p˙ = {p, HT
+=  2 c√p.	(10)
+γ
+
+By using the Hamiltonian constraint, we can easily yield Friedman equation
+
+
+H2 =
+  p˙  2
+
+ 1  c2 = κ
+
+2
+φ =	ρ,	(11)
+
+2p	γ2 p	3 2p3	3
+2
+where H = /a˙ and ρ =  φ  are the Hubble parameter and the matter density, respectively.
+a	2p3
+
+Universe 2016, 2, 15	4 of 13
+
+
+Quantum Theory
+To quantize the cosmological model rigorously, we first need to construct the quantum kinematical Hilbert space of quantum cosmology. This quantum kinematical Hilbert space constitutes hybridly with the so-called polymer-like quantization for the gravity part, and with Schrodinger representation for the scalar field . The kinematical Hilbert space for the geometry part can be defined
+
+gr
+kin
+:= L2(RBohr , dµH), where RBohr and dµH are, respectively, the Bohr compactification of the real
+
+line and the Haar measure on it [5]. On the other hand, for convenience, we choose the Schrodinger
+representation for the scalar field [8]. Thus, the kinematical Hilbert space for the scalar field part
+is defined as in the usual quantum mechanics: Hsc  := L2(R, dµ). Hence, the whole Hilbert space
+
+kin
+gr	sc
+
+of the 3 + 1 dimensional LQC is a direct product, Hkin = Hkin ⊗ Hkin. In order to implement the
+Hamiltonian constraint at the quantum level, there are essentially two quantum effects that we need
+to consider. The first one is inverse volume corrections, which comes from the classical Hamiltonian constraint that involves the inverse of the determinate of the metric and thus can not be promoted as a well defined operator on the kinematic Hilbert space. In a 3 + 1 dimensional LQG, this difficulty can
+ǫabc Eb Ec
+be overcome through the well known classical identity (Thiemann trick) 1 ǫijk	√  k =  1 {Ai , V} [2],
+where the q denotes the determinant of the three metric and V is the volume of the fiducial cell. The second quantum effect is called a holonomy correction because the connection is not a well-defined quantum operator and needs to be replaced by holonomy:
+
+
+λ
+ jk
+= cos (λc) + sin(λc)τjk.	(12)
+
+At the effective level, this is equivalent for replacing c '→ sin(λc) [10,11]. Under such a replacement, the effective Hamiltonian becomes
+
+
+
+He f f
+3
+=	− κγ2
+sin2(µ¯ c) √
+µ¯2
+2
+p + 	φ  .	(13)
+2p3/2
+
+
+/
+Here, we choose λ = µ¯ = ∆ [6–8,10], with ∆ being the minimal area in loop quantum gravity [2,10]. With this effective Hamiltonian in hand, we can easily derive the modified Friedman equation. To this aim, similar to the classical case, we again calculate the evolution of a canonical variable p
+2 sin(µ¯ c) cos(µ¯ c) √/	2
+p˙ = {p, He f f } = γ	µ¯	p = γ√∆ sin(µ¯ c) cos(µ¯ c)p.	(14)
+On the other hand, we can rewrite the effective Hamiltonian as
+
+
+
+sin2(µ¯ c) =
+κγ2∆
+3
+2
+φ
+2p3
+= ρ ,	(15)
+ρc
+
+where ρc =  3  . Therefore, the modified Friedman equation reads
+
+ a˙  2	  p˙  2	 1 	2	2	κ	 ρ
+It is easy to see at the point ρ = ρc, the Hubble parameter H = 0. Moreover, it can be verified that there is a bounce occurring at that point [10].
+
+Universe 2016, 2, 15	5 of 13
+
+
+Loop Quantum Cosmology of Modified Gravity
+
+Classical Theory
+Modified gravity now receives more and more attention. In this section, we generalize loop quantum cosmology to modified gravity [14,15,30]. We mainly focus on one of the simplest modified gravity theories, which is the so-called Brans–Dicke theory. The treatment of other more complicated gravity can be found in [15]. The action of Brans–Dicke theory reads [14]
+
+S(g) = 1
+2κ
+∫  d4x√−g  φR − ω gµν(∂µφ)∂µφ ,	(17)
+
+where ω is the coupling constant of the Brans–Dicke theory.
+Though a complicated Hamiltonian analysis, we can rewrite Brans–Dicke theory in the connection dynamics formalism and find that BD theory also admits three constraints just like GR. The Gauss and Diffeomophism constraints keep the same form as in GR and the Hamiltonian constraint of the Brans–Dicke theory reads [14]
+
+ φ	j	 1 
+
+/
+
+  ε jkl EaEb
+/	/ /
+
+
+  κ		(K˜i Ea)2
++
+(K˜i Ea)π
++ 2	a√i
+π2φ
++ √
+
+3 + 2ω
+κ2φ  h	κ  h	h
+
++	 ω  √h(D φ)Daφ + 1 √hD Daφ,	(18)
+2κφ	κ
+where K˜i ≡ K˜ab eb, with K˜ab being
+
+a	i
+
+K˜ ab = φK
+
+ab	hab  ˙	c
+2N
+
+where Kab is the extrinsic curvature of three manifold. The only non-vanishing Poisson bracket between these canonical variables reads
+{K˜ j (x), Eb(y)} = κδbδj δ(x, y).	(20)
+Moreover, the connection Ai defined as
+Ai = Γi + γK˜i ,	(21)
+a	a	a
+where Γi is the spin connection, and γ is a nonzero real number. Fi  ≡ 2∂ Ai ] + ǫikl Ak Al is the
+
+a
+curvature of Ai .
+ab	[a  b	a  b
+
+Since the spatial topology is non-compact and the total volume of the spatial manifold is infinite, we introduce an “elemental cell” V and restrict all integral to V. The homogeneity of the universe guarantees that the whole space information is reflected in this elemental cell. Now, we choose a fiducial Euclidean metric oqab and introduce a pair of fiducial orthnormal triad and co-triad as (oea, oωi ), respectively, such that oqab = oωi oωi . For simplicity, we let the elemental cell V be a
+cubic measured by our fiducial metric and denote its volume as Vo. Because our FRW metric is
+spatially flat, we have Γi = 0, and, hence, Ai = γK˜i . Via fixing the degrees of freedom of local gauge
+a	a	a
+and diffeomorphism, we finally obtain the connection and densitized triad by symmetrical reduction
+as [5]:
+
+
+i =	− 1 o  i
+b =	− 2 q
+
+(  )o b
+
+Universe 2016, 2, 15	6 of 13
+
+
+where c˜, p are only functions of t. Hence, the phase space of the cosmological model consists of conjugate pairs (c˜, p) and (φ, π). The basic Poisson brackets between them can be simply read as:
+{c˜, p}	=	κ γ,
+{φ, π}	=	1.	(23)
+From the classical line element, we can obtain c˜ = γ(φa˙ + φ˙ a ), p = a2. Note that by the
+symmetric reduction, the Gaussian and diffeomorphism constraints are satisfied automatically. Moreover, since we only consider the homogeneous universe model, the last two terms in the Hamiltonian constraint (18) only evolve spatial derivatives, and thus should vanish. Hence, we only need to consider the remaining five terms in the Hamiltonian constraint (18). The reduced Hamiltonian in the cosmological model reads
+
+3c˜2√|p|
+κ	3c˜p	2
+
+HBD	=	−
+γ2κφ	+
+3 ( κγ + πφ) .	(24)
+(3 + 2ω)φ|p| 2
+
+Similar to the last section, by using evolution of p and the Hamiltonian constraint, we can get the Friedman equation as follows [30]:
+  a˙	 φ˙  2	 1 κ	 κ  βφ˙2
+
+βφ˙2	κρ
+=	12φ2 + 3φ .	(25)
+Effective Equation
+To study the effective theory of loop quantum Brans–Dicke cosmology, we also want to know the effect of matter fields on the dynamical evolution. Hence, we include an extra massless scalar matter field ϕ into Brans–Dicke cosmology. Then, classically, the total Hamiltonian constraint of the model reads
+
+
+H = −
+
+/
+3c˜2	p
+γ2κφ	+
+κ
+3
+(3 + 2ω)φ|p| 2
+( 3c˜p
+κγ
+p2
+3
+2|p| 2
+
+where pϕ is the momentum conjugate to ϕ. The effective description of LQC is a delicate and topical issue since it may relate the quantum gravity effects to low-energy physics. The effective equations of LQC are being studied from both the canonical perspective [43–46] and the path integral perspective [47–53]. Since the key element in the polymer-like quantization of the previous subsection is to take holonomies rather than connections as basic variables, a heuristic and simple way to
+
+get the effective equations is to do the replacement c˜
+sin(µ¯ c˜)
+µ¯
+[30]. In fact, this replacement is
+
+rigorous in Brans–Dicke as well as more general scalar-tensor theories of gravity [14,15,30]. Under this
+replacement, the effective version of Hamiltonian constraint (26) takes the form
+3 sin2(µ¯ c˜)√|p|	κ	3 sin(µ¯ c˜)p	2	3
+/	/ /
+
+κγ φµ
+
+p2
+
+/
+βφ|p| 2
+
+where ρ =   ϕ  by definition is the matter density of massless scalar field. The more detailed study
+2|p|3
+show that the effective Hamiltonian (27) derived by a path integral formalism [30] actually takes the
+same form. Then, the canonical equations of motion read:
+
+Universe 2016, 2, 15	7 of 13
+
+
+p˙	=	2√|p| sin(µ¯ c˜) cos(µ¯ c˜) −	2κ	 3 sin(µ¯ c˜)p + πφ) cos(µ¯ c˜ ,	(28)
+
+
+κ
+φ˙	3
+β|p| 2
+( 3 sin(µ¯ c˜)p + πφ).	(29)
+µ¯ κγ
+
+In the above calculation, the Poisson brackets (23) have been used.	The combination of Equations (28) and (29) gives:
+  p˙	φ˙  2	" sin(µ¯ c˜) cos(µ¯ c˜)	κ	3 sin(µ¯ c˜)p	#2
+
++
+2p	2φ
+=	γφµ¯ √|p|	+
+" sin(µ¯ c˜) cos(µ¯ c˜)
+
+3 (
+βφ|p| 2
+ φ˙ 
+µ¯ κγ	+ πφ)(1 − cos(µ¯ c˜))
+#2
+
+
+
+On the other hand, from the effective Hamiltonian constraint (27), we can get
+3 sin2(µ¯ c˜)	βφ˙2
+— κγ2φ∆	+ 4κφ + ρ = 0,	(31)
+
+
+which implies
+
+sin2(µ¯ c˜) = ρe f f ,	(32)
+ρc
+
+
+where ρc
+
+  3 
+γ2 ∆κ
+√3 32π2 G2 γ3 h¯
+
+and ρ
+
+
+e f f
+= βφ˙2 + φρ. Taking Equation (32) into account and p = a2,
+
+we can rewrite Equation (30) as:
+
+
+  /a˙ +
+φ˙  2
+=	" 1 s κ ρ
+
+(1 −
+
+ρe f f ) +
+
+φ˙
+(1 −
+s1 −
+
+2
+ρe f f )
+
+
+.	(33)
+
+/
+a	2φ
+/	/
+φ	3 e f f
+/	/	/
+ρc	2φ	ρc
+
+This is the effective Friedmann equation of Brans–Dicke cosmology, which contains important quantum correction terms. In addition, we can show that, for a contracting universe, ρe f f monotonically increases while v decreases [30]. Thus, it is easy to see from Equation (33) that, when
+ρ	approaches ρ , one gets cos(µ¯ c˜) = 1 − ρe f f = 0. Then, from Equation (28), we can obtain p˙ = 0.
+This implies a quantum bounce that would happen at that point for a contracting universe.
+The modified Friedman equation has two important limits cases. The first one is when φ = 1,
+and note that in this case we have ρe f f = ρ and φ˙ = 0, Equation (33) returns to the well-known
+effective Friedmann equation of LQC [10,44] as
+ a˙  2	κ	 ρ
+
+
+
+Second, in the classical regime, i.e., when ρ
+ρe f f
+ρ , we can omit
+terms in Equation (33) to
+
+e f f
+get the classical limit as:
+  a˙	 φ˙  2	 1 κ
+c	ρc
+
+
+ κ  βφ˙2
+
+/
+
+βφ˙2	κρ
+=	12φ2 + 3φ ,	(35)
+
+Universe 2016, 2, 15	8 of 13
+
+
+which is nothing but the classical Friedmann equation of Brans–Dicke cosmology. This, in turn, guarantees our effective theory as a correct classical limit.
+Loop Quantum Cosmology in Higher Dimensions
+Now, we turn to generalizing our results to higher dimensions, and this section is mainly based on [42]. The connection dynamics of n+1 dimensional gravity (n ≥ 3) with a gauge group SO(n + 1) or SO(1, n) is obtained in [38]. The Ashtekar connection formalism of n + 1 dimensional gravity
+constitutes an SO(1, n) (or SO(n + 1)) connections AIJ and a group value densitized vector πb
+defined on an oriented n dimensional manifold S, where a, b = 1, 2 . . . n are the spatial indices and I, J = 1, 2, 3 . . . n denotes SO(1, n) group indices. The commutation relation for the canonical conjugate pairs satisfies
+
+bKL	K L b
+{AaIJ(x), π	(y)} = 16πGγδ[IδJ] δa δ(x, y),	(36)
+
+where γ is a nonzero real number.	Here, the πbKL satisfies the “Simplicity constraint” [38]. Solving this “Simplicity constraint” at the classical level gives us πbKL = 2n[KEb|L] = 2√hhabn[KeL],
+where the spatial metric reads hab = ei ebi, nK is a normal, which satisfies eKnK = 0 and nKnK = −1 for
+SO(1, n) (for the case SO(n + 1), nKnK = 1). Moreover, the densitized vector Ea satisfies hhab = EaEbI,
+I	I
+where h is the determinant of the n dimensional spatial metric hab. AIJ is an SO(1, n) connection
+defined as AIJ = ΓIJ + γKIJ, where ΓIJ and KIJ are n dimensional spin connection and extrinsic
+a	a	a	a	a
+curvature, respectively. Besides the Simplicity constraint, the n+1 dimensional gravity has three constraints similar to 3+1 dimensional general relativity [38,40]:
+GIJ	:=	DaπaIJ := ∂aπaIJ + 2A[IKπa|K| J],	(37)
+Va	=	1 F	πbIJ,	(38)
+2γ abIJ
+
+  1  	aIK  b  J
+gr
+¯ aI J	−1
+¯ bKL
+2	a[I
+b| J] 
+
+
+where FabIJ ≡ 2∂[a Ab]IJ + 2Aa[I|K Ab K | J] is the curvature of connection AaIJ, and D¯ aI J = γ FaIJ,bKLK¯ T  ,
+with K¯ T	being the transverse and traceless part of extrinsic curvature KbKL. Moreover, we have
+[F · F−1]aIJ = δaη¯ I η¯ J , with η¯ I = δI − nInJ.
+Now, let us consider the n + 1 dimensional isotropic and homogenous k = 0 Universe. Its line element is described by the n+1 dimensional Friedmann–Robertson–Walker (FRW) metric
+ds2 = −N2dt2 + a2(t)dΩ2,	(40)
+where a is the scale factor, N is the lapse function, and dΩ2 is the n dimensional spatial section. In the following, for simplicity, we fix N = 1. We choose a fiducial Euclidean metric oqab on the n dimensional spatial slice of the isotropic observers and introduce a pair of fiducial orthnormal bases as (oea, oωI ) such that oqab = oωIoωI. The physical spatial metric is related to the fiducial one by
+
+I	a	a	b
+2o
+
+/
+a	− n−n 1 √0 o a
+aI J
+
+
+n−1 q/	− n−n 1 q0
+πaIJ	=	− n	0qon[Ioea| J] =	qoπaIJ ,	(41)
+
+I J	− 1 o
+/
+
+[I o  J]
+— 1 o  I J
+/
+
+Ab	=	2cV0 n n
+ωb = cV0 n
+Ωa .	(42)
+
+Universe 2016, 2, 15	9 of 13
+
+
+In the following, without loss of generality, we will fix the fiducial volume V0  =  1.
+A straightforward calculation shows
+p = an−1,	c = γa˙.	(43)
+These canonical variables satisfy the commutation relation as follows:
+κγ
+
+{c, p} =
+.	(44)
+n
+
+For our cosmological case, the Gaussian and diffeomorphism constraints are satisfied automatically. For the Hamiltonian constraint, we first note that, in our cosmological situation, the extrinsic curvature only has the diagonal part. Hence, the transverse traceless part of extrinsic
+
+curvature
+¯ T
+bKL
+is identical to zero.	Therefore, the second term of the Hamiltonian constraint
+
+is vanishing.	Moreover, the spin connection Γ is also zero for our homogenous and isotropic
+universe. Thus, a simple straightforward calculation shows KKEE term proportional to Fππ term. Combining all of the above ingredients together, the Hamiltonian constraint (39) reduces to
+
+
+1
+
+/
+2κγ2  abIJ
+πaIKπb K J
+√h	.	(45)
+
+Now, as in the 3 + 1 dimensional LQC, we also consider a minimally coupled massless scalar field φ as our matter field. The total Hamiltonian now reads
+1	πaIKπb  J	p2
+	K 	φ
+HTotal	=	− 2κγ2 FabIJ	√h	+ 2√h ,	(46)
+where the pφ by definition is the conjugate momentum of massless scalar field φ. The Poisson bracket between scalar field φ and conjugate momentum pφ reads {φ, pφ} = 1. In the cosmological model that we consider in this paper, this Hamiltonian therefore reduces to
+2
+n(n − 1)	n−2	p
+
+HTotal
+=	−  2κγ2
+c2 p n−1 + 	φ  .	(47)
+2pn−1
+
+In order to reproduce an n+1 dimensional Friedmann equation with our Hamiltonian (47) and commutation relation (44), we calculate the equation of motion for p, which reads
+
+n − 1	n−2
+p˙ = {p, H	} =	cp	.	(48)
+
+By using the Hamiltonian constraint, we successfully reproduce the classical n + 1 dimensional Friedmann equation
+
+
+
+H2	=
+	p˙	 2
+(n − 1)p
+  1  2
+= γ2 p2 c p
+
+2(n−2)
+/
+n−1
+
+=	2κ
+2	2κ
+=
+
+ρ,	(49)
+
+n(n − 1) 2p  2n 	n(n − 1)
+
+
+where
+
+a˙
+H	=	/
+a
+2
+ρ	=	2V2
+
+
+
+
+2
+=	 2n 
+2pn−1
+
+
+
+
+(50)
+
+Universe 2016, 2, 15	10 of 13
+
+
+are the Hubble parameter and the matter density in n+1 dimensions, respectively.
+In n + 1 dimensional quantum gravity, the n − 1 dimensional area operator is quantized just like its counterparts in 3 + 1 dimensions, and the discrete spectrum of this n − 1 dimensional quantum operator reads [40]
+∆n = κh¯ γ ∑ qI(I + n − 1) = 8πγ(ℓp)n−1 ∑ qI(I + n − 1),	(51)
+/	/
+where I is an integer and ℓp = n−√1 Gh¯ is the Planck length with G and h¯ being the Newton’s and Planck’s constants in n + 1 dimensions [40]. Now, similar to the last two sections, at the effective level, the quantum Hamiltonian can be simply obtained again from a replacement [42]
+
+
+
+
+
+
+ ∆   n1 1
+sin(µ¯ c)
+c
+µ¯
+,	(52)
+
+operator [7].
+Under such a replacement, the quantum effective Hamiltonian reads
+
+
+n(n − 1) sin2(µ¯ c)
+2
+n−2	φ
+
+He f f	=	−
+2κγ2
+µ¯2	p n−1 +
+ n  .	(53)
+2pn−1
+
+Now, we are ready to derive the physical evolution equation of the n + 1 dimensional Universe, and the most important one is, of course, the modified Friedmann equation. To this aim, combining the effective Hamiltonian constraint He f f (53) with the symplectic structure of n + 1 dimensional loop quantum cosmology, one can easily obtain equations of motion for the p as
+n − 1 sin(µ¯ c) cos(µ¯ c) n−2
+p˙	=	{p, H	} =	p	.	(54)
+
+By using Equation (54), and recalling that p = an−1, it is easy to see that
+2	 a˙ 2	 	p˙	 2		1		2	2
+Note that the right-hand side of the above equation evolves sin2(µ¯ c) cos2(µ¯ c). It therefore strongly hints to us that it might have some relation with the effective Hamiltonian constraint (53). A simple and straightforward calculation shows us that this is true. In fact, the effective Hamiltonian constraint He f f = 0 can be rewritten as the following compact form
+
+2	n
+sin2(µ¯ c) = 2κγ (∆n ) −1 ρ = ρ .	(56)
+n(n − 1)	ρc
+
+Here, we define ρc =   n(n−1)	 as the n + 1 dimensional critical matter density, which actually
+2κγ2 (∆n ) n−1
+is the upper bound of the matter density. With this equation in hand, the modified Friedmann
+equation can be easily obtained as
+
+
+H2 =
+ a˙  2
+
+
+	2κ	
+=	ρ
+n(n − 1)
+
+1	 ρ
+ρc
+
+.	(57)
+
+Universe 2016, 2, 15	11 of 13
+
+
+Conclusions
+In this paper, we review the four-dimensional LQC as well as its extension to modified gravity and higher dimensions. We give a detailed construction of the effective Hamiltonian and use that effective Hamiltonian to obtain the modified Friedman equation that represents the evolution of the universe. We start from a 3+1 dimensional case, and then generalize it to the higher dimensional case as well as a modified gravity case. Our result shows that the heuristic replacement c ֌ sin(µ¯c) is actually works quite general. In all cases we consider here, the modified Friedman equation contains
+a corrections term  ρ . Therefore, in the classical regime, we have  ρ → 0. This, in turn, implies the
+
+ρc
+corrected classical limit, while, in the Planck regime, the ratio  ρ
+c
+ρc
+approaches 1. Hence, in all these
+
+theories, one can naturally expect the existence of a quantum bounce. A more detailed discussion can
+be found in [30,54].
+There are several directions to further extend our work. The first one is to incorporate the dimension reduction mechanism with our higher dimensional LQC model. Getting a four-dimensional cosmology theory and comparing this theory with the observation data will be very interesting and might find some higher dimensional quantum effects. Second, for modified gravity LQC, the perturbation theories, especially in the Jordan frame, are yet to be carried out. Moreover, we can compare the perturbation theory in the Jordan frame and in the Einstein frame to see whether there is a difference or not. Third, we can combine modified gravity and higher dimensional LQC to construct higher dimensional modified LQC, since in the classical case, some of the higher dimensional modified cosmological models can naturally explain the accelerated expansions of our current Universe [23,36]. It will be very interesting to investigate the quantum effective of these models. We hope to explore these delicate and important issues in the near future.
+Finding observational signals are always one of the most important issues of LQC. In particular: does current CMB data already contain some quantum gravity effects? In the 3+1 dimensional LQC of GR, the effects of LQC will slightly modify the form of Mukhanov–Sasaki equation and therefore give different values of some physical quantities such as the power spectrum, the tensor to scalar ratio, and so on [55,56]. In the higher dimensional LQC model as well as the LQC of modified gravity, we expect the corresponding Mukhanov–Sasaki equation will contain some new terms and give different predictions that can be verified/falsified by the experimental data.
+This paper aims to provide a short introduction to effective theories of LQC and its extensions. It should be mentioned that, because of length limitation, many aspects of LQC are not covered. These topics include but are not limited to inflationary scenarios in LQC [57], Starobinski types model [58,59], the value of Immirzi parameters in higher dimensions [60], linking LQC with LQG [61,62], more detailed discussion on singularity issues [63,64], and so on.
+Acknowledgments: This work is supported by the NSFC with No.11305063 and the Fundamental Research Funds for the Central University of China.
+Conflicts of Interest: The author declares no conflict of interest.
+
+References
+Rovelli, C. Quantum Gravity; Cambridge University Press: Cambridge, UK, 2004.
+Thiemann, T. Modern Canonical Quantum General Relativity; Cambridge University Press: Cambridge, UK, 2007.
+Ashtekar,  A.;	Lewandowski,  J.  Background  independent  quantum  gravity:  A  status  report.
+Class. Quantum Gravity 2004, 21, R53.
+Han, M.; Huang, W.; Ma, Y. Fundamental structure of loop quantum gravity. Int. J. Mod. Phys. D 2007, 16, 1397–1474.
+Ashtekar, A.; Bojowald, M.; Lewandowski, J. Mathematical structure of loop quantum cosmology.
+Adv. Theor. Math. Phys. 2003, 7, 233–268.
+Bojowald, M. Loop quantum cosmology. Living Rev. Relat. 2005, 8, 11.
+
+Universe 2016, 2, 15	12 of 13
+
+
+Ashtekar, A. Loop quantum cosmology: An overview. Gen. Relat. Gravity 2009, 41, 707–741.
+Ashtekar, A.; Singh, P. Loop quantum cosmology: A status report. Class. Quantum Gravity 2011, 28, 213001.
+Banerjee, K.; Calcagni, G.; Martin-Benito, M. Introduction to loop quantum cosmology. Symmetry Integr. Geom. Methods Appl. 2012, 8, 016.
+Ashtekar, A.; Pawlowski, T.; Singh, P. Quantum nature of the big bang: Improved dynamics. Phys. Rev. D 2006, 74, 084003.
+Ashtekar, A.; Corichi, A.; Singh, P. Robustness of key features of loop quantum cosmology. Phys. Rev. D 2008, 77, 024046.
+Zhang, X.; Ma, Y. Extension of loop quantum gravity to f (R) theories. Phys. Rev. Lett. 2011, 106, 171301.
+Zhang, X.; Ma, Y. Loop quantum f (R) theories. Phys. Rev. D 2011, 84, 064040.
+Zhang, X.; Ma, Y. Loop quantum Brans-Dicke theory. J. Phys. Conf. Ser. 2012, 360, 012055.
+Zhang, X.; Ma, Y. Nonperturbative loop quantization of scalar-tensor theories of gravity. Phys. Rev. D 2011, 84, 104045.
+Ma, Y. Extension of loop quantum gravity to metric theories beyond general relativity. J. Phys. Conf. Ser.
+2012, 360, 012006.
+Brans, C.; Dicke, R.H. Mach’s principle and a relativistic theory of gravitation. Phys. Rev. 1961, 124, 925.
+Greenstein, G.S. Brans–Dicke cosmology, I. Astrophys. Lett. 1968, 1, 139–141.
+Greenstein, G.S. Brans–Dicke cosmology, II. Astrophys. Space Sci. 1968, 2, 155–165.
+Anderson, J.D.; Morris, J.R. Brans–Dicke theory and the Pioneer anomaly. Phys. Rev. D 2012, 86, 064023.
+Benerjee, N.; Pavon, D. Cosmic acceleration without quintessence. Phys. Rev. D 2001, 63, 043504.
+Sen, S.; Sen, A.A. Late time acceleration in Brans–Dicke cosmology. Phys. Rev. D 2001, 63, 124006.
+Qiang, L.; Ma, Y.; Han, M.; Yu, D. 5-dimensional Brans–Dicke theory and cosmic acceleration. Phys. Rev. D 2005, 71, 061501.
+Das, S.; Banerjee, N. Brans–Dicke scalar field as a chameleon. Phys. Rev. D 2008, 78, 043512.
+Felice, A.D.; Tsujikawa, S. Generalized Brans–Dicke theories. J. Cosmol. Astropart. Phys. 2010, 2010, 024.
+Bisabr, Y. Cosmic acceleration in Brans–Dicke cosmology. Gen. Relat. Gravity 2012, 44, 427–435.
+Friemann, J.; Turner, M.; Huterer, D. Dark energy and the accelerating Universe. Ann. Rev. Astron. Astrophys.
+2008, 46, 385–432.
+Will, C.M. The confrontation between general relativity and experiment. Living Rev. Relativ. 2006, 9, 3.
+Will, C.M. Theory and Experiment in Gravitational Physics; Cambridge University Press: Cambridge, UK, 1993.
+Zhang, X.; Ma, Y. Loop quantum Brans–Dicke cosmology. Phys. Rev. D 2013, 87, 084024.
+Appelquist, T.;  Chodos, A.;  Freund, P.G.O. Modern Kaluza-Klein Theories (Frontiers in Physics);
+Addison-Wesley: Reading, MA, USA, 1986.
+Polchinski, J. String Theory; Cambridge University Press: Cambridge, UK, 1998.
+Maldacena, J.M. TASI 2003 Lectures on AdS/CFT. In Proceedings of the Theoretical Advanced Study Institute in Elementary Particle Physics (TASI 2003): Recent Trends in String Theory, Boulder, CO, USA, 1–27 June 2003.
+Randall, L.; Sundrum, R. A Large Mass Hierarchy from a Small Extra Dimension. Phys. Rev. Lett. 1999, 83, 3370–3373.
+Randall, L.; Sundrum, R. An Alternative to Compactification. Phys. Rev. Lett. 1999, 83, 4690–4693.
+Mohammedi, N. Dynamical compactification, standard cosmology, and the accelerating universe.
+Phys. Rev. D 2002, 65, 104018.
+Zhang, X. Loop quantum cosmology in 2 + 1 dimension. Phys. Rev. D 2014, 90, 124018.
+Bodendorfer, N.; Thiemann, T.; Thurn, A. New variables for classical and quantum gravity in all dimensions
+I. Hamiltonian analysis. Class. Quantum Gravity 2013, 30, 045001.
+Bodendorfer, N.; Thiemann, T.; Thurn, A. New variables for classical and quantum gravity in all dimensions
+II. Lagrangian analysis. Class. Quantum Gravity 2013, 30, 045002.
+Bodendorfer, N.; Thiemann, T.; Thurn, A. New variables for classical and quantum gravity in all dimensions
+III. Quantum theory. Class. Quantum Gravity 2013, 30, 045003.
+Bodendorfer, N.; Thiemann, T.; Thurn, A. New variables for classical and quantum gravity in all dimensions
+IV. Matter Coupling. Class. Quantum Gravity 2013, 30, 045004.
+Zhang, X. Higher dimensional loop quantum cosmology. Eur. Phys. J. C 2016, 76, 395.
+
+Universe 2016, 2, 15	13 of 13
+
+
+Taveras, V. Corrections to the Friedmann equations from loop quantum gravity for a universe with a free scalar field. Phys. Rev. D 2008, 78, 064072.
+Ding, Y.; Ma, Y.; Yang, J. Effective scenario of loop quantum cosmology. Phys. Rev. Lett. 2009, 102, 051301.
+Yang, J.; Ding, Y.; Ma, Y. Alternative quantization of the Hamiltonian in loop quantum cosmology.
+Phys. Lett. B 2009, 682, 1–7.
+Bojowald, M.; Brizuela, D.; Hernandez, H.H.; Koop, M.J.; Morales-Tecotl, H.A. High-order quantum back-reaction and quantum cosmology with a positive cosmological constant. Phys. Rev. D 2011, 84, 043514.
+Ashtekar, A.; Campiglia, M.; Henderson, A. Loop quantum cosmology and spin foams. Phys. Lett. B 2009, 681, 347.
+Ashtekar, A.; Campiglia, M.; Henderson, A. Casting loop quantum cosmology in the spin foam paradigm.
+Class. Quantum Gravity 2010, 27, 135020.
+Ashtekar, A.; Campiglia, M.; Henderson, A. Path integrals and the WKB approximation in loop quantum cosmolog. Phys. Rev. D 2010, 82, 124043.
+Qin, L.; Huang, H.; Ma, Y. Path integral and effective Hamiltonian in loop quantum cosmology.
+Gen. Relativ. Gravit. 2013, 45, 1191–1210.
+Qin, L.; Deng, G.; Ma, Y. Path Integrals and Alternative Effective Dynamics in Loop Quantum Cosmology.
+Commun. Theor. Phys. 2012, 57, 326–332.
+Qin, L.; Ma, Y. Coherent state functional integrals in quantum cosmology. Phys. Rev. D 2012, 85, 063515.
+Qin, L.; Ma, Y. Coherent state functional integral in loop quantum cosmology: Alternative dynamics.
+Mod. Phys. Lett. 2012, 27, 1250078.
+Singh, P. Are loop quantum cosmos never singular? Class. Quantum Gravity 2009, 26, 125005.
+Gomar, L.; Martin-Benito, M.; Marugan, G. Quantum corrections to the Mukhanov-Sasaki equations.
+Phys. Rev. D. 2016, 93, 104025.
+Cai, Y.; Wilson-Ewing, E. A ΛCDM bounce scenario. J. Cosmol. Astropart. Phys. 2015, 2015, 006.
+Agullo, I.; Ashtekar, A.; Nelson, W. A quantum gravity extension of the inflationary scenario.
+Phys. Rev. Lett. 2012, 109, 251301.
+Amorós, J.; Haro, J.; Odintsov, S.D. R + αR2 loop quantum cosmology. Phys. Rev. D 2014, 89, 104010.
+Bonga, B.; Gupt, B. Phenomenological investigation of a quantum gravity extension of inflation with the Starobinsky potential. Phys. Rev. D 2016, 93, 063513.
+Zhang, X. Immirzi parameter and quasinormal modes in four and higher spacetime dimensions. Front. Phys.
+2016, 11, 110401.
+Alesci, E.; Cianfrani, F. A new perspective on cosmology in Loop Quantum Gravity. Europhys. Lett. 2013, 104, 10001.
+Alesci, E.; Cianfrani, F. Quantum-reduced loop gravity: Cosmology. Phys. Rev. D 2013, 87, 083521.
+Diener, P.; Gupt, B.; Singh, P. Chimera: A hybrid approach to numerical loop quantum cosmology.
+Class. Quantum Gravity 2014, 31, 025013.
+Diener, P.; Gupt, B.; Singh, P. Numerical simulations of a loop quantum cosmos: robustness of the quantum bounce and the validity of effective dynamics. Class. Quantum Gravity 2014, 31, 105015.
+⃝c 2016 by the author; licensee MDPI, Basel, Switzerland. This article is an open access
+article distributed under the terms and conditions of the Creative Commons Attribution (CC-BY) license (http://creativecommons.org/licenses/by/4.0/).
+
+MATTER AND VACUUM. A NEW APPROACH TO THE INTIMATE STRUCTURE OF THE
+UNIVERSE.
+
+
+
+Marcelo A. Crotti – Address: J. V. Gonzalez 4227 – 1882 – Ezpeleta – Argentina. e-mail: mcrotti@inlab.com.ar
+
+
+
+Keywords: Relativity, vacuum. matter, oscillators.
+
+SUMMARY
+In order to describe and simplify the properties of material systems and their interactions a simple model, based on linear oscillators, is hereby presented. These oscillators define the space and time framework from which the length and time properties of material systems are derived. Matter and energy are postulated as the physical result of grouping and interaction among primary oscillators.
+The length of material systems and the time required for the information to travel both ways (back and forth) change with the system's motion. The derived formulas coincide with the Special Relativity transformations for space and time.
+Based on this model, the speed of light seems constant for all inertial systems. There is no contradiction with the Special Relativity Theory in the usual case of experimental results that imply two-way trips of the electromagnetic signals, but differences arise when only one-way phenomena are considered.
+
+OSCILLATORY MODEL
+Consider the phenomena taking place in the ocean, where the entire assembly of water molecules may be considered as a frame of reference. Waves, currents and tides take form within this frame. Simultaneously, sound waves, thermal phenomena, etc., are being transmitted.
+Despite this internal molecular structure, when swimming, we usually consider the ocean waves as independent entities, over imposed on the huge body of water. It is possible to develop a good characterization of ocean waves analyzing them as independent phenomena. But only through the kinetic theory, which does consider molecules, we can understand the transmission characteristics of sound waves and, in general, all transportation phenomena occurring in water.
+In the same line of thoughts, let us assume for a moment that there is a frame of reference in the universe. As water in the ocean, this frame of reference need not to be stationary.
+Let's also assume that the frame of reference is formed by entities with oscillatory properties. These entities join together to create the basic constituents of what we generically call matter, waves, energy, etc.
+Let us assume, in addition, that this connection is governed by interactions transmitted (in average) with the speed of light in a vacuum ("c").
+The basic constituents of this primordial medium are postulated as one-dimension oscillators (like superstrings theory does (Green et al.1987). The basic difference with superstring theory is that the oscillators are not only considered as the basic constituents of particles. Linear oscillators are postulated as filling (and defining) all the Universe, while particles are only the physical manifestation of their coordinate interaction.
+From both above mentioned basic assumptions the concept of subjective time for any observer, either stationary or moving with respect to this frame of reference, can be conjectured. From this subjective concept of time, the value of the speed of light, measurable for each observer, can be derived.
+As suggested by our experience in other fields, the speed of interactions can be considered as constant within the frame of reference, as with sound waves in water or in air.
+At this point becomes very important to clarify the concept of subjective time. Once postulated that any material or energetic manifestation is no more than a grouping of oscillatory interacting constituents, if by any reason these oscillators change their coupling frequency, all the processes associated to matter or energy will change correlatively. Take, for example, the variation of the speed of sound in the air at different temperatures. This
+
+phenomenon should affect not only the biological clocks (e.g., aging) but also the mechanical ones.
+As expressed, the assumptions for the model are:
+All material or energetic manifestations result from the interaction of linear oscillators, which not only cover entirely the space under study but define it.
+The average transmission speed of the information, between oscillators, is constant in the frame determined by the oscillators.
+The question of how many oscillators are required to form an elemental particle (i.e., an electron) is similar to asking how many molecules are required to form a wave or a whirlpool. As envisioned in this model, a particle or an energetic manifestation is simply a stable grouping of the primary entities, which originate a differentiated phenomenon within the frame of reference. It is irrelevant to know how many molecules of water or which, among all those available, form part of a wave. The wave is a stable and differentiated phenomenon within the body of water, even if the molecules that originate such a wave do not move along with it. "Stable" means that the phenomenon propagates during a certain period of time, maintaining its identity.
+In the following discussion, a length "L," refers to the "observable" physical results of the groupings and interactions of a large number of primary oscillators.
+Similarly, the changes in the observable length "L" or in the internal oscillation period "T" for the material system, is the "macroscopic" representation of the changes among primary oscillators.
+No attempt is made to define physical concepts as mass. It is only assumed that macroscopic results or particle properties are derived from the intrinsic properties of primary entities and their coupling characteristics.
+Defined in such a way, any "particle" is the result of the coupling of primary oscillators and must be considered as a macroscopic "observable" oscillator, which represents the result of the overall coupling.
+In accordance with such assumptions, the measurable properties of particles are, as with classical oscillators, the result of the equilibrium between internal restorative forces and the kinetic energies derived from the coordinated displacement of primary oscillators.
+Similarly to waves, the oscillators do not move with the particle. At all times the particle propagates its identity, incorporating and abandoning the oscillators as required.
+During length measurements or any other interaction, any particle can be considered a simple linear oscillator that is the result of the summation of a huge number of elementary oscillators. Further references to "particles" in the following paragraphs must be considered as a group of coupled primary oscillators. In the proposed model it is not possible to talk about particles without primary oscillators in the same manner that it is not possible to obtain water waves without water molecules.
+
+FIRST CASE: Stationary particle.
+The equations for linear oscillators that are manifested as a stationary material particle, are derived in the following paragraphs. In this stationary case, sub-index "0" is employed.
+During the following mathematical derivation, mass "m", is used only as an auxiliary variable, canceled at the end of the process. Mass "m" must be included in order to employ the classical physical formulas that describe the behavior of linear oscillators. For simplicity the mass "m" of the particle is assumed as the sum of the individual masses of the oscillators. As primary oscillators are postulated as interacting at speed "c", also mass "m", or the sum of primary oscillators mass, is displaced at speed "c" in one way or another. Plus (+) and minus (-) signs will be used to reflect opposite directions of the absolute magnitude, "c".
+Within this explanation, mass "m" is not necessarily identified as the measurable mass of the particle. It must only be considered as an "internal" mass reflecting the addition of individual oscillators mass. As previously explained, no attempt is made to define the concept of mass associated with individual oscillators.
+For a material particle (of "internal" mass "m"), assumed as a linear oscillator which reflects the coupling of a group of primary linear oscillators, the "internal" kinetic force ("F0"), in equilibrium with the "internal" elastic restorative force, is:
+F0 = Momentum Variation / Oscillation Period
+Where, with the "internal" mass "m" changing its speed from "+c" to "-c", it results:
+Momentum Variation = 2mc	(1)
+and the oscillation period "T0" is related to the length of the particle "L0" by:
+
+T0 = 2L0 / c	(2)
+leading to:
+F0 = 2mc / (2L0/c)	(3)
+and "L0" is determined through the elastic constant "k", in accordance with:
+F0 = kL0	(4)
+So, equating (3) and (4):
+2mc / (2L0/c) = kL0
+and
+L0 = (mc2 / k)0.5	(5)
+
+SECOND CASE: Particle in motion.
+The case of a particle moving at a speed "v" (sub-index "1") with respect to the frame, can be calculated similarly. Once again, it must be emphasized that the fundamental linear oscillators do not move with the particle, as water molecules do not travel with the waves.
+The time of a complete oscillation ("T1") can be determined as:
+T1 = L1 / (c+v) + L1 / (c-v)
+which, after regrouping the terms, leads to:
+T1 = 2L1c / (c2 - v2)	(6)
+and the average force can be calculated as:
+F1 = 2mc / ( 2L1c / (c2 - v2))	(7)
+The equations are always expressed in accordance with observations collected from the stationary system. The variation of the momentum is the same as in the first case, since any elementary oscillator has an average speed "+c" or "-c" because it is stationary in the reference system (the oscillators are themselves the reference system). However, the system length "L1" can not be determined beforehand.
+As in the previous case, the elastic restorative force is related to "L1" according to
+F1 = kL1	(8)
+and from (7) and (8):
+L1 = ( m(c2 - v2) / k)0.5	(9)
+while, dividing equations (9) and (5):
+L1 = L0 (1 - v2 / c2)0.5	(10)
+and dividing (2) and (6):
+T1 = T0 (L1 / L0) (c2 / (c2 - v2))	(11)
+where, after replacing the length quotient, based on equation (10), we obtain:
+T1 = T0 / (1 - v2 / c2)0.5	(12)
+Equations (10) and (12) express the relationship between lengths and period, for a system in motion, with respect to the same values obtained for a stationary system. Both measurements are referred to the stationary system.
+The results obtained are the same equations that govern coordinate transformation in Special Relativity (Einstein 1905), but the consequences differ notably. In general, the "it seems as if ... " of Special Relativity becomes "it actually occurs that..." and vice versa
+As a consequence of this model, the moving clocks are in fact slower with respect to the stationary clocks.
+However, this is not evident in the moving system when carrying out experiments that involve length and cyclic time measurements. The explanation for this is that the observer's clocks and lengths are all affected in a same way as any material manifestation in the system.
+The above analysis is a consequence of the fact that, indirectly, in the measuring process we use the property which is, in fact, what we intend to measure.
+Even if the system velocity vary, the time for the light to cover the two-way path of a given distance, as measured by the observer, remains unchanged. This is not the case with the time employed for a one-way trip. It should be noted at this point that all accurate measurements of "c" (leading to the postulate of constancy of light speed) have been performed using two-way trips of electromagnetic waves. One way measurements like Römer’s study on the eclipses of the moons of Jupiter and Bradley’s determinations on aberration of light, are not accurate enough to detect absolute movement of the order of the Solar System local speed.
+Even if the postulate of a frame of reference in the universe may be taken as a reference to the obsolete theory of "ether", it actually involves a basically different concept. This supporting media is not thought of as a fluid in which waves propagate and which is crossed - with or without friction - by the material particles. According with this
+
+model, matter is an abstraction of the interaction of primary oscillators.
+In this model the concept of "corpuscle" associated with material manifestations is meaningless. If such "corpuscles" were mere stable groupings of the supporting medium’s components, it would not be convenient to think of them as being constituted by any other material, since this requires thinking that matter travels through the supporting medium (the old ether theory). In this model, corpuscles propagate through the supporting media. In a similar way, ocean waves do not travel across the water but propagate through it. Still waves are fairly stable groupings of the supporting medium particles (water molecules).
+A practical difference between this model and the Special Relativity may be found when measuring the propagation speed of light by using one-way travels or the effect of one-way interactions. Such measurements are possible but not easily made. In fact, the "Dipole Anisotropy" on the Cosmic Microwave Background (CMB) (Smoot et al. 1977) is in better accordance with this model than with Special Relativity. The "Dipole Anisotropy" as determined by the NASA’s COBE (Cosmic Background Explorer) satellite, is easily explained as a classical Doppler effect originated in Earth’s movement through the background reference system. Doppler effect is the result a typical one-way interaction (there is no need for the return of the wave)
+
+CONCLUSIONS.
+The transformation formulas for length and time, which are obtained through the Special Relativity Theory, can be derived using a "classical" model of the Universe. The model presented here is simple and leads directly to the previously mentioned equations.
+The speed of light, in accordance with the proposed oscillatory model, would actually be a fundamental property of the universe. It would not, however, be in the sense given by the Special Relativity Theory but because of being a manifestation of the intrinsic properties of what we call matter and/or energy. It would accomplish a role similar to that of molecule speed in the Kinetics Theory of Gases. It would be, in this case, the speed at which the primary components of the Universe interact.
+Within this model the concept of "corpuscles" and "waves" as independent entities are meaningless. They are only the result of interactions between primordial components. The conception of wave-particle duality would turn meaningless as a consequence that, according with this
+model, differences in internal structure of waves and particles vanish
+Absolute time would coexist with the times proper (other than absolute) of each inertial system. Each system would have its own "true" time, whatever the meaning of this expression may be.
+Light speed would become a practical limit for the material particles we know, but it wouldn't be an absolute limit.
+As previously expressed, the "it seems as if ... " of Special Relativity will become "it actually occurs that..." and vice versa.
+Based on this model, although there may be a reference system under conditions equivalent to absolute repose, it can not be detected using experiments involving two-way travels of the electromagnetic waves.
+This model does not imply the existence of an "absolute" reference system and mobile systems would only exist with respect to the basic frame that defines the space. This concept is analogous to the movement of waves and currents with respect to the extended mass of water of which they form part. There are not water molecules that can claim to be at absolute rest. Still the velocity of transportation phenomena becomes meaningful only when compared to the "stationary" local water extension.
+The differences with Special Relativity would be evident only if performing experiments involving accurate measurements of the speed of light, using single way travels.
+The "Dipole Anisotropy" on the Cosmic Microwave Background (CMB) is in better accordance with this model than with Special Relativity.
+
+References
+Einstein A. , 1905. "Zur elektrodinamyk bewegter Körper". Annalem der Physik, vol. 17
+Green M. ,Schwartz J., Witten E. 1987. Superstring Theory, Cambridge University Press Cambridge,
+Smoot G.F., Gorenstein M.V. and Muller R.A. 1977. "Detection of Anisotropy in the Cosmic Blackbody Radiation,", LBL Report 6468, Physical Review Letters 39, pp 898
+
+
+
+
+Matter fields from a decaying background Λ
+vacuum.
+Manasse R. Mbonye
+Michigan Center for Theoretical Physics
+Physics Department, University of Michigan, Ann Arbor, Michigan 48109
+
+Abstract
+We suggest an alternative framework for interpreting the current state of the visible universe. Our approach is based on a dynamical “Cosmological Con-stant” and the starting point is that a decaying vacuum produces matter. By assuming inflation and big bang nucleosynthesis we can solve for the present fractional densities of matter Ωm,0 and vacuum ΩΛ,0 in terms of only one pa-rameter which we call the vacuum domination crossing redshift, zc. We put constraints on zc to obtain a universe that is presently vacuum dominated and with characteristic densities consistent with observations. The model points to the possible existence of newly formed dark matter in the inter-cluster voids. We argue that some of this matter could be accreting onto clusters through the latter’s long range gravitational potentials. If so, then cluster dark matter halos may not manifest clear cut-offs in their radial density profiles. Furthermore, if a substantial amount of this newly produced matter has already drained onto the clusters, then the CMB power spectrum may favor lower dark matter density values than is currently observed bound in the clusters. A final feature of our approach relates to the combined effect of the matter production by a decay-ing vacuum and the different rates at which matter and the vacuum will dilute with the scale factor. Such combination may create conditions for a universe in which the vacuum and matter densities dilute and evolve towards comparable amplitudes. In this sense the model offers a natural and conceptually simple explanation to the Coincidence Problem.
+
+
+
+Introduction
+One of the most capricious and worrisome parameters in the entire history of physics is the so-called cosmological constant, Λ. Ever since 1917 when Einstein first introduced it in Physics (through general relativity (GR)) the cosmological constant has come and gone, only to come back again and again. To date, observation and theory still disagree on the value of this parameter by a staggering 120 orders of magnitude. It is the largest discrepancy ever recorded in physics!
+It is natural to associate the cosmological constant with a background vac-uum energy density, ρΛ =  Λ  . Recent observations1 suggest the present vac-uum energy density, ρ(0), to be of the same order as the present matter density,
+ρ(0), of the universe, i.e. ρ(0) ∼ 10−30 g cm−3. On the other hand, in particle
+m	Λ
+physics, vacuum energy results from various sources, with each source contri-
+bution being much larger than the upper limits of the total value given by observations. Quantum Field Theory (QFT) calculations estimate2 the back-
+−3
+ground vacuum energy as ⟨ρvac⟩ ∼ 1094 g cm	. It is this discrepancy of more
+than 120 orders of magnitude between the observed and the calculated values that constitutes the current Cosmological Constant Problem. The problem can be stated in two parts: first, (i) why is the observed Λ so small and (ii) not zero? Secondly, why is the associated energy density so coincidentally close to the mat-ter energy density presently if the two were originally so disparately different as predicted by particle physics? One possible explanation may be that matter and the vacuum may be engaged in some kind of non-trivial “communication”.
+A number of attempts to explain the Cosmological Constant Problem have been suggested since the 1980s. Most of these attempts are based on the physi-cist’s need to hold on to both results from theory and observation, albeit (in this case) at different epochs of the universe. In general, this view logically ne-cessitates that the cosmological constant take on dynamical attributes. There are two different traditional approaches usually taken in addressing the prob-lem. Particle physicists, for example, seek for mechanisms to cancel or at least suppress Λ (as in Coleman’s wormhole approach3 or by inventing compensat-ing fields in the Langrangian). To date, however, there is no known symmetry argument that justifies a vanishing (or worse still, an almost vanishing) Λ.
+The second approach makes use of concepts from general relativity. It is also the approach on which the rest of this discussion is based. The cosmological constant is known to have units of inverse length squared. However, general relativity offers no associated length scale. One possible natural scale, though, relates to the cosmological scale factor a (t) that appears in the Friedmann models. As it is, a (t) is cosmologically time dependent and so, traditionally, not favored by GR as the correct length scale for Λ. In Section 3 we will point out that a time-dependant Λ is not incompatible with the requirements of GR provided we adopt a more generalized energy conservation approach. With this one finds that it is precisely such time dependence that may offer an exit window for the dynamical evolution of Λ from its QFT-calculated value to its presently
+
+
+
+
+observed one. The answer to the Cosmological Constant Problem may be that simple. There is extensive literature written on the Cosmological Constant Problem and for a thorough review2 see e.g. the work of Weinberg,1989 and that of Carrol, 2000.
+In the 1980s several models sprang up4 relating Λ to the scale factor a (t) in the form Λ ∝ a (t)−2. It was not until 1990, however, that Chen and Wu5 justified the functional form of such models based on general arguments from quantum cosmology. Chen and Wu observed that one could always write Λ in
+terms of (mpl)4, (mpl is the Planck mass), and some dimensionless product of
+quantities. Thus Λ ∝  1    lpl  n. Here l	is the Planck length and n is some
+number and ¯h = c = 1. To be consistent with GR which, as a classical theory, contains no ¯h, it is necessary to set n = 2. Later, Calvalho et al6 suggested
+ t  −n
+/	/
+time and the Hubble (time) parameter, respectively. A more general model7
+
+—
+combines the above two to take the form Λ (t) = λ1a (t)
++ λ2H2
++ λ0, where
+
+λ0, λ1 and λ2, are adjustable parameters. In our discussion we shall make use of the model originally suggested by O¨ zer and Taha8 in which
+Λ (t) = λ a (t)−2 + λ .	(1.1)
+In such a model the energy density is always decreasing as the system continu-ously seeks a stable configuration. We shall therefore often refer to this system as a dynamical false vacuum.
+In astrophysics and cosmology, two of the traditional consequences of a cos-mological constant are the influence on the global geometry of the universe and the redshift dependence of the luminosity-distance relation for standard can-dles. It is, however, natural to ask whether there may be other interesting consequences. In this paper we propose (as an extension to the standard model of cosmology) an approach based on a dynamical cosmological constant Λ (t). We use the approach to derive several of the cosmological quantities, including the present fractional densities of matter Ωm,0 and vacuum ΩΛ,0 contents in the universe, in terms of one parameter we call the vacuum domination crossing redshift (VDCR), zc. On imposing constraints on zc we obtain a universe that is presently vacuum dominated and with characteristic densities consistent with observations. We discuss the important features of this framework.
+The remainder of this paper is arranged as follows. In Section 2 we introduce a dynamical Λ and discuss its features in a cosmological setting. We write down the general relativistic equations for a decaying cosmological vacuum, discuss the conditions they satisfy, and the implications for energy conservation in GR. In Section 3 these equations are solved subject to constraints we introduce on the equation of state for an interacting and dynamical vacuum. We discuss the asymptotic features of such an equation of state and what they reveal about the possible dynamical evolution of the universe. In Section 4 we focus our attention on the implication of our results. We obtain cosmological parameters
+
+
+
+
+as functions of one parameter and establish their consistency with observations. We suggest tests of our model. Section 5 concludes the paper.
+
+A Dynamical vacuum
+The cosmological setting
+The dynamics of the universe is described by the Einstein theory. Starting from the tt component of the Einstein equations (2.7) one obtains the Friedmann equation which asserts that the (expansion H of the) universe is driven by the fields therein. Thus
+
+
+H2 =
+a˙ (t) 2
+=
+a (t)
+8πG 3
+
+ρm +
+Λ	 k 
+3 — a (t)2
+
+,	(2.1)
+
+where ρm is the density of the matter fields, k = {—1, 0, 1}, is the curvature con-stant. Further, the acceleration of the universe is described by the Raychaudhuri equation,
+
+a¨ (t)
+
+/
+a (t)
+4πG
+= —
+3
+(ρ + 3p) ,	(2.2)
+
+where p = pm + pΛ is the pressure of all the fields in the universe. Here and henceforth the subscripts m and Λ refer to the matter and vacuum energy quantities, respectively.
+The energy density associated with the cosmological constant in (1.1) can
+ Λ 	λ1a(t)−2+λ0	¨	9
+
+be written as ρΛ =
+8πG =
+8πG	. Following Ozer
+we shall write ρΛ in
+
+terms of the present values of the scale factor a (t0) and matter component of
+the energy density ρ(0). (In our notation, the subscript/superscript 0 will refer to the present value of a quantity). Then using (1.1) we can write ρΛ as
+
+ρΛ = "β
+a (t0)  2
+a (t)
++ α#
+
+ρ(0),	(2.3)
+
+
+where we set αρ(0) =  λ0  and βa2ρ(0) =  λ1  . Here α, β ≥ 0 to ensure a
+m	8πG	0 m	8πG
+positive energy density ρΛ from Λ. With a substitution of (2.3) into (2.1), the
+Friedmann equation becomes
+
+ k — 8πGβa2ρ(0) 
+
+3	m	3	m —
+a (t)2	(2.4)
+
+As one notes from (2.4) such a dynamical Λ will introduce, in the theory, an effective curvature keff given by
+k	= k — 8πGβρ0 a (t )2 .	(2.5)
+
+eff
+
+/
+3	m	0
+
+
+
+This result shows that with a dynamical Λ the evolution of a universe could depend on keff instead of k and hence on the (manner of ) decay of Λ. For example with (keff — k) /= 0, a flat (k = 0) universe could effectively be dynam-ically open. Further, a closed (k = 1) universe could be effectively flat or even effectively open.
+
+General Relativistic Field Equations
+In this approach we consider the dynamical evolution of a self-gravitating perfect cosmic fluid in a background vacuum with a variable and positive cos-mological constant, Λ. The total energy momentum tensor Tµν for all the fields is given by
+Tµν = T˜µν + ρΛgµν = [ρ + p] vµvν — pgµν ,	(2.6)
+where T˜µν is the matter part of Tµν , ρ = ρm + ρΛ, p = pm + pΛ and vµ is the 4-velocity. In contrast to most other treatments in the literature we shall find it useful to retain all the pressure terms pm and pΛ in the problem, and specialize to particular cases later. We suppose that Tµν will satisfy Einstein field equations
+Gµν = 8πGT˜µν + Λgµν ,	(2.7)
+where Gµν is the Einstein tensor. The Bianchi identities Gµν = 0 imply that
+/
+Tµν is solenoidal, T µν = 0 and yield the conservation law vµT µν = 0 which
+
+can write this as
+[ρ˙m + (ρm + pm) θ] + [ρ˙Λ + (ρΛ + pΛ) θ] = 0,	(2.8) where θ = vα is the expansion parameter and ρ˙ = vα∇αρ.
+Energy conservation in GR
+In the above scenario, we suppose that while the total energy is globally conserved, matter and the vacuum can communicate. In particular, we sup-pose that the vacuum can decay into matter. This state of affairs deserves commenting on.
+In Einstein’s theory, expressed in equation (2.7), the Einstein tensor Gµν is
+
+conserved (Gµ
+= 0) through the Bianchi identities. Further, energy conser-
+
+vation requirements usually imply for the matter fields that T˜µ	= 0. On the
+other hand, one can consider the cosmological term Λgµν as part of the energy momentum tensor Tµν . Then what we only need to be conserved is the total Tµν . In this work, we take this latter approach and relax the usual conser-vation conditions applied separately on the matter fields and vacuum energy, respectively. We only demand a more general or collective conservation law,
+
+µ
+ν;µ
+= 0, (where Tµν = T˜µν +  Λ  gµν ). As a result, while the total energy is
+
+globally conserved, one can still have source terms in individual contributions.
+
+
+
+
+This implies that one can, in general, introduce a tensor Λµν = Λ(r,t) gµν such
+
+that
+
+˜µ
+ν;µ
+
+= aν = —Λµ
+
+(2.9)
+
+in which, clearly, the source of matter creation aν is the vacuum. This gener-alized energy conservation which suggests a deeper inter-relationship between spacetime and energy is also consistent with the Bianchi identities’ requirement
+
+that Gµ
+= 0. General relativity puts no further conditions on the form of the
+
+total energy momentum tensor Tµν other than that it must be conserved.
+Such conceptions are not new and go back to Rastall’s generalization of the Einstein theory10. Rastall’s only constraint was that the vectors aν had to vanish in flat spacetime. This led him to postulate that the aν should depend completely on the spacetime curvature. Such dependence, in turn, introduces a spacetime curvature dependence in the individual Tµν components. As we
+−2
+noted in (2.5), the a (t)	dependence of Λ does indeed induce spatial curvature
+on spacetime and in doing so modifies the Friedmann cosmology. Conversely, recovering a dynamical Λ assumes11 non-conservation of the interacting indi-vidual fields (2.9). This suggests then that it is possible to utilize a classical theory of gravity such as general relativity to discuss the macroscopic aspects of matter production by a vacuum. In this respect such a classical approach is to its would-be quantum counterpart what analogously thermodynamics is to statistical mechanics.
+An important consequence of such an approach is that one can discuss the thermodynamics of the situation in the general context of general relativity. A multi-component energy momentum tensor such as T˜µν +  Λ  gµν for which
+the components are allowed to interact constitutes a system akin to a closed multi-component thermodynamic system and one whose adiabaticity is (in this
+case) guaranteed through the Bianchi identities by Gµ	= 0. One notes12 that
+the aν do, in fact, relate to the matter creation rate and are also the source of entropy. As a result one can build up the thermodynamics of this system by describing the particle creation current Nα and the entropy current Sα in terms
+of the source term in aν (2.9). One then has that Nα = Cvαaα = ψ, where
+C is some constant and ψ > 0 is the particle source. This can be written more transparently from N = nvα (where n is the particle number density) as
+n˙ + nθ = ψ,	(2.10)
+and the entropy current is given by
+Sα = svα = σNα = nσvα,	(2.11)
+where s is the entropy density and σ is the entropy per particle, i.e. the specific entropy.
+
+Vacuum decay and matter fields
+
+
+
+Solution for matter fields
+For the above reasons we assume global conservation of energy in the universe while allowing sources and sinks in its components. In the FRW models, the
+source of the four-velocity is the Hubble parameter vα = θ = 3 a˙ = 3H and the
+energy conservation equation (2.8) gives rise to the first law of thermodynamics
+d hρa (t)3i + pd ha (t)3i = 0.	(3.1)
+
+We shall suppose that the vacuum satisfies a barotropic equation of state of the form
+pΛ = wρΛ,	(3.2)
+where —1 ≤ w < 0. Specifically, we adapt the view that Λµν does, itself, con-stitute a bi-component fluid. The constant (α) part (see 2.3) has the usual vacuum equation of state with w = —1 while the dynamical part has w = wβ , so that w = {(wα = —1) , wβ } with wβ to be determined later. Thus the dy-namical part of Λ is a fluid with an energy momentum tensor of the form diag(ρβ, wβ ρβ, wβ ρβ, wβρβ ). We will argue later that wβ has a dependence on
+the matter fields (among other things) such that in the limit ρm —→ 0 then
+wβ —→ —1. In this limit this tensor is proportional to the Minkowski met-
+ric diag(—1, 1, 1, 1) with the result that in a locally inertial frame it is Lorentz invariant.
+Further, we assume that the regular matter fields satisfy the usual γ-law equation of state.
+pm = (γ — 1) ρm,	(3.3)
+with γ = 1, 4 . As we soon find, the incremental matter produced from the Λ—vacuum decay does not generally satisfy this law.
+With the above equations of state (3.2) and (3.3) along with use of (2.3), (3.1) becomes
+
+
+d n[ρm
+
+(t)] a (t)3 + (γ — 1) ρ
++
+(t) d ha (t)3i
+
+
+(3.4)
+
+h  a(t0)2	(0)	3i	a(t0 )2	(0) h	3i
+/	/
+
+Equation (3.4) can be integrated to the present (t = t0) to yield the solution
+ρ (t0) a (t0)3γ — ρ (t) a (t)3γ =
+
+  β  
+
+h a(t0)2	3γ
+/
+3γ i
+
+(0)	α
+h	3γ
+3γ i
+
+(0)
+
+
+This solution gives the matter produced in the time interval ∆t = t0 — t during which the scale factor grows from a (t) to a (t0). The density ρm (t) then evolves
+
+
+
+
+as
+ 1+3wβ  h a(t0 )2
+/	/
+
+a(t0)3γ i
+/
+
+
+(0)	α
+
+h	a(t0)3γ i
+/
+
+
+(0)
+
+
+a(t0 )3γ
+/
+
+
+(0)
+
+(3.6)
+This simple result and its implications will be at the core of the remaining discussion. For a matter conserving universe, the right hand side of (3.5) should vanish. As we soon find this is not generally the case, with the exception of the limiting and unlikely (see next subsection) scenario when wβ = — 1 . By setting γ = 1 or γ = 4 , respectively, one can easily verify that equation (3.6) yields matter fields in the matter dominated era or radiation fields in the radiation era.
+
+Field dilution
+In the remaining part of this section, we develop a framework for discussing the dynamics of the fields we have considered so far. The treatment is not rigorous and only the asymptotic behavior of such dynamics is discussed. Nev-ertheless, the results from this treatment will be useful in as far as they provide us with an insight in the possible dynamics of the universe. More particularly we shall use such results in the next section to relate our model to observations. As the universe expands the densities of the matter fields dilute as a(t)−3γ = a(t)−3(1+w˘), where w˘ = 0, 1 . On the other hand, as we have shown above a decaying cosmological constant produces matter/entropy, with a particle current
+
+Nα given by Nα
+= —CvαΛβ
+= ψ. As a source of matter fields Λ will suffer
+
+a further energy density deficit since Λµ	= aν /= 0. This energy loss by the
+vacuum creates some extra (dimension-like) degree(s) of freedom in the dilution law thus enhancing further dilution of the vacuum energy density. It follows then that such a field dilutes as a(t)−(3+ε)(1+w), where the dimensionless parameter
+ε ≥ 0 (still to be defined) accounts for the extra degree(s) of freedom.
+We stated before that the vacuum energy density, ρ = β a(t0 ) 2 + α ρ(0),
+is a multi-component field. When w = wα = —1 so that one recovers the usual
+−(3+ε)(1+w)
+vacuum equation of state pα = —ρα one can verify from the a(t)
+dilution law that Λα is, indeed, a constant. The second terms in equations (3.6) will then vanish, showing as expected, that the constant part of Λ plays no role in matter creation. This reduces equation (3.6) to
+
+
+ρm (t) = —
+  β	
+3γ — 2
+
+(1 + 3wβ )
+a (t0)2
+
+/
+a (t)2
+a (t0)3γ
+— a (t)3γ
+
+ρ(0) +
+a (t0)3γ
+
+/
+a (t)3γ
+
+(0)
+m
+
+(3.7)
+
+On the other hand, to recover the Λ ∼ 1 2 scaling from the dilution law clearly requires that we set w = wβ = — 1+ε . This condition imposes on the dynamical part of Λ an equation of state of the form
+
+p = —	1 + ε	ρ
+β	3 + ε	β
+
+.	(3.8)
+
+
+
+
+From equation (3.8) we note that for large values of ε (assuming such values exist) pβ is a slowly varying function of ε. This suggests that the presence of matter fields may have an influence in the dynamical evolution of vacuum energy density. To see this we assume that ε is a function of a dimensionless quantity θ
+where θ (t) =  ρβ (t) is the vacuum to matter ratio at any time t. We suppose that
+m
+the matter creation window ε (θ) can be written as a polynomial in this ratio,
+ε (θ) =  cn [θ (t)]n, where n ≥ 0 and the cn are undetermined coefficients. For the purposes of this discussion we need not know the exact functional form of ε = ε (θ) as it is sufficient to only establish the asymptotic limits. As the false vacuum energy density evolves to dominate the universe so that ρβ >> ρm then
+
+the equation of state (3.8) evolves so that lim
+ε→∞
+pβ = —ρβ . It follows then that in
+
+the limit of vanishing matter fields (and hence their gravitational effects) such an
+interacting dynamical vacuum acquires the equation of state, pβ = —ρβ , of the traditional cosmological constant. This implies that in a locally inertial frame the tensor, (Λβ )µν = diag ρβ, pβ, pβ, pβ , associated with the dynamical part of the vacuum, will be proportional to the Minkowski metric diag (—1, 1, 1, 1). As a result, equation (3.8) constitutes the pressure component of an asymptotically
+locally Lorentz invariant tensor field. Thus a dynamical Λ is not incompatible with the general requirements of general relativity.
+Conversely, as the matter fields dominate so that θ → 0 then ε → 0 and equation (3.8) shows that lim pβ = — 1 ρβ . Note that in this limit one recovers
+ε→0	3
+the usual equation of state for an exotic fluid (such as that of randomly ori-
+ented cosmic strings). From equation (3.4), however, it is clear that the limit
+wβ = — 1 results in no matter creation. This has interesting implications. It
+suggests that matter production by a decaying vacuum will, in general, be sup-pressed in a matter dominated universe. Now, since our universe is known to have been matter/radiation dominated until recently (see next section) the in-ference is that any interesting incremental matter creation, beyond big bang nucleosynthesis (BBN), could only have taken place after the vacuum domina-tion crossing redshift zc which (as we show soon) is long after even the delayed form13 of recombination. This observation will be useful later as we relate the results of our model with the information imprinted on the cosmic microwave background (CMB) radiation power spectrum.
+As a window regulating both matter production and the vacuum dilution rate, ε (θ) may have an influence on the future evolution of the universe. In our model, an increase in the vacuum to matter ratio θ increases ε which increases
+matter production. A consequence of such incremental matter production is
+−3γ
+that the regular matter dilution rate a (t)	will be apparently offset towards
+the lower end. Moreover, conservation requirements imply (as mentioned be-fore) that the vacuum dilution be offset (towards the higher end). This implies that there will be an average critical value of ε (θ) above which the amount of matter produced by the decaying vacuum will, apparently, slow down the mat-ter dilution rate a (t)−3γ enough that the now diluted vacuum density starts to drop below the matter density. Recalling that ε is a dimension-like degree of
+
+
+
+
+freedom this suggests a critical average value of ε ≃ 1
+(ε ≃ 1 for radiation).
+
+2
+Thus for ε < 1
+2 the rate of matter production from the decaying vacuum would
+probably never be high enough to significantly compromise the matter dilution.
+In that case θ would then evolve towards some asymptotic value and the vacuum would operate from there.
+On the other hand, our arguments above suggest that for ε > 1 , the associ-ated matter production rate and vacuum decay rate would eventually result in a matter dominated universe. Clearly a high rate of matter creation, in turn,
+suppresses ε = ε (β) sending the equation of state pβ = — 1+ε ρβ back to-wards the matter dominated form, lim pβ = — 1 ρβ . As we have seen, in the
+ε→0	3
+neighborhood of this latter limit matter production is disfavored. Moreover, as
+matter production becomes suppressed, the universe still continues to expand redshifting the matter fields as a (t)−3 so that eventually the vacuum begins to dominate again albeit at a lower energy density than before. The result is a universe in which the vacuum and matter fields densities would oscillate into each other and do so within a decaying envelope. This may be the key to solving the Coincidence Problem. Moreover, such a process would suggest a universe stable to vacuum induced runaway accelerations. Further still, the enveloping damping behavior resulting from vacuum dilution associated with matter cre-ation would tend to evolve such a universe towards some stable attractor state in the far future.
+In this treatment we take the position that, at the present epoch of the universe, wβ is a slowly varying function of time. In the next section as we seek to relate the results of our model with observation, we adopt an average value of ε = 1 for the decay window. This results in a working equation of state
+1
+pβ = — 2 ρβ	(3.9)
+for the dynamical part of the cosmological constant and which lies well within the bounds allowed by (3.8). As we verify soon, this choice of equation of state, will be justified by the consistency of its results with observation.
+In closing we mention that our result seems to bear a resemblance to Quintessence14.
+This result, however, differs from (Zlatev 1999) in several respects. First the vacuum we consider is pointwise dynamical and therefore persistently false. Sec-ondly this decaying vacuum produces matter. Moreover, the field involved is a perturbed cosmological constant whose associated energy momentum tensor be-comes Lorentz invariant in the (theoretical) absence of matter fields but whose equation of state may, in general, be time dependent. Incidentally, such a locally inertial frame may only exist in theory since once some matter already exists then the limit θ —→ 0 may not exist in finite time.
+
+
+
+Implications
+In this section we shall point out the cosmological implications of the pre-ceding arguments and discuss how these implications can contribute to our in-terpretation of the observed universe. The discussion is divided in three parts. First we use these arguments to derive expressions for several cosmological pa-rameters. Secondly we seek to relate these latter results to observations. Thirdly we point out some of the features our approach brings to astrophysics and cos-mology. We seek for a working testable model that attempts to make sense of some of recent developments in observational cosmology.
+
+Cosmological parameters
+Here and henceforth we write the fields in terms of the redshift z =  a0 	1
+and set γ = 1. With this and using equation (3.9) the expression in equation (3.7) for the matter field density becomes
+1	2 (0)
+In section 3 we established that the constant part of the vacuum energy density in equation (2.3) does not take part in matter production and so for the purposes of our discussion here we set α ≈ 0 and consider the vacuum as fully dynamical, i.e.
+ρ = β (1 + z)2 ρ(0),	(4.2)
+and with a working equation of state given by (3.9). Thus as a fraction of the critical density ρc the present (z = 0) value of the vacuum energy density becomes
+
+Ω	=  ρΛ = β
+c
+(0)
+m
+
+/
+ρc
+= βΩm,0,	(4.3)
+
+where Ωm,0 is the current fractional contribution of the total matter density.
+Following the arguments developed in the previous section we assume matter production sets in at the vacuum domination crossing redshift (VDCR), z = zc. This is when the universe enters the vacuum-dominated phase. In the later part of this section, we shall impose some constraints on zc as we establish that the universe is indeed currently vacuum dominated. The VDCR is set by the condition ρm (z) = ρΛ (z). Using equations (4.1), and (4.2.) one finds that, in
+terms of β,
+2 (β — 1)
+zc =	.	(4.4)
+2 — β
+Notice that the vacuum domination crossing redshift, zc puts constraints on the free parameter β, which relates the vacuum to the matter content in the universe. Clearly equation (4.4) constrains β in the tight range 1 < β < 2. Such constraints seem to be physically justifiable. The lower bound on β, which translates to zc > 0, is consistent with the observation1 that vacuum energy
+
+
+
+
+already dominates the universe. The upper bound value of β, on the other hand, guarantees that there was matter (see equation (4.6)) before the present vacuum domination so that only a fraction ∆Ωm of the total matter has been produced since. A challenge for the model is to accommodate the observation that before the vacuum domination z > zc, there had to have been enough pre-existing matter Ωm (z > zc) to produce structure15. As we soon find, Ωm (z > zc) should constitute most of the matter bound up in galaxy clusters.
+The amount of matter produced since vacuum domination crossing con-
+tributes a piece ∆ρ(0), to the present matter density ρ(0), given by ∆ρ(0) =
+m	m	m
+ρ(0)	−3
+m — ρm (t) (1 + z)	. Using equation (4.1) to substitute for ρm (z) one finds
+
+m	2	m
+1+zc
+
+
+∆Ωm
+
+
+=	 zc 	Ω 2 + zc
+
+
+
+
+m,0
+
+
+.	(4.5)
+
+Since equation (4.4) implies zc > 0, then equation (4.5) implies ∆Ωm > 0, reaffirming that the decay of the vacuum does indeed result in matter pro-duction. Consequently, the current matter content of the universe is given by Ωm,0 = Ωm (z > zc) + ∆Ωm. The present partial density due to the matter that existed before vacuum domination Ωm,old is given, with the use of (4.5), by
+Ω	= Ω  (z > z ) =  2	 Ω	.	(4.6)
+
+The issue of the form of matter the vacuum decays into is outside the scope of this discussion and requires a quantum gravity approach. However, for a vacuum currently with an associated energy density1 as low as ρ(0) ∼ 10−30 g cm−3, one can easily rule out the possibility of regular baryonic matter as a decay product. The contents of ∆Ωm can only be some kind of dark matter. This dark matter should, on the other hand, be different from the ‘old’ (pre-vacuum domination) dark matter Ωdm,old in Ωm,old in the sense that the conditions under which each is formed are different. Since ∆Ωm is all dark matter it follows that Ωm,old in (4.6) must contain all the baryonic matter ΩB of the universe. This implies that the baryonic content of the universe should solely be that predicted by big bang nucleosynthesis, BBN16. Moreover, Ωm,old also contains the ‘old’ dark matter
+Ωdm,old that was necessary to initiate gravitational instability (GI) in the early universe17. Thus Ωm,old = ΩB + Ωdm,old.
+And so with respect to the form of the created ‘new’ dark matter ∆Ωm, the guess is on the standard candidates: neutrinos (possibly cold/massive), axions and/or wimps and/or possibly some other (not yet discovered) matter forms. The ‘new’ matter could also take a form similar to the Cold and Fuzzy Dark Matter recently suggested by Hu et al18. This latter form is somewhat appealing in that it suits the existing low energy density conditions of the current decaying vacuum. In any case as implied in equation (4.5) the matter in ∆Ωm has a positive energy density. We also assume that, in the end, it is relatively cool and obeys the standard energy conditions19.
+
+
+
+
+In the inter-galactic voids the matter production by the decay of Λ (t) is homogeneous, on a fixed spacetime hyperface. However, in the neighborhood of galaxy clusters such matter products should tend to respond to the former’s long range gravitational potentials and, in time, gravitate towards the galaxies and clusters, eventually serving to increase the halo mass. Later we shall suggest a possible, observationally distinct, consequence of this accretion process.
+
+The DΛ — CDM model and observations
+In the remaining part of our discussion we introduce a model we call “the dynamical-Λ and cold dark matter” or DΛ— CDM , for short. The model which is based on the preceding arguments of a dynamical Λ, also assumes inflation20 and BBN16. In the end, we seek for consistency of the results of DΛ — CDM with observation by constraining several parameters of cosmology, including the total matter density Ωm,0 and the vacuum density ΩΛ.
+The inflationary model of cosmology20,21 predicts a spatially flat universe with a critical density Ωtot = ΩΛ,0 + Ωm,0 = Ωc = 1. With this, one can now write the above cosmological quantities in terms of only one parameter, namely the vacuum domination crossing redshift, zc. Thus the inflationary condition along with (4.3) and (4.4) give the present matter density Ωm,0 of the universe
+as
+
+Ωm,0
+ 2 + zc 
+=	,	(4.7)
+4 + 3zc
+
+while the present value of the vacuum energy density ΩΛ,0 is
+
+
+
+ΩΛ,0
+= 2 (1 + zc) .	(4.8)
+4 + 3zc
+
+Further, for the present partial density contribution by the pre-vacuum domi-nation (z > zc) matter we have
+
+2
+Ωm,old = 4 + 3z
+
+,	(4.9)
+
+while that due the matter created from vacuum decay since is
+
+
+∆Ωm
+  zc	
+=	.	(4.10)
+4 + 3zc
+
+Figure 1a shows how the relative magnitudes of the current vacuum density ΩΛ,0, total matter density Ωm,0, the pre-vacuum domination matter density Ωm,old and the “new” matter density ∆Ωm depend on the redshift zc at which the vacuum begins to dominate the universe. Note that the curve for Ωm,0 is simply the sum of the two curves Ωm,old + ∆Ωm. Since baryonic matter is ruled out in the present vacuum decay products, it is convenient in our discussion to hold ΩB fixed (Figure 1b) as we study the changes in the total matter content resulting from the change in the dark matter content. The present value of total dark matter Ωdm,0 and its pre-vacuum domination (z > zc) component Ωdm,old
+
+
+
+can be written down, respectively, as Ωm,0 — ΩB and Ωm,old — ΩB, where for the baryonic component of the present energy density we take (Tytler 2000, Burles 1998, Burles 1999) the big bang nucleothenthesis (BBN) central value as ΩBh2 = 0.019 ± .0012. Figure 1b shows the dependence on zc of ΩΛ,0, Ωdm,0, Ωdm,old and ∆Ωm, assuming BBN and using22 the prior h = 0.72 ± 0.08. Note that in Figure 1b the gap between ΩΛ,0 and Ωdm,0 at zc = 0 is just |ΩB|. We seek to constrain these parameters. The DΛ — CDM model already predicts a currently vacuum dominated universe, as shown by equations (4.7) and (4.8) (see also Figure 1). However, the constraints we impose on Ωdm,old help to give us bounds on this and other quantities. In the forecoming discussion our aim is not so much to focus on the precision of the data we use than it is to demonstrate the usefulness of this framework in interpreting such data. Consequently we shall often, in our discussion, just make use of the central values of the results we quote.
+In adiabatic inflationary models17, structure formation is preceded by grav-itational instability (GI) in dark matter. Such instability results in the for-mation of gravitational potentials into which baryonic matter is eventually drawn. Under assumptions of Gaussian initial perturbations a central value of the lower bound matter density of 0.2 is usually quoted23. We take this value of Ωm,old = 0.2 and the associated Ωdm,old ≃ 0.16(3) as our lower bound weak prior for the early universe to generate structure. In our DΛ — CDM model any such initial condition will also affect the future of the dynamical universe in as far as it

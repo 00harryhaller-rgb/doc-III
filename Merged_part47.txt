@@ -1,0 +1,1581 @@
+cease and to once again resemble that found in ΛCDM for sufficiently high values of δm.
+
+178
+
+
+
+
+
+
+
+
+
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+
+0	2.5
+2	1.5
+z
+1	0.5	0
+
+
+Figure 5.5: The evolution of the quantity Φ Ψ —observable through the ISW effect—for modes close enough to the horizon to remain linear until today. In MSG, this combination of potentials grows during dark-energy domination, increasingly rapidly for higher k. This would lead to a significant increase in the ISW signal, at least for the lowest multipoles, which are sensitive only to the linear modes at largest scales. In LCDM this evolution is scale free.
+
+179
+
+
+
+
+
+
+
+
+
+
+
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+5
+z
+
+Figure 5.6: Exponent of growth rate for comoving density contrast,  d∆  . In ΛCDM, it is scale-independent once radiation no longer dominates; structure growth slows down during dark-energy domination. For MSG, structure growth accelerates.
+
+180
+Particularly interesting is the evolution of modes on scales large enough that linear perturbation theory is valid throughout the history of the universe. The rapid struc-ture formation on these scales drives the growth of gravitational potentials, which increase rapidly during the acceleration era in a scale-dependent manner. This be-haviour enhances the Integrated Sachs-Wolfe effect at the lowest multipoles. Since the gravitational potentials are growing at the same time as the density contrasts are increasing this should lead to a galaxy-ISW anti-correlation, in contrast with that expected in ΛCDM. A natural next step is to attempt to understand the growth of structure in the nonlinear regime.
+
+APPENDIX A
+APPENDIX: DGP SCALING ANSATZ ROBUSTNESS
+
+Assuming that the scaling ansatz is appropriate, the solution presented in this paper is correct at all scales. However, the scale-free assumption for the solution in the bulk depends crucially on the existence of only one scale in the problem: the Hubble parameter. It is possible that through some additional physics in the vicinity of rc this assumption is broken and the evolution of the bulk profile will depend on both H and rc independently.
+However, any violation of scaling will enter the equations solely through the off-
+brane gradient R: this is the quantity which we obtained by solving the master equation Eq. (3.67) using the scaling ansatz. It is important to note that, in our analysis, we have not dropped any terms either arising from the Weyl-fluid-driving Bianchi identity (3.56) or the master equation (3.52). We have assumed that the solution in the bulk depends only on yH/ξ but the form of the master equation implies that this scaling assumption should be a good one. We are only testing the robustness of our solution in order to estimate the effect of any new physics which might be important at scales around rc and which is not embodied in the master equation already.
+One way of testing the robustness of the scaling ansatz is to change the values of R at late times and investigate how much of a departure from scaling-ansatz values is necessary to significantly change the behaviour of observables. We concentrate on the change to the evolution of the potential Φ − Ψ , which drives the ISW effect, as we alter the off-brane gradient. Since the QS solution already has a significantly sharper decay than ΛCDM, and therefore is a worse fit to the large-angle CMB anisotropy
+§3.5.2, and the DS solution decays even more rapidly (see figure 5.5), we attempt 181
+
+182
+to violate the scaling solution in such a way as to soften this decay. We present the modification to R in Fig. A.1: we employ a linear interpolation for R between its scaling-ansatz value at log a = −2 and a chosen off-brane gradient value today, RO. One should note that this breaking is rather extreme, since the scale under consideration, k = 0.001 Mpc−1, is inside the horizon today and it should be well within the quasi-static regime at the present time.
+We have found that choosing negative values for RO strengthens the decay of Φ−Ψ , with the scaling solution approximately replicated for RO ≈ −2. Positive values of RO reduce the rapidity of the decay at late times: the QS solution is matched for RO ≈ 5, which is a value much higher than ever achieved by the scaling solution. In order to achieve the low levels of decay exhibited by ΛCDM, RO needs to be set in the vicinity of 50.
+The effect is different for ∆: here, negative values of RO also decrease the growth rate even further beneath that of DS; however, ∆ asymptotes to a value approximately 2% beneath that of the QS solution as RO is sent to infinity.
+The above considerations show that the new physics required around rc would
+have to violate the scaling behaviour rather strongly in order to give an ISW effect comparable to that of ΛCDM.
+
+183
+
+
+
+
+
+
+
+
+
+
+1
+0.5
+0
+−0.5
+−1
+−1.5
+−2
+−2.5
+−3
+−3.5
+−4
+−6	−5	−4	−3	−2	−1	0
+log a
+Figure A.1: Off-brane gradient for k = 0.001 Mpc−1 for the scaling solution and the scaling-violating scenarios employed in robustness testing. Since any scaling violation is only likely to occur at scale factor close to Hrc ∼ 1, we modify the gradient starting at log a = 2. A value of the gradient today, RO, is chosen and the gradient is interpolated linearly between these two scale factors. In this modification, we disregard the fact that the mode enters the horizon at late times.
+
+184
+
+
+
+
+
+
+
+
+
+
+
+1
+
+0.8
+
+0.6
+
+0.4
+60
+40
+20
+0
+−1	−0.8	−0.6	−0.4	−0.2	0
+log a
+
+Figure A.2: Evolution of Φ − Ψ and ∆ for mode k = 0.001 Mpc−1 for a selection of scaling-violating scenarios. Increasing RO brings the solution closer to that of QS, and, for very large values, reduces the decay of Φ − Ψ to that of ΛCDM. The effect of changing RO on ∆ is much smaller, the quantity remains insensitive to the precise details of the scenario.
+
+185
+
+
+
+
+
+
+
+
+
+
+
+1.2
+
+1
+
+0.8
+
+0.6
+
+1.2
+
+1
+
+
+0.8
+0	20	40	60	80	100
+R0
+
+
+Figure A.3: Ratio of Φ Ψ and ∆ for scaling and scaling-violating scenarios to their values in QS for mode k = 0.001 Mpc−1. Dashed line represents the final value of the quantity in QS, dotted—in DS, and dot-dashed—in ΛCDM. The solution is very sensitive to negative values of RO, but choosing such scenarios only increases the decay, strengthening the ISW effect. Positive values of RO bring the evolution of the observables closer to that of the QS solution and, for very large values, achieve decays as low as those of ΛCDM. ∆ is quite insensitive to the choice of R. All quantities were normalised to the same value at log a = −2.
+
+BIBLIOGRAPHY
+Supernova Cosmology Project Collaboration, S. Perlmutter et. al., Measurements of Ωm and Λ from 42 high-redshift supernovae, Astrophys. J. 517 (1999) 565–586 [astro-ph/9812133].
+Supernova Search Team Collaboration, A. G. Riess et. al., Observational evidence from supernovae for an accelerating universe and a cosmological constant, Astron. J. 116 (1998) 1009–1038 [astro-ph/9805201].
+WMAP Collaboration, D. N. Spergel et. al., First year Wilkinson Microwave Anisotropy Probe (WMAP) observations: Determination of cosmological parameters, Astrophys. J. Suppl. 148 (2003) 175 [astro-ph/0302209].
+WMAP Collaboration, D. N. Spergel et. al., Wilkinson Microwave Anisotropy Probe (WMAP) three year results: Implications for cosmology, astro-ph/0603449.
+SDSS Collaboration, J. K. Adelman-McCarthy et. al., The fourth data release of the Sloan Digital Sky Survey, Astrophys. J. Suppl. 162 (2006) 38–48
+[astro-ph/0507711].
+SDSS Collaboration, J. K. Adelman-McCarthy et. al., The fifth data release of the Sloan Digital Sky Survey, Astrophys. J. Suppl. in press (2007) [http://www.sdss.org/dr5/start/].
+S. W. Allen, R. W. Schmidt, H. Ebeling, A. C. Fabian and L. van Speybroeck, Constraints on dark energy from Chandra observations of the largest relaxed galaxy clusters, Mon. Not. Roy. Astron. Soc. 353 (2004) 457
+[astro-ph/0405340].
+Supernova Search Team Collaboration, A. G. Riess et. al., Type Ia supernova discoveries at z > 1 from the Hubble Space Telescope: Evidence for past deceleration and constraints on dark energy evolution, Astrophys. J. 607 (2004) 665–687 [astro-ph/0402512].
+P. Astier et. al., The Supernova Legacy Survey: Measurement of ΩM , ΩΛ and
+w from the first year data set, Astron. Astrophys. 447 (2006) 31–48
+[astro-ph/0510447].
+A. G. Riess et. al., New Hubble Space Telescope discoveries of type Ia supernovae at z > 1: Narrowing constraints on the early behavior of dark energy, astro-ph/0611572.
+
+
+186
+
+187
+W. M. Wood-Vasey et. al., Observational constraints on the nature of the dark energy: First cosmological results from the ESSENCE supernova survey, astro-ph/0701041.
+J. D. Barrow and F. J. Tipler, The Anthropic Cosmological Principle. Clarendon, Oxford, 1986.
+G. R. Dvali, G. Gabadadze and M. Porrati, 4D gravity on a brane in 5D Minkowski space, Phys. Lett. B485 (2000) 208–214 [hep-th/0005016].
+S. M. Carroll, V. Duvvuri, M. Trodden and M. S. Turner, Is cosmic speed-up due to new gravitational physics?, Phys. Rev. D70 (2004) 043528
+[astro-ph/0306438].
+S. M. Carroll, I. Sawicki, A. Silvestri and M. Trodden, Modified-source gravity and cosmological structure formation, New J. Phys. 8 (2006) 323
+[astro-ph/0607458].
+S. Weinberg, The cosmological constant problem, Rev. Mod. Phys. 61 (1989) 1–23.
+S. M. Carroll, The cosmological constant, Living Rev. Rel. 4 (2001) 1 [http://www.livingreviews.org/lrr-2001-1].
+A. H. Guth, The inflationary universe: A possible solution to the horizon and flatness problems, Phys. Rev. D23 (1981) 347–356.
+W. J. Percival et. al., The shape of the SDSS DR5 galaxy power spectrum, Astrophys. J. 657 (2007) 645–663 [astro-ph/0608636].
+M. Tegmark et. al., Cosmological constraints from the SDSS luminous red galaxies, Phys. Rev. D74 (2006) 123507 [astro-ph/0608632].
+E. J. Copeland, M. Sami and S. Tsujikawa, Dynamics of dark energy, Int. J. Mod. Phys. D15 (2006) 1753–1936 [hep-th/0603057].
+T. M. Davis et. al., Scrutinizing exotic cosmological models using ESSENCE supernova data combined with other cosmological probes, astro-ph/0701510.
+C. Wetterich, Cosmology and the fate of dilatation symmetry, Nucl. Phys.
+B302 (1988) 668.
+B. Ratra and P. J. E. Peebles, Cosmological consequences of a rolling homogeneous scalar field, Phys. Rev. D37 (1988) 3406.
+
+188
+E. J. Copeland, A. R. Liddle and D. Wands, Exponential potentials and cosmological scaling solutions, Phys. Rev. D57 (1998) 4686–4690
+[gr-qc/9711068].
+T. Padmanabhan, Dark energy and gravity, arXiv:0705.2533 [gr-qc].
+D. Huterer and H. V. Peiris, Dynamical behavior of generic quintessence potentials: Constraints on key dark energy observables, Phys. Rev. D75 (2007) 083503 [astro-ph/0610427].
+G. R. Dvali, G. Gabadadze, M. Kolanovic and F. Nitti, The power of brane-induced gravity, Phys. Rev. D64 (2001) 084004 [hep-ph/0102216].
+G. R. Dvali, G. Gabadadze, M. Kolanovic and F. Nitti, Scales of gravity, Phys. Rev. D65 (2002) 024031 [hep-th/0106058].
+C. Deffayet, Cosmology on a brane in Minkowski bulk, Phys. Lett. B502
+(2001) 199–208 [hep-th/0010186].
+C. Deffayet, G. R. Dvali and G. Gabadadze, Accelerated universe from gravity leaking to extra dimensions, Phys. Rev. D65 (2002) 044023
+[astro-ph/0105068].
+K. Koyama and R. Maartens, Structure formation in the DGP cosmological model, JCAP 0601 (2006) 016 [astro-ph/0511634].
+A. Lue, R. Scoccimarro and G. D. Starkman, Probing Newton’s constant on vast scales: DGP gravity, cosmic acceleration and large scale structure, Phys. Rev. D69 (2004) 124015 [astro-ph/0401515].
+Y.-S. Song, Looking for an extra dimension with tomographic cosmic shear, Phys. Rev. D70 (2004) 063510.
+C. Schimd, J.-P. Uzan and A. Riazuelo, Weak lensing in scalar-tensor theories of gravity, Phys. Rev. D71 (2005) 083512 [astro-ph/0412120].
+L. Knox, Y.-S. Song and J. A. Tyson, Two windows on acceleration and gravitation: Dark energy or new gravity?, astro-ph/0503644.
+M. Ishak, A. Upadhye and D. N. Spergel, Probing cosmic acceleration beyond the equation of state: Distinguishing between dark energy and modified gravity models, Phys. Rev. D74 (2006) 043513 [astro-ph/0507184].
+M. Amarzguioui, O. Elgaroy, D. F. Mota and T. Multamaki, Cosmological constraints on f (R) gravity theories within the Palatini approach, Astron. Astrophys. 454 (2006) 707–714 [astro-ph/0510519].
+
+189
+E. V. Linder, Cosmic growth history and expansion history, Phys. Rev. D72
+(2005) 043529 [astro-ph/0507263].
+P. Zhang, Isolating the decay rate of cosmological gravitational potential, Astrophys. J. 647 (2006) 55–59 [astro-ph/0512422].
+H. F. Stabenau and B. Jain, N-body simulations of alternate gravity models, Phys. Rev. D74 (2006) 084007 [astro-ph/0604038].
+R. Maartens and E. Majerotto, Observational constraints on self-accelerating cosmology, Phys. Rev. D74 (2006) 023004 [astro-ph/0603353].
+I. Sawicki and S. M. Carroll, Cosmological structure evolution and CMB anisotropies in DGP braneworlds, astro-ph/0510364.
+I. Sawicki, Y.-S. Song and W. Hu, Near-horizon solution for DGP perturbations, Phys. Rev. D75 (2007) 064002 [astro-ph/0606285].
+Y.-S. Song, I. Sawicki and W. Hu, Large-scale tests of the DGP model, Phys. Rev. D75 (2007) 064003 [astro-ph/0606286].
+SDSS Collaboration, D. J. Eisenstein et. al., Detection of the baryon acoustic peak in the large-scale correlation function of SDSS luminous red galaxies, Astrophys. J. 633 (2005) 560–574 [astro-ph/0501171].
+T. Shiromizu, K.-i. Maeda and M. Sasaki, The Einstein equations on the 3-brane world, Phys. Rev. D62 (2000) 024012 [gr-qc/9910076].
+K.-i. Maeda, S. Mizuno and T. Torii, Effective gravitational equations on brane world with induced gravity, Phys. Rev. D68 (2003) 024033 [gr-qc/0303039].
+W. Israel, Singular hypersurfaces and thin shells in general relativity, Nuovo Cim. B44S10 (1966) 1.
+G. Gabadadze and A. Iglesias, Schwarzschild solution in brane induced gravity, Phys. Rev. D72 (2005) 084024 [hep-th/0407049].
+G. Gabadadze and A. Iglesias, Short distance non-perturbative effects of large distance modified gravity, hep-th/0508201.
+P. Binetruy, C. Deffayet, U. Ellwanger and D. Langlois, Brane cosmological evolution in a bulk with cosmological constant, Phys. Lett. B477 (2000) 285–291 [hep-th/9910219].
+R. Maartens, Brane-world gravity, Living Rev. Rel. 7 (2004) 1–99 [gr-qc/0312059].
+
+190
+H. Collins and B. Holdom, Brane cosmologies without orbifolds, Phys. Rev.
+D62 (2000) 105009 [hep-ph/0003173].
+Y. V. Shtanov, Closed equations on a brane, Phys. Lett. B541 (2002) 177–182 [hep-ph/0108153].
+C. Deffayet, On brane world cosmological perturbations, Phys. Rev. D66
+(2002) 103504 [hep-th/0205084].
+G. Dvali, A. Gruzinov and M. Zaldarriaga, The accelerated universe and the Moon, Phys. Rev. D68 (2003) 024012 [hep-ph/0212069].
+A. Gruzinov, On the graviton mass, New Astron. 10 (2005) 311–314 [astro-ph/0112246].
+M. Porrati, Fully covariant van Dam-Veltman-Zakharov discontinuity, and absence thereof, Phys. Lett. B534 (2002) 209–215 [hep-th/0203014].
+A. Lue and G. Starkman, Gravitational leakage into extra dimensions: Probing dark energy using local gravity, Phys. Rev. D67 (2003) 064002 [astro-ph/0212083].
+A. Lue, The phenomenology of Dvali-Gabadadze-Porrati cosmologies, Phys. Rept. 423 (2006) 1–48 [astro-ph/0510068].
+S. Mukohyama, Gauge-invariant gravitational perturbations of maximally symmetric spacetimes, Phys. Rev. D62 (2000) 084015 [hep-th/0004067].
+W. Hu and N. Sugiyama, Toward understanding CMB anisotropies and their implications, Phys. Rev. D51 (1995) 2599–2630 [astro-ph/9411008].
+W. Hu and D. J. Eisenstein, The structure of structure formation theories, Phys. Rev. D59 (1999) 083509 [astro-ph/9809368].
+E. Bertschinger, On the growth of perturbations as a test of dark energy,
+astro-ph/0604485.
+S. Perlmutter, M. S. Turner and M. J. White, Constraining dark energy with SNe Ia and large-scale structure, Phys. Rev. Lett. 83 (1999) 670–673
+[astro-ph/9901052].
+M. Fairbairn and A. Goobar, Supernova limits on brane world cosmology, Phys. Lett. B642 (2006) 432–435 [astro-ph/0511029].
+W. L. Freedman et. al., Final results from the Hubble Space Telescope Key Project to measure the Hubble constant, Astrophys. J. 553 (2001) 47–72 [astro-ph/0012376].
+
+191
+D. J. Eisenstein, W. Hu and M. Tegmark, Cosmic complementarity: HO and Ωm from combining CMB experiments and redshift surveys, Astrophys. J. 504 (1998) L57–L61 [astro-ph/9805239].
+W. Hu and R. Scranton, Measuring dark energy clustering with CMB-galaxy correlations, Phys. Rev. D70 (2004) 123002 [astro-ph/0408456].
+N. Afshordi, Integrated Sachs-Wolfe effect in cross-correlation: The observer’s manual, Phys. Rev. D70 (2004) 083536 [astro-ph/0401166].
+M. A. Luty, M. Porrati and R. Rattazzi, Strong interactions and stability in the DGP model, JHEP 09 (2003) 029 [hep-th/0303116].
+A. Nicolis and R. Rattazzi, Classical and quantum consistency of the DGP model, JHEP 06 (2004) 059 [hep-th/0404159].
+K. Koyama, Are there ghosts in the self-accelerating brane universe?, Phys. Rev. D72 (2005) 123511 [hep-th/0503191].
+D. Gorbunov, K. Koyama and S. Sibiryakov, More on ghosts in DGP model, Phys. Rev. D73 (2006) 044016 [hep-th/0512097].
+C. Charmousis, R. Gregory, N. Kaloper and A. Padilla, DGP specteroscopy,
+hep-th/0604086.
+C. Deffayet, G. Gabadadze and A. Iglesias, Perturbations of self-accelerated universe, JCAP 0608 (2006) 012 [hep-th/0607099].
+M. LoVerde, L. Hui and E. Gaztanaga, Magnification-temperature correlation: the dark side of ISW measurements, Phys. Rev. D75 (2007) 043519
+[astro-ph/0611539].
+S. Capozziello, S. Carloni and A. Troisi, Quintessence without scalar fields,
+astro-ph/0303041.
+S. Nojiri and S. D. Odintsov, Modified gravity with negative and positive powers of the curvature: Unification of the inflation and of the cosmic acceleration, Phys. Rev. D68 (2003) 123512 [hep-th/0307288].
+L. Amendola, D. Polarski and S. Tsujikawa, Are f (R) dark energy models cosmologically viable ?, Phys. Rev. Lett. 98 (2007) 131302
+[astro-ph/0603703].
+L. Amendola, D. Polarski and S. Tsujikawa, Comments on ’cosmological viability of f (R)-gravity as an ideal fluid and its compatibility with a matter dominated phase (astro-ph/0604431)’, astro-ph/0605384.
+
+192
+S. Nojiri and S. D. Odintsov, Modified f (R) gravity consistent with realistic cosmology: From matter dominated epoch to dark energy universe, Phys. Rev. D74 (2006) 086005 [hep-th/0608008].
+L. Amendola, R. Gannouji, D. Polarski and S. Tsujikawa, Conditions for the cosmological viability of f (R) dark energy models, Phys. Rev. D75 (2007) 083504 [gr-qc/0612180].
+T. Chiba, 1/R gravity and scalar-tensor gravity, Phys. Lett. B575 (2003) 1–3 [astro-ph/0307338].
+A. L. Erickcek, T. L. Smith and M. Kamionkowski, Solar system tests do rule out 1/R gravity, Phys. Rev. D74 (2006) 121501 [astro-ph/0610483].
+T. Chiba, T. L. Smith and A. L. Erickcek, Solar system constraints to general
+f (R) gravity, astro-ph/0611867.
+J. Khoury and A. Weltman, Chameleon cosmology, Phys. Rev. D69 (2004) 044026 [astro-ph/0309411].
+I. Navarro and K. Van Acoleyen, f (R) actions, cosmic acceleration and local tests of gravity, JCAP 0702 (2007) 022 [gr-qc/0611127].
+T. Faulkner, M. Tegmark, E. F. Bunn and Y. Mao, Constraining f (R) gravity as a scalar tensor theory, astro-ph/0612569.
+I. Sawicki and W. Hu, Stability of cosmological solution in f (R) models of gravity, astro-ph/0702278.
+Y.-S. Song, W. Hu and I. Sawicki, The large-scale structure of f (R) gravity, Phys. Rev. D75 (2007) 044004 [astro-ph/0610532].
+W. Hu and I. Sawicki, Models of f (R) cosmic acceleration that evade solar-system tests, arXiv:0705.1158 [astro-ph].
+R. P. Woodard, Avoiding dark energy with 1/R modifications of gravity,
+astro-ph/0601672.
+A. A. Starobinsky, A new type of isotropic cosmological models without singularity, Phys. Lett. B91 (1980) 99–102.
+G. Magnano and L. M. Sokolowski, On physical equivalence between nonlinear gravity theories and a general relativistic selfgravitating scalar field, Phys. Rev. D50 (1994) 5039–5059 [gr-qc/9312008].
+O. Mena, J. Santiago and J. Weller, Constraining inverse curvature gravity with supernovae, Phys. Rev. Lett. 96 (2006) 041103 [astro-ph/0510453].
+
+193
+R. Bean, D. Bernat, L. Pogosian, A. Silvestri and M. Trodden, Dynamics of linear perturbations in f (R) gravity, Phys. Rev. D75 (2007) 064020
+[astro-ph/0611321].
+T. Multamaki and I. Vilja, Cosmological expansion and the uniqueness of gravitational action, Phys. Rev. D73 (2006) 024018 [astro-ph/0506692].
+S. Capozziello, S. Nojiri, S. D. Odintsov and A. Troisi, Cosmological viability of f (R)-gravity as an ideal fluid and its compatibility with a matter dominated phase, Phys. Lett. B639 (2006) 135–143 [astro-ph/0604431].
+S. Nojiri and S. D. Odintsov, Modified gravity and its reconstruction from the universe expansion history, hep-th/0611071.
+A. de la Cruz-Dombriz and A. Dobado, A f (r) gravity without cosmological constant, Phys. Rev. D74 (2006) 087501 [gr-qc/0607118].
+W. Hu, Structure formation with generalized dark matter, Astrophys. J. 506
+(1998) 485–494 [astro-ph/9801234].
+A. D. Dolgov and M. Kawasaki, Can modified gravity explain accelerated cosmic expansion?, Phys. Lett. B573 (2003) 1–4 [astro-ph/0307285].
+P. Zhang, Testing f (R) gravity against the large scale structure of the universe, Phys. Rev. D73 (2006) 123504 [astro-ph/0511218].
+M. D. Seifert, Stability of spherically symmetric solutions in modified theories of gravity, gr-qc/0703060.
+V. Faraoni, The stability of modified gravity models, Phys. Rev. D72 (2005) 124005 [gr-qc/0511094].
+V. Faraoni, Modified gravity and the stability of de sitter space, Phys. Rev.
+D72 (2005) 061501 [gr-qc/0509008].
+S. Boughn and R. Crittenden, A correlation of the cosmic microwave sky with large scale structure, Nature 427 (2004) 45–47 [astro-ph/0305001].
+P. Fosalba and E. Gaztanaga, Measurement of the gravitational potential evolution from the cross-correlation between WMAP and the APM galaxy survey, Mon. Not. Roy. Astron. Soc. 350 (2004) L37–L41
+[astro-ph/0305468].
+SDSS Collaboration, R. Scranton et. al., Physical evidence for dark energy,
+astro-ph/0307335.
+
+194
+WMAP Collaboration, M. R. Nolta et. al., First year Wilkinson Microwave Anisotropy Probe (WMAP) observations: Dark energy induced correlation with radio sources, Astrophys. J. 608 (2004) 10–15 [astro-ph/0305097].
+N. Afshordi, Y.-S. Loh and M. A. Strauss, Cross-correlation of the cosmic microwave background with the 2MASS galaxy survey: Signatures of dark energy, hot gas, and point sources, Phys. Rev. D69 (2004) 083524
+[astro-ph/0308260].
+T. Giannantonio et. al., A high redshift detection of the Integrated Sachs-Wolfe effect, Phys. Rev. D74 (2006) 063520 [astro-ph/0607572].
+A. Vikman, Can dark energy evolve to the phantom?, Phys. Rev. D71 (2005) 023515 [astro-ph/0407107].
+W. Hu, Crossing the phantom divide: Dark energy internal degrees of freedom, Phys. Rev. D71 (2005) 047301 [astro-ph/0410680].
+Z.-K. Guo, Y.-S. Piao, X.-M. Zhang and Y.-Z. Zhang, Cosmological evolution of a quintom model of dark energy, Phys. Lett. B608 (2005) 177–182
+[astro-ph/0410654].
+L. Amendola and S. Tsujikawa, Phantom crossing, equation-of-state singularities, and local gravity constraints in f (R) models, arXiv:0705.0396 [astro-ph].
+J. N. Bahcall, A. M. Serenelli and S. Basu, New solar opacities, abundances, helioseismology, and neutrino fluxes, Astrophys. J. 621 (2005) L85–L88 [astro-ph/0412440].
+J. E. Vernazza, E. H. Avrett and R. Loeser, Structure of the solar chromosphere. III - Models of the EUV brightness components of the quiet-sun, ApJS 45 (Apr., 1981) 635–725.
+E. C. Sittler, Jr. and M. Guhathakurta, Semiempirical Two-dimensional MagnetoHydrodynamic Model of the Solar Corona and Interplanetary Medium, ApJ 523 (Oct., 1999) 812–826.
+C. M. Will, The confrontation between general relativity and experiment, Living Reviews in Relativity 9 (2006), no. 3.
+A. Klypin, H. Zhao and R. S. Somerville, LCDM-based models for the Milky Way and M31 I: Dynamical models, Astrophys. J. 573 (2002) 597–613 [astro-ph/0110390].
+
+195
+E. E. Flanagan, Palatini form of 1/R gravity, Phys. Rev. Lett. 92 (2004) 071101 [astro-ph/0308111].
+S. M. Carroll et. al., The cosmology of generalized modified gravity models, Phys. Rev. D71 (2005) 063513 [astro-ph/0410031].
+I. Navarro and K. Van Acoleyen, On the Newtonian limit of generalized modified gravity models, Phys. Lett. B622 (2005) 1–5 [gr-qc/0506096].
+I. Navarro and K. Van Acoleyen, Consistent long distance modification of gravity from inverse powers of the curvature, JCAP 0603 (2006) 008
+[gr-qc/0511045].
+A. De Felice, M. Hindmarsh and M. Trodden, Ghosts, instabilities, and superluminal propagation in modified gravity models, JCAP 0608 (2006) 005 [astro-ph/0604154].
+G. Calcagni, B. de Carlos and A. De Felice, Ghost conditions for Gauss-Bonnet cosmologies, Nucl. Phys. B752 (2006) 404–438 [hep-th/0604201].
+D. N. Vollick, Curvature corrections as the source of the cosmological acceleration, Phys. Rev. D68 (2003) 063510 [astro-ph/0306630].
+E. E. Flanagan, Higher order gravity theories and scalar tensor theories, Class. Quant. Grav. 21 (2003) 417–426 [gr-qc/0309015].
+D. N. Vollick, On the viability of the Palatini form of 1/R gravity, Class. Quant. Grav. 21 (2004) 3813–3816 [gr-qc/0312041].
+T. P. Sotiriou and S. Liberati, Metric-affine f (R) theories of gravity, Annals Phys. 322 (2007) 935–966 [gr-qc/0604006].
+K. Freese and M. Lewis, Cardassian expansion: a model in which the universe is flat, matter dominated, and accelerating, Phys. Lett. B540 (2002) 1–8 [astro-ph/0201229].
+S. Dodelson, Modern Cosmology. Academic Press, 2003.
+
+New Path to Unification of Gravity with Particle Physics
+Alexander Burinskii
+Laboratory of Theor. Phys. , NSI, Russian Academy of Sciences, B. Tulskaya 52 Moscow 115191 Russia, ∗
+The principal new point is that ultra-high spin of the elementary particles makes Einstein’s gravity so strong, that its influence to metric is shifted from Planck to the Compton scale! Compatibility of the Kerr-Newman (KN) gravity with quantum theory is achieved by implementation of the supersymmetric Higgs model without modification of the Einstein-Maxwell gravity. We consider the nonperturbative bag-like solution to supersymmetric generalized LG field model, which creates a flat and supersymmetric vacuum state inside the bag, forming the Compton zone for consistent work of quantum theory. The bag is deformable, and its shape is controlled by BPS bound, providing compatibility of the bag boundary with external gravitational and electromagnetic (EM) field. In particular, for the spinning KN gravity bag takes the form of oblate disk with a circular string placed on the disk border. Excitations of the KN EM field create circular traveling waves. The super-bag solution is naturally upgraded to the Wess-Zumino supersymmetric QED model, indicating a bridge from the nonperturbative super-bag to perturbative formalism of the conventional QED.
+
+PACS numbers: 11.27.+d, 04.20.Jb, 04.70.Bw
+
+
+INTRODUCTION
+
+Modern physics is based on Quantum theory and Grav-ity. The both theories are confirmed experimentally with great precision. Nevertheless, they are contradicting and cannot be combined in a unified theory. One of the principal points is the structure of elementary particles, which are considered as pointlike and even structureless (for example electron) in quantum theory, but should be presented as the extended field configurations for com-patibility with the right hide side of the Einstein equa-tions, Gµν = 8πTµν .
+Revolutionary step for unification was made in su-perstring theory, however, as mentioned John Schwarz, “...Since 1974 superstring theory stopped to be considered as particle physics... ” and “... a realistic model of ele-mentary particles still appears to be a distant dream ... ” [1]). One of the reasons of this is that extra dimensions are compactified with extra tiny radii of order the Planck length 10−33 cm, which does not correlate with charac-teristic lengths of quantum physics and makes impossible to test extra dimensions with currently available energies. The idea to bring fundamental gravitational scale close to the weak scale was considered in different approaches, and in particular, in the brane world scenario, where the weakness of the localized 4d gravity is explained by its “leaks” into the higher-dimensional bulk, and the brane world mechanism allowed to realize ideas of the super-string theory for any numbers of the extra dimensions [2].
+Alternative ideas were related with nonperturbative 4D solutions of the non-linear field models – solitons, in particular, solitonic solutions to low energy string theory [3–5]. This approach, being akin to the Higgs mechanism of symmetry breaking, is matched with nonperturbative
+
+
+∗email: bur@ibrae.ac.ru
+approach to electroweak sector of the Standard Model. The most known is the Nielsen-Olesen model of dual string based on the Landau-Ginzburg (LG) field model for a phase transition in superconducting media, and also the famous MIT and SLAC bag models [6–8] which are similar to solitons, but being soft, deformable and oscil-lating, acquire many properties of the dual string mod-els. Besides, being suggested for confinement of quarks, the bag models assume consistent implementation of the Dirac equation. The question on consistency with grav-ity is not discussed usually for the solitonic models, as it is conventionally assumed that gravity is very weak and is not essential on the scale of electroweak interactions. For example, in [9] we read ”... quantum gravity effects are usually very small, due to the weakness of gravity rel-ative to other forces. Because the effects of gravity are proportional to the mass, or the energy of the particle, they grow at high energies. At energies of the order of E 1019 GeV, gravity would have a strength comparable with that of the other Standard Model interactions.”
+Our principal point here is that the assumption on the weakness of gravity is not correct, since it is based on the underestimation of the role of spin in gravitational interactions. Indeed, nobody says that gravity is weak in Cosmology where physics is determined by giant masses. Similarly, the giant spin/mass ratio of spinning parti-cles makes influence of gravity very strong in the particle physics.
+For the great spin/mass ratio of the elementary parti-cles, about 1020 1022 (in dimensionless units G = c = k = 1), the commonly accepted view that gravity is weak and not essential in particle physics up to Planck scale, should be replaced by principally new point of view that GRAVITY IS NOT WEAK, and its influence becomes crucial for the structure of the spinning particles at the Compton scale of the electroweak interactions.
+We show that spin of the Kerr-Newman (KN) rotat-ing black hole (BH) with parameters of an electron de-forms space-time in the Compton zone so strongly that
+
+2
+
+
+the compatible with gravity structure of spinning particle is determined almost unambiguously as a supersymmet-ric bag model.
+The KN space-time with ultra-high spin has the naked singular ring creating two-sheeted topology. This space differs from Minkowski space so strongly that neither the Dirac theory nor perturbative QED can be applied, since they require the flat space at least in the Compton zone of the dressed particle. We show here that this conflict can be resolved without modification of the Einstein-Maxwell gravity – the space can be cured by a supersymmetric bag model, in which the singular region of KN solution is re-placed by the flat internal space of the Compton size. We find the corresponding non-perturbative BPS-saturated solution in frame of the supersymmetric generalized LG model, in which boundary of the bag is formed by the domain wall (DW) interpolating between the external KN gravity and the supersymmetric vacuum state in-side the bag. Similar to the usual bag models, the super-bag model is deformable and displays a super-consistency
+that gyromagnetic ratio of the KN solution is g = 2, and therefore corresponds to the external field of the elec-tron. The spin/mass ratio of the electron is about 1022, and structure of source of the KN solution for such a huge spin should shed the light on origin of the conflict between gravity and quantum theory. One can see that the KN field with parameters of electron becomes ex-tremely strong on the Compton distances, so that the BH horizons disappear and the Kerr singular ring of the Compton radius a = k/m becomes open, which breaks topology of space-time and creates two-sheeted metric. In the Kerr-Schild (KS) approach, metric of the KN so-lutions is [20]
+gµν = ηµν + 2Hkµkν ,	(1) where ηµν is metric of an auxiliary Minkowski space M 4,
+(signature ( +++)), and H is the scalar function which for the KN solution takes the form
+mr − e2/2
+
+with the external gravitational and electromagnetic (EM)
+KN field, in the sense that its shape and dynamics are
+HKN =
+
+/
+r2 + a2 cos2 θ
+,	(2)
+
+fully defined by matching its boundary with a special sur-face (which can be called as ”zero gravity surface” (ZG)), where the external gravitational field is compensated by the EM field. The ZG-surface determines position of the BPS DW-solution, and therefore, it determines shape of the bag, as a disk-like configuration with a closed string placed at the sharp border of the disk [10–12]. We show that the supersymmetric LG model can be naturally up-graded to the Wess-Zumino SuperQED model [13], re-vealing connections between the non-perturbative solu-tions of the supersymmetric LG model and the conven-tional perturbative technics used in QED.
+where r and θ are oblate spheroidal coordinates, and kµ is a null vector field kµkµ = 0, forming a Kerr congruence – the vortex of polarization of gravitational and electro-magnetic field in the Kerr space-time. The Kerr singular ring corresponds to border of the disk r = 0, in the equa-torial plane cos θ = 0.
+Similarly, vector potential of KN solution is also collinear with the null direction kµ,
+er
+Aµ = −(r2 + a2 cos2 θ) kµ	(3)
+
+
+
+SUPER-BAG MODEL AS BPS SOLUTION	Z
+TO GENERALIZED LG MODEL
+Basic features of the ultra-rotating	5
+Kerr-Newman solution
+0
+
+It has been recently obtained [14, 15], that the source of ultra-spinning Kerr-Newman (KN) solution can be con-sidered as a superconducting soliton having many fea-tures of the bag model [10, 11, 16], but with the essential advantage of compatibility with Einstein-Maxwell grav-ity in four dimensions. As is known, the bag models
+
+
+
+−5
+
+
+
+−10
+10
+
+5
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+−5
+
+−10
+
+
+
+
+
+
+
+
+
+
+
+10
+5
+0
+−5
+−10
+
+take intermediate position between strings and solitons [17–19]. Although, the bags were initially offered as the extended models of hadrons, [6–8], being based on the Abelian Higgs model of symmetry breaking their indi-cated rather applicability to the Salam-Weinberg model of leptons, which was one of the reasons to consider the gravitating KN bag as the model for consistent with grav-ity leptons.
+The spinning KN solution is of particular interest in this regard, since, as it was obtained by Carter [20, 21],
+FIG. 1: Vortex of the Kerr light-like (null) congruence kµ propagates analytically from negative sheet of Kerr metric, r < 0, to positive one, r > 0. In the equatorial plane, cos θ = 0, the Kerr congruence is focused on the Kerr singular ring, r = cos θ = 0.
+
+The KN metric becomes two-sheeted, since the Kerr congruence
+kµdxµ = dr − dt − a sin2 θdφ,	(4)
+
+
+
+is out-going at the ‘positive’ sheet of the metric, r > 0, and passes analytically to ‘negative’ sheet, r < 0, be-ing extended via ring r = 0, where it becomes in-going. The two null vector fields kµ(x)± become different at r > 0 and r < 0, leading to two different metrics
+g± = ηµν +2Hk±k± on the positive and negative sheet of
+3
+
+the bubble surface r = R takes the oblate ellipsoi dal form – the disk of the thickness R and radius rc = R2 + a2, where a = J/m.
+For solution without rotation, a = 0, and bubble turns into a sphere of the classical radius re. Such spherical
+shape was suggested by Dirac in [30] as an ”extensible
+
+µν	µ ν
+
+the same Minkowski background. Similarly, it leads also
+to two-sheeted vector-potential A±, that makes space in-appropriate for quantum theory, and therefore, conflict between quantum theory and gravity is shifted by 22 or-ders earlier then it is usually expected, from the Planck to the Compton scale. As usually, singularity is signal to new physics – theory of more high level. The KN gravitational field is strong near the Kerr singular ring and creates vortex of the space-time polarization in the Compton zone of the dressed electron, which should be
+electron model” – prototype of the bag models, display-
+ing one of their basic features of the bags – their deforma-bility.
+We see that deformations of the KN Super-Bag appear as consequence of the requirement on sharp separation of the zones (I),(E),(R).
+
+flat for work of quantum theory. It is usually assumed that in vicinity of strong field, gravity should be mod-ified to a new Quantum Gravity. Taking into account sharp incompatibility of Quantum and Gravity, natural requirement for such new theory would be separation of their zones of influence: formation of the internal zone
+(I) – flat core for quantum theory, and external zone
+(E) – for undisturbed gravitational and electromag-netic fields.
+There should also be selected intermediate zone
+
+
+
+
+5
+
+
+
+0
+
+
+
+−5
+
+
+
+−10
+
+
+
+−15
+
+
+
+
+
+C. a / R = 7
+
+
+
+D. a / R = 10
+A. a / R = 0
+B. a / R = 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10
+
+
+
+
+0
+
+(R) – interpolating between (I) and (E).
+In the case of strong KN field, these demands become so restrictive that determine structure of the new theory
+−15	−10
+
+−5	0	5	10	15
+
+−10
+
+almost uniquely. It turns out that the flat Compton zone free from gravity may be achieved without modification of the Einstein-Maxwell equations, through SUPERSYM-METRY, which eats up the strong gravitational field in the core of particle. Expelling gravity from the core of the KN spinning particle is similar to expelling the EM field from superconducting core, and both of these super-phenomena are realized in core of the KN solution by the supersymmertric LG field model [13, 22–28] in the form of a BPS-saturated Super-Bag solution, for which just the strong contradiction between Quantum and Gravity determines extreme sensitivity of the model to the choice of the separating surface (R).
+The natural choice of this surface for the KN solution was suggested by C. L´opez [29]. According (1) and (2) it should be the surface ”zero gravity” (ZG) at
+e2
+r = R =	,	(5)
+2m
+where function H vanishes
+HKN (R) = 0,	(6)
+and metric becomes flat, and can be matched with flat Minkowski space for r < R. It turns the L´opez source of the KN solution in a shell-like bubble. So far as r is the oblate spheroidal coordinate, [20], related with Cartesian coordinates by transformations
+x +iy = (r +ia) exp iφK sin θ,  z = r cos θ,  ρ = r  t,
+(7)
+FIG. 2: (A): Spherical bag without rotation a/R = 0, and disk-like bags for different values of the rotation parameter: (B)- a/R = 3; (C) - a/R = 7; and (D) - a/R = 10.
+
+
+
+Spinning bag creates a string
+
+Usually, it is assumed that bags are deformed by ro-tations taking the shape of a string-like flux-tube joining the quark-antiquark pair [6].
+In the KN Super-Bag, the spinning gravitational field controls disk-like shape of the bag, and string-like struc-ture is formed for a/R > 0, at edge rim of the disk, as shown in Fig.2. In the equatorial plane, this string ap-proaches very close to the Kerr singular ring, see Fig.3A, so, it is really just the singular ring regularized by the bag boundary.
+Among diverse attempts to use nonperturbative mod-els in the electroweak sector of the Standard Model (SM) [31–35], the central place takes the Nielsen-Olesen (NO) model [36, 37] of the string, which is created as a vortex line in a superconductor.
+The assumption, that Kerr singular ring is similar to NO model of dual string was done very long ago in [38, 39], where it was noted that excitations of the KN so-lution create traveling waves along the Kerr ring. Later, it was obtained in [5, 40] close connection of the Kerr singular ring with the Sen fundamental string solution to
+
+4
+
+3	”... is analog to a superconducting metal”, [8]. The LG Lagrangian used in the NO model (minimal LG model)
+2	is
+
+1	µν
+1	LNO = − 4 Fµν F
+1	µ
+2 (DµΦ)(D
+
+Φ)∗
+
+V (|Φ|),	(8)
+
+
+
+
+0
+
+
+
+
+−1
+
+
+
+
+−2
+
+
+
+
+−3
+−4	−3	−2	−1	0	1	2	3	4
+
+
+FIG. 3: Regularization of the KN string. Boundary of bag fixes cut-off R = re for the Kerr singular ring. A) The exact KN solution. B) The KN solution is excited by the lowest traveling mode: emergence of the singular pole.
+
+
+low energy string theory.[44] In the KN bag model this string is formed at the sharp boundary of the supercon-ducting disk, as a dual analog of the NO vortex line in superconductor.
+In accordance with the condition (6), the KN grav-ity controls position of the bag boundary (R), and also more thin effects, such as excitations of the KN gravity define dynamics of the bag and appearance of the trav-eling waves.
+In particular, it has been shown [11], that the lowest EM excitation of the KN solution creates the traveling wave which has a circulating lightlike node. At this point, surface of the deformed bag touches the Kerr singular ring, as it is shown in Fig.3B, which breaks regulariza-tion at this point and creates the lightlike singular pole, which can be considered as emergence of the bare Dirac particle circulating inside the Compton zone of dressed electron. On the other hand, this pole breaks homogene-ity of the closed circular string, creating the frontal and
+where µ = µ+ieAµ are the U (1) covariant derivatives, and Fµν = Aµ,ν Aν,µ is the corresponding field strength, and potential V has the quartic form
+V = λ(Φ†Φ − η2)2,	(9)
+where η is condensate of the Higgs field Φ, its vacuum expectation value (vev) η < Φ >, [36].
+The minimal LG model can be used to describe super-conductivity inside the bag – interplay of the KN vector-potential with the Higgs condensate. Since requirements (I),(E),(R) define inside the bag a flat space, the corre-sponding covariant derivatives can be taken as flat,
+Dµ = ∇µ + ieAµ → Dµ = ∂µ + ieAµ.	(10)
+
+However, the NO and KN models have opposite spa-cial configurations: the KN bag model should describe a superconducting disk surrounded by the long-range EM and gravitational field, while the NO model describes vortex of the EM field inside the superconducting Higgs condensate which breaks the external long-range EM and gravitational field. Note, that this is a typical drawback of the most of soliton models and, in particular, the usual bag models which are formed as a ”cavity in supercon-ductor” [8]. The reason of this disadvantage lies in the use of the potential (9).
+The correct opposite configuration – condensation of the Higgs field inside the core – requires more complex scalar potential V formed from several complex fields Φi, i = 1, 2, 3, [14]. Kinetic part of the corresponding generalized LG model differs from those of the minimal LG model (8) only by summation over the fields Φi,
+
+rear ends turning this string in the open. As usual, the
+L
+1
+= −  F
+Fµν − 1 Σ(D
+Φ )(Dµ Φ )∗,  (11)
+
+end points of an open string are associated with quarks, and the KN super-bag model turns into a single “bag-
+GLGkin
+4 µν
+	iµ i	i	i i
+
+string-quark” system, 4D analog of D2-D1-D0-brane sys-tem of the string–M-theory.
+
+SUPERSYMMETRY ENSURES
+while the potential V is changed very essentially, and has to be formed by analogy with machinery of the N = 1 supersymmetric field theory [13] from a superpotential function W (Φi).[45] The scalar potential[46]
+
+CONSISTENCY WITH GRAVITY
+V (r) = Σ F F ∗
+(12)
+
+i i
+i
+Generalized LG field model and domain wall
+
+(DW) phase transition
+
+The LG field model of superconductivity is used in many solitonic models, in particular, in the NO dual string model, as a field model in the MIT and SLAC bag models, and really, it is also the the Higgs model of symmetry breaking, because the Higgs vacuum itself
+is formed through derivatives of the function W (Φi),
+Fi = ∂W/∂Φi ≡ ∂iW,	(13)
+where
+W (Φi, Φ¯ i) = Z(ΣΣ¯ − η2) + (Z + µ)HH¯ ,	(14)
+
+5
+
+
+µ and η are real constants, and the special notations are introduced (H, Z, Σ)  (Φ1, Φ2, Φ3), to identify Φ1 as the complex Higgs field
+H = |H|eiχ,	(15)
+which interacts with the KN vector field Aµ as	1µ =
+1µ+ieAµ. The fields Φ2 and Φ3 are assumed uncharged, and	iµ =	iµ for i = 2, 3.
+The condition Fi = ∂iW = 0 determines two vacuum states with V = 0:
+(I) internal vacua: r < R	δ, where the Higgs field
+H = η, and Z =	µ, Σ = 0, and
+(E) external vacuum state: r > R +δ, where the Higgs field H = 0, and Z = 0, Σ = η,
+separated by spike of the potential V > 0 in zone
+(R) – a domain wall (DW), interpolating between zones (I) and (E), in the full correspondence with the requirements (I),(E),(R).
+Reduction of the corresponding LG equations to Bogo-molny form is performed by minimization of the energy density per unit area of the DW surface,
+and the Higgs field becomes oscillating, showing that just in the KN bag model the transformation to Bogomolny form (18) begins to operate at full power.
+
+5
+
+
+4
+
+
+3
+
+
+2
+
+
+1
+
+
+0
+
+
+−1
+
+
+−2
+
+
+−3
+
+
+−4
+
+
+−5
+0	1	2	3	4	5	6	7	8	9	10	11
+
+
+
+FIG. 4: The domain wall profile (axial section) defined by the oblate spheroidal coordinate r = R.
+
+
+
+Minimal LG model and quantization of the angular momentum
+
+
+3	3
+
+µ = 1 Σ [Σ |D(i)Φ |2 + |∂ W |2].	(16)
+The non-trivial dependence (20) is fixed in zone (I),
+
+2
+i=1
+µ	i	i
+µ=0
+where the generalized LG model is reduced to minimal
+LG model, and the NO Lagrangian (8) leads to equations
+
+The four dimensional DW solutions in supersymmet-ric LG model have paid attention in the works [22–28], where it was usually considered the static planar DWs positioned in (x,y) plane, with the transverse to the wall z-direction. However, even in the simplest case of the one field Φ(z) and one coordinate z,
+ Aµ = Jµ = e|H|2(χ,µ +eAµ).	(21)
+One sees that vector potential Aµ acquires from the Higgs field the mass term mv = e H , and the EM field becomes short-range, with the characteristic parameter λ = 1/(e|H|) corresponding to the penetration depth of
+
+1	2
+µ = 2 (|∂zΦ|
++ |∂ΦW |2),	(17)
+the EM field in superconductivity. As a consequence, the currents vanish inside the core, Jµ = 0, leading to the equations
+
+reduction of the LG equation to Bogomolny form turns out to be nontrivial, since it requires the introduction of
+ Aµ
+= 0,	χ,µ
++eAµ
+= 0,	(22)
+
+an arbitrary phase factor α, so that (17) can be equiva-lently presented in the form
+showing that besides of the massive component Amv
+which falls off receiving the mass mv from the Higgs field,
+
+µ = 1 |∂ Φ − eiα∂
+W¯ |2 + Re eiα∂ W,	(18)
+there are also the components of different behavior.
+
+/
+
+
+which is saturated by the Bogomolny equation
+∂zΦ = eiα∂Φ¯ W¯ .	(19)
+A dxµ =	er
+µ	r2 + a2 cos2 θ
+(dr − dt − a sin2 θdφ).	(23)
+
+
+The DW forming the KN bag is much more compli-cated, since first of all it is not planar, but forms the spheroidal boundary profile of which is shown in Fig.3. Second, it is formed by three chiral fields Φi, and thirdly, the most important feature is that this DW is not static and has non-trivial dependence on the phases of the com-plex fields Φi. The corresponding BPS saturated solution was found in [11, 16], where it was shown that the phases αi of the complex fields Φi should acquire nontrivial de-pendence from time and angular coordinate
+α1 = 2χ(t, φ),	α2 = α3 = 0,	(20)
+It grows near the core and takes maximal value at the
+boundary of the disk, at r = R = e2/2m, cos θ = 0, Amaxdxµ = −Re 2m (dr − dt − adφ).	(24)
+Note, that the component Ar is a perfect differential (as it is shown for example in [20]) and can be ignored. At the boundary, Amax is dragged by the light-like direction of the Kerr singular ring (see Fig.2) and the component Amax forms the closed Wilson loop, so that
+e I Amaxdφ = 4πma.	(25)
+
+6
+
+
+The right equation in (22) shows that penetrating inside the disk vector potential determine oscillating phase of the Higgs field as χ = 2mt + 2amφ. The condition of multiplicity of the periods χ and φ gives 2am = n, n = i, 2, 3, .., which in view of J = ma, leads to quantization of angular momentum as
+J = n/2, n = i, 2, 3, ...	(26)
+These relations are retained in the bosonic sector of the supersymmetric theory, where the fields Φi and Φ+ turn into the complex conjugate scalar components of the su-perfields.
+To get full correspondence with supersymmetric the-ory, the fields Φi and Φ¯ i in (14), should be considered as independent chiral fields Φi and Φ˜i, and there should also
+be introduced an antichiral superpotential W +(Φ+, Φ˜+),
+
+i	i
+
+On the other hand (22) shows that phase of Higgs field
+i(2mt+2amφ)
+which in the bosonic sector turns into complex conju-
+gated superpotential, built of the complex conjugated fields W¯ (Φ∗, Φ˜∗). From the complex point of view, the
+
+H = Φ1 = |H|e
+(27)	i	i
+
+
+oscillates with the frequency ω = 2m which supports
+transition from (14) to supersymmeric Higgs model may
+be considered as complexification of the moduli space –
+
+extension of the components Ain
+= 2m ,	Ain
+= 2ma
+analytical extension from the real section, fixed by condi-
+
+t	e	φ
+e	tion Φ¯ i = Φ∗, to its complex extension, the manifold with
+
+inside the disk.[47] At the disk boundary (22) is broken,	i	˜
+
+and according (21) there appear the surface currents Jµ.
+independent coordinates Φi and Φi, supplemented with complex conjugate coordinates Φ∗, Φ˜∗. Therefore, the
+
+
+
+
+
+singular ring
+4
+
+
+2
+
+
+0
+
+
+−2
+
+
+−4
+
+
+−6
+z+ string
+
+
+
+
+
+
+
+ = const.
+transition to bosonic sector of the supersymmetric gen-eralized LG model requires doubling of the chiral field to eliminate their degeneracy on the real slice.
+Returning to the original work by Morris [42], where the potential (14) was suggested for super-generalization of the Witten’s superconducting string model [43], we should double the charged chiral fields Σ and Φ, and consider five chiral superfields Σ±, Φ±, and Z, which in Witten’s interpretation of this model as the U (I) × U ′(I) Higgs field model, acquire the charges (±1, 0) for Φ±, and
+
+−8	charges for the Σ±
+fields as (0, ±1). The chiral superpo-
+
+1
+0
+real slice of	−1
+complex string	−2
+
+z− string
+1
+
+
+
+
+0  −1
+
+
+
+−2  −3
+
+−6
+−4  −5
+tential (14) takes the form
+
+−3  3  2
+
+
+
+FIG. 5: Kerr’s coordinate φ = const. Kerr singular ring drags the vector potential, forming a closed Wilson loop along edge border of the DW.
+W (Φi, Φ˜i) = Z(Σ+Σ− − η2) + (Z + µ)Φ+Φ−,	(31)
+with identification
+Φi = (Φ+, Φ−, Σ+, Σ−, Z).	(32)
+
+
+
+
+
+SUPERBAG AS NONPERTURBATIVE
+The auxiliary fields
+F ∗ = ∂W/∂Φi = (F ∗ , F ∗ , F ∗
+
+
+, F ∗
+
+
+, F ∗)	(33)
+
+SOLUTION OF THE SUPERQED MODEL
+
+Bosonic sector of the supersymmetric LG model
+
+As we noticed earlier, the generalized LG model based
+i
+
+take the form
+
+
+
+
+∗
+±
+∗
+Σ±
++	−	Σ+	Σ−	Z
+
+
+
+= (Z + µ)Φ∓,	(34)
+= ZΣ∓,	(35)
+
+on the superpotential (14) is not true supersymmetric
+model. The difference is that the true superpotential W
+∗ = Σ+Σ− + Φ+Φ− − η ,	(36)
+
+is to be a chiral function of the chiral superfields Φi, while the scalar potential
+Vacuum expectation values of fields Φi
+for which F ∗ = 0
+
+V = FiF ∗
+is formed from the chiral part
+(28)
+give minima of the potential V = 0 corresponding to
+supersymmetric vacuum states. Just as in case (14), we obtain two isolated vacua
+(I) Φ−Φ+ = η2,	Z =	µ,	Σ+ = Σ− = 0;
+(E) Φ− = Φ+ = 0, Z = 0, Σ+Σ− = η2;
+
+F ∗ = ∂W/∂Φi,	(29)
+but also incudes the antichiral superpotential W +(Φ+)
+separated by the zone
+of the positive potential
+
+depending on the antichiral superfields Φ+
+i
+V = |Σ+Σ− + Φ+Φ− − η2|2 + |(Z + µ)Φ+|2
+
+Fi = ∂W +/∂Φ+.	(30)
++|(Z + µ)Φ−|2 + |Z|2(|Σ+|2 + |Σ−|2).	(37)
+
+7
+
+
+Transition to SuperQED model
+
+We note that two oppositely charged superfields Φ+ and Φ− give rise to correspondence of the supersymmet-ric LG model to kinetic part of the Wess-Zumino Su-perQED model [13],
+OUTLOOK
+
+We have considered principal features of the Kerr-Schild geometry which specify the supersymmetric bag model as a new way to particle physics consistent with gravity and electroweak sector of the SM. Two of them are principally new relative to the widespread belief:
+
+1
+LSQEDkin = − 4 W
+
+aWa+Φ+eeV
+
+Φ+|θθθ¯θ¯+Φ+e
+
+−eV
+
+Φ−|θθθ¯θ¯, (38)
+the spinning KN gravity is not weak, and becomes very strong at the Compton scale of the particle physics,
+compatibility between Quantum and Gravity can be
+
+where V is vector superfield, and Wa =  1 D¯ D¯ DαV. In
+the same time, the potential part (31) corresponds to the most general renormalizable supersymmetric Lagrangian and gives rise to nonperturbative generalization of the SuperQED model.
+The chiral superfields Φ±, are expressed in the compo-nent form
+Φ±(y) = H±(yµ) + √2θψ±(yµ) + θθF±(yµ),	(39) as functions of the chiral coordinates yµ = xµ+iθσµθ¯ and
+θ, and the scalar components H± are independent Higgs fields, splitting of the complex conjugated Higgs field of the minimal LG model in (14) and (15). Interplay of the oppositely charged Higgs fields H± with vector potential in zone (I) is defined by (22) and yields
+achieved by means of supersymmetric generalization of
+the matter sector, without modification of the Einstein-Maxwell theory.
+We considered interplay of the KN gravity with the matter sector based on the supersymmetric generalized LG field model, which is equivalent to supersymmetric Higgs mechanism of symmetry breaking, and give a non-perturbative solution to generalized LG field model in the form of a super-bag – nonperturbative version of the Su-perQED model. By conception, the 4d super-bag model has to be soft and oscillating, similar to the conception of the superstring models [7, 17, 18].
+Due to extreme high spin/mass ratio, impact of the gravitational KN field on the structure of space-time be-comes very strong, and the consistent supersymmetric nonperturbative solutions become very sensible to the external Einstein-Maxwell field. As a result,
+the super-bag model creates a free from gravity
+
+H± = |H±|e±iχ,
+H¯± = H± e∓iχ, χ = 2mt + 2amφ,
+(40)
+Compton core of spinning particle, where the supersym-metric vacuum state of the Higgs field provides the flat
+
+where the fields H¯± are scalar components of the antichi-ral fields
+Φ+(y+) = H¯±(y+µ) + √2θ¯ψ¯±(y+µ) + θ¯θ¯F¯±(y+µ), (41)
+
+as functions of the antichiral coordinates y+µ = xµ iθσµθ¯ and θ¯. The corresponding nonperturbative solution
+with doubled Higgs fields (40) can be obtained similar to [11].
+In the Wess-Zumino SuperQED model, the two Weyl spinors ψ± in (39) combine into one massive Dirac spinor of the electron – superpartner of the Higgs doublet H±, [13].
+The nonperturbative super-bag solution generates in the core of spinning particle the flat Compton zone (I), which is free from gravity and supersymmetric, represent-ing the conditions for the work of the perturbative Su-perQED model, while the remarkable perturbative prop-erties of the SuprQED – ”miracleous cancellations” of the component super-graphs [13] for a link to pertur-bative QED. Note, that in the nonperturbative model of super-bag, the superpartners cannot be considered as separate particles, and are integrated as the superfield components of a single nonperturbative solution. The super-bag model reveals correspondence not only with gravity and electroweak sector of the SM, but also with a nonperturbative version of the SuperQED model.
+space, required for consistent work of quantum theory;
+the super-bag takes the shape of a strongly oblate disk forming a circular string along its border;
+gravitational and electromagnetic excitations of the KN solution create consistent stringy oscillations of the super-bag in the form of traveling waves.
+Many problems remain to be solved. The closest is the so far unsolved problem of the exact nonstationary (os-cillating or accelerating) generalization of the KN solu-tion, the problem of the consistent solutions of the Dirac equation corresponding to confinement of quark inside the bag, and so on.
+Nevertheless, the considered here features of the super-bag model are so intriguing that we risk to state that they really give the key to solution of the principal problem of unification of gravity with particle physics.
+Finally, we should mention very important new as-pect of this study, the direct link to the non-perturbative Wess-Zumino SuperQED model, which provides remark-able cancellations between component diagrams, present-ing a link between the nonperturbative bag-like solution and the conventional technics of the perturbative QED.
+
+
+Acknowledgements
+
+Author thanks Yu.N. Obukhov and O. Teryaev for dis-cussion that stimulated appearance of this work, and
+
+8
+
+
+also V.A. Rubakov for support on the early stage of this work. Author is also grateful to D.V. Gal’tsov and A.A. Starobinsky for interest to this work and supporting re-
+marks, and to K.V. Stepanyants for detailed discussion of the structure of SuperQED model.
+
+
+/
+
+
+J. Schwarz, The Early History of String Theory and Su-persymmetry, CALT-68-2858 [arXiv:1201.0981]
+N.Arkani-Hamed1, S. Dimopoulos, G. Dvali4 and
+N. Kaloper, Infinitely Large New Dimensions, Phys.Rev.Lett. 84 586 (2000) DOI: 10.1103/Phys-
+RevLett.84.586 [hep-th/9907209].
+A. Dabholkar, J. P. Gauntlett, J. A. Harvey, D. Waldram, Strings as Solitons & Black Holes as Strings, Nucl.Phys. B474, 85 (1996) [arXiv:hep-th/9511053].
+A. Sen,  Macroscopic Charged Heterotic String.
+Nucl.Phys. B 388 457 (1992), [arXiv:hep-th/9206016].
+Burinskii A., Some properties of the Kerr solution to low-energy string theory. Phys. Rev. D 52 5826 (1995), [arXiv:hep-th/9504139].
+Chodos A. et al. New extended model of hadrons. Phys. Rev. D 9, 3471 (1974).
+Bardeen W. A. at al., Heavy quarks and strong binding: A field theory of hadron structure. Phys. Rev. D 11, 1094 (1974).
+R. Dashen, B. Hasslacher, and A. Neveu, Nonperturba-tive methods and extended-hadron models in field theory: I,II, III. Phys. Rev. D 10, 4114 (1974), ibid. 4130 (1974),
+ibid 4138 (1974) .
+J.M. Maldacena, Int.J.Mod.Phys. A15S1 , 840 (2000)
+A. Burinskii, Gravitating lepton bag model, JETP (Zh. Eksp. Teor. Fiz.) 148(8) (2015) 228, [arXiv:1505.03439].
+A. Burinskii, Stability of the lepton bag model based on the Kerr-Newman solution, JETP (Zh. Eksp. Teor. Fiz.) 148 (2015) 937.
+A. Burinskii, Int. J. Mod. Phys. Source of the Kerr-Newman solution as a gravitating bag model: 50 years of the problem of the source of the Kerr solution, Int. J. Mod. Phys. A31, 1641002 (2016).
+Wess J., Bagger J., Supersymmetry and Supergravity, Princeton Univ. Press, New Jersey, 1983.
+Burinskii A., Regularized Kerr-Newman Solution as a Gravitating Soliton. J. Phys. A: Math. Theor. 43, 392001 (2010), [arXiv: 1003.2928].
+Burinskii A., Kerr-Newman electron as spinning soli-ton, Int J. of Mod. Phys. A 29, 1450133 (2014), [arXiv:1410.2888].
+A. Burinskii, Source of the Kerr-Newman solution as a supersymmetric domain-wall bubble: 50 years of the prob-lem, Phys Lett. B 754, 99 (2016), [arXiv:1602.04215].
+Giles R.C., Semiclassical dynamics of the ”SLAC bag”, Phys. Rev. D 70, 1670 (1976).
+K. Johnson and C. B. Thorn, Stringlike solutions of the bag model, Phys. Rev. D 13, 1934 (1976).
+S.-H. H. Tye, Quark-binding string, Phys. Rev. D 13, 3416 (1976)
+Debney G. C., Kerr R. P. and Schild A. Solutions of the Einstein and Einstein-Maxwell equations. J. Math. Phys. 10 1842 (1969).
+Carter B.,“Global structure of the Kerr family of gravi-tational fields,” Phys. Rev. 174, 1559 (1968). Phys. Rev.
+174, 1559 (1968).
+P. Fendley, S. Mathur, C. Vafa and N.P. Warner, Phys. Lett. B 243, 257 (1990).
+Xinrui Hou, A. Losev, M. Shifman,	Phys. Rev. D 61,085005 (2000), hep-th/9910071,
+E.R.C. Abraham and P.K. Townsend, Nucl. Phys. B351, 313 (1991).
+M. Cveticˇ, F. Quevedo and S. J. Rey, Phys. Rev. Lett.
+67, 1836, (1991).
+M. Cveticˇ, S. Griffies and S. J. Rey, Nucl. Phys. B 381, 301 (1992).
+G.W. Gibbons and P.K. Townsend, Phys.Rev.Lett. 83 1727 (1999), [hep-th/9905196].
+B. Chibisov and M. Shifman, BPS-saturated walls in su-persymmetric theories, Phys. Rev. D 56, 7990 (1997).
+L´opez C.A. , An Extended Model Of The Electron In Gen-eral Relativity, Phys. Rev. D 30, 313 (1984).
+P. A. M. Dirac, An Extensible Model of the Electron.
+Proc. R. Soc. Lond. A 268, 57 (1962).
+Coleman S., Q-Balls, Nuclear Physics B 262 (2) 263
+(1985),
+Rosen G., Particlelike Solutions to Nonlinear Com-plex Scalar Field Theories with Positive-Definite En-ergy Densities. J. of Math. Phys. 9 (7) 996 (1968), doi:10.1063/1.1664693 .
+A. Achucarro and T. Vachaspati, Semilocal and Electroweak Strings,Phys.Rept. 327 347 (2000), [arXiv:hep-ph/9904229].
+Kusenko A., Solitons in the supersymmetric extensions of the standard model, Phys.Lett. B405 108 (1997).
+G. Dvali, A. Kusenko and M. Shaposhnikov, “New physics in a nutshell, or Q-ball as a power plant”, Phys.Lett. B417, 99 (1998).
+Volkov M. and W¨ohnert E., Spinning Q-balls, Phys.Rev.
+D 66, 085003 (2002).
+H. B. Nielsen and P. Olesen, Vortex-line models for dual strings, Nucl. Phys. B 61, 45, (1973).
+J. Ambjorn and P. Olesen, On electroweak magnetism, Nuclear Physics B315 606 (1989).
+Burinskii A.Ya., Microgeons with spin. Sov. Phys. JETP 39 193 (1974).
+Ivanenko D.D. and Burinskii A.Ya., Gravitational strings in the models of elementary particles, Izv. Vuz. Fiz., 5, 135 (1974).
+A. Sen, Rotating charged black hole soltion in heterotic string theory, Phys. Rev. Lett. 69, 1006, (1992).
+A. Burinskii, Twistorial analyticity and three stringy sys-tems of the Kerr spinning particle, Phys. Rev. D 70, 086006 (2004) [arXiv:hep-th/0406063].
+A. Burinskii, Orientifold D-String in the Source of the Kerr Spinning Particle, Phys. Rev. D 68 (2003) 105004 [arXiv:hep-th/0308096].
+A. Burinskii, Stringlike structures in the real and com-plex Kerr-Schild geometry, Journal of Physics: Confer-ence Series 532 012004 (2014), [arXiv:1410.2462].
+A. Burinskii, Kerr spinning particle, strings, and super-particle models, Phys. Rev. D 57, 2392 (1998).
+
+9
+
+
+J.  R.  Morris,	Phys. Rev. D	53 2078 (1996)
+[arXiv:hep-ph/9511293].
+E. Witten, Superconducting strings. Nucl.Phys., B249, 557, (1985).
+Note also the complex N=2 critical string which was ob-
+was used in [14, 15] to describe superconducting core of the KN solution.
+The signs bar ¯ and star ∗ both are used for complex conjugation.
+Note, that the left massless equation (22) is also satisfied,
+
+tained in the complex Kerr geometry [41].
+since Ain
+= 0 is satisfied trivially. Also, Ain
+= 0,
+
+It is really not only analogy, and as we shell see, only one step differs this model from the true supersymmetric Higgs model, which was obtained by Morris in [42] with the purpose to get supersymmetric generalization of the Witten superconducting string model [43]. This model
+because phase φ is analytic function of (x + iy), leading to Ain = ∂∂¯Ain = 0. These fields do not produce the field strength.
+
+universe
+
+Review
+New Physics of Strong Interaction and Dark Universe
+Vitaly Beylin 1/, Maxim Khlopov 1,2,3,*/, Vladimir Kuksa 1/ and Nikolay Volchanskiy 1,4
+1	Institute of Physics, Southern Federal University, Stachki 194, 344090 Rostov on Don, Russia; beylinv@sfedu.ru (V.B.); vkuksa47@mail.ru (V.K.); nvolchanskiy@sfedu.ru (N.V.)
+2	CNRS, Astroparticule et Cosmologie, Université de Paris, F-75013 Paris, France
+3	National Research Nuclear University “MEPHI” (Moscow State Engineering Physics Institute), 31 Kashirskoe Chaussee, 115409 Moscow, Russia
+4	Bogoliubov Laboratory of Theoretical Physics, Joint Institute for Nuclear Research, Joliot-Curie 6,
+141980 Dubna, Russia
+*	Correspondence: khlopov@apc.univ-paris7.fr; Tel.:+33-676380567
+
+
+Received: 18 September 2020; Accepted: 21 October 2020; Published: 26 October 2020
+check ror
+updates
+
+Abstract: The history of dark universe physics can be traced from processes in the very early universe to the modern dominance of dark matter and energy. Here, we review the possible nontrivial role of strong interactions in cosmological effects of new physics. In the case of ordinary QCD interaction, the existence of new stable colored particles such as new stable quarks leads to new exotic forms of matter, some of which can be candidates for dark matter. New QCD-like strong interactions lead to new stable composite candidates bound by QCD-like confinement. We put special emphasis on the effects of interaction between new stable hadrons and ordinary matter, formation of anomalous forms of cosmic rays and exotic forms of matter, like stable fractionally charged particles. The possible correlation of these effects with high energy neutrino and cosmic ray signatures opens the way to study new physics of strong interactions by its indirect multi-messenger astrophysical probes.
+Keywords: cosmology; particle physics; physics beyond the standard model; particle symmetry; stable particles; dark matter; cosmic rays
+
+
+Introduction
+The modern standard model of cosmology, involving inflation, baryosynthesis and dark matter/energy finds its basis beyond the standard model (BSM) of electroweak (EW) and strong interactions, thus moving the physics of the universe to the dark side of the fundamental physics. These phenomena determine the history of the cosmological evolution that resulted in the modern structure of the universe [1–8].
+BSM physics not only provides a physical basis for the standard elements of cosmological construction, but also inevitably involves new nonstandard cosmological and astrophysical features (see [9,10] for review and references). Here, we study such features, which may appear as signatures for the new physics of strong interactions.
+In the strong interaction of the standard model (QCD), new physics comes from colored states with new quantum numbers. If these new charges are conserved, the lightest particle which possesses this property is stable and can have important cosmological impact. An interesting feature of new stable heavy quarks is their binding by chromo-Coulomb forces in heavy quark clusters with strongly suppressed hadronic interaction, making their properties more close to the features of leptons.
+BSM models can involve additional non-abelian symmetry, giving rise to new composite particles, whose constituents are bound by QCD-like confinement. Such states may have exotic features of multiple or fractional charge leptons.
+
+
+Universe 2020, 6, 196; doi:10.3390/universe6110196	www.mdpi.com/journal/universe
+
+Universe 2020, 6, 196	2 of 30
+
+
+In the present review we discuss predictions of QCD and QCD-like models for possible new forms of stable matter and dark matter candidates (Section 2) as well as their effects and multi-messenger probes in the galaxy (Section 3).
+New Physics from QCD and QCD-Like Models
+General Features of New Physics of Strong Interactions in Dark Cosmology
+Models adding new symmetry to the symmetry of the standard model (SM) predict new conserved quantum numbers, which provide stability of the lightest particle that possesses them. Such a particle can also possess QCD color and constitute new stable hadrons.
+The addition of new non-abelian symmetry involves QCD-like interactions binding new QCD-like constituents in new composite states. Such composite states do not have ordinary hadronic interaction and look like leptons in their interaction with baryonic matter.
+These new stable particles can be dark matter (DM) candidates, since even hadronic interaction with cosmological plasma is not sufficiently strong to hinder the decoupling of gas of stable hadrons.
+New Stable Quarks
+Hadronic dark matter (HaDM) is one of the natural variants of strongly interacting dark matter scenario. The most popular candidates, weakly interacting massive particles (WIMP), have not yet been discovered. Moreover, strong restrictions on WIMP-nucleon scattering cross section [11] exclude some variants of WIMP scenarios. Some scenarios of DM with strongly interacting massive particles (SIMP) are presented in Refs. [10,12–15]. As was noted in the introduction, usually strongly self-interacting dark matter scenarios are realized by introducing extra groups of gauge symmetry and additional sets of fields. Here, we consider the scenario with hadronic DM, which contains a minimal set of new fields. Namely, heavy singlet quark. This scenario is realized in the framework of grand unification scheme (for example, E6-theory or SU(5) supersymmetric extension contain SU(2)-singlet quark). We should note that hadronic DM is not only self-interacting; hadron-type DM particles strongly interact with ordinary matter. Here, we give a brief description of the origin and main properties of new stable quarks which enter the new heavy hadrons as DM particles.
+In the scenario with heavy HaDM, new hadrons consist of new heavy stable quarks Q and light standard ones, q. New quarks possess standard strong (QCD-type) interactions and, together with standard quarks, form mesonic M = (qQ) and fermionic F1 = (qqQ), F2 = (qQQ), F3 = (QQQ) composite states. New heavy quarks arise in the extension with singlet quarks [14], chiral-symmetric models [15,16] and 4th generation standard model extensions [17–19]. Principal properties of new heavy hadrons and their phenomenology were presented in Refs. [10,14,15]. It was underlined in these works that the repulsive character of DM-nucleon interactions makes it possible to escape rigid cosmochemical restrictions on the relative concentration of anomalous hydrogen and helium [10,16]. In this subsection, we briefly present a theoretical base of the HaDM scenario, which is constructed in the framework of the extension with a singlet quark [14] and chiral-symmetric model [15].
+The minimal Lagrangian of the extension of SM with new stable quarks is as follows:
+L = LSM + LQ,	(1)
+where LQ describes interaction of new quarks Q with gauge bosons. In the case of singlet quark Qs
+Lagrangian is defined in standard way:
+LQ = iQ¯s γµ(∂µ − ig1qQVµ − igsttaGa )Qs − MQQ¯s Qs.	(2) In (2), the matrix ta = λa/2 are generators of SUC(3)-group and MQ is the mass parameter of Q.
+
+Universe 2020, 6, 196	3 of 30
+
+
+The chiral-symmetric extension of SM has an additional set of up and down quarks with anti-symmetric (with respect to standard one) chiral structure:
+Q = {QR = (UR, DR); UL, DL}	(3)
+The structure of covariant derivatives follows from this definition:
+ig2	a	i
+DµQ =(∂µ − ig Y Vµ −	τaV − ig t G )Q ;
+DµUL =(∂µ − ig1YUVµ − ig3tiGi )UL,
+DµDL =(∂µ − ig1YDVµ − ig3tiGi )DL.	(4)
+In the equations in (4), the values YA (A = Q, U, D) are hypercharges of quarks’ doublets and singlets and ti are generators of the SUC(3)-group. The gauge fields Va are superheavy chiral partners of standard gauge fields. Further, we consider some specific variant of the chiral-symmetric model with vector-like interaction of new quarks with gauge bosons [10].
+The structure of interactions in the extension with singlet quarks and in the chiral-symmetric model has a vector nature in both cases. So, we use universal expression for the Lagrangian model of EW interactions:
+L(Qa, A, Z) = ga(cw Aµ − swZµ)Q¯ aγµQa, Qa = Qs, U, D,	(5)
+where ga = g1qa and qa = 2/3 or qa = −1/3 for the case of up or down new quark. The definitions of charges for quarks U and D in chiral-symmetrical scenario are standard also. These assumptions make it possible to form neutrally coupled states with standard quarks. In the models under consideration, vector interaction of new heavy quarks with gauge vector fields gives small contributions to polarizations. So, the contributions of new quarks into Peskin–Takeuchi (PT) parameters S, T, U, which describe their effects in electroweak physics, are small too. Using standard definitions of the PT parameters and vertices in (5), by a straightforward calculation, we get for the parameters S and U (T = 0) the following expressions:
+
+
+ks4	1
+ M2	√/	 1 
+
+
+
+Here, β = 4M2 /M2 − 1, k = 16(4) for the case of singlet quark model with the charge q =
+2/3(−1/3), and k = 20 for the case of chiral-symmetric model. From Equation (6), it follows that for heavy new quarks with mass MQ > 500 GeV the value of parameters S = −U < 10−2 is significantly less than the experimental limits [20]:
+S = 0.00 + 0.11(−0.10), U = 0.08 ± 0.11, T = 0.02 + 0.11(−0.12).	(7)
+Thus, the scenarios with vector-like new heavy quarks are not excluded by EW experimental restrictions. There are, also, EW restrictions which follow from the presence of flavor-changing neutral currents (FCNC). In the scenario under consideration, new quarks do not mix with standard quarks and FCNC at the tree level are absent. So, there are no additional restrictions which follow from the rare processes, such as rare decays of mesons and the mixing in the systems of neutral mesons (oscillations). The potential of interaction of new heavy mesons and nucleons, as was shown in Ref. [10],
+has repulsive character. So, new hadrons do not form coupled states with ordinary matter and this effect excludes the formation of anomalous hydrogen and helium. Thus the scenario with hadronic DM does not contradict rigid cosmochemical restrictions on the relative concentration of these elements [10].
+
+Universe 2020, 6, 196	4 of 30
+
+
+QCD-Like Models
+For almost forty years, many efforts have been invested in developing SM extensions conjecturing the existence of new nonperturbative BSM physics. In particular, such models can postulate that the Higgs boson is a composite object consisting of some new fundamental constituents held together by an analog of strong force. There are many brilliant reviews surveying different aspects of this huge field in detail, e.g., [21–29].
+In this section, we consider some particular variants of models that extend SM by introducing an additional strong sector with heavy vector-like fermions, hyperquarks (H-quarks), charged under an H-color gauge group [30–41]. Depending on H-quark quantum numbers, such models can encompass scenarios with composite Higgs doublets (see, e.g., [42]) or a small mixing between fundamental Higgs fields of SM and composite hadron-like states of new strong sector making the Higgs boson partially composite. Models of this class leave room for the existence of DM candidates whose decays are forbidden by accidental symmetries. Besides, H-color models comply well with electroweak precision constraints, since H-quarks are assumed to be vector-like.
+Among the simplest realizations of the scenario described are models with two or three vector-like H-flavors confined by strong H-color force Sp(2χc˜), χc˜ ≥ 1. The models with H-color group SU(2) [37,43] are included as particular cases in this consideration due to isomorphism SU(2) = Sp(2) [37,43]. The global symmetry group of the strong sector with symplectic H-color group is larger than for the special unitary case—it is the group SU(2nF) broken spontaneously to Sp(2nF), with nF being a number of H-flavors. Going beyond the simplest (two-flavor) model is of interest because the phenomenology of such models is richer involving new fractionally charged states that can be stable. We posit that the extensions of SM under consideration preserve the elementary Higgs doublet in the set of Lagrangian field operators. This doublet mixes with H-hadrons, which makes the physical Higgs partially composite. The same coset SU(2nF)/Sp(2nF) can be used to construct composite two Higgs doublet model [42] or little Higgs models [44–49].
+It should be also noted that there are multiple options of assigning electroweak quantum numbers to new H-quarks charged under symplectic color gauge group. In the two-flavor case, for example, there are two possibilities. Except for the model with vector-like H-quarks considered in this paper, one can also build a model with one left-handed doublet and two right-handed quark singlets (e.g., see [21]).
+Let us consider a model with the symmetry G = GSM × Sp(2χc˜), χc˜ ≥ 1, with GSM and Sp(2χc˜)
+being the SM gauge group and a symplectic hypercolor group respectively. In its field content, the model introduces a doublet and a singlet of heavy vector-like H-quarks charged under H-color group. Then, in the renormalizable case, the most general Lagrangian invariant under G reads
+
+
+L = L
+1  µν a
+—  H  H
++ iQ¯ D/Q − m
+Q¯ Q + iS¯D/S − m
+S¯S + δL
+,	(8)
+
+DµQ =  ∂µ +  i g Y Bµ −  i g Wµτ −  i g Hµλ/  Q,	DµS =  ∂µ + ig Y Bµ −  i g Hµλ/ S,  (9)
+/	/
+
+ µ	 µν
+where H , a = 1 . . . χc˜(2χc˜ + 1) are hypergluon fields and H	are their strength tensors; τa are the
+a	a
+Pauli matrices; λa, a = 1 . . . χc˜(2χc˜ + 1) are Sp(2χc˜) generators satisfying the relation
+λTω + ωλa = 0,	(10)
+/
+where T stands for “transpose”, ω is an antisymmetric 2χc˜ × 2χc˜ matrix, ωTω = 1. Hereafter, all underscored indices correspond to representations of the H-color group Sp(2χc˜). In the
+
+Universe 2020, 6, 196	5 of 30
+
+
+Lagrangian (8), the contact Yukawa couplings δLY of the H-quarks and the SM Higgs doublet H are permitted by the symmetry G if the hypercharges YQ and YS satisfy an additional linear relation:
+δL = y (Q¯ H ) S + y (Q¯ εH¯ ) S + h.c.	for YQ − Y = + 1 ;	(11)
+δL = y (Q¯ εH¯ ) S + y (Q¯ H ) S + h.c.	for YQ − Y = − 1 .	(12)
+
+It is a simple exercise to prove that the hypercolor part of the H-quark Lagrangian (8) can be rewritten in terms of a left-handed sextet as follows:
+
+QL
+¯	ǫωQ C
+
+
+µ	µ	i	µ
+/
+
+
+/
+−ωSRC
+where ǫ = iτ2, the operation C denotes the charge conjugation. Equation (13) makes it obvious that, in the absence of the electroweak interactions, the H-quark Lagrangian is invariant under an extension of the chiral symmetry—a global SU(6) symmetry, dubbed the Pauli–Gürsey symmetry [50,51]. The subgroups of the SU(6) symmetry include:
+The chiral symmetry SU(3)L × SU(3)R;
+SU(4) subgroup corresponding to the two-flavor model without singlet H-quark S;
+Two-flavor chiral group SU(2)L × SU(2)R, which is a subgroup of both former subgroups. The global symmetry is broken both explicitly and dynamically:
+Explicitly—by the electroweak and Yukawa interactions, (9) and (11), and the H-quark masses;
+Dynamically—by H-quark condensate [52,53]:
+1	0	ε	0
+⟨Q¯ Q + S¯S⟩ =	⟨P¯L M0PR + P¯R M†PL⟩,	PR = ωPLC,	M0 = ε	0  0 .	(14)
+0  0	ε
+
+The condensate (14) is invariant under Sp(6) ⊂ SU(6) transformations U that satisfy a condition
+UT M0 + M0U = 0,	(15)
+i.e., the global SU(6) symmetry is broken dynamically to its Sp(6) subgroup. The mass terms of H-quarks in (8) could break the symmetry further to Sp(4) × Sp(2):
+1	  0	mQε	0 
+δL	= − P¯L M′ PR + h.c.,	M′ = −M′ T = mQε	0	0	.	(16)
+It should be noted that the model under consideration is free of the gauge anomalies and can be easily reconciled with the electroweak precision constraints, since the H-quarks are vector-like, i.e., their electroweak interactions are chirally symmetric.
+The effective interactions of H-hadrons can be described in a linear σ-model involving the fundamental (not composite) Higgs doublet H and constituent H-quarks as independent degrees of freedom.  The Lagrangian of the model can be broken down into four sectors—(1) a sector of the constituent H-quarks (containing interactions of the quarks with gauge bosons),
+(2) Yukawa interactions of the (pseudo)scalars with the H-quarks, (3) a sector of (pseudo)scalar
+
+Universe 2020, 6, 196	6 of 30
+
+
+fields (which produces their self-interactions and interactions with the Higgs boson), and (4) terms communicating the explicit breaking of the SU(2nF) global symmetry to the effective fields:1
+
+
+
+
+L
+H-quarks
+L	L	L	L	L
+H-quarks	scalars
+= iP¯L D/PL,	LY = −√2κ P¯L MPR + P¯R M†PL ,	(18)
+
+L	= DµH † · DµH + Tr Dµ M† · Dµ M − Uscalars,	LSB = −ζ⟨Q¯ Q + S¯S⟩(u + σ′).	(19)
+Here, κ is a coupling constant; the parameter ζ is proportional to the current mass mQ of the H-quarks (see [57,58], for example); M is a complex antisymmetric 2nF × 2nF matrix of (pseudo)scalar fields whose singlet component develops a v.e.v. u ∼ −⟨Tr (MM0)⟩; the multiplets PL, R correspond now to the constituent H-quarks that are postulated not to interact with H-gluons but interact with the intermediate gauge bosons in the same way as the fundamental H-quarks. The fields transform under the global symmetry SU(2nF) as follows:
+M → UMUT,	PL → UPL,	PR → U¯ PR,	U ∈ SU(2nF),	(20)
+where U¯ is the complex conjugate of U. These transformation laws allow one to define the covariant derivatives of the fields PL, R and M easily (see explicit expressions in [10]).
+The physical (pseudo)scalar components of the field M are listed in Table 1. They include heavier
+analogs of all the light mesons of 3-flavor QCD and a set of H-baryons (H-diquarks)—singlets A and B, and doublets A and B. The Lagrangian of H-quark–H-hadron interactions reads
+
+L
+H-quarks
++ LY = iQ¯ D/Q + iS¯D/S − κu (Q¯ Q + S¯S)
+
+¯  ′	 1 
+ 1  ′ 
+
+a	a	a 
+¯  ′	 2 
+ 2  ′ 
+
+−κQ σ + √/
+3
+f + i
+η + √3 η
+γ5 + (a
++ iπ γ5) τ
+Q − κS σ − √/
+3
+f + i
+η − √3 η
+γ5  S
+
+−√2κ [(Q¯ K ⋆) S + i (Q¯ K ) γ5 S + h.c.] − √2κ h(Q¯ A ) ωSC + i (Q¯ B) γ5 ωSC + h.c.i
+
+κ
+— √2
+AQ¯ εωQC
++ iBQ¯ γ5 εωQC
++ h.c.
+,	(21)
+
+
+i	 i	a
+DµQ = ∂µQ +  g Y B Q −  g W τ Q,	D S = ∂ S + ig Y B S,	(22)
+
+where K ⋆, K  and A , B are SU(2)L doublets of H-mesons and H-baryons respectively. The Lagrangian for the case of two-flavor model, nF = 2, is obtained by simply neglecting all terms with the singlet H-quark S in Equation (21).
+The kinetic terms of the (pseudo)scalars in the Lagrangian (19) produce interactions of the H-hadrons with the gauge bosons:
+1	 D Φ † DµΦ + D A · Dµ A + D B · DµB,	(23)
+Tscalars =	∑ Dµ ϕ · Dµ ϕ + ∑	µ	µ ¯	µ ¯
+ϕ	Φ
+where ϕ = h, ha, πa, aa, σ, f , η, η′ are singlet and triplet fields, Φ = K , K ⋆, A , B are doublets.
+
+The fields h and ha, a = 1, 2, 3 are components of the fundamental Higgs doublet H =
+ihaτa)  0 . The covariant derivatives in the Lagrangian (23) are defined as follows:
+1 (h +
+2
+
+
+/
+
+1		Although the non-invariant terms responsible for the explicit symmetry breaking can be chosen in a variety of ways [54–56], we constrain ourselves to the most obvious tadpole-like one (as in [57,58], for example).
+
+Universe 2020, 6, 196	7 of 30
+
+
+Dµh = ∂µh + 1 (g δaBµ + g Wa)ha,	Dµφ = ∂µφ,	φ = σ, f , η, η′,	(24)
+2	1 3	2  µ
+Dµha = ∂µha − 1 (g δaBµ + g Wa)h − 1 e	(g δbBµ − g Wb)hc,	(25)
+Dµ Ma = ∂µ Ma + g2eabcWb Mc,	M = π, a,	DµZ = ∂µZ + ig1YQBµZ,	Z = A, B,	(26)
+D K =  ∂ + ig YQ − Y  B −  i g Waτa K ,	(27)
+
+
+
+/
+DµK	= DµK 
+
+K →K
+⋆ ,	DµA = DµK K	A
+Y →−Y
+,	DµB = DµK K	B
+Y →−Y
+.	(28)
+
+
+
+Table 1. The lightest (pseudo)scalar H-hadrons in Sp(2χc˜) model with two and three flavors of H-quarks (in the limit of vanishing mixings). The lower half of the table lists the states present only in the three-flavor version of the model containing the singlet H-quark S. T is the weak isospin. G˜ denotes hyper-G-parity of a state. B˜ is the H-baryon number. Qem is the electric charge (in units of the positron
+charge e = |e|). The H-quark charges are QU  = (YQ + 1)/2, QD  = (YQ − 1)/2, and QS  = YS,
+
+which is seen from (22).
+State	H-Quark Current	T G˜ (JPC )	B˜
+
+
+Qem
+
+
+/
+σ	Q¯ Q + S¯S	0+(0++)	0	0
+η	i (Q¯ γ5 Q + S¯γ5 S)	0+(0−+)	0	0
+ak	Q¯ τk Q	1−(0++)	0	±1, 0
+πk	iQ¯ γ5 τk Q	1−(0−+)	0	±1, 0
+Q¯ C εωQ	0  (0−  )	1	YQ
+iQ¯ C εωγ5 Q	0 (0+  )	1	YQ
+f	Q¯ Q − 2S¯S	0+(0++)	0	0
+η′	i (Q¯ γ5 Q − 2S¯γ5 S)	0+(0−+)	0	0
+K ⋆	S¯Q	1  (0+  )	0	YQ /2 − YS ± 1/2
+K	iS¯γ5 Q	1  (0−  )	0	YQ /2 − YS ± 1/2
+A	S¯C ωQ	1  (0−  )	1	YQ /2 + YS ± 1/2
+B	iS¯C ωγ5 Q	1  (0+  )	1	YQ /2 + YS ± 1/2
+/
+
+For simplicity, we consider only renormalizable interactions of the scalar fields—the Higgs boson and (pseudo)scalar H-hadrons. Therefore, the corresponding potential can be written as follows:
+
+
+4
+Uscalars = ∑ λi Ii +
+i=0
+3
+∑
+0=i≤k=0
+λik Ii Ik.	(29)
+
+Here, Ii, i = 0, 1, 2, 3, 4 are the lowest dimension invariants
+I = H †H ,	I = Tr M† M ,	I = Re Pf M,	I = Im Pf M,	I = Tr  M† M 2 ,	(30) where Pf M is the Pfaffian of M defined as
+
+Pf M =		1 222!
+
+εabcd
+
+Mab
+
+Mcd
+for nF
+= 2,	Pf M =	1
+233!
+
+εabcde f
+
+Mab
+
+Mcd
+
+Me f
+for nF
+= 3,	(31)
+
+with ε being the 2nF-dimensional Levi-Civita symbol (ε12...(2nF ) = +1). In the potential (29), λi2 = λi3 = 0 for all i if nF = 3; the invariant I3 is CP odd, i.e., λ3 = 0 as well as λi3 = 0 for i = 0, 1, 2. Besides we can always set λ22 = 0 because of the identity I2 − 4I2 − 4I2 − 2I4 = 0 that holds for
+nF = 2. (For nF = 3, the corresponding term is nonrenormalizable and, thus, not taken into account.) One can derive and solve tadpole equations and diagonalize the quadratic forms in the scalar potential to obtain the mass spectrum of the (pseudo)scalar H-hadrons (see [10]). Note that the term I0 I1 leads
+
+Universe 2020, 6, 196	8 of 30
+
+
+to a small mixing of the Higgs field and the singlet H-meson σ′ making the Higgs boson partially composite in this model.
+If the hypercharges of H-quarks are set to zero, the Lagrangian (8) is invariant under an additional symmetry—hyper G-parity [59,60]:
+
+QG˜
+= εωQC,	SG˜
+= ωSC.	(32)
+
+Since H-gluons and all SM fields are left intact by (32), the lightest G˜-odd H-hadron becomes stable. It happens to be the neutral H-pion π0.
+Besides, the numbers of doublet and singlet quarks are conserved in the model (8), because of two global U(1) symmetry groups of the Lagrangian. This makes two H-baryon states stable—the neutral singlet H-baryon B and the lightest state in doublet B, which carries a charge of ±1/2.
+Exotic States of New Colored Objects
+Fractons
+Mixed states with nontrivial electroweak and dark QCD charges (or vice versa, dark electroweak and ordinary QCD charges) can appear as fractionally charged colorless states (fractons), as first proposed in [61]. It should be noted that the term “fracton” has appeared later in condensed matter physics [62] defining the density of states on fractals. Here we use the original notion of fracton as fractionally charged colorless state.
+One can distinguish leptonic and hadronic X particles, forming correspondingly leptonic and hadronic fractons.
+Leptonic fractons are originated from a new lepton like state X-lepton with fractional electromagnetic charge and dark QCD color. Dark QCD confinement binds it with dark QCD quarks in a dark colorless state, which possess fractional electromagnetic charge. Created in early universe X-leptons and their antiparticles are bound with corresponding dark QCD quarks and antiquarks to form leptonic fractons. Similar to the case of free quarks, studied in [63], negatively charged fractons can be bound with ordinary positively charged nuclei in stars thus protecting positively charged fractons from their annihilation. As a result, the amount of primordial fractons cannot decrease and as it is the case that free quarks [63] exceed by several orders of magnitude experimental constraints in the search for fractionally charged particles in the terrestrial matter.
+Hadronic fractons appear when X-quarks, having dark electroweak and ordinary QCD charges bind with ordinary quarks in fractional charged colorless states. In baryon asymmetric universe X¯ antiquarks are bound with ordinary quarks u in fractionally charged stable meson X¯ u, while X-quark forms fractionally charged Xud baryon. If dark electromagnetic attraction can overcome ordinary electromagnetic repulsion, in the dense baryonic matter objects X-meson and X-baryon can recombine in charmonium-like X¯ X, decaying to ordinary particles, and reduce the abundance of fractons below the experimental upper limit.
+Fractionally Charged States in QCD-Like Models
+As it follows from the above, in the hypercolor SM extension with three doublets of additional H-quarks and in the case of zero hypercharges, the Lagrangian contains interacting field of hypermeson B, the lightest state in doublet, carrying fractional charges ±1/2. These new H-mesons contain singlet H-quark, s. The problem of such hyperparticle interpretation in SU(6) extension is aggravated by the fact that the model invariance with respect to two U(1) groups ensures of these objects stability (simultaneously with the one for neutral singlet H-baryon B). At the same time, very strict restrictions are imposed on the concentration of fractionally charged particles in the modern universe. It can be said that within the framework of this SU(6) scenario, such fractionally charged particles should either be created in some bound states (possibly, these are an analog of QCD tetraquarks), or effectively annihilated.
+
+Universe 2020, 6, 196	9 of 30
+
+
+To describe their arising as some bound states from the very beginning, it is reasonable to try to rewrite the Lagrangian model in such a manner that compound H-quark objects could interact with other fields. In other words, we should construct effective vertices for the H-tetraquark interactions with gauge bosons and other H-hadrons. Obviously, only electromagnetic interaction of these fractionally charged components cannot explain an appearance of such multi-H-quark states at the early stage of universe evolution. It means that, for this procedure, we need to analyze how hyperstrong interactions of H-quarks and H-gluons can work at very high temperatures and densities producing strongly connected systems instead of using effective σ-model construction. In other words, we need to consider at high energy scale some hyper-QCD with analogous problems of the bound-state description in the framework of effective Lagrangian approach, with an integration over some degrees of freedom or introducing of hyper-vacuum v.e.v.’s for the analysis of the bound states of H-quarks with sum rules method, for example. Then, we would come to consideration of hyper-tetraquarks as H-quark bags, repeating procedures and approaches of orthodox QCD at other scale. It means an investigation of the dynamics and magnitudes of H-quark and H-gluon vacuum condensates, providing an existence of H-quark “bags” with some mass, structure and specific interactions with fields of matter in a hot and dense universe. So, this mechanism of H-strong interaction as the basis for the explaining of neutral H-quark states formation should be carefully considered in detail.
+It can be, however, assumed that the symmetry breaking occurs and, correspondingly, fractionally charged objects appear at an early stage of evolution, apparently at the initial stage of inflation when their creation should be accompanied by a rapid transformation (annihilation) into “ordinary” stable neutral carriers of DM and fields of matter. Due to the presence of vertices describing their connection with W and Z-bosons in the σ-model framework, there is both the creation of (still massless) leptons and standard quarks, as well as the transition of fractionally charged particles into neutral components of the DM. Possible quick disappearing of charged stable particles in annihilation reactions can be suggested as an alternative way to save the scenario with U(1) accident symmetries.
+It also should be suggested, when the annihilation can be—before or after the hyper-QCD symmetry breaking? In other words, when all masses are zero or when already massive fractionally charged particles transform into the set of H-neutral mesons and ordinary quarks and leptons? Because these variants of high-energy sector of H-fields remains unstudied yet, the question whether some traces of the initial process exist in the modern observable universe, namely, creation and following transformation of fractionally charged stable particles does not have an exact answer.
+If we suppose that the process of intensive annihilation into neutral particles and/or states with integer charges takes place mostly through H-strong channels where H-quarks interact via H-gluons, it should be before these exotic H-mesons will scatter across the universe due to inflation. Early possible initial inhomogeneities in distribution of this type of matter should effectively transform into neutral stable objects of the orthodox DM, and in these regions of increased density (prototypes of clumps) also should be produced photons with energies ∼ MDM and streams of neutrinos and ordinary leptons and mesons. Perhaps inflation will keep some fingerprints of active processes of creation of photons and neutrino radiation from initial high density domains. However, the long evolution of the universe after inflation will inevitably try to hide the total and exact history of DM clumps’ origin accompanied with high energy photons and neutrinos.
+An important channel of B-mesons connection with the SM world follows from (23) and (24)—these fractionally charged exotic stable states have EW interactions with W-bosons and also interact with Z-bosons and photons. It means that they participate in the standard set of reactions with ordinary matter, i.e., they annihilate or produced with the EW cross sections ∼(102–104) pb.
+There is, however, some specific feature of the scenario—two B-states with the same fractional charges can annihilate into one charged W-boson, which decays into quarks or leptons conserving the charge. Assuming an existence of some initial asymmetry between these exotic states, it can be supposed that this is a source of the following asymmetry between standard quarks and, consequently, between baryons. Certainly, then we shift the baryon asymmetry origin to an early stage of evolution
+
+Universe 2020, 6, 196	10 of 30
+
+
+relating the symmetry breaking possibly with initial stage of inflation and processes of the hidden mass generation.
+Besides, these stable objects (as the other stable particles in H-color model), if they were to exist, can be produced at collider by decaying virtual vector bosons. These reactions should have small (electroweak) cross sections manifesting itself as events with large missed energy and/or in generation of hadronic jets with corresponding fractional charge associated with H-quarks.
+It can be concluded, in the hypercolor extension, as, probably, in any extension with additional (heavy) fermions, new types of stable particles may appear. They can arise as the QCD-like bound states of additional quarks (mesons, baryons or diquarks) or in the framework of the extended σ-model. Dynamics of these new objects is defined by the model gauge symmetry, but spectra of their masses and the scale of their manifestations are unclear in advance. An example is the appearance of fractionally charged stable objects when we extend the hypercolor symmetry from SU(4) to SU(6). The peculiarities of such scenarios need to be considered carefully by studying the burn out kinetics of these stable particles, scales of symmetry breaking induced by new types of vacuum condensates. The H-color symmetry allows to analyze specific features of these extended scenarios predicting the specific and measurable signals of new objects.
+Multiple Charged States in QCD and QCD-Like Models
+∆-like states of new stable heavy quarks Q are stable and bound much stronger than ordinary hadrons since their chromo-Coulomb binding energy α2mQ exceeds the energy of confinement Λ ∼ 300 MeV at mQ > 7.5 GeV for QCD running constant αc = 0.2 [64]. If such stable states are charged, they should avoid geochemical constraints on anomalous isotopes [10]. It was first noticed in [65] that this problem can be solved in the case of stable quark of the 4th family, if the U quark is the lightest and thus most stable quark in this family and the generation of baryon asymmetry simultaneously provides generation of excess of U¯ quarks. ∆−−-like (U¯ U¯ U¯ ) can be effectively hidden in nuclear interacting dark atom bound with primordial helium, as soon as it is formed in Big Bang Nucleosynthesis.
+Models with new nonabelian symmetry can predict much wider class of multiple charged stable particles. Such models can provide non-supersymmetric composite Higgs solution for the SM problems of divergent mass of Higgs boson and of the origin of the scale of electroweak symmetry breaking. This approach acquires special interest in the lack of positive results of the searches for supersymmetric particles at the LHC (see, e.g., [66] for review and references).
+The Walking TechniColor (WTC) model involves two techniquarks, U and D transforming under the adjoint representation of a SU(2) technicolor gauge group [67–71]. A neutral techniquark–antiquark state is associated with the Higgs boson. The accompanying prediction is the existence of bosonic technibaryons UU, UD, DD, and their antiparticles. Conservation of the technibaryon number TB leads to stability of the lightest technibaryon.
+Electric charges of UU, UD and DD are given in terms of an arbitrary real number q as q + 1, q, and q − 1, respectively [7,10,72]. Compensation of anomalies requires existence of technileptons ν′ and ζ with charges (1 − 3q)/2 and (−1 − 3q)/2, respectively. If technilepton number L′ is conserved the lightest technilepton is stable.
+In the early universe sphaleron transitions provide equilibrium relationship between TB, baryon number B, of lepton number L, and L′. Freezing out of these transitions results in a balance between the stable techniparticle excess and the observed baryon asymmetry of the universe [10,72,73]. Stable negatively charged techniparticles are bound in nuclear interacting dark atoms with primordial helium.
+In the case of q = 1, stable double charged techniparticles are possible [7,10,72,73].
+Another choice of parameter q results in a possibility of multiple −2n charged stable techniparticles for n > 1. Possible stable multiple charged techniparticles are marked bold in Table 2 [10].
+
+Universe 2020, 6, 196	11 of 30
+
+
+Table 2. List of possible integer charged techniparticles. Candidates for even charged constituents of dark atoms are marked bold [10].
+
+q	UU(q + 1)	UD(q)	DD(q − 1)	ν′ (
+1 − 3q
+/
+
+)	ζ(
+−1 − 3q
+)
+
+	2	2	
+1	2	1	0	−1	−2
+3	4	3	2	−4	−5
+5	6	5	4	−7	−8
+ 7	8	7	6	−10	−11	
+
+Strongly Interacting Dark Matter Candidates
+Stable Heavy Quark Hadrons
+New heavy quarks possess strong QCD-type interaction, so they can form at hadronization phase of evolution the coupled states—new heavy mesons, (qQ¯ ), and fermions, (qqQ), (qQQ), (QQQ). Classification and the main properties of these new hadrons were considered in [10] for the case of up, U, and down, D, type of new quark Q. As was noted earlier, the lightest neutral meson appears in the scenario with new quark of up type. In Table 3, we represent the main quantum characteristics and quark content of new heavy mesons and fermions which contain new quarks of up type, U.
+
+Table 3. Characteristics and quark content of new hadrons.
+
+JP	T	Isotopic Content	Quark Content
+/
+0−	1	M = (M0 M−)	M0 = U¯ u, M− = U¯ d
+1	2	++  +  0	++	+	0
+2	1	B1 = (B1	B1 B1 )	B1	= Uuu, B1 = Uud, B1 = Udd
+1	1	B2 = (B++ B+)	B++ = UUu, B+ = UUd
+2	2	2	2	2	2
+1	0	(B++)	B++ = UUU
+  2	3	3	
+
+In Table 3, the mesons M0 and baryons B+, B++, B++ are stable and the lightest of them, neutral
+1	2	3
+meson M0, can be proposed as the DM candidate. The evolution of these new heavy hadrons was briefly considered in Ref. [10], where the process of burning out of heavy baryons was analyzed. Here, we represent the main properties of new heavy mesons, M0 = (uU¯ ) and M− = (dU¯ ), which can lead
+to the characteristic signals of the hadronic dark matter.
+We have determined the mass of new mesons from the data on DM relic density with the help of the following equality:
+(σ(M)vr)Mod = (σvr)Exp.	(33)
+In Equation (33), the left part of equality is the model value of annihilation cross section and the right part follows from the data on the modern relic concentration of DM, (σvr)Exp = 2 × 10−9 GeV−2. To calculate the model cross section σ(M), which is a function of the mass M of meson, we take into account the fact that the freezing-out temperature Tf reez ≈ M/30 for the case of heavy DM particles is much greater than the temperature of QCD phase transition, TQCD ≈ 0.15 GeV. So, there are no coupled hadron states at freezing-out stage and the dynamics of this stage is defined by the process of annihilation of new quark-antiquark pairs, QQ¯ → gg, qq¯, where g is a gluon and q is a standard quark. The total cross section of these strong channels of annihilation was calculated in the limit of massless quarks in the final states and presented in Ref. [10]:
+44π α2
+(σ(M))Mod = σ(QQ¯ → gg, qq¯) ≈ 	s  .	(34)
+
+From the expression (34) and equality (33) the estimation of the new quarks mass follows, M = 10 TeV, which defines mass scale of new hadrons. Electroweak channels of annihilation, QQ¯ → γγ, ZZ, W+W−, give small contribution into the total value of the annihilation cross section. It is
+
+Universe 2020, 6, 196	12 of 30
+
+
+known that the Sommerfeld–Gamov–Sakharov (SGS) enhancement effect can significantly modify the value of a cross section. Such enhancement takes place at hadronization stage of evolution, when SGS effect is caused by the light meson exchange [10]. At quark-gluon stage this effect can be caused by γ and Z-boson exchange only. As was shown by numerical calculations [74], in this case the coefficient of enhancement is of the order of unity, i.e., the effect is small.
+The value of mass-splitting in the doublet of neutral, M0 = (uU¯ ), and charged, M− = (dU¯ ), new
+heavy mesons plays an important role in HaDM description. We define the value of mass-splitting as follows:
+∆m = m(M−) − m(M0).	(35)
+In the case of standard heavy-light mesons the value ∆m is of the order of MeV, besides this value is positive for the case of D-meson (up type heavy quark) and negative for the case of K- and B-mesons (down type of heavy quark). New heavy mesons M0 and M− are just the case of heavy-light meson, mQ ≫ mq. From the heavy quark symmetry, a direct analogy with standard heavy-light mesons follows, so, in the case under consideration, we can assume that ∆m is positive and ∆m ∼ MeV. Moreover, the condition of instability of the charged meson M− leads to inequality ∆m > me, where me is the mass of electron. So, the charged partner of neutral DM particle has a unique decay channel with very small phase space in a final state, M− → M0e−ν¯e. The expression for the width of the charged meson is as follows [10]:
+
+
+—	G2
+
+2	5	5
+
+Γ(M
+) = 	F  U	(∆m
+60π3
+— me ),	(36)
+
+where Uud is the element of CKM matrix, which defines the charged transition d → uW. From the expression (36) one can see that at ∆m → me, the value of width Γ(M−) → 0, i.e., the lifetime can be arbitrary large. For instance, at ∆m ∼ 1 MeV the lifetime τ ∼ 105 s. Thus, in the scenario with hadronic DM, new neutral meson M0, as a DM candidate, has charged metastable partner with the same mass, which should be taken into account in the process of co-annihilation. New heavy charged meson appears in the process of collision of DM with ordinary matter, namely with leptons or nucleons. The cross sections of these processes were calculated in Ref. [75], where the main signals of hadronic DM manifestation are considered.
+One more principal feature of hadronic DM scenario is the effect of hyperfine splitting of excited states of new heavy hadrons. First of all, we should note that, in contrast to fine splitting, which is caused by change of quark content (d → u) and has the value of the order of MeV, hyperfine splitting takes place for the states with the same quark content and has much smaller value (of the order of KeV). Further, we describe the effect of hyperfine splitting of ground and excited states, δMq = m(Mq∗) −
+m(Mq), where Mq∗ is an excited state of heavy meson M. Here, we consider the simplest case of the
+lowest excited states of the new mesons Mq = (qU¯ ). In a direct analogy with the standard heavy-light
+(HL) mesons, Dq = (cq) and Bq = (b¯ q), we define the ground and excited states in the terms S1 and S1
+0	1
+(the classification with quantum numbers L2s+1), or 1 (0−) and 1 (1+) (the classification I(JP)). Here,
+J	2	2
+L, s, J, I and P = (−1)1+L are orbital momentum, spin, total momentum of the system, isospin and parity. We designate the ground states 1 (0−) of the HL mesons as Dq, Bq and Mq, while the excited states—as Dq∗, Bq∗ and Mq∗. We evaluate the mass-splitting between the excited and ground states, Mq∗ and Mq, in analogy with standard splitting mechanism. This possibility is provided by the heavy quark symmetry which is the basic assumption of heavy quark effective theory (HQET). Heavy quark symmetry leads to the relations between the masses of excited states of B and D mesons [76]:
+m(B ) − m(B ) ≈ mc (m(D ) − m(D )),	(37)
+2	1	mb	2	1
+
+Universe 2020, 6, 196	13 of 30
+
+
+where m(Bk ) and m(Dk ) are masses of Bk and Dk, mc and mb are masses of constituent quarks. This expression successfully describes the relation of splitting between the lowest excited 1 (1−) and
+ground states 1 (0−) of B and D mesons:
+
+
+m(B∗) − m(B)
+
+/
+m(D∗) − m(D)
+mc
+≈ m −→ 0.32 ≈ 0.32 (0.28).	(38)
+
+In (38), we used m(B∗) − m(B) = 45 MeV and m(D∗) − m(D) = 142 MeV (see [20]), mc = 1.55 GeV and mb = 4.88 GeV [76]. The value of the relation in parentheses, (0.28), follows from the data mc = 1.32 GeV and Mb = 4.74 GeV [77]. In order to evaluate the mass-splitting in the doublet of new mesons Mq = (qU¯ ), we used the relation (37) and took into consideration the equality m(U) ≈ m(Mq) = M. Using the value of mass M = 10 TeV, we get:
+δm(M) = m(M∗) − m(M) ≈ mb −→ δm(M) ≈ δm(B) mb ≈ 2 KeV.	(39)
+/
+δm(B)	m(B∗) − m(B)	M	M
+Thus, we get very small mass-splitting (hyperfine splitting) δm, which is much less than the fine splitting, δm ≪ ∆m. This effect follows from the HQFT prediction and is caused by very large mass of new hadrons, i.e., the hyperfine splitting is a specific property of hadronic DM.
+The excited state of hadronic DM particles can manifest itself in the processes of interaction of neutral meson M0 with radiation. Transition to the first excited state of the meson M0 = (uU¯ ) can be realized through the absorption of photons in KeV range which corresponds to the wavelength λ ∼ 10−9 cm. If we assume that the meson M0 = (uU¯ ) has the size of the order of nucleon radius, RM ∼ 10−13 cm, then RM ≪ λtrans and interaction of M0 with photons is described by the higher terms of multipole expansion of the charge distribution in the composite system (uU¯ ). So, the cross section of γM0 scattering is small and these mesons can be interpreted as dark matter particles. At λtrans ≪ RM, i.e., Eγ ≫ 10 MeV, the cross section of interaction γM0 becomes large and dark matter becomes not
+absolutely “dark”.
+Low-energy interaction of new heavy hadrons with the standard leptons is described in spectator approach by the effective Lagrangian of WMM interaction in the differential form [75]:
+Le f f (WMM) = iGWMUikW+µ(M¯ ui∂µ Mdk − ∂µ M¯ ui Mdk ) + h.c.,	(40) where ui = u, c, t; dk = d, s, b; U√ik /is corresponding element of CKM matrix, Mui = (uiU¯ ),
+Mdk = (dkU¯ ), and GWM = gUud /2  2. The value of effective coupling constant GWM is equal to
+the fundamental constant in W-boson interaction with quark. Thus, the spectator approach, which
+directly follows from the structure of process at the fundamental (quark) level, is valid for the case of low-energy interactions.
+The structure of low-energy Lagrangian of Z-boson interaction Le f f (ZMM) can be represented in analogy with Le f f (WMM) by the simplest differential expression with regard to the preservation of flavor (qi → qi). In contrast to (40), effective coupling GZM is caused by interactions of Z with quarks Q and q. So, in this case, we meet the problem of an effective coupling definition.
+Inelastic scattering of the low-energy leptons on the new heavy M particles is defined by the t-channel diagram with W-boson in the intermediate state. In the limit of zero lepton mass and mass-splitting ∆M we get the cross section in the form:
+
+
+
+—	0	−
+3g4|Uud |2
+M2 2
+
+σ(l
+M → νl M
+) =
+210π M4
+s(1 −
+) ,	(41)
+s
+
+where √s is full energy in the CMS. In the non-relativistic case, expression (41) can be represented in the form:
+
+σ(l− M0
+→ νl M−) =
+3G2 |Uud |2
+/
+8π
+(El + W)2,	(42)
+
+Universe 2020, 6, 196	14 of 30
+
+
+where El is the energy of lepton and W = Mv2/2 is kinetic energy of the non-relativistic M-particle. The process of lepton scattering on M0 taking into account final states is as follows: l− M0 → νl M− → νl M0e−ν¯e. So, in this process, the neutrino with energy Eν ∼ El appears together with e−ν¯e-pair (with total energy E ∼ δM). For the cross section of the process νl M0 → l− M+ we get the same expression due to neglecting lepton mass in Equation (41).
+Heavy hadronic DM particles at the modern stage of evolution are non-relativistic, they have an average velocity ∼10−3 with respect to the galaxy. From the kinematics of the heavy DM particles and nucleon collisions it follows (see Ref. [10]) that low-energy interaction can be described by the effective meson-exchange approach. The nucleon-meson interaction was considered in [78] on the basis of the gauge scheme realization of symmetry U(1) × SU(3). This scheme was developed and applied to the interaction of new heavy mesons with ordinary vector mesons [16,79]. The part of physical Lagrangian which describes the interaction of nucleons and M-mesons with ordinary vector mesons consists of two terms:
+LNMV = LNV + LMV.	(43)
+In Equation (43) the first term describes interaction of nucleon with usual mesons:
+L	= gωωµ(p¯γµ p + n¯ γµn) + 1 gρ0 (p¯γµ p − n¯ γµn)
+NV	2	µ
+1	+	µ	1	−	µ
++ √2 gρµ p¯γ n + √2 gρµ n¯ γ p,	(44)
+where gω = √3g/2 sin θ, g2/4π ≈ 3.4 and sin θ ≈ 0.78.
+The second term in Equation (43) describes the interaction of M particles with ordinary vector mesons:
+LMV = iGωMωµ(M¯ 0 M0 − M¯ 0 M0 + M+ M− − M+ M−)
++ ig ρ0 (M¯ 0 M0 − M¯ 0 M0 + M+ M− − M+ M−)
+
+2  µ
+ig  +µ
+,µ	,µ
+¯ 0	−	¯ 0
+,µ	,µ
+—	ig  −µ	+	0	+	0
+
++ √2 ρ	(M M,µ − M,µ M  ) + √2 ρ	(M M,µ − M,µ M ).	(45)
+In Equation (45), the coupling constant GωM = gω/3. In Ref. [10], it was shown that scalar mesons give very small contribution into NM interaction and we omit it here. Note, the interactions of new mesons with ordinary pseudoscalar mesons (for instance, π-mesons) are absent due to parity conservation. This is an important property which differs new heavy hadrons from the nucleons.
+Low-energy scattering of nucleons on new mesons is described by t-channel diagrams with ordinary vector and scalar mesons in the intermediate

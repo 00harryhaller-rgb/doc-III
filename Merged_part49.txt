@@ -1,0 +1,2356 @@
+perturbation δ̺(t):
+f± ∼
+17 γ
+;	(33)
+
+y 6	2
+
+1 3
+
+261  Page 6 of 14	Eur. Phys. J. C (2024) 84:261
+
+a(t) → a∞, a˙, a¨ → 0. Therefore the perturbation equation
+(25) becomes simply
+
+
+3  ¨	2 2
+
+4−3γ
+3c2a∞
+
+a∞δ̺ +
+k v0 a∞	− 2(1 − a
+)r 2μ2
+δ̺ = 0,	(36)
+
+and the solution is a simple sum of two exponential functions:
+δ̺(t) = B+e+λt + B−e−λt ,	(37)
+
+/	,	3c2
+
+2 2 1−3γ
+
+λ
+2(1 − a∞
+)a2 r 2μ2 − k v0 a∞	;	(38)
+∞ 0
+
+
+
+Fig. 2 The asymptotic behaviour of the density contrast δ̺/ρ for dif-ferent values of the polytropic index in the standard singular case:
+≤ γ < 4 (blue dot-dashed line), γ = 4 (purple dashed line),
+therefore the behaviour of perturbations depends entirely on the sign of the quantity in the square root. First of all, we can compute the value of v0 (corresponding to the speed of sound at the start of the collapse) using a quasi-static approximation:
+
+4 < γ < 5 (black dotted line), γ = 5 (red continuous line). The
+GM2
+
+parameters have been chosen to have as initial value δ̺/ρ ≈ 10−1
+
+remembering that in the asymptotic regime we have
+2	+ 4πr0 P0 = 0,	(39)
+/
+where P0 is the pressure at the start of the collapse, thus obtaining
+
+ρ ∝ a−3 ∝ y−2, the density contrast δ̺/ρ will behave in
+the following ways:
+v2 = κγργ −1 = γ  P0 = γ
+GM 
+;	(40)
+
+δ̺	1	4
+0	0	ρ0
+3  r0
+
+ρ ∝ y	for	1 ≤ γ < 
+,	(34a)
+then, from the expression of a∞ we can rewrite the value of
+λ as
+
+δ̺	1	4
+
+ρ ∝ y 13
+for	γ = 3 ,	(34b)
+, 3GM  
+γ  2  2
+4−3γ 
+
+/	cos (αy) 4 −γ 
+r0 a∞
+
+ρ ∝	5  γ
+for
+/ < γ < / ,	(34c)
+3	3
+Now, when λ = 0, we obtain a pivot scale k0 of the form
+
+y 6  2	/ ,
+
+δ̺
+ρ ∝ cos
+  1 
+1
+(αy) 3
+for	γ =
+5
+.	(34d)
+3
+3
+k0 = r
+a3γ −4
+∞
+/
+γ
+(42)
+
+such that we can rewrite λ as
+Therefore we conclude that, except for the last case where the		
+
+frequency of oscillations increases but the amplitude remains
+
+/
+
+/
+
+, 3GM	k2 
+
+/	/
+/	/
+
+
+behaviour of δ̺/ρ for different values of γ is depicted in
+Fig. 2.
+
+The modified non-singular case
+In the modified model, the expressions for the derivatives of a are different:
+Therefore, for k < k0, we have λ2 > 0 so δ̺ and δ̺/ρ diverge while, for k > k0, λ2 < 0 so δ̺ oscillates with con-stant amplitude and the density contrast δ̺/ρ is ultimately damped to zero. This translates to a Jeans-like length scale ℓ0 = 2π/k0 of the form
+
+2πr0	 γ	
+ℓ =	,	(44)
+
+,		3
+a3γ −4
+
+
+3
+0
+ GM  
+
+/
+
+
+/
+a	μ	a
+1 − a 
+
+/
+
+
+
+1 − a 
+
+/
+
+above which a perturbation diverges and the fragmentation process is initiated while below it the perturbation is damped
+
+/
+
+so the differential equation for the amplitude δ̺ of the per-turbations is more complicated; however, we are aided by the fact that the asymptotic behaviour at lowest order is just
+behaviours depending only on the initial scale of the pertur-bation. However, for some values of γ it turns out that the scale ℓ0 is bigger than the initial radius of the cloud, so all
+
+1 3
+
+Eur. Phys. J. C (2024) 84:261	Page 7 of 14  261
+
+where T = T (t, r) and R = R(t, r) are the external variables as functions of the internal t , r ; then, by requiring spheri-cal symmetry and homogeneity and implementing matching conditions on the surface r0, it finds the equations that the internal metric must satisfy and computes the collapse time as seen from a comoving observer. The internal metric results to be that of a closed FLRW model [39]:
+
+
+ds2
+
+= c dt
+
+a (t)
+dr 2
+− Kr 2
+
+
+
+/
+
+Fig. 3 The Jeans-like length scale ℓ0 as function of the deformation parameter μ for different values of γ in the modified non-singular model. From top to bottom: γ = 5 (thick purple dashed line), γ = 4
+(continuous blue line) for which ℓ0 is constant, γ = γ1 (thin red dashed
+line) that crosses the point (1, 1), and γ = 1 (black dot-dashed line); the faded gray lines correspond to ℓ0 = r0 and μ = 1
+
+perturbations will disappear. Figure 3 shows the length scale ℓ0 as function of the deformation parameter μ for different values of γ (the other parameters are again those of our Sun): we see that in order to have ℓ0 < r0 and allow the fragmen-tation process, we must first of all have γ < 4/3 since, for γ = 4/3, ℓ0 does not depend on a∞ (and therefore on μ)
++r 2dθ 2 + r 2 sin2(θ)dϕ2  ,	(46)
+where a(t) is the scale factor and K > 0 is the positive spatial curvature; while in the actual FLRW model the latter can always be set to ±1 by rescaling the variables, here it can be linked to the initial parameters of the cloud both through physical arguments [60] and through a comparison of the solutions, as we will see shortly.
+To obtain the Hamiltonian formulation for the OS model one starts with the ADM-reduced action S for spheri-cally symmetric spacetimes [61–63] filled with Brown-Kucharˇ dust [64]; then, by implementing matching condi-tions between the Schwarzschild (45) and the FLRW (46) metrics and performing a partial symmetry reduction, the Hamiltonian gets split in three different contributions:
+S = ∫ dt ( p a˙ + P τ˙ − N H − M T˙ )
+
+and is a constant already greater than r0; this upper limit is
+further reduced by the condition r∞ ≫ rS, and therefore we
+a	τ	+ +
+∫	∫ ∞
+(47)
+
+must have 1 ≤ γ < γ1 < 4/3, where γ1 is such that ℓ0 = r0
+at a the value of μ for which r∞ = rS.
+dt
+r0
+dr(PR R˙ + PL L˙ − N 0H0 − Nr Hr ),
+
+H	P2 L	PR PL
+R′2 + 2 RR′′
+L′ RR′	L
+
+Relativistic gravitational collapse
+0 = 2 R2 −	R	+
+2L	−
+L2	− 2 ,
+(48a)
+
+In this section we study the collapse from a general rela-
+Hr = PR R′ − PL′ L,	(48b)
+
+tivistic point of view. Therefore the starting point will be the
+Oppenheimer–Snyder collapse model [37,59], for which we
+H	 χ	p2
+= −	−
+3VS
+
+/
+Kc2a + Pτ ,	(48c)
+
+will present the Hamiltonian formulation and then implement on it the modified algebra (4).
+
+The Oppenheimer–Snyder model and its Hamiltonian formulation
+
+The Oppenheimer–Snyder (OS) model is the simplest and most widely known model of gravitational collapse. Its importance lies in highlighting the need to consider two dif-ferent observers, one stationary outside the collapsing matter and one comoving with it. The original paper [37] starts from the outside Schwarzschild metric in the standard form
+r 	d R2
+
+/
+
+/
+
+6VS a	2χ
+where τ is dust proper time, a is the scale factor for the internal metric, L and R are the functions appearing in the spherically symmetric external metric (and can be found by comparison with (45)), N , N 0 and Nr are Lagrange multipli-
+ers, the Pi are the momenta conjugate to their respective vari-ables, M+T˙+ is a boundary term containing the ADM mass and the Schwarzschild-Killing time at asymptotic infinity,
+H0 and Hr are the super-Hamiltonian and super-momentum for the exterior of the dust cloud, and H is the Hamiltonian for the interior.
+We are interested of course in the internal Hamiltonian (48c): it contains the scale factor a, its conjugate momen-
+
+/
+
+−R dθ − R sin (θ)dϕ ,	(45)
+the cloud, Einstein’s constant χ = 8π G/c2 and the internal
+
+1 3
+
+261  Page 8 of 14	Eur. Phys. J. C (2024) 84:261
+
+volume VS of the sphere given by	of the cloud:
+
+∫ r0
+4π r 2
+,a(1 − a) + acos√a = √K c t,	(55)
+
+VS =
+dr √1 − Kr 2
+2GM	rS
+
+0
+ 4π
+ 	
+asin(r0  K )
+,	 
+K = c2r 3  =
+3	(56)
+0
+
+= 2K
+√K	− r0
+1 − Kr0
+.	(49)
+this is the same identification found from physical argu-ments in [60], where the authors find a link between the
+
+Had we started directly from the FLRW model we would
+have obtained a very similar Hamiltonian, with a (constant in the case of pressureless dust) energy density term instead of the (still constant) Pτ .
+
+/
+Schwarschild and the FLRW metrics. With this identifica-tion we can also rewrite the expression of VS as
+2π r 3	√	,
+
+/
+
+
+a
+L		2 ,	R = ar0;	(50) 1 − Kr0
+then, by studying the dynamics of a in the interval 0 < a ≤ 1, the FLRW metric describes the interior of the dust cloud from the point of view of a comoving observer. After deriving the solution it will be sufficient to multiply the comoving scale factor a by the initial radius r0 to obtain the dynamics of the physical radius of the cloud; this is similar the usual FLRW description where, even though the scale factor is defined
+where we have again defined aS = rS/r0.
+The solution is shown later in Fig. 4, compared with the
+modified solution which we will now derive.
+
+Non-singular relativistic collapse
+
+To find the modified dynamics, we again start from the same Hamiltonian (48c) but use the modified algebra (4). The new equations of motion then are
+
+only up to a constant, its value today is taken to be a
+= 1 in
+ χ   pa 
+
+/ /
+μ2 p2 
+/	/
+
+we will keep the scale factor as physical in order to keep the notation more compact, and only reintroduce the initial radius
+p˙a =
+ χ 
+6VS
+p2
+a2 +
+3Kc2VS
+
+/
+2χ
+2 2
+1 −  ℏ2
+,	(58b)
+
+r0 if needed for numerical purposes. For more information on the derivation of the action and the Hamiltonians see [65–68].
+Focusing on the interior Hamiltonian, the equations of motion are
+where pa has the dimensions of an action so we introduced a Planck constant to still have μ dimensionless; dividing the second equation by the first we obtain the same relation (53), so the final differential equation for a(t) becomes
+
+χ
+a˙ = − 3V
+pa ,	(51a)
+a
+,	1 − a 
+
+p˙a = −	  a +
+;	(51b)
+
+6VS a2	2χ
+where we defined gμ = K(3μcVS/ℏχ)2. Already from here
+
+similarly to the non-relativistic case, it is useful to compute p˙a/a˙ in order to have an easily solvable differential equation
+we see that there is still a critical point, but its expression is
+different from the Newtonian case:
+
+for pa(a):
+∂ pa	pa	9
+Kc2V 2 a
+1 − g (1 − a )a	= 0,  a	= 1 ± 1 ,1 −  4 
+.	(60)
+
+∂a = 2a − 2	χ2
+,	(52)
+pa
+First of all we see that, in order for a∞ to be real we must have
+
+p (a) = 3cVS ,a(1 − a)K ,	(53)
+gμ ≥ 4, otherwise we will still have the collapse a → 0, and
+/
+
+
+where we used the standard initial conditions a = 1 and pa = 0 at t = 0. Substituting this in Eq. (51a), we obtain the same differential equation (9) of the standard case, but with
+a different constant:
+μ as we will see later; secondly, when that condition is sat-
+isfied, we will always have a∞ ≥ 1/2 (the solution with the minus sign will never be reached in this model, but only by starting below it with a positive derivative). Now, imposing
+
+a˙ = −,
+
+K c2
+ − a a
+
+;	(54)
+the condition a∞ ≫ aS, we obtain the following lower limits
+for μ:
+
+therefore we already know the solution and furthermore we
+
+/
+8πℏ  rSr 3	2ℏ
+μ ≫	=	√
+for	r
+< r0 ,	(61a)
+
+can identify the curvature as function of the initial parameters
+
+1 3
+
+/
+3cMVS
+S	/
+cρ0VS  K	2
+
+Eur. Phys. J. C (2024) 84:261	Page 9 of 14  261
+
+Relativistic perturbations
+
+We will now study the behaviour of density perturbations in the relativistic setting. We will mainly follow [41], mean-ing that we will study linear perturbations of the Einstein equations.
+First of all it is convenient to rewrite the FLRW metric in an easier form, introducing conformal time η and the new variable X defined as
+dt
+
+dη =
+/,	(64)
+a
+
+
+/
+
+Fig. 4 Comparison between the classical relativistic collapse (dashed black line) and the modified non-singular evolution (red continuous
+
+dX 2 =
+dr 2
+
+/
+1 − Kr 2
+
+,	X =
+asin(√K r)
+ 	
+K
+
+,	(65)
+
+line) for generic values of the parameters; the collapse time t0 and the minimum value a∞ are highlighted by faded grey lines; it is evident how a∞ > 1/2
+
+
+5
+4πℏr 2
+where the expression of X as function of r is valid for K > 0;
+this way, the FLRW metric inside of the cloud rewrites as
+
+ds2 = a2(η) c2dη2 − dX 2 − r 2 dθ 2 − r 2 sin2(θ) dϕ2 ,
+(66)
+√	
+
+μ ≫	√
+sin(  K X)
+
+3cMVS
+r0   rS
+ℏ√K	r0
+r = r(X) =
+		.	(67)
+K
+
+= cρ0VS√aS(1 − aS
+for	rS >
+)
+2 ;	(61b)
+Small perturbations are described by changes in the metric tensor, in the four-velocity and in the scalar den-
+sity, parametrized as g jk = g jk + δgjk, u j = u j + δu j and
+
+note that when rS < r0/2, we already have a∞ > aS by con-
+struction; indeed, the constraint (61a) actually corresponds
+to the reality condition gμ > 4. When we insert the parame-ters of our Sun the two conditions yield the following lower limits for the parameter μ:
+ρ  ρ δρ. Without loss of generality we can impose the syn-chronous gauge, thus setting δg00  δg0α  0 (latin indices go from 0 to 3, while greek indices refer to the spatial part and therefore go from 1 to 3). If the unperturbed system is comoving, we can set uα  0 and u0  1/a, and then from the unitarity of the four-velocity we obtain δu0 0. Pertur-bations of the metric tensor imply perturbations of the Ricci
+
+μ ≫ 10−84 for rS
+< r0 ,	(62a)
+2
+r0
+tensor R k and of the Ricci scalar R of the form
+
+μ ≫ 2.5 × 10−82 for rS >
+.	(62b)
+β	 1  
+γ ;β
+β	;γ
+β;γ
+;β 
+
+2	δ Rα = 2a2
+1
+δgα	;γ + δg γ ;α
+— δgα	;γ − δg
+
+These small values are due to gμ being a very large number.
++ c2a2
+(68a)
+
+We can safely assume that the asymptotic radius of the cloud
+×  1 δg β ′′ + a′ δg β ′ + a′ δg′ δ β − 2Kc2δg β  ,
+
+μ /= 0.
+δ R0 =  1   δg′′ + a′ δg′  ,	(68b)
+
+only in implicit form:
+δ R0 =  1   δg′  − δgβ ′  ,	(68c)
+
+√8 atan ,
+
+  1−a
+√8 atan ,
+
+2  1−a
+1
+δ R = a2
+γ ;α
+α	;γ
+
+δg ;α
+;α
+
+	d−  a	
+,
+	d+  a	
+—	,
+= √K c t,
+
+/
+
+
+ 1 	′′
+a′	′
+2Kc2
+
+/
+
+
+
+/
+where we defined d± = 2 − gμ ± gμ(gμ − 4) to shorten the notation. The solution is presented in Fig. 4, compared with the unmodified relativistic evolution (55).
+where δg is the trace of the metric perturbations, δ β is Kro-necker’s delta, a semicolon indicates a covariant derivative and a prime a derivative after η. On the other hand, we can write the perturbed components of the Energy–Momentum
+
+1 3
+
+261  Page 10 of 14	Eur. Phys. J. C (2024) 84:261
+
+
+
+tensor Tjk as
+δTjk = (P + c2ρ)(u j δuk + ukδu j )
++(δ P + c δρ)u j u + δ j δ P,	(69a) d P δT 0
+From here on we will drop the superscript n to avoid clut-tering the notation. All hyperspherical harmonics are scalar eigenfunctions of the Laplacian operator on the surface of a hypersphere with unit radius, and therefore they satisfy the relation
+
+δTαβ = −δ β 	   0  ,	(69b)	;α	2
+
+α  dρ	c2
+Q;α = −(n − 1)Q.	(76)
+
+δT0α = −a(P + ρc2)δuα,	(69c)
+δT00 = −c2δρ,	(69d)
+where we have made use of the relation δ P = (dP/dρ)δρ. In the linear approximation, the perturbations satisfy the equa-tion
+δ R k − 1 δ k δ R = χ δT k,	(70)
+Here the order n of the harmonics is an integer, and will play a similar role to the wave number k of the non-relativistic perturbations; it can be roughly interpreted as “the number of wavelengths that fit inside the radius of the sphere” i.e. as the ratio of the radius of the sphere to the length scale of a given perturbation. Note that there exist also vector and tensor hyperspherical harmonics, but they are not needed to
+
+
+/
+j	2  j
+
+/
+c2	j
+study density perturbations.
+Now, from the scalar harmonics Q it is possible to con-
+
+which yields the following equations for the perturbations of
+the metric:
+struct the following tensors and vectors with the following symmetries:
+
+ δg γ ;β
++ δg γ ;α
+;γ − δg β;γ
+δg ;β
+;α
+β
+β	α	α
+
+ 
+β ′′
+a′	β ′
+β 
+(71a)
+Qα = 3 Q,	Qα = Q,	(77a)
+
++ c2
+δgα
++ 2 a δgα
+ 
+— K c δgα
+ ′
+=  0,
+Z  =  Q;α  ,	Z ;α = −Q,	(77b)
+
+;γ
+γ	;δ	c2	a
+(71b)
+Q ;β
+
+3 d P 1
+
+/	/
+δ;γ
+;γ	a′	′	2
+/
+Z β = 	;α  + Q β,	Z α = 0.	(77c)
+
+Putting everything together, the final equation for the density perturbations turns out to be
+χ c2δρ =  1   δg β;α	− δg ;α + 2a′ δg′ − 2K δg .
+Then we can define
+δg β = Λ(η) Z β + Ω(η) Q β, δg = Ω Q,	(78) so that the whole spatial evolution is contained within the
+
+/	/
+
+
+(72)
+For more details on the derivation of these expressions, see [41].
+as the positively-curved FLRW model can be expanded in four-dimensional spherical harmonics (similarly to the expansion in three-dimensional spherical harmonics per-
+amplitude is just given by the two functions Λ and Ω; now
+the equation for the density perturbations becomes
+χ c2δρ =  Q   K c2(n2 − 4)(Λ + Ω) + 3 a′ Ω′  .	(79)
+Inserting expression (78) into equations (71), we obtain two differential equations for the two functions Λ and Ω:
+
+formed in the non relativistic case in Sect. 4). The scalar hyperspherical harmonics Qn can be expressed as [69];
+Λ′′ + 2 a′ Λ′ −
+K c2	2
+(n − 1)(Λ + Ω) = 0,	(80a)
+
+
+n−1	l
+Ω′′ +  2 +  3 d P  a′ Ω′
+
+Qn = Σ Σ
+n Ylm
+(θ, ϕ) Πnl
+(X),	(73)
+
+K c2
+/
+c dρ	a
+	3  d
+(80b)
+
+l=0 m=−l
+√	
+l+1	√
+l+1
++	(n2 − 4)(Λ + Ω)
+1 + c2 d P ρ
+= 0.
+
+Π  = sin (
+d
+K X)
+cos(n
+K X)
+,	(74)
+
+nl	d cos(√K X)
+where l can only go from 0 to n − 1, An are constant coeffi-cients and Ylm are the standard three-dimensional spherical harmonics. As an example, the most symmetric hyperspher-ical harmonics with l = 0 take the form
+sin(n √K X)
+Qn	.	(75)
+sin(  K X)
+Note that in the relativistic context we cannot use the poly-tropic relation because it is not a solution of the relativistic continuity equation; in this case we will make an isothermal assumption and leave the speed of sound v2 = dP/dρ as a free constant parameter.
+It is important to consider that only harmonics with n > 2 correspond to physical perturbations. For n 1, 2 the tensor Z β cannot be constructed, and therefore it is necessary to
+
+1 3
+
+Eur. Phys. J. C (2024) 84:261	Page 11 of 14  261
+
+
+put Λ = 0; then we are left with just a second-order equation
+ζ ′ +  1 +  3  d P  a′ ζ + ξ  −2√K c (n2 − 1)+
+
+for Ω. When n = 2 both solutions for Ω can be ruled out by a transformation of the coordinates. When n = 1 only
+2c2
+  3	 a′′
+dρ
+2a′ 2
+a
+ 3  a′ 2 d P 
+(84b)
+
+one of the two solutions can be ruled out by such a transfor-
+mation; the second solution corresponds to a perturbation in the entire mass of the cloud, but space remains fully uniform
++√K c	a −
+a2  + 2c2  a2  dρ
+= 0.
+
+and isotropic. Thus only n > 2 correspond to real physical perturbations of the metric. For more details, see [41].
+Now we only need to insert the solutions for the scale
+Now we have to perform asymptotic expansions; in par-
+ticular, close to the singularity, the scale factor (81) behaves as
+
+factor a in the two cases; however we first have to express
+
+/
+
+
+asymp
+ π  2 
+
+
+ η  2	 π	
+
+
+
+Classical Oppenheimer–Snyder Perturbations
+
+In order to find the expression for a(η), we go back to Eq. (54) and substitute dt = a dη, thus obtaining a differential equa-
+where we have defined the time of singularity η0. Then, inserting everything in Eq. (84) and introducing the velocity parameter β = vs/c < 1, we obtain the following differen-tial equations for ξ and ζ :
+
+tion in η that is easily solved:
+
+  √	
+dξ
+dx +
+2	3β2
+x	ξ −
+ 	
+K c β
+η0 ζ = 0,	(86a)
+
+a′ = −,K c2 (1 − a) a ,  a(η) = cos2
+K c η
+.	(81)
+dζ	2 + 3β2
+18(1 − β2)
+
+dx +
+x	ζ + √K c η2 x 2 ξ = 0,	(86b)
+
+Now, Eq. (80) have two particular integrals that corre-spond to those fictitious change in the metric that can be ruled
+where we defined x = 1 − η/η0; the solutions are
+
+out by a transformation of the reference system; nevertheless, they are useful to lower the order of the two equations. The
+particular integrals are
+
+ξ(x) =
+D− x − 2 + D+
+x +3β2
+x + 2
+,	(87a)
+
+√K c η0 D−
+σ 
+(σ + 1)x − 2 − D+(σ − 1)x +
+
+Λ1 = −Ω1 = const. ,	(82a)
+ζ(x) =
+2	3 +3β2	,	(87b)
+
+√
+2 =− 
+K c (n2 − 1)
+dη
+,	(82b)
+a
+σ = ,
+36(1 − β )x 2
+
+/
+72β4 − 72β2 + 1 ,	(87c)
+
+Ω = √K c (n2 − 1) ∫  dη − √ 3a′
+.	(82c)
+where D± are integration constants. From these, we can
+
+a	K c a2
+obtain the expressions for Λ and Ω and therefore for δρ; remembering that ρ ∝ a−3 ∝ x −6, in the asymptotic limit
+
+At this point we can perform the following change of vari-
+ables:
+η → η0 corresponding to x → 0 we find the leading-term behaviour of the perturbations as
+
+Λ + Ω = (Λ
++ Ω )√K c ∫ ξ dη
+3a′ ∫ ξ dη,	(83a)	δρ	5	σ
+
+2	2
+′	′	√ 	′
+=− a2
+′ ∫	√  ζ
+x −( 2 +3β2+ 2 ).	(88)
+
+/
+ρ
+
+   a′′
+
+/
+/
+a′ 2 
+
+/
+/
+2K c2(n2 − 1) 
+/
+/
+Now, when σ > 0 this quantity diverges; on the other hand,
+
+
+
+∫ ξ dη + √K c ζ ;
+the amplitude is still divergent close to the singularity. For
+
+
+/
+a	thoroughness, note that σ 2 > 0 for β < 
+(6 − √34)/3 /2
+
+this way we obtain two coupled first-order differential equa-tions for the new unknown functions ξ and ζ :
+ξ ′ + ξ  2a′′ + a′  3  d P − 2 
+and β >	(6 + √34)/3 /2, which roughly correspond to
+0.019 and 0.993 respectively (remember that by definition
+0 < β < 1).
+To conclude, we have shown that in the relativistic case
+
+√K
++ 2c
+d P
+dρ ζ = 0,	(84a)
+process, differently from the Newtonian case where for γ =
+5/3 the amplitude remained constant.
+
+1 3
+
+261  Page 12 of 14	Eur. Phys. J. C (2024) 84:261
+
+
+
+Non-singular relativistic perturbations
+
+In the modified non-singular case, finding the expression for a(η) is not necessary (although possible) because asymptoti-cally the leading term is simply a = a∞ as in the Newtonian case. Therefore the density perturbations (79) will depend only on the sum Λ + Ω, which can be found by summing Eq. (80) and solving them:
+(Λ + Ω)′′ − K c2 1 − (n2 − 4)β2 (Λ + Ω) = 0,   (89)
+Λ(η) + Ω(η) = E+e+ν√K c η + E−e−ν√K c η,	(90)
+one. Furthermore, this feature takes place in correspondence to a sufficiently small value of the parameter accounting for the new cut-off physics. In other words, it is always pos-sible to accommodate the stabilization of the gravitational collapse at super-Schwarzschild scales even when the defor-mation parameter is defined as a Planckian quantity, i.e. as regularizing physics only for very high energy scales.
+We also obtained some specific constraints on the free equation of state parameters by requiring that the asymp-totic configuration be stable, in particular for the relativistic
+isothermal case we arrived to√th e requirement that the sound
+
+ν = ,1 − (n2 − 4)β2,	(91)
+where E± are constants of integration. Similarly to the New-tonian case, given that when a′ = 0 the perturbations depend directly on the sum Λ + Ω, the fate of the perturbations depends entirely on the nature of this parameter ν i.e. on the sign of the term inside the square root. Therefore, since only n > 2 are relevant for physical perturbations, for each value of n there exist a critical value of β such that above it all perturbations oscillate and are ultimately damped, while below it all perturbations diverge. Conversely, for each value of β, there exist a value of n large enough such that above it all perturbations oscillate and are damped, while below it they all diverge. Given that a higher value of n corresponds to a perturbation with a shorter scale, we have again found a Jeans-like length. If we want the collapse to be stable to all kinds of perturbations, we require n to be the smallest possible i.e. n = 3, thus finding a lower limit on β:
+/ /
+the repulsive character of the modified gravitational dynam-ics creates a static macroscopic configuration also when mat-ter pressure is negligible, the request that this configuration be also stable under small perturbations still requires that the elementary constituents of the collapsing gas have a signifi-cant free-streaming effect.
+The present analysis must be regarded as the starting point for subsequent investigations in which the gravitational col-lapse is modelled in a realistic astrophysical context, in order to better understand the implications that the repulsive grav-itational dynamics can have on the formation of compact objects. In particular, the impact of the repulsive effects on the equilibrium of a real relativistic star [6] is of interest in order to determine possible corrections to the mass limits in the proposed scenario.
+
+Acknowledgements G. B. thanks the TAsP Iniziativa Specifica of INFN for their support.
+
+β > β0
+1
+= √5
+≈ 0.48.	(92)
+Data Availability Statement This manuscript has no associated data or the data will not be deposited. [Authors’ comment: The manuscript has no associated data.]
+
+
+
+7 Concluding remarks
+
+We analyzed the gravitational collapse of a spherical dust configuration, both in the Newtonian limit and in the fully general relativistic case, by including in the dynamics cut-off physics effects. The particular modification we intro-duced consists of a generalized Heisenberg algebra inspired by Polymer Quantum Mechanics. We studied the col-lapse dynamics by replacing the standard Poisson brack-ets with those ones coming from the considered generalized approach, modulated, to some extent, from Loop Quantum Gravity [70–72]. Indeed there are some recent attempts to analyze the gravitational collapse of a dust cloud through effective Loop Quantum Gravity, and they mostly agree with the resolution of the singularity [73,74].
+The very remarkable result we have drawn in both the two considered regimes has to be identified in the existence of a stable and asymptotically static configuration of the col-lapse, established at a radius greater than the Schwarzschild
+Code Availability Statement The manuscript has no associated code/software.
+Open Access This article is licensed under a Creative Commons Attri-bution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, pro-vide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indi-cated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permit-ted use, you will need to obtain permission directly from the copy-right holder. To view a copy of this licence, visit http://creativecomm ons.org/licenses/by/4.0/.
+Funded by SCOAP3.
+
+
+
+References
+
+R. Penrose, Phys. Rev. Lett. 14, 57 (1965). https://doi.org/10.1103/ PhysRevLett.14.57
+
+1 3
+
+Eur. Phys. J. C (2024) 84:261	Page 13 of 14  261
+
+
+
+D. Prialnik, An Introduction to the Theory of Stellar Structure and Evolution (Cambridge University Press, Cambridge, 2000). www. cambridge.org/it/universitypress/subjects/physics/astrophysics/ introduction-theory-stellar-structure-and-evolution-2nd-edition? format=HB&isbn=9780521866040
+B.W.  Carrol,  D.A.  Ostlie,  An  Introduction  to  Mod-ern	Astrophysics	(Cambridge	University	Press,	Cam-bridge,	2017).		www.cambridge.org/highereducation/ books/an-introduction-to-modern-astrophysics/ 140DDF8A480C3841DCCD76D66984D858
+S. Chandrasekhar, Astrophys. J. 74, 81 (1931). https://doi.org/10. 1086/143324
+R.C. Tolman, Phys. Rev. 55, 364 (1939). https://doi.org/10.1103/ PhysRev.55.364
+J.R. Oppenheimer, G.M. Volkoff, Phys. Rev. Lett. 55, 374 (1939). https://doi.org/10.1103/PhysRev.55.374
+I. Bombaci, Astron. Astrophys. 305, 871 (1996). https://ui.adsabs. harvard.edu/abs/1996A%26A...305..871B/abstract
+S.W. Hawking, W.W. Israel, Three Hundred Years of Gravitation (Cambridge University Press, Cambridge, 1989).	https://www.cambridge.org/us/universitypress/ subjects/physics/cosmology-relativity-and-gravitation/
+three-hundred-years-gravitation?format=PB
+U. Das, B. Mukhopadhyay, Phys. Rev. Lett. 110, 071102 (2013). https://doi.org/10.1103/PhysRevLett.110.071102
+N. Chamel, A.F. Fantina, J.M. Pearson, S. Goriely, Astron. Astrophys. 553, A22 (2013). https://ui.adsabs.harvard.edu/abs/ 1996A%26A...305..871B/abstract
+F. Crawford, M.S.E. Roberts, J.W.T. Hessels, S.M. Ransom, M. Livingstone, C.R. Tam, V.M. Kaspi, Astrophys. J. 652, 1499 (2006). https://doi.org/10.1086/508403
+J. Antoniadis et al., Science 340, 1233232 (2013). https://doi.org/ 10.1126/science.1233232
+C.G. Bassa et al., Astrophys. J. Lett. 846, L20 (2017). https://doi. org/10.3847/2041-8213/aa8400
+T. Damour, G. Esposito-Farèse, Phys. Rev. D 54, 1474 (1996). https://doi.org/10.3847/2041-8213/aa8400
+N. Sennett, L. Shao, J. Steinhoff, Phys. Rev. D 96, 084019 (2017). https://doi.org/10.3847/2041-8213/aa8400
+M. Khalil, N. Sennett, J. Steinhoff, A. Buonanno, Phys. Rev. D 100, 124013 (2019). https://doi.org/10.3847/2041-8213/aa8400
+A. Corichi, T. Vukašinac, J.A. Zapata, Phys. Rev. D 76, 044016 (2007). https://doi.org/10.1103/physrevd.76.044016
+G. Barca, A.D. Antonio, G. Montani, A. Patti, Phys. Rev. D 99, 123509 (2019). https://doi.org/10.1103/PhysRevD.99.123509
+G. Barca, E. Giovannetti, G. Montani, Int. J. Geom. Meth-ods Mod. Phys. 19, 2250097 (2022). https://doi.org/10.1142/ S0219887822500979
+M. Bojowald, Living Rev. Relativ. 8, 11 (2005). https://doi.org/10. 12942/lrr-2005-11
+A. Ashtekar, P. Singh, Class. Quantum Gravity 28, 213001 (2011). https://doi.org/10.1088/0264-9381/28/21/213001
+A. Ashtekar, B. Gupt, Phys. Rev. D 92, 084060 (2015). https://doi. org/10.1103/PhysRevD.92.084060
+F. Bombacigno, F. Cinafrani, G. Montani, Phys. Rev. D 94, 064021 (2016). https://doi.org/10.1103/PhysRevD.94.064021
+D. Oriti, L. Sindoni, E. Wilson-Ewing, Class. Quantum Gravity 34, 04LT01 (2017). https://doi.org/10.1088/1361-6382/aa549a
+E. Adjei, S. Gielen, W. Wieland, Class. Quantum Gravity 35, 105016 (2018). https://doi.org/10.1088/1361-6382/aaba11
+S. Antonini, G. Montani, Phys. Lett. B 790, 475 (2019). https:// doi.org/10.1016/j.physletb.2019.01.050
+G. Barca, E. Giovannetti, G. Montani, Universe 7, 327 (2021). https://doi.org/10.3390/universe7090327
+E. Giovannetti, G. Barca, F. Mandini, G. Montani, Universe 8, 302 (2022). https://doi.org/10.3390/universe8060302
+E. Giovannetti, G. Montani, S. Schiattarella, Phys. Rev. D 105, 064011 (2022). https://doi.org/10.1103/PhysRevD.105.064011
+E. Giovannetti, G. Montani, Phys. Rev. D 106, 044053 (2022). https://doi.org/10.1103/PhysRevD.106.044053
+E. Giovannetti, F. Maione, G. Montani, Universe 9, 373 (2023). https://doi.org/10.3390/universe9080373
+S. Gielen, N. Turok, Phys. Rev. Lett. 117, 021301 (2016). https:// doi.org/10.1103/PhysRevLett.117.021301
+F. Bombacigno, G. Montani, Eur. Phys. J. C 79, 405 (2019). https:// doi.org/10.1140/epjc/s10052-019-6918-x
+F. Bombacigno, S. Boudet, G.J. Olmo, G. Montani, Phys. Rev. D 103, 124031 (2021). https://doi.org/10.1103/PhysRevD.103.
+124031
+S. Gielen, J. Magueijo, Europhys. Lett. 141, 59001 (2023). https:// doi.org/10.1209/0295-5075/acbc48
+C. Hunter, Astrophys. J. 136, 594 (1962). https://doi.org/10.1086/
+147410
+J.R. Oppenheimer, H. Snyder, Phys. Rev. 56, 455 (1939). https:// doi.org/10.1103/PhysRev.56.455
+G.D. Birkhoff, Relativity and Modern Physics (Harvard University Press, Cambridge, 1923). https://www.hup.harvard.edu/catalog. php?isbn=9780674734487
+C.W. Misner, K.S. Thorne, J.A. Wheeler, Gravitation (Prince-ton University Press, Princeton, 2017). https://press.princeton.edu/ books/hardcover/9780691177793/gravitation
+L.D. Landau, E.M. Lifshitz, Fluid Mechanics (Pergamon, Oxford, 1959). https://www.elsevier.com/books/fluid-mechanics/landau/
+978-0-08-029142-0
+E.M. Lifshitz, I.M. Khalatnikov, Adv. Phys. 12, 185 (1963). https:// doi.org/10.1080/00018736300101283
+M.V. Battisti, Phys. Rev. D 79, 083506 (2009). https://doi.org/10. 1103/PhysRevD.79.083506
+M. Maggiore, Phys. Lett. B 304, 65 (1993). https://doi.org/10. 1016/0370-2693(93)91401-8
+A. Kempf, G. Mangano, R.B. Mann, Phys. Rev. D 52, 1108 (1995). https://doi.org/10.1103/PhysRevD.52.1108
+F. Scardigli, Phys. Lett. B 452, 39 (1999). https://doi.org/10.1016/ S0370-2693(99)00167-7
+F. Scardigli, R. Casadio, Class. Quantum Gravity 20, 3915 (2003). https://doi.org/10.1088/0264-9381/20/18/305
+P. Bosso, L. Petruzziello, F. Wagner, Phys. Lett. B 834, 137415 (2022). https://doi.org/10.1016/j.physletb.2022.137415
+L. Petruzziello, Class. Quantum Gravity 38, 135005 (2021). https:// doi.org/10.1088/1361-6382/abfd8f
+M. Fadel, M. Maggiore, Phys. Rev. D 105, 106017 (2022). https:// doi.org/10.1103/PhysRevD.105.106017
+S. Segreto, G. Montani, Eur. Phys. J. C 83, 385 (2023). https://doi. org/10.1140/epjc/s10052-023-11480-4
+G. Barca, G. Montani, A. Melchiorri, Phys. Rev. D 108, 063505 (2023). https://doi.org/10.1103/PhysRevD.108.063505
+G. Montani, S. Segreto, Phys. Rev. D 104, 064020 (2021). https:// doi.org/10.1103/PhysRevD.79.083506
+F. Scardigli, G. Lambiase, E.C. Vagenas, Phys. Lett. B 767, 242 (2017). https://doi.org/10.1016/j.physletb.2017.01.054
+F. Scardigli, R. Casadio, Eur. Phys. J. C 75, 425 (2015). https://doi. org/10.1140/epjc/s10052-015-3635-y
+C. Hunter, Astrophys. J. 139, 570 (1964). https://doi.org/10.1086/
+147786
+C. Hunter, Astrophys. J. 218, 834 (1977). https://doi.org/10.1086/
+155739
+N. Carlevaro, G. Montani, Class. Quantum Gravity 22, 4715 (2005). https://doi.org/10.1088/0264-9381/22/22/005
+R. Guida, M. Lattanzi, R. Ruffini, J. Korean Phys. Soc. 49, 797 (2006)
+B. Datt, Z. Phys. 108, 314 (1938). https://doi.org/10.1007/ BF01374951
+
+1 3
+
+261  Page 14 of 14	Eur. Phys. J. C (2024) 84:261
+
+
+
+E.I. Gundelman, A. Rabinowitz, A.P. Banik, Bulg. J. Phys. 45, 180 (2017). www.bjp-bg.com/paper1.php?id=902
+K.V. Kucharˇ, Phys. Rev. D 50, 3961 (1994). https://doi.org/10. 1103/PhysRevD.50.3961
+C. Vaz, L. Witten, T.P. Singh, Phys. Rev. D 63, 104020 (2001).
+https://doi.org/10.1103/PhysRevD.63.104020
+C. Kiefer, J. Müller-Hill, C. Vaz, Phys. Rev. D 73, 044025 (2006). https://doi.org/10.1103/PhysRevD.73.044025
+J.D. Brown, K.V. Kucharˇ, Phys. Rev. D 51, 5600 (1995). https:// doi.org/10.1103/PhysRevD.51.5600
+R. Casadio, G. Venturi, Class. Quantum Gravity 13, 2715 (1996). https://doi.org/10.1088/0264-9381/13/10/011
+R. Casadio, Phys. Rev. D 58, 064013 (1998). https://doi.org/10. 1103/PhysRevD.58.064013
+T. Schmitz, Phys. Rev. D 101, 026016 (2020). https://doi.org/10. 1103/PhysRevD.101.026016
+C. Kiefer, H. Mohaddes, Phys. Rev. D 107, 126006 (2023). https:// doi.org/10.1103/PhysRevD.107.126006
+V.A. Fock, Z. Phys. 98, 148 (1935). https://doi.org/10.1007/ BF01336904
+G. Montani, M.V. Battisti, R. Benini, G. Imponente, Primor-dial Cosmology (World Scientific, Singapore, 2009). https://www. worldscientific.com/worldscibooks/10.1142/7235#t=aboutBook
+C. Rovelli, Quantum Gravity. Cambridge Monographs on Math-ematical Physics (Cambridge University Press, 2004). https://doi. org/10.1017/CBO9780511755804
+C. Rovelli, F. Vidotto, Covariant Loop Quantum Gravity: an Ele-mentary Introduction to Quantum Gravity and Spinfoam The-ory (Cambridge University Press, 2014). https://doi.org/10.1017/ CBO9781107706910
+J.G. Kelly, R. Santacruz, E. Wilson-Ewing, Class. Quantum Grav-ity 38, 04LT01 (2021). https://doi.org/10.1088/1361-6382/abd3e2
+A. Alonso-Bardaji, D. Brizuela, preprint (2023). https://doi.org/ 10.48550/arXiv.2312.15505
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 3
+
+
+Observational constraints on loop quantum cosmology
+IGC-11/1-1 AEI-2011-004
+
+
+Martin Bojowald1, Gianluca Calcagni2, and Shinji Tsujikawa3
+1Institute for Gravitation and the Cosmos, The Pennsylvania State University,
+104 Davey Lab, University Park, PA 16802, USA
+2Max Planck Institute for Gravitational Physics (Albert Einstein Institute), Am Mu¨hlenberg 1, D-14476 Golm, Germany and
+3Department of Physics, Faculty of Science, Tokyo University of Science, 1-3, Kagurazaka, Shinjuku-ku, Tokyo 162-8601, Japan
+(Dated: January 27, 2011)
+In the inflationary scenario of loop quantum cosmology (LQC) in the presence of inverse-volume corrections, we give analytic formulas for the power spectra of scalar and tensor perturbations convenient to confront with observations. Since inverse-volume corrections can provide strong con-tributions to the running spectral indices, inclusion of terms higher than the second-order runnings in the power spectra is crucially important. Using the recent data of cosmic microwave background (CMB) and other cosmological experiments, we place bounds on the quantum corrections for a quadratic inflaton potential.
+PACS numbers: 98.80.Cq, 04.60.Pp
+
+
+One of the motivations to search for a quantum theory of gravity is the desire to unify general relativity with quantum mechanics and, in doing so, resolve classical singularities such as the big bang or those associated with black holes. Although there exist some candidates which apparently cure these pathologies, their significance as models of nature is hard to assess due to the lack of a connection between theory and observations.
+Observational implications of quantum gravity present a delicate issue. Corrections to the general relativistic dynamics are expected to arise in different ways. For instance, loop corrections are always present in pertur-bative graviton field theory, which can be captured in effective actions with higher-curvature corrections to the Einstein-Hilbert action. The additional terms change the Newton potential as well as the cosmological dynamics. However, in currently observable regimes the curvature scale is very small, and so one expects only tiny correc-tions of (adimensional) size at most ℓPlH, where ℓPl is the Planck length and H−1 = a/a˙ is the radius of the Hub-ble region (a is the scale factor in the flat Friedmann-Robertson-Walker background and dots denote deriva-tives with respect to cosmic time t). In such a case, tests of quantum gravity are possible at best indirectly, for in-stance if it provides concrete and sufficiently constrained models for inflation. So far, however, models do not ap-pear tight enough.
+There is a different route of testing quantum grav-ity, or at least those approaches that change not only the dynamics but even the underlying spacetime struc-ture. This happens especially in background indepen-dent frameworks such as loop quantum gravity (LQG) [1]. Stronger modifications of the theory are possible since the usual covariant continuum dynamics is general-ized, and entirely new effects may be contemplated. Still, the modifications are controlled by the requirement that covariance not be broken but at most deformed, leading
+to anomaly-free and consistent sets of equations.
+A concrete realization requires detailed calculations and new techniques, since action principles of the usual covariant form are no longer available in the presence of a modified spacetime structure. In canonical quan-tum gravity, in particular in the loop quantization some of whose corrections are used here, the covariance prin-ciple and the dynamics are implemented by constraint equations: Constraint functionals generate gauge trans-formations as well as the dynamics by Hamiltonian equa-tions of motion. If constraints are modified, not only the dynamics but also gauge transformations change, some-times even producing a deformed algebra that no longer generates spacetime diffeomorphisms or hypersurface de-formations. In this way, new spacetime structures be-come apparent. It may be difficult to find concrete, non-manifold realizations of the deformed structures, but the dynamics and gauge-invariant observables are accessible. This provides the basis for a cosmological analysis.
+Equations that consistently implement such a radical form of quantum corrections are now available for one characteristic effect of LQG: In this theory, the spatial geometry is discrete as a consequence of metric opera-tors acquiring discrete spectra with zero as an eigenvalue [2]. An inverse of those metric operators is needed to construct Hamiltonian operators or the quantized con-straints, but a direct inverse of an operator with zero in the discrete part of its spectrum does not exist. By more indirect quantization procedures [3] one can nevertheless construct suitable densely defined operators, but they contain quantum corrections sensitive to the discreteness scale [4]. These inverse-volume corrections constitute the first example that has been consistently implemented, when they are small, in the dynamics [5]; then, covariance is not destroyed but deformed. Equations are thus con-sistent and can be analyzed for further properties such as cosmological ones, looking for possible new effects. (Con-
+
+2
+
+
+sistency has so far been obtained only for small inverse-triad corrections; thus no gauge-independent equations exist for an analysis of inflationary scenarios driven en-tirely by quantum-geometry effects [6].)
+No complete anomaly-free system with all corrections from loop quantum gravity is known at present, but con-sequences of inverse-volume corrections are already so characteristic that they are not likely to be eliminated when others are included. Other corrections might lead to rather different modifications of the constraints, but
+they could not manage to restore the classical notion of
+equations for scalar and tensor modes, there are changes to the standard inflationary spectra and the tensor-to-scalar ratio.
+In Ref. [8], two of us evaluated the inflationary ob-servables in terms of the three slow-roll (SR) parameters ǫ ≡ −H˙ /H2, η ≡ −ϕ¨/(Hϕ˙), and ξ2 ≡ (ϕ¨/ϕ˙)˙/H2, where
+ϕ is a scalar field with potential V (ϕ). In order to place observational bounds on concrete inflaton potentials, it is more convenient to use SR parameters expressed by V and its derivatives:
+
+covariance, undoing the deformation.
+
+ǫV ≡
+ 1   V,ϕ  2
+
+,	ηV ≡
+ 1 V,ϕϕ
+
+,	ξ2 ≡
+V,ϕV,ϕϕϕ ,
+
+A simplified implementation of corrections expected from LQG in cosmological scenarios via perturbations
+2κ2	V
+κ2  V
+V	κ4V 2
+(2)
+
+around homogeneous or other reduced models can be achieved in LQC [7]. There, with a phenomenological approach to effective dynamics, all the coupled equa-tions of motion generated by the constraints [5] can be summarized in a single Mukhanov equation for the
+gauge-invariant scalar perturbation uk [8], u′′ + (s2k2 −
+where κ2 = 8πG (G is the gravitational constant). Con-
+version formulas from ǫ, η, ξ2 to ǫV , ηV , ξ2 will be pre-sented in a separate publication [10], to which we refer for all the technical details, together with a discussion of cosmic variance. Here we report only the minimum set of expressions required for the numerical analysis.
+
+z′′
+k
+/z)uk = 0 in momentum space, where primes denote
+The power spectra of scalar and tensor perturbations,
+
+derivatives with respect to conformal time τ =	dt a−1,
+k is the comoving wavenumber, z is a background func-tion, and s2 = 1+χ(σ, α0, ν0)δPl is the propagation speed
+evaluated at the Hubble horizon crossing during inflation
+(k ≈ aH), are given, respectively, by [8]
+
+squared. The quantum correction is characterized (i) by a specific function χ of the free constant parameters σ,
+Ps =
+GH2
+πǫ (1 + γsδPl) ,	Pt =
+16GH2
+π	(1 + γtδPl) , (3)
+
+α0 and ν0, that are not yet fixed by the quantization, and (ii) by the function δPl ∝ a−σ determining the size of inverse-volume corrections with respect to a reference scale set by the underlying discrete quantum state. A
+conservative theoretical estimate is δPl ∼ O(10−8) [8],
+where γs = ν0(σ/6+1)+σα0/(2ǫ)−[σν0(σ+6)+3α0(15− σ)]/[18(σ + 1)] and γt = (σ − 1)α0/(σ + 1). We expand the scalar spectrum about a pivot wavenumber k0, as
+ln P (k) = ln P (k ) + [n (k ) − 1] x
+
+but the value may be higher by a few orders of magni-
+s	s  0
+s  0
+∞	(m)
+
+tude especially for small σ. The aim of this paper is to restrict δPl by observations. While σ takes values in the range 0 < σ ≤ 6, the size of δPl does not depend on the values of α0 and ν0. However, the parameters α0, ν0 are related to σ by the consistency condition [8]
+ν0(σ − 3) = 3α0(σ − 6)/(σ + 6) .	(1)
+We will mainly place bounds on the combination α0δPl
++ αs(k0) x2 +	αs	(k0) xm ,	(4)
+2	m!
+m=3
+
+where x ≡ ln(k/k0), ns(k)−1 ≡ d ln Ps(k)/d ln k, αs(k) ≡ dns/d ln k, and α(m)(k) ≡ dm−2αs/(d ln k)m−2. The ten-sor spectrum can be expanded in a similar way with a different index nt(k) ≡ d ln Pt(k)/d ln k. The spectral indices are
+
+during slow-roll inflation, for which the precise origin of
+α0 and of the scale hidden in δPl is not essential.
+Corrections in the Mukhanov equation arise only in the form of z and in the k2-term, yet the equation is covari-
+ns −1 = −6ǫV
+where
++2ηV
+−cns
+δPl
+,	nt
+= −2ǫV
+−cnt
+δPl
+, (5)
+
+ant according to the corrected gauge transformations, as a direct consequence of the first-class constraint algebra found in [5]. Thus, one typical assumption of higher-curvature theories is violated. A second implication arises by comparison with tensor modes [9]. They can be summarized by the equation w′′ + (α2k2 − a˜′′/a˜)wk = 0, which is also covariant, yet differs from the scalar equa-tion by the functions α and a˜ instead of s and z. The speed here is corrected by α ≈ 1 + α0δPl with 2α0 /= χ. Again, this is only possible with the change in the un-derlying manifold and gauge structure, and gives rise to additional characteristic effects. With different types of
+cns  = σ[3α0(13σ − 3) + ν0σ(6 + 11σ)]/[18(σ + 1)]
+— 6α0 (1 − σ) − ν0 6 − 13σ/3 + 2σ2/9	ǫV
+— [α0 (7σ/3 − 2) + 2ν0 (1 − 2σ/3)] ηV ,	(6)
+cnt = 2σ2α0/(σ + 1)
+— [2α0(1 − σ) + ν0(σ − 2)] ǫV − 2σα0ηV /3 .	(7)
+The dominant LQC corrections to ns,t correspond to the first terms in Eqs. (6) and (7), i.e., fs ≡ σ[3α0(13σ − 3) + ν0σ(6 + 11σ)]/[18(σ + 1)] and ft ≡ 2σ2α0/(σ + 1). For σ & O(1) the variation of δPl is fast (δPl ∝ a−σ ∝ k−σ at Hubble crossing), so that fs,t provide dominant
+
+3
+
+
+
+
+1.3
+
+1.2
+largest scales observed in the CMB (ℓ = 2). This prop-erty can be clearly seen in Fig. 1, where the pivot scale for the scalar power spectrum is taken to be ℓ0 = 29. Imposing the condition δPl(ℓ = 2) ≪ 1, this gives the bound
+
+
+1.1
+
+1.0
+
+
+
+
+
+
+2	5	10	20	50	100
+δPl(ℓ0) ≪ (2/ℓ0)σ	(10)
+at the multipole ℓ0. For larger σ and ℓ0, δPl(ℓ0) is con-strained to be smaller.
+For concreteness, let us consider the power-law poten-tial V (ϕ) = λϕn, for which ǫV = n2/(2κ2ϕ2) and
+
+2(n − 1)
+η =	ǫ
+,	ξ2 = 4(n − 1)(n − 2) ǫ2 .	(11)
+
+9	V	V	V
+n
+
+/
+n2	V
+
+FIG. 1: Primordial scalar power spectrum Ps(ℓ) for the case
+n = 2, σ = 2, and ǫV (k0 ) = 0.009 with three different values
+−5
+of δ(k0): 0 (classical case, dotted line), 7 10	(observational
+Among the variables σ, α0, and ν0 we have the rela-tion (1), a condition under which, for given n and σ, the inflationary observables can be expressed via ǫV and
+
+upper bound, solid line), 4.8×10−4 [1/10 of the a-priori upper bound (10), dashed line]. Here the pivot wavenumber is k0 =
+0.002 Mp −1, which corresponds to ℓ0
+δ ≡ α0δPl for σ /= 3, or by ǫV and δ˜ ≡ ν0δPl for σ = 3. We carry out the CMB likelihood analysis by vary-
+ing the parameters ǫV and δ in the Cosmological Monte
+
+
+contributions to the scalar and tensor runnings as well,
+αs,t(k0) = dns,t/d ln k|k=k0 ≈ σfs,tδPl(k0). Similarly, the
+Carlo (CosmoMC) code [11]. We use the 7-year WMAP data combined with Baryon Acoustic Oscillations (BAO) and the Hubble constant measurement from the Hubble
+
+m-th order terms are α(m)(k0) ≈ (−1)mσm−1f
+s,tδPl(k0)
+Space Telescope (HST), which are currently considered
+to be the best dataset for the estimate of cosmological pa-
+
+and hence we can evaluate the sum in Eq. (4) as
+rameters [12]. We take the pivot wavenumber k0 = 0.002
+−1
+
+Σ α(m)
+e−σx − 1 
+Mpc
+(ℓ0 ≈ 29) used by the WMAP team. δ(k0) and
+
+
+m=3
+s,t
+m!
+xm =  x
+−  σx  +
+σ
+fs,tδPl. (8)
+ǫV (k0) are constrained at this scale. While the bound on
+δ depends on the pivot scale (and it tends to be smaller
+for larger k0), that on kσδ(k0) does not.
+
+This expression is valid for any value of σ and of the
+pivot scale k within the observational range of CMB.
+0
+The exponential term e−σx = (k0/k)σ
+in Eq. (8) gives
+
+0
+Since the LQC corrections to the runnings αs,t can be large, inclusion of the higher-order terms (8) is important to estimate the power spectra properly. For the CMB likelihood analysis we also take into account the second-
+order terms of slow-roll parameters, i.e., αs = −24ǫ2 +
+rise to the enhancement of the power spectra on large scales, as we see in Fig. 1. For σ & 3, the growth of this term is so significant that δPl(ℓ) must be very much
+smaller than 1 for most of the scales observed in the CMB, in order to satisfy the bound δPl(ℓ = 2) ≪ 1. More
+
+2	V	precisely, LQC corrections manifest themselves mainly at
+
+16ǫV ηV − 2ξV + cαs δPl and αt = −4ǫV (2ǫV − ηV ) + cαt δPl,
+where the dominant contributions to cαs,t correspond to cαs,t ≈ σfs,t. In the numerical code, the full expressions of the coefficients cns,t and cαs,t [10] are used.
+Defining the tensor-to-scalar ratio at the pivot scale k0
+as r(k0) ≡ Pt(k0)/Ps(k0), it follows that
+r(k ) = 16ǫ (k ) + c δ (k ) ,	(9)
+ℓ = 2, 3 where cosmic variance dominates, so it seems implausible to isolate these effects. For σ < 3, the LQC modification to the classical power spectra also affects larger multipoles ℓ, and hence it seems possible to con-strain it from CMB anisotropies.
+In Fig. 2 we plot the 2D posterior distributions on the parameters δ(k0) and ǫ (k ) with k = 0.002 Mpc−1 for
+
+0	V	0
+r Pl  0
+n = 2 and σ = 2. The two parameters are constrained to
+
+where cr	=	8[3α0(3 + 5σ + 6σ2) − ν0σ(6 +
+be δ(k0) < 7 × 10−5 and ǫ
+(k0) < 0.012 (95% CL). The
+
+11σ)]ǫV (k0)/[9(σ + 1)] − 16σα0ηV (k0)/3. These results show that LQC corrections modify the standard formu-las in slow-roll inflation.
+In the quasi-de Sitter background, δPl ∝ k−σ gives the relation δPl(k) ≈ δPl(k0)(k/k0)−σ = δPl(ℓ0)(ℓ/ℓ0)−σ, where ℓ are the CMB multipoles related to k via k ≈ (h/104)ℓ Mpc−1 (h ≈ 0.7 is the reduced Hubble con-stant). With the large-volume expansion of quantum corrections, we require that δPl(k) ≪ 1 at all scales. For σ > 0 the LQC correction is most significant on the
+modification of the large-scale power spectra (ℓ . 20) shown in Fig. 1 leads to the upper bound on δ(k0). The
+condition (10) gives the prior δPl(ℓ0) ≪ 4.8 × 10−3 at ℓ0 = 29, so that for α0 = O(1) the observational bound is smaller by two orders of magnitude.
+For smaller σ the observational upper bound on δ(k0) tends to be larger, with milder enhancement of the power spectra on large scales. In Fig. 3 we show the likelihood results for σ = 1, in which case the LQC correction is con-strained to be δ(k0) < 3.7 × 10−2 (95% CL). Meanwhile,
+
+4
+
+
+x 10−4
+1
+
+0.9
+
+0.8
+proximation δ(k0) < ǫV (k0) used in the main formulas may break down in such cases.
+Under the conditions ǫV  ≪ 1 and δ ≪ 1, it fol-lows that ǫV ≈ (κ2/2)(ϕ˙/H)2. Then the number of e-
+foldings during inflation is given by N ≡ ∫ tf dt˜H ≈
+
+0.7	∫ ϕ	√	t
+
+
+0.6
+
+0.5
+
+0.4
+
+0.3
+
+0.2
+
+0.1
+
+0
+0	0.005
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 0.01	0.015	0.02
+0
+end of inflation [which is determined by the condition ǫV ≈ O(1)].  For the power-law potentials one has N ≈ n/(4ǫV ) − n/4, which gives ǫV ≈ n/(4N + n). For n = 2, the theoretically constrained range 45 < N < 65 corresponds to 0.008 < ǫV < 0.011. The probability dis-tributions of ǫV in Figs. 2 and 3 are consistent with this range even in the presence of the LQC corrections, so the quadratic potential is compatible with observations as in standard cosmology.
+In summary, in inflation combined with LQC inverse-volume corrections we provided general formulas for the
+
+FIG. 2: 2D marginalized distribution for the quantum-gravity parameter δ(k0) = α0δPl(k0) and the slow-roll parameter
+−1
+scalar and tensor power spectra and placed observational
+bounds on the size of the correction δPl for a quadratic potential. We have shown that interesting and nontriv-
+
+ǫV (k0 ) with the pivot k0 = 0.002 Mpc	for n = 2 and σ = 2,
+
+using the data of WMAP7+BAO+HST. The internal and ex-ternal solid lines correspond to the 68% and 95% confidence levels, respectively.
+
+0.05
+
+0.045
+
+0.04
+
+0.035
+ial effects can arise from the modified spacetime struc-
+ture underlying the dynamics. Even though quantum-geometry corrections are small, they can significantly change the runnings of spectral indices. Thus, the obser-vational bounds on δPl can be much closer to theoretical expectations than often thought in quantum gravity.
+M.B. was supported by NSF grant PHY0748336. S.T. thanks JSPS for financial support (Nos. 30318802 and 21111006).
+
+
+0.03
+
+0.025
+
+
+0.02
+
+0.015
+
+0.01
+
+0.005
+
+0
+0	0.005
+
+
+
+
+
+
+
+
+
+
+
+
+ 0.01	0.015	0.02
+0
+C. Rovelli, Quantum Gravity (Cambridge Univer-sity Press, Cambridge, UK, 2004); A. Ashtekar and
+J. Lewandowski, Class. Quant. Grav. 21, R53 (2004);
+T. Thiemann, Introduction to Modern Canonical Quan-tum General Relativity (Cambridge University Press, Cambridge, UK, 2007).
+C. Rovelli and L. Smolin, Nucl. Phys. B 442, 593 (1995).
+T. Thiemann, Class. Quant. Grav. 15, 839 (1998); Class.
+Quant. Grav. 15, 1281 (1998).
+M. Bojowald, H. H. Hernandez, M. Kagan and
+
+FIG. 3: 2D marginalized distributions as in Fig. 2, but for the case n = 2 and σ = 1.
+
+
+the a-priori criterion (10) gives δPl(k0) ≪ 6.9 ×10−2. For α0 = O(1), the case σ = 1 is marginally consistent with the combined SR/δPl truncation.
+For σ . 1, the exponential factor e−σx does not change rapidly with smaller values of fs,t, so that the LQC effect
+on the power spectra would not be very significant even if δ(k0) was as large as ǫV (k0). Our likelihood analysis shows that the observational upper bound on δ(k0) ex-ceeds the a-priori upper limit of δPl(k0) given by Eq. (10). Since δ(k0) can be as large as 1, the validity of the ap-
+A. Skirzewski, Phys. Rev. D 75, 064022 (2007).
+M. Bojowald, G.M. Hossain, M. Kagan, and S. Shankara-narayanan, Phys. Rev. D 78, 063547 (2008); Phys. Rev.
+D 79, 043505 (2009).
+M. Bojowald, Phys. Rev. Lett. 89, 261301 (2002); S. Tsu-jikawa, P. Singh, and R. Maartens, Class. Quant. Grav. 21, 5767 (2004).
+M. Bojowald, Living Rev. Rel. 11, 4 (2008).
+M. Bojowald and G. Calcagni, arXiv:1011.2779.
+M. Bojowald and G. M. Hossain, Phys. Rev. D 77, 023508 (2008); G. Calcagni and G. M. Hossain, Adv. Sci. Lett. 2, 184 (2009).
+M. Bojowald, G. Calcagni, and S. Tsujikawa, in prepara-tion.
+http://cosmologist.info/cosmomc/
+E. Komatsu et al., arXiv:1001.4538.
+
+
+
+
+
+Abstract
+On Dark Energy and Dark Matter (Part I)
+Shlomo Barak and Elia M Leibowitz
+School of Physics & Astronomy, Tel Aviv University arxiv:astro-ph v1	24 December 2008
+
+Phenomena currently attributed to Dark Energy (DE) and Dark Matter (DM) are merely a
+result of the interplay between gravitational energy density, g , generated by the
+contraction of space by matter, and the energy density of the Cosmological Microwave
+Background (CMB), CMB which causes space dilation.
+These contentions and the observation that, globally, in the universe g CMB lead to the
+derivation of the Hubble parameter, H, as a function of the scale factor, a, the time, t, the redshift, z, and to the calculation of its present value, H0. They also lead to a new understanding of the cosmological redshift and the Euclidian nature of the universe.
+From H(t) we conclude that a˙  const , ( ˙a˙  0 ), in contrast to the consensus of the last
+decade. This result is supported by the fit of our theoretically derived flux from supernovae (SN) as a function of z, with observation. This flux is derived based on our H(z) that determines DL, the Luminosity Distance (LD). We obtain this fit without any free parameters, whereas in current cosmology this fit is obtained by using the dependent free parameters ΩM and ΩΛ.
+---
+This paper is divided into three parts. Part I (this paper) discusses DE and Cosmological issues. Part II (arxiv:astro-ph 2008) addresses the DM issue, where we show that in and around galaxies the above interplay causes inhomogeneous and anisotropic expansion of space. The expansion of the universe is homogeneous and isotropic only when viewed globally. This leads to a theoretical derivation of dynamic and kinematic relations that fit observed Rotation Curves (RC) in galaxies. Part III introduces a model that describes the creation and evolution of galaxies and their resulting RCs.
+The ideas and notions raised in this trilogy are more fully discussed in a forthcoming book by one of us, S. Barak (2009) that reconsiders the foundations of Physics.
+Dark Energy
+DE has been suggested to explain the supposed changes in the rate of expansion of the universe, and to explain its Euclidian nature (flatness), A. G. Riess et al (1998), S. Perlmutter et al (1999). However, we show that a˙  const , ( ˙a˙  0 ).
+To prove our contentions, with which we resolve the issues of DE and DM, we reconsider basic concepts in cosmology and astrophysics. Assumptions presented below are then justified theoretically, and are shown to be valid by observations.
+
+Space is three-dimensional, foamy, elastic and vibrating.
+The assumption that space is 3D, deformed or un-deformed, means that the universe is not a curved 3D manifold in a hyperspace with an additional spatial dimension. For a flat universe the issue of an additional spatial dimension is not relevant. The terms “deformed” and “curved” are used for a 3D-space and a 3D-manifold, respectively.
+The consensus that space is foamy, and hence cellular, rests on the meaning of expansion, and the requirement that its vibrations have a finite energy density.
+The deformation of space is the change in size of its cells. Positive or negative deformation, around a point in space, means that the space cells grow or shrink, respectively, from this point outwards. For a positively curved manifold, the ratio of the circumference of a circle to the radius is less than 2π, as measured by a yardstick of fixed length. For a deformed 3D-space, with a positive deformation, around a point the above ratio is also less than 2π, as measured by a flexible yardstick such as the linear dimension of a space cell. Note that for a deformed space there is no meaning to global deformation, deformation is a local attribute. The surface of a sphere with radius R is a 2D manifold with a global curvature 1/R. However, a global deformation for a deformable 2D planar sheet can only have the value zero i.e., the sheet is Euclidian. The smallest linear dimension of a space cell, whether Planck’s length or not, which determines the Zero Point Fluctuations (ZPF) energy density, is not relevant to our discussion. Here, deformation around a point is expressed by a scale factor a(r,t) that depends on both time and the vector, r, from the point. Space density is determined by a(r,t).
+We suggest that space vibrations are the Electromagnetic (EM) waves and that these waves dilate space (in solids it is anharmonicity that is responsible for thermal expansion). Hence, globally, the CMB is the main contributor to space dilation over the average space density set by the ZPF, A. D. Sakharov (1968) and C. W. Misner et al (1970). We thus consider the CMB to be a global anti-gravitational cosmological
+8G
+constant,  		, see Section 3. We show that the present value of
+c4	CMB
+CMB determines the present value, H0, of the Hubble parameter.
+Part II shows that locally around a mass the interplay between g and CMB causes an
+inhomogeneous expansion of space, which enhances positive deformation around the mass. This explains the “DM” phenomena. We also show that CMB at the time of
+formation of a galaxy determines, g0, the central acceleration at which its Rotation Curve (RC) becomes flat. g0 = 1.210-8 cm sec-2 for galaxies formed approximately 12 BY ago, the epoch of galaxy formation.
+ mc2 does not imply that all forms of energy deform space in the same way. We contend that energy in the form of matter deforms space positively by contracting it, whereas energy in the form of electromagnetic waves deforms space by dilating it. The above has implications for both the mass equivalence principle and the way that the energy densities of gravitation and electromagnetic waves are incorporated in the General Relativity (GR) field equation. This is discussed in a book by S. Barak (2009).
+
+Space contraction or expansion is the change of its cell size.
+GR shows that a mass contracts space around it. Cells close to the mass are smaller than those at a distance and hence the elastic positive deformation of space. Length, close to a mass, is smaller, and the “running of time” is slower, than at a distance.
+Gravitation is the elastic deformation of space, remove the mass and the deformation is gone. In Part II we discuss the issue of elastic versus non-elastic 3D space. Deformation due to space expansion is non-elastic, as “DM halos” show.
+Space expansion is the enlargement of its cells, and the CMB dilating vibrational energy contributes to this expansion. This implies that the number of space cells in the universe is conserved.
+Space contraction by a mass can be represented by a gravitational scale factor ag  ℓ/ℓ0 ,
+where ℓ0 is a distance in space far from masses, and ℓ is the same distance contracted by
+the introduction of a mass. In GR, ℓ/ℓ0  exp/c2 , hence ag at the surface of the sun,
+or at the edge of our galaxy, is approximately 1 – 10-6 whereas in the last 12 BY the scale factor used in cosmology changed, due to expansion, from 0.25 to 1.
+This difference, orders of magnitude, in space deformation is related to the elastic versus non-elastic behavior of space, see Part II.
+The contribution of electromagnetic energy density to space deformation must be reconsidered.
+The dilation of space by the energy density of Electromagnetic (EM) waves, such as the CMB, is a non-linear phenomenon, which implies the violation of Lorentz Invariance (LI).
+Examples of other non-linear EM phenomena are the bending of light beams in a gravitational field, and the scattering of intense light by light which results in the production of pairs of electrons and positrons. No matter is present in the space occupied by the interacting beams (D. L. Burk et al, 1997 and G. Brodin et al, 2002). Maxwell’s equations, however, being linear, express only linear EM phenomena.
+This paper provides proof of our assertion that the CMB dilates space. Part II presents an additional proof – the theoretical derivation of both the dynamic and kinematic laws of RCs that resemble the Milgrom and Tully Fisher relations. This derivation dispels the mystery of DM.
+The cosmological principle (CP) implies different geometries of the universe for different types of space.
+For a 3D space manifold, curved in a hyperspace with an extra spatial dimension, CP implies a uniform global curvature. In this case the universe is finite but with no boundary. For a 3D space CP implies flatness. This is the result of curving being a local attribute only. In other words the only global curvature possible is zero. In this case the universe is either infinite, or finite with a boundary. Close to a boundary CP can not hold true.
+13	3
+The measured energy density of the CMB, as of today, is CMB ~ 4 10	erg cm	,
+whereas the calculated energy density of baryonic matter is:
+  mc2 ~ 2 1010 erg cm3 . This estimation is based on the Big Bang Nucleosynthesis
+
+(BBN) range of values for m, and is independent of the Hubble constant, W. Rindler (2004) p.337.
+Thus the universe is mass dominant, but in contrast to current understanding, this does not imply that the interior of the universe must be positively curved.
+The contractual gravitational energy of the universe equals its dilational CMB energy.
+Gravitational energy is confined in each and every Hubble Sphere (HS) since gravitational contraction moves at the speed of light relative to the mass that is generating the gravitational field. Every point in the universe is both the center and the edge of some identical HSs. Therefore, g , far from masses, must be, globally, the same. This is used
+as an argument in our explanation of the Euclidian nature of the universe.
+1	1   GM 2
+
+g 
+8G E 		
+2
+/	/ /
+8G  R 2
+hence:
+
+	HS 
+2G	2  2	2G	2 c2
+(1)	g 	9	m R HS 	9	m H2
+m – baryonic mass density of the universe	RHS – radius of an HS.
+The present calculated value of  taking m = 210-31 gm cm-3 based on BBN is:
+  3.5 1013 erg cm-3
+whereas the present measured value for the CMB is:
+13	-3
+CMB  4.17 10	erg cm
+This indicates that g  /CMB / or, equivalently that the gravitational energy Ug
+equals the CMB energy UCMB in the universe. Note that, whereas g is concentrated
+around masses, 	is distributed homogeneously.  and 	depend on a-4,
+
+CMB
+hence their equality is retained over time.
+g	CMB
+
+That Ug equals UCMB is not accidental. Elementary particles are considered point-like or
+string-like and structureless, but if they are not (S. Barak, 2009) then the above equality is explained.
+Inside a finite size elementary particle ZPF waves with a wavelength twice its diameter cannot resonate. Hence, in the process of creation of the particle, energy emigrates from the inside to the outside – Casimir effect. The emigrated energy is above the ZPF and hence is detectable – this is the CMB energy. The deficiency in energy inside causes contraction around which is gravitation, with the same contractual gravitational energy as the energy that left the particle.
+Note that our suggestion for the origin of the CMB explains its uniformity in the universe without the need for a supposed epoch of inflation. This energy, through its interaction with matter, acquired its blackbody characteristics.
+We thus conclude that regardless of the structure of an elementary particle and just as a
+
+result of its being of finite size, Ug = UCMB . This understanding leads to the proof of the
+mass equivalence principle (S, Barak, 2009).
+Our conviction that this is the case arises from the fact that this equality leads to the derivation of H(a) and the calculation of H0, the Hubble constant, with an accuracy of
+~15%, see below. We do not know of any theory that can yield the value of H0.
+The expansion of the universe is the result CMB being homogeneous whereas g is concentrated around galaxies. In the inter-galactic space CMB ~ g hence the expansion
+( is pressure) and in and around galaxies g CMB and hence expansion is inhibited. Part II shows that this inhomogeneous expansion results in the flattening of Rotation Curves (RC).
+Inhabitants of a 3D universe can only make observations related to internal
+deformations. However, such deformations, on a global scale, do not appear since Ug and UCMB are distributed, on a large scale, homogeneously. The result is the Euclidian nature of the universe, and hence the validity of CP far from the boundary.
+In no way is a critical mass density or the idea of inflation, involved in our considerations and calculations.
+We derive the dependence (evolution) of the Hubble parameter, H, on the scale
+
+factor, a, by equating CMB
+to the gravitational energy density g
+in the universe
+
+and calculate its present value, H0.
+From equation (1):
+
+  2G
+c2
+
+g	9	m
+H2 CMB
+
+m – baryonic mass density of the universe	RHS – radius of an HS.
+Values as of today are designated by the suffix 0. Note that the scale factor, a, as of today is chosen as 1 and hence in the past was less than 1. The above equation gives:
+
+(2)
+H2 
+2Gc2m2
+
+/
+9 CMB
+
+which is our “equivalent” to the FRW result.
+
+Substituting m  m0
+gives:
+ a3 and the known relation, 
+CMB
+a4 in Equation (2)
+
+
+
+
+H2 
+2G m2 c2
+
+ a2
+
+hence:
+
+9
+
+H  m0  c
+CMB
+
+
+
+ a1
+
+
+and thus:
+
+
+(3)	H = H0 a-1	where:
+
+
+
+(4)
+H0 
+m0  c
+Inserting the measured values:
+
+
+
+c =31010 cm sec-1
+CMB
+ 4.17 1013 erg cm3 ,
+
+and the BBN estimation m0 = 210-31 gr cm-3 in the above equation gives: H0 = 210-18 sec-1.
+The measured value, H0 = (72 8) km sec-1/Mpc = (2.3 0.26)10-18 sec-1 (W. L. Freedman et al, 2000) is obtained with the higher estimation, 2.3 10-31 gm cm-3, for m0.
+We derive the Hubble Parameter, H as a function of time, t, and show that
+a˙  const ( ˙a˙  0 ).
+This result is in contrast to the consensus but as Section 9 shows, it complies with observation.
+def
+H  a˙/a , but, as we have shown H  H0 /a , hence:
+
+a˙  const ( ˙a˙  0 ).
+The value of the constant a˙ is
+
+
+2.310-18 sec1 since H  a˙ a
+
+
+where a0 = 1 today
+
+Integrating both sides of da  H0dt and designating BB - Big Bang, a0 = 1, gives:
+0 – now, tBB = 0,
+
+a  a
+BB
+ H0 t
+but:
+a  H0
+H
+hence:
+
+(5)
+t  1  1
+Now, at t = t0, H = H0 hence:
+
+
+(6)
+
+t0 
+H	H BB
+1   1
+H 0	H BB
+
+Since  HBB >> H0
+
+t0 ~
+1	 13.7  BY
+H 0
+the age of the universe
+
+(7)	Ht 	1
+
+The distance between any two galaxies grows with a, but H falls with a. We thus conclude that any two galaxies recede from each other at all times, at a constant velocity v = rH. This has implications for our understanding of the Big Bang.
+vr
+Cosmological redshift due to space expansion is z  e c 1 The basis for our discussion is:
+A yardstick and a clock, far from masses are not affected by their location in space or by time.
+d  ℓa , the distance between two points in an expanding universe, as measured by a yardstick.
+a is the scale factor with its present chosen value a = 1 hence in the past a < 1.
+
+ℓ is defined as the ratio d/a . Alternatively, d = na where n is the number of space cells and a is the linear dimension of a cell.
+Light velocity, c, is a constant of nature, affected only by the presence of mass.
+The distance between a photon, or crest of a wave, and its emitter is: d(t) = ℓ (t)a(t) and its velocity relative to the emitter (located in galaxy A) is:
+(8)	vp  d˙t  ℓ˙t at ℓ  a˙t
+The first term on the right-hand side is light velocity:
+c  ℓ˙a
+whereas the second term is the recessional velocity of the place at which the photon is momentary “present”.
+vr  ℓa˙t	therefore:
+vp  c  vr
+
+In this discussion, Special Relativity is not relevant.
+We have shown that a˙  const hence:
+at  atz  a˙t - tz   a z  a˙t - tz 	for any time
+
+
+
+t  tz .
+
+In our discussion we use tz as the time of emission of our photon from galaxy A.
+From c  ℓ˙a we get:
+dℓ  c 	c
+dt	a	az  a˙t  tz 
+
+1 dℓ 
+c
+dt
+az  a˙t  tz 
+and by integration:
+
+
+
+1 ℓ  ℓ
+c	z
+  1{lna
+a˙	z
+a˙t  tz
+ ln az}
+but
+ℓz  0 , hence:
+
+ℓ  1 
+  a˙
+t  t 
+but
+a˙  Ht
+  H
+,	hence:
+
+
+/
+c	a˙
+ln1	z 	z	z
+	az		z
+
+t  t  1 exp a˙ℓ   
+z	H 	 c   1
+z 			
+Let t0 be the cosmic time of arrival of a wavecrest to the observer in galaxy B.
+t  t   1  exp a˙ℓt0   	but	ℓt   ℓ   d	is the present distance between
+
+z		
+z 
+  1
+c		
+0	0	0
+
+galaxies A and B. Hence a˙ℓ0 is their recessional velocity vr , and thus the Look Back Time is:
+		 1    vr	
+
+
+t  tz
+	e c
+Hz 
+1
+
+
+The cosmological redshift is the result of successive crests arriving at the observer
+with a longer arrival time difference t than their time difference t at emission.
+
+λem  c ∆t	whereas  λobs  c ∆t .
+∆t  t2  t1	∆t  tz   tz
+		 	2	 1
+∆t   t2  tz   t1  tz	 ∆t
+Equation (11) gives:
+
+
+		1
+1	   v	
+
+
+∆t  
+  
+   ec 1  ∆t
+and since:
+
+
+
+
+H t2
+
+Ht  a 
+H t1  	
+a˙
+
+/
+a˙		az		H
+
+
+/	/
+a˙	az  a˙t  tz 
+1  a˙
+az
+t  tz 
+
+/
+1 Hz t  tz 
+
+our z as a function of the recessional velocity is:
+λ	 vr
+
+
+z   obs  1  e c 1 λem
+
+For vr = c we get z = 1.718.
+GR, using ΩM = 0.3 and ΩΛ = 0.7, gives for vr = c, the value z ~1.5 .  See Fig. 2 in
+T. M. Davis and C. H. Lineweaver (2003). This has implications for the Particle Horizon and the other cosmological issues as discussed in the referenced paper.
+We derive the known relation, a  1/1 z, from equation (9). For dt the time difference between successive crests:
+
+c  dℓ  a dt
+λobs  c dtobs  dℓaobs
+λem  c dtem  dℓaem
+gives:
+
+
+hence:
+
+λobs
+λem
+ aobs
+aem
+For aobs = 1 and
+
+aem
+ a :
+
+
+λobs  1
+λem	a
+z  λobs 1  1 1  which gives:
+λem	a
+a 		1 1 z
+
+This is the result of differences in the arrival times of successive wave crests, and is not related to the concept of a photon.
+This result is valid only for the dynamic case of an expanding universe.
+
+The relations H = H0a-1 and a  1/1 z give H(z) = H0(1 + z). We show that this result is confirmed by observations.
+In this section we use the conventional notation H(z) = H0h(z).  In our theory:
+h(z) = 1 + z
+Whereas the known equation with the two dependent free parameters, ΩM and ΩΛ, for
+flat space where ΩM + ΩΛ = 1 is:
+
+
+
+hz  M
+
+/
+1 z3  	2
+
+see A. G. Riess et al (2006) (2007) and S. M. Carroll (2004).
+Our h(z) yields a different dL, the Luminosity Distance (LD) from that derived from equation (16). LD is defined by the ratio of the luminosity, L, of a supernova, to its measured flux, F:
+
+
+d2 
+L
+
+/
+4F
+
+From the known relation:
+	 c 	 dz 
+z
+
+
+dL 
+1 z	 
+H	hz
+using our h(z), we get:
+
+	 c 
+z  dz 
+	 c 		
+
+
+dL 
+1 z
+H  1 z 
+1 z
+ln 1 z
+H0
+
+
+Equation (13) is the basis of the following comparison of our theory with observations. Figure (1) plots the distance modulus µ versus the log of the redshifts, z, with data from 307 supernovae Ia (blue squares).
+Note that while the LD derived in FRW cosmology is a function with two dependent free parameters, ΩM + ΩΛ = 1 (flat universe) that can be, and were in fact adjusted to various data sets, in the last decade, our LD is obtained directly from theory, with no free parameters.
+Figure (1) shows the distance modulus versus log(z), where z is the cosmological redshift.
+Frame (a) displays the measured data in 307 SN Ia as compiled and presented in the website of the SNP Union http://supernova.lbl.gov/Union, Kowalski et al (2008).
+The three curves are, from bottom up:
+(Green) derived from the FRW cosmology for a flat and matter-dominated universe with ΩM , ΩΛ   1.0,0.0.
+(Red) derived by our cosmology with no acceleration.
+(Black) derived from the FRW cosmology for an accelerating flat universe with
+ΩM , ΩΛ   0.3,0.7.
+
+Frame (b) zoom on the upper-right corner of Frame (a), shows the fit of the three curves to the data.
+
+Frame (c) extends the theoretical curves to z = 100. The family of thin lines are FRW
+
+lines for 11 pairs of the flat-universe parameters starting from
+ΩM  0.10, ΩΛ  1 ΩM
+
+in steps of 0.1. The three heavy lines are the same as in Frames (a) and (b). The highest thin line is that of an FRW ΩM , ΩΛ   0.0,1.0 which represent a dark
+energy-dominated universe.
+Frame (d) is a zoom on the upper-right corner of Frame (c). It shows the theoretical curves for large z values.
+Note the cross-over between our curve (Red) and the curve (Black) of the currently accepted  CMB cosmology that occurs around log(z) = 0.76, z = 5.76. Thus for higher z values our cosmology predicts a distance modulus as a function of log(z) curve that is distinctly different from that predicted by  CMB cosmology for a flat universe. Future observations of high z standard candles should support our cosmology.
+
+Figure (1) Distance Modulus, µ, Versus the Log of the Redshift, z with Data Points for 307 Ia Supernovae
+
+Discussion
+It is now appropriate to relate to the apparent failure of the current cosmology. We agree that GR is valid.
+We agree that the FRW metric is correct:
+The velocity of light is a constant of nature, independent of space density.
+Our result, a˙  const , enables us to consider the expansion of the universe to be the uni-directional flow of time. Thus the expansion is a master clock, which started with the BB, having a unit of time determined by rate of expansion.
+However, despite the above, we find that Friedmann’s equations are irrelevant to cosmology.
+This is the result of g being equal to CMB which affects the GR field equation and renders it
+irrelevant to cosmology. This issue will be discussed in full elsewhere.
+Summary
+In the universe the gravitational energy equals the CMB energy and hence g CMB . This implies that a˙  const , ( ˙a˙  0 ).
+The above leads to H(z) = H0(1+z) and hence to DL  ln(1 + z). This result is supported by its fit to data from observations of hundreds of Ia supernovae - obtained without any free parameters. This validates our theoretical result that a˙  const .
+The Hubble constant, H0, is calculated and the result fits the calculated value based on observations.
+Our reconsideration of basic concepts in Cosmology and Astrophysics show that CMB
+and g are sufficient to account for cosmological phenomena, and thus dispel the
+mystery of Dark Energy.
+Acknowledgements
+We would like to thank Roger M. Kaye for his linguistic contribution and technical assistance.
+References
+Barak S. A GeometroDynamic Model (GDM) of Reality (to be published) 2008 Brodin G. et al arxiv:astro-ph/0204013 v2	30 October 2002
+Burk D. L. et al PRL Vol 79 No. 9 1997
+Carroll S. M. Spacetime and Geometry Addison Wesley 2004
+Davis T. M. and Lineweaver C. H. arxiv:astro-ph/0310808v2 November 2003 Davis et al. arxiv:astro-ph/0701510	2007
+Freedman et al arxiv:astro-ph/0012376v1 18 December 2000
+Kowalski et al. The Supernova Cosmology Project, Ap.J., 2008 [astro-ph arXiv:0804.4142] Misner C. W. et al Gravitation 1970 Freeman and Company
+Perlmutter S. et al Astrophys. J. 517, 565 1999 Perlmutter S. Physics Today April 2003
+Riess A. G. et al Astron. J. 116, 1009 1998
+
+Riess A. G. et al arxiv:astro-ph/0611572v2 20 December 2006
+Riess A. G. et al The Astronomical Journal 659:98-121 10 April 2007 Rindler W. Relativity 2004 Oxford University Press
+Sakharov A. D. Soviet Physics – Docklady Vol 12 No. 11 P. 1040 1968
+
+
+
+
+
+Abstract
+On Dark Energy and Dark Matter (Part I)
+Shlomo Barak and Elia M Leibowitz
+School of Physics & Astronomy, Tel Aviv University arxiv:astro-ph v1	24 December 2008
+
+Phenomena currently attributed to Dark Energy (DE) and Dark Matter (DM) are merely a
+result of the interplay between gravitational energy density, g , generated by the
+contraction of space by matter, and the energy density of the Cosmological Microwave
+Background (CMB), CMB which causes space dilation.
+These contentions and the observation that, globally, in the universe g CMB lead to the
+derivation of the Hubble parameter, H, as a function of the scale factor, a, the time, t, the redshift, z, and to the calculation of its present value, H0. They also lead to a new understanding of the cosmological redshift and the Euclidian nature of the universe.
+From H(t) we conclude that a˙  const , ( ˙a˙  0 ), in contrast to the consensus of the last
+decade. This result is supported by the fit of our theoretically derived flux from supernovae (SN) as a function of z, with observation. This flux is derived based on our H(z) that determines DL, the Luminosity Distance (LD). We obtain this fit without any free parameters, whereas in current cosmology this fit is obtained by using the dependent free parameters ΩM and ΩΛ.
+---
+This paper is divided into three parts. Part I (this paper) discusses DE and Cosmological issues. Part II (arxiv:astro-ph 2008) addresses the DM issue, where we show that in and around galaxies the above interplay causes inhomogeneous and anisotropic expansion of space. The expansion of the universe is homogeneous and isotropic only when viewed globally. This leads to a theoretical derivation of dynamic and kinematic relations that fit observed Rotation Curves (RC) in galaxies. Part III introduces a model that describes the creation and evolution of galaxies and their resulting RCs.
+The ideas and notions raised in this trilogy are more fully discussed in a forthcoming book by one of us, S. Barak (2009) that reconsiders the foundations of Physics.
+Dark Energy
+DE has been suggested to explain the supposed changes in the rate of expansion of the universe, and to explain its Euclidian nature (flatness), A. G. Riess et al (1998), S. Perlmutter et al (1999). However, we show that a˙  const , ( ˙a˙  0 ).
+To prove our contentions, with which we resolve the issues of DE and DM, we reconsider basic concepts in cosmology and astrophysics. Assumptions presented below are then justified theoretically, and are shown to be valid by observations.
+
+Space is three-dimensional, foamy, elastic and vibrating.
+The assumption that space is 3D, deformed or un-deformed, means that the universe is not a curved 3D manifold in a hyperspace with an additional spatial dimension. For a flat universe the issue of an additional spatial dimension is not relevant. The terms “deformed” and “curved” are used for a 3D-space and a 3D-manifold, respectively.
+The consensus that space is foamy, and hence cellular, rests on the meaning of expansion, and the requirement that its vibrations have a finite energy density.
+The deformation of space is the change in size of its cells. Positive or negative deformation, around a point in space, means that the space cells grow or shrink, respectively, from this point outwards. For a positively curved manifold, the ratio of the circumference of a circle to the radius is less than 2π, as measured by a yardstick of fixed length. For a deformed 3D-space, with a positive deformation, around a point the above ratio is also less than 2π, as measured by a flexible yardstick such as the linear dimension of a space cell. Note that for a deformed space there is no meaning to global deformation, deformation is a local attribute. The surface of a sphere with radius R is a 2D manifold with a global curvature 1/R. However, a global deformation for a deformable 2D planar sheet can only have the value zero i.e., the sheet is Euclidian. The smallest linear dimension of a space cell, whether Planck’s length or not, which determines the Zero Point Fluctuations (ZPF) energy density, is not relevant to our discussion. Here, deformation around a point is expressed by a scale factor a(r,t) that depends on both time and the vector, r, from the point. Space density is determined by a(r,t).
+We suggest that space vibrations are the Electromagnetic (EM) waves and that these waves dilate space (in solids it is anharmonicity that is responsible for thermal expansion). Hence, globally, the CMB is the main contributor to space dilation over the average space density set by the ZPF, A. D. Sakharov (1968) and C. W. Misner et al (1970). We thus consider the CMB to be a global anti-gravitational cosmological
+8G
+constant,  		, see Section 3. We show that the present value of
+c4	CMB
+CMB determines the present value, H0, of the Hubble parameter.
+Part II shows that locally around a mass the interplay between g and CMB causes an
+inhomogeneous expansion of space, which enhances positive deformation around the mass. This explains the “DM” phenomena. We also show that CMB at the time of
+formation of a galaxy determines, g0, the central acceleration at which its Rotation Curve (RC) becomes flat. g0 = 1.210-8 cm sec-2 for galaxies formed approximately 12 BY ago, the epoch of galaxy formation.
+ mc2 does not imply that all forms of energy deform space in the same way. We contend that energy in the form of matter deforms space positively by contracting it, whereas energy in the form of electromagnetic waves deforms space by dilating it. The above has implications for both the mass equivalence principle and the way that the energy densities of gravitation and electromagnetic waves are incorporated in the General Relativity (GR) field equation. This is discussed in a book by S. Barak (2009).
+
+Space contraction or expansion is the change of its cell size.
+GR shows that a mass contracts space around it. Cells close to the mass are smaller than those at a distance and hence the elastic positive deformation of space. Length, close to a mass, is smaller, and the “running of time” is slower, than at a distance.
+Gravitation is the elastic deformation of space, remove the mass and the deformation is gone. In Part II we discuss the issue of elastic versus non-elastic 3D space. Deformation due to space expansion is non-elastic, as “DM halos” show.
+Space expansion is the enlargement of its cells, and the CMB dilating vibrational energy contributes to this expansion. This implies that the number of space cells in the universe is conserved.
+Space contraction by a mass can be represented by a gravitational scale factor ag  ℓ/ℓ0 ,
+where ℓ0 is a distance in space far from masses, and ℓ is the same distance contracted by
+the introduction of a mass. In GR, ℓ/ℓ0  exp/c2 , hence ag at the surface of the sun,
+or at the edge of our galaxy, is approximately 1 – 10-6 whereas in the last 12 BY the scale factor used in cosmology changed, due to expansion, from 0.25 to 1.
+This difference, orders of magnitude, in space deformation is related to the elastic versus non-elastic behavior of space, see Part II.
+The contribution of electromagnetic energy density to space deformation must be reconsidered.
+The dilation of space by the energy density of Electromagnetic (EM) waves, such as the CMB, is a non-linear phenomenon, which implies the violation of Lorentz Invariance (LI).
+Examples of other non-linear EM phenomena are the bending of light beams in a gravitational field, and the scattering of intense light by light which results in the production of pairs of electrons and positrons. No matter is present in the space occupied by the interacting beams (D. L. Burk et al, 1997 and G. Brodin et al, 2002). Maxwell’s equations, however, being linear, express only linear EM phenomena.
+This paper provides proof of our assertion that the CMB dilates space. Part II presents an additional proof – the theoretical derivation of both the dynamic and kinematic laws of RCs that resemble the Milgrom and Tully Fisher relations. This derivation dispels the mystery of DM.
+The cosmological principle (CP) implies different geometries of the universe for different types of space.
+For a 3D space manifold, curved in a hyperspace with an extra spatial dimension, CP implies a uniform global curvature. In this case the universe is finite but with no boundary. For a 3D space CP implies flatness. This is the result of curving being a local attribute only. In other words the only global curvature possible is zero. In this case the universe is either infinite, or finite with a boundary. Close to a boundary CP can not hold true.
+13	3
+The measured energy density of the CMB, as of today, is CMB ~ 4 10	erg cm	,
+whereas the calculated energy density of baryonic matter is:
+  mc2 ~ 2 1010 erg cm3 . This estimation is based on the Big Bang Nucleosynthesis
+
+(BBN) range of values for m, and is independent of the Hubble constant, W. Rindler (2004) p.337.
+Thus the universe is mass dominant, but in contrast to current understanding, this does not imply that the interior of the universe must be positively curved.
+The contractual gravitational energy of the universe equals its dilational CMB energy.
+Gravitational energy is confined in each and every Hubble Sphere (HS) since gravitational contraction moves at the speed of light relative to the mass that is generating the gravitational field. Every point in the universe is both the center and the edge of some identical HSs. Therefore, g , far from masses, must be, globally, the same. This is used
+as an argument in our explanation of the Euclidian nature of the universe.
+1	1   GM 2
+
+g 
+8G E 		
+2
+/	/ /
+8G  R 2
+hence:
+
+	HS 
+2G	2  2	2G	2 c2
+(1)	g 	9	m R HS 	9	m H2
+m – baryonic mass density of the universe	RHS – radius of an HS.
+The present calculated value of  taking m = 210-31 gm cm-3 based on BBN is:
+  3.5 1013 erg cm-3
+whereas the present measured value for the CMB is:
+13	-3
+CMB  4.17 10	erg cm
+This indicates that g  /CMB / or, equivalently that the gravitational energy Ug
+equals the CMB energy UCMB in the universe. Note that, whereas g is concentrated
+around masses, 	is distributed homogeneously.  and 	depend on a-4,
+
+CMB
+hence their equality is retained over time.
+g	CMB
+
+That Ug equals UCMB is not accidental. Elementary particles are considered point-like or
+string-like and structureless, but if they are not (S. Barak, 2009) then the above equality is explained.
+Inside a finite size elementary particle ZPF waves with a wavelength twice its diameter cannot resonate. Hence, in the process of creation of the particle, energy emigrates from the inside to the outside – Casimir effect. The emigrated energy is above the ZPF and hence is detectable – this is the CMB energy. The deficiency in energy inside causes contraction around which is gravitation, with the same contractual gravitational energy as the energy that left the particle.
+Note that our suggestion for the origin of the CMB explains its uniformity in the universe without the need for a supposed epoch of inflation. This energy, through its interaction with matter, acquired its blackbody characteristics.
+We thus conclude that regardless of the structure of an elementary particle and just as a
+
+result of its being of finite size, Ug = UCMB . This understanding leads to the proof of the
+mass equivalence principle (S, Barak, 2009).
+Our conviction that this is the case arises from the fact that this equality leads to the derivation of H(a) and the calculation of H0, the Hubble constant, with an accuracy of
+~15%, see below. We do not know of any theory that can yield the value of H0.
+The expansion of the universe is the result CMB being homogeneous whereas g is concentrated around galaxies. In the inter-galactic space CMB ~ g hence the expansion
+( is pressure) and in and around galaxies g CMB and hence expansion is inhibited. Part II shows that this inhomogeneous expansion results in the flattening of Rotation Curves (RC).
+Inhabitants of a 3D universe can only make observations related to internal
+deformations. However, such deformations, on a global scale, do not appear since Ug and UCMB are distributed, on a large scale, homogeneously. The result is the Euclidian nature of the universe, and hence the validity of CP far from the boundary.
+In no way is a critical mass density or the idea of inflation, involved in our considerations and calculations.
+We derive the dependence (evolution) of the Hubble parameter, H, on the scale
+
+factor, a, by equating CMB
+to the gravitational energy density g
+in the universe
+
+and calculate its present value, H0.
+From equation (1):
+
+  2G
+2 c2
+
+g	9	m
+H2 CMB
+
+m – baryonic mass density of the universe	RHS – radius of an HS.
+Values as of today are designated by the suffix 0. Note that the scale factor, a, as of today is chosen as 1 and hence in the past was less than 1. The above equation gives:
+
+(2)
+H2 
+2Gc2m2
+
+/
+9 CMB
+
+which is our “equivalent” to the FRW result.
+
+Substituting m  m0
+gives:
+ a3 and the known relation, 
+CMB
+a4 in Equation (2)
+
+
+
+
+H2 
+2G m2 c2
+
+ a2
+
+hence:
+
+9
+
+H  m0  c
+CMB
+
+
+
+ a1
+
+
+and thus:
+
+
+(3)	H = H0 a-1	where:
+
+
+
+(4)
+H0 
+m0  c
+Inserting the measured values:
+
+
+
+c =31010 cm sec-1
+CMB
+ 4.17 1013 erg cm3 ,
+
+and the BBN estimation m0 = 210-31 gr cm-3 in the above equation gives: H0 = 210-18 sec-1.
+The measured value, H0 = (72 8) km sec-1/Mpc = (2.3 0.26)10-18 sec-1 (W. L. Freedman et al, 2000) is obtained with the higher estimation, 2.3 10-31 gm cm-3, for m0.
+We derive the Hubble Parameter, H as a function of time, t, and show that
+a˙  const ( ˙a˙  0 ).
+This result is in contrast to the consensus but as Section 9 shows, it complies with observation.
+def
+H  a˙/a , but, as we have shown H  H0 /a , hence:
+
+a˙  const ( ˙a˙  0 ).
+The value of the constant a˙ is
+
+
+10-18 sec1 since H  a˙ a
+
+
+where a0 = 1 today
+
+Integrating both sides of da  H0dt and designating BB - Big Bang, a0 = 1, gives:
+0 – now, tBB = 0,
+
+a  a
+BB
+ H0 t
+but:
+a  H0
+H
+hence:
+
+(5)
+t  1  1
+Now, at t = t0, H = H0 hence:
+
+
+(6)
+
+t0 
+H	H BB
+1   1
+H 0	H BB
+
+Since  HBB >> H0
+
+t0 ~
+1	 13.7  BY
+H 0
+the age of the universe
+
+(7)	Ht 	1
+
+The distance between any two galaxies grows with a, but H falls with a. We thus conclude that any two galaxies recede from each other at all times, at a constant velocity v = rH. This has implications for our understanding of the Big Bang.
+vr
+Cosmological redshift due to space expansion is z  e c 1 The basis for our discussion is:
+A yardstick and a clock, far from masses are not affected by their location in space or by time.
+d  ℓa , the distance between two points in an expanding universe, as measured by a yardstick.
+a is the scale factor with its present chosen value a = 1 hence in the past a < 1.
+
+ℓ is defined as the ratio d/a . Alternatively, d = na where n is the number of space cells and a is the linear dimension of a cell.
+Light velocity, c, is a constant of nature, affected only by the presence of mass.
+The distance between a photon, or crest of a wave, and its emitter is: d(t) = ℓ (t)a(t) and its velocity relative to the emitter (located in galaxy A) is:
+(8)	vp  d˙t  ℓ˙t at ℓ  a˙t
+The first term on the right-hand side is light velocity:
+c  ℓ˙a
+whereas the second term is the recessional velocity of the place at which the photon is momentary “present”.
+vr  ℓa˙t	therefore:
+vp  c  vr
+
+In this discussion, Special Relativity is not relevant.
+We have shown that a˙  const hence:
+at  atz  a˙t - tz   a z  a˙t - tz 	for any time
+
+
+
+t  tz .
+
+In our discussion we use tz as the time of emission of our photon from galaxy A.
+From c  ℓ˙a we get:
+dℓ  c 	c
+dt	a	az  a˙t  tz 
+
+1 dℓ 
+c
+dt
+az  a˙t  tz 
+and by integration:
+
+
+
+1 ℓ  ℓ
+c	z
+  1{lna
+a˙	z
+a˙t  tz
+ ln az}
+but
+ℓz  0 , hence:
+
+ℓ  1 
+  a˙
+t  t 
+but
+a˙  Ht
+  H
+,	hence:
+
+
+/
+c	a˙
+ln1	z 	z	z
+	az		z
+
+t  t  1 exp a˙ℓ   
+z	H 	 c   1
+z 			
+Let t0 be the cosmic time of arrival of a wavecrest to the observer in galaxy B.
+t  t   1  exp a˙ℓt0   	but	ℓt   ℓ   d	is the present distance between
+
+z		
+z 
+  1
+c		
+0	0	0
+
+galaxies A and B. Hence a˙ℓ0 is their recessional velocity vr , and thus the Look Back Time is:
+		 1    vr	
+
+
+t  tz
+	e c
+Hz 
+1
+
+
+The cosmological redshift is the result of successive crests arriving at the observer
+with a longer arrival time difference t than their time difference t at emission.
+
+λem  c ∆t	whereas  λobs  c ∆t .
+∆t  t2  t1	∆t  tz   tz
+		 	2	 1
+∆t   t2  tz   t1  tz	 ∆t
+Equation (11) gives:
+
+
+		1
+1	   v	
+
+
+∆t  
+  
+   ec 1  ∆t
+and since:
+
+
+
+
+H t2
+
+Ht  a 
+H t1  	
+a˙
+
+/
+a˙		az		H
+
+
+/	/
+a˙	az  a˙t  tz 
+1  a˙
+az
+t  tz 
+
+/
+1 Hz t  tz 
+
+our z as a function of the recessional velocity is:
+λ	 vr
+
+
+z   obs  1  e c 1 λem
+
+For vr = c we get z = 1.718.
+GR, using ΩM = 0.3 and ΩΛ = 0.7, gives for vr = c, the value z ~1.5 .  See Fig. 2 in
+T. M. Davis and C. H. Lineweaver (2003). This has implications for the Particle Horizon and the other cosmological issues as discussed in the referenced paper.
+We derive the known relation, a  1/1 z, from equation (9). For dt the time difference between successive crests:
+
+c  dℓ  a dt
+λobs  c dtobs  dℓaobs
+λem  c dtem  dℓaem
+gives:
+
+
+hence:
+
+λobs
+λem
+ aobs
+aem
+For aobs = 1 and
+
+aem
+ a :
+
+
+λobs  1
+λem	a
+z  λobs 1  1 1  which gives:
+λem	a
+a 		1 1 z
+
+This is the result of differences in the arrival times of successive wave crests, and is not related to the concept of a photon.
+This result is valid only for the dynamic case of an expanding universe.
+
+The relations H = H0a-1 and a  1/1 z give H(z) = H0(1 + z). We show that this result is confirmed by observations.
+In this section we use the conventional notation H(z) = H0h(z).  In our theory:
+h(z) = 1 + z
+Whereas the known equation with the two dependent free parameters, ΩM and ΩΛ, for
+flat space where ΩM + ΩΛ = 1 is:
+
+
+
+hz  M
+
+/
+1 z3  	2
+
+see A. G. Riess et al (2006) (2007) and S. M. Carroll (2004).
+Our h(z) yields a different dL, the Luminosity Distance (LD) from that derived from equation (16). LD is defined by the ratio of the luminosity, L, of a supernova, to its measured flux, F:
+
+
+d2 
+L
+
+/
+4F
+
+From the known relation:
+	 c 	 dz 
+z
+
+
+dL 
+1 z	 
+H	hz
+using our h(z), we get:
+
+	 c 
+z  dz 
+	 c 		
+
+
+dL 
+1 z
+H  1 z 
+1 z
+ln 1 z
+H0
+
+
+Equation (13) is the basis of the following comparison of our theory with observations. Figure (1) plots the distance modulus µ versus the log of the redshifts, z, with data from 307 supernovae Ia (blue squares).
+Note that while the LD derived in FRW cosmology is a function with two dependent free parameters, ΩM + ΩΛ = 1 (flat universe) that can be, and were in fact adjusted to various data sets, in the last decade, our LD is obtained directly from theory, with no free parameters.
+Figure (1) shows the distance modulus versus log(z), where z is the cosmological redshift.
+Frame (a) displays the measured data in 307 SN Ia as compiled and presented in the website of the SNP Union http://supernova.lbl.gov/Union, Kowalski et al (2008).
+The three curves are, from bottom up:
+(Green) derived from the FRW cosmology for a flat and matter-dominated universe with ΩM , ΩΛ   1.0,0.0.
+(Red) derived by our cosmology with no acceleration.
+(Black) derived from the FRW cosmology for an accelerating flat universe with
+ΩM , ΩΛ   0.3,0.7.
+
+Frame (b) zoom on the upper-right corner of Frame (a), shows the fit of the three curves to the data.
+
+Frame (c) extends the theoretical curves to z = 100. The family of thin lines are FRW
+
+lines for 11 pairs of the flat-universe parameters starting from
+ΩM  0.10, ΩΛ  1 ΩM
+
+in steps of 0.1. The three heavy lines are the same as in Frames (a) and (b). The highest thin line is that of an FRW ΩM , ΩΛ   0.0,1.0 which represent a dark
+energy-dominated universe.
+Frame (d) is a zoom on the upper-right corner of Frame (c). It shows the theoretical curves for large z values.
+Note the cross-over between our curve (Red) and the curve (Black) of the currently accepted  CMB cosmology that occurs around log(z) = 0.76, z = 5.76. Thus for higher z values our cosmology predicts a distance modulus as a function of log(z) curve that is distinctly different from that predicted by  CMB cosmology for a flat universe. Future observations of high z standard candles should support our cosmology.
+
+Figure (1) Distance Modulus, µ, Versus the Log of the Redshift, z with Data Points for 307 Ia Supernovae
+
+Discussion
+It is now appropriate to relate to the apparent failure of the current cosmology. We agree that GR is valid.
+We agree that the FRW metric is correct:
+The velocity of light is a constant of nature, independent of space density.
+Our result, a˙  const , enables us to consider the expansion of the universe to be the uni-directional flow of time. Thus the expansion is a master clock, which started with the BB, having a unit of time determined by rate of expansion.
+However, despite the above, we find that Friedmann’s equations are irrelevant to cosmology.
+This is the result of g being equal to CMB which affects the GR field equation and renders it
+irrelevant to cosmology. This issue will be discussed in full elsewhere.
+Summary
+In the universe the gravitational energy equals the CMB energy and hence g CMB . This implies that a˙  const , ( ˙a˙  0 ).
+The above leads to H(z) = H0(1+z) and hence to DL  ln(1 + z). This result is supported by its fit to data from observations of hundreds of Ia supernovae - obtained without any free parameters. This validates our theoretical result that a˙  const .
+The Hubble constant, H0, is calculated and the result fits the calculated value based on observations.
+Our reconsideration of basic concepts in Cosmology and Astrophysics show that CMB
+and g are sufficient to account for cosmological phenomena, and thus dispel the
+mystery of Dark Energy.
+Acknowledgements
+We would like to thank Roger M. Kaye for his linguistic contribution and technical assistance.
+References
+Barak S. A GeometroDynamic Model (GDM) of Reality (to be published) 2008 Brodin G. et al arxiv:astro-ph/0204013 v2	30 October 2002
+Burk D. L. et al PRL Vol 79 No. 9 1997
+Carroll S. M. Spacetime and Geometry Addison Wesley 2004
+Davis T. M. and Lineweaver C. H. arxiv:astro-ph/0310808v2 November 2003 Davis et al. arxiv:astro-ph/0701510	2007
+Freedman et al arxiv:astro-ph/0012376v1 18 December 2000
+Kowalski et al. The Supernova Cosmology Project, Ap.J., 2008 [astro-ph arXiv:0804.4142] Misner C. W. et al Gravitation 1970 Freeman and Company
+Perlmutter S. et al Astrophys. J. 517, 565 1999 Perlmutter S. Physics Today April 2003
+Riess A. G. et al Astron. J. 116, 1009 1998
+
+Riess A. G. et al arxiv:astro-ph/0611572v2 20 December 2006
+Riess A. G. et al The Astronomical Journal 659:98-121 10 April 2007 Rindler W. Relativity 2004 Oxford University Press
+Sakharov A. D. Soviet Physics – Docklady Vol 12 No. 11 P. 1040 1968
+
+166	FOUNDRY PRODUCTION AND METALLURGY	4’2020
+
+
+https://doi.org/10.21122/1683-6065-2020-4-166-168	Поступила 10.08.2020
+УДК 524	Received 10.08.2020
+О ТЕМНОЙ МАТЕРИИ И ТЕМНОЙ ЭНЕРГИИ
+В. Ю. СТЕЦЕНКО, Институт технологии металлов НАН Беларуси, г. Могилев, Беларусь, ул. Бялыницкого-Бирули, 11. E-mail: stetsenko.52@bk.ru
+А. В. СТЕЦЕНКО, МОУВО «Белорусско-Российский университет», г. Могилев, Беларусь, пр. Мира, 43
+Гипотеза о темной материи была создана для объяснения причины сохранения звездных скоплений от рассеивания. Слабым местом этой гипотезы является большой возраст космоса, который составляет 13,8 миллиардов лет. На ос-новании экспериментальных данных показано, что возраст космоса не превышает 10 тысяч лет. В этом случае не нуж-на гипотеза о темной материи, поскольку звездные скопления не могут рассеяться за такое малое космическое время. Гипотеза о темной энергии была создана для объяснения причины ускоренного расширения космоса. Основанием для такого явления служит большая величина спектрального красного смещения далеких светящихся космических объек-тов. Показано, что эта величина в основном определяется значительным поглощением энергии света далеких космиче-ских объектов огромным количеством межгалактического газа, а не движением этих объектов. В этом случае не нуж-на гипотеза о темной энергии, а космос не должен ускоренно расширяться и рассеяться в пространстве.
+Ключевые слова. Темная материя, темная энергия, космос, спектральное красное смещение, космические объекты.
+Для цитирования. Стеценко, В. Ю. О темной материи и темной энергии / В. Ю. Стеценко, А. В. Стеценко // Литье и ме-таллургия. 2020. № 4. С. 166-168. https://doi.org/10.21122/1683-6065-2020-4-166-168.
+
+ON DARK MATTER AND DARK ENERGY
+V. Yu. STETSENKO, Institute of Technology of Metals of National Academy of Sciences of Belarus, Mogilev, Belarus, 11, Bialynitskogo-Biruli str. E-mail: stetsenko.52@bk.ru
+A. V. STETSENKO, Belarusian-Russian University, Mogilev, Belarus, 43, Mira ave.
+The dark matter hypothesis was created to explain the reason for the preservation of stellar clusters from dispersion. The weak point of this hypothesis is the great age of space, which is 13.8 billion years. Based on experimental data, it is shown that the age of space does not exceed 10 thousand years. In this case, the hypothesis of dark matter is not needed, since stellar clusters cannot scatter in such short cosmic time. The dark energy hypothesis was created to explain the reason for the accelerated expansion of space. The basis for this phenomenon is a large amount of spectral redshift of distant luminous space objects. It is shown that this value is mainly determined by the significant absorption of light energy of distant space objects by a huge amount of intergalactic gas, and not by the movement of these objects. In this case, the hypothesis of dark energy is not needed, and space should not rapidly expand and scatter in space.
+Keywords. Dark matter, dark energy, space, spectral redshift, space objects.
+For citation: Stetsenko V. Yu., Stetsenko A. V. On dark matter and dark energy. Foundry production and metallurgy, 2020, no. 4,
+pp. 166-168. https://doi.org/10.21122/1683-6065-2020-4-166-168.
+
+Согласно современной стандартной космологической модели, космос состоит из обычной (барион-ной) материи, темной материи и темной энергии (см. рис.) [1]. В соответствии с этой моделью возраст космоса составляет 13,8 миллиардов лет [2]. «Темная» означает «неизвестная». Тогда на долю неизвест-ного науке вещества – энергии приходится 96 % от их общего количества. Это означает, что вокруг нас существуют сплошная темная материя и темная энергия, а мы о них ничего не знаем. Тогда, как можно доверять науке с ее законами, которые не учитывают действия темной материи и темной энергии? Это ставит ученых в тупик и дает повод для создания и развития различных псевдонаучных спекуляций, фантастики и мистики. Поэтому изучение неизвестных видов материи и энергии является актуальной научной задачей. Но сначала нужно исследовать состояние вопроса и определить основания существую-щих гипотез о темной материи и темной энергии.
+Под темной материей астрофизики подразумевают неизвестное (невидимое) вещество, которое ока-зывает гравитационное воздействие на обычное (видимое) вещество. Относительно недавние исследова-ния космоса показали, что звезды в галактиках движутся с более высокими орбитальными скоростями,
+
+ЛИТЬЕ И МЕТАЛЛУРГИЯ  4’2020	167
+/
+чем считалось ранее [3]. Это поставило ученых в тупик. Простые расчеты показывают, что если возраст светящихся космических объектов (СКО) составляет миллиарды лет, то при существующих орбиталь-ных скоростях звезд все галактики и звездные скопления давно бы рассеялись. Но они до сих пор суще-ствуют. Чтобы устранить такое противоречие, и была выдвинута гипотеза о темной материи. Она была призвана объяснить причину удержания звезд в галактиках и звездных скоплениях. Считается, что тем-ная материя взаимодействует с обычной материей посредством гравитационного поля, которое и удер-живает галактики и звездные скопления от рассеивания в космосе.
+Слабым местом гипотезы о темной материи является большой возраст космоса, исчисляемый 13,8 миллиардами лет. Следует полагать, что эта цифра сильно завышена. Об этом свидетельствует огромное количество фактов. Их можно найти в Интернете, например, на сайте: www.evolution-facts.org. Эти фак-ты свидетельствуют о том, что возраст космоса исчисляется не миллиардами, а тысячами лет. Наиболее показательными являются экспериментальные данные о количестве космической пыли на Луне. Уста-новлено, что скорость осаждения этой пыли в среднем составляет 0,00085 см/год, а реальная толщина слоя пыли на Луне не превышает 7,5 см [4]. Разделив 7,5 см на 0,00085 см/год, получим, что возраст Луны составляет не более 8 824 лет. Кроме того, вокруг Солнца вращается большое количество недолго-вечных комет. Установлено, что срок их жизни не должен быть более 10 тысяч лет [4]. Если возраст кос-моса исчисляется тысячами лет, то необходимость в существующей гипотезе о темной материи в космо-се отпадает, так как за такое относительно короткое космическое время галактики и звездные скопления не могли заметно рассеяться.
+Считается, что темная энергия равномерно заполняет все космическое пространство и проявляется в антигравитации [5]. Эта гипотетическая энергия была введена в современную стандартную космо-логическую модель, чтобы объяснить причину ускоренного расширения космоса. Это ускорение было обнаружено в результате наблюдений за удаленными СКО. Согласно закону Хаббла, скорость удаления СКО от Земли определяется следующим уравнением [3]:
+v  Hr ,	(1)
+где H – константа Хаббла, равная 74,2 км/(с∙Мпс); r – расстояние до СКО. Величина r определяется
+
+следующим уравнением [6]:
+r  cz 
+H
+
+,	(2)
+
+где c – скорость света в вакууме; z – доплеровское спектральное красное смещение (СКС). Последнее представляет собой относительное смещение длины волны света от удаляющегося источника по отноше-нию к наблюдателю в красную сторону по эффекту Доплера. Величина z определяется по уравнению [3]:
+z   ,	(3)
+0
+где ∆λ – смещение длины волны к определенной спектральной полосе; λ0 – длина волны самой по-лосы, наблюдаемой в лаборатории.
+Из уравнений (1) и (2) следует:
+v  cz .	(4)
+Из уравнения (4) следует, что скорость удаления СКО от Земли пропорциональна величине доплеровско-го СКС. Из уравнения (2) следует, что расстояния до удаляющихся СКО также пропорциональны величинам соответствующих доплеровских СКС. Чем больше их значения, тем дальше расположены СКО, тем выше скорость их удаления от Земли. Измеряя СКС СКО, астрофизики оценивают по формуле (2) расстояние до наиболее удаленных из них (квазаров). Получаемая величина превышает 10 млрд. световых лет [3]. При этом считают, что СКС определяется только движением СКО. Также установлено, что чем дальше находится СКО от Земли, тем выше СКС, и наоборот. Для квазаров это значение более восьми [6].
+Отклонение лучей звездного света, проходящих вблизи солнечного диска, неоднократно фиксирова-лось во время солнечных затмений. Это явление приписывалось исключительно гравитационному полю Солнца, что являлось одним из основных аргументов в пользу общей теории относительности А. Эйн-штейна. Но при этом не учитывалось отклонение лучей звездного неба сферической газовой атмосфе-рой Солнца. О том, что она существует, свидетельствуют линии Фраунгофера (спектральные линии по-глощения) солнечного спектра. По ним установлено, что атмосфера Солнца состоит из водорода (71 %) и гелия (27 %) [3]. Поэтому световые лучи, идущие от звезд, вблизи солнечного диска будут отклоняться
+
+168	FOUNDRY PRODUCTION AND METALLURGY	4’2020
+
+
+сферической газовой атмосферой по эффекту линзы. Кроме того, солнечная атмосфера поглощает энер-гию лучей света и сдвигает линии Фраунгофера к красной части спектра, вызывая СКС. Оно наблюдает-ся в световых спектрах звезд, имеющих атмосферу. Этим явлением можно объяснить, почему значения СКС двойных звезд разные, хотя расстояния до них примерно одинаковые. Одна из этих звезд, как пра-вило, больше другой по массе. Более массивная звезда имеет большую атмосферу, которая соответствен-но больше поглощает энергию исходящих световых лучей. Поэтому значение СКС у такой звезды будет выше, чем у ее спутницы – менее массивной звезды.
+В космосе существует большое количество межгалактического (межзвездного) газа. Его количество в 9 раз превышает массу всех СКО (см. рисунок). Следует полагать, что большие значения СКС далеких СКО определяются в основном не по их движениям (эффектом Доплера), а значительным поглощением энергии лучей света межгалактическим газом. В таком случае расстояния до удаленных СКО не будут исчисляться миллионами и миллиардами световых лет. Поэтому отпадает необходимость в существова-нии гипотетической темной энергии, которая заставляла бы космос расширяться с ускорением, что ведет к его разрушению. Следует отметить, что гипотезы о темной материи и темной энергии взаимосвязаны через СКС, но противоположны по сущности. Темная материя предполагает гравитационное притяже-ние, а темная энергия – гравитационное отталкивание, которое в природе не наблюдается.
+
+Состав космоса в рамках современной стандартной космологической модели
+
+Таким образом, следует полагать:
+возраст космоса не превышает 10 тысяч лет;
+большое спектральное красное смещение далеких светящихся космических объектов определя-ется в

@@ -1,0 +1,1091 @@
+states. The diagrams with pseudoscalar mesons in the intermediate states are absent at the tree level, while the contribution of scalar mesons is negligible. So, the dominant contribution is given by the vector-meson exchange (the vector mesons being ω and ρ mesons).
+Now, we consider the kinematics of elastic scattering process MN → MN, where M = (M0, M−)
+and N = (p, n). For the case of non-relativistic particles, the maximal value of momentum transfer
+Q2 = −q2 is Q2	= (pk)2 ≈ 4m2 v2. So, Qmax ≈ mNvr ∼ 10−3mN, the value Qmax is much less than
+the mass of the vector mesons mv (mv ∼ mN) and the meson-exchange model is relevant.
+Using the expressions for the vertices from the expressions (44) and (45) we calculated the cross section of the process Na Mb → Na Mb:
+
+
+σ(Na M
+4  2
+	p 
+→ Na M ) =	(1 +
+
+kab
+
+)2,	(46)
+
+/
+b	b	16πm4	sin2 θ
+
+Universe 2020, 6, 196	15 of 30
+
+where Na = (p, n), Mb = (M0, M−), g2/4π ≈ 3.4, sin θ = 1/√3 and kab = ±1 for the case of proton, p, and neutron, n. Equation (46) implies a rather large cross section, for example σ(pM0 → pM0) ≈ 0.9 barn. We should note that large cross section of NM-scattering can stipulate large interaction of dark matter halo and galaxy at some stage of their evolution. The problem of interaction between galaxies and dark matter halo was considered in details in Ref. [80]. Analysis of the low-energy elastic scattering Na Mb → Na Mb reveals an important peculiarity of the NM-interaction. Using the connection of potential and amplitude in Born approximation we show that the potential of M-nucleon interaction at large distances (d ∼ mρ−1) has repulsive character [10,16]. So, new heavy hadrons as DM particles do not form coupled states with nucleon at low energy, i.e., at the modern stage of evolution. This effect makes it possible to escape the problem of anomalous hydrogen and helium [10].
+The processes of non-elastic scattering of type Na Mb  → Nc Md, where Na = (p, n) and Mb = (M0, M−), have kinematics which is an analog of elastic scattering kinematics. In this case, the dominant contribution is caused by t-channel diagram with charged ρ±-meson in the intermediate state. The structure of expression for the cross section explicitly describes the presence of threshold:
+
+g4m
+σ(Na Mb → Nc Md ) = 8πv m4
+ 	
+2m[Ea − ∆ab ]
+
+1/2
+
+,	(47)
+
+r  v
+where Ea ≈ mav2/2, m(Na) = ma ≈ mb ≈ m, ∆ab is some combination of mass-splitting ∆M = m(M+) − m(M0) and ∆m = mn − mp ≈ 1.4 MeV, which depends on the structure of the initial and final states (see Table 2). Expression (47) can be represented in another form:
+
+
+g4m2
+∆ab 1/2
+
+σ(Na Mb → Nc Md ) = 8πm4 [1 − E  ]	.	(48)
+
+From (47) it can be seen that the process of scattering has a threshold Ethr = ∆ab when ∆ab > 0. In Table 4, we present the expressions for the threshold in the case of basic reactions,
+namely pM0 → nM+, nM+ → pM0, nM0 → pM− and pM− → nM0.
+
+Table 4. The threshold parameters ∆ab.
+
+Na Mb → Nc Md	∆ab = f (∆M, ∆m)	Signum ∆ab
+/
+pM0 → nM+	∆p0 = ∆M + ∆m	∆p0 > 0 (threshold)
+nM+ → pM0	∆n+ = −∆M − ∆m	∆n+ < 0 (non-threshold)
+nM0 → pM−	∆n0 = ∆M − ∆m	∆n0 > 0 (∆M > ∆m)
+pM− → nM0	∆p− = −∆M + ∆m	∆p− > 0 (∆M < ∆m)
+
+Consider, for example, the first reaction, pM0 → nM+, where Ep ≈ mpv2/2. The expression for threshold Ethr = ∆M + ∆m ≡ ∆p0 gives the value of corresponding relative velocity vthr =	2∆p0/mp.
+For the case ∆p0 = 10 MeV we get the value of velocity vthr = 0.1 which is significantly greater than the DM velocity now, vr ∼ 10−3. So, this reaction is kinematically forbidden at the modern stage of evolution. The third and fourth processes can be both threshold and non-threshold depending on the value ∆M/∆m. The first, third and fourth processes lead to the intermediate (final) states with unstable particles. These reactions go through two stages, for example, pM0 → nM+ → pe−ν¯e M0e−ν¯e and nM0 → pM− → pM0e−ν¯e. We should note that the reaction nM0 → pM− → pM0e−ν¯e is the most interesting due to presence of long-lived charge particle M−. Note, the indirect evidences of these particles were reported in Ref. [16] (and references therein). Thus, we get an interesting phenomenology of low-energy nucleon-DM scattering which has a specific signature.
+The process of annihilation M0 M¯ 0 → X, where a standard light particle appears in the final
+state X, has some peculiarities in HDM scenario. DM particles M0, in this scenario, are composite and annihilation proceeds through both strong and EW channels. Note, the theory of high-energy
+
+Universe 2020, 6, 196	16 of 30
+
+
+interaction of M particles is unknown, however this reaction at the sub-process level, QQ¯ → qq¯, gg → jets, can be approximately described. With the help of this approach, we estimated the value of strong part of annihilation cross section, which is described by the formula (34). Here, we note that the dominant products of annihilation are the pairs of stable particles, pp¯ and small fraction of e+e−, νν¯, 2γ with total energy Etot ≈ 2M.
+In this subsection, we considered the principal phenomenological consequences of the hadronic composite DM—low-energy strong interaction, fine and hyperfine splitting of excited states. Strong interaction of DM with ordinary matter raises the problem of the connection between galaxies and their DM halos, which can contribute additional information to the modern understanding of galaxy formation. Fine and hyperfine splitting in the set of new heavy mesons leads to the presence of metastable charged hadron and luminosity of hadronic DM. The generation and possibility of registration of heavy charged hadron in cosmic rays was briefly described. We also noted that the effect of hyperfine splitting generates the processes of electromagnetic transition and recombination. These processes can be launched by the interactions of new hadrons with the ordinary matter and cosmic rays and lead to the effect of hadronic DM luminosity. Note, the problems of hyperfine splitting and luminous DM become pressing now in view of the results of underground experiment XENON1T.
+Dark Atoms with Primordial Helium
+Natural choice of parameters of sphaleron transitions between baryons, leptons and stable techniparticles leads in WTC model to balance between baryon symmetry and the excess of stable
+−2n charged techniparticles, corresponding to the observed dark matter density at the mass of these particles in the TeV range.
+For the sequential 4th family with electroweak SU(2) charges, similar balance can be established between the excess of stable U¯ quarks and baryon asymmetry.
+Stable techniparticles behave like charged multiple charged leptons. (U¯ U¯ U¯ ) states are also
+lepton-like, since their hadronic interaction is strongly suppressed [10,64].
+Excessive negatively even charged particles bind with primordial helium as soon as it is formed in the Big Bang Nucleosynthesis.
+Double charged particles form OHe dark atoms—a very nontrivial Bohr like atomic system with heavy lepton-like core and nuclear interacting helium shell with Bohr radius nearly equal to the size of helium nucleus.
+−2n charged techniparticles bind with n primordial helium nuclei in Thomson like XHe atoms with heavy lepton-like particle inside a nuclear droplet of n helium nuclei.
+The Dark atom model has an advantage to explain the puzzles of direct dark matter searches by annual modulations of their low energy binding with Na nuclei. Strongly interacting shell of dark atoms provides their slowing down in terrestrial matter making this form of dark matter elusive for strategy of WIMP searches, involving significant nuclear recoil. However, dark atom interaction with nuclei can provide a low energy binding and the corresponding effect experiences annual modulations. This explanation [81] is based on the following picture of OHe interaction with nuclei. OHe is a neutral atom in the ground state, perturbed by the Coulomb and nuclear forces of the approaching nucleus. The sign of OHe polarization changes with the distance. At larger distances, Stark-like effect takes place—the nuclear Coulomb force polarizes OHe so that the nucleus is attracted by the induced dipole moment of OHe, while as soon as the perturbation by the nuclear force starts to dominate, the nucleus polarizes OHe in the opposite way so that He is situated more closely to the nucleus, resulting in the repulsive effect of the helium shell of OHe. Qualitatively, it leads to a shallow potential well with a low energy bound state in OHe-Na system, while such a state does not exist for heavy nuclei like xenon. A quantitative description of OHe-nucleus interaction with self-consistent account for the effects of nuclear and Coulomb forces is crucial to prove this explanation and such a description can lead to nuclear physics of OHe (or XHe), which determines their physical and astrophysical effects.
+
+Universe 2020, 6, 196	17 of 30
+
+
+New Physics of Strong Interaction in the Galaxy
+New Components of Cosmic Rays
+UHECR Interaction with Dark Matter
+Mutual transformations of SM particles and their bound states in numerous reactions governing by conservation laws and known dynamics are necessarily supplemented by interactions with DM objects in the universe. In addition to the gravitational interaction, the main role is played by electroweak physics, ensuring the annihilation of dark matter (WIMPs) into standard particles. So, processes in which DM candidates disappear generating fluxes of (unstable) mesons and baryons, nuclei, leptons and photons can also be induced by strong interaction. In any case, macroscopic cross sections of such annihilation processes are proportional to the DM density squared and provide the main set of possible signals carrying information about the spatial distribution and dynamics of the hidden mass. Photons, charged leptons and neutrinos can be considered as the most important carriers of such information; their spectra are measured by space detectors and telescopes with ever increasing accuracy and completeness. Obviously, due to lack of hopeful results from collider experiments, our constant efforts to study the DM characteristics in the recent time inevitably reduce to different ideas and suggestions on indirect searches of DM manifestations in astrophysical data [82–88].
+Actually, all final SM particles arise either directly in the processes of annihilation (or decay) of the DM particles or at the stage of secondary mesons (π0, π±, K etc.) decays. The search for such signals which unambiguously produced by the hidden mass objects has been going on for a long time, but there are no reliably confirmed signals yet. It should be noted that the DM annihilation with the maximum cross section occurs in regions of increased DM density, i.e., in the central regions of the halo near active galaxy nuclei (AGN), the process can be also amplified in the possible DM clumps [89–93]. In other regions of galaxies, the efficiency of annihilation signals decreases due to the low density of DM.
+Does not considering the decaying super-heavy DM, besides annihilation reactions, the presence of hidden mass can manifest itself in reactions of high-energy particles scattering on the DM particles. Such high-energy fluxes of cosmic rays permeate the entire universe, their composition, in addition to the main components—protons and nuclei of various elements—includes electrons, photons, neutrinos. Furthermore, aside from the question of how particles of such high energies are generated and distributed across the universe [94–99], the processes of quasi-elastic and inelastic scattering of ultra-high energy cosmic rays (UHECR) by DM particles can give important information on the hidden mass dynamics and its spatial structures. Despite the fact that in this case the macroscopic cross sections are proportional only to the first power of the DM density, the low probability of such processes is partially compensated by the specificity of the signature of the final states, i.e., the unique nature of the signals [100–106].
+Obviously, intergalactic magnetic fields strongly affect the propagation of charged leptons; therefore, information on the sources, conditions, and principles of UHECR generation is mainly contained in neutrino and photon differential fluxes. Thus, the cosmic rays interactions with hidden mass particles should be considered as a useful additional tool for studying DM in the universe. Analysis of such processes should contain not only the cross sections of CR interactions with hidden mass objects calculated in various DM scenarios, but also an assessment of how the energy distributions and composition of UHECR can be changed due to quasi-elastic or inelastic interactions with the DM particles.
+As a testing ground for evaluating and discussing the processes of UHECR interaction with the DM particles, we consider the above described scenario of the SM extension due to additional fermions—hyperquarks. As we have seen, in the minimal version of the extension (SU(4) → Sp(4) H-color model), the DM candidates are stable neutral hyperpion (its charged unstable partners in the triplet of hyperpions have a masses greater by ≈160 MeV and the neutral stable diquark, B0 (see above,
+
+Universe 2020, 6, 196	18 of 30
+
+
+Section 2.1.2). Here we will assume the masses of these two different DM candidates are practically equal; the case of an asymmetric DM, when one of the components is heavier than the other, can also be analyzed [35]. The reason is the calculated mass difference for these components clearly depends on the scale of renormalization and can be made nonzero. The dependence itself on the renormalization follows from different H-quark currents corresponding to these stable objects in the scenario. As it results from numerical analysis, the mass splitting between two components of the DM cannot be more than (10–15) GeV for reasonable values of renormalization scale, µ = (100–1000) GeV. It, however, means that one type of the DM components can effectively transform into another with simultaneous production of soft leptons, neutrino and diffuse photons (see also [107] where the DM components masses are rather different).
+The reason of this soft radiation is that the dominant decay channel of secondary charged hyperpions is the decay π˜ ± → π˜0π± with subsequent leptonic decay of ordinary π±. Therefore, the signature of such a process—creation and subsequent decay of a charged hyperpion—is the appearance of a (decaying) muon and a muonic (anti) neutrino. Appearance and decay of charged H-pions is a characteristic feature of the scenario where additional heavy fermions form new H-hadron states with possibilities of their transformations into each other. Higher unstable H-quark bound states are not considered here under the assumption that their masses are sufficiently large (some interesting results about spectra of masses in H-color extensions basing on the lattice calculations can be found in [108,109]). Specifics of H-color dynamics in this type of models, with two DM components, is that one of the DM candidates interacts via standard gauge bosons with the SM particles, but the other one uses for such interactions only scalar exchanges by partly composite Higgs boson and its more heavier partner, σ˜ -meson.
+Thus, the scenario under consideration represents of possible types of hidden mass components in the SM extensions with additional fermions. Due to the presence of DM components that are different in their nature and origin makes it possible to analyze various channels of interaction of these DM components with cosmic rays.
+Note that in the pioneering work on studying the channels of leptons scattering on the dark matter [100,102], supersymmetry (SUSY) scenario was used as the basis, and, accordingly, neutralinos were considered as obvious candidates for the DM particles. In this case, the main subject of analysis was the secondary photons emitted during the scattering process. It seems to us that reactions in which not only leptons, as a (small) part of cosmic ray flux, but also neutrinos play an active role are very informative. Besides, we mean not only neutrino-initiated processes of quasi-elastic interaction, but also analysis of secondary neutrinos and photons produced in such scattering events.
+Masses of the DM components can be extracted from the system of five kinetic equations for the DM density assuming the existence of freeze-out point for the annihilating DM candidates [105]. Using cross sections in all possible annihilation channels for the DM components, the system of equations has been solved numerically. Then, we get some regions depending on the model parameters where the DM relic density is correct (in Figures 1–3 these areas are crosshatched by vertical and
+horizontal lines) with H-pions fraction that is less than 25 percents: (0.1047 ≤ Ωh2	Ω 2	≤ 0.1228
+and Ωh2  /(Ωh2	Ω 2  ) ≤ 0.25). The crosshatching with oblique lines correspond to areas where
+all parameters are exactly the same, but here H-pions fraction make up just over a quarter of the DM
+(0.1047 ≤ Ωh2	Ω 2	≤ 0.1228 and 0.25 ≤ Ωh2  /(Ωh2	Ω 2 ) ≤ 0.4). It is understood why
+B-component of DM dominates in all valid regions—this is because B0-baryons interact with the world of ordinary particles only via H-quark and H-pion loops or through exchanges with scalar states, but H-pions have tree level interactions with weak vector bosons, so they burn out much faster.
+Further, hatching with horizontal lines denotes regions where recent DM relic abundance is not explained by H-color candidates. Regions with vertical hatching are forbidden by underground-experiment data from XENON collaboration.
+
+Universe 2020, 6, 196	19 of 30
+
+
+Thus, results of kinetic analysis of two-component dark matter can be presented in the Mσ˜ − Mπ˜ plane in Figure 1 as three allowed areas for the DM masses and other model parameters (v.e.v. u, mixing angle θ), namely:
+Region 1: Mσ˜ > 2mπ˜0 and u ≥ Mσ˜ . At small angles of mixing, sθ, and large masses of H-pions it is possible to obtain a significant fraction of H-pions.
+Region 2: the same relation between Mσ˜ , mπ˜0 , u but the H-pion mass is smaller, mπ˜ ≈
+300–600 GeV, H-pion fraction is small here.
+
+Region 3: Mσ˜
+< 2mπ˜. This domain is always possible and it is presented in all figures. Note,
+
+decay σ˜ → π˜ π˜ is prohibited. H-pion fraction in the DM relic can be large if the mass mπ˜0 is large and the mixing angle is small. In Figures 2 and 3, we illustrate the regions changing for lower values of the
+v.e.v. u and sin θ.
+
+Figure 1. Numerical solution of kinetic equations system in a phase diagram in terms of Mσ˜ and mπ˜ , other parameters are also indicated.
+
+Figure 2. Analogous phase diagram in terms of Mσ˜ and mπ˜ , but for much smaller u.
+
+Universe 2020, 6, 196	20 of 30
+
+Figure 3. Phase diagram in terms of Mσ˜ and mπ˜ , the same u but the mixing is smaller.
+Thus, knowing tree level cross sections of DM components annihilation, from kinetics we estimate masses of stable hypercolor particles, π˜0 and B0, B¯ 0 in the range 0.6–1.2 TeV. Here we consider the
+case ∆MBπ˜ ≈ 0. Note, due to connection between masses of H-pions and σ˜ -meson for zero h − σ˜
+mixing, mass of this scalar partner of “nearly standard” Higgs boson is also constrained in some range. Now, with the estimation of all masses in hand, we can analyze most simple process of quasi-elastic scattering e−π˜0 → νeπ˜ −[105] with a following decay of the charged H-pion.
+Cross section was calculated supposing the target (DM particle) gets a small portion of projectile energy, so W-boson in t-channel is close to its mass shell, the momentum transfer is small and the final π˜0 is not accelerated in this process (we return to discussion of this important possibility—acceleration of the DM objects up to TeV energies [110–116]—somewhat later). Then the secondary neutrino and leptons from the W decay (in the channel π˜ − → π˜0W− → π˜0e−ν¯e) or from dominant channel of decay π˜ − → π˜0π− → π˜0µ−ν¯µ should have energies ∼ 102 GeV or even less (see Ref. [43] for details of the charged hyperpion decays). Then, the cross section of the process and also distributions on energy and angle of emission for secondary neutrino were found as and the number of possible neutrino events at IceCube produced by this reaction [105]. Indeed, the electron scattering on the DM objects can be interesting as a source of high-energy neutrino from Weν vertex or accelerated DM particles with masses ∼ 1 TeV, when the momentum transferred is sufficiently large.
+However, the electron flux is only a small part of the cosmic ray total flux especially at energies
+≥ 102 TeV. As a result, we predict a very small fluxes of secondary neutrinos and, consequently, small probability to detect such events at IceCube [105,106].
+At this moment, an important feature of H-color model emerges—we have two DM components and the process of UHECR scattering should be considered for both types of neutral stable objects. Moreover, H-baryons B0 are the largest part of the total DM amount, as it follows from kinetic equations analysis. It follows from the absence of direct interaction of B0-baryons with the standard gauge bosons and, consequently, with the SM matter. So, the burning out of this component is much slower than for π˜0 particles.
+It seems that there is a chance to introduce the B0 interaction through H-pion and/or H-quark loops, however for the scattering channels these loops are exactly zero [105]. Thus, we need to consider more complex tree diagrams, in particular, tree diagrams with the exchange of Higgs boson and its partner, σ˜ -meson, in t-channel give dominant non-zero contribution to the process e−B → νeW−B. Virtual W−-bosons eventually decay to lν¯l or into light ordinary mesons. Of course, there is similar scattering reaction with the scalar-state exchange, e−π˜0 → νeW−π˜0, whose amplitude is smaller by
+
+Universe 2020, 6, 196	21 of 30
+
+
+half as it is seen from the model Lagrangian. Here, we do not take into account small contributions from diagrams with H-quark loops, hhZ and other multi-scalar vertices [106].
+Note, diagrams of this type were recently considered and suggested for the analysis of neutrino scattering off nucleons [117], their significant contributions were confirmed by direct calculations. We, however, found that these diagrams present dominant tree level part of cosmic particles scattering cross section off the DM. To calculate total width of the process with the final state B0e−νν¯ or π˜0e−νν¯, we have used factorization method [118,119] considering independently amplitudes squared of subprocesses with intermediate W and Z-bosons and then estimating the (negative) interference of these contributions. The approach allows us to estimate with reasonable accuracy (no worse than
+∼10% due to approximate estimation of the interference) the cross section of an “averaged” process where the final electron and neutrinos are produced by different vertices, W → lνl and Z → νl ν¯l , which practically coincide for the massless leptons.
+So, without using complex computer programs we get the value of total cross section and can estimate also the possibility to detect at IceCube the neutrino signal produced by the process of electron scattering off the DM. Again, for these reactions we do not consider those phase space regions which correspond to acceleration of the initial DM particle (so called up-scattered dark matter). In other words, the final H-baryon (or neutral H-pion) is slow; nearly all energy of the incident electron is distributed between three final massless particles (electron and pair of neutrinos). Approximately, energies of secondary neutrinos are in the interval ∼(Ee/3 − Ee).
+In calculations, we use two values of masses of H-baryon and σ˜ -meson. Note that in the model there is a correlation between masses of mσ˜ and mπ˜: m2 ≈ 3 · m2 . This is an exact equality for zero
+mixing of Higgs boson and σ˜ . Here, we suppose the splitting between masses of H-baryon and π˜ is very small. It was found that the cross section strongly depends on the mass of DM particle and grows with the mass increasing.
+Now, we should note an interesting type of the scattering processes produced by high-energy neutrino off the DM components. Namely, there is a small probability to find in the UHECR content electrons of very high energies, which will initiate creation of high-energy neutrino in the scattering. Nevertheless, we calculate cross section values for high energy region despite the fact that the cosmic electrons flux noticeably decreases for these energies; the hope is based on estimation of effective areas for IceCube—high-energy neutrinos can be detected with a larger probability. Unfortunately, cosmic electron motion is strongly affected by galactic magnetic fields, so their sources are hardly identified both in direction and in intensity. Certainly, if we could separate, in all experimental data, signals from high-energy electron scattering with specific set of final states, it would manifest itself on the target with defined properties; and, perhaps, it would have been the DM object. Alas, such signals are practically unobserved for the ground neutrino telescopes due to large and constant background from the Sun neutrino and neutrinos resulting from decays of mesons and baryons produced by cosmic rays interactions with nuclei in the Earth atmosphere. We also note that in processes with the production of secondary neutrinos, acceleration of DM particles can occur simultaneously; such processes can themselves be initiated by incident high-energy neutrinos [120–122]. In other words, reactions with participation of high-energy neutrinos which can be accompanied with the DM accelerated seem as informative and important, especially because both of these particles are, in fact, messengers from regions of high DM density—regions near AGN or from possible DM inhomogeneities of some other nature—and early epoch of the universe [123].
+In more detail, the secondary neutrino fluxes calculated are very small in comparison with
+expected neutrino fluxes from AGN which can be ∼ 105 cm−2s−1sr−1. Atmospheric neutrino fluxes with neutrino energies ≤2 TeV are also much larger [124–127]: ∼10−10–10−9 cm−2sr−1s−1. Namely, we get that the secondary neutrino flux resulted from the cosmic electrons scattering is
+∼10−19–10−22 cm−2sr−1s−1[106]. If, however, intergalactic neutrinos with very high energy come to the Earth (their sources can be jets from blazars), their scattering on the DM from halo can be marked by the specific reaction: νl + DM → ν¯l + Z∗ + DM → ν¯l + νk ν¯k + DM. Of course, a virtual Z-boson
+
+Universe 2020, 6, 196	22 of 30
+
+
+can decay into light mesons producing a number of soft leptons, neutrino and photons, but some correlation in energies and directions between high-energy secondary neutrinos can be detected. Obviously, cross section of creation of secondary quarks or leptons by virtual Z-boson is resonantly amplified when the Z-boson is near its mass shell. In any case, for this process we evaluate cross section as ∼(20–300) pb for initial neutrino energies ∼(10–100) TeV.
+Let us note some points which are important for study of the cosmic rays scattering off the DM. We suppose that, independently of the type of the SM extension, possibility of scalar exchange in the scattering channel results in a strong dependence of the cross section on the DM particle mass. It was found in the H-color extension, namely, the changing (increasing) of the DM component mass of 10% leads to the cross section growth by up to 50%. The opening of channels with scalar exchanges allows us to consider new ways to produce secondary high-energy leptons, neutrino and photons by UHECR scattering off the DM. Besides, these reactions can result in acceleration of the DM particles despite that this process takes place in t-channel. Now, resonant amplifying [120] is possible only due to that part of total amplitude which describes producing of leptons or quark pairs in virtual gauge boson decays.
+Creation of New Components in the UHECR Sources
+Cosmic rays of ultrahigh energies have a low intensity which rapidly decreases with increasing energy; for example, at the border of atmosphere, a detector with an area of 1 m2 can detect about 100 cosmic particles per year with E ≥ 103 TeV. With such small fluxes of UHECR, the analysis of extended air showers (EAS) generated by high-energy particles in the Earth’s atmosphere becomes an effective method of studying them. Composition of the initial radiation changes due to creation and decay of new particles that generate a nuclear-electromagnetic cascade. The path traversed by particles in the atmosphere is much larger than the average range of inelastic interactions between protons and nuclei. Secondary particles forming an EAS, can be detected at large distances, up to 103 m or even more from the shower axis.
+Standard picture of EAS production is based mostly on physics of high-energy protons (or light nuclei from cosmic rays) interaction with nuclei in atmosphere; then, secondary nucleons, pions, kaons, hyperons, leptons and photons are born. In the initial act of EAS generation leading secondary particle keeps about ∼50% of its initial energy, so is able to interact several times in the atmosphere. At high energies, ≥100 TeV, a significant part of unstable secondary particles (π- and K-mesons) do not decay on the path of the order of one path of the inelastic nuclear interaction, they again interact with the nuclei, forming new decaying charged and neutral mesons which produce (decaying with lifetime
+∼2 × 10−6 s) muons, neutrinos and photons.
+Of course, along with a shower of nuclear-active particles, it develops an electron–photon cascade in the atmosphere due to fast decays of neutral pions into two gammas. So, an electron–photon component of the shower arises and evolves. Then, photons produce electron–positron pairs interacting with the medium, and these charged leptons again give high-energy photons due to bremsstrahlung on the nuclei. Obviously, the multiplication of particles in these showers is defined by energy dissipation processes for every type of interaction between mesons, nucleons and nuclei or mesons decays. These interactions have been studied with all necessary detail. The passage of an EAS through the atmosphere is also accompanied by optical radiation: Cherenkov and ionization radiation. So, this standard picture of the emergence and development of EAS generated by high-energy protons or nuclei must be supplemented since EAS can also be generated by high-energy neutrinos and, possibly, by high-energy accelerated neutral DM particles [128–130].
+Neutrinos generate electromagnetic and hadronic showers due to deep inelastic (or quasi-elastic) scattering off nucleons in case of charged or neutral current interaction. Note that in the last case there arise some special contributions providing interactions of B0 component with standard fermions through scalar exchanges. These diagrams, which are called as “trident” [105,106,117]), are especially important for the cosmic rays (electrons, neutrino, protons) interaction not only with nucleons but
+
+Universe 2020, 6, 196	23 of 30
+
+
+with the DM objects, in particular, for various multi-component DM models with scalar interaction of the DM with gauge bosons currents.
+It is important to note that the showers generated by neutrinos and nucleons can be effectively discriminated due to small cross section of neutrino interaction with nuclei in atmosphere (this argument can also be used for separation of possible showers producing by high-energy neutral heavy DM particle [131,132]). As a result, EAS induced by neutral particles begins its development deeply in atmosphere (where the density increases significantly) in comparison with EAS generated by cosmic protons. Produced by galactic neutrinos EAS are highly inclined, despite this, there is a set of parameters (Cherenkov light, depth of shower maximum in the atmosphere, duration of the shower in dependence on the altitude and, correspondingly, density) allowing to separate neutrino showers from proton ones [128,131,133]. These characteristics of EAS can also be used to mark EAS which are produced by boosted DM particles.
+Remind, the possibility to accelerate light DM particles in the scattering of high-energy cosmic rays off the DM was supposed and numerically analyzed in [110–116,129,130,134]. This possibility to boost the DM was also confirmed for heavy DM objects with mass ∼1 TeV, more exactly, we have considered and approximately calculated scattering of protons of high energy, up to 200 TeV on the DM particles from halo, in the region of most large DM density—near AGN [135]. In other words, we consider interaction of protons from blazar’s jets with heavy DM particles. In the framework of the H-color scenario, in this interaction of protons with two DM components a significant part of protons energy can be transferred due to charged current to heavy H-pion and to both DM component in the trident type diagrams involving scalar exchange.
+For initial protons with energy 200 TeV cross section of the scattering process where final charged H-pion is produced with energies (40–50) TeV is ∼(10–15) pb. This charged H-pion decays predominantly as π˜ ± → π˜ oπ± with the width Γ → 3 × 10−15 GeV. So, we get also secondary muon (which again decays) and muonic antineutrino.
+In fact, in this deep inelastic reaction the main charged component of UHECR (protons) originated from blazar jet disappear transforming finally into flux of high energy neutrino and leptons. More exactly, our estimations demonstrates that ∼(10–25)% of the proton energy is transferred to heavy neutral component of the DM with cross section ≈(10–100) pb. In the scattering channel described by “trident” diagrams total cross section is of the same order but there appear additional neutrinos, for example, generated in the resonant decay of intermediate Z-boson.
+Despite the cross section not being large, it is an example of accelerating even heavy DM particles up to significant energies. Most importantly, this boosted neutral particle, as light neutrino, will pass away from the DM halo moving in the constant direction because it interacts with the matter very slowly. So, this rare process when the charge component of cosmic rays can be ruined in the deep inelastic reaction and as a result neutral DM particle moves like a neutrino towards the Earth. Remind that above considered high-energy electron scattering off the DM can also accelerate the DM but in quasi-elastic process high energy neutrino are generated with more probability.
+Thus, from this brief description of some processes of scattering of high-energy cosmic ray particles off the DM we can conclude that these reactions can enrich the cosmic rays composition with boosted heavy neutral DM particles [136]. At energies of these projectiles ∼(10–100) TeV cross sections of their interactions with nucleons and nuclei, ∼(10−34–10−37) cm2, are compared with cross sections of neutrino-nucleons scattering. In this deep-inelastic process nucleons or nuclei are transformed a multiparticle final states consisting of charged leptons, photons and neutrino. Additional neutrinos are generated by the charged H-pion decay and in the processes with resonant decay of Z-boson. So, the accelerated neutral DM components can produce rare events - specific types of EAS. Certainly, these EAS in the atmosphere should be separated in some manner from other types of showers.
+It is known that as usually cosmic rays generate a shower of secondary particles which are mainly muons, electrons and photons. They go to ground detectors and can be fixed as measured signals registering also due to fluorescence and Cherenkov light, and radio emission generated by charged
+
+Universe 2020, 6, 196	24 of 30
+
+
+component, electrons, in atmosphere of the Earth. It seems, such type of shower is similar to neutrino induced shower and its initial point also should be deeply in atmosphere, however, the neutral DM particle can not disappear from the EAS composition and will interact with the ground detector producing some radiation from secondary electrons or from excited nuclei in the detector. The DM showers, as they generated by intergalactic DM objects which were accelerated by UHECR or AGN jets from halo of other galaxies, or DM particles boosted from halo of our galaxy by intergalactic UHECR do not have to be mostly inclined or nearly horizontal. It is supposed, these accelerated DM components and EAS produced by them should be distributed more or less isotropic. May be, the EAS axis can be connected with direction to some blazar, as it was found for some very high-energy neutrino events at IceCube.
+So, we can conclude that EAS from heavy DM particles are distinguished from EAS generated by protons or neutrino because in the former event the shower contains in his composition neutral stable object up to the final moment when this fast DM particle scattered on nucleon in the detector (see also [137] and references therein). To the contrary, in composition of EAS which was induced by neutrino or protons (or light nuclei), there is no any heavy stable particles, only leptons, photons and neutrino are detected as final states. Note also that interaction of DM components with nucleons in detector should have specific signature: the scattering in charged current channel is accompanied with creation and following decay of charged H-pion, so, the event can be seen due to charged lepton bremsstrahlung. We hope that observing and measuring the characteristics new types of EAS containing heavy neutral stable particles will be possible at modern complex LHAASO [138], in other words, the DM candidates can manifest itself in a specific types of EAS.
+Ionization of dark atoms by high energy cosmic rays or in supernova explosions can lead to formation of an anomalous cosmic ray flux of stable multiple charged leptons. The search for such component and the possibility to discriminate the corresponding air-showers are challenges for LHAASO experiments.
+Multimessenger Probes for New Physics Effects
+As was noted above, UHECR can result in specific interactions with DM particles, which are concentrated in halo with the largest density near AGN, giving some special signatures. First, in the scattering processes the target (slow heavy stable DM component) can receive a significant portion of energy of initial projectile. So, the DM particle can be effectively accelerated mostly in the direction close to the projectile direction. However, in the two-component DM scenario considered, if the interaction is provided by charged current with the W-exchange neutral H-pion component transforms into charged H-pion decaying with generation of lepton and neutrinos from π± and muon decays. This charged H-pion, in fact, decays in flight, so it is possible to estimate energies of final particles and their angles of emission. Indeed, these reactions are rare because of small density of DM, especially if we consider the intergalactic UHECR scattering off the DM halo of our galaxy.
+Although secondary neutrinos (prompt neutrino from Zνν¯ vertex, neutrino from π˜ ± decay and neutrinos from decaying mesons generated by initial proton) are emitted and scattered at different angles, there is non-zero probability to detect neutrino from this reaction at IceCube together with observation of specific shower associated with the DM component at LHAASO, for example. Certainly, the probability of such events which are separated by definite interval of time (its magnitude is defined by energies and velocities of the neutrino and DM particle) is evaluated as very small. However, if such twin event would be detected, it could be an important manifestation of the UHECR interaction with the DM. More precisely, measuring the characteristics of such an event—the delay time between signals (registration of a high-energy neutrino and a shower of particles), the energy release of the EAS, its composition, as well as the establishment of the fact of interaction of neutral object (heavy DM particle) with the substance of the detector (for example, by low-energy radiation)—could improve our understanding of the DM nature and the features of its interaction with neutrinos, leptons and
+
+Universe 2020, 6, 196	25 of 30
+
+
+nucleons. These probes can shed light on the possible hadronic and hadron-like particles of dark matter and their spectroscopy.
+Conclusions
+Over recent decades, the mainstream of BSM physics has been concentrated on the search for direct and indirect effects of supersymmetry (SUSY). SUSY partners of SM particles with masses in the range of several hundred GeV–1 TeV were expected to be found at the LHC. The lightest stable neutral SUSY particle could nicely implement the WIMP miracle and was considered as the preferable candidate the cosmological dark matter.
+However, SUSY particles were not found up to now at the LHC. The results of direct underground WIMP searches are controversial and the positive result of DM searches by DAMA/NaI and DAMA/LIBRA experiments can hardly be interpreted in the terms of WIMPs.
+It is reasonable to extend the field of studies of the new physics and, in particular, to consider non-SUSY BSM models. New stable color particles can provide candidates for dark matter with hadronic interaction, while new BSM nonabelian symmetry can increase the list of WIMP-like dark matter candidates.
+We have presented in this review various nontrivial features of new physics of strong interaction and their possible physical, astrophysical and cosmological signatures. Experimental probes for these signature will shed new light on possible role of various forms of strong interaction in the dark universe.
+Author Contributions: Review by V.B., M.K., V.K. and N.V. The authors contributed equally to this work. All authors have read and agreed to the published version of the manuscript.
+Funding: The work was supported by grant of the Russian Science Foundation (Project No-18-12-00213).
+Acknowledgments: We express our gratitude to Andrea Addazi, Konstantin Belotsky, Maxim Bezuglov, Timur Bikbaev, Vladimir Korchagin, Antonino Marciano, Andrey Mayorov and Egor Tretiakov for useful discussions.
+Conflicts of Interest: The authors declare no conflict of interest.
+
+References
+Linde, A.D. Particle Physics and Inflationary Cosmology; Harwood: Chur, Switzerland, 1990.
+Kolb, E.W.; Turner, M.S. The Early Universe; Addison-Wesley: Boston, MA, USA, 1990.
+Gorbunov, D.S.; Rubakov, V.A. Introduction to the Theory of the Early Universe. Cosmological Perturbations and Inflationary Theory; World Scientific: Singapore, 2011.
+Gorbunov, D.S.; Rubakov, V.A. Introduction to the Theory of the Early Universe: Hot Big Bang Theory; World Scientific: Singapore, 2011.
+Khlopov, M.Y. Cosmoparticle Physics; World Scientific: Singapore, 1999.
+Khlopov, M.Y. Fundamentals of Cosmoparticle Physics; CISP-Springer: Cambridge, UK, 2012.
+Khlopov, M. Cosmological Reflection of Particle Symmetry. Symmetry 2016, 8, 81. [CrossRef]
+Khlopov, M. Fundamental particle structure in the cosmological dark matter. Int. J. Mod. Phys. A 2013, 28, 1330042
+Khlopov, M.Y. Removing the conspiracy of BSM physics and BSM cosmology. Int. J. Mod. Phys. D 2019, 28, 1941012. [CrossRef]
+Beylin, V.; Khlopov, M.; Kuksa, V.; Volchanskiy, N. Hadronic and Hadron-Like Physics of Dark Matter.
+Symmetry 2019, 11, 587. [CrossRef]
+Aprile, E.; Aalbers, J.; Agostini, F.; Alfonsi, M.; Amaro, F.D.; Anthony, M.; Arneodo, F.; Barrow, P.; Baudis, L.; Bauermeister, B.; et al. (XENON Collab). First Dark Matter Search Results from the XENON1 Experiment. Phys. Rev. Lett. 2017, 119, 181301. [CrossRef] [PubMed]
+Huo, R.; Matsumoto, S.; Tsai, J.L.S.; Yanagida, T.T. A scenario of heavy but visible baryonic dark matter.
+JHEP 2016, 1609, 162. [CrossRef]
+Luca, V.; Mitridate, A.; Redi, M.; Smirnov, J.; Strumia, A. Colored Dark Matter. Phys. Rev. D 2018, 97, 115024. [CrossRef]
+
+Universe 2020, 6, 196	26 of 30
+
+
+Beylin, V.; Kuksa, V. Dark Matter in the Standard Model Extension with Singlet Quark. Adv. High Energy Phys.
+2018, 18, 8670954. [CrossRef]
+Beylin, V.; Kuksa, V. Possibility of hadronic dark matter. Int. J. Mod. Phys. D 2019, 28, 1941001. [CrossRef]
+Bazhutov, Y.N.; Vereshkov, G.M.; Kuksa, V.I. Experimental and Theoretical Premises of New Stable Hadron Existence. Int. J. Mod. Phys. A 2017, 2, 1759188. [CrossRef]
+Khlopov, M.Y. Physics of dark matter im the light of dark atoms. Mod. Phys. Lett. A 2011, 26, 2823–2839. [CrossRef]
+Khlopov, M.Y. Dark Atoms and Puzzles of Dark Matter Searches. Int. J. Mod. Phys. A 2014, 29, 1443002. [CrossRef]
+Cudell, J.R.; Khlopov, M. Dark atoms with nuclear shell: A status review. Int. J. Mod. Phys. D 2015,
+24, 1545007. [CrossRef]
+Tanabashi, M.; Hagiwara, K.; Hikasa, K.; Nakamura, K.; Sumino, Y.; Takahashi, F.; Tanaka, J.; Agashe, K.; Aielli, G.; Amsler, C.; et al. The Review of Particle Physics. Phys. Rev. D 2018, 98, 030001. [CrossRef]
+Cacciapaglia, G.; Pica, C.; Sannino, F. Fundamental Composite Dynamics: A Review. Phys. Rept. 2020,
+877, 1–70. [CrossRef]
+Csáki, C.; Grojean, C.; Terning, J. Alternatives to an Elementary Higgs. Rev. Mod. Phys. 2016, 88, 045001. [CrossRef]
+DeGrand, T. Lattice tests of beyond Standard Model dynamics. Rev. Mod. Phys. 2016, 88, 015001. [CrossRef]
+Hill, C.T.; Simmons, E.H. Strong Dynamics and Electroweak Symmetry Breaking.  Phys. Rep. 2003,
+381, 235–402. [CrossRef]
+Bellazzini, B.; Csáki, C.; Serra, J. Composite Higgses. Eur. Phys. J. C 2014, 74, 2766. [CrossRef]
+Panico, G.; Wulzer, A. The Composite Nambu-Goldstone Higgs; Springer: Berlin/Heidelberg, Germany, 2016; Volume 913. [CrossRef]
+Schmaltz, M.; Tucker-Smith, D. Little Higgs review. Ann. Rev. Nucl. Part. Sci. 2005, 55, 229–270. [CrossRef]
+Chen, M.C. Models of little Higgs and electroweak precision tests. Mod. Phys. Lett. A 2006, 21, 621–638. [CrossRef]
+Perelstein, M. Little Higgs models and their phenomenology. Prog. Part. Nucl. Phys. 2007, 58, 247–291. [CrossRef]
+Kilic, C.; Okui, T.; Sundrum, R. Vector-like Confinement at the LHC. J. High Energy Phys. 2010, 2010, 18. [CrossRef]
+Pasechnik, R.; Beylin, V.; Kuksa, V.; Vereshkov, G. Chiral-symmetric technicolor with standard model Higgs boson. Phys. Rev. D 2013, 88, 075009. [CrossRef]
+Pasechnik, R.; Beylin, V.; Kuksa, V.; Vereshkov, G. Vector-like technineutron Dark Matter: Is a QCD-type Technicolor ruled out by XENON100? Eur. Phys. J. C 2014, 74, 2728. [CrossRef]
+Lebiedowicz, P.; Pasechnik, R.; Szczurek, A. Search for technipions in exclusive production of diphotons with large invariant masses at the LHC. Nucl. Phys. B 2014, 881, 288–308. [CrossRef]
+Pasechnik, R.; Beylin, V.; Kuksa, V.; Vereshkov, G. Composite scalar Dark Matter from vector-like SU(2)
+confinement. Int. J. Mod. Phys. A 2016, 31, 1650036. [CrossRef]
+Beylin, V.; Bezuglov, M.; Kuksa, V. Analysis of scalar Dark Matter in a minimal vector-like Standard Model extension. Int. J. Mod. Phys. A 2017, 32, 1750042. [CrossRef]
+Antipin, O.; Redi, M. The half-composite two Higgs doublet model and the relaxion. J. High Energy Phys.
+2015, 2015, 1–16. [CrossRef]
+Agugliaro, A.; Antipin, O.; Becciolini, D.; De Curtis, S.; Redi, M. UV-complete composite Higgs models.
+Phys. Rev. D 2017, 95, 035019. [CrossRef]
+Barducci, D.; De Curtis, S.; Redi, M.; Tesi, A. An almost elementary Higgs: Theory and practice. J. High Energy Phys. 2018, 2018, 17. [CrossRef]
+Antipin, O.; Redi, M.; Strumia, A. Dynamical generation of the weak and Dark Matter scales from strong interactions. J. High Energy Phys. 2015, 2015, 157. [CrossRef]
+Mitridate, A.; Redi, M.; Smirnov, J.; Strumia, A. Dark matter as a weakly coupled dark baryon. J. High Energy Phys. 2017, 2017, 210. [CrossRef]
+Appelquist, T.; Brower, R.C.; Buchoff, M.I.; Fleming, G.T.; Jin, X.Y.; Kiskis, J.; Kribs, G.D.; Neil, E.T.; Osborn, J.C.; Rebbi, C.; et al. Stealth dark matter: Dark scalar baryons through the Higgs portal. Phys. Rev. D 2015, 92, 075030. [CrossRef]
+
+Universe 2020, 6, 196	27 of 30
+
+
+Cai, C.; Cacciapaglia, G.; Zhang, H.H. Vacuum alignment in a composite 2HDM. J. High Energy Phys. 2019,
+2019, 130. [CrossRef]
+Beylin, V.; Bezuglov, M.; Kuksa, V.; Volchanskiy, N. An analysis of a minimal vector-like extension of the Standard Model. Adv. High Energy Phys. 2017, 2017, 1765340. [CrossRef]
+Low, I.; Skiba, W.; Tucker-Smith, D. Little Higgses from an antisymmetric condensate. Phys. Rev. D 2002,
+66, 072001. [CrossRef]
+Csaki, C.; Hubisz, J.; Kribs, G.D.; Meade, P.; Terning, J. Variations of little Higgs models and their electroweak constraints. Phys. Rev. D 2003, 68, 035009. [CrossRef]
+Gregoire, T.; Tucker-Smith, D.; Wacker, J.G. What precision electroweak physics says about the SU(6)/Sp(6) little Higgs. Phys. Rev. D 2004, 69, 115008. [CrossRef]
+Han, Z.; Skiba, W. Little Higgs models and electroweak measurements. Phys. Rev. D 2005, 72, 035005. [CrossRef]
+Brown, T.; Frugiuele, C.; Gregoire, T. UV friendly T-parity in the SU(6)/Sp(6) little Higgs model. J. High Energy Phys. 2011, 2011, 108. [CrossRef]
+Gopalakrishna, S.; Mukherjee, T.S.; Sadhukhan, S. Status and Prospects of the Two-Higgs-Doublet SU(6)/Sp(6) little-Higgs Model and the Alignment Limit. Phys. Rev. D 2016, 94, 015034. [CrossRef]
+Pauli, W. On the conservation of the lepton charge. Nuovo C. 1957, 6, 204–215. [CrossRef]
+Gürsey, F. Relation of charge independence and baryon conservation to Pauli’s transformation. Nuovo C.
+1958, 7, 411–415. [CrossRef]
+Vysotskii, M.I.; Kogan, Y.I.; Shifman, M.A. Spontaneous breakdown of chiral symmetry for real fermions and the N = 2 supersymmetric Yang–Mills theory. Sov. J. Nucl. Phys. 1985, 42, 318.
+Verbaarschot, J. The Supersymmetric Method in Random Matrix Theory and Applications to QCD. In Proceedings of the 35th Latin American School of Physics on Supersymmetries in Physics and Its Applications (ELAF 2004); Bijker, R., Castaños, O., Fernández, D., Morales-Técotl, H., Urrutia, L., Villarreal, C., Eds.; American Institute of Physics: Melville, NY, USA, 2004; Volume 744, pp. 277–362. [CrossRef]
+Campbell, D.K. Partially conserved axial-vector current and model chiral field theories in nuclear physics.
+Phys. Rev. C 1979, 19, 1965–1970. [CrossRef]
+Dmitrašinovic´, V.; Myhrer, F. Pion-nucleon scattering and the nucleon Σ term in an extended linear Σ model.
+Phys. Rev. C 2000, 61, 025205. [CrossRef]
+Delorme, J.; Chanfray, G.; Ericson, M. Chiral Lagrangians and quark condensate in nuclei. Nucl. Phys. A
+1996, 603, 239–256. [CrossRef]
+Gasiorowicz, S.;  Geffen, D.A. Effective Lagrangians and Field Algebras with Chiral Symmetry.
+Rev. Mod. Phys. 1969, 41, 531–573. [CrossRef]
+Parganlija, D.; Kovács, P.; Wolf, G.; Giacosa, F.; Rischke, D.H. Meson vacuum phenomenology in a three-flavor linear sigma model with (axial-)vector mesons. Phys. Rev. D 2013, 87, 014011. [CrossRef]
+Bai, Y.; Hill, R.J. Weakly interacting stable hidden sector pions. Phys. Rev. D 2010, 82, 111701. [CrossRef]
+Antipin, O.; Redi, M.; Strumia, A.; Vigiani, E. Accidental Composite Dark Matter. J. High Energy Phys. 2015,
+2015, 39. [CrossRef]
+Khlopov, M.Y. Fractionally charged particles and quark confinement. JETP Lett. 1981, 33, 162.
+Alexander, S.; Orbach, R. Density of states on fractals: « fractons ». J. Phys. Lett. 1982, 43, 625. [CrossRef]
+Zel’dovich, Y.B.; Okun’, L.B.; Pikel’ner, S.B. Quarks:  Astrophysical and physicalchemical aspects.
+Sov. Phys. Uspekhi 1966, 8, 702. [CrossRef]
+Glashow, S.G. A Sinister Extension of the Standard Model to SU(3) × SU(2) × SU(2) × U(1). In Proceedings of the XI Workshop on Neutrino Telescopes, Venice, Italy, 22–25 February 2005; p. 9.
+Khlopov, M.Y. Composite dark matter from 4th generation. JETP Lett. 2006, 83, 1–4. [CrossRef]
+Goertz, F. Composite Higgs theory. Proc. Sci. 2018. [CrossRef]
+Sannino, F.; Tuominen, K. Orientifold theory dynamics and symmetry breaking. Phys. Rev. D 2005, 71, 051901. [CrossRef]
+Hong, D.K.; Hsu, S.D.H.; Sannino, F. Composite higgs from higher representations. Phys. Lett. B 2004,
+597, 89–93. [CrossRef]
+Dietrich, D.D.; Sannino, F.; Tuominen, K. Light composite higgs from higher representations versus electroweak precision measurements: Predictions for LHC. Phys. Rev. D 2005, 72, 055001. [CrossRef]
+
+Universe 2020, 6, 196	28 of 30
+
+
+Dietrich, D.D.; Sannino, F.; Tuominen, K. Light composite higgs and precision electroweak measurements on the Z resonance: An update. Phys. Rev. D 2006, 73, 037701. [CrossRef]
+Gudnason, S.B.; Kouvaris, C.; Sannino, F. Towards working technicolor: Effective theories and dark matter.
+Phys. Rev. D 2006, 73, 115003. [CrossRef]
+Khlopov, M.Y.; Kouvaris, C. Strong interactive massive particles from a strong coupled theory. Phys. Rev. D
+2008, 77, 065002. [CrossRef]
+Khlopov, M.Y.; Kouvaris, C. Composite dark matter from a model with composite Higgs boson. Phys. Rev. D
+2008, 78, 065040. [CrossRef]
+Cirelli, M.; Strumia, A.; Tamburini, M. Cosmology and Astrophysics of Minimal Dark Matter. Nucl. Phys. B
+2007, 787, 152–175. [CrossRef]
+Kuksa, V.; Beylin, V. Hyperfine Splitting of Excited States of new Heavy Hadrons and Low-energy Interaction of Hadronic Dark Matter with Photons, Nucleons and Leptons. Universe 2020, 6, 84. [CrossRef]
+Ebert, D.; Galkin, V.O.; Faustov, R.N. Mass spectrum of orbitally and radially excited heavy-light mesons in the relativistic quark model. Phys. Rev. D 1998, 57, 5663–5669. [CrossRef]
+Mutuk, H. Mass Spectra and Decay Constants of Heavy-Light Mesons. Adv. High Energy Phys. 2018,
+2018, 8095653.
+Vereshkov, G.M.; Kuksa, V.I. U(1) × SU(3)-gauge model of baryon-meson interactions. Yad. Fiz. 1991,
+54, 1700.
+Beylin, V.A.; Kuksa, V.I. Interaction of Hadronic Dark Matter with Nucleons and Leptons. Symmetry 2020,
+12, 567. [CrossRef]
+Wechsler, R.H.; Tinker, J.L. The Connection between Galaxies and their Dark Matter Halos. arXiv 2018, arXiv:1804.03097.
+Khlopov, M. Dark atom solution for puzzles of direct dark matter searches. IOP Conf. Ser. J. Phys. Conf. Ser.
+2019, 1312, 012011. [CrossRef]
+Khlopov, M.Y. Introduction to the special issue on indirect dark matter searches. Mod. Phys. Lett. A 2014,
+29, 1402001. [CrossRef]
+Cirelli, M. Dark Matter Indirect searches: Phenomenological and theoretical aspects. J. Phys. Conf. Ser. 2013,
+447, 012006. [CrossRef]
+Roszkowski, L.; Sessolo, E.M.; Trojanowski, S. WIMP dark matter candidates and searches—Current status and future prospects. Rep. Prog. Phys. 2018, 81, 066201. [CrossRef]
+Gaskins, J.M. A review of indirect searches for particle dark matter. Contemp. Phys. 2016, 57, 496–525. [CrossRef]
+Arcadi, G.; Dutra, M.; Ghosh, P.; Lindner, M.; Mambrini, Y.; Pierre, M.; Profumo, D.; Queiroz, F.S. The waning of the WIMP? A review of models, searches, and constraints. Eur. Phys. J. C 2018, 78, 203. [CrossRef]
+Belotsky, K.M.; Esipova, E.A.; Kamaletdinov, A.K.; Shlepkina, E.S.; Solovyov, M.L. Indirect effects of dark matter. Int. J. Mod. Phys. D 2019, 28, 1941011. [CrossRef]
+Gaggero, D.; Valli, M. Impact of Cosmic-Ray Physics on Dark Matter Indirect Searches. Adv. High Energy Phys.
+2018, 3010514. [CrossRef]
+Berezinsky, V.; Dokuchaev, V.; Eroshenko, Y. Small-scale clumps in the galactic halo and dark matter annihilation. Phys. Rev. D 2003, 68, 103003. [CrossRef]
+Berezinsky, V.; Dokuchaev, V.; Eroshenko, Y. Remnants of dark matter clumps. Phys. Rev. D 2008, 77, 083519. [CrossRef]
+Berezinsky, V.; Dokuchaev, V.; Eroshenko, Y. Formation and internal structure of superdense dark matter clumps and ultracompact minihaloes. J. Cosmol. Astropart. Phys. 2013, 11, 059. [CrossRef]
+Belotsky, K.; Kirillov, A.; Khlopov, M. Gamma-ray evidences of the dark matter clumps. Grav. Cosmol. 2014,
+20, 47. [CrossRef]
+Tasitsiomi, A.; Olinto, A.V. Detectability of neutralino clumps via atmospheric Cherenkov telescopes.
+Phys. Rev. D 2002, 66, 083006. [CrossRef]
+Gabici, S.; Evoli, C.; Gaggero, D.; Lipari, P.; Mertcsh, P.; Orlando, E.; Strong, A.; Vittino, A. The origin of galactic cosmic rays: Challenges to the standard paradigm. Int. J. Mod. Phys. D 2019, 28, 1930022. [CrossRef]
+Kachelries, M.; Semikoz, D.V. Cosmic Ray Models. Nucl. Phys. B 2019, 109, 103710. [CrossRef]
+Allard, D.; Busca, N.G.; Decerprit, G.; Olinto, A.V.; Parizot, E. Implications of the cosmic ray spectrum for the mass composition at the highest energies. J. Cosmol. Astropart. Phys. 2008, 2008, 33. [CrossRef]
+
+Universe 2020, 6, 196	29 of 30
+
+
+Unger, M.; Farrar, G.R.; Anchordoqui, L.A. Origin of the ankle in the ultrahigh energy cosmic ray spectrum, and of the extragalactic protons below it. Phys. Rev. D 2015, 92, 123001. [CrossRef]
+Dova, M.T. Ultra-High Energy Cosmic Rays. In Proceedings of the CERN–Latin-American School of High-Energy Physics, Arequipa, Peru, 6–19 March 2013; CERN-2015-001; CERN: Meyrin, Switzerland, 2015.
+Torres, D.F.; Anchordoqui, L.A. Astrophysical Origins of Ultrahigh Energy Cosmic Rays. Rep. Prog. Phys.
+2004, 67, 1663–1730. [CrossRef]
+Bloom, E.D.; Wells, J.D. Multi-GeV photons from electron–dark matter scattering near Active Galactic Nuclei.
+Phys. Rev. D 1998, 57, 1299–1302. [CrossRef]
+Gorchtein, M.; Profumo, S.; Ubaldi, L. Probing Dark Matter with AGN Jets. Phys. Rev. D 2010, 82, 083514. [CrossRef]
+Profumo, S.; Ubaldi, L. Cosmic Ray-Dark Matter Scattering: A New Signature of (Asymmetric) Dark Matter in the Gamma Ray Sky. J. Cosmol. Astropart. Phys. 2011, 2011, 20. [CrossRef]
+Gorchtein, M.; Profumo, S.; Ubaldi, L. Gamma rays from cosmic-ray proton scattering in AGN jets: The intra-cluster gas vastly outshines dark matter. J. Cosmol. Astropart. Phys. 2013, 2013, 12.
+Cappiello, C.V.; Ng, K.C.Y.; Beacom, J.F. Reverse Direct Detection: Cosmic Ray Scattering with Light Dark Matter. Phys. Rev. D 2019, 99, 063004. [CrossRef]
+Beylin, V.; Bezuglov, M.; Kuksa, V.; Tretiakov, E.; Yagozinskaya, A. On the scattering of a high-energy cosmic ray electrons off the dark matter. Int. J. Mod. Phys. A 2019, 34, 1950040. [CrossRef]
+Beylin, V.; Bezuglov, M.; Kuksa, V.; Tretiakov, E. Quasi-elastic lepton scattering off two-component dark matter in hypercolor model. Symmetry 2020, 12, 708. [CrossRef]
+Agashe, K.; Cui, Y.; Necib, L.; Thaler, J. (In)direct Detection of Boosted Dark Matter. J. Cosmol. Astropart. Phys.
+2014, 2014, 062. [CrossRef]
+Bennett, E.; Hong, D.K.; Lee, J.-W.; David Lin, C.-J.; Lucini, B.; Piai, M.; Vadacchino, D. Meson spectrum of Sp(4) lattice gauge theory with two fundamental Dirac fermions. arXiv 2019, arXiv:1911.00437.
+Bennett, E.; Hong, D.K.; Lee, J.-W.; David Lin, C.-J.; Lucini, B.; Piai, M.; Vadacchino, D. Sp(4) gauge theories on the lattice: Nf=2 dynamical fundamental fermions. J. High Energy Phys. 2019, 2019, 53, doi:10.1007/JHEP12(2019)053. [CrossRef]
+De Roeck, A.; Kim, D.; Moghaddam, Z.C.; Park, J.-C.; Shin, S.; Whitehead, L.H. Probing Energetic Light Dark Matter with Multi-Particle Tracks signatures at DUNE. arXiv 2020, arXiv:2005.08979.
+Bhattacharya, A.; Gandhi, R.; Gupta, A. The Direct Detection of Boosted Dark Matter at High Energies and PeV events at IceCube. J. Cosmol. Astropart. Phys. 2015, 2015, 27. [CrossRef]
+Kopp, J.; Liu, J.; Wang, X.-P. Boosted Dark Matter in IceCube and at the Galactic Center. J. High Energy Phys.
+2015, 2015, 105. [CrossRef]
+Kim, D.; Park, J.-C.; Shin, S. Dark Matter Collider from Inelastic Boosted Dark Matter. Phys. Rev. Lett. 2017,
+119, 161801. [CrossRef] [PubMed]
+Giudice, G.F.; Kim, D.; Park, J.-C.; Shin, S. Inelastic Boosted Dark Matter at Direct Detection Experiments.
+Phys. Lett. B 2018, 780, 543–552. [CrossRef]
+Bringmann, T.; Pospelov, M. Novel direct detection constraints on light dark matter. Phys. Rev. Lett. 2019,
+122, 171801. [CrossRef]
+Heurtier, L.; Kim, D.; Park, J.-C.; Shin, S. Explaining the ANITA Anomaly with Inelastic Boosted Dark Matter.
+Phys. Rev. D 2019, 100, 055004. [CrossRef]
+Ghou, B.; Beacom, J.F. Neutrino-nucleus cross sections for W-boson and trident production. Phys. Rev. D
+2020, 101, 036011.
+Kuksa, V.I. The convolution formula for a decay rate. Phys. Lett. B 2006, 633, 545–549. [CrossRef]
+Kuksa, V.I.; Volchanskiy, N.I. Factorization in the model of unstable particles with continuous masses.
+Cent. Eur. J. Phys. 2013, 11, 182–194. [CrossRef]
+Ryabov, V.A. Ultrahigh-energy neutrinos from astrophysical sources and superheavy particle decays. Phys. Uspekhi 2006, 49, 9. [CrossRef]
+Necib, L.; Moon, J.; Wongjirad, T.; Conrad, J.M. Boosted Dark Matter at Neutrino Experiments. Phys. Rev. D
+2017, 95, 075018. [CrossRef]
+Alhazmi, H.; Kong, K.; Mohlabeng, G.; Park, J.-C. Boosted Dark Matter at the Deep Underground Neutrino Experiment. J. High Energy Phys. 2017, 2017, 158. [CrossRef]
+
+Universe 2020, 6, 196	30 of 30
+
+
+Jaeckel, J.; Yin, W. Boosted Neutrinos and Relativistic Dark Particles as Messengers from Reheating. arXiv
+2020, arXiv:2007.15006.
+Richard, E.; Okumura, K.; Abe, K.; Haga, Y.; Hayato, Y.; Ikeda, M.; Iyogi, K.; Kameda, J.; Kishimoto, Y.; Miura, M.; et al. Measurements of the atmospheric neutrino flux by 430 Super-Kamiokande: Energy spectra, geomagnetic effects, and solar modulation. Phys. Rev. D 2016, 94, 052001. [CrossRef]
+Niederhausen, H.; Xu, Y. High Energy Astrophysical Neutrino Flux Measurement Using Neutrino-induced Cascades Observed in 4 Years of IceCube Data. Int. Cosm. Ray Conf. 2017, 301, 968.
+Kochanov, A.A.; Morozova, A.D.; Sinegovskaya, T.S.; Sinegovskiy, S.I. Behaviour of the high-energy neutrino flux in the Earth’s atmosphere.Sol. Terr. Phys. 2015, 1, 3–10.
+Ahlers, M.; Helbing, K.; de los Heros, C.P. Probing particle physics with IceCube. Eur. Phys. J. C 2018, 78, 924. [CrossRef]
+Kampert, K.H.; Watson, A.A. Extensive Air Showers and UHECR: A historical review. arXiv 2012, arXiv:1207.4827.
+Dent, J.B.; Dutta, B.; Newstead, J.L.; Shoemaker, I.M. Bounds on Cosmic Ray-Boosted Dark Matter in Simplified Models and its Corresponding Neutrino-Floor. Phys. Rev. D 2020, 101, 116007. [CrossRef]
+Ge, S.-F.; Liu, J.-L.; Yuan, Q.; Zhou, N. Boosted Diurnal Effect of Sub-GeV Dark Matter at Direct Detection Experiment. arXiv 2020, arXiv:2005.09480.
+Bottai, S.; Giurgola, S. Downward neutrino induced EAS with EUSO detector. Int. Cosm. Ray Conf. 2003,
+2, 1113–1116.
+Fargion. D. Ultra High Energy Cosmic Rays, Z-Shower and Neutrino Astronomy by Horizontal-Upward Tau Air-Showers. arXiv 2003, arXiv:hep-ph/0306238.
+Albert, A.; André, M.; Anghinolfi, M.; Anton, G.; Ardid, M.; Aubert, J.-J.; Avgitas, T.; Baret, B.; Barrios-Martí, J.; Basa, S.; et al. An algorithm for the reconstruction of high-energy neutrino induced particle showers and its application to the ANTARES neutrino telescope. Eur. Phys. J. C 2017, 77, 149. [CrossRef] [PubMed]
+Zhang, B.-L.; Lei, Z.-H.; Tang, J. Constraints on cosmic-ray boosted DM in CDEX-10. arXiv 2020, arXiv:2008.07116.
+Beylin, V.; Kuksa, V. On the reactions involving neutrinos and hidden mass particles in hypercolor model. In Proceedings of the XXIII Int. Workshop “What Comes Beyond the Standard Models?”; DMFA: Bled, Slovenia, 2020; to be published.
+Fusco, L.A.; Versari, F. Testing cosmic ray composition models with very large-volume neutrino telescopes.
+Eur. Phys. J. Plus 2020, 135, 624. [CrossRef]
+Rott, C. Status of Dark Matter Searches. arXiv 2017, arXiv:1712.00666.
+Bai, X.; Bi, B.; Bi, J.; Cao, Z.; Chen, S.Z.; Chen, Y.; Chiavassa, A.; Cui, X.H.; Dai, Z.G.; della Volpe, D.; et al. The large high altitude air shower observatory (LHAASO) science white paper. arXiv 2019, arXiv:1905.02773.
+Publisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+⃝c 2020 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).
+
+/
+Research Article	Open Access
+New Quantum of the Space of the Universe and New Opportunities for the Development of Quantum Physics
+Valentyn Alexeevich Nastasenko*
+Professor, Department of Transport Technologies, Kherson State Maritime Academy, 141, Ushakovast. 41, 73003, Kherson, Ukraine
+
+
+
+Article Info
+*Corresponding author: Valentyn Alexeevich Nastasenko Professor
+Department of Transport Technologies Kherson State Maritime Academy
+141, Ushakovast. 41, 73003 Kherson, Ukraine
+Tel: +38(050) 807-91-99
+E-mail: nastasenko2004@ukr.net
+
+Received: March 29, 2019
+Accepted: April 4, 2019
+Published: April 10, 2019
+
+Citation: Nastasenko VA. New Quantum of the Space of the Universe and New Opportunities for the Development of Quantum Physics. Int J Cosmol Astron Astrophys. 2019; 1(2): 71-76.
+doi: 10.18689/ijcaa-1000117
+
+Copyright: © 2019 The Author(s). This work is licensed under a Creative Commons Attribution 4.0 International License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+Published by Madridge Publishers
+Abstract
+The paper provides the analysis of a number of well-known works on the substantiation of the shape and parameters of quanta of the space of the Universe, within which the dimensions of quanta are related to the wave parameters of the gravitational field. It is shown that this level of the material world is preceded by the levels of elementary particles, atoms and molecules, which are characterized by a dual state – substance and field (wave-corpuscle). On this basis, the quantum of the space of the Universe with the wave parameters of the gravitational field was associated with the graviton, as a minimal real particle of the Universe. A new rationale for the relationship of the wave parameters of the gravitational field with the wave parameters of the electromagnetic field is also suggested, which is obtained on the basis of strict physical relationships composed of fundamental physical constants: the speed c of light in vacuum, the gravitational constant G and Planck’s constant h. On this basis, the possibility of linking the parameters of the quantum of the space of the Universe with a single photon is shown. The simplest physical and geometric scheme of the movement of a single photon in the space of the Universe is proposed. The proposed schemes reflect the initial physical structures of the material world, which do not contradict the known laws of physics, so they can be used for further studies of the graviton and photon.
+Keywords: Quantum of the space of the Universe; Shape and dimensions; Parameters of the graviton; Single photon
+Introduction
+The search for minimal quantum values in the Universe is associated with identifying the fundamentals of the structure of the material world. A large number of scientific works that cover the entire period of the formation of science, from ancient times to the present, have been devoted to solving this problem [1]. Previously, quantum such were atoms considered, and then the search went deeper into the area of elementary particles. The most complete study of the structure of the minimal quantum of the space of the Universe was carried out in [2], developing on the base [3] (discovery priority) and evolution of this quantum in [4] (priority new of discovery). However, the connection of these quanta with other minimal material objects of the Universe, to which the graviton and photon can be attributed, was not found. Their research is a complex scientific problem, since many of their properties and parameters are still unknown.
+The goal of the work performed is to search for a possible connection between the quantum of the space of the Universe and its other material objects, in particular, the graviton and photon.
+
+Int J Cosmol Astron Astrophys. ISSN: 2641-886X
+Volume 1 • Issue 2 • 1000117	71
+
+International Journal of Cosmology, Astronomy and Astrophysics
+The paper does not consider in detail the hypotheses of the physical processes of the birth and structure of the graviton and photon, obtained on the basis of the field theory and relativistic physics. The desire to take into account all the factors in these theories greatly complicates the process of finding a solution to this problem. It proposes an unconventional method based on the transition to Planck’s level of the structure of the material world [5]. He suggests the opposite movement – from the simplest elements to the complex ones. Such an approach makes it possible to find a solution at the level of creating a concept with its further development in the traditional framework of quantum physics.
+The scientific novelty of the work performed is the deepening of knowledge about the fundamentals of the material world on the basis of identifying the connection between the quantum of the space of the Universe and its
+
+other quantum-level objects – the graviton and photon.
+Of the problem analysis, setting tasks and finding the solutions.
+The minimal quantum of the space of the Universe is taken as the initial fundamentally element for further analysis, whose parameters are changed by quantum jumps to the wave parameters of the gravitational field, since they characterize real values of the oscillation frequency ν (1) – this Nastasenko
+Figure 1. Quantum levels of material world (microcosm of Universe)
+The proposed unconventional way [6] allowed finding a solution (1), which is physically strict. Its cannot is disprove it, since it is the only possible solution obtained on the basis of 3 fundamental physical constants c, G, and h. Therefore, the further development of the traditional way solution will lead to the same result (1). The unconventional approach at Planck’s level [5,6] made it possible to find the wave parameters of the gravitational field quickly and seamlessly, which confirms the
+
+constant and wavelength λG
+ G  p 	 7.39994 1042
+G
+(2) [6]:
+s1   7.4 1042
+
+
+
+s1 .
+
+
+(1)
+expediency of its wide application in further studies.
+In [3], elementary quanta of the space of the Universe were presented in the shape of trihedral figures of the original and mirror reflection forms, which together form a dipole,
+
+G 	 4.051249 432 1035 m.
+G
+
+
+
+
+
+11
+(2)
+m3
+and 6 such dipoles form a circular quantum of the space of the Universe, with a gravitational radius inside it, which unites the dipoles (Figure 2).
+
+Where G – gravitational constant: G  6.67408(31) 10
+c – speed of light in vacuum:
+h – Planck’s constant:
+kg  s2 ;
+
+h  6.626070040(81) 10
+
+34
+  2
+J  s  6.26070040(81) 10	.
+s
+
+Magnitude and accuracy of parameters G, c, h is recommended CODATA [7].
+To determine the wave parameters of the gravitational field in [6], the transition to Planck level of the material world was used, which is deeper than the levels of elementary particles and atoms (Figure 1). At this level, all interaction processes are reduced to the simplest elements and structures obtained on the basis of fundamental physical constants and their transformations [5].
+It should be noted that the traditional approach involves the development of the field theory based on Lorentz-Maxwell equations using Einstein’s theory of gravity [8-10], the theory of superstrings and other theories [11,12]. They provide for the complication of field and other structures material world. However, to date, no solution has been found for the wave parameters of the gravitational field by used this way.
+
+
+
+
+
+
+Figure 2. New image of a quantum of space of the Universe and scheme of its formation: а) elementary quantum, b) antipode, c) deformation of a square in a rhombus, d) new circular quantum
+A circular quantum is a stable structure, but elementary quanta and dipoles cannot form an internal gravitational radius; therefore, they cannot exist separately. It was also justified [4] that 12 quanta form a mini-string that has a spiral shape. Gravitational radii inside these quanta form threads in the space of the Universe [4]. Mini-string has a helix coil with a pitch of 12 quanta (Figure 3). The direction of a mini-string coiling has a forward and reverse stroke.
+
+International Journal of Cosmology, Astronomy and Astrophysics
+point real objects m1, m2, the quantum of the space of the Universe (Fig. 2) can be related of graviton. Its final shape has the form shown in figure 4, which outlines the following: elementary quantum and its form (a), antipode and its form (b), paired quantum – dipole (c) and circular quantum (d).
+Stable limiting separating planes in elementary and circular quanta of space is no, as dislocation along them is impossible, and ribs, motion along which is possible, in the framework of Heisenberg uncertainty principle [8], have blurred configurations (spot), interpenetrating each (Figure 4).
+
+/
+
+Figure 3. Formation of a complete turn of mini strings circular quanta on their 12 layers
+However, the study of the minimum quantum of the space of the Universe cannot be limited to this form; it is presents the main task of further research.
+The substantiation for the connection of the minimal quantum of the Universe with a graviton
+The analysis of the known objects of the atomic and subatomic levels of the material world [8] showed that they are characterized by a dual state: the substances and field (corpuscle-wave). These levels of prefacing the level of quantum space of the Universe. Since quant has the wave parameters of the gravitational field [2], there is every reason to consider this quantum as a material formation, also having a corpuscle-wave structure.
+It was also taken into account that on the basis of the parameters of the frequency of the gravitational field (1), the gravitational constant G can be obtained from addiction (3):
+	5
+0.299792458 109 /
+Figure 4. Formation of ribs of elementary quantum (a), antipode (b), paired quantum-dipole (c) and circular quantum (d) in the framework of Heisenberg uncertainty principle
+uncertainty principle, since quantum jumps can be determined only at their initial and end points. At this level of the structure of the Universe (hereinafter referred to as Planck’s level), fixed positions are material entities. The further solution of the tasks set in the work is related only to this level. At the same time, inference should be drawn that there is still void on Planck’s level of the material world, but it is strictly limited to the waves of the gravitational field. Therefore, it is possible for such objects to penetrate into each other only at the similar level of their size smallness.
+Currently, the graviton is known to have been theoretically grounded in the 1930-s and is presented in [13]. It has the status of a hypothetical particle, which is referred to elementary particles of the Boson family and constitutes a group of gauge bosons. As an antiparticle it is equivalent to itself, its charge is 0 [11,12]. It participates in gravitational interaction. In the framework of general concepts, as a particle, its mass is theoretically equal to 0, the energy mass (upper experimental limit) is <1.1∙10-29 eV/s2. Its quantum numbers are: baryon number is 0, leptonic number is 0, spin is 2ћ, parity is +1, charge parity is +1 [10-12]. These parameters were obtained on the
+
+c5		 s 
+
+G 	 				 
+basis of electromagnetic theories and experiments.
+
+/
+ 2h
+7.4 1042 s1 
+	  2 
+6.626070040 10		
+	s	
+However, the same parameters can be obtained on the basis of the minimal quantum of the space of the Universe [4]. The
+
+ 6.6739669698 10
+11 
+
+m3  
+2 
+(3)
+dipole with the side λG
+(Figure 4c) corresponds most fully to
+
+
+/
+ kg  s 
+The second starting point is Newton’s law of universal gravitation (4):
+F  G m1m2  N .,	(4)
+G	r 2
+where: m1, m2 – masses (kg) of two point objects situated at the r (m) – distant between them;
+Since G is a characteristic of the gravitational interaction that, in the framework of the law (4), manifests itself for the
+them, in which the initial quantum a) has an antipode b) (a mirror reflection), and they both taken together present a mutually balanced compound, a dipole with a neutral (zero) charge. The presence of a dipole allows the “top” and “bottom” of a graviton to strictly select. The spin 2ћ, connected with the gravitational radii of the initial quantum and its antipode, also fits well into the proposed dipole scheme from the two initial elementary quanta. In the final form, 6 dipoles form a circular quantum of space (Figure 4d), while the direct and inverse coiling of its helix form also proves that a graviton has spin 2.
+
+International Journal of Cosmology, Astronomy and Astrophysics
+
+Taking into account the possibility of close packing of the space of the Universe only by structures of 6 dipoles that complete the circle, it is advisable to consider a circular quantum of the Universe as a graviton (Figure 4d), and a dipole (Figure 4c) as a component of its structure, should be considered as a finer elementary particle – a gravitino. The application of the proposed schemes (Figure 4) is acceptable for further research, since at the initial quantum level, in the framework of the principle of minimization, all objects and processes are as simple as possible. Their complication occurs in the transition from Planck’s level of the material world to higher levels of elementary particles and atoms.
+At this, since the birth of the Universe as a result of the Big Bang [14], the expansion of its fields could be uniform. However, due to violations of the symmetry laws occurring in the material world, in these fields the heterogeneities emerged that led to the birth of elementary particles, and further-atoms and other material objects of the Universe originated from them, which led to the complication of the structure of the gravitational field. Since these modifications appeared at higher levels of the material world than Planck’s one, they therefore go beyond the scope of the tasks of this work and are not considered in detail.
+Further estimation of the energy state of the graviton is carried out within the framework of Planck’s level.
+The energy mass of the graviton consisting of 6 gravitino dipoles (6 × 2 = 12), in the period of singularity [14], composes 12 values of Planck’s energy EP (5):
+the value (8), but this is an average value determined within the framework of Planck’s level. It magnitude can serve as a benchmark for further research.
+The above schemes allow concluding that gravitons of the Universe are stable, and are stationary (do not move in its gravitational field), therefore its expansion is associated with the creation of new gravitons, with the transfer of energy to them from previous gravitons.
+For other material objects of the Universe, their mass creates its own stationary gravitational field, which moves along with this material object (for example-the gravitational field of the Earth, which is the moving in orbit around the Sun, etc.). At the same time, energy indices magnitude of gravitons near these objects will be larger than those of gravitons of the Universe (8). As they move away from these objects, their energy is reduced to the merge with the general values of the Universe. Within the void between the fixed points of the graviton (Figure 4), the penetration of objects of the same level of smallness into the graviton is possible; therefore the orientation of the gravitons of the Universe and its other minimal objects may be different. However, these modifications of the material world are also beyond the bounds of Planck’s level, therefore, they are not considered in detail in this work.
+The Substantiation for the connection of the minimal quantum of the space of the Universe with the photon
+Further analysis of dependencies (1), (3) showed that the oscillation frequency νG is a universal value. Therefore, on its
+
+
+
+10	10
+
+(5)
+basis other fundamental physical constants can be obtained:
+the speed of light c in vacuum (9) and Planck’s constant h (10):
+
+EG max  12hG  5.884 10 (J )  12EP  12	 5.884 10 (J ).
+
+For the modern age of the Universe TU
+≈ 13.5 billion years [14] or		5
+ / 
+
+≈ 4.26∙1017s, the average radius of its gravitational field is R
+=сT ,	c5	
+ s 
+
+U	U	h 	 			 
+
+where c is the speed of light in vacuum, which has gravitational waves at their propagation. The surface of the propagation of the front of the gravitational wave in it is equal to (6):
+ 2G
+7.4 10
+42 s1 2
+6.6739669698 10
+11   m3  
+ kg  s2 
+
+S   R 2   TcT 2  5.124 1052 (m2 ).
+(6)
+		34  kg  m2 
+(9)
+
+U	U	U
+6.626070040 10		s	.
+
+Then it is possible to calculate the number of gravitons on		
+which the initial energy (5) dissipates. To do this, we need to
+
+determine the area of the hexagonal surface of the circular quantum of the space:
+
+c  GhG  5 6.673966969810 
+2  6.62607004010  	 7.410 s  
+
+S  3 3  2  0.426412 1068 (m2 ).
+(7)
+ kg  s 	  s  
+ 0.299792458109   m .
+(10)
+
+Q	G		
+	
+
+The energy of gravitons in the frontal wave decreases in proportion to the amount of gravitons contained therein and will magnitude amount to (6) which are close to 0. However, it cannot be zero, since without the mass arising from Einstein’s law on the connection of energy and mass E = mc2, the graviton cannot exist in principle:
+E	 1 2h G   0.489 10110 (J ).
+Since the constants c and h are characteristics of the electromagnetic field, it can therefore be argued that the oscillation frequency νG is the oscillation frequency of the unified field of the Universe. This allows associating the quantum of the space of the Universe with another smallest possible object-the photon. The possibilities of strict combining of the gravitational and electromagnetic fields are presented in [15,16].
+
+GQ	 S 
+(8)
+
+ U 
+	
+ Q 
+It should be taken into account that the real energetic states of the graviton in the modern Universe may differ from
+Unlike the graviton, the photon is recognized as a real physical elementary particle. Its real existence was confirmed experimentally in 1926 [17] on the basis of the works of Planck and Einstein [8-10]. The photon, as well as the graviton, it is
+
+International Journal of Cosmology, Astronomy and Astrophysics
+
+related to the elementary particles of the Boson family and is constituted a group of gauge bosons. The number of types is 1. It participates in electromagnetic and gravitational interactions. He is not identified as an antiparticle, its charge is 0 (<10–35 e) [18], where e is the electron charge. Charge parity is 1. Within the general idea of photon as of a particle, its mass is assumed to be 0, theoretically it is <10−22 eV/s2 [19]. Spin is 1ħ, the number of spin states is 2, the helicity is ± 1, the magnetic moment equals 0, the internal parity is uncertain [20-23]. At the same time, modern science considers the photon as a fundamental elementary particle that does not have structure and size.
+In the proposed work, within the framework of the common frequency of oscillations of the gravitational and electromagnetic fields (1), (4), as well as the identification of the gravitational field waves with the parameters of the minimum quantum of the space of Universe [2], it is possible to relate the wave parameters of this quantum with a single photon wave parameters (11), (12):
+limited by the parameters (3), (8), and all energy systems that have large values present photon beams. If the energy potential of a graviton is higher than the energy potential of a photon, it prevents photons from moving through it.
+Since there are no physical contradictions in all the presented schemes (Figures 2-5), it can be argued that they characterize gravitons and a single photon in its motion. At the same time, the number and structure of “colors”, “oddities” and “charms”, which photons and gravitons are assumed to have, can also be coordinated with these schemes.
+The solution of the tasks set is obtained at the conceptual level. Their use in further research contributes to the development of physics. Other modifications of the minimal objects of the material world are beyond Planck level, therefore, in this paper they are not considered in detail.
+The presentation of the structure and dimensions of a graviton and a single photon was proposed for the first time, which corresponds to the level of scientific discovery [24].
+
+  p
+	 7.39994 1042
+s1 
+ 7.4 1042
+s1 .
+(11)
+However, to justify them, experimental verification is necessary.
+
+   c   4.051249 432 1035 m.
+
+
+(12)
+Conclusion
+The quantum of the space of the Universe with the wave parameters of the gravitational field is
+
+Thus, a single photon has a structure and shape that is
+identical to the quantum of the space of the Universe (Figure 4). However, unlike motionless gravitons, the photon is mobile. Therefore, based on Figure 3, where a helix of 12 stationary gravitons is shown, a single photon makes a helical motion with the speed of light c, passing through 12 initial positions in each cycle successively (Figure 5). Stopping the photon will lead to the loss of its energy and its absorption by the graviton.
+
+Figure 5. Single photon and its motion pattern
+Herein, the upper and lower limits of the energy will be
+associated with the graviton, as the minimal material particle of the Universe.
+Within the framework of the dualism of the material world at the level of elementary particles, atoms and molecules that have a dual state of substance and field (wave-corpuscle, these same state should be considered characteristic of the graviton. At this, graviton does not exist in principle without mass (the real of its component).
+Within the identity of the minimal quantum of the space of the Universe and the graviton, its structure should have triangular prisms with antipodes (dipoles) and comply with the principles of close packing of such quanta, which is provided by the circular arrangement of 6 dipoles around their common axis in the form of an end prism of twelve regular triangular faces.
+Gravitons in the Universe are stable and stationary (they do not move in its gravitational field), therefore its expansion is connected with the creation of new gravitons with energy transfer from previous gravitons.
+Within the framework of the reasonable interrelation of the wave parameters of the gravitational field with the wave parameters of the electromagnetic field, which follows from strict physical dependencies composed of fundamental physical constants: the speed c of light in a vacuum of the gravitational constant G and Planck’s constant h, the quanta of the space of the Universe have a structural connection with single photons.
+Single photons are mobile and can penetrate through gravitons with the energy potential being less than theirs.
+
+International Journal of Cosmology, Astronomy and Astrophysics
+
+
+References
+Vasilyeva VV, Krotovai AA, Bull DV. History of Philosophy: Textbook for universities. M.: Academic Project: 2005.
+Nastasenko VА. Definition form and Parameters of quantum of space of the Universe. Int J CosmolAstronAstrophys. 2019 1(2): 42-45. doi: 10.18689/ ijcaa-1000111
+Nastasenko VA. Ground of parameters minimum quantum of space of universe: Scientific Bulletin KhDMA. 2012; 1(6): 285-297.
+Nastasenko VА. Refinement the form and parameters of quantum of space of the Universe. Int J Cosmol Astron Astrophys. 2019; 1(2): 62-66. doi: 10.18689/ijcaa-1000115
+Nastasenko VA. Methodology for solving creative tasks high level of complexity III. 2016; 4(48): 53-59.
+Nastasenko VA. Physical-Mathematical Method Defined of Wave Parameters Gravitation Field. Int J Eng Tech. 2019; 11(1): 62-64. doi: 10.7763/IJET.2019.V11.1124
+CODATA Internationally recommended values of the Fundamental Physical Constants. NIST reference.
+Alekseev DV, Bonch-Bruevich AM, Voronov-Romanov AS, et al. Physical encyclopedia hessky dictionary. Pod red. AM Prohorov (Ed.). Moskva :Sov. Encyclopedia.1983; 465: 826-33.
+Weinberg S. Photons and Gravitons in Perturbation Theory: Derivation of Maxwell’s and Einstein’s Equations. Phys. Rev. 1965; 138: B988-1002. doi: 10.1103/PhysRev.138.B988
+Rovelli C. Notes for a brief history of quantumgravity. Accessed Jue 16, 2000.
+Dmitrievich ID, Sardanishvili GA. Gravity. LCI. 2012; 163-200.
+Rubakov VA, Tinyakov PG. Modification of gravity at large distances and massive graviton. UFN. 2008; 178.
+Blokhintsev DI, Halperin FM. The hypothesis of neutrinos and the law of conservation of energy. Under the banner of Marxism. 1934; 6: 147-157.
+Silk Dj. Boljshoyjvzruv. Big Bang. 1985.
+Nastasenko VA. Possibility of Refining the Gravitational Constant and Solving the Task of Integrating the Gravitational and Electromagnetic Fields. J Astrophys Aerospace Technol. 2018; 6(1): 155-160. doi: 10.4172/2329-6542.1000155
+Nastasenko VА. Union of gravitational and electromagnetic fields on the basis of nontraditional principles. Electrical & Computer Engineering An International Journal (ECIJ). 2017; 6(3-4): 19-30. doi: 10.14810/ ecij.2017.6402
+Lewis GN. The Conservation of Photons. Nature. 1926; 118: 874-875. doi: 10.1038/118874a0
+Tagirov EA. Photon. Physicsofthemicroworld: a smallencyclopedia / Ch. ed. D.V. Shirkov. - Moskva: Soviet Encyclopedia. 1980; 528.
+Paolo P, Vitor C, Leonardo G, Emanuele B, Akihiro I. Black-Hole Bombs and Photon-Mass Bounds. Physical Review Letters. 2012; 109(13): 131102. doi: 10.1103/PhysRevLett.109.131102
+Landsberg GS. Quantumandwavepropertiesof a photon. Elementary physics text book. - 13th ed. - Moskva: Fizmatlit, - T. 3. Oscillations and waves. Optics. Atomic and nuclear physics. 2003.
+Jennewein T, Achleitner U, Weihs G, Weinfurter H, Zeilinger A. A fast and compact quantum random number generator. Review of Scientific Instruments. 2000; 71: 1675-1680. doi: 10.1063/1.1150518
+M. Tanabashietal. Review of Particle Physics. Phys. Rev. D. 2018; 98(3): 030001. doi: 10.1103/PhysRevD.98.030001
+Scully MO, Zubairy MS. Quantum Optics. Cambridge, (CB): Cambridge University Press. 1997.
+Civil New code Ukraine. Law of Ukraine. 2003; 142.
+
+/
+
+Non-singular gravitational collapse through modified Heisenberg algebra
+Gabriele Barca1,2,a/, Giovanni Montani1,3,b
+1 Department of Physics, “Sapienza” University of Rome, P.le Aldo Moro, 5, 00185 Rome, Italy
+2 INFN, Sezione di Roma1, P.le A. Moro 2, 00185 Rome, Italy
+3 ENEA, Fusion and Nuclear Safety Department, C.R. Frascati, Via E. Fermi, 45, 00044 Frascati, RM, Italy
+
+
+Received: 10 January 2024 / Accepted: 14 February 2024 / Published online: 12 March 2024
+© The Author(s) 2024
+
+
+
+Abstract We study the effects of cut-off physics, in the form of a modified algebra inspired by Polymer Quantum Mechanics and by the Generalized Uncertainty Principle rep-resentation, on the collapse of a spherical dust cloud. We analyze both the Newtonian formulation, originally devel-oped by Hunter, and the general relativistic formulation, that is the Oppenheimer–Snyder model; in both frameworks we find that the collapse is stabilized to an asymptotically static state above the horizon, and the singularity is removed. In the Newtonian case, by requiring the Newtonian approxi-mation to be valid, we find lower bounds of the order of unity (in Planck units) for the deformation parameter of the modified algebra. We then study the behaviour of small per-turbations on the non-singular collapsing backgrounds, and find that for certain range of the parameters (the polytropic index for the Newtonian case and the sound velocity in the relativistic setting) the collapse is stable to perturbations of all scales, and the non-singular super-Schwarzschild config-urations have physical meaning.
+
+
+Introduction
+
+The problem of understanding the final fate of the gravita-tional collapse of an astrophysical object is a long stand-ing question in literature [1–3]. In particular, the existence of the upper limits for the mass of compact stars [4–7], above which the gravitational collapse is no longer con-trasted by the matter pressure with the consequent forma-tion of a black hole, constitutes one of the most outstanding and still debated results [8–10]. Indeed the observation of neutron stars with mass potentially greater than two Solar
+
+a e-mail: gabriele.barca@uniroma1.it (corresponding author)
+b e-mail: giovanni.montani@enea.it
+masses [11–13] opened the way to a series of conjectures concerning the possible physical explanation for this unex-pected evidence, including scenarios with new physics for the gravitational field (see for instance the so-called scalar-ization phenomenon in modified gravity [14–16]).
+Here we consider the collapse of a spherical dust cloud, infalling under the effect of its self-gravity, both in the New-tonian and in the fully relativistic limit. The peculiarity of our study is that we introduce features of cut-off physics in the Hamiltonian formulation of the dynamics through modified Poisson brackets, which are the (semi)classical limit of mod-ified commutation relations. This kind of modified algebras,
+taking the form [qˆ, pˆ] = i ℏF( pˆ), are usually developed to introduce corrections at high energies close to the Planckian
+regime, and as such are very useful to introduce in a Hamil-tonian system corrections from more fundamental Quantum Gravity theories through a simple independent framework. In particular, the approach that we will use here is inspired by the so-called Polymer Quantum Mechanics [17], when expanded in the free cut-off parameter [18,19]. This way, we are including in the gravitational collapse the ingredients for a repulsive-like gravity, similarly to what happens in cosmol-ogy when the emergence of a Big Bounce is recovered and singularities are removed (as for example in the frameworks of Loop Quantum Cosmology [20–23], of Group Field The-ories [24,25], of Polymer Cosmology [26–31], or of other modified approaches to gravity [32–35]).
+In the Newtonian limit, we adopt the representation of the spherical collapse proposed in [36], which consists of a Lagrangian description for the dynamics of the background configuration and of an Euler formulation of the behavior characterizing small perturbations. While the background dynamics is characterized by a pressureless free fall, when studying the perturbations we adopt a polytropic equation of
+
+
+1 3
+
+261  Page 2 of 14	Eur. Phys. J. C (2024) 84:261
+
+
+
+state and the pressure contribution is relevant for the system stability.
+In the general relativistic case, we adopt the Oppen-heimer-Snyder model [37] in which the region external to the cloud is, according to the Birkhoff theorem [38,39], a Schwarzschild spacetime, while the interior of the collaps-ing object is associated to a Robertson-Walker geometry with positive curvature. The two spacetime regions are then suit-ably matched on the boundary of the collapsing cloud. The stability of this collapse is then studied by considering the dynamics of the interior as the background, in agreement with the Lifshitz formulation of the cosmological perturba-tions [40,41]. The equation of state for these perturbations has been taken in the isothermal form and the constant sound velocity is a free parameter, replacing the polytropic index of the Newtonian formulation.
+We stress that the assumption of a free falling background configuration, made both in the non-relativistic and relativis-tic cases, has been chosen in order to emphasize the effect of the repulsive gravity induced by cut-off physics, simply because they are not hidden here by the presence of a matter pressure contribution.
+The present analysis is characterized by two main rele-vant results. First, it is always possible to obtain an asymp-totically static configuration of the background collapse in correspondence to a radius greater than the Schwarzschild value; second, for a suitable range of the free parameters of the perturbation dynamics, the background configuration results to be stable to small perturbations. Furthermore, it is
+worth stressing that these two outputs of our analysis remain
+the cut-off parameter that could accommodate the observed violation of the Chandrasekhar or Tolman–Oppenheimer–Volkoff limits.
+The paper is organized as follows. In Sect. 2 we intro-duce the modified algebra as a deformation of the canon-ical commutation relations, that in the semiclassical limit becomes a deformation of the Poisson brackets. In Sect. 3 we present the Hamiltonian formulation for the classical and modified Hunter model, i.e. the Newtonian model for dust collapse, and in Sect. 4 we introduce perturbations on this background. In Sect. 5 we present the Oppenheimer–Snyder model in its Hamiltonian formulation, and the modi-fied dynamics obtained with the deformed algebra, while in Sect. 6 we introduce perturbations in this relativistic frame-work. Section 7 concludes the paper with a summary and some remarks.
+
+
+
+Modified Heisenberg algebra
+
+In this section we introduce the modified Heisenberg alge-bra that we use to implement critical points on the classical evolution, thus solving the gravitational singularities. It is inspired by quantum gravity and quantum cosmological the-ories such as Polymer Quantum Mechanics (PQM) [17,42] and the Generalised Uncertainty Principle (GUP) represen-tation [43–47].
+The algebra takes the form
+
+valid in the limit of a very small (even sub-Planckian) value for the cut-off parameter that characterizes the modification of the Poisson brackets. This fact suggests that the presence of a cut-off physics in the gravitational collapse constitutes an
+
+[qˆ, pˆ]= i
+
+ 1 −
+2 2  2
+P
+ℏ2
+
+,	(1)
+
+intrinsic modification of the gravitational force with respect to the standard Newtonian or Einsteinian gravity and that the singular collapse is never recovered in the modified dynam-ics.
+In other words, the present analysis states that, if we include gravity modifications in the description of a spheri-cal dust collapse, as expected in an effective quantum gravity scenario, the resulting dynamics is always associated to the existence of a physical (super-Schwarzschild) static and, for a given range of the free parameters of the model, stable configuration, i.e. what we could call a stable “dust star”.
+These results, and in particular the capability of cut-off physics effects to determine a macroscopic modification i.e. the stabilization of the dust collapse above the event horizon, open a new perspective in understanding the basic ingredi-ents to fix the morphology and the final fate of astrophysical bodies. More specifically, once a real equation of state is con-
+where qˆ and pˆ are two generic conjugate operators and μ is
+a real positive deformation parameter descending from the
+lattice spacing of PQM. In this commutator the necessary fun-damental constants appear in order to have the deformation parameter μ dimensionless, as is sometimes done in GUP literature [48,49]; for example, in this case we assumed that q and p are the standard position and momentum.
+Due to the modified commutator depending on p, this kind of algebras is usually studied in the momentum polarization,
+i.e. a representation where wavefunctions Ψ = Ψ( p) are functions of the momentum and the corresponding opera-
+tor acts multiplicatively on them as pˆ Ψ( p) = f ( p)Ψ( p). Through a simple procedure introduced in [50], by asking that the operator qˆ acts simply differentially as in Standard Quantum Mechanics (SQM), we can find the modified action of the momentum operator as
+
+sidered and the star radial inhomogeneity properly accounted	d f
+μ2 ℓ2 f 2	ℏ arctanh( μℓP f )
+
+	P				ℏ
+
+for, it could be possible to give constraints on the value of
+
+1 3
+d p = 1 −
+ℏ2	,	ℓ
+μ	= p;	(2)
+
+Eur. Phys. J. C (2024) 84:261	Page 3 of 14  261
+
+therefore the action of the two fundamental operators is	per unit mass) results to be
+
+ℏ
+pˆ Ψ( p) = ℓ
+tanh( μℓP p )
+	ℏ	 Ψ( p),	(3a)
+μ
+H	p2
+= 2
+GM 
+— r ,	(6)
+
+qˆ Ψ( p) = i ℏ d p Ψ( p).	(3b)
+It is trivial to verify that in the limit μ → 0 these revert to
+where p is the momentum conjugate to r , G is Newton’s gravitational constant, and M is the total mass of the cloud. The Hamilton equations are
+
+the operators of SQM in the standard momentum polariza-	∂H
+∂H	GM 
+
+tion; the corrections that this algebra introduces are usually
+relevant at high energies, i.e. when the p2 term approaches
+r˙ =
+∂p = p,
+p˙ =− ∂r =− r 2 ;	(7)
+
+unity.
+It is possible to implement these corrections also on a (semi)classical level through an effective theory; in this case, the modified algebra (1) becomes a rule for Poisson brackets:
+dividing the second equation by the first we obtain a differ-ential equation for p(r) that can be integrated with the initial conditions r = r0 and r˙ = p = 0 at t = 0, where r0 is the initial radius of the cloud:
+
+μ2ℓ2 p2
+∂p	/p˙	GM 
+,	 1	1 
+
+{q, p}= 1 −
+ℏ2	;	(4)
+∂r = r˙ =− r 2 p ,	p(r) =± 
+2GM 
+r − r0
+.	(8)
+
+
+∂H 
+
+/
+
+μ2ℓ2 p2 
+
+/
+
+Then, substituting this in the equation for r˙ with the minus
+
+∂H 
+μ2ℓ2 p2	,
+/
+
+
+3
+where H(q, p) is a Hamiltonian function. As mentioned ear-	0
+
+lier, this kind of equations of motion usually have an addi-tional critical point at p = ℏ/μℓP and are therefore used to avoid and remove singularities in cosmological models
+2GM 
+
+/
+3
+0
+t = ,a(1 − a) + acos√a .	(10)
+
+[19,51].
+We will use this semiclassical formulation to study the collapse of a dust cloud, both in a Newtonian and in a Rela-
+By setting a(t0) = 0, we can find the time of collapse t0 to be
+ 	
+
+tivistic setting.
+t0 =
+π , r 3
+.	(11)
+
+
+
+Newtonian gravitational collapse
+In this section we introduce the Newtonian description for the collapse of a dust cloud, first developed by Hunter [36], in its Hamiltonian formulation. The Hunter model consists in a homogeneous and isotropic sphere of dust, initially at rest, collapsing under the action of its own gravity; therefore the density ρ is a function of time only and the pressure gradients are identically zero (this won’t be valid anymore when later
+The solution is shown in Fig. 1 compared with the modified non-singular solution that we will now derive.
+
+Modified non-singular collapse
+
+To obtain the modified evolution, we start from the same Hamiltonian (6) but derive the equations of motion through the modified Poisson brackets (4):
+
+we introduce perturbations). Then we implement the modi-
+
+/
+
+μ2 p2 
+GM  
+μ2 p2 
+
+also derive some bounds on the deformation parameter μ by
+requiring that the non-relativistic assumption holds.
+
+Hamiltonian formulation of the hunter model
+
+Given spherical symmetry, it is enough to study the evolution
+where p has the dimensions of a velocity and therefore we inserted the speed of light c to keep μ dimensionless. Now, dividing the second equation by the first we obtain the same relation (8), and substituting we get a differential equation for a(t) of the form
+ 	
+
+of the radius r of the sphere; using the Newtonian gravita-
+, 2GM  1 − a	2GMμ2 1 − a 
+
+tional potential, the Hamiltonian (actually the Hamiltonian
+a˙ =−	3	a
+1
+r0c2
+.	(13)
+a
+
+1 3
+
+261  Page 4 of 14	Eur. Phys. J. C (2024) 84:261
+
+
+be valid. In particular, we impose that the minimum radius be much greater than the Scharzschild radius rS = 2GM/c2: the condition a∞ ≫ aS implies
+
+  cμ 
+≫ a
+= rS ,  μ ≫ ,  1	
+
+(16)
+
+1 + cμ
+S	r0
+1 − aS
+
+
+
+
+
+
+
+/
+
+Fig. 1 Comparison between the classical collapse (dashed black line) and the modified non-singular evolution (red continuous line) for generic values of the parameters; the collapse time t0 and the minimum value a∞ are highlighted by faded grey lines
+
+We see that the modified algebra has introduced a critical point: we find the value a∞ < 1 such that a˙ = 0 as
+(note that cμ = aSμ2). Therefore we find that for a cloud with initial mass and radius equal to those of our Sun we have
+μ ≫ 1,	(17)
+which was expected since for the Sun aS ∼ 10−4 and the square root is basically 1; this relation may of course vary for different values of initial radius and mass, but even for more compact objects with aS ∼ 2/5 we would have μ ≫ 1.3.
+As a secondary check, we require that the maximum speed
+reached during the collapse be non-relativistic. The maxi-mum speed is found by setting r¨ = 0 and substituting in r˙: we find
+2
+
+1 − a 	c
+μ ≫ √	∼ 0.4,	(18)
+
+1 − cμ	∞ = 0,	a∞ = 	μ   ,	(14)	3  3
+
+a∞	1 + cμ
+where we defined cμ = 2GMμ2/r0c2 to shorten the nota-tion. The solution for a(t) can again be found only in implicit form:
+
+, 2GM t = √a(1 − a) +  1 + 3cμ  acos√a
+which is slightly smaller but still of order 1. Note how this constraint, differently from the previous one, does not depend on any parameter. Therefore, we can conclude that, by taking the deformation parameter just one or two orders of mag-nitude greater than 1, we are assured that the Newtonian dynamics is still a good description for this model and that the collapse stops before the formation of a horizon. The
+
+3
+0
+3
+/
+2c 2
+1 + cμ
+,
+(1 + cμ)2
+
+ 	√a − 1	
+obtained values are also compatible with previous attempts at finding values or limits on the GUP deformation parameter
+
++	5  1 +
+2b− (1 + b+)atanh
+,(1 − a)(1 + 2b )  +
+[53,54].
+
+(1 + cμ) 2	−
+3		√/
+/
+
+5  1 +
+(1 + cμ) 2
+,(1 − a)(1 + 2b+ )
+/
+(15)
+Non-relativistic perturbations
+
+Let us now study the behaviour of perturbations in the Newto-
+
+/
+where b± = cμ ± cμ(1 + cμ). It is trivial to see that in the limit μ → 0 we have cμ, b± → 0 and the standard solution
+(10) is recovered; it is also easy to verify that, when a = a∞,
+the arguments of both inverse hyperbolic tangents become
+1 and the right-hand-side diverges, meaning that the inverse function a(t) has an horizontal asymptote such that a → a∞ when t → ∞. In Fig. 1 the classical and the modified solutions are compared.
+We highlight that this construction is similar to others where, through the implementation of alternative quantiza-tion procedures (or their corresponding semiclassical limits), a static solution was found that was not present with the stan-dard framework [51,52].
+At this point we can find some constraints on the deforma-tion parameter μ by requiring that the Newtonian description
+
+1 3
+nian description. We will see that, for the non-singular case, a Jeans-like length naturally emerges. Note that, while the background configuration is determined by including cut-off physics effects, the evolution of the perturbations follows standard dynamics; this choice is justified by the observation that, while the background evolution is non-perturbatively sensitive to the cut-off physics, the smallness of the per-turbations ensures that their dynamics can be satisfactorily described via standard gravity effects.
+Still following Hunter [36], for the description of perturba-tions it is better to use an Eulerian representation. The system is then described by the following quantities:
+v = (r0a˙, 0, 0),	(19a)
+ρ = ρ0 a−3,	(19b)
+
+Eur. Phys. J. C (2024) 84:261	Page 5 of 14  261
+
+
+2	a2 
+a3δ¨̺ + 8a2a˙δ˙̺
+
+Φ = −2Gπρr0  1	3
+,	(19c)
+2 2	2	2
+
+
+
+where v is the velocity vector, ρ and ρ0 are the density of the cloud and its initial value, and Φ is the gravitational potential. These quantities are linked by the continuity, Euler and Poisson equations [40]:
+ρ˙ + ∇ · (ρv) = 0,	(20a)
+v	v	v	∇Φ	∇ P ,	(20b)
+ρ
+∇2Φ = 4π Gρ,	(20c)
+where P = P(ρ) is the pressure that depends only on the
+where v2 = ∂ P/∂ρ = κγργ −1.
+Until now, no reference to any solution was made. At this
+point we can insert the different expressions for a(t) and its derivatives to obtain the solution δ̺(t) for the two cases.
+The singular classical case In the standard case we have
+,	3	¨ = − r 3a2
+
+density due to the barotropic assumption. Now we perturb
+the quantities (19) to first order (higher-order corrections were investigated by Hunter later in [55,56]) as v = v + δv, ρ = ρ + δρ, Φ = Φ + δΦ, where the unperturbed quanti-
+so the perturbation equation (25) becomes
+a3δ¨̺	8a2aδ˙̺
++  6GM(3 − 4a) + k2v2a4−3γ  δ̺ = 0,	(27)
+
+ties (those with the overline) already satisfy equations (20).	3	0
+By substituting into the Euler equation (20b) and taking the	0
+
+rotor, we obtain an equation for the vorticity δw = ∇ × δv:
+γ −1
+where v2  = κγρ	. Now, since we are interested in
+
+δ˙w = −∇ × (δw × v),	(21)
+
+with solution
+the asymptotic behaviour near the singularity, we can take
+the solution (10) and perform an asymptotic expansion for t → t0, a → 0, where t0 is the collpase time given by Eq. (11), obtaining the explicit expression
+
+ wr
+
+
+wθ	wϕ 
+
+
+  3   2 
+
+
+ t   2
+
+/
+
+
+where wr , wθ , wφ and W are arbitrary functions in spherical
+coordinates which must satisfy ∇·δw = 0 (the divergence of a curl is identically zero in any system of coordinates); note
+After some manipulation, substituting this in Eq. (27) yields
+2 d2δ̺	16  dδ̺
+y	−	y
+
+that W can be ignored since it represents a static distribution. Substituting this result back in equations (20), eliminating δΦ
+d2 y
+ 
+3	dy
+−2γ
+
+−2γ
+
+2 2 3
+
+and using the polytropic relation P = κργ , we obtain a term
+33	π 3
++ 4 +	13
+k v0 r0
+
+/
+y 3 −2γ
+δ̺ = 0,	(29)
+
+involving the Laplacian of δρ (for more details see [36,57]); in order to get rid of it, we can separate the variables as
+δρ(t, r0a,θ, ϕ) = δ̺(t)ψ(r0a,θ, ϕ),	(23)
+
+and then exploit the spherical symmetry of the problem by choosing ψ to be an eigenfunction of the Laplacian operator:
+
+ψklm(r0a,θ, ϕ) =  Alm jl(kr0a)
+2 3 −4γ	GM 
+where y = 1 − t/t0 so that the limit t → t0 corresponds to y → 0; the general solution is
+δ̺(y) = A+ f+(y) + A− f−(y),	(30)
+J  ±5   (αy)
+  8−6γ	
+13
+y 6
+where A± are integration constants, α is a dimensionless
+
+constant containing the parameters v0, k, r0 and M , and Jn is
+
++Blm yl(kr0a)  Ylm(θ, ϕ),	(24)
+the Bessel function of the first kind. Studying the asymptotic behaviour, for 1 ≤ γ < 4/3 we have
+
+where jl and yl are spherical Bessel functions of the first and second kind, Alm and Blm are constant coefficients,
+f+ ∼ y−3,	f− ∼ y− 3 ,	(32)
+
+and Ylm are spherical harmonics; this way we can write
+∇2δρ = −k2δρ, simplify the spatial part ψ and obtain a differential equation just for the time dependent part of the
+while for 4/3 < γ ≤ 5/3 we have
+cos((αy) 3 −γ )
+
+density

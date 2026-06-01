@@ -1,0 +1,1472 @@
+55
+0	2	4	6	8
+ztun
+Figure 4. The Hubble constant H0 as a function of ztun. (the leakage characteristic redshift) in our model for different values of ηG and fV. The H0 = 73 km s−1 Mpc−1 value is shown as the horizontal line. The resulting age of the universe is shown for each case and is younger than the ΛCDM universe.
+
+Universe 2024, 10, 115	9 of 23
+
+
+Our cosmology yields a universe that is younger than the ΛCDM universe with an age of ∼13 Gyrs with ηG and fV with percentages each on the order of tens. It remains to be shown whether our cosmology is in agreement with other cosmological data and measurements, which the flat ΛCDM model explains extremely well (see e.g., metrics and tests suggested in [24]). Furthermore, we caution that the details of how the QCD vacuum mixes with the space-time vacuum and how it evolves while preserving flatness remain to be understood. Nevertheless, being a vacuum, the “DE” component in our model should obey an equation-of-state with parameter w = −1.
+SQCs as Cold Dark Matter (CDM)
+Evidence for CDM is abundant, but its nature remains unknown despite many theo-retical investigations and dedicated experiments, which have yet to detect any associated particle (e.g., [25–30]). In our model, the 7Li problem is solvable if the total mass in SQCs is on the order of the measured CDM value. In addition, SQCs are colorless, cold, optically thin, and electrically neutral and would make an ideal CDM candidate if they decouple from the strong force (or interact minimally with baryons) following leakage.
+We have put forward the argument that SQCs that have undergone tunneling would decouple from hadrons, resulting in their interaction being solely gravitational in nature. Consequently, these tunneled SQCs would elude detection in current dark matter (DM) experiments. In the pre-LGB era, QCs should possess a sufficiently extended lifespan, allowing them to persist into the post-BBN era at zG without experiencing any growth in size due to interactions with hadrons. The rate at which non-tunnelled SQCs interact with hadrons depends on the fraction of SQCs that have survived until the present time. For instance, for a tunneling timescale of ttun. ∼ 1 Gyr, this survival fraction is e−t0/ttun. ∼ 10−6, and it drops significantly to e−t0/ttun. ∼ 10−12 for ttun. ∼ 0.5 Gyr. Below, we employ the term “baryon” specifically to refer to non-QC baryons (e.g., protons), allowing us to examine the interactions of QCs and SQCs with hadrons during these two distinct epochs.
+The Pre-LGB Era
+In the pre-LGB (i.e., pre-SQC at z > zG ∼ 2.5 × 107) epoch, QCs should interact with baryons.  The QC-baryon reaction rate is σqc−BnBvqc−B, with nB(T) = ηBnγ(T) as
+the baryon’s number density and nγ(T) ∼ 6.2 × 1032 cm−3 × T3	; ηB ≃ 6.1 × 10−10 is
+the baryon-to-photon ratio. The QC-baryon interaction cross-section is σqc−B, while the
+QC-baryon relative velocity vqc−B = √kBT/mp ≃ 10−3/2c × T1/2  is dominated by that of
+baryons; c is the speed of light, and mp the proton mass. For the QC not to grow in size in the
+pre-LGB era (i.e., up to zG), we impose ∫ hours σqc−BnBvqc−Bdt < Aqc. With t = 1 s × T−2 ,
+
+we have d(t/1 s) = −2T−3 dT
+
+µs
+so that 7.2 × 1032σ −
+× ∫ TQCD,MeV T1/2 dT
+MeV
+< Aqc
+
+σqc−B < 10−36 cm2 × Aqc .	(11)
+i.e., σqc−B/Mqc < 10−12 cm2/g with Mqc = Aqcmp.
+The above ensures that the QC will neither grow in size in the pre-LGB era nor interact with baryons in the subsequent periods where baryons are more diffuse. We can express
+
+the effective cross-section in terms of the geometric one as σqc−B = πR2
+× (τcrossing/τconv.).
+
+Here, τcrossing = Rqc/vsqc−B is the baryon QC crossing time, and τconv. is the conversion
+timescale of a baryon to the CSC phase (i.e., for a baryon to be absorbed by the QC). The ratio τcrossing/τB−qc,conv. accounts for the fraction of time the baryon spends inside the QC. With Aqc = 4π R3 nqc, the condition in Equation (11) translates to τB−qc,conv. > 10−13 s;
+here nqc ∼ 1039 cm−3 is the QC’s density.
+The fact that the conversion timescale τconv.,B−qc exceeds the timescales associated with strong interactions provides support for the notion that the QC state is distinct from the hadronic phase. Alternatively, it suggests that the conversion process may involve two steps, where the baryon first undergoes deconfinement, possibly requiring an injection of
+
+Universe 2024, 10, 115	10 of 23
+
+
+energy, before transitioning into the unpaired quark phase characteristic of QCs. Another interpretation is that quarks within a hadron, where chiral symmetry is broken, perceive the QC as a distinct and separate phase of quark matter even before it becomes an SQC. This intriguing aspect highlights the complexity and richness of the underlying physics involved in the conversion process and the distinct properties of QC and SQC phases.
+The Post-LGB Era
+From this point forward, when we refer to SQCs, we are referring to the clusters that did not undergo tunneling. The SQCs that have undergone tunneling, on the other hand, constitute the dark matter (DM) component within our proposed model. To impose a constraint on the SQC–baryon interaction cross-section σSQC−B, we will utilize the measured lower limit on the proton lifetime (τp > 3.6 × 1033 years; [31]). This lower limit on the proton lifetime provides valuable information about the strength of the SQC–baryon interaction and allows us to further refine our model.
+The SQC reaction rate per baryon is σsqc−Bnsqcvsqc−B, and vsqc−B is the SQC–baryon relative velocity. The SQC co-moving number density (not to be confused with the SQC density ncsc ∼ 1039 cm−3) is
+n	∼  ρDM  × e−t0 /ttun. ,	(12)
+
+where ρDM ∼ 0.36 GeV cm−3 is the local DM density [32], which is that of the tunnelled SQCs in our model. Imposing σsqc−Bnsqcvsqc−B < 1/τp and using vsqc−B ∼ 240 km s−1, we arrive at
+σsqc−B < 10−48 cm2 × Asqc × et0 /ttun. .	(13)
+i.e., σsqc−B/Msqc < (10−24 cm2/g) × e−t0 /ttun. with Msqc = Asqcmp.
+Consistent with expectations, the aforementioned analysis reveals that the efficiency of tunneling, indicated by the presence of fewer remaining SQCs today, directly correlates with the permissible range for the SQC–baryon interaction cross-section σsqc−B. Specifically, a more efficient tunnelling process allows for a higher allowable value of σsqc−B. This relationship underscores the significance of the tunneling mechanism in influencing the interaction dynamics between SQCs and baryons within our model. In terms of the baryon-to-SQC conversion timescale τB−sqc,conv. (to be differentiated from the conversion
+
+of a baryon to a QC above), and with σsqc−B = πR2
+× (τcrossing/τB−sqc,conv.), we obtain
+
+τB−sqc,conv. >  12.5 s × e−t0 /ttun. .
+In Section 3, we have established that a cosmological model capable of resolving the Hubble tension and simultaneously yielding the observed age of the universe ne-cessitates a tunneling timescale of approximately one gigayear (Gyr), corresponding to an exponential suppression factor of e−t0 /ttun. ∼ 10−6. Consequently, this implies that σsqc−B < 10−42 cm2 × Asqc, or equivalently, that the conversion timescale τB−sqc,conv. ex-ceeds 10−5 s.
+Intuitively, assume σsqc−B < σqc−B would imply e−t0/ttun. > 10−12 or ttun. > 0.4 Gyr,
+which is also consistent with our cosmology. We caution, though, that making direct compar-isons between the QC and SQC states may not be justified. We should add that if SQC vacuum leakage is not a simple tunneling process, then it can deviate from a pure exponential process (e.g., [33]), which could affect our findings here. This is left as an avenue for future research.
+Furthermore, we can employ neutron stars (NSs) to impose even more stringent constraints on the SQC–baryon cross-section by studying the interactions between SQCs and baryonic matter within an NS. If σsqc−BnNSRNS > ASQC, the SQC slows down inside the neutron star and is captured. For typical neutron star parameters, such as nNS ∼ 1038 cm−3 and RNS = 106 cm, the condition for no capture implies that σsqc−B < 10−44 cm2 × Asqc. Referring to Equation (13), this condition is always satisfied if e−t0/ttun. > 10−4, indicating that neutron stars will not be converted through SQC capture. For an NS formed at time tNS, the mass of SQCs that
+
+Universe 2024, 10, 115	11 of 23
+
+
+
+accumulate over the Hubble time can be estimated as ∫ t0
+
+πR2
+
+ρDM
+
+e−t/ttun. vsqc−NSdt  ×
+
+Asqcmp ∼ 1011 g × ttun.,Gyr × (e−tNS/ttun. − e−t0/ttun. ). Here, we assume a SQC–neutron star relative velocity of vsqc−NS ∼ 107 cm s−1 and a representative local DM density of ρDM ∼
+0.1 GeV cm−3. Thus, even if a certain amount of SQC is captured, it is not evident whether it would be sufficient to convert a neutron star.
+Due to the likelihood that the leakage timescale exceeds the typical timescale for the formation and subsequent collapse of structures during the early universe, we anticipate that primordial halos will be predominantly composed of non-leaked SQCs that formed after the light glueball (LGB) era. Baryonic matter will gravitationally accrete onto these halos, but as demonstrated earlier, the diffuse baryons will not interact with either leaked or non-leaked SQCs. However, we anticipate a critical change or “phase transition” in the growth of structures after the time t = ttun. This is because (i) a significant fraction of the SQCs’ mass is converted into Dark Energy (DE), and (ii) the SQCs would have decoupled from hadrons. Understanding the precise impact of these effects on subsequent structure growth requires more advanced investigations beyond the scope of this paper. Only state-of-the-art Cold Dark Matter (CDM) simulations, which incorporate the leakage of SQC mass as detailed in Appendix D, can provide insights into this aspect of our model.
+To summarize, SQCs present a viable candidate for Cold Dark Matter (CDM) and may play a role in the formation of both mini-halos and larger structures in the universe, as indicated in previous studies [34,35]. Once halos form and reach a state of virialization, SQCs are expected to interact most strongly with stars, particularly with matter at high densities, such as neutron stars (NSs). However, if the tunneling timescale ttun. is a small fraction of the age of the universe, as suggested earlier, then SQCs would have decoupled from hadrons by the time compact stars begin to form (as discussed in Section 3). In other words, even the densest stars, such as neutron stars, are unlikely to undergo conversion through the capture of SQCs. However, if the cores of neutron stars can access the Color Superconducting Quark matter (CSC) phase through phenomena like cooling and mass accretion, it could have intriguing implications for astrophysics (as shown in Equation (18)). This possibility opens up new avenues for research in understanding the behavior and properties of neutron stars within the framework of our model.
+Discussion
+Here, we briefly discuss some limitations and distinctive features of our model and leave these as avenues for future investigations.
+The evolution of the SQC and of the DM densities: We first recall, from Equation (9), that the density inside an SQC evolves from ρcsc to (1 − ηG)ρcsc after the LGB phase. Leakage further decreases the SQC density to an asymptotic value of (1  ηG  fV)ρcsc at t >> ttun. (which we associate with z = 0). The minimum possible value of an SQC would be given by the bare quarks masses, or ∼ 90% of their original mass. However, we find ηG and ηV to be on the order of tens of percent each (see Section 3), and an SQC would lose a fraction of its mass to DE over the age of the universe. Meaning that the DM content in today’s universe is a fraction of that in the pre-BBN era according to our model.
+Averaging the total SQC mass over the Hubble volume gives us the DM density in our model. The ratio of the total amount of DM to that of the baryonic matter evolves from a maximum value of ηDM,sG before LGB decay to ηDM,eG = (1 − ηG)ηDM,sG after the LGB decay to photons just before leakage starts. At full leakage, which we associate with z = 0, the ratio is
+
+
+ηDM,0
+
+= (1 − ηG
+
+— fV
+
+)ηDM,sG
+= (1	  fV   )η
+− ηG
+
+
+DM,eG
+
+.	(14)
+
+Universe 2024, 10, 115	12 of 23
+
+
+Assuming ηDM,0 ∼ 5 as measured today and extrapolating back to the LGB era, it means that the amount of DM content is larger than what we used in Section 2, where we set ηDM,eG = ηDM,0  5 (i.e., when taking fV = 0).
+The 7Li problem revisited: The solution to the cosmological 7Li problem presented in Section 2 did not take into account the further loss of gluonic energy due to in-SQC vacuum leakage following LGB decay as discussed above. From Equation (14), ηDM,sG = 5/(1 − ηG − fV) and when plugged into Equation (4), we obtain
+0.65 < 	ηG	 < 1.56 .	(15)
+(1 − ηG − fV)
+
+
+Equation (5) becomes
+
+
+0.4 × (1 − fV) < ηG < 0.6 × (1 − fV) .	(16)
+
+That is, a smaller percentage of the gluonic energy of the SQCs converted to LGBs could resolve the 7Li problem. For fV = 0, we recover the ηG values we arrived at in Section 2, while for fV > 2/5, we obtain ηG < 3/8, which is less than the maximum ηG ∼ 3/8 expected from the 2SC-phase.
+The ratio between the DE density and the DM energy density at z = 0 is (from Equation (7)),
+ρ	ρvac.	ρvac.	f
+ DE =  QCD = 	QCD	 = 	V	 .	(17)
+
+ρDM
+ρsqc,0
+(1 − ηG)ρcsc − ρvac.
+1 − ηG − fV
+
+To have ρDE  2ρDM as measured in today’s universe requires fV  2 (1  ηG), in which case Equation (14) gives 0.18 < ηG < 0.34 and 0.44 < fV < 0.55. On the other hand, the resolution of the Hubble tension suggests that a favored parameter com-bination lies around (ηG, fV) ∼ (0.1, 0.1), as illustrated in Figure 4. This discrepancy could potentially be mitigated by relaxing some of the approximations made in our cosmological model or by adopting a more realistic approach to the tunneling process, moving beyond the simple assumption of exponential decay.
+The CSC phase and neutron stars: Figure 2 shows a suggested pathway, starting at point “1′”, an NS core could take to enter the CSC phase since conversion following SQC capture is suppressed (see Section 4). An NS born with (or which acquiring through evolution) a core in the unpaired phase could transition to the CSC phase by a sequence of cooling (to keV temperature via the URCA process, e.g., [36]) and compression (to µcsc = 500 MeV via mass accretion). Take an NS with a core making up a fraction ηc of the total mass. The energy released from the conversion of glu-onic condensation (e.g., LGBs) to photons is (ηc MNS/mp) × (ηGmpc2) = ηcηG MNSc2.
+Comparing this to the NS binding energy 3 GM2 /RNS, we conclude that NSs with
+/
+5	NS
+compactness parameter
+ MNS,⊙ < 0.11 ×  ηc  ×  ηG ,	(18)
+
+RNS,6
+0.1
+0.1
+
+may be completely obliterated in the process; the NS mass and radius are in units of solar mass, M⊙, and 106 cm, respectively. NSs with higher compactness pa-rameters would lose mass, leaving behind a pure CSC core. In this latter case, the conversion to a CSC star puts a constraint on ρcsc due to the black hole limit
+
+2 GMNS/c2 < Rcsc with Rcsc as the radius of the CSC star. With ρcscR3
+~ ρNSR3  ,
+
+this gives ρcsc < 1016 g cm−3/M2
+NS,⊙
+which is consistent with the µcsc ∼ 500 MeV
+
+(i.e., a 2SC-like phase) adopted in our model. Thus, if some NSs follow a path as
+suggested in Figure 2, the resulting photon fireball may have interesting implications for explosive astrophysics.
+
+Universe 2024, 10, 115	13 of 23
+
+
+ SQC–hadron decoupling: Following the leakage and loss of more gluonic energy, it is not unreasonable to assume that the quarks within the SQC become undressed and should in principle decouple (or at least experience some level of decoupling) from the strong interaction. They would still rely on gluons to remain bound while exhibiting minimal interaction with hadrons. We speculate that DM and hadrons may represent separate phases of quark matter within the framework of QCD, characterized by distinct vacuum properties. If our model is correct, it allows a unique connection between cosmology and the properties of the QCD vacuum in the CSC quark phase. An estimate of the parameter fV from cosmological observations may be an indication of the contribution of the QCD condensates in CSC to the SQC mass, which may have implications, albeit indirect, to the mass of hadrons. The exact details of the SQC–hadron decoupling remain to be worked out.
+SQCs and LGBs in today’s detectors: SQCs (the DM in our model; see Section 4) would interact only gravitationally and would thus evade detection in current DM experiments. Instead, we propose that our model can be tested by experiments that can access the 2SC phase at temperatures below the LGB melting temperature; i.e., at
+< MLGBc2 ∼ 4 MeV (see Appendix C). The Compressed Baryonic Matter experiment (CBM) at FAIR explores the QCD phase diagram in the region of high baryon densities (representative of neutron star densities) and moderate temperatures using high-energy nucleus–nucleus collisions (e.g., [37,38]). We note that the 2SC phase carries MLGBc2 ∼ 4 MeV LGBs (i.e., can solve the cosmological 7Li problem) at a baryonic density as low as a few times that of nuclear matter (see Figure 3) and that LGBs form on strong interaction timescales and decay to MeV photons on timescales of ∼10−17 s. Thus, experiments such as the CBM at FAIR could potentially be used to detect the photons from the LGB decay.
+The width of the line can be found in Equation (A8) in Appendix C, and for typical values, it is expected to be <0.1 MeV. If this width were to be measured, it would provide a direct estimation of the 2SC dielectric constant, which could then be used to infer the ∆/µ ratio and consequently determine ∆ (as per Equation (A8)). However, it remains unclear whether and how the CBM experiment could explore the temperature regime relevant to our study. More significantly, the 2 MeV line may be overshadowed by the anticipated high low-energy electromagnetic background in high-energy ion–ion collisions. Even if the background were to diminish as the QGP transitions into the 2SC phase and subsequently cools down to the LGB phase (T < 4 MeV), detecting the 2 MeV line would likely prove challenging. Calculating the strength of the LGB 2 MeV line is beyond the scope of this paper.
+The stability of the CSC phase: Our findings seem to hint at the standard neutral 2SC phase (adopted in our theoretical framework) as the unspecified CSC phase. However, the 2SC phase may be unstable at small superconducting gap (∆) values due to the mismatch in the up and down quarks chemical potential [39]. It suggests that either the 2SC phase is stable in the regime of chemical potential (µ) and ∆ values we used or that another stable 2SC-like phase exists in nature and remains to be identified. A 2SCus phase, which has u-s pairs instead of u-d pairs, is also a candidate. This phase, however, faces a similar challenge in that the u and s Fermi momenta are split apart by the strange-quark mass (combined with electrical neutrality; e.g., [40]). The color-flavor-locked phase may be one candidate if the strange-quark effective mass is small or alternatively a crystalline quark phase if strange-quark mass is heavier (e.g., [41]). However, these phases do not possess properties that allow for the conversion of gluonic energy to photons. Despite its limitations, the u-d 2SC phase remains one of the candidate phases for dense quark matter (adopted in our model), pending the determination of its exact phase structure.
+
+Universe 2024, 10, 115	14 of 23
+
+
+Another possibility is collective excitations (i.e., phonons) of SQCs, which would decay directly to photons via phonon-to-photon conversion channels. Mono-chromatic photons of energy 1.59 MeV < Eγ < 22.2 MeV would result if the SQC radius were
+544.6 fm < Rsqc ∼ hc/Eγ ∼ 753.6 fm. Physically, the decaying particle is not an LGB but is instead a long-wavelength mode that is resonant with the quark cluster containing it. In this scenario, higher resonant modes should also be excited, and these could affect the very sensitive D abundance, which is not desired. Superconducting strings [42] are an interesting avenue to explore in this context. If such domain walls could form during the cosmic QCD phase, one could imagine a scenario where they would evolve into 2SC-dominated strings in the post-BBN era. It remains to be shown that LGBs as described in our model could form in this case.
+Matter–antimatter annihilation and SQC size: We hypothesize that each quark cluster is born with an anti-matter deficit of ηB ≃ 6.1 × 10−10, meaning that there is one extra baryon per ηB−1 quark–antiquark pair; ηB is the baryon-to-photon ratio.
+After annihilation (on timescales of 1/ncscσannih. ∼ 10−13 s with σannih. ∼ mbarn), a
+cluster has only baryons left in it; this assumes that annihilation does not destroy the cluster, and instead it reduces it into a pure baryon cluster of radius Rsqc,f ∼ Rsqc,thin where “f” stands for final. Here, Rsqc,thin ∼ 102 fm is the typical size of an SQC set by the photon mean-free-path in the 2SC phase. In other words, we claim that the maximum size of the “shrapnel” of the annihilated much bigger parent cluster is on the order of Rsqc,thin (see Section 2.2). In this case, a cluster’s birth radius can
+be obtained from ncscR3	/ncscR3	= ηB, which gives Rsqc,b ∼ 105 fm/ncsc,39.
+Some constraints and implications to consider in the future include the following.
+(i) Annihilation should also yield pions. These would decay on weak-interaction timescales, and if their mean-free-path turns out to be much smaller than that of photons, they may affect the ∼102 fm SQCs. (ii) While cluster formation (when the universe has aged such that its temperature is in the tens of MeV) is followed rapidly by annihilation, we must avoid the re-creation of matter–antimatter pairs, i.e., ensure that pair-creation timescales exceed the Hubble expansion timescale. (iii) In the framework we outline here, SQCs would require a formation mechanism that is different from that of the much larger A >> Aqc cosmic strange-quark nuggets [14] (which require a first-order QCD phase transition) and Axion quark nuggets [15] (which require their co-existence with Axions). Additionally, the mechanism by which these nuggets can convert their stored gluonic energy into ∼ 2 MeV photons is a serious limitation.
+Conclusions
+We have proposed that a color superconducting (CSC) phase of lukewarm QCD matter could offer a non-exotic solution to the cosmological 7Li, the CDM, and the Dark Energy enigmas. We attribute the narrow 2 MeV photon line that destroys 7Be in the radiation-dominated post-BBN epoch to gluonic condensation (i.e., light glueballs or LGBs) in the CSC phase and its electro-magnetic decay modes (Section 2). The detailed properties of the CSC phase remain to be scrutinized, although a neutral 2SC-like phase with a superconducting gap ∆ < 0.1µ is hinted at.
+CDM, according to our model, consists of colorless, charge-neutral, optically thin cosmic quark clusters in the CSC phase (SQCs) with Rsqc ∼ 100 fm in size and baryon number Asqc ∼ 106. They decouple from hadrons and interact only gravitationally, thus evading detection in current DM experiments. If SQCs could be produced in experiments such as the Compressed Baryon Experiment at FAIR (see bullet point #5 in Section 5), they could be detected via the MeV photons from LGB → γ + γ decay, giving support to our model.
+
+Universe 2024, 10, 115	15 of 23
+
+
+The decoupling of SQCs from hadrons is due to the leakage of the in-SQCs vacuum into the trivial vacuum of the exterior space-time, which yields DE. As leakage proceeds, our cosmology gradually transitions from a non-DE to a DE (ΛCDM-like) universe at a moderate redshift while allowing for a possible resolution of the Hubble tension (Section 3). It is crucial to recognize the significance of having optically thin SQCs with a size on the order of 100 Fermi in resolving the 7Li problem. This requirement directly sets the timescale for the tunneling process to be on the order of a Giga-year. The connection between the Fermi scales, which govern particle interactions, and the astrophysical scales suggests a fundamental connection between the 7Li problem and Dark Energy (DE) unique to our model.
+Our model does not introduce new physics to solve the 7Li, DM, and DE problems but instead makes use of still uncertain properties of QCD phases and their vacuum properties. We are not the first to discuss a connection between QCD vacuum and cosmology. It has been argued based on the empirical properties of hadrons that confinement is a prerequisite for retaining condensates inside hadrons, which then largely eliminates the problem of the smallness of the cosmological constant. On the other hand, our model introduces the concept of the tunneling of the in-SQC vacuum into the exterior trivial vacuum and the decoupling of SQCs from hadrons (see Section 3). This distinctive proposition raises the intriguing possibility that DM and hadrons could represent separate phases of quark matter within the framework of QCD, characterized by distinct vacuum properties that may turn out to have other useful physical applications.
+Author Contributions: Conceptualization, R.O. and P.J.; Methodology, R.O. and D.L.; Formal analysis,
+R.O. and N.K.; Investigation, R.O.; Writing—original draft, R.O.; Writing—review & editing, R.O., D.L., N.K. and P.J. All authors have read and agreed to the published version of the manuscript.
+Funding: R.O., D.L. and N.K. acknowledge the support of the Natural Sciences and Engineering Research Council of Canada (NSERC). P.J. is supported by a grant from the Natural Science Founda-tion PHY-2310003.
+Data Availability Statement: Data are contained within the article.
+Acknowledgments: We thank R. Rapp for interesting discussions on various aspects of the paper.
+R.O. thanks P. Serpico for their brief comments on Appendix A. We thank the referees for their insightful comments and suggestions, which improved the quality and rigor of our paper.
+Conflicts of Interest: The authors declare no conflicts of interest.
+
+Appendix A. Pedagogical Framework
+Appendix A.1. A Quantum Chromodynamics (QCD) Phase Diagram
+QCD is the theory governing the strong nuclear force. Figure A1 shows a simplified QCD phase diagram in the T-µq (temperature vs. quark chemical potential) plane featuring three distinct phases. The chemical potential is related to the number density by n = µ3/π2. At low temperatures and densities is the confined phase, where quarks and gluons are bound within color-neutral hadrons, such as protons and neutrons. In this phase, quarks are unable to exist freely as individual particles. As the temperature and/or density increases, the QCD phase diagram exhibits a transition to a deconfined phase called the quark–gluon plasma (QGP). In the QGP phase, quarks and gluons move more freely and are not confined within hadrons. Lattice simulations have shown that there is a smooth transition (a cross-over) between the confined hadronic phase and the deconfined quark–gluon plasma phase (see [43] for a recent review). Unlike a first-order phase transition, where there is a distinct jump in thermodynamic quantities at a critical point, a cross-over is characterized by a gradual change in the system’s behavior. This means that there is no precise temperature at which the transition occurs, but rather a temperature range over which the transition takes place.
+
+Universe 2024, 10, 115	16 of 23
+
+
+At higher densities (or chemical potential) and lower temperatures is the color su-perconductivity (CSC) phase. This phase is characterized by the condensation of Cooper pairs of quarks, similar to how electrons form pairs in traditional superconductors. A CSC is characterized by its superconducting gap (∆csc in the tens of MeV range), which is the energy required to break a Cooper pair. The vacuum ground state energies in the CSC and hadronic phases are drastically different. The formation of Cooper pairs alters the QGP, leading to changes in the gluon spectrum and dispersion relations. It has been demon-strated that the CSC is the ground state of quark matter at asymptotically large densities (e.g., [18]).
+The simplest form of CSC is known as two-flavor color superconductivity (2SC), which arises in QCD when quarks of two different flavors (usually up and down quarks) form Cooper pairs due to the attractive interaction mediated by the strong force. The Cooper pairs in the 2SC phase are made of the red and green quarks only, and the blue quarks do not participate in pairing. Only five out of a total of eight gluons become massive, while the other three gluons remain massless and do not interact with the paired red and green quarks nor with the gapless blue quarks. These three gluons obey their own gluon dynamics and form their own condensate made of bound states of pure gluons, similar to how mesons are bound states of quarks and antiquarks. This gluon condensate is unstable electromagnetically and emits photons. The decay process of the electrically neutral condensate into photons occurs through its interaction with virtual quark loops, which carry the electric charge (see Appendix C). This electromagnetic decay plays a crucial role in resolving the cosmological Lithium-7 problem within our model, as explained in the following description.
+
+Figure A1. A simplified QCD phase diagram in the density–temperature plane; the density is represented by the quark chemical potential µq. The hadronic phase exists at a temperature of T < TQCD ∼ 150 MeV and chemical potential µq < µh ∼ 350 MeV. The dashed line in the dia-gram represents unexplored phases that could potentially exist within the QGP phase before reaching the CSC phase.
+Appendix A.2. Our Model in a Nutshell
+The cosmological lithium-7 (7Li) problem relates to a significant discrepancy on a factor of 3 between the predicted abundance of cosmological beryllium-7 (7Be) and the lower measured abundance of 7Li in the universe. In this context, we present a proposal for a non-exotic electromagnetic solution within the standard model of particle physics to address the cosmological 7Li problem, a crucial element in the theory of Big Bang nucleosynthesis (BBN). Our model utilizes properties of deconfined quark matter to offer a potential solution to the enigma of 7Li. Additionally, we explore the interconnectedness of this solution with the problems of Dark Energy (DE) and dark matter (DM), all of which highlight our limited understanding of the quark–gluon plasma (QGP) and the phases of quark matter as described in QCD.
+
+Universe 2024, 10, 115	17 of 23
+
+
+At the core of our model lies the conversion of the gluonic energy (i.e., of the gluons) of superconducting deconfined quark matter into a narrow 2 MeV line, capable of selectively destroying primordial 7Be without impacting other products or the physics of the cosmic microwave background (CMB). One key assumption in our model posits that, in addition to the known hadrons (protons, neutrons, and mesons) formed during the QCD phase transition in the early universe, assemblies of deconfined quark matter, referred to as quark clusters (QCs), can also form. These QGP clusters have a size of approximately 100 Fermi (and are thus optically thin to photons) and are composed of up and down quarks and gluons in proportions that make them charge-neutral. Inside a QC, the density reaches approximately ten times the nuclear saturation density, which is on the order of 1039 cm−3 (equivalently, µq ∼ 500 MeV). This high-density environment corresponds to a baryon number, with Aqc ∼ 106.
+The second key assumption in our model is that these QCs transition into a color superconducting state (CSC) in the post-BBN era, when the universe is a few hours old, at a redshift of z <∼ 2.5 × 107. The two-flavor color superconductivity (2SC) phase specifically involves two flavors of quarks, typically up and down quarks, as seen in QCs. When QCs reach this phase and become superconducting (referred to as SQCs), a percentage of their gluons form light glueballs (LGBs). Glueballs are bound states of gluons, analogous to how mesons are bound states of quarks and antiquarks. LGBs are considered to be relatively light, with a mass in the MeV range, compared to other possible glueball states with masses in the GeV range. LGBs are electromagnetically unstable, and by appropriately selecting 2SC parameters, they can decay into a monochromatic	2 MeV line, capable of selectively destroying primordial 7Be while leaving other BBN products and CMB physics unaffected. To resolve the 7Li problem, approximately 20–30% of the gluonic energy in SQCs needs to be converted into a monochromatic 2 MeV line. Interestingly, the total mass of SQCs required for this solution corresponds to the observed DM in the universe. SQCs, being cold, colorless, charge-neutral, and optically thin to all photon energies, present an attractive DM candidate that is deeply intertwined with the enigma of 7Li. We would like to emphasize the necessity of a narrow band emission (preferably a mono-energetic photon source) to optimize the number of photo-dissociated 7Be nuclei (see Equation (1)). Otherwise, there will not be enough gluonic energy from the SQCs (the DM in our model) for the 2/3 reduction. The LGB decay channel is an attractive mechanism for such a line (see Appendix C) and may be tested in current heavy-ion collision experiments (see bullet
+point #5 in Section 5).
+The nature of the QCD ground state continues to be a topic of active research and debate. There are many possible forms of the ground state wavefunction (in a many-body variational approach). Even when comparing the many ground states using free energies, one can never be certain that the true ground state is found (see discussion in [44]). In principle, the vacuum state within SQCs after the formation and decay of LGBs can potentially exhibit different symmetries compared to the vacuum state of confined quark matter in hadrons; see Appendix C.1. This brings us to the third assumption in our model, which has implications for DE. By assuming that the in-SQC QCD vacuum becomes unstable following LGB decay, we allow it to “leak” into the trivial vacuum of the surrounding space-time via quantum tunneling (Appendix C.1). This “leakage” process behaves as a cosmological constant and occurs late in the evolution of the universe (at a redshift ztun. of a few units), leading to a transition to a ΛCDM-dominated era (see Figure 4). This “leakage” effectively separates the pre-ΛCDM and ΛCDM phases and offers a potential resolution to the Hubble tension (see Section 3).
+Through our efforts to resolve the 7Li problem, we have uncovered a solution that effectively tackles the challenges of DE and DM, thus revealing the intrinsic connection of these critical cosmological issues within our proposed model. For example, the in-SQC vacuum would be stable to decay if its gluonic sector were stable (as in hadrons). The cos-mological 7Be nuclei act as absorbers of LGB decay products (with the 2 MeV photons ideal in this scenario) and avoid affecting BBN and CMB properties. Without addressing the 7Li,
+
+Universe 2024, 10, 115	18 of 23
+
+
+DM, and DE problems simultaneously, our model would not hold together. Despite its assumptions and limitations, it is important to reiterate that our framework operates within the standard model of particle physics but in an unexplored regime of QCD, emphasizing the need for further investigation and empirical validation.
+Appendix B. Post-BBN 7Be Destruction
+In Poulin & Serpico [11] (and references therein), the photon-generating particle X decays exponentially on timescale τX and forms at an early time in the universe at t (<< τX). In our model, the X particle (i.e., the LGB) forms and decays to a narrow E0 ∼ 2 MeV photons nearly instantaneously in the radiation-dominated post-BBN era at time tG when the quark cluster enters the CSC phase; here, “G” stands for gluons as a reference to the LGB era (see Section 2). Thus, we have a delta function production at time tG; δ(t − tG). The source injection term (e.g., Equation (2) in Poulin & Serpico [11] and Section IV in Kawasaki & Moroi [10]) becomes
+S(Eγ, t) = nγ(Eγ, t) × δ(t − tG) × δ(Eγ − E0) ,	(A1)
+with nγ(Eγ, t) as the co-moving photon density at time t; δ(Eγ − E0) is the spectral shape factor for a monochromatic line at E0.
+Making use of Equations (4) and (5) in Poulin & Serpico [11] with the destruction of element A only (i.e., γ + A → P) gives the abundance
+
+dYA(t) = −Y
+(t) ∫ dE σ
+(E ) × S(Eγ, t) ,	(A2)
+
+
+where Γ(Eγ, t) and σγ+A→P(Eγ) are the photon interaction rate and the photo-dissociation cross-section, respectively. The interaction rate is for all processes, including the Bethe–Heitler pair-creation on nuclei, double photon pair-creation, scattering off thermal back-ground photons, and Compton scattering. Red-shifting is negligible because the rates of electromagnetic interactions are faster than the cosmic expansion rate.
+Inserting Equation (A1) into Equation (A2) and integrating over energy gives
+
+
+d ln YA(t) =	n dt		γ
+(E0, t) × δ(t − tG
+) σγ+A→P (E0) .	(A3)
+Γ(E0, t)
+
+This assumes a single scattering (Nscat = 1, as in our model) is enough to make the E0
+photon no longer dissociate a 7Be nucleus. Otherwise, Γ(E0, t) should be divided by Nscat.
+Dissociation starts at redshift zsG and ends abruptly at redshift zsG = zeG + δz with δz << zsG; subscripts “eG” and “sG” stand for end and start, respectively, of the photon burst from LGB decay in the post-BBN era. After integration over a very small time t with tsG < tG and teG > tG but z(tsG) = z(teG) = z(tG), one obtains
+
+
+log	YBe,eG	=	n YBe,sG			γ
+(E0, tG
+)  σBe(E0)
+Γ(E0, tG)
+,	(A4)
+
+where nγ(E0, tG) is the co-moving number density of E0 photons from LGB decay. Here, σBe(E0) ≡ σγ+A→P(E0) while YBe,sG ≡ YA(tsG) and YBe,eG ≡ YA(teG) are the corresponding Be abundances.
+With E0 < 2.2 MeV, the Bethe–Heitler pair-creation on nuclei (see Equations (4–356) in [5]) is negligible, and so is pair creation off the CMB background photons when TCMB is a few keV or less; the interaction rate is dominated by Compton scattering (CS). Thus, Γ(E0, tG)  ΓCS(E0, tG) = ne(tG)σCS(E0) with the CS cross-section given in Appendix (IV) in Kawasaki & Moroi [10]. Furthermore, because at TCMB < 20 keV, positrons are negligible (e.g., Appendix C in [45]), the total electron density is on the order of the baryon number
+
+Universe 2024, 10, 115	19 of 23
+
+
+density, ne(tG) ∼ nB(tG). The destruction rates for 7Be nuclei due to a sudden release of mono-energetic E0 photons at tG becomes
+ln  YBe,eG  ∼ − nγ(E0, tG) ×  σBe(E0) .	(A5)
+
+Appendix C. Light Glueballs (LGBs) in the 2SC Phase
+The spectrum in the 2SC state is made of five massive gluons with a mass of the order of the gap ∆, three massless gluons, and gapless up and down quarks in the direction 3
+(blue) of color; in this appendix, we use QCD natural units with h¯ = c = 1. The three
+massless gluons in the 2SC phase do not interact with the gapless blue quasi-particles and the quasiparticles from the green and red paired quarks decouple from the low-energy confined SUc(2) phase. The three massless gluons in the 2SC phase bind, or are confined, into LGBs when the temperature is below the melting temperature TLGB,m ∼ MLGB ([46] and references therein). That is, LGBs melt when the temperature exceeds the confinement value [47].
+The LGB mass at T ≤ TLGB,m is MLGB ∼ Λˆ c with Λ¯ c the intrinsic scale associated with
+the SUc(2) theory. It is the confining scale of the SUc(2) gluon-dynamics in 2SC, and when
+∆ << µ, the one loop relation gives [48]
+Λ¯  = ∆ exp  − 2√2π ×  µ  ! ,	(A6)
+
+with gs = √4παs and αs = 	12π	 the SUc(3) coupling constant evaluated
+(33−2nf) ln (µ2 /Λ2	)
+at µ; ΛQCD is the scalar parameter of QCD and nf the number of relevant quark flavors. For ∆ ∼ 0.1 µ and for ΛQCD = 245 MeV (expected from a pure gluonic theory), we obtain MLGB ∼ 4 MeV for a range in quark chemical potential as shown in Figure 3. Using ΛQCD ∼ 340 MeV expected using the usual renormalization scheme with three quark flavors, we obtain MLGB ∼ 4 MeV when ∆ ∼ 0.05 µ.
+Once created, LGBs are stable against strong interactions but not with respect to electromagnetic processes. The two-photon decay mechanism of the electrically neutral LGB was estimated in [46] based on the saturation of the electromagnetic trace anomaly at the effective Lagrangian level. In other words, the coupling between the LGBs, which dominate the energy-momentum tensor at low energies, and two photons occurs through virtual quark loops which carry the electric charge. The decay occurs on timescale of τLGB ∼ 5.5 × 10−14 s × (MLGB/MeV)−5 [46].
+The pairing energy density released during the unpaired-to-2SC phase transition is Qpairing = µ2∆2/π2 (e.g., [49,50]). Thus, during the transition, to a first approximation, an SQC is heated to a temperature
+
+
+
+Tsqc =
+Qpairing ncsc
+∆2
+.	(A7)
+µ
+
+LGBs would not melt during the unpaired-to-CSC heating phase if ∆2/µ < MLGB, allowing for the LGB → γ + γ to occur (see Section 2.1).
+The LGBs within an SQC move with the same velocity, denoted as v, as the underlying gluons. The broadening of the E0 = MLGB/2 line can then be expressed as
+
+
+∆E0 =
+E0
+1 MLGBv2 E0
+= v2 =
+1
+/ .	(A8)
+ϵ
+
+Universe 2024, 10, 115	20 of 23
+
+
+The last equality in the equation above means that the velocity is determined by the
+2	  µ 2
+dielectric constant ϵ of the 2SC medium given as ϵ = 1 +	s  ×	[48]. We see that
+
+∆ <<
+18π2	∆
+
+µ yields ϵ >> 1 (or v << 1), which ensures a narrow line. The v << 1 regime is also the reason that the LGBs are not dynamically important in the 2SC phase because their mass scale is v−3/2 relative to the in-vacuum case.
+When ∆ < 0.1 µ, ϵ > 10 and ∆E0/E0 < 0.1. For instance, for ΛQCD ∼ 340 MeV, where
+∆ ∼ 0.05 µ is required to obtain MLGB ∼ 4 MeV, we have ϵ ∼ 30 or ∆E0 ∼ 0.067 MeV. It also implies that the range of E0 falls between 2.0 MeV and 2.2 MeV, which aligns remarkably well with the range necessary to address the 7Li problem (see Section 2).
+Appendix C.1. The Confined SUc(2) Phase and Its Vacuum
+At temperatures below TLGB,m is the SUc(2) phase, which effectively constitutes partial confinement within the 2SC phase. The deconfined-to-confined SUc(2) phase transition, as the temperature decreases within the 2SC phase is of the second order (i.e., symmetry breaking has occurred; see [46] and references therein). The 2SC without LGB decay belongs to a different global symmetry, while after LGB decay, one is left with the confined SUc(2), which breaks the Z2-symmetry (see e.g., [51] for phase transitions in QCD). While the flavor symmetries and other (e.g., Poincaré) symmetries remain the same during the transition from deconfined-to-confined SUc(2), the vacuum loses the Z2-symmetry associated with the center of the SUc(2) group and “chooses” a specific direction or configuration. The vacuum of the confined SUc(2) is in principle different from that of the unconfined SUc(2), and it is not unreasonable to assume that it may be metastable.
+Z2-symmetry breaking and false vacuum metastability and tunneling into the true vacuum with consequences for cosmology have been discussed in the literature (e.g., [52] and references therein). In our case, the phenomenon of tunneling or leaking could be attributed to two potential factors: (i) the zero-momentum loop at the origin of zero-point energy at zero temperature; (ii) the gluon condensate if we allow for a small temperature that is insignificant compared to any other scale in the problem. Which mechanism is exactly at play is currently uncertain within the scope of our model, and what is presented here serves as preliminary outlines for potential future research directions. The main point is that the leakage suggests a mechanism to explain Λ-CDM cosmology in our model.
+Appendix D. Our Cosmology
+Let us write again the time evolution of the density inside an SQC as given in Equation (9):
+ρsqc(t) = (1 − ηG)ρcsc − ρvac. (1 − e−(t−tG)/ttun. )	(A9)
+
+
+= ρsqc,eG
+1	  fV  (1	e−(t−tG)/ttun. )	,
+1 − ηG
+
+with ρsqc,eG = (1 − ηG)ρcsc, the SQC density at the end of the LGB/photon-burst phase. As noted earlier, the equation above incorporates the key parameters in our cosmology, namely, ρcsc, ηG, fV, and ttun. which are all fundamentally related to QCD.
+The time evolution of the DM density given in Equation (10) can be expanded as
+ρsqc(t)Vtot.	ρsqc(t)	ρsqc,0 Vtot.	Vuniv.,0
+
+sqc
+Vuniv.(t)
+
+ρsqc,0
+sqc
+Vuniv.,0
+
+/
+Vuniv.(t)
+
+ρDM(t) =
+ρcsc Vtot.
+
+
+ρcsc
+ρsqc,0 Vtot.
+×	×
+/
+
+Vuniv.,0
+(A10)
+
+Vuniv.(t)
+
+ρsqc,0
+Vuniv.,0
+Vuniv.(t)
+
+if	t ≤ tG (or z ≥ zG)
+where the subscript “0” refers to the current age of the universe at z = 0 (i.e., at t = t0); recall that ttun. is a fraction of t0, which simplifies our equations. Vtot. is the total volume occupied by SQCs, which is constant in time, and Vuniv.(t) is the Hubble volume at time t.
+
+Universe 2024, 10, 115	21 of 23
+
+
+Putting Equation (A9) into Equation (A10), we obtain
+
+	V
+
+ 1−  fV
+
+ 1−e−(t−tG)/ttun. 
+
+univ.,0
+
+/
+DM,0 Vuniv.(t)
+1−ηG
+
+fV 1−ηG
+
+ρDM(t) =
+
+ρ	Vuniv.,0
+if	t > tG (or z < zG)
+×	1
+(A11)
+
+
+
+
+with ρsqc,0 = (1 − ηG)ρcsc − ρvac. , ρsqc,eG/ρsqc,0 = (1 −  fV )−1, and ρcsc/ρsqc,0 = ((1 −
+/
+
+QVD
+1−ηG
+
+ηG) − fV)−1; see Section 3. Also, ρDM,0 = ρsqc,0Vtot./Vuniv.,0 is the DM density at z = 0. The jump in the value of ρDM at t = tG in the equation above is due to the fact that a fraction (1 − ηG) of the DM is lost to the 2 MeV radiation before the start of the leakage era at teG (see Section 2).
+Equation (A11) can be expressed in terms of redshift as
+
+	
+	− (1+ztun.)3/2 
+
+
+ρDM,0(1 + z)3 ×
+fV 1−ηG
+1−e
+
+	f
+(1+z)3/2
+
+ 
+
+
+ρDM(z, ztun.) =
+
+V
+−ηG
+if	z < zG ∼ zeq.
+
+(A12)
+
+	G	V
+if	z ≥ zG ∼ zeq.
+where we emphasize the dependency of ρDM on the leakage characteristic redshift ztun. to help differentiate our model from the ΛCDM cosmology. Because tG << ttun. (or zG >> ztun.) and most of the time between tG and ttun. is in the matter-dominated era, we approximate t/ttun. ∼ (1 + ztun.)3/2/(1 + z)3/2 and Vuniv.,0/Vuniv.(t) ∼ (1 + z)3. Our model does not depend critically on zG, and by setting zG ∼ zeq., where zeq. is the redshift at matter–radiation equality, we can simplify the equations without changing the final results.
+The redshift of matter-radiation equality in our model is estimated by writing ρDM(zeq., ztun.) = ρr,0(1 + zeq.)4, with t << ttun. (i.e., z >> ztun.) so that ρDM(zeq., ztun.) ≃ ρDM,0(1 + zeq.)3 × (1 −  fV  )−1. This yields
+
+
+
+1 + zeq. ∼
+ρDM,0
+ρr,0 ×
+  f	−1
+1 − 1 − η
+
+(A13)
+
+= ΩDM,0
+r,0
+  f	−1
+1 − 1 − η
+
+= ωDM
+ωr
+  f	−1
+1 − 1 − η	,
+
+with ωDM = ΩDM,0h2 0.120, ωb = Ωb,0 h2 0.0224 and ωr = Ωr,0h2 4.18 10−5 as measured by Planck [53]; h = H0/100 km s−1 Mpc−1 is the dimensionless Hubble constant in today’s universe. As expected, zeq. in our model is larger (i.e., requires an increase in the radiation to compensate for larger DM in the past) than in the case of the pure ΛCDM cosmology, which does not capture the converted (by LGB decay and vacuum leakage) component of the DM.
+Finally, our cosmology can be described by
+H(z, ztun.) = H0	(A14)
+× qΩr,0(1 + z)4 + Ωb,0(1 + z)3 + ΩDM(z, ztun.) + ΩΛ
+
+Universe 2024, 10, 115	22 of 23
+
+
+with ΩDM(z, ztun.) = ρDM(z, ztun.)/ρ0 and H2 = 8πGρ0/3 where ρ0 is today’s critical
+c	0	c	c
+density; ΩΛ = 1 − Ωr,0 − Ωb,0 − ΩDM,0.
+The co-moving sound horizon and the co-moving angular-diameter distance to the
+surface of the last scatter are [54]
+∫ ∞  cs(z)dz 	∫ zls 	cdz	
+
+/
+The sound speed of the photon-baryon fluid at z ≥ zls is cs(z) = c/  3(1 + R(z))
+with R(z) = (3/4)(ωb/ωγ)/(1 + z) and ωγ = 2.47 × 10−5.
+The Hubble constant H0 is found by solving θsDA(ztun.) − rs(ztun.) = 0 with θs = 1.041 × 10−2 the angle subtended by the sound horizon [53]. For the ΛCDM, one finds H0 ∼ 67.3 km s−1 Mpc−1 (h ∼ 0.673; by solving θsDA − rs = 0 using standard ΛCDM cosmology). In our case, H0 ∼ 73 km s−1 Mpc−1 (h = 0.73) can be obtained for a range in ηG and fV values (see examples in Figure 4) with a leakage characteristic redshift 2 < ztun. < 6 (i.e., 1 < ttun.(Gyr) < 4); see Section 3.
+References
+Hoyle, F.; Tayler, R.J. The Mystery of the Cosmic Helium Abundance. Nature 1964, 203, 1108. [CrossRef]
+Peebles, J.P.E. Primordial Helium Abundance and the Primordial Fireball. II. Astrophys. J. 1966, 146, 542. [CrossRef]
+Wagoner, R.V.; Fowler, W.A.; Hoyle, F. On the Synthesis of Elements at Very High Temperatures. Astrophys. J. 1967, 148, 3. [CrossRef]
+Tytler, D.; O’Meara, J.M.; Suzuki, N.; Lubin, D. Review of Big Bang Nucleosynthesis and Primordial Abundances. Phys. Scripta 2000, T85, 12. [CrossRef]
+Lang, K.R. Astrophysical Formulae, Volume II: Space, Time, Matter and Cosmology; Springer: Berlin/Heidelberg, Germany, 1999.
+Khatri, R.; Sunyaev, R.A. Time of primordial 7Be conversion into 7Li, energy release and doublet of narrow cosmological neutrino lines. Astron. Lett. 2011, 37, 367. [CrossRef]
+Spite, F.; Spite, M. Abundance of lithium in un-evolved stars and old disk stars: Interpretation and consequences. Astron. Astrophys. 1982, 115, 357.
+Fields, B.D. The Primordial Lithium Problem. Annu. Rev. Nucl. Part. Sci. 2011, 61, 47. [CrossRef]
+Berezinsky, V.S.; Bulanov, S.V.; Dogiel, V.A.; Ginzburg, V.L.; Ptuskin, V.S. Astrophysics of Cosmic Rays; North-Holland: Amsterdam, The Netherlands, 1990; 534p.
+Kawasaki, M.; Moroi, T. Electromagnetic Cascade in the Early Universe and Its Application to the Big Bang Nucleosynthesis.
+Astrophys. J. 1995, 452, 506. [CrossRef]
+Poulin, V.; Serpico, P.D. Loophole to the universal photon spectrum in electromagnetic cascades: Application to the “cosmological lithium problem”. Phys. Rev. Lett. 2015, 114, 091101. [CrossRef]
+Protheroe, R.J.; Stanev, T.; Berezinsky, V.S. Electromagnetic cascades and cascade nucleosynthesis in the early Universe. Phys. Rev. D 1995, 51, 4134. [CrossRef]
+Kawasaki, M.; Kohri, K.; Moroi, T.; Murai, K.; Murayama, H. Big Bang nucleosynthesis with sub-GeV massive decaying particles.
+J. Cosmol. Astropart. Phys. 2020, 2020, 048. [CrossRef]
+Witten, E. Cosmic separation of phases. Phys. Rev. D 1984, 30, 272. [CrossRef]
+Zhitnitsky, A.R. ‘Nonbaryonic’ dark matter as baryonic colour superconductor. J. Cosmol. Astropart. Phys. 2003, 2003, 010. [CrossRef]
+Ishida, H.; Kusakabe, M.; Okada, H. Effects of long-lived 10 MeV-scale sterile neutrinos on primordial elemental abundances and the effective neutrino number. Phys. Rev. D 2014, 90, 083519. [CrossRef]
+Rüster, S.B.; Shovkovy, I.A.; Rischke, D.H. Phase diagram of dense neutral three-flavor quark matter. Nucl. Phys. A 2004, 743, 127. [CrossRef]
+Alford, M.G.; Schmitt, A.; Rajagopal, K.; Schäfer, T. Color superconductivity in dense quark matter. Rev. Mod. Phys. 2008, 80, 1455. [CrossRef]
+Baym, G.; Hatsuda, T.; Kojo, T.; Powell, P.D.; Song, Y.; Takatsuka, T. From hadrons to quarks in neutron stars: A review. Rep. Prog. Phys. 2018, 81, 056902. [CrossRef]
+Brodsky, S.J.; Roberts, C.D.; Shrock, R.; Tandy, P.C. Confinement contains condensates. Phys. Rev. C 2012, 85, 065202. [CrossRef]
+Coleman, S.R. Fate of the false vacuum: Semiclassical theory. Phys. Rev. D 1977, 15, 2929; Erratum in Phys. Rev. D 1977, 16, 1248. [CrossRef]
+Cohen-Tannoudji, C.; Diu, B.; Laloe, F. Quantum Mechanics; Hermann and John Wiley & Sons: Paris, France, 2006.
+Kamionkowski, M.; Riess, A.G. The Hubble Tension and Early Dark Energy. Ann. Rev. Nucl. Part. Sci. 2023, 73, 153–180. [CrossRef]
+
+Universe 2024, 10, 115	23 of 23
+
+
+Schöneberg, N.; Abellán, G.F.; Sánchez, A.P.; Witte, S.J.; Poulin, V.; Lesgourgues, J. The H0 Olympics: A fair ranking of proposed models. Phys. Rep. 2022, 984, 1–55. [CrossRef]
+Garrett, K.; Gintaras, D. Dark Matter: A Primer. Adv. Astron. 2011, 2011, 968283. [CrossRef]
+Schumann, M. Dark Matter 2014. Eur. Phys. J. Web Conf. 2015, 96, 01027. [CrossRef]
+Bertone, G.; Hooper, D. History of dark matter. Rev. Mod. Phys. 2018, 90, 045002. [CrossRef]
+Kisslinger, L.S.; Das, D. A brief review of dark matter. Int. J. Mod. Phys. A 2019, 34, 1930013. [CrossRef]
+Oks, E. Brief Review of Recent Advances in Understanding Dark Matter and Dark Energy. New Astron. Rev. 2021, 93, 101632. [CrossRef]
+Arbey, A.; Mahmoudi, F. Dark matter and the early Universe: A review. Prog. Part. Nucl. Phys. 2021, 119, 103865. [CrossRef]
+Matsumoto, R. et al. [Super-Kamiokande Collaboration]. Search for proton decay via p → µ+K0 in 0.37 megaton-years exposure of Super-Kamiokande. arXiv 2002, arXiv:2208.13188.
+Sofue, Y. Rotation Curve of the Milky Way and the Dark Matter Density. Galaxies 2020, 8, 37. [CrossRef]
+Kanno, S.; Soda, J. Exact Coleman-De Luccia instantons. Int. J. Mod. Phys. 2012, 21, 1250040. [CrossRef]
+Navarro, J.F.; Frenk, C.S.; White, S.D.M. The Structure of Cold Dark Matter Halos. Astrophys. J. 1996, 462, 563. [CrossRef]
+Abel, T.; Bryan, G.L.; Norman, M.L. The Formation of the First Star in the Universe. Science 2002, 295, 93. [CrossRef]
+Paczyn´ski, B. Carbon Ignition in Degenerate Stellar Cores. Astrophys. J. 1972, 11, 53.
+Ablyazimov, T.; Abuhoza, A.; Adak, R.P.; Adamczyk, M.; Agarwal, K.; Aggarwal, M.M.; Ahammed, Z.; Ahmad, F.; Ahmad, N.; Ahmad, S.; et al. Challenges in QCD matter physics—The scientific programme of the Compressed Baryonic Matter experiment at FAIR. Eur. Phys. J. 2017, 53, 60. [CrossRef]
+Senger, P. Status of the Compressed Baryonic Matter experiment at FAIR. Int. J. Mod. Phys. E 2020, 29, 2030001. [CrossRef]
+Huang, M.; Shovkovy, I.A. Chromomagnetic instability in dense quark matter. Phys. Rev. D 2004,70, 051501. [CrossRef]
+Alford, M.; Kouvaris, C.; Rajagopal, K. Evaluating the gapless color-flavor locked phase. Phys. Rev. D 2005, 71, 054009. [CrossRef]
+Cao, G.; He, L.; Zhuang, P. Solid-state calculation of crystalline color superconductivity. Phys. Rev. 2015, 91, 114021. [CrossRef]
+Haber, A.; Schmitt, A. New color-magnetic defects in dense quark matter. J. Phys. Nucl. Phys. 2018, 45, 065001. [CrossRef]
+Guenther, J.N. Overview of the QCD phase diagram—Recent progress from the lattice. Eur. Phys. J. A 2021, 57, 136. [CrossRef] [PubMed]
+Alford, M. Color superconducting quark matter. Annu. Rev. Nucl. Part. Sci. 2001, 51, 131. [CrossRef]
+Svensson, R.; Zdziarski, A.A. Photon-Photon Scattering of Gamma Rays at Cosmological Distances. Astrophys. J. 1990, 349, 415. [CrossRef]
+Ouyed, R.; Sannino, F. The Glueball sector of two-flavor Color Superconductivity. Phys. Lett. B 2001, 511, 66. [CrossRef]
+Sannino, F.; Marchal, N.; Schäfer, W. Partial Deconfinement in Color Superconductivity. Phys. Rev. D 2002, 66, 016007. [CrossRef]
+Rischke, D.H.; Son, D.T.; Stephanov, M.A. Asymptotic Deconfinement in High-Density QCD. Phys. Rev. Lett. 2001, 87, 062001. [CrossRef]
+Alford, M.; GRajagopal, K.; Reddy, S.; FWilczek, F. Minimal color-flavor-locked–nuclear interface. Phys. Rev. D 2001, 64, 074017. [CrossRef]
+Shovkovy, I.A. Lectures delivered at the IARD 2004 conference, Saas Fee, Switzerland, June 12–19. and at the Helmholtz International Summer School and Workshop on Hot points in Astrophysics and Cosmology, JINR, Dubna, Russia, Aug. 2–13. arXiv 2004, arXiv:nucl-th/0410091.
+Satz, H. Phase transitions in QCD. Nucl. Phys. A 2001, 681, 3. [CrossRef]
+Addazi, A.; Marcianò, A.; Pasechnik, R.; Prokhorov, G. Mirror symmetry of quantum Yang-Mills vacua and cosmological implications. Eur. Phys. J. 2019, 79, 251. [CrossRef]
+Aghanim, N. et al. [Planck Collaboration] Planck 2018 results. VI. Cosmological parameters. Astron. Astrophys. 2018, 641, A6.
+Ryden, B. Introduction to Cosmology, 2nd ed.; Cambridge University Press: Cambridge, UK, 2016.
+
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+
+Quark-Gluon Plasma as the Possible Source of Cosmological Dark Radiation
+Jeremiah Birrell and Johann Rafelski
+Department of Physics, The University of Arizona, Tucson Arizona, 85721, USA
+(Dated: November 22, 2014)
+The effective number of neutrinos, Neff, obtained from CMB fluctuations accounts for all effectively massless degrees of freedom present in the Universe, including but not limited to the three known neutrinos. Using a lattice-QCD derived QGP equation of state, we constrain the observed range of Neff in terms of the the freeze-out of unknown degrees of freedom near to quark-gluon hadronization. We explore limits on the coupling of these particles, applying methods of kinetic theory. We present bounds on the coupling of such particles and discuss the implications of a connection between Neff and the QGP transformation for laboratory studies of QGP.
+PACS numbers: 98.80.Cq,12.38.Mh,95.35.+d
+
+
+Introduction: Phase transitions in the early Universe, such as the Electroweak and QCD transitions, consti-tute a drastic change in the properties of the vacuum. In the case of QCD, the strong symmetry breaking is accompanied by the presence of relatively heavy Gold-stone bosons. It is natural to wonder whether such a transition comprises further and much weaker symmetry breaking, accompanied by low mass (sub eV scale mass) Goldstone bosons, expected to decouple at or near the phase boundary. We refer to any light weakly coupled particle species as a ‘sterile particle’ (SP), generalizing the sterile neutrino concept– to avoid misunderstandings we stress that these SPs are not (cold) dark matter but rather behave as ‘dark radiation’ [1].
+To motivate the assumption that the transformation of the vacuum structure is the origin of SPs, it is best to compare our discussion with Ref. [2], where a concrete but yet to-be-discovered model is proposed. In contrast, here we consider the latest phase transformation in the early Universe and evaluate quantitatively the produc-tion and freeze-out of possible SPs in such a transition. If SPs are interpreted as Goldstone bosons, it would im-ply that in the deconfined phase there is an additional hidden symmetry, weakly broken at hadronization. For example, if this symmetry were to be part of the baryon conservation riddle, then we can expect that these Gold-stone bosons will couple to particles with baryon num-ber, and possibly only in the domain where the vacuum is modified from its present day condition.
+Another viable candidate for SPs are sterile neutrinos. It was shown that the freeze-out temperature required for three ‘new’ right-handed neutrinos to fully account for the effective number of neutrinos, Neff (see the follow-ing section), is in the vicinity of the quark gluon plasma (QGP) phase transition [3, 4]. The former paper pro-posed a concrete model of how this might be obtained from an expanded gauge group for QCD. However, the QGP equation of state (EoS) which were used are not consistent with recent numerical lattice-QCD results. We use the lattice-QCD derived QGP EoS from Ref. [5] to characterize the relation between Neff and the number of DoF that froze out at the time that the quark-gluon deconfined phase froze into hadrons near T = 150 MeV,
+and compute the coupling strength required to achieve freeze-out at the QGP transformation.
+The question of the validity of the symmetry breaking model [3] is far from resolved, and other extensions of strong interactions are present in the literature, see for example [6]. The cancellation seen in lattice simulations between QED and QCD CP-odd terms [7, 8] provides concrete evidence of a possible connection between the QED and QCD sectors, showing that the theory of strong interactions is not fully understood and can contain sym-metry breaking outside the known realm.
+Even a very weakly coupled SP, should it be associated with symmetry breaking below and at QGP hadroniza-tion, could be seen in several experiments, a point we develop in this work:
+An experimental motivation for prior interest is the analysis of CMB temperature fluctuations, such as by the Planck satellite collaboration (Planck) [9], especially the observed tension in the effective number of neutrinos, Neff. Neff is constrained by the expansion of the Universe and includes all light sub-eV mass particles present in the Universe, such as our SPs.
+By applying methods of kinetic theory, we obtain the minimal coupling strength of SPs required to maintain chemical equilibrium down to the time of hadronization of cosmological or laboratory formed QGP. We show that in this situation a significant fraction of the total energy of the QGP phase could be unaccounted for, carried out by SPs that are ‘invisible’ in the confined vacuum. This result motivates a closer study of the energy balance and expansion dynamics in laboratory QGP experiments.
+Our discussion of the role of SPs in understanding the early Universe expansion complements and competes with other explanations of the tension in Neff, which has already inspired various theories, including the con-sideration of: i) a model in which the temperature of neutrino decoupling was a variable parameter [10]; ii) a very light neutralino that freezes-out prior to muon annihilation [11]; iii) as noted, the introduction of Gold-stone bosons associated with a new spontaneously broken symmetry that freeze out prior to the disappearance of muons, making a fractional contribution to Neff [2].
+The last case is an example of the general mechanism
+
+
+
+whereby ultra-weakly interacting particles of any type that freeze-out in an earlier epoch of the Universe, such as our SPs, make a contribution to Neff that depends on the decoupling temperature [1, 3, 4, 12]. This naturally results in a fractional contribution to Neff. After decoupling, SPs do not participate in the reheating process, in which the entropy of a disappearing particle component is transferred into the remaining components. The noticeably lower temperature of SPs, compared to the reference particle (photon), means they have a smaller contribution to thermal pressure and energy, an effect measured by Neff, re-sulting in a fractional contribution to the ‘neutrino’ DoF.
+Effective Number of Neutrinos: Neff quantifies the
+
+
+
+
+S
+∗
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+2
+
+Tγ/Ts
+2.4
+
+
+2.2
+
+
+2
+
+
+1.8
+
+
+1.6
+
+
+1.4
+
+
+1.2
+
+amount of radiation energy density, ρr, in the Universe prior to photon freeze-out and after e± annihilation and is defined by ρr = (1 + (7/8)R4Neff)ργ , where ργ is the photon energy density and Rν ≡ Tν/Tγ = (4/11)1/3 is the photon to neutrino temperature ratio in the limit where no entropy from the annihilating e± pairs is trans-ferred to neutrinos. The factor 7/8 is the ratio of Fermi to Bose reference normalization in ρ and the neutrino to photon temperature ratio Rν is the result of the transfer of e± entropy into photons after Standard Model (SM) left handed neutrino freeze-out.
+If photons and SM left-handed neutrinos are the only significant massless particle species in the Universe be-tween the freeze-out of left-handed neutrinos at Tγ = O(1) MeV and photon freeze-out at Tγ = 0.25 eV, and as-suming zero reheating of neutrinos, then Neff = 3, corre-sponding to the number of SM neutrino flavors by defini-tion. A numerical computation of the neutrino freeze-out process employing SM two body scattering interactions and carried out using the Boltzmann equation framework presented in [13] gives N th = 3.046 [14], a value close to the number of flavors.
+The value of Neff can be measured by fitting to
+100	150	200	250	300	350	400
+T [MeV]
+
+FIG. 1: Left axis: Effective number of entropy-DoF, including lattice QCD effects applying Ref. [5] (solid line) and Ref. [15] (circles), compared to the early Ref.[16] (triangles) results used by [3], and the ideal gas model of Ref.[17] (dashed line) as function of temperature T . Right axis: Photon to SP tem-perature ratio, Tγ /Ts, as a function of SP decoupling tem-perature (dash-dotted (blue) line). The vertical dotted lines at T = 142 and 163 MeV delimit the QGP transformation region.
+
+
+its temperature scales as 1/a(t) at all later times as a re-sult of the free-streaming solution of the Einstein-Vlasov equation. This leads to a temperature difference between the free streaming particles, and the photon background, which is the last to freeze-out. This reheating effect builds up during each period in which particle species disappear from the Universe inventory.
+We denote by S the conserved ‘comoving’ entropy in a volume element dV , which scales with the factor a(t)3. We define the effective number of entropy DoF, gS, by
+
+observational data, such as the distribution of CMB temperature fluctuations. The Planck [9] analysis gives
+2π2
+S =
+45
+gST 3
+a3.	(1)
+
+Neff = 3.36 ± 0.34 (CMB only) and Neff = 3.62 ± 0.25 (CMB+H0) (68% confidence levels). With more dedi-cated CMB experiments forthcoming and an analysis
+
+/
+For ideal Fermi and Bose gases
+Σ	  T  3	7 Σ	  T  3
+/	/	/
+
+particle inventory in the early universe, it is believed
+that a significantly more precise value of Neff will be
+i=bosons	γ
+i=fermions	γ
+±
+
+available in the next decade.
+Contribution to Neff of a Sub-eV Mass SPs: The Einstein equations imply a practically entropy conserving expansion of the Universe. Entropy conservation dur-ing periods when dimensional (mass) scales are irrele-vant means that all temperatures scale inversely with the metric scale factor a(t). As temperature passes through m ≃ T thresholds, successively less massive particles an-nihilate and their entropy is shifted into the remaining effectively massless particles, causing the T ∝ 1/a(t) scal-ing to break down.
+After an effectively massless particle species decouples,
+The gi are degeneracies, fi ∈ (0, 1) are known functions that turn off the various species as the temperature drops below their mass– compare to the analogous Eqs. (2.3)
+and (2.4) in Ref.[12].
+Such a simple characterization does not hold in the vicinity of the QGP phase transformation where quark-hadron degrees of freedom are strongly coupled and the system must be studied using lattice QCD. This result is incorporated in the solid line in figure 1 (left axis), where we have used a table of entropy density values through the QGP phase transition presented by Borsanyi et al. [5], while circles show recent results from Bazavov et al. [15]. This should be compared to the ideal gas
+
+3
+
+
+
+2
+1.8
+1.6
+1.4
+1.2
+where Td,s is the decoupling temperature of the SP and Tγ is any photon temperature Tγ ≪ me. The SM par-ticles remaining at Tγ are photons and SM neutrinos, the latter with temperature Rν Tγ, and so gS(Tγ) = 2 + 7/8 × 6 × 4/11 and (see also Eq.(2.7) in [12])
+  7.06  4/3
+
+
+1
+δNeff ≈gs
+gS (T
+d,s)
+.	(6)
+
+0.8
+0.6
+0.4
+0.2
+0
+
+
+
+
+
+
+
+
+
+100	120	140	160	180	200
+Td,s [MeV]
+Figure 2 shows δNeff as a function of Td,s for 1, . . . , 6 boson (solid lines) and fermion (dashed lines) DoF. For a low decoupling temperature Td,s < 100 MeV a single bose or fermi SP can help alleviate the tension in Neff. Within QGP hadronization interval Tc = 142 − 163 MeV (marked by vertical lines), where SPs could decouple, we see that three bose degrees of freedom or four fermi degrees of freedom are the most likely cases to resolve the tension.
+
+FIG. 2: Solid lines: Increase in δNeff due to the effect of
+1, . . . , 6 light sterile boson DoF (gs = 1, . . . , 6, bottom to top curves) as a function of freeze-out temperature Td,s. Dashed lines: Increase in δNeff due to the effect of 1, . . . , 6 light sterile fermion DoF (gs = 7/8 × 1, . . . , 7/8 × 6, bottom to top curves) as a function of freeze-out temperature Td,s. The horizontal dotted lines correspond to δNeff + 0.046 = 0.36, 0.62, 1. The vertical dotted lines show the reported range of QGP trans-formation temperatures Tc = 142 − 163 MeV.
+
+approximation from [17] together with the fit in [18] to interpolate though the QGP phase transition and older (year 2009) lattice data from Ref.[16] (triangles). The free gas approximation carries with it a maximum er-ror of 10% in the temperature range of the QGP phase transition T ≃ 150 MeV where quarks appear. The error in the 2009 lattice data used in Ref.[3] is on the order of 25%. This leads to a non-negligible difference in the relation between freeze-out temperature and Neff.
+Once the SPs decouple from the particle inventory at a photon temperature of Td,s, a difference in their tempera-ture from that of photons will build up during subsequent photon reheating periods, as discussed above. Conserva-tion of entropy leads to a temperature ratio at Tγ < Td,s, shown in the dot-dashed line in figure 1 (right axis), of
+It is also clear from figure 2 that the rapid growth of the number of degrees of freedom in the QGP phase implies that earlier decoupling temperatures lead to a rapid increase in the required number of SPs. While one cannot exclude the possible presence of 20–30 new dark light particles, it seems to us unlikely that there are that many undiscovered weakly broken symmetries producing light Goldstone, or/and sterile neutrino-like particles. We believe that figure 2 pinpoints the QGP temperature range and below as the primary domain of interest for the freeze-out of such hypothetical degrees of freedom, should these be responsible for the modification δNeff.
+Chemical Equilibration of SPs: Using the method for computing freeze-out temperatures via Boltzmann two body scattering operators presented in [19], we can estimate the minimum coupling required within the QGP phase to maintain chemical equilibrium, both in a cos-mological and a laboratory setting. At the present level of precision, we find it reasonable to take an illustrative model, wherein we think of the SPs as if they were ster-ile neutrinos and model their interaction and freeze-out in a manner similar that of the left-handed neutrinos at Tf = O(1 MeV) [14]. However, in the QGP phase with
+Tf ≃ 150 MeV, in addition to leptons we also include coupling to the more abundant quarks. To account for
+
+R ≡ T /T
+gS(Tγ
+=
+)  1/3
+.	(3)
+quarks, in this first estimate of the coupling strength we
+
+s	s	γ
+
+/
+gS (Td,s)
+have effectively increased the number of active degrees of freedom in our computation by the appropriate amount.
+
+If Ts and Tγ are the light SP and photon temperatures,
+both after e± annihilation, and gs is the number of DoF of the SPs normalized to bosons (i.e. for fermions it includes an additional factor of 7/8) then this gives
+4g   T	 4
+In such a model of SP freeze-out, the strength of the interaction is controlled by a modified Fermi constant GSP = CGF .
+In a cosmological setting, the lower bound for C that will assure that SPs remain in chemical equilibrium until
+
+δNeff ≡ Neff − 3.046 =	s
+7
+s
+RsTγ
+(4)
+the confining QGP transition into regular matter at T =
+O(150 MeV) is approximately
+
+where 3.046 is the SM neutrino contribution.	Using Eq. (3) we can rewrite δNeff as
+C & 2 10−3,
+
+−1/2
+GSP	. 6.5 TeV.	(7)
+
+ 4g   gS(T
+)  4/3
+This large TeV energy scale for the coupling of e.g. ster-
+
+7R4
+/
+gS (Td,s)
+ile neutrinos seems reasonable and renders such particles
+
+4
+
+
+within a range that can perturb experimental laboratory data. This result justifies the implementation of a more concrete sterile neutrino coupling model in the early Uni-verse to set a better limit on the model parameters.
+A much greater coupling C is required to assure that a chemical equilibrium abundance of SPs is achieved in the short lifespan of QGP formed in laboratory heavy ion collisions. In order to model this situation we need a temperature profile. We assume a simple model T τ = T0τ0. We choose τ0 = 8 10−24s so that the temperature falls from T0 = 600 MeV to T = 150 MeV in 2.4 · 10−23s. With this, the limit on the required coupling is
+the fireball thermal energy per baryon content near this threshold, we note missing energy of the here estimated magnitude: only 75% of the energy per baryon is found in the visible QGP reaction products.
+There is another, indirect, signature of the SPs should they be strongly coupled only within the domain of the QGP phase. We recall that lattice-QCD results predict a relatively small continuous pressure for the QGP phase near the transformation, a situation consistent with ab-sence of a phase transition [5]. However, SPs contribute to the pressure internal to QGP, scattering from QGP partons, yet not in the external region. Therefore, by
+
+C & 2 106.
+−1/2
+GSP	. 200 MeV.	(8)
+including SPs there is now a pressure discontinuity at the QGP surface.	This restores the appearance of a
+
+The appearance of a coupling on the order of the QCD scale is consistent with the intuition about the inter-action strength that is required for particles to reach chemical equilibrium in laboratory QGP experiments.
+QGP Signature of SP Production: As we have seen, for QCD-scale coupling, SPs associated with the de-confined phase transition could be produced abundantly in laboratory relativistic heavy ion experiments, saturat-ing the volume occupied by the QGP with their prac-tically massless yield. However, to be consistent with the present day invisibility of SPs, their interaction with other particles must only turn on in the domain where the vacuum is modified at finite temperature, analogous to the enhancement of anomalous baryon-number non-conservation at GUT scale temperatures [20]. Therefore, in our proposed scenario, the QGP transition must be associated with a sharp cutoff of the coupling, and thus scattering cross section, of the SPs.
+Reinspecting the results we have presented, in partic-ular the figures, we note the best Neff constraint suggests a multiplicity of 3 ± 2 SPs at QGP hadronization, at which point there are about gS = 25 strong interaction (entropy) degrees of freedom. This means that approxi-mately 12±8% of all entropy content of the QGP is within the escaping SPs. Moreover, since SP’s stop interacting at the QGP surface they can escape freely during the en-tire lifespan of the QGP. As a consequence, the energy loss could be even greater.
+We recognize that the likely loss of energy and entropy could be substantial. A full model of this dynamical pro-cess is beyond the present discussion. However, a quarter or more of the energy brought in by heavy ions into the space-time domain could literally ‘evaporate’. A system-atic exploration of the thermal energy in the QGP fireball is presented in tables 8 and 9 in Ref.[21]. This study did not consider the kinetic energy due to collective matter flow. However, near the QGP formation threshold the ki-netic flow energy component should be small. Inspecting
+phase transition between the deconfined and confined domains and drives the QGP expansion. In this way, SPs could also be observed through their indirect, dynamical effect on the flow of matter, including particle v2, the dynamical azimuthal asphericity [22, 23], imparting this effect on all components of the QGP, including heavy quarks.
+Discussion: The natural concordance of the reported CMB range of Neff with the range of QGP hadronization temperatures, as seen in figure 2, motivates the explo-ration of a connection between Neff and the decoupling of SPs at and below the QGP phase transition. We esti-mated the minimal strength of the coupling of novel par-ticles such as sterile neutrinos in the early Universe. We further considered the possibility of SPs that are coupled much more strongly, but exclusively within the context of the deconfined vacuum structure. Under this hypothe-sis the strength of the coupling could be governed by the QCD scale. We argued that such SPs, possibly a novel type of Goldstone bosons, would have considerable ob-servable impact on both energy balance in the formation of the QGP phase, and on its dynamical evolution.
+In summary, we can say that Neff > 3.05 can be asso-ciated with the appearance of several (best fit a total of 3 ± 2) light particles at QGP hadronization in the early Universe that either are weakly interacting in the entire space or are allowed to interact only inside the deconfined domain, in which case their coupling would be strong. Such particles could leave a clear experimental signature in, for example, relativistic heavy ion experiments that produce the deconfined QGP phase.
+Acknowledgments This work was conducted with Gov-ernment support under and awarded by DoD, Air Force Office of Scientific Research, National Defense Science and Engineering Graduate (NDSEG) Fellowship, 32 CFR 168a, and it has been supported by a grant from the U.S. Department of Energy, DE-FG02-04ER41318.
+
+
+/
+
+
+G. Steigman, Phys.Rev. D87, 103517 (2013).	[2] S. Weinberg, Phys.Rev.Lett. 110, 241301 (2013).
+
+5
+
+
+L. A. Anchordoqui and H. Goldberg, Phys.Rev.Lett. 108, 081805 (2012).
+L. A. Anchordoqui, H. Goldberg, and G. Steigman, Phys.Lett. B718, 1162 (2013).
+S. Borsanyi, Z. Fodor, C. Hoelbling, S. D. Katz, S. Krieg, et al., Phys.Lett. B730, 99 (2014).
+H. Georgi, Phys. Rev. Lett. 63, 1917 (1989).
+C. Bonati, G. Cossu, M. D’Elia, M. Mariti, and F. Negro, PoS LATTICE2013, 360 (2013).
+M. D’Elia, M. Mariti, and F. Negro, Phys.Rev.Lett. 110, 082002 (2013).
+P.	Ade	et	al.	(Planck	Collaboration) (arXiv:1303.5076[astro-ph.CO], 2013), 1303.5076.
+J. Birrell, C.-T. Yang, P. Chen, and J. Rafelski, Phys.Rev. D89, 023008 (January 2014).
+H. K. Dreiner, M. Hanussek, J. S. Kim, and S. Sarkar, Phys.Rev. D85, 065027 (2012).
+M. Blennow, E. Fernandez-Martinez, O. Mena, J. Re-dondo, and P. Serra, JCAP 1207, 022 (2012).
+D. A. Dicus, E. W. Kolb, A. Gleeson, E. Sudarshan, V. L. Teplitz, et al., Phys.Rev. D26, 2694 (1982).
+G. Mangano, G. Miele, S. Pastor, T. Pinto, O. Pisanti, and P. Serpico, Nucl.Phys. B729, 221 (2005).
+A. Bazavov et al. (HotQCD Collaboration) (2014), 1407.6387.
+A. Bazavov et al., Phys. Rev. D 80, 014504 (2009).
+T. S. Coleman and M. Roos, Phys.Rev. D68, 027702 (2003).
+O. Wantz and E. Shellard, Phys.Rev. D82, 123508 (2010).
+J. Birrell, C.-T. Yang, and J. Rafelski (2014), 1406.1759.
+V. Kuzmin, V. Rubakov, and M. Shaposhnikov, Phys.Lett. B155, 36 (1985).
+J. Letessier and J. Rafelski, Eur.Phys.J. A35, 221 (2008).
+J.-Y. Ollitrault, Phys.Rev. D46, 229 (1992).
+S. Voloshin and Y. Zhang, Z.Phys. C70, 665 (1996).
+
+
+
+
+
+Quintessence, Unified Dark Energy and Dark Matter, and Confinement/Deconfinement Mechanism
+Eduardo Guendelman∗
+Physics Department, Ben Gurion University of the Negev Beer Sheva, Israel
+Emil Nissimov and Svetlana Pacheva† Institute for Nuclear Research and Nuclear Energy Bulgarian Academy of Sciences, Sofia, Bulgaria
+
+
+Abstract
+We describe a new type of generalized gravity-matter models where f (R) = R + R2 gravity couples in a non-conventional way to a scalar “inflaton” field, to a second scalar “darkon” field responsible for dark energy/dark matter uni-fication, as well as to a non-standard nonlinear gauge field system containing a square-root of the ordinary Maxwell Lagrangian, which is responsible for a charge confining/deconfinfing mechanism. The essential non-conventional feature of our models is employing the formalism of non-Riemannian volume forms, i.e. metric-independent non-Riemannian volume elements on the spacetime manifold, defined in terms of auxiliary antisymmetric tensor gauge fields. Although being (almost) pure-gauge degrees of freedom, the non-Riemannian volume-forms trigger a series of important features unavailable in ordinary gravity-matter models. Upon passing to the physical Einstein frame we obtain an effective matter-gauge-field Lagrangian of quadratic “k-essence” type both w.r.t. the “inflaton” and the “darkon”, with the following properties: (i) Remarkable effective “inflaton” potential possessing two infinitely large flat regions with vastly different heights (“vacuum” energy den-sities) describing the “early” and “late” Universe; (ii) Nontrivial effective gauge coupling constants running with the “inflaton”, in particular, effective “inflaton”-running coupling constant of the square-root Maxwell term, which determines the strength of the charge confienement; (iii) The confinement-strength gauge coupling constant is non-zero in the “late” Universe, i.e., charge confinement is operating, whereas it vanishes in the “early” Universe, i.e., confinement-free epoch; (iv) The unification of dark energy and dark matter is explicitly seen within the FLRW reduction, where they appear as dynamically generated effective vacuum energy density and dynamically induced dust-like matter, correspondingly.
+
+∗ e-mail address: guendel@bgu.ac.il
+† e-mail address: nissimov@inrne.bas.bg, svetlana@inrne.bas.bg
+
+1
+
+2	Authors
+
+Introduction
+Our main task, which pertains to the interface of particle physics and cos-mology [1], is to present a non-canonical model of extended (f (R) = R+R2)
+gravity interacting in a non-standard way with two scalar fields and a strongly nonlinear gauge field, which is capable to provide a systematic description of:
+Unified treatment of dark energy and dark matter (for a background, see [3, 4]) revealing them as manifestations of a single material entity – the first non-canonical scalar “darkon” field. A number of proposals already exist for an adequate description of dark energy’s and dark matter’s dy-namics within the framework of standard general relativity or its modern extensions, among them: “Chaplygin gas” models [5], “purely kinetic k-essence” models [6], “mimetic” dark matter models [7]. In Section 2 we briefly review our own approach [8].
+Quintessential scenario driven by the remarkable dynamically gener-ated effective potential of the second “inflaton” scalar field with a consistent explanation of the vast difference between the energy scales of the “early” and the “late” Universe;
+Charge confinement/deconfinement mechanism triggered via special interplay between the “inflaton” and the nonlinear gauge field dynamics explaining absence of charge confinement in the “early” Universe and ex-hibiting confinement in the “late” Universe.
+The principal ingredient of our approach is the method of non-Riemannian volume-forms (metric-independent volume elements) on the pertinent space-time manifold (see refs.[9, 10, 11] for a consistent geometrical formula-tion, which is an extension of the originally proposed method [12]). Non-Riemannian volume-forms are constructed in terms of auxiliary maximal-rank antisymmetric tensor gauge fields, which are shown to be essentially pure-gauge degrees of freedom, i.e., they do not introduce additional prop-agating field-theoretic degrees of freedom. Yet, they leave a trace in a form of several dynamically induced integration constants, which trigger a series of important features unavailable in ordinary gravity-matter models.
+Another important ingredient of our approach is the inclusion of interac-tion of the extended gravity with a nonlinear gauge field system containing alongside the ordinary Maxwell Lagrangian also a square-root of the lat-ter. In flat spacetime such gauge field system is known [13, 14] to yield a simple implementation of ‘t Hooft’s idea [15] about confinement being produced due to the presence in the energy density of electrostatic field configurations of a term linear w.r.t. electric displacement field in the in-frared region (presumably as an appropriate infrared counterterm). It has been shown in [13] (for flat spacetime) and in appendix B of [11] (in curved spacetime) that the strength of confinement in this model is measured by the corresponding coupling constant of the square-root Maxwell term. Let us also note that one could start as well with the non-Abelian version of the above nonlinear gauge theory containing square-root of the Yang-Mills
+
+The title	3
+
+Lagrangian. For static spherically symmetric solutions, the non-Abelian theory effectively reduces to an Abelian one as pointed out in [13].
+In Section 3 we obtain upon passing to the physical Einstein frame an effective matter-gauge-field Lagrangian of quadratic “k-essence” type
+[16] w.r.t. both the “inflaton” and the “darkon” scalar fields with several remarkable properties:
+It contains an effective “inflaton” potential possessing two infinitely large flat regions with vastly different heights – dynamically generated “vac-uum” energy densities thanks to the appearance of the above mentioned integration constants – which describe the “early” and “late” Universe, accordingly;
+The Einstein-frame Lagrangian contains nontrivial effective gauge coupling constants running with the “inflaton”. Particularly important is the effective “inflaton”-running coupling constant of the square-root Maxwell term, which determines the “inflaton”-dependent strength of the charge confienement;
+We show the confinement-strength gauge coupling constant to be non-zero in the “late” Universe, i.e., charge confinement is operating there. On the other hand, the confinement-strength gauge coupling constant van-ishes in the “early” Universe, i.e., the latter being confinement-free epoch; In Section 4 we consider a cosmological FLRW reduction of the Einstein-frame effective matter-gauge-field Lagrangian where the unification of dark energy and dark matter is explicitly seen upon identifying them as dynam-ically generated effective vacuum energy density and dynamically induced
+dust-like matter, correspondingly.
+
+A Simple Model of Dark Energy and Dark Matter Uni-fication
+We start with a simple particular case of a non-conventional gravity-scalar-field action – a member of the general class of the non-Riemannian-volume-element-based gravity-matter theories [17, 11] (we use for simplicity units where the Newton constant GN = 1/16π):
+S = ∫ d4x√−g R + ∫ d4x(√−g + Φ(C))L(u, Y ) .	(1)
+
+R denotes the standard Riemannian scalar curvature for the spacetime Riemannian metric gµν . L(u, Y ) is general-coordinate invariant Lagrangian of a single scalar field u(x), the simplest example being:
+L(u, Y ) = Y − V (u)	,	Y ≡ − 1 gµν ∂ u∂ u ,	(2)
+
+It is coupled symmetrically to two mutually independent spacetime volu√me-
+elements (integration measure densities) – the standard Riemannian	−g
+
+4	Authors
+
+and to an alternative non-Riemannian (metric-independent) one:
+Φ(C) = 1 εµνκλ∂ C	.	(3)
+3!	µ  νκλ
+As a result of the equations of motion w.r.t. Cµνλ we obtain a crucial new property – dynamical constraint on L(u, Y ):
+∂µL(u, Y ) = 0 −→ L(u, Y ) = −2M0 = const , i.e. Y = V (u) − 2M0 . (4)
+The integration constant M0 will play below (Eq.(5)) the role of dynami-cally generated cosmological constant.
+The pertinent energy-momentum tensor Tµν can be cast into a relativis-tic hydrodynamical form (taking into account (4)):
+Tµν = −2M0gµν + ρ0uµuν ,	(5)
+
+Φ(C) 
+ ∂µu 	µ
+
+ρ0 ≡  1 + √−g	2Y	, uµ ≡ −√2Y  , u uµ = −1 ,	(6)
+with the corresponding pressure p and energy density ρ:
+	Φ(C) 
+p = −2M0 = const	,	ρ = ρ0 − p = 2M0 +  1 + √−g	2Y .	(7)
+Because of the constant pressure (p = 2M0) the covariant energy-momentum conservation ν Tµν = 0 implies both conservation of a hidden Noether symmetry current Jµ = ρ0uµ, as well as geodesic fluid motion:
+∇µJ ≡ ∇µ(ρ0u ) = 0	,	uν ∇ uµ = 0 .	(8) The hidden strongly nonlinear Noether symmetry giving rise to the current
+Jµ = ρ0uµ results from the invariance (up to a total derivative) of the scalar field action in (1), exclusively due to the presence of the non-Riemannian volume element Φ(C), under the following nonlinear symmetry transforma-tions:
+
+
+δǫu = ǫ
+√ 	µ
+Y	,	δǫgµν = 0	,	δǫC
+1	µν
+= −ǫ 2√Y g
+
+∂ν u(Φ(C) +
+ 	
+−g) , (9)
+
+where Cµ ≡  1 εµνκλCνκλ.
+Thus, Tµν (5)-(7) represents an exact sum of two contributions of the two “dark” material species with corresponding pressures and energy den-sities:
+p = pDE + pDM	,	ρ = ρDE + ρDM	(10)
+pDE = −2M0 , ρDE = 2M0	;	pDM = 0 , ρDM = ρ0 ,	(11)
+
+The title	5
+i.e., according to (8) the dark matter component is a dust fluid flowing along geodesics. This is explicit unification of dark energy and dark mat-ter originating from the non-canonical dynamics of a single scalar field – the “darkon” u(x) coupled symmetrically to a standard Riemannian and another non-Riemanian (metric-independent) volume element. Let us also note that the physical result Tµν (5) does not depend on the explicit form of the “darkon” potential V (u).
+Upon reduction to the cosmological class of Friedmann-Lemaitre-Robertson-Walker (FLRW) metrics:
+2	2	2	h	dr2	2	2	2	2 i
+ds = −dt + a (t) 1 − Kr2 + r (dθ + sin θdφ ) ,	(12)
+the Jµ-current conservation (8) now reads:
+µ	d	3	c0
+∇ (ρ0uµ) = 0  →	dt (a ρ0) = 0  →  ρ0 = a3 , c0 = const,	(13)
+
+p = −2M0
+,	ρ = 2M0
+ c0
++ a3
+,	(14)
+
+with the dark matter contribution ρ0 being the typical cosmological dust solution (e.g. [18]).
+
+Noncanonical Gravity-Matter System Coupled to Charge-Confining Nonlinear Gauge Field
+Let us now extend the simple gravity-“darkon” model (1) to f (R) = R + R2 gravity coupled non-canonically to both “inflaton” ϕ(x) and “darkon” u(x) scalar fields within the non-Riemannian volume-form formalism, as well as we will also add coupling to a non-standard non-linear gauge field subsystem:
+S = ∫ d4x Φ(A)hgµν R	(Γ) + X − V (ϕ) − 1 f √−F 2i +
+
+∫	4	h	2
+
+ 1   2
+µν
+Φ(H) i
+
+/
+1	2 0
+∫	4	√	
+
+d x Φ(B) ǫR − 4e2 F + √−g	+	d x(  −g + Φ(C))L(u, Y ) . (15)
+Here the following notations are used:
+Φ(A) and Φ(B) are two new metric-independent non-Riemannian volume-elements:
+
+Φ(A) = 1 εµνκλ∂ A
+,	Φ(B) = 1 εµνκλ∂ B
+
+,	(16)
+
+
+/
+3!	µ  νκλ
+
+/
+3!	µ
+νκλ
+
+defined in terms of field-strengths of two auxiliary 3-index antisym-metric tensor gauge fields, apart from Φ(C);
+
+6	Authors
+
+
+1 µνκλ
+Φ(H) = 3! ε	∂µHνκλ is the dual field-strength of an additional aux-
+iliary tensor gauge field Hνκλ whose presence is crucial for the consis-
+tency of (15).
+Let us specifically emphasize the importance to use here the Palatini
+formalism: R = gµν Rµν (Γ) ; gµν , Γλ – metric and affine connection
+are apriori independent.
+The “inflaton” part reads:
+X ≡ − 1 gµν ∂ ϕ∂ ϕ	,	V (ϕ) = f exp{−αϕ} .	(17)
+
+Fµν is the field-strength of an (Abelian) gauge field Aµ:
+
+Fµν = ∂µAν − ∂ν Aµ	,	F 2 = Fµν Fκλgµκgνλ	(18)
+
+The coupling parameters f1, f0 and α are dimensionful positive con-stants (mass4, mass2, mass−1).
+The specific form of the action (15) apart from the “darkon” field part
+(1) has been fixed by the requirement for invariance under global Weyl-scale transformations:
+
+
+gµν
+
+→ λgµν
+
+νλ → Γνλ
+1
+, ϕ → ϕ + α ln λ , Aµ
+
+→ Aµ ,
+
+Aµνκ → λAµνκ , Bµνκ → λ2Bµνκ , Hµνκ → Hµνκ .	(19)
+
+As shown in [11], the solution to the equations of motion w.r.t. inde-
+pendent affine connection Γµ yield the latter as a Levi-Civitta connection:
+
+Γµ	µ	1 µκ
+νλ = Γνλ(g¯) = 2 g¯	(∂ν g¯λκ + ∂λg¯νκ − ∂κg¯νλ) ,	(20)
+w.r.t. the Weyl-rescaled metric:
+
+
+g¯µν = (χ1 + 2ǫχ2R)gµν , χ1 ≡
+Φ1(A)
+√−g	, χ2 ≡
+Φ2(B)
+√−g  .	(21)
+
+Varying the action (15) w.r.t. auxiliary tensor gauge fields Aµνλ, Bµνλ
+and Hµνλ yields the equations:
+∂ hR + X − V (ϕ) − 1 f √−F 2i = 0
+
+∂µhǫR2
+ 1   2
+— 4e2 F +
+Φ(H)
+√−g
+
+= 0	,	∂µ
+Φ (B)
+√−g
+
+= 0 ,	(22)
+
+The title	7
+
+whose solutions are:
+1	√
+R + X − V (ϕ) −	f	−F 2 = M = const ,
+
+
+2	1	2
+
+Φ(H)
+
+/
+1	2 0
+1
+Φ2(B)
+
+ǫR − 4e2 F + √−g = −M2 = const ,	√−g ≡ χ2 = const .	(23)
+Here M1 and M2 are arbitrary dimensionful (mass4) and χ2 arbitrary di-mensionless integration constants. The appearance of M1, M2 signifies dy-namical spontaneous breakdown of global Weyl-scale invariance under (19) due to the scale non-invariant solutions (second and third ones) in (23).
+The physical meaning of the integration constants M0, M1,2, χ2, has been elucidated in refs.[10, 19, 11] from the point of view of the canonical Hamiltonian formalism. Namely, it was shown that M0, M1,2, χ2, which re-main the only traces of the auxiliary gauge fields Cµνλ, Aµνλ, Bµνλ, Hµνλ, are identified as conserved Dirac-constrained canonical momenta conju-gated to (certain components of) the latter.
+Using the equations of motion of the starting action (15) w.r.t. gµν as well as Eqs.(23) we obtain the following relation between the original metric gµν and the Weyl-rescaled one (21) (with χ1,2 the same as in (21), Y - same as in (2)):
+χ1 + 2ǫχ2(V1(ϕ) + M1)
+g¯µν = χ1Ωgµν	,	χ1Ω = 1 + 2ǫχ (X¯ − f0 √−F¯2) ,	(24)
+χ1 = (V1(ϕ) + M1)−1h2χ2M2 − 4M0 − (1 + χ4)Y i ,	(25)
+
+where:
+
+¯	1 µν
+
+¯2	µκ νλ
+Φ(C)
+
+X ≡ − 2 g	∂µϕ∂ν ϕ , F  ≡ Fµν Fκλg¯	g¯	, χ4 ≡ √−g	(26)
+Now, following the same steps as in refs.[11] we derive from (15) the physical Einstein-frame theory w.r.t. Weyl-rescaled Einstein-frame metric g¯µν (24) and perform an additional “darkon” field redefinition u → u˜:
+
+
+∂u˜
+
+/
+/
+1
+/	˜	/ µν
+/
+
+The explicit form of the Einstein-frame matter action reads:
+L	= X¯ − f0 √−F¯2 − χ2 F¯2 + ǫχ  X¯ − f0 √−F¯2 2
+−Y˜ V (ϕ) + M h1 + 2ǫχ X¯ − f0 √−F¯2 i
++Y˜2 nχ2hM2 + ǫ(V (ϕ) + M1)2i − 2M0, .	(28)
+
+8	Authors
+
+
+To reveal the total matter effective potential Utotal, i.e., the minus part of Leff (28) for static (spacetime independent) matter fields ϕ, F 2 and u
+
+(not u (27)), we note that relations (4), (24) and (27) imply Y˜
+˜
+ 1 
+χ1Ω
+
+meaning that according to (24)-(25) for static matter fields:
+˜	(V (ϕ) + M1)(1 − ǫχ2f0√−F¯2)
+
+Upon inserting (29) in (28) we find:
+Utotal(ϕ, F¯2) = −Leff	= U(ϕ) +	f  (ϕ)√−F¯2 +	F¯2 , (30)
+/
+1		1	
+
+ static
+U(ϕ) ≡	n	h
+/ /
+2
+(V1(ϕ) + M1)2
+2
+eff
+i
+(ϕ)
+
+
+, ,  (31)
+
+(recall (17) V1(ϕ) = f1 exp{−αϕ}) ,
+with running “inflaton”-dependent gauge coupling constants:
+f  (ϕ) = f (1−4ǫχ U(ϕ)) ,   1	 = χ2 h1+ǫe2f 2(1−4ǫχ U(ϕ))i (32)
+
+Concluding this Section let us note that feff (ϕ) measures the strength of charge confinement. Indeed, as shown in Appendix B of [11], for static
+spherically symmetric fields in√a static spherically symmetric metric the
+presence of the term − 1 feff (ϕ) −F¯2 will produce an effective “Cornell”-
+type [20] potential Veff (L) between charged quantized fermions, L being the distance between the latter:
+e2 (ϕ) 1	√/
+Veff (L) = −   ef          f	 + eeff (ϕ)feff (ϕ)   2 L + (L−independent const) ,  (33)
+
+i.e., a linear confining plus a Coulomb piece. Thus, we will consider below the dynamics of the Abelian nonlinear gauge system as mimicking quantum chromodynamics.
+
+Cosmological Implications
+Flat Regions of the Total “Inflaton” Effective Potential
+The total matter effective potential (30) possesses non-trivial “inflaton”-
+dependent gauge field vacuum ( ∂ 2 Utotal | ¯2 = 0):
+∂F¯	Fvac
+q−F¯2  = e2 (ϕ)feff (ϕ) ,	(34)
+
+The title	9
+
+
+
+
+Figure 1: Qualitative shape of the total effective “inflaton” potential Ueff (ϕ) (35).
+
+
+Upon inserting (34) in (30) we get the following total effective “inflaton” potential Ueff (ϕ) (taking into account expressions (31)-(32)):
+
+
+1 2	2
+e2f 2 (1 − 4ǫχ2U(ϕ))2
+
+	0	
+Ueff (ϕ) = U(ϕ) + 4 e  (ϕ)f	(ϕ) =	(ϕ) + 4χ [1 + e2ǫf 2 (1 − 4ǫχ U(ϕ))]
+2	2
+(35)
+As clearly seen from the graphic representation of (35) on Fig.1, the total effective “inflaton” potential possesses the following reparkable prop-erty – two infinitely large flat regions corresponding to large negative and large positive “inflaton” values (the sub-/super-scripts ( ) label belonging to the respective flat region):
+(−) flat region – for large negative ϕ-values:
+
+1	(−)	1
+U(ϕ) ≃ U(−) = 4ǫχ	,	Ueff (ϕ) ≃ Ueff = U(−) = 4ǫχ ,	(36)
+
+(−)
+2	2	e2
+
+feff (ϕ) ≃ f0	= 0	,	eeff (ϕ) ≃ e(−) = χ .	(37)
+The first relation in (37) implies according to (33) that there is no charge confinement in the (−) flat region.
+(+) flat region – for large positive ϕ-values:
+
+	M 2
+U(ϕ) ≃ U(+) = 4 χ (M + ǫM 2) − 2M  ,	(38)
+
+10	Authors
+
+(+)		ǫχ2M 2 + ǫe2f 2(χ2M2 − 2M0)
+Ueff (ϕ) ≃ Ueff  = 4ǫχ  (χ M − 2M )(1 + ǫe2f 2) + ǫχ M 2  ,	(39)
+
+
+feff
+(ϕ) ≃ f (+) = f
+	(χ2M2 − 2M0)	 ,	(40)
+0 χ2M2 − 2M0 + ǫχ2M 2
+
+  1		 1 	χ2 h	ǫe2f 2(χ2M2 − 2M0)  i
+
+e2 (ϕ) ≃ e2
+= e2
+1 +
+χ M − 2M
++ ǫχ M 2
+. (41)
+
+
+Relation (40) implies according to (33) that charge confinement does take place in the (+) flat region. Also, there is a non-trivial rescaling of the fundamental electric charge unit when passing from the ( ) flat “inflaton” region (second relation in (37)) to the (+) flat “inflaton” region (41).
+Let us specifically point out that both the vacuum energy densities U (±) as well as the confinement/deconfinement phenomena in both flat “inflaton” regions are entirely dynamically induced.
+Associating appropriately the integration constants M1,2, M0 and the coupling constants f0, ǫ with the fundamental physical constants MEW (electroweak scale), MP l (Planck mass) and Minfl (inflationary energy scale):
+
+2 2	M1	−4
+M ∼ M	, M ∼ M	, e f ∼	, χ ǫ ∼ M	,	(42)
+
+EW
+Pl
+0	M2	2
+infl
+
+allow us to identify – through their respective vacuum energy densities
+U (−) ∼ 10−8M 4 ∼ M	(39) and U (+) ∼ 10−122M 4 (36) – the (−) flat
+“inflaton” region as describing the “early” Universe, whereas the (+) flat “inflaton” region will be describing the “late” Universe in accordance with the PLANCK collaboration data [21].
+
+FLRW Reduction and Dark Energy/Dark Matter Unifica-tion
+Let us now consider a reduction of the Einstein-frame gauge-matter ac-tion (28) to the class of cosmological FLRW class of metrics (12) (here for simplicity we will take K = 0 – flat spacial sections):
+ds2 = g¯µν dxµdxν = −N 2(t)dt2 + a2(t)d→x.d→x ,	(43)
+
+where now X¯ = 1 . 2 t), Y˜ = 1 u. 2 t), and
+√−F¯2 = . (t). The resulting full
+
+
+/
+
+SFLRW = ∫
+dth
+
+. 2
+−6a a
++a3LFLRWi
+
+(44)
+
+The title	11
+with the FLRW matter-gauge Lagrangian, or the pressure p:
+p ≡ L	= −	h1 + ǫχ  .	− . 2 (V (ϕ) + M ) i .
+f0	2
+
+FLRW	2
+. 2
+χ	. 2	ϕ
+ϕ
+. 4	. 2
+ϕ	u
+u	1	1	A
+
+. 2
+
++  2  (1 + ǫe2f 2) A +	+ ǫχ2	− ˜ (V1(ϕ) + M1)(1 + ǫχ2 ϕ )
+
+4e2
+/	/	/
+0	2	4	2
+. 4
+
++ u˜ hχ M − 2M + ǫχ (V (ϕ) + M )2i .	(45)
+
+The canonical FLRW Hamiltonian corresonding to LFLRW	p (45), or the energy density ρ is given by:
+
+ρ = πA + pϕ + pu˜ − L
+,	(46)
+
+
+where the canonical momenta are defined via:
+πA = ∂LFLRW	,	pϕ = ∂LFLRW	,	pu˜ = ∂LFLRW .	(47)
+
+a3	∂A
+a3	∂ϕ
+a3	∂u
+
+From the first Eq.(47) we find:	˜
+
+
+.	2e2
+n πA	f0 h
+
+  . 2	. 2
+ i,
+
+A= χ (1 + ǫe2f 2)	a3 + 2  1 + ǫχ2 ϕ − u˜ (V1(ϕ) + M1)	,	(48)
+whereas the second and the third Eqs.(47) are a system of two mixed cubic
+.	.
+algebraic equations w.r.t. the velocities ϕ and u:
+
+
+pϕ =
+. 3
+ǫχ2 ϕ
++
+ϕ	π
+1 − 2ǫe2f	−
+. 2i
+
+, (49)
+
+
+/	/
+a3	1 + ǫe2f 2
+
+/
+1 + ǫe2f 2
+0 a3
+ǫχ2(V1(ϕ) + M1) u˜
+
+pu˜
+. 3 h
+	ǫχ2		2i
+
+
+
+. (V1(ϕ) + M1) 
+
+/
+/
+2	πA
+. 2 
+
+/
+
+
+In the (+) flat region of the total effective “inflaton” po-tential, i.e. in the “late” Universe where ϕ is large positive, negleting V1(ϕ) = f1e−αϕ in (49)-(50), we obtain approximate (up to higher powers
+ 1 	.	.
+of a3 ) solutions for the velocities ϕ and u as functions of the canonical
+
+
+.	pϕ
+2 2 (χ2M2 − 2M0)(1 + ǫe2f 2) + ǫχ2M 2	−6
+
+ϕ= a3 (1 + ǫe f0 )
+0
+(χ2M2 − 2M0)(1 + ǫe2f 2)
+1 + O(a
+) ,	(51)
+
+12	Authors
+.	h 	M	i 1	1
+˜=  (χ M − 2M )(1 + ǫe2f 2) + ǫχ M 2	+ 2 (1 + ǫe f0 ) ×
+
+2	2	0
+h
+
+/ /
+0	2	1
+
+ i− 1 p 
+
+Inserting (51)-(52) into (45)-(46) we obtain for the pressure and energy density in the “late” Universe:
+p(+) = −U (+) + O(a−6) , (53)
+n	h 	M	 i1
+/
+
+ρ(+)
+(+)
+eff
+pu˜
+(χ M
+1	2
+— 2M )(1 + ǫe2f 2) + ǫχ M 2
+
+e2f0	(χ2M2 − 2M0)(1 + ǫe2f 2) − ǫχ2M 2 ,  1
+χ2(1 + ǫe2f 2) (χ2M2 − 2M0)(1 + ǫe2f 2) + ǫχ2M 2	a3
+where U (+) is the dynamically induced vacuum energy density in the “late” Universe (39). Note that there is no O(a−3) in the expression for the pressure (53), while the leading terms in (53)-(54) are with opposite signs. Thus, comparing with (14) we can identify the expressions (53)-(54) as
+describing a unification in the “late” Universe of the dark energy (ρDE =
+
+DE	(+)
+DM	DM	−3
+
+−p(+) = Ueff ) and dust dark matter (p(+) = 0, ρ(+) = O(a
+(54)) contributions..
+) term in
+
+In the (  ) flat region of the total effective “inflaton” po-tential, i.e. in the “early” Universe where ϕ is large negative, the
+.	.
+approximate solutions for ϕ and u as functions of the canonical momenta – counterparts of Eqs.(51)-(52) – read:
+
+
+2 2	1/3
+ϕ=	0
+2ǫχ2
+a−1 + O(a−2) ,	(55)
+
+.	1	1 r ǫχ2 h(1 + ǫe2f 2)pϕ i2/3 −2	−3
+
+u˜= √ǫχ f − 2	f
+2ǫχ2
+a	+ O(a
+) .	(56)
+
+Inserting (55)-(56) into (45)-(46) we obtain for the pressure and energy density in the “early” Universe:
+
+
+p(−)
+= −U (−) + O(a−4) ,	(57)
+1 ϕ
+
+(−)	 pu˜e 2	 −3	−4
+ρ(+) = Ueff  + √ǫχ f a	+ O(a	) ,	(58)
+where U (−) is the dynamically induced vacuum energy density in the “early” Universe (36). Once again we see that there is no O(a−3) in the expression
+
+The title	13
+for the pressure (57) as in (53), while the leading terms in (57)-(58) are with opposite signs. Thus, comparing with (14) we can again identify the expressions (57)-(58) as describing a unification in the “early” Universe of
+(−)
+the dark energy (ρDE = −pDE = U	) and dust dark matter (pDM = 0,
+ρDM = O(a−3) term in (58)) contributions.
+
+
+Conclusions
+We have demonstrated above that the method of non-Riemanninan space-time volume-forms (metric-independent volume elements), combined with other ingredients such as non-canonical gravity interactions with “infla-ton” and “darkon” scalar fields and special type of non-linear gauge fields, provides a plausible description of various basic features of cosmological evolution:
+Unified description of dark energy and dark matter – through the impact of the dynamics of the non-canonical scalar “darkon” field;
+Natural explanation of the huge difference between the vacuum en-ergy scales in the “early” and “late” Universe – thanks to the generation of dimensionful integration constants as an impact of the dynamics of the non-Riemannian volume-form fields;;
+Natural explanation of the absence of charge confinement in the “early” Universe epoch, and the appearance of QCD-like confinement in the “late” Universe - through an “inflaton”-running coupling constants in the physical Einstein-frame theory.
+Further physically relevant phenomena adequately described using the method of non-Riemanninan spacetime volume-forms are:
+A novel mechanism for the supersymmetric Brout-Englert-Higgs ef-fect, namely, the appearance of a dynamically generated cosmological con-stant triggering spontaneous supersymmetry breaking and mass generation for the gravitino [9, 19].
+Gravity-assisted spontaneous symmetry breaking of electroweak gauge symmetry – when adding interactions with the bosonic fields of the elec-troweak sector of the standard model of elementary particles gravity trig-gers the generation of a Higgs-like spontaneous symmetry breaking effective potential in the “late” Universe, whereas in the “early” Universe gravity keeps the Higgs-like scalar isodoublet massless, i.e., no spontaneous elec-troweak breaking in the “early” Universe [22].
+Finally, let us mention some other modifications of the method of non-Riemannian volume elements – the so called gravity models with dynamical spacetime [23], which were further developed into models of interacting diffusive unified dark energy and dark matter ([24] and references therein).
+
+14	Authors
+
+Acknowledgments
+E.G. and E.N. are sincerely grateful to Prof. Branko Dragovich and the or-ganizers of the Ninth Meeting in Modern Mathematical Physics in Belgrade for cordial hospitality. E.G., E.N. and S.P. gratefully acknowledge support of our collaboration through the academic exchange agreement between the Ben-Gurion University in Beer-Sheva, Israel, and the Bulgarian Academy of Sciences. E.N. and E.G. have received partial support from European COST actions MP-1405 and CA-16104, and from CA-15117 and CA-16104, respectively. E.N. and S.P. are also thankful to Bulgarian National Science Fund for support via research grant DN-18/1.
+
+References
+E. Kolb and M. Turner, “The Early Universe (Addison Wesley, 1990);
+A. Linde, “Particle Physics and Inflationary Cosmology”, (Harwood, Chur, Switzer-land, 1990);
+A. Guth, “The Inflationary Universe” (Addison-Wesley, 1997);
+A. Liddle and D. Lyth, “Cosmological Inflation and Large-Scale Structure” (Cam-bridge Univ. Press, 2000);
+S. Dodelson, “Modern Cosmology” (Acad. Press, 2003);
+V. Mukhanov, “Physical Foudations of Cosmology” (Cambridge Univ. Press, 2005);
+S. Weinberg, “Cosmology” (Oxford Univ. Press, 2008).
+A. De Felice and S. Tsujikawa, Liv. Rev. Rel. 13 (2010) 3 (arxiv:1002.4928); S.Capozziello and V. Faraoni, “Beyond Einstein Gravity” (Springer, 2011).
+A.G. Riess, et.al., Astron. J. 116 (1998) 1009-1038 (arXiv:astro-ph/9805201);
+S. Perlmutter, et.al., Astrophys. J. 517 (1999) 565-586 (arXiv:astro-ph/9812133);
+A.G. Riess, et.al., Astrophys. J. 607 (2004) 665-687 (arXiv:astro-ph/0402512);
+M.S. Turner, in Third Stromle Symposium The Galactic Halo, ASP Conference Series Vol.666, ed. by B.K. Gibson, T.S. Axelrod and M.E. Putman, (1999);
+N. Bahcall, J. Ostriker, S. Perlmutter and P. Steinhardt, Science 284 (1999) 1481;
+V. Sahni and A.A. Starobinsky, Int. J. Mod. Phys. D9 (2000) 373 (arXiv:astro-ph/9904398);
+P.J.E. Peebles and B. Ratra, Rev. Mod. Phys. 75 (2003) 559	(arXiv:astro-ph/0207347]).
+M.J. Rees, Phil. Trans. R. Soc. Lond. A361 (2003) 2427 (arXiv:astro-ph/0402045);
+K. Garrett and G. Duda, Adv. Astron. 2011 (2011) 968283 (arXiv:1006.2483);
+V. Sahni, Lect. Notes Phys. 653 (2004) 141 (arXiv:astro-ph/0403324).
+A.Yu. Kamenshchik, U. Moschella and V. Pasquier, Phys. Lett. B511 (2001) 265 (arXiv:gr-qc/0103004);
+N. Bilic, G. Tupper and R. Viollier, Phys. Lett. 535 (2002) 17 (arXiv:astro-ph/0111325);
+N. Bilic, G. Tupper and R. Viollier, J. Phys. A40 (2007) 6877	(arXiv:gr-qc/0610104).
+R.J. Scherrer, Phys. Rev. Lett. 93 (2004) 011301 (arXiv:astro-ph/0402316);
+D. Bertacca, M. Bruni, O. Piattella and D. Pietrobon, JCAP 02 (2011)018 (arXiv:1011.6669).
+A. Chamseddine and V. Mukhanov, JHEP 1311 (2013 135 (arXiv:1308.5410);
+Chamseddine, V. Mukhanov and A. Vikman, JCAP 1406 (2014) 017 (arXiv:1403.3961);
+M. Chaichian, J. Kluson, M. Oksanen and A. Tureanu, JHEP 1412 (2014)102
+
+The title	15
+
+
+(arXiv:1404.4008);
+R. Myrzakulov, L. Sebastiani and S. Vagnozzi, Eur. Phys. J. C75 (2015) 444 (arXiv:1504.07984).
+E. Guendelman, E. Nissimov and S. Pacheva, Euro. Phys. J. C75 (2015) 472-479 (arXiv:1508.02008);
+E. Guendelman, E. Nissimov and S. Pacheva, Euro. Phys. J. C76 (2016) 90 (arXiv:1511.07071).
+E. Guendelman, E. Nissimov and S. Pacheva, Bulg. J. Phys. 41 (2014) 123 (arXiv:1404.4733).
+E. Guendelman, E. Nissimov and S. Pacheva, in Eight Mathematical Physics Meet-ing, ed. by B. Dragovich and I. Salom (Belgrade Inst. Phys. Press, 2015), pp. 93-103 (arXiv:1407.6281).
+E. Guendelman, E. Nissimov and S. Pacheva, Int. J. Mod. Phys. A30 (2015) 1550133 (arXiv:1504.01031).
+E. Guendelman, Mod. Phys. Lett. A14 (1999) 1043-1052 (arXiv:gr-qc/9901017);
+E. Guendelman and A. Kaganovich, Phys. Rev. D60 (1999) 065004 (arXiv:gr-qc/9905029);
+E. Guendelman and O. Katz, Class. Quant. Grav. 20 (2003) 1715-1728 (arXiv:gr-qc/0211095).
+P. Gaete and E. Guendelman, Phys. Lett. 640B (2006) 201-204 (arxiv:0607113).
+P. Gaete, E. Guendelman and E. Spalluci, Phys. Lett. 649B (2007) 217 (arxiv:0702067);
+E. Guendelman, Int. J. Mod. Phys. A19 (2004) 3255 (arxiv:0306162);
+E. Guendelman, Mod. Phys. Lett. A22 (2007) 1209-1215 (arxiv:0703139);
+I. Korover and E. Guendelman, Int. J. Mod. Phys. A24 (2009) 1443-1456;
+E. Guendelman, Int. J. Mod. Phys. A25 (2010) 4195-4220 (arxiv:1005.1421).
+G. ’t Hooft, Nucl. Phys. B (Proc. Suppl.) 121 (2003) 333-340 (arxiv:0208054[hep-th]).
+T. Chiba, T.Okabe and M. Yamaguchi, Phys. Rev. D62 (2000) 023511 (arXiv:astro-ph/9912463);
+C. Armendariz-Picon, V. Mukhanov and P. Steinhardt, Phys. Rev. Lett. 85 (2000) 4438 (arXiv:astro-ph/0004134);
+C. Armendariz-Picon, V. Mukhanov and P. Steinhardt, Phys. Rev. D63 (2001) 103510 (arXiv:astro-ph/0006373);
+T. Chiba, Phys. Rev. D66 (2002) 063514 (arXiv:astro-ph/0206298).
+E. Guendelman, R. Herrera, P. Labrana, E. Nissimov and S. Pacheva, Gen. Rel. Grav. 47 (2015) art.10 (arXiv:1408.5344v4).
+A. Liddle, “Introduction to Modern Cosmology”, 2nd ed., (John Wiley & Sons, Chichester, West Sussex, 2003).
+E. Guendelman, E. Nissimov and S. Pacheva, in Eight Mathematical Physics Meet-ing, ed. by B. Dragovich and I. Salom (Belgrade Inst. Phys. Press, 2015), pp. 105-115 (arXiv:1501.05518).
+E. Eichten, K. Gottfried, T. Kinoshita, J. Kogut, K. Lane and T.-M. Yan, Phys. Rev. Lett. 34 (1975) 369-372;
+W. Buchmu¨ller (ed.), “Quarkonia”, Current Physics Sources and Comments, vol.9 (North Holland, 1992);
+M. Karliner, B. Keren-Zur, H. Lipkin and J. Rosner, Ann. of Phys. 324 (2009) 2-15 (0804.1575).
+R. Adam et al. (Planck Collaboration), Astron. Astrophys. 571 (2014) A22 (arxiv:1303.5082 [astro-ph.CO]);
+R. Adam et al. (Planck Collaboration), Astron. Astrophys. 586 (2016) A133 (arxiv:1409.5738 [astro-ph.CO]).
+
+16	Authors
+
+
+E. Guendelman, E. Nissimov and S. Pacheva, Int. J. Mod. Phys. D25 (2016) 1644008 (1603.06231);
+E. Guendelman, E. Nissimov and S. Pacheva, Bulg. J. Phys. 44 (2017) 15-30 (1609.06915).
+E. Guendelman, Int. J. Mod. Phys. A25 (2010) 4081 (arXiv:0911.0178).
+D. Benisty and E. Guendelman, Eur. Phys. J. C77 (2017) 396 (arXiv:1701.08667).
+
+/
+
+
+
+
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/222532219
+
+Relics of Cosmic Quark- Hadron Phase Transition and Massive Compact Halo Objects
+
+Article in Nuclear Physics A · March 2003
+DOI: 10.1016/S0375-9474(02)01508-7 · Source: arXiv
+
+
+
+
+CITATIONS
+0
+READS
+10
+
+
+
+6 authors, including:
+
+
+Shibaji Banerjee
+St. Xavier's College, Kolkata
+14 PUBLICATIONS 133 CITATIONS
+Sanjay K. Ghosh Bose Institute
+120 PUBLICATIONS 853 CITATIONS
+
+
+/	/
+
+
+Sibaji Raha Bose Institute
+238 PUBLICATIONS 1,618 CITATIONS
+Hiroshi Toki Osaka University
+660 PUBLICATIONS 12,300 CITATIONS
+
+
+/	/
+
+
+Some of the authors of this publication are also working on these related projects:
+
+
+The properties of nuclear many-body system from quark level View project
+
+1
+
+
+
+
+
+
+
+Relics of Cosmic Quark- Hadron Phase Transition and Massive Compact Halo Objects
+Shibaji Banerjeea, Abhijit Bhattacharyyab, Sanjay K. GhoshcBI]Physics Department, Bose Institute, 93/1 A.P.C Road, Kolkata 700009, INDIA, Sibaji Rahad[BI], Bikash Sinhae and Hiroshi Tokif
+aPhysics Department, St. Xavier’s College, 30, Park Street, Kolkata 700016, INDIA
+bInstitut fu¨r Theoretische Physik, Universit¨at Frankfurt, Robert-Meyer-Str. 8-10, D-60054 Frankfurt-am-Main, GERMANY
+c[
+
+eVariable Energy Cyclotron Centre and Saha Institute of Nuclear Physics, 1/AF,

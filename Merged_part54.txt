@@ -1,0 +1,1837 @@
+theoretical inquiry. From Newton’s universal gravitation to Einstein’s geometric conception of spacetime, and from Maxwell’s electromagnetic synthesis to the quantum field theories of the Standard Model, each advance has deepened our understanding while revealing new layers of complexity. Yet despite the remarkable successes of modern physics, a fully unified description—one that integrates gravity with the quantum forces and treats matter, force, and spacetime as interdependent manifestations of a deeper structure—remains elusive.
+This work approaches unification not by invoking speculative constructs or hypothetical extensions, but by adhering strictly to established principles and symmetries. It builds upon the mathematical foundations of gauge theory, the geometric insights of General Relativity, and the probabilistic structure of Quantum Field Theory. Each interaction—electromagnetic, weak, strong, and gravitational—is derived from first principles and embedded within a common gauge-theoretic language. The result is a unified Lagrangian that respects both quantum mechanics and relativistic invariance, while revealing a deeper informational and geometric coherence.
+Rather than proposing new particles or dimensions, this framework reinterprets known physics through a lens of principled integration. It emphasizes the role of symmetry, conservation laws, and covariant dynamics, and explores how energy, curvature, and information are interwoven across scales. In doing so, the work offers a conservative yet ambitious pathway toward a theory of everything—one that is grounded in observability, mathematical consistency, and philosophical clarity.
+The sections that follow develop this framework progressively, beginning with the foundations of spacetime and quantum fields, and culminating in a unified gauge-theoretic structure that integrates all known forces. This approach not only preserves the integrity of existing theories but also illuminates their deeper connections, offering a fresh perspective on the architecture of physical law.
+
+Motivation of the Work
+The enduring quest for a unified framework that seamlessly integrates matter, force, and spacetime remains one of the most profound challenges in theoretical physics. Despite the elegance of existing models—ranging from the Standard Model of particle physics to General Relativity—each operates within its own domain of validity, leaving critical gaps in our understanding of how these domains interact at fundamental scales. Attempts at unification often rely on speculative extensions, such as extra dimensions, supersymmetry, or string-theoretic constructs, which, while mathematically rich, lack direct empirical support and frequently obscure the physical intuition behind the phenomena they aim to describe.
+This work is motivated by the conviction that a principled, gauge-theoretic approach—grounded in established mathematical structures and physical symmetries—can offer a more coherent and transparent pathway toward unification. Rather than introducing new entities or dimensions, the framework proposed here seeks to reinterpret and reorganize known interactions through a common geometric and algebraic language. By treating matter, force, and spacetime as manifestations of a deeper gauge structure, the work aspires to reveal underlying connections that are both conceptually elegant and physically meaningful.
+The motivation also stems from a philosophical stance: that unification should not merely be a mathematical exercise, but a reflection of deeper ontological coherence. The approach taken here respects the integrity of existing theories while challenging their boundaries, aiming to construct a synthesis that is not only technically consistent but also intellectually satisfying. In doing so, the work contributes to the broader dialogue on fundamentality, emergence, and the role of symmetry in shaping physical law.
+
+Foundations of Physics
+Introduction
+Physics at its most fundamental level seeks to describe all interactions in nature using a unified framework. Modern theoretical physics has established the concepts of spacetime, quantum fields, and symmetries as the cornerstones of this understanding. In this section, we present the foundational concepts that will underpin the subsequent unification of the four known forces without introducing new particles or dimensions. We base our approach on the established frameworks of General Relativity (GR), Special Relativity (SR), Quantum Mechanics (QM), and Quantum Field Theory (QFT).
+
+Spacetime Structure
+Spacetime is modeled as a 4-dimensional manifold  equipped with a metric tensor gµν . The interval ds between two events is expressed as:
+
+ds2 = gµν dxµdxν ,	(1)
+where dxµ are differential coordinate displacements and c is the speed of light in vacuum. In flat spacetime (Special Relativity), we have the Minkowski metric ηµν = diag(−1, +1, +1, +1):
+
+ds2 = −c2dt2 + dx2 + dy2 + dz2.	(2)
+This metric preserves the invariant interval under Lorentz transformations, a cornerstone of SR. Any unification must respect this invariance.
+
+Energy-Momentum Tensor and Curvature
+In General Relativity, the geometry of spacetime is influenced by the distribution of energy and momentum, described by the energy-momentum tensor Tµν :
+
+Tµν = (ρ + p)uµuν + pgµν ,	(3)
+where ρ is the energy density, p is the pressure, and uµ is the 4-velocity of matter. Einstein’s field equations relate curvature (through the Einstein tensor Gµν ) to energy-momentum:
+
+1
+Gµν ≡ Rµν − 2 Rgµν =
+8πG
+c4 Tµν ,	(4)
+
+where Rµν is the Ricci tensor and R the Ricci scalar. Units: [G] = m3 kg−1 s−2, [Tµν ] = kg m−1 s−2.
+
+Quantum Mechanics and the Wavefunction
+The probabilistic nature of particles is captured by the wavefunction ψ(r, t), which satisfies the Schro¨dinger equation for non-relativistic systems:
+
+
+
+
+where Hˆ
+iℏ ∂ψ = Hˆ ψ,	(5)
+∂t
+is the Hamiltonian operator and ℏ is the reduced Planck constant (ℏ ≈ 1.054 × 10−34 J s). The
+
+probability density is |ψ|2, ensuring conservation of total probability:
+∫ |ψ(r, t)|2d3r = 1.	(6)
+
+Quantum Fields and Gauge Symmetry
+Extending QM to relativistic systems leads to Quantum Field Theory, where particles are excitations of underlying fields. For a scalar field ϕ(x):
+1	µ	1  2 2
+L = 2 ∂µϕ∂ ϕ − 2 m ϕ ,	(7)
+with [ϕ] = kg1/2 m−1/2 s−1. Gauge symmetries govern interactions: U (1) for electromagnetism, SU (2) for weak interactions, and SU (3) for strong interactions. These symmetries dictate how fields couple to matter while preserving local invariance.
+
+Energy-Information Equivalence
+An important perspective for unification is the interpretation of information content as physically meaningful. Any quantum state carries informational content, quantified by entropy S = kBTr(ρ ln ρ), where kB is Boltzmann’s constant (kB 1.381 10−23J/K) and ρ is the density matrix. This allows linking statistical mechanics to field dynamics:
+
+∆E ∼ T ∆S,	(8)
+relating energy fluctuations to changes in information, which becomes essential when connecting gravity, ther-modynamics, and quantum field dynamics.
+
+Summary
+Section 1 establishes a rigorous foundation: spacetime geometry, energy-momentum relations, quantum mechanics, field theory, and informational perspective. All further derivations—unifying electromagnetism, nuclear forces, and gravity—will build on these consistent principles and identities, ensuring no new unverified entities are introduced. This preserves strict compatibility with known physics while laying the groundwork for a unified description of the universe.
+
+Electromagnetism I: Classical U(1) Gauge Foundations
+Introduction
+Electromagnetism is the first force for which a fully consistent field theory was developed. Maxwell’s equations describe the dynamics of electric and magnetic fields, and their unification into a relativistic framework is elegantly expressed using the U(1) gauge symmetry. In this section, we derive the electromagnetic field equations from the principle of least action and connect them to the energy-momentum tensor.
+
+The Electromagnetic Four-Potential
+The electromagnetic field can be expressed using the four-potential Aµ = (ϕ, A), where ϕ is the scalar potential and A the vector potential. The field strength tensor Fµν is defined as:
+
+Fµν = ∂µAν − ∂ν Aµ,	(9)
+where ∂µ = ∂µ is the four-gradient. Units: [Aµ] = V s/m, [Fµν ] = V/m. This antisymmetric tensor contains both the electric and magnetic fields:
+Ei = cF 0i,	Bi = − 1 ϵijkF  .	(10)
+2	jk
+
+Maxwell’s Equations from the Lagrangian
+The electromagnetic Lagrangian density in vacuum is:
+
+1
+LEM = − 4µ
+
+Fµν Fµν
+
+— J Aµ,	(11)
+
+
+10−7 H/m). Variation of the action S =	LEM d x with respect to Aµ yields:
+
+∂ν Fµν = µ0Jµ,	(12)
+which are Maxwell’s equations in covariant form. In component form, these reduce to:
+
+
+ρ
+∇ · E = ϵ
+,	(13)
+
+∇ · B = 0,	(14)
+∂B
+∇ × E = − ∂t ,	(15)
+1 ∂E
+∇ × B = µ0J + c2 ∂t ,	(16)
+where ϵ0 = 1/(µ0c2) is the vacuum permittivity.
+
+Energy and Momentum in Electromagnetic Fields
+The electromagnetic energy density u and Poynting vector S are:
+u = ϵ0 |E|2 +  1  |B|2,	S =  1  E × B,	(17)
+2	2µ0	µ0
+with units [u] = J/m3, [S] = W/m2. The conservation of energy is expressed through the continuity equation:
+∂u
+∂t + ∇ · S = −J · E.	(18)
+The electromagnetic stress-energy tensor is:
+
+
+µν  = FµαFν
+
+1 µν
+— 4 g	Fαβ
+
+Fαβ,	(19)
+
+which is symmetric, traceless in vacuum, and satisfies ∂µTµν = −FνλJλ.
+
+Gauge Invariance and Conservation Laws
+The U(1) gauge symmetry implies invariance under local transformations:
+
+Aµ → Aµ + ∂µΛ(x),	(20)
+where Λ(x) is an arbitrary scalar function. This symmetry leads directly to charge conservation:
+
+∂µJµ = 0.	(21)
+
+Relativistic Motion of Charged Particles
+A particle of charge q and mass m experiences the Lorentz force:
+
+dpµ
+= qF
+dτ
+
+µν uν ,	(22)
+
+where pµ = muµ is the four-momentum, uµ the four-velocity, and τ the proper time. This equation unites dynamics with field theory, allowing relativistic trajectories to be computed directly from Fµν .
+
+Summary
+Section 2 establishes electromagnetism as a U(1) gauge theory derived from first principles. Maxwell’s equations, the energy-momentum tensor, Lorentz force law, and gauge invariance are all fully consistent with Special Relativity and Quantum Mechanics. This section sets the stage for incorporating electromagnetism into a unified framework with the nuclear forces and gravity, without introducing new particles or dimensions.
+
+Weak Force I: SU(2) Gauge Structure and Interactions
+Introduction
+The weak nuclear force is responsible for processes like beta decay, neutrino interactions, and flavor-changing reactions in quarks and leptons. Unlike electromagnetism, it is short-ranged and violates parity symmetry. The weak force is described by an SU(2) gauge theory, which introduces three gauge bosons: W +, W −, and Z0. In this section, we derive the weak interaction Lagrangian, discuss the gauge structure, and connect it to observed particle phenomena, all while remaining consistent with established physics.
+
+SU(2) Gauge Fields and Covariant Derivative
+Let the left-handed fermion doublet be:
+ΨL =  ψν   ,	(23)
+where ψν is a neutrino field and ψe is an electron field. The SU(2) gauge symmetry introduces three gauge fields
+Wa (a = 1, 2, 3), corresponding to the three generators Ta of SU(2). The covariant derivative is:
+
+
+Dµ = ∂µ
+ig τa
+2
+
+Wa,
+
+(24)
+
+where g is the weak coupling constant ([g] = 1 dimensionless in natural units), and τa are the Pauli matrices representing the SU(2) generators.
+
+Weak Field Strength Tensor
+The field strength tensor for the weak force is:
+
+Wa = ∂µWa − ∂ν Wa + gϵabcWbWc,	(25)
+where ϵabc is the Levi-Civita symbol. The non-Abelian term gϵabcWbWc accounts for self-interaction between
+µ  ν
+the weak bosons, which is a key feature distinguishing the weak force from electromagnetism.
+
+Lagrangian of the Weak Interaction
+The Lagrangian for the SU(2) gauge field interacting with fermions is:
+
+
+L	= Ψ¯
+
+iγµD Ψ
+
+1	a	aµν
+—  W W	.	(26)
+
+
+Units:
+[Lweak] = J/m3
+weak	L
+µ  L	4	µν
+
+[Wa] = V s/m (analogous to the photon potential)
+µ
+[g] = 1 (dimensionless)
+Variation of this Lagrangian with respect to Wa produces the Yang-Mills equations for the weak force:
+Dν Waµν = gΨ¯ LγµTaΨL,	(27)
+which describe the dynamics of the gauge bosons and their interaction with matter.
+
+Electroweak Unification and Mixing
+The weak force is unified with electromagnetism in the Standard Model via the SU (2)L	U (1)Y group. The physical bosons are obtained through mixing:
+
+
+±	1	1	2
+Wµ = √2 (Wµ ∓ iWµ ),	(28)
+Zµ = cos θW W 3 − sin θW Bµ,	(29)
+Aµ = sin θW W 3 + cos θW Bµ,	(30)
+where θW is the Weinberg angle, Bµ is the hypercharge U(1) gauge field, and Aµ is the photon field.
+
+Mass Generation via the Higgs Mechanism
+The weak bosons acquire mass through the Higgs mechanism without violating gauge invariance. For a Higgs doublet Φ:
+
+LHiggs = (DµΦ)†(DµΦ) − V (Φ),	V (Φ) = µ2Φ†Φ + λ(Φ†Φ)2.	(31)
+After spontaneous symmetry breaking (⟨Φ⟩ ≠	0), the bosons have masses:
+
+1
+MW =	gv,	MZ
+2
+= 1	g2 + g′2v,	(32)
+2
+
+where v ≈ 246 GeV is the Higgs vacuum expectation value.
+
+Fermion Interactions and Weak Currents
+The charged current interaction responsible for beta decay is:
+ g   ¯	µ 1 − γ5	+
+
+LCC = −√2	ψν γ
+2	ψeWµ + h.c.
+,	(33)
+
+while the neutral current interaction mediated by the Z0 boson is:
+
+
+LNC
+=	 g	 ψ¯γµ T
+cos θW	3
+— Q sin θW
+ ψZµ
+.	(34)
+
+These interactions reproduce all experimentally observed weak processes and conserve total energy-momentum.
+
+Summary
+Section 3 provides a fully consistent derivation of the weak nuclear force as an SU(2) gauge theory. The Lagrangian formulation, field strength tensors, covariant derivatives, electroweak mixing, and fermion interactions are all expressed with proper units and physical identities. This establishes the foundation for combining the weak force with electromagnetism into the electroweak sector, which will later be unified with the strong force and gravity.
+
+Strong Force I: SU(3) Gauge Foundations and Quark Dynamics
+Introduction
+The strong nuclear force, described by Quantum Chromodynamics (QCD), binds quarks into protons, neutrons, and other hadrons. It is a short-range, non-Abelian interaction characterized by color charge and mediated by gluons. Unlike electromagnetism, the strong force exhibits asymptotic freedom at short distances and confinement at large distances. In this section, we derive the QCD Lagrangian, explain color charge, and show how the SU(3) gauge symmetry governs the dynamics of quarks and gluons.
+
+Quark Fields and Color Charge
+Quarks exist in three color states: red (r), green (g), and blue (b). Let ψi represent the quark field with color index i = 1, 2, 3:
+
+ψr
+ψ =	ψg	,	(35)
+ψb
+where each component is a Dirac spinor with units [ψ] = m−3/2 in natural units. Color is a purely internal quantum number with SU(3) symmetry, not related to visual perception.
+
+SU(3) Gauge Fields and Covariant Derivative
+The eight gluon fields Ga (a = 1, . . . , 8) correspond to the eight generators Ta of SU(3). The covariant derivative
+
+for quarks is:
+
+
+Dµ = ∂µ − igsTaGa ,	(36)
+
+where gs is the strong coupling constant ([gs] = 1, dimensionless) and Ta = λa/2 are the Gell-Mann matrices.
+The covariant derivative ensures invariance under local SU(3) transformations:
+
+ψ → U (x)ψ,	U (x) ∈ SU (3).	(37)
+
+Gluon Field Strength Tensor
+The non-Abelian field strength tensor for gluons is:
+
+Ga = ∂µGa − ∂ν Ga + gsfabcGb Gc ,	(38)
+where fabc are the SU(3) structure constants. The self-interaction term gsfabcGb Gc gives rise to non-linear
+µ  ν
+phenomena such as confinement and gluon-gluon scattering.
+
+QCD Lagrangian
+The QCD Lagrangian for quarks and gluons is:
+L	= Σ ψ¯ (iγµD − m ) ψ − 1 Ga Gaµν ,	(39)
+
+where f indexes quark flavors, mf are quark masses, and [ QCD] = J/m3. The first term describes quark dynamics, while the second term governs gluon self-interactions.
+
+Asymptotic Freedom and Confinement
+Renormalization of QCD shows that the effective coupling αs(Q2) decreases at high energy (short distances):
+
+
+αs(Q2) ∼
+1
+2	2	 ,	(40)
+
+
+where β0 = 11 − 2nf /3, nf is the number of active quark flavors, Q is the energy scale, and ΛQCD ≈ 200 MeV. At long distances, αs grows, leading to confinement. The potential between quarks can be approximated as:
+V (r) ≈ − 4 αs + σr,	(41)
+where σ ≈ 0.18 GeV2 is the string tension. This linear term ensures quarks cannot exist in isolation.
+
+Gluon Self-Interactions
+Unlike photons in QED, gluons carry color charge and interact with each other. This leads to complex field configurations such as flux tubes between quarks and the emergence of glueballs, purely gluonic bound states. The non-linear Yang-Mills equations for gluons are:
+DµGaµν = gs	ψ¯f γν Taψf .	(42)
+f
+Summary
+Section 4 presents the strong nuclear force as an SU(3) gauge theory. The quark fields, covariant derivatives, gluon tensors, QCD Lagrangian, and fundamental phenomena like asymptotic freedom and confinement are derived consistently with physical units and known observations. This establishes the strong force framework, which will later be combined with electroweak interactions and gravity in the unified theory.
+
+Electromagnetism II: Quantum Formalism and Field Dynamics
+Introduction
+Electromagnetism is one of the four fundamental forces and is described by the well-established U(1) gauge sym-metry. It governs the interactions of electrically charged particles and is mediated by the photon, a massless vector boson. In this section, we derive the electromagnetic Lagrangian, introduce the four-potential, connect it to electric and magnetic fields, and show how Maxwell’s equations emerge naturally from the principle of least action.
+
+The Electromagnetic Four-Potential
+The electromagnetic field can be expressed in terms of the four-potential Aµ:
+
+Aµ = (ϕ, A),	(43)
+where ϕ is the scalar potential (units: volts, V) and A is the vector potential (units: V·s/m). The components satisfy the Minkowski spacetime metric ηµν = diag(1, −1, −1, −1).
+
+The Field Strength Tensor
+The electromagnetic field strength tensor Fµν is defined as:
+
+Fµν = ∂µAν − ∂ν Aµ,	(44)
+with units [Fµν ] = V/m. The components of Fµν correspond to the electric and magnetic fields:
+
+F0i = Ei,	Fij = −ϵijkBk,	(45)
+where i, j, k = 1, 2, 3 and ϵijk is the Levi-Civita symbol.
+
+Gauge Invariance
+The Lagrangian is invariant under local U(1) gauge transformations:
+
+Aµ → Aµ + ∂µΛ(x),	(46)
+where Λ(x) is an arbitrary scalar function. This invariance leads to charge conservation via Noether’s theorem.
+
+The Electromagnetic Lagrangian
+The Lagrangian density for electromagnetism is:
+
+
+LEM
+1
+= − 4 Fµν
+
+Fµν + ψ¯(iγµDµ
+
+— m)ψ,	(47)
+
+where Dµ = ∂µ + ieAµ is the covariant derivative for charged fermions, e is the elementary charge (e ≈
+1.602 × 10−19 C), ψ is the fermion field, and [LEM] = J/m3.
+
+Derivation of Maxwell’s Equations
+Applying the Euler-Lagrange equations to Aµ:
+∂   ∂L	 −  ∂L  = 0,	(48)
+µ ∂(∂µAν )	∂Aν
+we obtain the inhomogeneous Maxwell equations:
+
+∂µFµν = jν ,	(49)
+where jν = eψ¯γν ψ is the four-current. The homogeneous equations:
+
+∂λFµν + ∂µFνλ + ∂ν Fλµ = 0,	(50)
+are automatically satisfied by the definition of Fµν .
+
+Energy and Momentum of the Electromagnetic Field
+The energy density of the electromagnetic field is:
+u = 1 (E2 + B2)  [u] = J/m3,	(51)
+2
+and the Poynting vector, representing energy flux, is:
+
+S = E × B  [S] = W/m2.	(52)
+The momentum density is p = S/c2, consistent with special relativity.
+
+Connection to Quantum Electrodynamics
+Quantization of Aµ leads to photons as quanta of the electromagnetic field. The covariant formalism preserves Lorentz invariance, and Feynman diagrams derived from this Lagrangian describe interactions such as electron-photon scattering, confirming experimental results to high precision.
+
+Summary
+Section 5 establishes electromagnetism as a U(1) gauge theory with a consistent Lagrangian, field tensor, and derivation of Maxwell’s equations. All equations are expressed in standard units and connected to physical ob-servables. This provides the foundation for combining electromagnetism with the weak and strong nuclear forces in a unified framework.
+
+Weak Force II: Electroweak Unification and Higgs Mechanism
+Introduction
+The weak nuclear force governs processes such as beta decay, neutrino interactions, and the transformation of quarks between generations. It is mediated by the W ± and Z0 bosons. The weak force is inherently short-ranged, a feature explained by the massive nature of these bosons. In this section, we derive the SU(2) gauge formalism, connect it to the electroweak unification, and show how weak interactions emerge naturally from the symmetry principles.
+
+SU(2) Gauge Symmetry
+The weak force is described by the SU(2) non-Abelian gauge symmetry. SU(2) is the group of 2	2 unitary matrices with determinant 1. The generators Ta (a = 1, 2, 3) satisfy the commutation relations:
+
+[T a, Tb] = iϵabcTc,	(53)
+where ϵabc is the Levi-Civita symbol. This algebra gives rise to self-interactions between the gauge bosons.
+
+The Weak Gauge Fields
+We introduce three gauge fields Wa corresponding to the generators of SU(2):
+
+Wµ = (W 1, W 2, W 3),	(54)
+µ	µ	µ
+with units of energy per charge, e.g., eV for the field quanta. The field strength tensor is:
+
+Fa = ∂µWa − ∂ν Wa + gϵabcWbWc,	(55)
+where g is the SU(2) coupling constant, with units of [Energy]1/2[Length]1/2 in natural units.
+
+The Electroweak Lagrangian
+The weak Lagrangian for a fermion doublet ψ = (νe, e)L is:
+L	= − 1 Fa Fµνa + ψ¯iγµD ψ,	(56)
+weak	4 µν	µ
+where the covariant derivative is:
+
+Dµ = ∂µ − igTaWa.	(57)
+This derivative ensures local SU(2) invariance, guaranteeing conservation laws through Noether’s theorem.
+
+Spontaneous Symmetry Breaking and Mass Generation
+The weak gauge bosons are massive, which requires spontaneous symmetry breaking via the Higgs mechanism. Introducing a scalar Higgs doublet Φ:
+
+
+
+
+the Higgs potential is:
+
+ϕ+
+Φ =	ϕ0
+
+,	(58)
+
+
+V (Φ) = µ2Φ†Φ + λ(Φ†Φ)2,	(59)
+with µ2 < 0 to allow spontaneous symmetry breaking. The vacuum expectation value (VEV) is:
+ 1   0 
+⟨Φ⟩0 = √2	v ,	v ≈ 246 GeV.	(60)
+Mass of the W and Z Bosons
+After symmetry breaking, the gauge fields mix to produce physical bosons:
+
+±	1	1	2	3
+Wµ = √2 (Wµ ∓ iWµ ),	Zµ = cos θW Wµ − sin θW Bµ,	(61)
+
+1
+mW =	gv,	mZ
+2
+= 1	g2 + g′2v,	(62)
+2
+
+where θW is the Weinberg angle and Bµ is the hypercharge field.
+
+Charged and Neutral Currents
+Weak interactions involve two types of currents:
+Jµ± = ψ¯LγµT ±ψL,	J0 = ψ¯LγµT 3ψL − sin2 θW Jem,	(63)
+µ	µ
+mediating charged (W ±) and neutral (Z0) interactions, respectively.
+
+Summary
+Section 6 provides a complete derivation of the weak nuclear force using SU(2) gauge symmetry. It demonstrates how the W ± and Z0 bosons acquire mass through spontaneous symmetry breaking, while preserving gauge invari-ance. This sets the stage for combining SU(2) with U(1) to construct the electroweak unified theory in the next section.
+
+Strong Force II: Gluon Fields and Hadronic Structure
+Introduction
+The strong nuclear force binds quarks into protons, neutrons, and other hadrons. It is described by Quantum Chromodynamics (QCD), a non-Abelian gauge theory with SU(3) symmetry. Unlike the weak force, the strong force exhibits two defining properties: confinement (quarks cannot be isolated) and asymptotic freedom (quarks interact weakly at short distances). In this section, we derive the SU(3) gauge formalism, explain the dynamics of gluons, and connect them to observable phenomena in hadronic physics.
+
+SU(3) Gauge Symmetry
+SU(3) is the group of 3 3 unitary matrices with determinant 1. It has eight generators Ta (a = 1, 2, ..., 8), which satisfy the commutation relations:
+
+[T a, Tb] = ifabcTc,	(64)
+where fabc are the structure constants of SU(3). These commutation relations imply self-interaction among the gauge bosons, which is a key property of the strong force.
+
+The Gluon Fields
+We define eight gauge fields Ga corresponding to the SU(3) generators:
+
+Gµ = (G1 , G2 , ..., G8 ),	(65)
+µ	µ	µ
+with units of energy per colour charge, typically measured in GeV. The field strength tensor for SU(3) is:
+
+Fa = ∂µGa − ∂ν Ga + gsfabcGb Gc ,	(66)
+where gs is the strong coupling constant, with dimensions consistent with the natural units of the Lagrangian.
+
+The QCD Lagrangian
+The QCD Lagrangian for quark fields ψf (with flavour f ) is:
+L	= − 1 Fa Fµνa + Σ ψ¯ (iγµD − m )ψ ,	(67)
+
+QCD
+
+where the covariant derivative is:
+4 µν
+f	µ	f	f
+f
+
+
+Dµ = ∂µ − igsTaGa .	(68)
+This ensures local SU(3) invariance, preserving the conservation of colour charge.
+
+Quark Colour Charge and Gluon Dynamics
+Quarks carry one of three colour charges: red, green, or blue. Gluons themselves carry combinations of colour and anticolour, making them capable of self-interaction. The eight gluons correspond to the eight generators of SU(3), leading to rich dynamics:
+Ga ↔ colour-anticolour excitations.	(69) This self-interaction is responsible for confinement: the force between quarks does not diminish with distance,
+effectively preventing isolation of individual quarks.
+
+Asymptotic Freedom and Confinement
+The running of the strong coupling constant gs with energy scale µ is described by:
+g2(µ2)	1
+2	 s			
+
+αs(µ ) =
+4π	≈
+2	2	 ,	(70)
+
+
+where β0 = 11 − 2 nf for nf active quark flavours, and ΛQCD ∼ 200 MeV. At high energies (µ → ∞), αs → 0, resulting in asymptotic freedom. At low energies, αs grows, enforcing confinement.
+
+Gluon Self-Interaction and Hadron Structure
+Gluon self-interactions create a flux tube of colour field between quarks. The potential energy of this tube grows linearly with distance:
+
+V (r) ≈ σr,	(71)
+where σ	0.9 GeV/fm is the string tension. This energy confinement leads to the formation of bound states (mesons, baryons) and explains why quarks cannot be observed in isolation.
+
+Summary
+Section 7 presents a rigorous derivation of the strong nuclear force using SU(3) gauge symmetry. It explains confinement, asymptotic freedom, and gluon self-interactions. This establishes the foundation for the unification of forces, where strong, weak, and electromagnetic interactions can later be combined under a single theoretical framework.
+
+Electromagnetism III: Gauge Invariance and Maxwell Derivation
+Introduction
+Electromagnetism is one of the four fundamental forces and is described by a U(1) Abelian gauge symmetry. Unlike the strong and weak nuclear forces, electromagnetism is long-ranged and mediated by a single massless gauge boson: the photon. This section rigorously derives the Maxwell equations from first principles of gauge invariance and explores the emergence of electric and magnetic fields from the underlying U(1) symmetry.
+
+U(1) Gauge Symmetry
+The group U(1) consists of complex phase rotations:
+
+ψ(x) → eiα(x)ψ(x),	(72)
+where α(x) is an arbitrary real function of spacetime coordinates. Local gauge invariance under U(1) requires introducing a gauge field Aµ (the electromagnetic potential) to maintain invariance under local transformations.
+
+The Covariant Derivative
+To preserve local gauge invariance, we define the covariant derivative:
+
+Dµ = ∂µ + ieAµ,	(73)
+where e is the electric charge of the particle. Acting on a charged field ψ, this derivative ensures that the combination Dµψ transforms covariantly:
+
+Dµψ → eiα(x)Dµψ.	(74)
+The covariant derivative allows us to construct a gauge-invariant Lagrangian.
+
+Field Strength Tensor
+The electromagnetic field tensor Fµν is defined as the commutator of covariant derivatives:
+
+Fµν = ∂µAν − ∂ν Aµ,	(75)
+with units of energy per charge, typically expressed in V/m for electric fields and Tesla for magnetic fields.
+This tensor contains both the electric and magnetic components:
+1
+Ei = F0i,	Bi = − 2 ϵijkFjk,	(76)
+where ϵijk is the Levi-Civita symbol. These definitions naturally recover the physical electric and magnetic fields measured in experiments.
+
+Maxwell’s Equations from Gauge Theory
+The Lagrangian density for electromagnetism is:
+
+
+LEM
+1
+= − 4 Fµν
+
+Fµν + ψ¯(iγµDµ
+
+— m)ψ.	(77)
+
+Varying LEM with respect to Aµ gives the Euler-Lagrange equation:
+
+∂µFµν = jν ,	(78)
+where jν = eψ¯γν ψ is the four-current of charged matter. In components, these yield the familiar Maxwell equations:
+
+∇ · E = ρ,	(79)
+∇ · B = 0,	(80)
+∂B
+∇ × E = − ∂t ,	(81)
+∂E
+
+
+Photon as a Gauge Boson
+∇ × B = j +
+.	(82)
+∂t
+
+The photon is the quantum of the U(1) gauge field. Its masslessness arises naturally from gauge invariance, since any mass term m2AµAµ would break U(1) symmetry. Photons mediate the electromagnetic interaction between charged particles and propagate at the speed of light c, in accordance with special relativity.
+
+Energy and Momentum of the Electromagnetic Field
+The energy density and Poynting vector of the electromagnetic field are given by:
+
+1
+u = / (E2 + B2),	(83)
+2
+S = E × B.	(84)
+The stress-energy tensor is:
+
+
+Tµν = FµαFν
+
+1 µν
+— 4 g	Fαβ
+
+Fαβ,	(85)
+
+which couples naturally to gravity in general relativity, providing a unified description of the electromagnetic contribution to spacetime curvature.
+
+Summary
+Electromagnetism emerges as a U(1) gauge theory, with photons as gauge bosons and Maxwell’s equations arising from first principles. This framework establishes the foundation for unifying electromagnetism with the weak and strong forces, forming the basis of the electroweak theory. It also connects seamlessly with special relativity and general relativity through the energy-momentum tensor.
+
+Weak Force III: Non-Abelian Dynamics and Phenomenology
+Introduction
+The weak nuclear force governs processes such as beta decay, neutrino interactions, and other flavor-changing processes in particle physics. Unlike electromagnetism, it is short-ranged and mediated by massive gauge bosons, the W ± and Z0. In the Standard Model, the weak force arises from an SU(2) non-Abelian gauge symmetry. In this section, we derive the weak force from first principles of gauge invariance, detail the emergence of W and Z bosons, and show its integration with electromagnetism via electroweak unification.
+
+SU(2) Gauge Symmetry
+The SU(2) group consists of 2 2 unitary matrices with determinant one. A field ψ transforming under SU(2) obeys:
+a	σa 
+
+ψ(x) → U (x)ψ(x),	U (x) = exp
+iα (x)
+2
+,	(86)
+
+where σa are the Pauli matrices (a = 1, 2, 3) and αa(x) are spacetime-dependent parameters. Local invariance under SU(2) requires introducing a triplet of gauge fields Wa corresponding to the three generators of the group.
+Covariant Derivative for SU(2)
+The covariant derivative is defined as:
+σa	a
+Dµ = ∂µ + ig 2 Wµ ,	(87)
+where g is the weak coupling constant. Under a local SU(2) transformation:
+i	1
+Wµ → UWµU −1	g (∂µU )U − ,	(88)
+ensuring that Dµψ transforms covariantly.
+
+Field Strength Tensor and Non-Abelian Nature
+The field strength tensor for the weak force is:
+
+Wa = ∂µWa − ∂ν Wa + gϵabcWbWc,	(89)
+where ϵabc is the Levi-Civita symbol for SU(2). The last term represents the self-interaction unique to non-Abelian gauge fields, leading to the complex behavior of the weak force.
+
+The Weak Lagrangian
+The Lagrangian density for the SU(2) gauge field is:
+L	= − 1 Wa Waµν + ψ¯ iγµD ψ ,	(90)
+where ψL denotes left-handed fermions, reflecting the chiral nature of weak interactions. Right-handed fermions do not couple to SU(2), explaining parity violation in weak processes.
+
+Electroweak Unification
+Electroweak theory combines SU(2)L with U(1)Y hypercharge. The covariant derivative extends to:
+
+σa	a	′ Y
+Dµ = ∂µ + ig 2 Wµ + ig 2 Bµ,	(91)
+where Bµ is the U(1) hypercharge gauge field and g′ is its coupling constant. Physical gauge bosons emerge via the Weinberg angle θW :
+
+±	1	1	2
+Wµ = √2 (Wµ ∓ iWµ ),	(92)
+Zµ = W 3 cos θW − Bµ sin θW ,	(93)
+Aµ = W 3 sin θW + Bµ cos θW .	(94)
+Aµ corresponds to the photon, Zµ to the neutral weak boson, and Wµ± to charged weak bosons.
+
+Mass Generation via the Higgs Mechanism
+Gauge invariance forbids explicit mass terms. The Higgs field ϕ, a complex SU(2) doublet, acquires a vacuum expectation value:
+ 1   0 
+⟨ϕ⟩ = √2	v ,	(95)
+spontaneously breaking SU(2)L× U(1)Y to U(1)EM. The resulting boson masses are:
+
+1
+mW = 2 gv,	(96)
+m  = 1	g2 + g′2 v,	(97)
+2
+mγ = 0.	(98)
+
+Weak Interaction Phenomenology
+The weak force is short-ranged due to the massive W and Z bosons (range 10−18 m). Processes such as beta decay, neutrino scattering, and flavor-changing transitions are fully described by this SU(2) × U(1) framework.
+
+Summary
+The weak force arises naturally from SU(2) gauge symmetry, with chiral interactions leading to parity violation. Its unification with electromagnetism in the electroweak theory provides a coherent description of all weak and electromagnetic phenomena, forming a crucial component of the Standard Model.
+
+Strong Force III: QCD Formalism and Confinement
+Introduction
+The strong nuclear force is responsible for binding quarks into protons, neutrons, and other hadrons. It is described by Quantum Chromodynamics (QCD), a non-Abelian gauge theory based on the SU(3) color symmetry. This section rigorously derives the strong interaction, including its self-interacting gluon fields, confinement, asymptotic freedom, and relation to hadron masses, following established physics principles.
+
+SU(3) Gauge Symmetry
+SU(3) is the group of 3 3 unitary matrices with determinant one. A quark field q transforming under SU(3) obeys:
+
+q(x) → U (x)q(x),	U (x) = exp (iθa(x)Ta) ,	(99)
+where Ta (a = 1, 2, . . . , 8) are the Gell-Mann matrices, generating SU(3), and θa(x) are spacetime-dependent parameters. Local invariance requires introducing eight gauge fields Ga , corresponding to the eight SU(3) genera-
+tors.
+
+Covariant Derivative and Gauge Invariance
+The covariant derivative for quarks is:
+
+Dµ = ∂µ + igsTaGa ,	(100)
+where gs is the strong coupling constant. Under a local SU(3) transformation:
+ i	1
+Gµ → UGµU −1	g (∂µU )U − ,	(101)
+s
+ensuring Dµq transforms covariantly, preserving local gauge invariance.
+
+Field Strength Tensor for QCD
+The QCD field strength tensor is:
+
+Ga = ∂µGa − ∂ν Ga + gsfabcGb Gc ,	(102)
+where fabc are the SU(3) structure constants. The last term represents gluon self-interaction, unique to non-Abelian gauge fields, and responsible for confinement and asymptotic freedom.
+
+The QCD Lagrangian
+The QCD Lagrangian density is:
+L	= − 1 Ga Gaµν + Σ q¯ (iγµD − m )q ,	(103)
+
+where qf denotes the quark fields of flavor f with mass mf . This Lagrangian encapsulates the dynamics of quarks interacting via gluon fields, including quark confinement and asymptotic freedom.
+
+Confinement
+QCD predicts that color-charged particles, such as quarks and gluons, cannot be isolated. The potential energy between quarks grows linearly with distance:
+
+V (r) ∼ σr,	σ ≈ 0.18 GeV2,	(104)
+where σ is the string tension. This explains why quarks are permanently confined within hadrons.
+
+Asymptotic Freedom
+At short distances or high energies, the effective coupling decreases:
+
+
+αs(Q2) ≈
+4π	2
+2	2	 ,	β0 = 11 − 3 nf ,	(105)
+
+
+where Q is the energy scale, nf is the number of active quark flavors, and ΛQCD is the QCD scale parameter.
+This explains why quarks behave as nearly free particles in high-energy collisions.
+
+Gluons as Information Carriers
+Gluons are the eight gauge bosons corresponding to SU(3). Each gluon carries color and anti-color, allowing self-interactions. These interactions give rise to rich phenomena such as glueballs, hybrid mesons, and the complex structure of hadrons.
+
+QCD and Hadron Masses
+Most of the visible mass of protons and neutrons arises not from the quark masses themselves, but from the dynamic energy of gluon fields and quark interactions via E = mc2. Lattice QCD computations provide numerical solutions to the non-perturbative regime, confirming the predicted hadron spectrum.
+
+Summary
+The strong nuclear force emerges naturally from SU(3) gauge invariance. Its non-Abelian structure explains confinement, asymptotic freedom, and the self-interaction of gluons. Together with the weak and electromagnetic forces, QCD completes the picture of the Standard Model’s non-gravitational interactions, all consistent with experimental evidence.
+
+Electromagnetism IV: Classical Limit and Energy-Momentum Struc-ture
+Introduction
+Electromagnetism is one of the four fundamental forces and is described by a U(1) Abelian gauge theory. It governs the interactions of electrically charged particles and encompasses both classical Maxwell equations and quantum electrodynamics (QED). In this section, we derive the electromagnetic field from first principles, showing the transition from quantum gauge invariance to classical electromagnetism.
+
+U(1) Gauge Symmetry
+The U(1) gauge group consists of all complex numbers of unit magnitude:
+
+U (x) = eiθ(x),	(106)
+where θ(x) is a spacetime-dependent function. A fermion field ψ transforms under U(1) as:
+
+ψ(x) → ψ′(x) = eiqθ(x)ψ(x),	(107)
+with q being the electric charge of the particle. Local gauge invariance requires introducing the gauge field
+Aµ(x), representing the electromagnetic potential.
+
+Covariant Derivative
+To preserve local gauge invariance, the covariant derivative is defined as:
+
+Dµ = ∂µ + iqAµ,	(108)
+which transforms as Dµψ	eiqθ(x)Dµψ, ensuring the Lagrangian remains invariant under local U(1) transfor-mations.
+
+Electromagnetic Field Tensor
+The electromagnetic field tensor is derived from the gauge field:
+
+Fµν = ∂µAν − ∂ν Aµ,	(109)
+which is antisymmetric (Fµν = −Fνµ). Components of Fµν relate directly to the electric and magnetic fields:
+1
+Ei = F0i,	Bi = − 2 ϵijkFjk,	(110)
+where i, j, k = 1, 2, 3, and ϵijk is the Levi-Civita symbol.
+
+The Electromagnetic Lagrangian
+The Lagrangian density of electromagnetism is:
+
+
+LEM
+1
+= − 4 Fµν
+
+Fµν + ψ¯(iγµDµ
+
+— m)ψ,	(111)
+
+where the first term represents the energy of the electromagnetic field and the second term is the Dirac La-grangian of charged fermions interacting with the field. This Lagrangian is Lorentz invariant and gauge invariant.
+
+Maxwell’s Equations from the Lagrangian
+Varying the action S = ∫ LEMd4x with respect to Aµ yields the equations of motion:
+∂µFµν = jν ,	jν = qψ¯γν ψ,	(112)
+which correspond to the inhomogeneous Maxwell equations. The homogeneous equations,
+
+∂λFµν + ∂µFνλ + ∂ν Fλµ = 0,	(113)
+follow from the antisymmetry of Fµν . Together, they reproduce the classical Maxwell equations in vacuum:
+
+∇ · E = ρ,	∇ · B = 0,	(114)
+
+∂B
+∇ × E = − ∂t ,	∇ × B = J +
+Gauge Freedom and Potentials
+The electromagnetic potential Aµ is not unique. A gauge transformation
+∂E
+.	(115)
+∂t
+
+
+Aµ → Aµ + ∂µΛ(x),	(116)
+leaves Fµν invariant, reflecting the redundancy in potential representation. Choosing a specific gauge (e.g., Lorenz gauge ∂µAµ = 0) simplifies calculations while preserving physical observables.
+
+Classical Limit and Energy Density
+The energy density of the electromagnetic field is obtained from the stress-energy tensor:
+u = 1 (E2 + B2),	(117)
+2
+and the Poynting vector gives the energy flux:
+
+S = E × B.	(118)
+These expressions reproduce classical electrodynamics as the low-energy, macroscopic limit of QED.
+
+Summary
+Electromagnetism arises naturally from the U(1) gauge principle. The Lagrangian formalism unifies the description of fields and matter, allowing a smooth transition from quantum electrodynamics to classical Maxwell equations. The gauge invariance principle ensures conservation of electric charge and provides a foundation for integrating electromagnetism with other gauge forces in unified theories.
+
+Weak Force IV: Currents, Symmetry Breaking, and Observables
+Introduction
+The weak nuclear force is responsible for processes such as beta decay and neutrino interactions. Unlike electro-magnetism, it is a short-range interaction mediated by massive W and Z bosons. In the Standard Model, the weak force is described by an SU(2) non-Abelian gauge theory. Here, we derive its formalism, starting from gauge invariance principles, and connect it with observed weak interactions.
+
+SU(2) Gauge Symmetry
+The SU(2) group consists of all 2 2 unitary matrices with determinant one. A field ψ transforming under SU(2) follows:
+
+
+
+
+where
+ψ → ψ′ = U (x)ψ,	U (x) ∈ SU (2),	(119)
+
+
+U (x) = eiθa(x)τa ,	a = 1, 2, 3.	(120)
+
+Here, τa are the Pauli matrices, which act as the generators of SU(2), and θa(x) are local parameters dependent on spacetime.
+
+Covariant Derivative
+To maintain local gauge invariance, we define the SU(2) covariant derivative:
+
+Dµ = ∂µ + igWaτa,	(121)
+where g is the weak coupling constant and Wa are the gauge fields corresponding to the three generators of
+SU(2). Under a local transformation,
+Waτa → U (x)WaτaU −1(x) − i (∂ U (x))U −1(x),	(122)
+µ	µ	g	µ
+ensuring that Dµψ → U (x)Dµψ.
+
+Field Strength Tensor
+The SU(2) field strength tensor is defined as:
+
+Fa = ∂µWa − ∂ν Wa + gϵabcWbWc,	(123)
+where ϵabc is the Levi-Civita symbol, encoding the non-Abelian self-interaction of the weak gauge fields.
+
+Weak Interaction Lagrangian
+The SU(2) gauge Lagrangian is:
+L	= − 1 Fa Faµν + ψ¯iγµD ψ,	(124)
+where the first term is the kinetic term for the gauge bosons, and the second term describes the interaction of fermions with the weak gauge fields. This Lagrangian is invariant under SU(2) local gauge transformations.
+
+Spontaneous Symmetry Breaking and Mass Generation
+The weak bosons acquire mass via the Higgs mechanism. Introducing a scalar Higgs doublet ϕ with potential
+
+V (ϕ) = µ2ϕ†ϕ + λ(ϕ†ϕ)2,	(125)
+the vacuum expectation value (VEV) ⟨ϕ⟩ =	 0  spontaneously breaks SU(2) symmetry. The W and Z
+1
+
+bosons gain masses:
+
+1
+MW =	gv,	MZ
+2
+= 1	g2 + g′2v,	(126)
+2
+
+where g′ is the U(1)Y hypercharge coupling. The photon remains massless.
+
+Charged and Neutral Currents
+Weak interactions involve two types of currents:
+Charged current: mediated by W ± bosons, changes particle flavor.
+Neutral current: mediated by the Z boson, preserves particle flavor.
+
+
+The charged current interaction Lagrangian:
+ g 
+LCC = √2
+
+
+u¯γ
+
+
+(1 − γ
+
+
+5)dW + + h.c.
+
+
+,	(127)
+
+describes processes like beta decay, where a down quark converts into an up quark, emitting a W − boson.
+
+Summary
+The SU(2) gauge theory formalism naturally describes the weak interaction, including the self-interaction of gauge bosons, short-range character, and flavor-changing processes. Coupled with U(1) hypercharge via electroweak uni-fication, it provides a fully consistent, experimentally validated description of weak phenomena without introducing new physics beyond the Standard Model.
+
+Strong Force IV: Chiral Symmetry and Mass Generation
+Introduction
+The strong nuclear force is responsible for binding quarks into protons, neutrons, and other hadrons. It is described by Quantum Chromodynamics (QCD), a non-Abelian gauge theory with SU(3) symmetry. This section derives QCD from first principles, establishing the role of color charge, gluon interactions, and confinement.
+
+SU(3) Gauge Symmetry
+The SU(3) group consists of all 3 3 unitary matrices with determinant one. A quark field q transforming under SU(3) follows:
+
+
+
+
+where
+q → q′ = U (x)q,	U (x) ∈ SU (3),	(128)
+
+
+U (x) = eiθa(x)Ta ,	a = 1, . . . , 8,	(129)
+
+and Ta are the Gell-Mann matrices serving as the eight generators of SU(3). The local parameters θa(x) depend on spacetime coordinates.
+
+Covariant Derivative
+To maintain local gauge invariance, define the covariant derivative for SU(3):
+
+Dµ = ∂µ + igsGa Ta,	(130)
+where gs is the strong coupling constant and Ga are the gluon fields corresponding to the eight generators.
+
+Under a gauge transformation:
+ i
+Ga Ta → U (x)Ga TaU −1(x) −	(∂
+
+
+U (x))U −1(x),	(131)
+
+µ	µ
+
+ensuring Dµq → U (x)Dµq.
+gs	µ
+
+
+
+Field Strength Tensor
+The SU(3) field strength tensor is:
+Fa
+
+
+
+
+= ∂µGa − ∂ν Ga + gsfabcGb Gc ,	(132)
+
+where fabc are the SU(3) structure constants, encoding non-Abelian self-interactions of the gluons.
+
+QCD Lagrangian
+The QCD Lagrangian for quarks and gluons is:
+
+L	= Σ q¯ (iγµD
+
+
+— m )q
+
+1  a	aµν
+—  F  F	,	(133)
+
+where the sum is over quark flavors f , mf is the quark mass, and the second term represents gluon self-interactions.
+
+Color Charge and Gluons
+Quarks carry one of three color charges: red, green, or blue. Gluons carry a combination of color and anticolor, resulting in eight distinct gluon types, each mediating strong interactions between quarks. Unlike photons, gluons interact with each other due to their color charge, giving rise to unique QCD phenomena.
+
+Confinement and Asymptotic Freedom
+The non-Abelian nature of SU(3) leads to:
+Asymptotic Freedom: At short distances, the effective coupling decreases, allowing quarks to behave as free particles.
+Confinement: At long distances, the coupling grows, preventing quarks from existing as isolated particles. The potential between quarks can be approximated as
+V (r) ≈ σr,	σ ≈ 0.9 GeV/fm,	(134)
+where σ is the string tension.
+
+Chiral Symmetry Breaking
+QCD also predicts spontaneous breaking of chiral symmetry, leading to the generation of effective masses for hadrons, despite quarks having small bare masses. This underlies the mass spectrum of pions, kaons, and nucleons.
+
+Summary
+Quantum Chromodynamics, based on SU(3) gauge invariance, provides a fully consistent, experimentally verified framework for the strong nuclear force. The theory explains color charge, gluon self-interactions, confinement, asymptotic freedom, and hadron mass generation, all without introducing new particles or dimensions beyond the Standard Model.
+
+Electromagnetism V: Relativistic Structure and Covariant Cou-pling
+Introduction
+Electromagnetism is one of the four fundamental interactions and is described by a U(1) Abelian gauge theory. The electromagnetic field arises naturally from imposing local gauge invariance on the complex wavefunction of charged particles. Furthermore, special relativity provides the spacetime framework that ensures the consistency of Maxwell’s equations with relativistic principles.
+
+U(1) Gauge Symmetry
+Consider a complex scalar or spinor field ψ(x) representing an electron. Global phase invariance of ψ:
+
+ψ(x) → eiαψ(x),	α ∈ R,	(135)
+leads to conservation of electric charge via Noether’s theorem. To make this invariance local, we allow α → α(x):
+
+ψ(x) → eiα(x)ψ(x).	(136)
+Local gauge invariance requires the introduction of a gauge field Aµ, which transforms as:
+1
+Aµ → Aµ − e∂µα(x),	(137)
+where e is the elementary charge. This ensures the covariant derivative
+
+
+
+transforms as
+
+
+maintaining local gauge invariance.
+Dµ = ∂µ + ieAµ	(138)
+
+
+Dµψ → eiα(x)Dµψ,	(139)
+
+Electromagnetic Field Tensor
+The field strength tensor is defined as
+
+Fµν = ∂µAν − ∂ν Aµ,	(140)
+which is invariant under the U(1) gauge transformation. In component form:
+
+F0i = Ei,	Fij = −ϵijkBk,	(141)
+where E and B are the electric and magnetic fields, and ϵijk is the Levi-Civita symbol.
+
+Maxwell’s Equations from the Lagrangian
+The Lagrangian density for electromagnetism is
+
+
+LEM
+1
+= − 4 Fµν
+
+Fµν + ψ¯(iℏγµDµ
+
+— mc)ψ.	(142)
+
+Applying the Euler-Lagrange equations yields Maxwell’s equations in covariant form:
+∂µFµν = µ0Jν ,	∂µF˜µν = 0,	(143)
+where Jν = eψ¯γν ψ is the four-current, F˜µν = 1 ϵµνρσFρσ is the dual tensor, and µ0 is the vacuum permeability.
+
+Special Relativity and Electromagnetism
+Electromagnetic fields transform under Lorentz transformations Λ as:
+
+F ′µν = Λµ Λν Fαβ.	(144)
+α	β
+This ensures the invariance of the speed of light c and the relativistic energy-momentum relation:
+
+E2 = (pc)2 + (mc2)2,	(145)
+for charged particles interacting with the electromagnetic field. Additionally, the Lorentz force law in relativistic form is:
+
+dpµ
+= qF
+dτ
+
+µν uν ,	(146)
+
+where pµ is the four-momentum, uν is the four-velocity, and τ is proper time.
+
+Gauge Invariance and Physical Observables
+Despite the freedom in choosing Aµ, all physical observables such as E, B, and energy-momentum tensors remain gauge invariant. The electromagnetic energy-momentum tensor is:
+
+
+Tµν = FµαFν
+1 µν
+— 4 η	Fαβ
+
+Fαβ,	(147)
+
+which couples naturally to gravity in General Relativity via the Einstein field equations.
+
+Summary
+Electromagnetism as a U(1) gauge theory demonstrates the power of symmetry principles in physics. By combining gauge invariance with the relativistic spacetime framework, Maxwell’s equations emerge naturally, fully consistent with special relativity. This approach eliminates the need for arbitrary assumptions, relying entirely on established physics, and serves as a cornerstone for unification with the weak and strong interactions.
+
+The Unified Framework and Outlook: Towards a Consistent The-ory of Everything
+Introduction
+Having systematically explored the established foundations of physics, from classical mechanics and thermodynam-ics to electromagnetism, gravity, and the nuclear forces, we now aim to synthesize these results into a single coherent framework. This section outlines a pathway toward a unified theory of everything (TOE) based strictly on existing principles and observed phenomena, avoiding any unverified assumptions, new particles, or extra dimensions.
+
+Fundamental Building Blocks
+All physical interactions can be described in terms of three essential components:
+Spacetime Geometry: The curvature of four-dimensional spacetime, represented by the metric tensor gµν , dictates the motion of mass-energy as described by General Relativity.
+Quantum Fields: Particles arise as excitations of quantum fields, each governed by a Lagrangian density consistent with local gauge symmetries: U(1) for electromagnetism, SU(2) for weak interactions, and SU(3) for the strong force.
+Information and Conservation Laws: Conserved quantities, derived from continuous symmetries (via Noether’s theorem), underpin the structure of interactions and ensure consistency between quantum mechan-ics and relativity.
+
+Unification via Gauge Symmetries
+The fundamental interactions can be embedded in a single framework using the language of gauge theory. Let Ψ denote a generic fermion field and Aµ = Aa Ta represent the combined gauge field, where Ta are the generators of the combined symmetry group U (1) × SU (2) × SU (3). The unified covariant derivative is:
+
+3	8
+Dµ = ∂µ + ig1Y AU(1) + ig2 Σ τ iASU(2),i + ig3 Σ λaASU(3),a,	(148)
+
+where Y is the hypercharge, τ i are SU(2) generators, λa are Gell-Mann matrices for SU(3), and g1, g2, g3 are the corresponding coupling constants. The field strength tensors for each interaction are:
+
+FU (1) = ∂µAU (1) − ∂ν AU (1),	(149)
+FSU (2) = ∂µASU (2) − ∂ν ASU (2) + ig2[ASU (2), ASU (2)],	(150)
+FSU (3) = ∂µASU (3) − ∂ν ASU (3) + ig3[ASU (3), ASU (3)].	(151)
+
+Unified Lagrangian
+The total Lagrangian density for matter and forces is given by:
+
+
+L	= Ψ¯ (iℏγµD
+1  U (1) µν
+— mc)Ψ − F	F
+1	SU (2) µν
+— Tr(F	F
+) − 1 Tr(FSU(3)Fµν
+) + L
+.	(152)
+
+TOE	µ
+
+4
+4 µν
+U (1)	4
+µν	SU (2)	4
+µν	SU (3)	GR
+
+Here, GR =  c  R represents the Einstein-Hilbert Lagrangian for gravitation. The equations of motion derived from this Lagrangian yield:
+Quantum dynamics of matter fields.
+Gauge field interactions consistent with SU(3), SU(2), and U(1) symmetries.
+The Einstein field equations for the spacetime metric.
+
+Compatibility with Special and General Relativity
+The TOE maintains Lorentz invariance, ensuring all predictions respect causality and the relativistic energy-momentum relation:
+
+E2 = (pc)2 + (mc2)2.	(153)
+Coupling the gauge fields to the curved spacetime metric produces the semi-classical framework necessary for investigating phenomena such as black hole electrodynamics, neutron star interactions, and early-universe cosmology.
+
+Experimental Implications
+This framework makes several testable predictions without introducing new entities:
+Gauge coupling unification at high energies, constrained by renormalization group flow.
+Quantum corrections to classical gravitational fields, observable in precision measurements near compact objects.
+Interference effects between electromagnetic and weak fields, consistent with electroweak theory.
+
+Outlook and Open Challenges
+The major challenges include:
+Constructing a mathematically rigorous quantum gravity theory from the Einstein-Hilbert Lagrangian with-out invoking extra dimensions.
+Understanding the origin of mass hierarchies and neutrino oscillations purely from established field interac-tions.
+Extending the framework to fully incorporate thermodynamic entropy and information principles while re-maining consistent with the standard model.
+
+Quantum Gravity from Canonical Quantization of General Rela-tivity
+Quantum gravity can be approached without introducing new fundamental forces or dimensions by directly quan-tizing the geometry of spacetime as described by Einstein’s general relativity. We begin with the Einstein-Hilbert action:
+
+c4 SEH = 16πG
+d4x
+ 	
+−g R[gµν ],	(154)
+
+where gµν is the spacetime metric, g = det(gµν ), R is the Ricci scalar curvature, and G is Newton’s gravitational constant. Variation of this action with respect to the metric yields the Einstein field equations:
+
+1
+Gµν ≡ Rµν − 2 gµν R =
+8πG
+c4 Tµν .	(155)
+
+These equations describe classical gravity, where spacetime is a continuous dynamical field responding to energy-momentum.
+To quantize gravity, we adopt a canonical formulation. The Arnowitt-Deser-Misner (ADM) decomposition splits spacetime into spatial hypersurfaces indexed by a time coordinate t:
+ds2 = −N 2dt2 + hij(dxi + Nidt)(dxj + Njdt),	(156)
+where hij is the induced spatial metric on the hypersurface, N is the lapse function, and Ni is the shift vector. This decomposition allows us to define canonical momenta conjugate to the spatial metric components:
+πij =  δL  =  √h (Kij − hijK),	(157)
+
+δh˙ ij
+16πG
+
+where Kij is the extrinsic curvature of the hypersurface, K = hijKij, and h = det(hij). The extrinsic curvature captures how the 3-dimensional hypersurface is embedded in 4-dimensional spacetime.
+The classical Hamiltonian is a sum of constraints due to diffeomorphism invariance:
+
+16πG
+H =  √h
+j
+
+πijπij
+1
+2 π
+√h
+16πGR
+
+(3)
+
+≈ 0,	(158)
+
+Hi = −2∇jπi ≈ 0,	(159)
+where R(3) is the three-dimensional Ricci scalar of the hypersurface, π = hijπij, and	i generates spatial diffeo-morphisms. The weak equality	0 indicates that these are constraints to be imposed on physical states.
+We now promote the classical variables hij and πij to quantum operators with canonical commutation relations:
+[hˆij (x), πˆkl(y)] = iℏ δkδl δ3(x − y),	(160)
+with all other commutators vanishing. In this representation, the quantum Hamiltonian constraint becomes the Wheeler-DeWitt equation:
+HˆΨ[hij] = 0,	(161)
+where Ψ[hij] is a wave functional over the space of 3-geometries. Similarly, the momentum constraints ensure invariance under spatial diffeomorphisms:
+HˆiΨ[hij] = 0.	(162)
+These equations imply that quantum gravity is a theory of quantum states of geometry. No background spacetime is assumed; rather, the geometry itself is dynamical and subject to quantum fluctuations. In the semiclassical limit, we can expand around a classical solution h(0):
+hij = h(0) + ϵij,	(163)
+
+where ϵij represents small quantum fluctuations. Substituting this expansion into the Wheeler-DeWitt equation and keeping terms to first order in ϵij yields a functional Schro¨dinger-like equation for perturbations:
+iℏ ∂ Ψ[ϵ , t] = Hˆ	Ψ[ϵ , t],	(164)
+∂t	ij	pert	ij
+where Hˆpert is an operator derived from the quadratic part of the Hamiltonian constraint, describing the evolution of quantum geometric excitations.
+An alternative, equivalent approach uses the path integral formalism. The quantum amplitude for a transition
+between two 3-geometries h(1) and h(2) is given by
+ij	ij
+⟨h	|h	⟩ = ∫ D[g  ] e i SEH[gµν ],	(165)
+(2)  (1)
+ij	ij	µν
+
+where the integral is taken over all 4-metrics interpolating between the two spatial metrics. This formulation naturally incorporates interference of different geometries and recovers classical general relativity in the stationary phase limit.
+Quantum effects appear prominently at the Planck scale:
+ℓ = rℏG ∼ 1.6 × 10−35 m.	(166)
+
+Operators corresponding to geometric observables, such as areas and volumes, have discrete spectra in some approaches:
+Aˆ|Ψ⟩ = an|Ψ⟩,	an ∼ nℓ2 ,	(167)
+Vˆ |Ψ⟩ = vm|Ψ⟩,	vm ∼ mℓ3 ,	(168)
+where n, m	Z+. This discreteness is not postulated but emerges naturally from the quantization of the metric and the structure of the Hamiltonian constraints.
+Finally, the interaction of quantum matter with geometry is captured by the semiclassical Einstein equation:
+G	= 8πG ⟨Tˆ ⟩,	(169)
+
+where Tˆµν is the expectation value of the quantum energy-momentum tensor. This equation describes phenomena such as Hawking radiation, where quantum fluctuations of matter and geometry produce observable effects without invoking additional dimensions or hypothetical particles. Thus, quantum gravity can be consistently formulated using only canonical quantization of the metric, showing all steps from classical geometry to Planck-scale quantum fluctuations.
+
+Key Points:
+The metric hij and its conjugate momentum πij are quantized.
+Quantum states of geometry obey the Wheeler-DeWitt equation and momentum constraints.
+Quantum fluctuations are naturally encoded in the wave functional Ψ[hij].
+Discreteness of geometric operators emerges at the Planck scale.
+Semiclassical limits connect quantum gravity to classical Einstein equations.
+This section demonstrates that a complete and consistent derivation of quantum gravity is possible using only established physics, canonical quantization, and the dynamics of spacetime itself, without adding new laws, di-mensions, or hypothetical particles.
+
+Quantum Gravity Embedded in the TOE Lagrangian
+To incorporate gravity consistently into the TOE, we extend the previous unified Lagrangian by quantizing the Einstein-Hilbert term. The main Lagrangian density becomes:
+
+
+¯	µ	1
+U (1)  µν	1
+SU (2)  µν
+1	SU (3)  µν	c4
+
+LTOE-QG = Ψ(iℏγ Dµ − mc)Ψ− 4 Fµν  FU (1) − 4 Tr(Fµν	FSU (2)) − 4 Tr(Fµν	FSU (3)) + 16πGR +LQG, (170)
+where the quantum gravity correction is expressed through the Wheeler-DeWitt operator:
+
+
+LQG
+~ −ℏ2G
+ δ	δ 
+ijkl	Ψ[hij
+ij	kl
+] + √h(R(3) − 2Λ)Ψ[hij
+],	(171)
+
+with Gijkl the DeWitt supermetric, hij the 3-metric of spatial slices, R(3) the three-dimensional Ricci scalar, and Λ the cosmological constant.
+Variation of LTOE-QG yields:
+Standard quantum dynamics of fermions and gauge fields.
+Classical Einstein field equations in the semiclassical limit.
+Quantum constraints on spacetime geometry, embedding gravity into the TOE without introducing new particles or dimensions.
+
+Conclusion
+By carefully integrating existing physical theories—special relativity, general relativity, quantum field theory, and gauge symmetries—this unified framework provides a TOE that does not rely on speculative particles or dimensions. Every component is grounded in verified physics, yet arranged to reveal a coherent, interconnected structure capable of describing all known interactions and matter. This approach represents a conservative but ambitious pathway toward a truly comprehensive understanding of the universe.
+
+Acknowledgement
+The author gratefully acknowledges the foundational contributions of the scientific community whose rigorous work in gauge theory, quantum field theory, and general relativity has made this synthesis possible. Special thanks are extended to the pioneers of the Standard Model and canonical quantum gravity, whose insights continue to shape the pursuit of principled unification. This work is also inspired by the enduring philosophical commitment to clarity, consistency, and the elegance of first principles.
+
+Authors’ Contribution
+Md. Shaikhul Hadis Nazat conceptualized the research, developed the theoretical framework, and designed the methodology. He conducted the literature review, formulated the mathematical models, and performed the an-alytical derivations. The author wrote the original draft of the manuscript, created all figures and tables, and carried out the formatting and LaTeX compilation. All work, including interpretation of results, discussion, and final editing, was solely performed by the author. The author has read and approved the final manuscript for submission.
+
+Declaration of Interest
+The author declares that there are no competing interests or conflicts of interest related to the content of this manuscript. The research was conducted independently, and the author has no financial, personal, or professional affiliations that could have influenced the work reported in this study.
+
+References
+A. Einstein, The Foundation of the General Theory of Relativity, Annalen der Physik, 1916.
+C. W. Misner, K. S. Thorne, and J. A. Wheeler, Gravitation, W. H. Freeman, 1973.
+R. M. Wald, General Relativity, University of Chicago Press, 1984.
+P. A. M. Dirac, The Principles of Quantum Mechanics, Oxford University Press, 1930.
+M. E. Peskin and D. V. Schroeder, An Introduction to Quantum Field Theory, Addison-Wesley, 1995.
+S. Weinberg, The Quantum Theory of Fields, Vols. I–III, Cambridge University Press, 1995.
+C. N. Yang and R. L. Mills, Conservation of Isotopic Spin and Isotopic Gauge Invariance, Physical Review, 96(1), 191–195, 1954.
+S. L. Glashow, Partial Symmetries of Weak Interactions, Nuclear Physics, 22(4), 579–588, 1961.
+
+A. Salam and S. Weinberg, Electroweak Theory, in Elementary Particle Theory, Nobel Symposium No. 8, 1968.
+D. Griffiths, Introduction to Elementary Particles, Wiley-VCH, 2008.
+D. J. Gross and F. Wilczek, Ultraviolet Behavior of Non-Abelian Gauge Theories, Physical Review Letters, 30(26), 1343–1346, 1973.
+H. D. Politzer, Reliable Perturbative Results for Strong Interactions?, Physical Review Letters, 30(26), 1346–1349, 1973.
+W.-M. Yao et al., Review of Particle Physics, Journal of Physics G: Nuclear and Particle Physics, 33(1), 2006.
+P. W. Higgs, Broken Symmetries and the Masses of Gauge Bosons, Physical Review Letters, 13(16), 508–509, 1964.
+F. Englert and R. Brout, Broken Symmetry and the Mass of Gauge Vector Mesons, Physical Review Letters, 13(9), 321–323, 1964.
+B. S. DeWitt, Quantum Theory of Gravity. I. The Canonical Theory, Physical Review, 160(5), 1113–1148, 1967.
+R. Arnowitt, S. Deser, and C. W. Misner, The Dynamics of General Relativity, in Gravitation: An Introduction to Current Research, Wiley, 1962.
+C. Kiefer, Quantum Gravity, Oxford University Press, 2007.
+E. T. Jaynes, Information Theory and Statistical Mechanics, Physical Review, 106(4), 620–630, 1957.
+J. D. Bekenstein, Black Holes and Entropy, Physical Review D, 7(8), 2333–2346, 1973.
+R. Landauer, Irreversibility and Heat Generation in the Computing Process, IBM Journal of Research and Development, 5(3), 183–191, 1961.
+
+Probing Cosmic Acceleration Beyond the Equation of State: Distinguishing between Dark Energy and Modified Gravity Models
+Mustapha Ishak1,2[*],, Amol Upadhye3,, and David N. Spergel2
+1 Department of Physics, The University of Texas at Dallas, Richardson, TX 75083, USA
+2 Department of Astrophysical Sciences, Princeton University, Princeton, NJ 08544, USA
+3 Department of Physics, Princeton University, Princeton, NJ 08544, USA
+(Dated: February 5, 2008)
+If general relativity is the correct theory of physics on large scales, then there is a differential equation that relates the Hubble expansion function, inferred from measurements of angular diam-eter distance and luminosity distance, to the growth rate of large scale structure. For a dark energy fluid without couplings or an unusual sound speed, deviations from this consistency relationship could be the signature of modified gravity on cosmological scales. We propose a procedure based on this consistency relation in order to distinguish between some dark energy models and modi-fied gravity models. The procedure uses different combinations of cosmological observations and is able to find inconsistencies when present. As an example, we apply the procedure to a universe described by a recently proposed 5-dimensional modified gravity model. We show that this leads to an inconsistency within the dark energy parameter space detectable by future experiments.
+PACS numbers: 98.80.Es,98.62.Sb,98.80.-k
+
+
+INTRODUCTION.
+
+Several cosmological observations, e.g. [1, 2, 3, 4, 5, 6, 7, 8], have demonstrated that the expansion of the uni-verse has entered a phase of acceleration. The cosmic acceleration and the questions associated with it consti-tute one of the most important and challenging prob-lems for several fields of physics (astrophysics, gravita-tion, high energy physics, and fundamental physics), e.g. [9, 10, 11, 12, 13, 14]. A dark energy component that represents 2/3 of the entire energy content of the uni-verse has been proposed to explain cosmic acceleration [15, 16, 17, 18]. This dark energy component can lead to repulsive gravity because of its negative equation of state.
+Besides dark energy, several models based on modifi-cations to the gravity sector have been proposed recently as alternatives to explain the cosmic acceleration, e.g. [19, 21, 22].
+These two families of models, dark energy and modi-fied gravity, are fundamentally different, and a question
+in section three, we recall some of the commonly used parameterizations of dark energy and also an example of modified gravity models. In section four, we discuss constraints on the expansion history while in section five we discuss constraints on the growth rate of large scale structure. Section six describes our approach. In section seven, we describe our implementation of the procedure using cosmological observations and present our results. We discuss our results and conclude in the last section.
+
+
+
+GENERAL RELATIVITY CONSISTENCY RELATIONSHIP.
+
+Einstein’s equations of General Relativity relate the curvature of spacetime to the matter and energy con-tent of the universe, thus describing the cosmological dy-namics. Cosmic acceleration affects both the expansion history of the universe (given by the Hubble function H(z) ≡	, where a is the scale factor and z
+
+possibilities using cosmological data. In this paper, we propose a procedure that uses different pairs of cosmolog-ical observations in order to address this question. The procedure is able to find inconsistencies in the dark en-ergy parameter space due to an underlying modified grav-ity model.
+Furthermore, a burning question that comes to mind after an equation of state of dark energy has been de-termined from cosmological observations is as follows: Is this really a dark energy equation of state or just a results obtained because one tried to fit a dark energy model on the top of some modified gravity model? The procedure proposed also addresses this question.
+The outline of the paper is as follows. In section two, we introDuce the basic idea of the consistency test. Next,
+is the redshift) and the rate at which clusters of galaxies grow (given by the growth rate of large scale structure, D = δ(a)/δ(ai), where δ(a) ≡ ρ−ρ¯ is the overdensity).
+Importantly, the expansion function must be consis-tent with the growth rate function via Einstein’s equa-tions. If the cosmic acceleration is not due to a dark energy component in Einstein’s equations then the pres-ence of significant deviations from the consistency rela-tion between the expansion and the growth rate will be a symptom of a breakdown of General Relativity at cos-mological scales and a hint to possible modified gravity models at very large scales.
+In this paper, the consistency test is implemented us-ing specific combinations of simulated future cosmologi-cal observations.
+
+2
+
+
+DARK ENERGY MODELS VERSUS MODIFIED GRAVITY.
+
+Dark Energy parameterization
+
+We assume that dark energy can be described in terms of a cosmic fluid, with an equation of state w = P/ρ that can vary with redshift. We parameterize the variation of
+refere the reader to studied dedicated to the DGP model phenomenology [35, 36, 37, 38]
+We provide in this sub-section a brief introduction to the model, but we refer the reader to [19, 20] for a full description. The action for the five-dimensional theory is [19, 20]
+S	= 1 M 3 ∫ d4x dy√−g	R
+
+
+w(z) = w0 + w1z if z < 1 and w(z) = w0 + w1 oth-
+
+/
+
++  1 M 2 ∫ d4x√−g	R	+ S	,	(5)
+
+w(a) = w0 + wa(1 − a) + wb(1 − a) , e.g. [25, 26].
+Given w(z), the dark energy density as a function of red-shift can be described using the dimensionless function
+z 1 + w(z′))dz′
+Q(z) ≡ ρde(z)/ρde(0) = exp 3	1 + z′	.	(1)
+We assume a spatially flat universe and do not include massive neutrinos or isocurvature perturbations. For su-pernova (SN Ia) calculations, we use the parameters
+pα = {ΩΛ, w0, w1, M}.	(2)
+where the subscripts 4 and 5 denote quantities on the brane and in the bulk, respectively; M(5) is the five di-mensional reduced Planck mass; M(4) = 2.4 1018GeV is the four dimensional effective reduced Planck mass; R and g are the Ricci scalar and the determinant of the met-ric, respectively. The first and second terms on the right hand side describe the bulk and the brane, respectively, while Smatter is the action for matter confined to the brane. The two different prefactors M 3 /2 and M 2 /2 in front of the bulk and brane actions give rise to a char-acteristic length, scale [29]
+
+For weak gravitational lensing (WL) calculations, we use:
+rc = M 2
+3
+(5)
+.	(6)
+
+pα = {Ωmh2, ΩΛ, w0, w1, ns, σlin, zp, ξs, ξr}.	(3) For CMB, we use:
+pα = {Ωmh2, Ωbh2, ΩΛ, w0, w1, ns, σlin, τ }	(4)
+where Ωde ρde(0)/ρcrit(0) is the dark energy density fraction, and ρcrit(0) 3H2/8πG; Ωmh2 is the physical matter density; Ωbh2 is the physical baryon density; τ is
+If M(5) is much less than M(4), then the brane terms in the action above will dominate over the bulk terms on scales much smaller than rc, and gravity will appear four dimensional. For example, nonrelativistic small-scale gravity will obey the Newtonian inverse-square force law. On scales larger than rc, the full five dimensional physics will be recovered, and the gravitational force law will revert to its five dimensional 1/r3 form. This is usu-ally discussed in terms of gravity leakage into an extra
+
+the optical depth to the surface of last scattering; σlin
+dimension. Ref. [27] shows that tuning M
+(5)
+to about
+
+is the amplitude of linear fluctuations; ns is the spec-
+tral index of the primordial power spectrum; zp is the characteristic redshift of source galaxies for weak lensing [34, 39]; ξs and ξr are the lensing absolute and relative calibration parameters as defined in [34].
+
+Modified gravity models
+
+In this paper, we are interested in using a good example of modified gravity model but only in order to illustrate
+10 100MeV, implying rc H−1, is consistent with cos-mological data. They have also been discussed in [31]. Low redshift cosmology in DGP brane worlds was stud-ied in [20, 29]. Defining the effective energy density
+
+3
+ρrc ≡ (32πGr2) ,	(7)
+
+Friedmann’s first equation becomes
+
+the procedure proposed. We are not interested here in evaluating any particular model of modified gravity.
+Although several models of modified gravity have been
+2
+DGP
+k
++ a2
+= 8πG  √ρ + ρ
++ √ρrc
+ 2 .	(8)
+
+proposed recently as alternatives to dark energy, we
+chose in this analysis to use the Dvali-Gabadadze-Porrati (DGP) model. The model is inspired by higher dimen-
+For each perfect fluid i on the brane, we may define
+Ωi	ρi,0/ρcrit,0. Following [20], we also define Ωrc
+1 r−2H−2.  We focus here on a flat universe contain-
+
+4 c	0
+
+sional physics and is consistent with current observations,
+e.g. [35, 36]. As mentioned, our interest is to use the DGP model as an example of deviation from General Relativity in order to test the proposed procedure. We
+ing only nonrelativistic matter, such as baryons and cold
+dark matter, in which Ωrc = 1 Ω  . In this model, the gravitational “leakage” into the fifth dimension, on large length scales, becomes a substitute for dark energy.
+
+3
+
+
+25
+
+24.5
+
+24
+
+23.5
+
+23
+
+22.5
+
+22
+
+21.5
+
+21
+
+/
+0.4	0.6	0.8	1	1.2	1.4	1.6	1.8
+z
+
+1
+
+0.95
+
+0.9
+
+0.85
+
+0.8
+
+0.75
+
+0.7
+
+0.65
+
+0.6
+
+/
+0.2	0.3	0.4	0.5	0.6	0.7	0.8	0.9	1
+a
+
+FIG. 1: Supernova Hubble diagrams for several dark en-ergy and DGP models. Note that the ΛCDM model (red solid line) and the Ωm = 0.20 DGP model (blue dotted) have nearly identical Hubble diagrams, but different growth factors as shown in Fig.2. The same is true of the SUGRA (green dashed) and Ωm = 0.27 DGP (black double dotted) models.
+
+
+CONSTRAINTS FROM THE EXPANSION HISTORY USING SUPERNOVAE OF TYPE IA.
+
+For a spatially flat universe with dark energy, the Hub-ble parameter H(z) can be expressed in terms of its cur-rent value H0 and the function Q(z) as
+FIG. 2: Growth factors of linear density perturbations for several dark energy and DGP models. Comparisons among several dark energy and DGP models growth factors of linear density perturbations. Note that the growth factor in the Ωm = 0.27 DGP model is suppressed with respect to that in the ΛCDM model, which has the same Ωm .
+
+
+
+As well known, m(z) depends on w0 and w1 only through a complicated integral relation, which “smears out” dark energy information [28]. The result is a degeneracy which allows very different models to have nearly identical
+m(z). Fig.1 shows m(z) for a few dark energy and DGP cosmologies. The figure shows that some DGP models
+
+
+HDE
+(z) = H0√Ωm(1 + z)3 + (1 − Ωm)Q(z).	(9)
+are very degenerate with certain dark energy models, such as ΛCDM models or SUGRA-inspired models. Ev-
+
+Since probes such as the SN Ia surveys give information about the redshift variation of H(z) but not its current value, we define the dimensionless Hubble parameter for dark energy models as
+HDE (z) ≡ H(z)/H0 = √Ωm(1 + z)3 + (1 − Ωm)Q(z).
+
+/
+For spatially flat DGP model, the expansion is given by
+ident in the expression for m(z) is another degeneracy, between Ωm and the equation of state parameters. We break this degeneracy by combining SN Ia data with the CMB power spectrum. We assume the availability of a sample of 2000 supernovae, evenly distributed in red-shift between zMin = 0 and zMax = 1.7, with a mag-nitude uncertainty per supernova of σm = 0.2. As in [23, 24], we also include a peculiar velocity uncertainty
+
+
+HDGP (z) =
+1
+2 (1 − Ωm) +
+
+/
+1
+/(1 − Ωm)2 + Ωm(1 + z)3.
+(11)
+σv = 500km/s, and a systematic uncertainty δm = 0.02 in bins of ∆z = 0.1.
+
+To probe the expansion history, we consider calibrated type Ia supernovae as standard candles to measure the luminosity distance as a function of the redshift. Recall that the SN Ia apparent magnitude as a function of red-shift is given by
+m(z) = 5 log10 (DL(z)) + M.	(12)
+Here,  depends on H0 as well as the absolute magni-tude of type Ia supernovae. We treat as a nuisance parameter. Meanwhile, the dimensionless luminosity dis-tance is
+
+CONSTRAINTS FROM THE GROWTH OF LARGE SCALE STRUCTURE AND
+GRAVITATIONAL LENSING TOMOGRAPHY.
+
+For dark energy models, the suppression of the growth of large scale structure is due to an increase in the ratio of dark energy density to matter density. We calculate the growth factor for these models by numerical integration of the differential equation from [40, 41],
+
+∫ z	′	′
+′′	 7
+3	w(a)  G′
+3 1 − w(a) G
+
+DL(z) = (1 + z)
+dz / (z ).	(13)
+0
+G +  2 − 2 1 + X(a)
+a + 2 1 + X(a) a2 = 0, (14)
+
+4
+
+
+7000
+0.001
+
+
+
+6000
+
+
+5000
+
+
+4000
+1e-04
+
+3000
+
+
+2000
+
+
+1000
+
+
+0
+
+
+
+
+
+10	100	1000
+l
+
+
+
+1e-05
+
+
+
+
+100	1000
+l
+
+
+
+FIG. 3: CMB power spectra for several dark energy and DGP models: ΛCDM model is in red solid line; SUGRA model is in green dashed line; Ωm = 0.27 DGP model is in black double dotted line; Ωm = 0.20 DGP model is in blue dotted line; Following [35], a modified version of CMBFAST [45] was used to generate the DGP plots.
+
+
+where ′ d/da, G = D/a is the normalized growth fac-tor,
+	Ωm	
+FIG. 4: Lensing convergence power spectra for several dark energy and DGP models: ΛCDM model is in red solid line; SUGRA model is in green dashed line; Ωm = 0.27 DGP model is in black double dotted line; Ωm = 0.20 DGP model is in blue dotted line;
+
+
+where P3D is the 3D nonlinear power spectrum of the matter density fluctuation, δ; a(χ) is the scale factor; and sinK(χ) = K−1/2 sin(K1/2χ) is the comoving angu-lar diameter distance to χ (for the spatially flat universe
+
+X(a) =
+(1 − Ωm
+and Q(a) is as given earlier.
+)a3Q(a) ,	(15)
+used in this analysis, this reduces to χ). The weighting function g(χ) is the source-averaged distance ratio given by
+
+For DGP models, the suppression of the growth is due
+to weakened gravity resulting from “leakage” into the
+∫ χH
+′ sinK(χ′ − χ)	′
+
+extra dimension. Following [31, 32], we use
+g(χ) =
+χ
+n(χ )
+sinK
+(χ′)	dχ
+(19)
+
+
+
+
+where
+δ¨ + 2H
+
+
+
+DGP
+δ˙ − 4πGρ 1 +  1  δ = 0	(16)
+where n(χ(z)) is the source redshift distribution (we use the distribution [46] n(z) = z2 e−z/z0 , which peaks at
+0
+zp = 2z0). We integrate numerically the growth factor
+function given by Eqns. 14 or 16 above, and we use the
+
+β = 1 − 2rcH
+
+
+DGP
+ 1 +
+H˙ DGP
+2
+DGP
+	(17)
+linear-to-nonlinear mapping procedure halofit [48]. We used the halofit for the DGP models as well because we
+
+Fig.2 shows that, compared to a ΛCDM model with the same matter density, a DGP model has a distinct sup-pression of the growth factor. Also, Fig.2 displays how the degenerate models of Fig.1 show distinct growth fac-tor functions. In the next two sections, we will take advantage of this difference in order to detect possible signatures of DGP models.
+We consider weak gravitational lensing (cosmic shear) tomography as a probe of the growth factor of large scale structure. Indeed, cosmic shear observations capture the effect of the cosmic acceleration on both the expansion and the growth factor. We follow the formalism and con-ventions as used in [24, 34] and we use the convergence power spectrum as our statistic [42, 43, 44],
+are only interested into using them as an example of de-viation from general relativity in order to test our proce-dure. Dedicated studies to DGP phenomenology should consider using a better approximation for these models. As mentioned above, the expansion history is contained in the window function, while the growth factor is con-tained in the 3D nonlinear matter power spectrum. Fig.4 shows convergence power spectra corresponding to dark energy models and modified gravity (DGP) models.
+The separation of source galaxies into tomographic bins improves significantly the constraints on cosmolog-ical parameters, and particularly those of dark energy [49, 50]. The constraints obtained from different bins are complementary, and add up to reduce the final uncer-
+tainties on the parameters. Based on recently proposed
+
+
+Pκ =
+9 H4Ω2
+∫ χH g2(χ)
+
+/
+
+P3D
+ 	l	
+
+, χ 
+
+dχ, (18)
+surveys (e.g. [47]), we use a reference survey with a sky
+2
+
+l	4  0  m 0
+a2(χ)
+sinK(χ)
+coverage of 10%, a source density n¯ = 100 gal/arcmin ,
+
+
+
+an rms intrinsic ellipticity  γ2  1/2 ≈ 0.25, and a me-
+
+/
+5
+
+iv) Next, we use a standard Fisher matrix approach to
+/
+
+
+tometric redshift uncertainty of σ(z) = 0.05, and we split the sources into 10 tomographic bins over the range
+0.0 < z < 3.0 with intervals of ∆z = 0.3. We have used ℓmax = 3000, since the assumption of a Gaussian shear field, underlying the Fisher formalism and the halofit approximation, may not be valid for larger ℓs. For the minimum ℓ, we take the fundamental mode approxima-tion, i.e., we consider only lensing modes for which at least one wavelength can fit inside the survey area.
+
+
+THE FUNDAMENTALS OF THE CONSISTENCY TEST: CONSTRAINTS FROM
+THE EXPANSION VERSUS CONSTRAINTS FROM THE GROWTH OF LSS
+
+The cosmic acceleration affects cosmology in two ways:
+It affects the expansion history of the universe and ii) It supresses the growth rate of large scale structure in the universe. The idea that we explore is that, for dark energy models, these two effects must be consistent one with another because they are related by General Rela-tivity. The presence of significant inconsistencies between the expansion history and the growth rate would be the signature of some modified gravity models at cosmolog-ical scales. We propose a procedure that detects such inconsistencies when they are present.
+The approach we explore is as follows. We assume that the true cosmology is described by a DGP model, and then ask what contradictions arise when the data are instead analyzed based on the assumption of a dark en-ergy model (as mentioned earlier, we are not particularly interested in the DGP cosmology here but we want to use it as an example to illustrate the procedure.)
+Because we will generate the data using the DGP model, the consistency relation from General Relativity between the expansion history and the growth factor of large scale structure will be broken. The dark energy equation of state wexp(z) which best fits measurements of the expansion will not be consistent with the equa-tion of state wgrowth(z) which best fits measurements the growth.
+The methods and steps we use are as follows.
+We simulate the data for the expansion and the growth using a fiducial DGP cosmology (for example, supernova and weak lensing data);
+We use a χ2 minimization method in order to find the best fit dark energy model to measurements of the expansion (the χ2 minimization method was discussed in detail in [23] and was shown to give similar results to those from Monte Carlo Markov Chain method although the χ2 minimization can have a better handle on degen-eracies [23]);
+we use the χ2 minimization in order to find the best fit dark energy model to measurements of the growth of structure,
+the two best fit dark energy models (this standard pro-
+cedure is discussed in detail in references [51]);
+v) We look for significant differences between the two ef-fective dark energy parameter spaces.
+These differences will signal an inconsistency between the expansion and the growth factor. The source of the in-consistency is from point (i) where the data was gener-ated using a DGP model, i.e. from our hypothesis that the true cosmology is that of a modified gravity DGP model.
+The basic idea explored here was also discussed in ref-erences [31, 52] but here we propose to implement the idea using pairs of cosmological data sets. In the next section, we will show how a procedure using observa-tions from supernovae, weak lensing tomography, and the CMB allows one to achieve an observational implemen-tation of the consistency test.
+Note that our approach is totally different from that of [33, 53]. Their work defined 16 new parameters (ad-ditional to the cosmological parameters) describing the distance and growth factor as functions of redshift. A weak lensing survey and CMB power spectra were then used to constrain all 16 parameters simultaneously in or-der to search for inconsistencies.
+Our work requires no new parameters and we explore in-consistencies between constraints obtained from different pairs of cosmological probes as we illustrate in the next section.
+
+
+A PROCEDURE TO DETECT SIGNATURE OF MODIFIED GRAVITY USING [SN IA+CMB]
+VERSUS [WEAK LENSING+CMB] OBSERVATIONS.
+
+We provide here an implementation of the consistency test using simulated cosmological observations. This observational test allows one to distinguish between dark energy models and modified gravity DGP models. We assume the true cosmology to be a DGP model and we analyze two combinations of simulated data sets using dark energy models. We use the methods and steps indicated in the previous section. The procedure we use is as follows.
+We use a fiducial DGP model (with Ωm = 0.27) and generate supernova magnitudes, weak lensing conver-gence power spectrum, and CMB power spectrum.
+Then, we determine the dark energy model that is the best fit to the supernova magnitudes and to the CMB spectrum generated using the fiducial DGP model.
+Next, we determine the dark energy model that is the best fit to the fiducial weak lensing spectrum and to the CMB spectrum.
+Then, we compare the allowed regions in the Ωde, w0, w1 parameter space between the two data combinations in order to look for inconsistencies.
+
+6
+
+
+0.8
+
+
+
+
+0.6
+
+
+
+
+0.4
+
+
+
+
+0.2
+
+
+
+
+0
+
+
+-0.2
+
+-1.1	-1	-0.9	-0.8	-0.7	-0.6
+w0
+
+FIG. 5: Equations of state found using two different com-binations of data sets. Solid contours are for fits to SN Ia and CMB data, while dashed contours are for fits to weak lensing and CMB data. The significant difference (inconsis-tency) between the equations of state found using these two combinations is a signature of the DGP model and should be detectable by future experiments described in sections IV and V. The inconsistency is an observational detection of the underlying modified gravity DGP model (assumed here to generate the data).
+
+
+
+
+The supernova combination contains information on the effect of the acceleration on the expansion history, while the weak lensing combination contains information on the growth factor in addition to the expansion. This translates into a difference between the two allowed re-gions in the dark energy parameter space.
+Our results in Figs. 5, 6, and 7 show that the two allowed regions in the dark energy parameter space are significantly different. This signals the expected incon-sistency between the expansion history and the growth rate of large scale structure.
+
+
+DISCUSSION
+
+The source of the inconsistency in Figs. 5, 6, and 7 is that we generated the data using a fiducial DGP model but then we used dark energy models to fit the data. The inconsistency is a consequence of the fact that the fidu-cial cosmological model is DGP, and therefore it consti-tutes an observational signature of the underlying mod-ified gravity model. Fig.7 shows that the inconsistency between the two equations of state persists even when we consider a third term in the Taylor expansion of the equation of state (section IIIA). This indicates that the test is robust to the functional form used for the equation of state.
+However, we stress that we did not consider in this study dark energy models with couplings or with an un-
+FIG. 6: Dark Energy parameter spaces (Ωde, w0, w1) found using two different combinations of data sets. The ellipsoid to the left is for fit to SN Ia and CMB data, while ellipsoid to the right is for fits to weak lensing and CMB data. The significant difference (inconsistency) between the parameter spaces found using these two combinations is a signature of the DGP model and should be detectable by future experi-ments described in sections IV and V. The inconsistency is an observational detection of the underlying modified gravity DGP model (assumed here to generate the data).
+
+
+usual sound speed. The study of the effect of the sound speed of dark energy on the procedure and also the inclu-sion of other models of dark energy and modified gravity will be considered in subsequent work.
+Also, another point worth exploring in future work is the effect of systematic uncertainties. If such a proce-dure is performed using real data and an inconsistency is found, then one has to develop methods to test whether the inconsistency is due to physics or to systematics in either of the data sets. Further work will be necessary in order to make this type of test robust and generic.
+In summary, the comparison of measurements of ex-pansion history and measurements of the growth rate of structure tests the behavior of gravity on large scales. We proposed a procedure that uses different pairs of cosmo-logical data sets in order to explore this comparison and to distinguish between some models of dark energy and modified gravity as the cause of the cosmic acceleration. Being able to distinguish between the two possibilities is an important step in the quest to understand cosmic acceleration.
+
+
+Acknowledgments
+
+It is a pleasure to thank C. Hirata for useful comments. Part of the analysis was run on a Beowulf cluster at Princeton University, supported in part by NSF grant AST-0216105. MI is supported by Canadian NSERC and NASA Award NNG04GK55G. AU is supported by
+
+7
+
+a NSF Graduate Research Fellowship. DNS is partially supported by AST-0413793
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 7: Three parameter equations of state (w0, wa, wb) (from the Taylor expansion in section IIIA) found using two different combinations of data sets. The ellipsoid to the right is for fit to SN Ia and CMB data, while the ellipsoid to the left is for fits to weak lensing and CMB data. The inconsistency between the parameter spaces found using these two com-binations is a result of the assumed underlying DGP model and should be detectable by future experiments described in sections IV and V.
+
+
+
+
+[*] Electronic Addresses:
+mishak@utdallas.edu; mishak@princeton.edu
+A. G. Riess, et al., Astron. J. 116, 1009-1038 (1998);
+S. Perlmutter, et al., Astrophys. J. 517, 565-586 (1999);
+R. A. Knop, et al., Astrophys. J. 598, 102-137 (2003);
+A. G. Riess, et al., Astrophys. J. 607, 665-687 (2004);
+C. L. Bennett, et al., Astrophys. J. Suppl. Ser. 148, 1 (2003);
+D. N. Spergel, et al., Astrophys. J. Suppl. Ser. 148, 175 (2003);
+Seljak et al., Phys.Rev. D71, 103515 (2005);
+M. Tegmark, et al., Astrophys. J. 606, 702-740 (2004).
+S. Weinberg, Rev. Mod. Phys., 61, 1 (1989);
+S.M.Carroll, W.H. Press and E.L. Turner, Ann. Rev. As-tron. Astrophys., 30, 499 (1992);
+M.S. Turner, Phys. Rep., 333, 619 (2000);
+S.M. Carroll, Living Reviews in Relativity, 4, 1 (2001);
+Varun Sahni, Alexei Starobinsky, Int.J.Mod.Phys., D9, 373 (2000).
+T. Padmanabhan, Phys. Rep., 380, 335 (2003).
+P.J.E Peebles and B.Ratra, Astrophys.J.Lett. 325 L17 (1988);
+B.Ratra and P.J.E. Peebles, Phys.Rev.D 37 3406 (1988);
+I. Zlatev, L. Wang, and P.J. Steinhardt, Phys. Rev. Lett.
+82 896 (1999);
+P.J.Steinhardt, L. Wang, and I.Zlatev, Phys. Rev. D 59 123504 (1999);
+G. Dvali, G. Gabadadze, and M. Porrati, Phys. Lett. B 485 208-214 (2000).
+C. Deffayet, G. Dvali, G. Gabadadze, Phys.Rev. D 65 044023 (2002).
+S. Carroll et al., Phys.Rev. D 71, 063513 (2005).
+S. Nojiri, S. D. Odintsov, Phys. Lett. B 631, 1 (2005).
+A. Upadhye, M. Ishak, and P.J. Steinhardt, Phys.Rev. D72, 063501(2005).
+M. Ishak, MNRAS, 363, 469-478 (2005).
+M. Chevallier, D. Polarski, and A. Starobinsky, Int. J. Mod. Phys. D 10, 213 (2001).
+E. Linder, Phys. Rev. Lett., 90, 091301 (2003).
+C. Deffayet, et. al., Phys. Rev. D 66, 024019 (2002).
+I. Maor, R. Brustein, and P.J. Steinhardt, Phys. Rev. Lett. 86, 6-9 (2001)
+C. Deffayet, Phys. Lett. B 502, 199-208 (2001).
+C. Deffayet, Phys. Rev. D 66, 103504 (2002).
+A. Lue, R. Scoccimarro, G. Starkman,. Phys. Rev. D 69, 124015 (2004)
+K. Koyama, R. Maartens JCAP 601, 16 (2006)
+Y-S. Song, Phys. Rev. D 71, 024026 (2005).
+M. Ishak, C. M. Hirata, P. McDonald, U. Seljak, Phys. Rev. D 69, 083514 (2004).
+C. Deffayet, S. J. Landau, J. Raux, M. Zaldarriaga, P. Astier, Phys. Rev. D 66, 024019 (2002).
+I. Sawicki, S. M. Carroll, preprint astro-ph/0510364.
+A. Lue, Phys. Rept. 423,1 (2006).
+M. Fairbairn, A. Goobar, preprint astro-ph/0511029.
+M. Ishak and C. Hirata, Phys. Rev. D 71, 023002 (2005).
+C.P. Ma, R. R. Caldwell, P. Bode, L. Wang, Astrophys.
+J. , 521, L1 (1999)
+E. Linder, A. Jenkins, MNRAS, 346, 573 (2003).
+N. Kaiser, Astrophys. J. , 388, 272 (1992).
+B. Jain, U. Seljak, Astrophys. J. , 484, 560 (1997).
+N. Kaiser, Astrophys. J. , 498, 26, (1998).
+M. Zaldarriaga, U. Seljak, cwApJS, 129, 431 (2000).
+D. M. Wittman, J. A. Tyson, D. Kirkman, I.
+
+8
+
+
+Dell’Antonio, G. Bernstein, Nature, 405, 143 (2000).
+J.	Albert	et	al.	for	the	SNAP	collaboration,
+(2005).
+R.E.Smith, et al., MNRAS, 341, 1311 (2003).
+W. Hu, Astrophys.J. 522, L21-L24 (1999).
+W. Hu, Phys.Rev. D66, 083515 (2002).
+Press et al., Numerical Recipes in C, Cambridge Uni-
+versity Press (1992); S. Dodelson, Modern Cosmology, Academic Press (2003); Tegmark, Taylor, and Heavens, Astrophys.J. 480, 22 (1997).
+E. Linder, Phys. Rev. D72, 043529 (2005).
+L. Knox, Y.-S. Song, J.A. Tyson, astro-ph/0503644.
+
+
+Conference Cosmology on Small Scales 2018 Michal Kˇr´ıˇzek and Yurii Dumin (Eds.) Institute of Mathematics CAS, Prague
+
+
+
+
+PROBLEMS WITH THE DARK MATTER AND DARK ENERGY HYPOTHESES, AND ALTERNATIVE IDEAS
+
+Mart´ın L´opez-Corredoira1,2
+1 Instituto de Astrof´ısica de Canarias
+C/.V´ıa L´actea, s/n, E-38205 La Laguna (Tenerife), Spain martinlc@iac.es
+2 Department of Astrophysics, University of La Laguna E-38206 La Laguna (Tenerife), Spain
+
+
+Abstract: Two exotic elements have been introduced into the standard cos-mological model: non-baryonic dark matter and dark energy. The success in converting a hypothesis into a solid theory depends strongly on whether we are able to solve the problems in explaining observations with these dark elements and whether the solutions of these problems are unique within the standard paradigm without recourse to alternative scenarios. We have not achieved that success yet because of numerous inconsistencies, mainly on galactic scales, the non-detection so far of candidate particles for dark matter, and the existence of many alternative hypotheses that might substitute the standard picture to explain the cosmological observations. A review of some ideas and facts is given here.
+Keywords: dark matter, dark energy
+PACS: 95.35.+d, 95.36.+x
+
+History of the idea of Dark Matter
+The existence of dark or invisible matter detectable through its gravitational influence has been known by astronomers for a long time now [14]. Bessel [15] in 1844 argued that the observed proper motions of the stars Sirius and Procyon could be explained only in terms of the presence of faint companion stars. In 1846, Le Verrier and Adams independently predicted the existence of Neptune based on calculations of the anomalous motions of Uranus. Le Verrier later proposed the existence of the planet Vulcan to explain anomalies in the orbit of Mercury, but he failed this time because the solution was not invisible matter but a change of gravitational laws, as was solved years later by Einstein with General Relativity. The dynamical analysis of dark matter in form of faint stars in the Milky Way using the motion of stars
+was carried out by Lord Kelvin in 1904, Poincar´e in 1906, O¨ pik in 1915, Kapteyn in
+1922, Jeans in 1922, Lindblad in 1926, and Oort in 1932 with different results [14].
+
+With regard to extragalactic astronomy, Zwicky’s [100] 1933 paper on dark matter in rich clusters applied the virial theorem to these data and found a mass-to-light ratio of ∼60 in solar units (rescaled to the present-day value of the Hubble constant). In 1959 Kahn & Woltjer [39] determined the mass of the Local Group and obtained a mass-to-light ratio of 43 in solar units. In the 1950s, Page [71, 72] also found that pairs of elliptical galaxies had a mass-to-light ratio of 66 in solar units. This showed that such binaries must have massive envelopes or be embedded in a massive common envelope. Similar results were obtained in the 1950s from 26 binary galaxies by Holmberg [36]. In 1939 Babcock [5] first showed the need for dark matter for an individual galaxy by measuring the rotation curve of the outer regions of M31 out to 100 arcminutes (≈ 20 kpc) from its center. However, the majority of astronomers did not become convinced of the need for dark matter halos in galaxies until the publication of theoretical papers in the 1970s, such as the one on the stability of galactic disks by Ostriker & Peebles [69]. Later, rotation curves in the radio by Albert Bosma [18] and in the visible by Vera Rubin, Kent Ford, and Nortbert Thonnard [79] easily convinced the community. This shows the typical mentality of astrophysicists: accepting facts only when there is a theory to support them with an explanation, a not-so-empirical approach that dominates the development of cosmology.
+Cosmology has indeed played a very important role in the idea of dark matter on
+galactic scales. The first predictions based on Cosmic Microwave Background Radi-ation (CMBR) anisotropies were wrong. It was predicted in the 1960s that ∆T/T should be one part in a hundred or a thousand [80]; however, fluctuations with this amplitude could not be found from observations in the 1970s. In order to solve this problem, non-baryonic dark matter was introduced ad hoc and was thought to be composed of certain mysterious particles different from known matter. In a short time, the connection between particle physics and the missing mass problem in galax-ies arose. Many astrophysicists considered dark matter halos surrounding galaxies and galaxy clusters possibly to consist of a gas of non-baryonic particles rather than faint stars or other astrophysical objects. This was a happy idea without any proof; there is no proof that directly connects the problem of the amplitude of CMBR anisotropies with the rotation curves of galaxies or the missing mass in clusters, but the idea was pushed by leading cosmologists, who made the idea fashionable among the rest of the astrophysical community.
+Part of the success of these non-baryonic dark matter scenarios in the halos of the galaxies was due to the good agreement of simulations of large scale structure with the observed distributions of galaxies. At first, in the 1980s, with the attempt to fit the data using hot dark matter composed of neutrinos, the simulations showed that very large structures should be formed first and only later go on to form galaxy-sized halos through fragmentation, which did not match the observations [99], whereas cold dark matter (CDM) models were more succesful, at least on large scales (> 1 Mpc).
+This tendency towards selling a prediction of failure as a success for a model via the ad hoc introduction of some convenient form of unknown dark matter still
+
+prevails. An instance of this predilection is the introduction in 2018 of some peculiar form of dark matter[8] in order to cool the gas at z ≈ 18 and solving the discrep-ancies in the measurements of 21 cm line amplitude with respect to the a priori predictions[19].
+
+Dark matter and inconsistencies of the theory at galactic scales
+That there is some dark matter, either baryonic or non-baryonic, is clear, but how much, and what is its nature? The success of the standard model in converting a hypothesis into a solid theory depends strongly on the answer to these open questions. Stellar and cold gas in galaxies sum to baryonic matter content that is 8+4% of the total amount of the predicted Big Bang baryonic matter [10]. Where is the rest of the baryonic material? What is the nature of the putative non-baryonic dark matter required to achieve the current value of Ωm ≈ 0.3?
+Current CDM models predict the existence of dark matter haloes for each galaxy whose density profile falls approximately as r−2, although the original idea [98] con-cerning hierarchical structures with CDM, which gave birth to the present models, was that the dark matter was distributed without internal substructure, more like a halo with galaxies than galaxies with a halo [9], something similar to the scenario in Refs. [51, 52].
+Some authors have been led to question the very existence of this dark matter on galactic scales since its evidence is weak [9, 59, 29, 90] and the predictions do not fit the observations: CDM has a “small scale crisis” since there are some features of the galaxies that are very different from the predictions of the cosmological model. Nonetheless, many researchers are eagerly trying to find solutions that make data and model compatible, assuming a priori that the model “must be” correct. Some of the problems are the following.
+There is a problem with an observed lower density of the halo in the inner galaxy than predicted. ΛCDM (CDM including a Λ term for the cosmological constant; see §5) predicts halo mass profiles with cuspy cores and low outer density, while lensing and dynamical observations indicate a central core of constant density and a flattish high dark mass density outer profile [74]. The possible solutions of core-cusp problem without abandoning the standard model are: bar-halo friction, which reduces the density of the halo in the inner galaxy [85]; haloes around galaxies may have undergone a compression by the stellar disc [33] or/and suffered from the effects of baryonic physics [23].
+Another problem is that the predicted angular momentum is much less than the observed one. Binney et al. [16] claim that the problem of an excess of predicted dark matter within the optical bodies and the fact that the observed discs are much larger than expected can be solved if a considerable mass of low angular momentum baryons is ejected (massive galactic outflows) and the discs are formed later from the high angular momentum baryons which fell in the galaxy. The conspiracy problem is also solved if the ejection begins only once Mbaryons(r) ∼ Mdark matter(r). Another
+
+solution within the standard cosmological model for the angular momentum problem is the tidal interaction of objects populating the primordial voids together with the Coriolis force due to void rotation [21].
+Another fact that could cast doubt upon the existence of very massive halos of dark matter is that strong bars rotating in dense halos should generally slow down as they lose angular momentum to the halo through dynamical friction [22], whereas the observed pattern speed of galactic bars indicates that almost all of them rotate quite fast [1]. There should be a net transference of angular momentum from bars to halos, although friction can be avoided under some special conditions [86].
+The enclosed dynamical mass-to-light ratio increases with decreasing galaxy lu-minosity and surface brightness, which is not predicted by dark matter scenarios [60].
+Galaxies dominate the halo with little substructure whereas the model predicts that galaxies should be scaled versions of galaxy clusters with abundant substruc-ture [25, 43]. Moreover, ΛCDM simulations predict that the majority of the most massive subhalos of the Milky Way are too dense to host any of its bright satellites (LV > 105 L⊙) [20]. Also, the distribution of satellites is in a plane, incompatible with ΛCDM [43, 42, 73]. Kroupa [44] says that these are arguments against the standard model in which one cannot make the typical rebuff of incompleteness of knowledge of baryonic physics. Furthermore, there is a correlation between bulge mass and the number of luminous satellites in tidal streams [43, 55] that is not predicted by the standard model, and it is predicted by models of modified gravity without dark matter. The disc of satellites and bulge-satellite correlation suggest that dissipational events forming bulges are related to the processes forming phase-space correlated satellite populations. These events are well known to occur, since in galaxy encounters energy and angular momentum are expelled in the form of tidal tails, which can fragment to form populations of tidal-dwarf galaxies and associated star clusters. If Local Group satellite galaxies are to be interpreted as Tidal Dwarf galaxies then the substructure predictions of the standard cosmological model are internally in conflict [43].
+Perhaps, that most severe caveat to retain the hypothesis of dark matter is that, after a long time looking for it, it has not yet been found, although non-discovery does not mean that it does not exist. Microlensing surveys [45, 92] constrain the mass of the halo in our Galaxy in the form of dim stars and brown dwarfs to be much less than that necessary for dark matter halos. In any case, as already mentioned, the primordial nucleosynthesis model constrains baryonic matter to be around 10% of the total mass [10], so these objects could not be compatible with the preferred cosmological model. Some observations are inconsistent with the dominant dark matter component being dissipationless [67]. Neither massive black hole halos [66] nor intermediate-mass primordial black holes [61] provide a consistent scenario. The nature of dark matter has been investigated and there are no suitable candidates among astrophysical objects.
+
+Dark matter particles
+The other possibility is that dark matter is not concentrated in any kind of astro-physical object but in a gas of exotic non-baryonic particles. There are three possible types of candidates [14]: 1) particles predicted by the supersymmetry hypothesis, which are electrically neutral and not strongly interacting, including superpartners of neutrinos, photons, Z bosons, Higgs bosons, gravitons, and others (neutralinos have been the most recently studied candidates in the last decades); 2) axions, typically with masses between 10−6 and 10−4 eV, predicted to resolve certain problems in quantum chromodynamics; and 3) Weakly Interacting Massive Particles (WIMPs), which are those particles that interact through the weak force.
+The latest attempts to search for exotic particles have also finished without suc-cess. Technologies used to directly detect a dark matter particle have failed to obtain any positive result [57, 49]. Attempts have also been made to detect neutralinos with the MAGIC and HESS Cerenkov telescope systems for very high energy gamma rays through their Cherenkov radiation, but so far without success and only emission associated with the Galaxy has been found [3]. Dwarf galaxies are expected to have high ratios of dark matter and low gamma ray emission due to other astrophysical processes so the search is focussed on these galaxies, but without positive results. As usual, the scientists involved in these projects attribute their failure of detection to the inability of the detectors to reach the necessary lower cross section of the in-teraction, or to tbe possibility that they may be 3–4 orders of magnitude below the possible flux of gamma rays emitted by dark matter [83], and ask for more funding to continue to feed their illusions: a never-ending story. As pointed out by David Merritt [63], this will never constitute a falsification of the CDM model because al-though success of detection will confirm the standard paradigm, non-detection is not used to discard it.
+
+Scenarios without non-baryonic cold dark matter
+Note also that some other dynamical problems in which dark matter has been claimed as necessary can indeed be solved without dark matter: galactic stability
+[93] or warp creation [52], for instance. Rotation curves in spiral galaxies can be explained without non-baryonic dark matter with magnetic fields [9], or modified gravity [81], or baryonic dark matter in the outer disc [31] or non-circular orbits in the outer disc [13]. Velocities in galaxy pairs and satellites might also measure the mass of the intergalactic medium filling the space between the members of the pairs [51, 52] rather than the mass of dark haloes associated with the galaxies.
+The most popular alternative to dark matter is the modification of gravity laws proposed in MOND (Modified Newtonian Dynamics; [82]), which modifies the New-tonian law for accelerations lower than 1 × 10−10 m/s2. This was in principle a phenomenological approach. It was attempted to incorporate elements that make it compatible with more general gravitation theories. The AQUAdratic Lagrangian theory (AUQAL) [11] expanded MOND to preserve the conservation of momentum,
+
+angular momentum, and energy, and follow the weak equivalence principle. Later, a relativistic gravitation theory of MOND would be developed under the name Tensor-Vector-Scalar (TeVeS) [12], which also tried to provide consistency with certain cos-mological observations, including gravitational lensing. However, the successes of MOND and its relativistic version are mostly limited to galactic scales and cannot compete with ΛCDM to explain the large-scale structure and other cosmological predictions. Moreover, a search was made for evidence of the MOND statement in a terrestrial laboratory: a sensitive torsion balance was employed to measure small accelerations due to gravity, and no deviations from the predictions of Newton’s law were found down to 1 × 10−12 m/s2 [48]. Therefore, unless these experiments are wrong, or we interpret the transition regime acceleration of 1×10−10 m/s2 in terms of total absolute acceleration (including the acceleration of the Earth, Sun, etc.) rather than the relative one, MOND/TeVes is falsified by this experiment.
+There are also proposals that the dark matter necessary to solve many problems may be baryonic: positively charged, baryonic (protons and helium nuclei) particles [26], which are massive and weakly interacting, but only when moving at relativis-tic velocities; simple composite systems that include nucleons but are still bound together by comparable electric and magnetic forces [58], making up a three-body system “tresinos” or four -body system “quatrinos”; antiparticles which have nega-tive gravitational charge [35], etc.
+In my opinion, the problem of ‘dark matter’ is not only one problem but many different problems within astrophysics that might have different solutions. The idea that the same non-baryonic dark matter necessary to explain the low anisotropies in the CMBR is going to solve the large-scale structure distribution, the lack of visible matter in clusters, the dispersion of velocities of their galaxies, the measurements of gravitational lensing, the rotation curves, etc., is a happy fantasy that has domi-nated astrophysics for the last 40 years. It would be wonderful if we also get a happy ending with the discovery of the particles of dark matter that constitute the dark halos of galaxies, but, in absence of that outcome, maybe it would be prudent to bet on a combination of different elements to explain the entire set of unexplained phe-nomena: possibly some baryonic dark matter in some cases, possibly a modification of gravity is part of the explanation for a wide set of events, and maybe cold dark matter dominates some phenomena and hot dark matter other phenomena. Cer-tainly, a unified picture of a unique non-baryonic type of cold dark matter to explain everything would be a simpler and more elegant hypothesis; the question, however, is not one of simplicity but one of ascertaining how reality is, whether simple or complex.
+
+Dark energy and the cosmological constant or quintessence
+The question of the cosmological constant to maintain a static universe [70] was considered Einstein’s biggest blunder, and it was introduced by Lemaˆıtre [46] in his equations for the evolution of the expanding universe. Indeed, it is equivalent to
+
+positing an

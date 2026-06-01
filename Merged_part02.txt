@@ -1,0 +1,1043 @@
+and the mentioned equations on charge conservation. In the simplest, but particular, case when all these chemical potentials are zero, the cosmological QCD plasma is C and CP symmetric. In presence of some non zero chemical potential C invariance is broken. CP invariance is also broken, unless the chemical potentials for a given sub-specie and its parity conjugate are exactly opposite. In summary, even when the net baryon charge of the universe is zero B = 0 chemical potentials for the different quark sub-species in the cosmological QCD plasma can be very large. Indeed, large quark chemical potentials
+in the cosmological QCD plasma should be naturally expected, even when globally constrained to  i µi  0, because C conjugation is largely violated by weak interactions. Moreover, cosmological CP violation is also generally believed
+to happen before the QCD phase transition, see below. For the development of non-zero chemical potentials the violating interaction must proceed in conditions of non equilibrium.
+The dynamics of the QCD phase transition in presence of large quark chemical potentials µi = 0 might be significa-tively different from the dynamics observed in current lattice simulations of the C and CP symmetric scenario when all µi 0. In fact, a quick glance at the phase diagram of QCD at non-zero µi suggests that in presence of large chemical potentials a direct phase transition from the quark-gluon plasma into lumps and antilumps of color super-conducting phase (avoiding the transition into conventional hadronic phase), or a mix of hadrons and antihadrons coexisting with lumps and antilumps, could be a plausible outcome of the phase transition at TQCD. In this case, the QCD phase transition could happen at temperatures as low as T < 0.57∆ 60 MeV, depending on the specific values of the chemical potentials of each quark sub-specie, and the stability and survival of the formed lumps would be immediately guaranteed. In addition, we will discuss below, in subsection III D, that once a large baryon fluctuation in the condensed CS phase is formed at temperatures just below the phase transition it could tend to grow by trapping more baryons from the surrounding ”normal” phase.
+Although these arguments, of course, do not prove that cosmological separation of phases indeed do happen at the QCD phase transition, they do show that a wide range of plausible cosmological scenarios could lead to a succesfull separation of phases. Obviously, our proposal is not committed, as we have said, to any of these particular mechanisms or any others that could be found suitable.
+
+Antimatter as dense color superconductor
+
+It is important to remark here that bounds that tightly constraint the presence of significant amount of antimatter in regions of the universe of different size scales are mainly derived from the phenomenological signatures of electromag-netic matter-antimatter annihilation processes [25]. These bounds do not strictly apply to the presence of antimatter stored in color superconducting phases if this kind of objects do not easily annihilate. Or in more precise words, if the rate of annihilation is highly suppressed. Here we want to use the physical picture of conventional superconductors to qualitatively explain why normal hadronic matter may not be annihilated, but reflected, by objects made of color superconducting antimatter. More detailed calculations which support the qualitative arguments presented in this section are presented in next Section 3.
+The peculiarities of the scattering process of conducting electrons from the metal at a superconductor junction are known to be a consequence of the energy gap ∆ in the spectrum of single particle excitations of the superconductor above the Fermi surface. The basic features of the interaction are discussed in a unified framework using Bogoliubov - de Gennes equations, see [11]. The observed phenomena can be explained in the following simple way. The conducting electrons of the metal, modelled as a gas of free fermions, inciding at the interface with energies much smaller than the energy gap ∆ cannot go through the interface simply because there is no any kinematically available state in the superconductor for a single electron. Therefore, conduction electrons from the metal inciding at the interface must, in principle, be reflected backward into the metal. This process is known in the literature as normal reflection at the metal-superconductor interface. There is, nevertheless, a peculiar way for an incident low energy electron to propagate into the superconductor known as Andreev reflection [29]: the incident electron excites an additional second
+
+8
+
+electron from the metal “sea” to form a Cooper pair (which can be excited in the superconductor without surpassing any gap barrier) and leaves a hole that propagates backward into the metal. In terms of particle physics concepts, Andreev reflection is an example of particle antiparticle pair creation, in which the particle (electron) joins the incident electron and together propagate inside the superconductor as a Cooper pair, while the anti-particle (hole) propagates backward. Normal reflection of the conduction electron as an electron and Andreev reflection of the electron as a hole compete and their relative probabilities are determined by the properties of the interface. In presence of a high potential barrier V (x) = νδ(x) at the interface which separates the metal and superconducting phases, classic normal reflection happens with probability close to one,  (e  e)  1, while the probability for Andreev reflection is effectively zero, (e e¯) 0 [11]. This limit is known in the literature on ordinary superconductors as classic interface, while the opposite situation when there is no barrier and Andreev reflection is most probable is known as metallic interface.
+Now, let consider an antiparticle (hole) from the metal inciding at the interface with the superconductor. The energy gap ∆ in the spectrum of single particle excitations in the bulk of the superconductor kinematically forbids a low energy, E < ∆, incident hole to penetrate the bulk of the condensed phase and annihilate with a paired electron, because the second electron of the couple should be promoted above the energy gap. Annihilation, therefore, cannot happen in the bulk of the superconductor. It could, nevertheless, happen at the interface if the resulting unpaired electron is expelled from the superconductor into the metal. In order to estimate the probability of this annihilation process, in which an incident hole is repelled as an electron off the superconducting phase, we notice that this process is nothing but the time reversal of the Andreev reflection discussed in the paragraph above. As time reversal symmetry is preserved in common superconductors, the probability for particle-antiparticle (hole) annihilation at the metal-superconductor interface must be equal to the well-known probability for Andreev reflection (particle-hole pair production). As we have remarked before, in presence of a high potential barrier V (x) = νδ(x) Andreev reflection is very suppressed at low energies E < ∆, which in turn implies that also electron-hole annihilation must be highly suppressed. These conditions offer us an explicit example of a normal-superconductor interface in which particle antiparticle (hole) annhilation can be avoided. To be more precise, the cross section for particle hole annihilation when the former is stored in superconductor phase can be largely suppressed when compared to the ordinary annihilation cross section in the metal. In these conditions the incident hole from the metallic phase is necessarily reflected back into the metal as a hole.
+We want to use this experience gained from the analysis of conventional superconductors for a qualitative under-standing of the interaction of “normal” hadronic baryons with chunks of quark matter or antimatter in CS phase, characterized by a very large gap ∆ 100 MeV in its spectrum of single particle excitations. We note that the inter-action at temperatures much below TQCD of hadrons inciding at the chunks of superconducting phase with kinetic energies much smaller than the gap E ∆ is not asymptotically free and cannot be simply described as a quark-CS phase interface in terms of the form factors of quarks in the hadron. In spite of that it is convenient and easier to discuss first the scattering of constituent quarks by balls/antiballs of CS phase. Incident quarks should be reflected off the bulk of the color superconducting phase, either baryonic or antibaryonic, with reflection coefficient close to one, similar to the case of high potential barrier interface in ref. [11], if they do not carry enough energy to penetrate the superconductor. This discussion is presented with explicit calculations in next section. In this case, the high potential barrier at the interface is produced by the large difference in the vacuum energies, or bag constants, that characterize the two phases in contact.
+It must be remarked that a proper analysis of annihilation processes of real incident quarks (rather than holes) at the interface with the antibaryonic CS phase must include the available mass at rest of the interacting particles, which could radically change the simple arguments presented here. In ordinary superconductors slow incident positrons can annihilate in the bulk and promote the unpaired electron above the gap because the mass at rest of positrons/electrons
+−3
+~ 0.5 MeV is many orders of magnitude larger than the energy gap ∆ ~ 10	eV in the superconductor. The situation
+is quite different for color superconducting quark matter. The gap ∆  100 MeV in CS phase is of the same order of magnitude than the typical mass of constituent quarks in the hadronic phase. Moreover, the effective masses of current quarks in the bulk of the dense CS phase are largely reduced by strong interactions. On similar grounds a large suppression factor 20-30 in the annihilation rate of antinucleons in dense ordinary nuclear matter (with respect to nucleon antinucleon annihilation in vacuum) was predicted in [30], after noticing that the lower effective masses reduce the available phase space for annihilation. The suppression factor should be expected to be much larger in the denser CS phase where the effective masses are even lower and the available phase space is further restricted by the large energy gap ∆. A detailed calculation of these effects is out of the scope of this paper. We wish simply to highlight that annihilation cross section of incident quarks can be largely suppressed when the antimatter is stored in dense droplets of the gapped dense color superconducting phase. As the individual quarks that form an inciding hadron have different quantum numbers than the Cooper pairs in the CS phase, we argue that for hadron to penetrate/annihilate the condensed phase the individual quarks need to cooperate coherently and, in consequence, the process is kinematically further suppressed.
+
+9
+
+Therefore, QCD anti-balls and balls, if formed, could behave as very stable, massive and solid soliton-like objects that carry large, negative or positive, baryon number and reflect off usual hadrons inciding on them. This feature, as we advanced in the Introduction, plays a crucial role in the explanation of the phenomenology of these “non-baryonic” droplets and how they interact with the surrounding hadronic matter after the universe cools down to temperatures well below TQCD. Such peculiar interaction features would imply that if the ball or antiball with small velocity v/c 10−3 enters a large massive object made of usual hadronic matter, for example the Earth, it will not necessarily decay by exploding. Rather it will go through the Earth leaving behind the shock waves. Direct searches of non-topological Q-balls, which have phenomenologically similar interaction features with ordinary matter, have been reported in [31]. At this point the search cannot rule out the existence in the present universe of a density of
+heavy solitons (or antisolitons) with |B | > 1017 and MB ≃ |B|mN in number large enough to explain the content of
+dark matter in the universe, nB¯ , nB ~ η nγ. In this context, it is tempting (but yet futile due to the short statistics)
+˜	˜	B
+to identify the recent seismic event with epilinear source[32] as the process which involves the dark matter particle, such as the balls of CS matter.
+The physical arguments presented in this section lead to the conclussion that the cross section for annihilation between matter and antimatter segregated in different phases may be highly supressed in comparison to the standard cross section in vacuum. As we have already noticed, this point is extremely important for the explanation of the phenomenology of color superconducting QCD anti-balls in the presence of surrounding “normal” baryons in the cold universe. Moreover, if the annihilation cross section is strongly suppressed as discussed above large amounts of antimatter could exist inside the present visible universe, thus avoiding current observational constraints.
+We wish to add one more comment to the last statement. The rate for matter antimatter annihilation is proportional not only to the cross section for the interaction, but also to the flux of collisions. In our previous discussions we have presented arguments which show that the cross section for matter antimatter annihilation can be largeley suppressed when the antimatter is stored in CS, non-hadronic phase. Now, we want to add that, in addition, the number of quark antiquark encounters per unit time and per unit volume when antimatter is stored in dense chunks of CS phase will be also largely reduced with respect to the case when both are in the same ordinary hadronic phase. Therefore, matter antimatter annihilation rate in the hypothetical scenario we have introduced is very supressed due to both of the two factors: suppression in the annihilation cross section and, moreover, suppression in the net flux of interactions. This favours the possibility that large amounts of antimatter could be stored in CS phase without violating current observational constraints.
+Indeed, we can estimate the total number of collisions between ordinary hadrons and the dense balls of color superconducting phase in a Hubble time. The average number density of balls/antiballs in the halo of the Galaxy is,
+n	 1 ρDM 	3
+˜B ~ B 1GeV with ρDM ~ 0.3GeV/cm and, thus, the number of collisions per hadron per unit time is given by
+
+dW
+dt = 4πR nB
+v	4πR2  1 ρDM  v,	(6)
+B 1GeV
+
+where v	10−3c and R	0.7 10−13B1/3cm is the typical radius of the balls/antiballs. Even if annihilation were 100% efficient (which is not the case as argued above), the resulting lifetime for hadron annihilation is much longer,
+dt  ~ 0.2 × B	≪ 1, than the present Hubble time, H ≃ 3 · 10 s, if one uses already existing observational
+constraint on such kind of objects, B	1018 [6, 31].
+The same result can be alternatively presented in terms of the fraction of the baryon charge of an antiball that would be annihilated in a Hubble time. The number density of hadrons in the ordinary phase is, on average, nB ~ 0.15ρDM  .
+Thus, the number of collisions per unit time in presence of a single QCD ball is given by
+dW = 4πR2n v	4πR2 0.15ρDM v.	(7)
+dt	B	1GeV
+Even if the annihilation is 100% efficient, the total (anti) baryon charge from anti QCD ball ∆B which will be destroyed by such annihilations during a Hubble time does not exceed
+∆B ≃ dW˜ · H ≤ 0.1B2/3,	(8)
+
+per QCD ball with charge B. This represents an exceedingly small part of the QCD ball, ∆B/B 0.1B−1/3 for sufficiently large B. If one uses already existing constraint on such kind of objects, B 1018, one concludes that there is no obvious contradiction of the suggested scenario with present observations.
+Obviously, complications derived from the non-uniform distribution of dark matter over astrophysical scales may modify this rough estimation. However, we do not expect that this complications will make qualitative changes to the arguments presented above. We should add, that more refined observations such as measurement of a single
+
+10
+
+511KeV line from the bulge (as observed by INTEGRAL), or galactic diffuse spectrum in the GeV range (“ GeV” excess) as observed by EGRET could be associated with annihilation of the visible matter with QCD (anti)balls. The corresponding analysis will be presented somewhere else [33].
+The possibility that small domains of antimatter of astrophysical or cosmological size may exist in the universe and they do not contradict current observations was discussed earlier [34] and it was even suggested that these antimatter domains could evolve into condensed antimatter astrophysical objects [35]. Our proposal is not based on antimatter domains of such a big astrophysical size, but on droplets of macroscopic size of CS phase, and we wish to notice that when antimatter is stored in the dense phase small volumes can, nevertheless, account for a large amount of antimatter.
+In summary, we have argued in this section that there might not be any phenomenological contradiction to the proposed scenario of the universe with zero total baryon charge, which is however distributed in two phases. The visible content consists of “ normal baryons ” in the hadronic phase with positive baryon charge, while the dark content is in the color superconducting phase( which contains both: positive as well as negative baryon charges).
+
+REFLECTION AND TRANSMISSION COEFFICIENTS
+
+We consider in this section the scattering of quarks and antiquarks off a surface separating color superconducting (CS) and plasma phases and calculate their reflection and transmission (R&T) coefficients. This calculation involves only perturbative dynamics of quarks at the Fermi surface, µ 400 MeV, while all nonperturbative physics is assumed to be parameterized by the diquark condensate. In order to avoid complications that may not be relevant at this stage the scattering problem is reduced to a one dimensional calculation of R&T coefficients, assuming that the typical size of the ball of condensed matter is much larger than all other scales involved in the scattering process.
+Our goal is twofold. First, we want to demonstrate that under certain conditions the reflection coefficient is exactly one (complete reflection) if the energy of the incoming quark or antiquark is smaller than the energy gap ∆ in the spectrum of single particle excitations of the CS phase. This is the main goal of this section. This feature, as we have remarked in previous sections, is very important for understanding the phenomenology of balls and anti-balls as dark matter during the epoch when the universe has cooled down to temperature well below ∆	TQCD. Such a phenomenon of total reflection of fermions off a superconducting region is well known in condensed matter physics in the interaction of conduction electrons of a metal at a high barrier junction with a conventional superconductor [11]. Our second goal is to demonstrate that at larger energies (such energies are typical when the temperature is high,
+T  ∆) there can be a net transport of baryon number through the interface into the CS phase. This feature is important to understand the mechanism of charge separation that could lock quarks/antiquarks in the form of balls/anti-balls during the phase transition. We wish to remark again that we do not pretend to prove with our simple discussion that separation in CS objects does in fact occur during the cosmological phase transition. We only pretend to show that the conditions needed for the separation to happen can be fulfilled: this discussion must be understood only as an indication that separation can happen.
+We should remark here that a similar scattering problem of particles off the interface region separating CS and hadronic phases was discussed previously in [36]. The analysis of these papers was motivated by the physics of neutron stars where CS phase is very likely to develop. Our context here is very different: we study the interactions of heavy objects made of condensed CS matter with the gas of hadrons that surround them during and after the cosmological QCD phase transition. However, the technique developed in [36] turned out to be very usefull and will be widely used in the analysis which follows. The equations that describe the interface are basically the same Bogoliubov - de Gennes equations used in the classic reference [11] to describe the ordinary metal superconductor junction, with the remark that reference [36] works with relativistic Dirac equation and [11] works in the non-relativistic Schrodinger framework. The specific features of the setup in [36] for describing the interface of phases in neutron stars match those we need for studying the process of formation of chunks of condensed color superconducting matter inside dense clouds of quark plasma during the QCD phase transition when T ∆. On the other hand, the features of the setup that appropriately describes the interface of CS and hadronic matter in the cold universe at temperatures well below the phase transition T  ∆ are significatively different, because in such environment the density of quarks outside the “nuggets” of CS matter is much lower than the density of baryon charge inside of the “nuggets” [44].
+Let us now start our detailed discussion with the effective lagrangian
+L = ψ¯a i∂ γµ — m + µγ0 ψa + {∆ab ψaT Cγ5ψb † + h.c.},	(9)
+which describes the relevant fermionic degrees of freedom at the interface. They are represented by Dirac field operators ψa(→x), with SU (3)c color index a = 1, 2, 3, for red, green and blue, and flavour index i = 1, 2, 3, for the three u,d,s light quarks. The three flavours are assumed, for simplicity, to be degenerate in mass. The matrices γµ are the usual
+
+11
+
+4D Clifford matrices and C = iγ0γ2 is the charge conjugation matrix. The region outside of the ball is modeled, for simplicity, by a gas of free quarks. The interface region between plasma and CS phases is parameterized by an
+effective order parameter that is proportional to the expectation value of the diquark condensate, ∆ab ∝ ⟨ψaT Cγ5ψb⟩
+
+in CS phase, and it is zero in the plasma phase. We keep only a single tensor structure
+ij	i	j
+
+∆ab(→x) = ∆(→x) δaδb — δaδb ,	(10)
+relevant for CFL (Color Flavor Locking) phase. In this expression ∆(→x) is treated as a background field. In the superconducting phase ∆(→x) = ∆CS 100 MeV is quite large and describes the energy gap in the spectrum of excitations. Outside the ball, where the system is treated as a plasma of free quarks, there is no Bose-condensation and ∆(→x) = ∆QP = 0.
+In the limit of three massless flavours of quarks the symmetry of QCD interactions is enlarged to allow axial and vector SU (3)A U (1)A SU (3)V U (1)B flavour rotations, in addition to color gauge transformations SU (3)c. Notice that one of the diagonal matrices of SU (3)V is the generator of electromagnetic gauge transformations. The diquark condensate spontaneously breaks the symmetry group SU (3)c SU (3)V SU (3)A into the global SU (3) diagonal subgroup of symmetry of lagrangian (9), which locks color and flavour indices[8]. All the gauge bosons acquire masses
+∆ via the Anderson-Higgs mechanism, except for a certain linear mix of the photon and one of the gluons that remains massless. Spontaneous breaking of the global symmetries leads to formation of nine pseudogoldstone bosons ( the octet of “pions”, and “η′” singlet, analogous to the pseudoscalar mesons in the hadronic phase), and a single massless scalar corresponding to superfluid collective mode of the broken U (1)B[8]. These light, spin zero fields can play an important role in transport properties, however they do not carry baryon charge and, therefore, will be ignored in what follows.
+
+Quasiparticles in the superconducting phase.
+
+The lagrangian density (9) yields to the Dirac equation:
+(i∂µγµ — m + µγ0)ψa — ∆abCγ5ψ¯bT = 0.	(11)
+For ∆ = 0 the wavefunctions of quark fields and their hermitian conjugates couple together and it is convenient to treat the hermitian conjugate of equation (11) as a second independent equation:
+ψ¯a(i ←  γµ + m — µγ0) — (∆ab)∗ψbT Cγ = 0.	(12)
+The tensor structure (10) allows to decouple the set of Dirac equations in four sectors: a) Three two-quarks channels (or 2SC sectors):
+ ugreen 	 ublue 		0	
+
+dred	,
+0
+0	,
+sred
+dblue sgreen
+	(13)
+
+
+
+b) One three-quarks channel (or CFL sector):
+
+
+
+ured
+dgreen	.	(14)
+sblue
+
+We discuss here the CFL sector, but the analysis of the three 2SC sectors is quite similar, [36]. In the CFL channel the set of Dirac equations can be written:
+(i∂µγµ — m + µγ0)	ured	— ∆ Cγ5 (d¯green + s¯blue)T = 0,
+
+(i∂µγµ — m + µγ0) dgreen — ∆ Cγ5	(u¯red + s¯blue)T	= 0 (i∂µγµ — m + µγ0) sblue — ∆ Cγ5 (u¯red + d¯green )T = 0.
+together with the hermitian conjugate expressions
+(15)
+
+
+u¯red
+←
+(i ∂ µ
+γµ + m — µγ0) — ∆∗ (dgreen
+
++ sblue
+
+)T Cγ5
+
+= 0,
+
+d¯green
+←
+(i ∂ µ
+γµ + m — µγ0) — ∆∗	(u
+
+red
++ sblue
+)T	Cγ5
+= 0,
+(16)
+
+s¯blue
+←
+(i ∂ µ
+γµ + m — µγ0) — ∆∗ (u
+
+red
++ dgreen
+)T  Cγ5
+= 0.
+
+12
+
+This set of six equations can be decoupled:
+(i∂µγµ — m + µγ0)χ	—  2∆  Cγ5 χ¯T	= 0,
+
+←
+χ¯(i ∂ µ
+γµ + m — µγ0) — 2∆∗  χT	Cγ5
+(17)
+= 0,
+
+
+
+(i∂µγµ	m + µγ0)ω1	+  ∆  Cγ5
+←
+ω¯ T = 0,
+
+(18)
+
+ω¯1(i ∂ µ γµ + m — µγ0) + ∆∗  ωT  Cγ5 = 0,
+
+
+(i∂µγµ	m + µγ0)ω2	+  ∆  Cγ5
+←
+ω¯ T = 0,
+
+(19)
+
+ω¯2(i ∂ µ γµ + m — µγ0) + ∆∗  ωT  Cγ5 = 0.
+for the three independent combinations of fields defined as follows, χ = ured + dgreen + sblue, ω1 = ured dgreen and ω2 = ured sblue. The three sectors are formally identical except for one important aspect that was already noticed in [36]: in the sector (17) the energy gap, that is, the energy thershold at which single particles can be excited in the superconductor, is 2 ∆ , twice the energy gap in the other two sectors (18) and (19). We limit our analysis to a single sector (18), so we omit the subscript for ω, and introduce the usual notation αi = γ0γi to simplify the equations,
+
+T
+(i∂ + i∂ αi — mγ0 + µ)ω	+  ∆  Cγ	ω†	= 0,
+
+t
+ω†(i ←
+i
+←
++i ∂ i
+5
+αi + mγ0 — µ) + ∆∗  ωT  Cγ5 = 0,
+(20)
+
+In the Dirac equations we are dealing with, the fermionic fields are quantum operators. However, in what follows, we neglect many body effects and treat ω ϕ(t, →x) and ω† ζ†(t, →x) as c-functions describing the single particle states[45],
+ ϕ(t, →x)  =  ΣΣs us(→q)αs(→q)  exp(—iEt + i→q · →x),	(21)
+where us(→q) and vs(—→q) are Dirac spinors which describe particles and antiparticle (or holes), respectively, and the subindex s =↑, ↓ denotes the two possible components of spin. They obey the equations
+(α→ →q + mγ0	µ)u (→q) = +κ u (→q),
+v†(—→q)(α→ · →q — mγ0 + µ) = —v†(—→q) κq→,	(22)
+
+where κq→ =	→q2 + m2	µ. The coefficients αs(→q),βs(→q) are c-numbers in this approach. They obey the Bogolubov - de Gennes equations. For α↑(→q) and β∗(→q),
+Eα↑(→q) = +κq→ α↑(→q) +∆β∗(→q),
+
+↓
+∗	∗	∗
+(23)
+
+Eβ↓ (→q) = —κq→ β↓ (→q) +∆ α↑(→q),
+and similar equations for α↓(→q) and β∗(→q),
+Eα↓(→q) = +κq→ α↓(→q) —∆β∗(→q),
+
+↑
+∗	∗	∗
+(24)
+
+Eβ↑ (→q) = —κq→ β↑ (→q) —∆ α↓(→q).
+There are two possible solutions of the uniform equations (21) for the superconductor, characterized by ∆	100 MeV, [36]:
+	e+i δ q E+ξ (Au (→q ) — Bu (→q ))	
+/
+
+ϕ(t, →x)
+†	=
+2	2E	↑  1
+/
+
+/	/
+↓  1	e−iEt+iq→1 ·→x
+
+
+	e+i δ q E−ξ (Cu (→q ) + Du (→q ))	
+
++
+
+/
+e−iδ
+
+q E+ξ (Cv†T (—→q ) — Dv†T (—→q )) 
+2  ,	(25)
+
+where ξ =	E2	∆ 2 and →q1,2 =	(µ	ξ)2	m2 and δ = arg(∆/ ∆ ). They describe single particle excitations
+in the superconductor.
+
+13
+
+The qualitative features of the scattering process at the interface between CS and plasma phases can be understood without explicit solving the equations. First of all, |∆| describe√s a gap in the spectrum of excitations in the CS phase.
+implies an exponential suppression in the wavefunctions. This means that a single quark with low energy cannot propagate in the superconductor because there is no any kinematically available state for such an excitatation. At such low energies the quarks from outside can only penetrate into the superconductor if they organize a Cooper pair, which can be excited without surpassing the gap energy, and leaving a hole that propagates backward in the metal. This phenomenom is known in condensed matter physics as the Andreev reflection at the interface between a metal and a superconductor [29]. Andreev reflection is an important phenomenom [11] when the potential barrier at the metal-superconductor interface is very low and the penetrability of the barrier is high. Otherwise, the normal reflection of low-energy incident electrons at the interface is the dominant process, as we will show in the coming subsection.
+
+Physics at the interface.
+
+We proceed in this section to write down the general equations which describe the interface of a plasma of quarks and the color superconducting phase. First, as there is no spin flip in the scattering process, we limit ourselves by considering the case B = D = 0 corresponding to a single spin sector. Furthermore, for the sake of simplicity we assume that the background field ∆(→x) depends only on the z spatial coordinate. Then, the wavefunctions ϕ(z) and ζ†(z) are invariant over the perpendicular spatial plane and the scattering problem can be reduced to a problem in one dimension. We can further simplify the problem while still capturing its essential features by considering a step-function background ∆(z) to separate the interface between the phase of free quarks/antiquarks and the superconducting phase: ∆(z) = 0, if z  0 and ∆(z) = ∆0  100 MeV, if z > 0. Then the set of equations can be solved separately in each of the two phases and the corresponding wavefunctions must be matched continuously at the interface z = 0. It must be noticed that the equations we need to solve are first order in the spatial derivative, and therefore we do not impose continuity conditions on the first derivatives [36]. This is a technical difference with respect to the treatment presented in the classical reference [11] of the interface between ordinary metal and superconductor, where electrons are described in the non-relativistic framework of Schrodinger’s quantum mechanics.
+In Sector I, which describes the free quarks/ antiquarks at z < 0 where ∆ = 0, the wave function (25) is a linear superposition,
+
+  ϕ+(z)	  u(k1)  ik1 z	′  u(—k1)  −ik1 z	′	0	ik2 z
+
+ζ† (z)	= A
+0	e	+ A
+0	e	+ B
+v†T
+e
+(—k2)
+,	(26)
+
+of the wave functions for an incident particle (first term, proportional to A), a reflected particle (second term, proportional to A′) and a reflected antiparticle (last term, proportional to B′). Obviously, an identical analysis can be done for the scattering of an incident antiparticle at the interface. The ratio |A′|2/|A|2 gives the probability for normal refle√ction at the interface; while √|B′|2/|A|2 will give the probability for Andreev reflection. In the expression
+of the incoming quark, m is its mass and µ1 is the quark chemical potential in the plasma. We have added a subindex to the quark chemical potential µ1 in the plasma phase to point out that it can be different from the chemical potential µ2 in Sector II, which describes the superconducting phase.
+In Sector II) at z > 0 the wave transmitted through the interface is a linear superposition
+
+  ϕ+(z)		e+iδ/2q E+ξ u(q1)	 iq1 z		e+iδ/2q E−ξ u(q2)	 iq2 z
+
+ζ† (z)
+= a 
+
+−iδ/2	E−ξ
+/
+2E
+
+T
+(—q1)
++ b 
+
+−iδ/2	E+ξ 2E
+
+T
+(—q2)
+,	(27)
+
+of a transmitted quasiparticle (first term, proportional to a) and a transmitted anti-quasiparticle (second term, proportional to b). In this expression q1,2 = + (µ2  ξ)2  m2 with ξ =  E2  ∆ 2. In the superconducting phase the chemical potential is much larger than the current masses of the quarks, m  µ2, which will be neglected in what follows. At energies E > ∆ larger than the gap in the spectrum of quasiparticles in the superconductor the ratios a/A 2 and b/A 2 give, respectively, the probability for an incident quark with energy E to be transmitted as a quasiparticle or anti-quasiparticle into the superconductor. As we have explained in previous sections, at energies E < |∆| lower than the gap in the spectrum of quasiparticles in the superconductor particles/antiparticles from the
+
+14
+
+plasma cannot propagate in the superconductor. This is manifest in the solution (27) because the transmitted wave is not a propagatting plane wave, but it decays exponentially.
+The solutions in Sector I) and Sector II) must match continuously at the interface z = 0, which demands
+
+Au(k ) + A′u(—k ) = aeiδ/2r E + ξ u(q ) + beiδ/2r E — ξ u(q )	(28)
+
+B′v†(—k ) = ae−iδ/2r E — ξ v†(—q ) + be−iδ/2r E + ξ v†(—q )	(29)
+
+The spinors u(p) and v†(p) are defined by equation (22) and they can be explicitly solved in the form:
+  (m + √p2 + m2)1/2 χ !
+/ / /
+
+
+
+v†(—p) = χ¯†(m — √p2 + m2 + 2µ)1/2, —χ¯†
+
+pσ3
+√
+! ,	(31)
+
+
+in terms of
+(m —
+p2 + m2 + 2µ)1/2
+
+χ =  1 
+
+χ¯† = (1, 0) .	(32)
+
+
+When these expressions are substituted in (28), (29) we obtain the final set of four equations that fix the four parameters A′, B′, a and b in terms of the normalization constant A:
+
+
+
+e−iδ/2 (A + A′)
+
+ m +
+qk2 + m2
+1/2
+= a
+E + ξ
+
+/
+2E
+
+(q2)1/4 + b
+E — ξ
+
+/
+2E
+
+(q2)1/4,	(33)
+
+
+e−iδ/2 (A — A′)	= ar E + ξ (q2)1/4 + br E — ξ (q2)1/4,	(34)
+/	/	/
+
+m + √k2 + m2
+1/2
+2E	1	2E	2
+
+
+	q	 1/2
+/	/	/
+
+ar E — ξ  2µ — qq2 1/2 + br E + ξ  2µ — qq2 1/2 ,	(35)
+
+
+
+e+iδ/2B′ 	k2	 =
+
+
+ar E — ξ	q1
+
+
+/
+2	1
++ br E + ξ	q2
+/
+
+/	/
+
+
+,	(36)
+
+/
+
+
+where in the r.h.s of the equations, which describes Sector II, we have neglected the current masses of the quarks, as discussed above. These equations completely define the interations at the interface.
+
+15
+
+Small energies, E < ∆.
+
+In this subsection we solve the set of equations (33)-(36) in the setup that appropriately describes the interface of a
+very diluted and cold plasma of quarks inciding with low energies E ≪ |∆| < µ on the much dense superconducting
+medium of the balls. The analysis of this section is relevant for the understanding of the phenomenology of the balls and anti-balls in the cold universe, at temperatures much below TQCD  160 MeV. Although in this environment the CS balls and anti -balls coexist with a dilute gas of hadrons, rather than free quarks, the simpler description of the plasma phase as a diluted gas of quarks makes easier to understand the basic features of the interaction of real hadrons with the CS matter.
+We specifically want to solve the equations (33)-(36) when the incident quark from the metal is non-relativistic
+k1,2  2m E  m. This description corresponds to an incident massive constituent quark with mass m  300 MeV.
+In this case the first two equations can be simplified in the form
+
+e−iδ/2 (A + A′) √2m + o( k1 ) ≃ ar+i|∆|(q2)1/4 + br—i|∆|(q2)1/4	(37)
+
+/
+m
+
+k1	 k1 2
+/
+2E	1
+
+r+i|∆|
+/
+2E	2
+
+r—i|∆|
+
+e
+
+which imply:
+(A — A ) √2m + o( m
+) ≃ a	2E (q1 )	+ b
+2E (q2 )
+(38)
+
+
+
+′ √	
+′  k1 	2
+
+and, therefore:
+(A + A )
+2m ≃ (A — A ) √2m + o([k1/m] ).	(39)
+
+
+A = —A′ + o([k1/m]2).	(40)
+The coefficient A′/A 2	1 is precisely the probability for normal refelection of an incident low energy quark at the interface with the superconducting medium. Total probability conservation then implies that the probability for Andreev reflection in the analyzed setup is largely suppressed, B′/A 2	o([k1/m]2). As we have discussed in the previous section this result implies, due to time-reversal invariance, that the probability of low energy quarks annihilating at the interface of a ball of antiquarks in color superconducting phase is also largely supressed, o([k1/m]2). The situation we just described corresponds to the interface of color superconducting balls (or anti-balls) and a system of free constituents quarks. As we mentioned, the relevant degrees of freedom outside the ball are not really the constituent quarks, but rather, hadrons made of confined quarks. However, the arguments we presented above should convince the reader that total reflection happens at the hadron-superconductor interface due to kinematic reasons not very sensitive to the confinement phenomena. Moreover, quantum numbers of individual quarks in a hadron do not exactly match those needed to form Cooper pairs in the superconductor, which implies that Andreev reflection of the hadron would demand a suppressed coherent collaboration of many quarks. This discussion explains why we claimed in the previous section that usual baryons colliding with the ball or antiball with a small energy v/c	10−3, will be
+mainly reflected by the ball/antiball.
+Many-body effects, which were completely ignored in these calculations, are not expected to change significatively the result of complete reflection of quarks and antiquarks off balls that we have described. Indeed, the annihilation of a quark with an antiquark coupled in a Cooper pair could be successful if the energy released from the annihilation is immediately transmitted to the second quark from the Cooper pair. In this case the second quark can receive sufficient energy to overcome the gap and propagate as a quasiparticle in the superconductor. The probability of this to happen is expected to be quite small because it involves interactions between many particles and, furthermore, the total energy available from the current masses of the annihilating quark and antiquark in the dense CS phase is just above or maybe even below the gap threshold as we argued in Section II D. The precise estimate of this contribution requires the use of quantum field theory methods where the many body effects are properly taken into account. Such estimates are beyond the scope of the present work, and shall not be considered here. Indeed these details will only slightly change the phenomenology of the balls/antiballs of CS matter/antimatter, but they will not change the most profound implications of the cosmological scenario introduced here. We also do not consider in this work, for the same reason, the physical interface region which is probably a mixture of nuclear and color superconducting phases.
+
+16
+
+The analysis of scattering in this case could be a very complicated problem. However, we expect that the noticeable suppression of the rate of matter antimatter anihilation still happens when the latter is stored in compact and dense objects of CS phase due to both a reduction in the cross section of the interaction and the reduction in the total flux of particle antiparticle collision events.
+
+Large energies, E ∼> ∆
+
+In the text below we present some results on physics at the interface of superconducting and normal matter at large energies comparable to the gap. Such a study is not directly relevant for the the main purpose of this paper, which is the understanding of the phenomenology of the QCD balls (anti -balls) at the present epoch when the Universe is cold and energies of particles surrounding the balls are very small. However, the study of these processes may give some insights about the mechanism of formation of the color superconducting regions during (or shortly after) the cosmological QCD phase transition (at T  ∆). Be adviced that we do not attempt to fully address the problem of formation of the balls, which would necessary include the analysis of the non-perturbative dynamics of strong interactions during the QCD phase transition. Such analysis is beyond the scope of the present work.
+It seems natural to think that the ball with the ground state to be the diquark condensate can form in a region where there already exists a large baryon density, that is, where µ is already large. Obviously, anti-balls are more prone to form in regions where there exists a large anti-baryon density. The formation of large fluctuations of baryon number during the cosmological QCD phase transition has been discussed in a number of papers. For example, large fluctuations could occur if a first order phase transition takes place, see [13] where some applications to Big Bang Nucleosynthesis have also been considered. In those papers it was shown that the fluctuations in baryon number in the quark-gluon plasma during the QCD phase transition have a tendency to accumulate large number of baryons and become denser with time. Some authors even have suggested that the large fluctuations in baryon charge could result in the formation of the ‘strangelets’ of quark matter originally introduced in [9]. Large baryon number fluctuations could also occur due to the axion related physics when the domain wall network with strong CP violation decays[6], provided that the universe is already C asymmetric due to weak interactions. This effect could also lead to the separation of baryon/antibaryon charges. Finally, we have observed in sub-section II C that even in a closely baryon symmetric B	0, but largely C and CP asymmetric, universe at the onset of the QCD phase transition there can exist large chemical potentials µi of different quark subspecies in the asymptotically free plasma (only constrained to
+i µi 0). In this context lumps of quark matter would naturally form at the end of the phase transition in quark sectors with large positive chemical potential µi > 0, while antilumps of quark antimatter would form in the sectors of quarks with large negative chemical potential µj < 0.
+We do not have much to add to this difficult subject on the dynamics of the QCD phase transition. It is not our goal to describe the nature of the fluctuations of baryon number which eventually may seed the formation of balls. Our remark is the following: all Sakharov’s conditions are satisfied when a fluctuations with a large baryon number in CS phase is formed, see below, and, thus, the condensed region could continue to grow in size by accumulating the quarks coming from the plasma of free quarks. Indeed, one can suggest a simple model to account for this phenomenon by considering the ball surrounded by the dense plasma of quark matter with relatively large µ. As we already mentioned, the set of equations that describe such a situation of the scattering of quarks at the interface has been solved previously in [36] in the context of the physics of neutron stars. There the transmission and reflection coefficients of quarks and holes (at high densities holes, rather than antiquarks, are the relevant quasiparticles) were calculated and it was shown that at energies E > |∆| there would be a net current of baryon charge through the
+interface,
+
+2  E2	∆ 2
+jz = 2µ2	√	.	(41)
+E +	E2 — |∆|2
+Indeed, it was shown that in these conditions incident quarks from the surrounding plasma can only be transmitted through the interface or Andreev reflected. Both processes contribute to the net transport (41) of baryon number into the condensed phase: ∆B = +1 when the incident quark is transmitted into the bulk of the supreconducting phase and ∆B = +2 when the incident quark is reflected into the plasma as a hole with baryon charge B = -1. Therefore, Andreev reflection (largely suppressed at energies E  ∆ ) could be an important mechanism that leads to the growth of balls/anti-balls, which eventually leads to matter antimatter separation, at temperatures (energies) T < |∆|.
+
+17
+
+MECHANISM OF SEPARATION OF BARYONIC CHARGES
+
+The main point of this work is that formation of the cosmological dark matter and baryon asymmetry are closely related phenomena and originated from the same physics during the QCD phase transition. Therefore, the mecha-nism of formation of the dark matter is essentially the same physical process which produces the baryon-antibaryon separation. The mechanism how a chunk of dense matter (which is identified with the dark matter) is formed during the QCD phase transition might include new particles or fields or might require a strong first order phase transition, but those are questions that shall not be addressed in detail here. We simply assume that such kind of objects made of condensed quark matter can be formed. Our goal here is to discuss some general requirements which should be satisfied to have a succesful separation mechanism of the baryon charges which leaves a net positive baryon number in the ordinary hadronic phase.
+
+Sakharov’s Criteria
+
+All three Sakharov’s criteria [1] are satisfied (in a looser sense) during the formation of the balls of CS phase, without the need to introduce any new physics beyond the standard model (except for, maybe, a solution for the strong CP problem in QCD). Indeed,
+The diquark condensate ψT Cγ5ψ = 0 forms in a local spatial region, or in a sector of quarks, where the chemical potential µi is large. The net quark density breaks C and CP symmetries.
+The diquark condensate ψT Cγ5ψ = 0 formed in the CS phase spontaneously breaks the baryon symmetry.
+The dynamics of the QCD phase transition may provide the non-equilibrium conditions when the balls of the condensed phase are formed, if the transition does not proceed adiabatically; futhermore, the diquark condensate
+⟨ψ  Cγ  ψ⟩ =/	0 form within a local region or quark sector of large chemical potential, which violates CPT symetry.
+It has been known for a while that these three ingredients (notice in particular spontaneous, rather than explicit, breaking of the baryon symmetry) can be responsible for a mechanism of charge separation (see e.g. [3] and review paper[19], where some simple toy models were discussed to explain the phenomenon of charge separation), which do not generate a net baryon number.
+Given these three ingredients, lumps of condensed quarks, as well as, antilumps of condensed antiquarks can both form in cosmologically large comoving volumes. In order to produce a separation of charges that hides a net excess of antibaryons over baryons in these balls and antiballs, and leaves an equal but positive excess of hadrons over antihadrons, one more ingredient is necessary:
+Cosmological dynamics before or at the onset of the QCD phase transition must develop large C and CP asymmetries homogeneously over the whole comoving visible universe.
+The large cosmological C, CP asymmetries are stored in large chemical potentials µi in the different quark sectors (constrained to  i µi = 0, if the net baryon number of the universe is zero B = 0). The development of these net quark densities can proceed before the QCD phase transition due to independent processes, see below. Obviuosly, in
+order to develop net quark densities these C and CP violating processes must proceed in out-of-equilibrium conditions.
+
+Hierarchy of spatial scales
+
+We must make some specific emphasis on the spatial correlation scales of the sources of violation of the different symmetries due to the formation of the condensate. We will discuss four fundamentally different spatial scales: the
+QCD scale, ~ T −1 , determined by the fundamental physics involved in this scenario; the typical scale of the balls,
+
+√3   −1
+QCD
+QCD
+~ 10−3 cm, where B ~ 1018 up to B < 1040 for the configurations discussed in [4, 5, 6]; the comoving
+
+Hubble horizon H−1	~ 30 km at the QCD phase transition; and, finally, the present Hubble horizon H	≪ HQCD.
+In the picture we advocate in this work, the universe carries zero total baryon number B = 0 but it is not invariant
+under C or CP transformations, because it has an excess of baryons in the hadronic phase (visible matter) and an excess of antibaryon number stored in the CS phase (dark matter). Such cosmological C and CP asymmetries have a very large correlation length ~ H−1 comparable to the size of the present horizon, which is the typical scale where of the object√s  where baryon symmetry is spontaneously broken by˜the Bose-condensate is of the order of the size of
+
+still very small in comparison with the comoving Hubble horizon H−1	and, therefore, much smaller than Hubble
+horizon at the present time H−1. Therefore, if the universe was globally C and CP symmetric on the Hubble scale at the onset of the cosmological QCD phase transition, equal number of balls and antiballs would be formed in the
+
+18
+
+comoving Hubble volume leaving no net baryon number in the hadronic phase. On the contrary, in presence of large and homogeneous C and CP asymmetries over cosmological scales (condition 4 in the previous subsection), the excess in the number density of anti-solitons over the number density of solitons is naturally of order one, nB¯ nB nB¯ , nB, as we assumed in our estimation of the ratio ΩDM /ΩB in Section 2. This excess fixes in fact the number density of remnant baryons which are left in the hadronic phase, without any need of fine tuning.
+What could be then the source of the cosmological C and CP asymmetries? The important observation needed here to answer this question is that cosmological C and CP asymmetries must not necessarily be produced at the same instant of the QCD phase transition but could, instead, have been generated at some earlier stages by any other independent mechanism. In particular, the source of the cosmological C asymmetry is very natural because C is largely violated by weak interactions and, therefore, there is no reason to expect that the universe would be C invariant at the onset of the QCD phase transition. The origin of the large scale CP asymmetry of the universe, on the other hand, is still unknown. It is thought it must rely on physics beyond the standard model during the very early history of the universe, because the only known CP phase in the CKM matrix seems to be unable to do the work. We remark that any new CP cource in extensions of the standard model (say, supersymmetric phases, neutrino interactions,...) could be fit to generate a large cosmological CP asymmetry before the QCD phase transition in the scenario that we are introducing. Other possibility to consider in this context is that cosmological CP asymmetry may be related to the same mechanism which eventually solves the so-called strong CP problem. To this day the preferred solution to the strong CP problem is the dynamics of the hypothetical axion field. At temperature T TQCD the strong CP phase has not yet relaxed to its ground state and thus might be of order unity, θ(TQCD) 1, so that CP is largely violated. If this mechanism is supposed to generate an homogeneous asymmetry over the whole visible universe it is specifically required that the initial value θ(TQCD) is the same everywhere in the entire observed Universe. This will occur, for example, if the Universe underwent inflation during or after the Peccei-Quinn symmetry breaking at T 1015 GeV, which is the standard assumption in the axion- related physics. This explicit source of CP violation relaxes to zero θ(T = 0) = 0 soon after the QCD phase transition is completed and the chiral condensate is formed. At this point the axion field is settled at its minimum. In conclusion: a wide variaty of possible mechanism could drive the universe to become C and CP globally asymmetric before or during the QCD phase transition while the total baryon number remains equal to zero. Our proposal of charge asymmetric cosmological separation of phases is not commited to any of these or other possible source of CP violation.
+
+
+Estimation of the baryon excess nB/nγ
+
+We want to introduce the discussion of this section with a paragraph from the textbook The Early Universe, by
+Kolb and M. Turner [38] where the idea of baryon-antibaryon separation at the QCD scale (rather than generation of a net baryon number) is explicily mentioned,
+“In a locally baryon symmetric universe nucleons and antinucleons remain in chemical equilibrium down to a temperature of 22MeV , when nB/nγ = nB¯ /nγ 7 10−20, a number that is 9 orders of magnitude smaller than the observed value of nB/nγ. In order to avoid the annihilation catastrophe an unknown physical mechanism would have to operate at a temperature greater than 38 MeV, the temperature when nB/nγ = nB¯ /nγ 8 10−11 and separate nucleons and antinucleons.”[46]
+If there is a mechanism of segregation of quarks and antiquarks (into hadronic and color superconducting phases ) during or immediately after the QCD phase transition, and the universe is largely C and CP asymmetric already at
+an excess of hadrons over anti-hadrons of order nB — nB¯ = B(n˜B¯ — n˜B). This excess is preserved until today as
+a net remnant density of hadronic baryons once the hadron antihadron annihilation has been completed when the temperature reaches 22MeV , nB  nB¯  nB. Therefore, the theoretical calculation of the present ratio nB/nγ in the hypothetical scenario that we are discussing is reduced to the calculation of the corresponding time (temperature Tform) when the balls/antiballs complete their formation. This temperature would be determined by many factors: transmission/reflection coefficients, evolution of the balls, expansion of the universe, cooling rates, evaporation rates, maybe dynamics of the axion domain wall network, etc. All these effects are, in general, of the same order of magnitude. Therefore, a precise theoretical calculation of Tform in this context is a very difficult task.
+To reproduce the precise observational value of the baryon number in the hadronic phase
+
+η	nB — nB¯ nγ
+nB	−10
+≃ n  ~ 10	,	(42)
+
+within this scenario, the magnitude Tform must be precisely
+Tform ≃ 41 MeV	(observation),	(43)
+
+19
+
+according to the relation nB ~ exp —  mN   and the methods described long ago [38]. It should be noticed that the
+ratio (42) is very sensitive to the precise value of the temperature Tform: small variations in the value (43) by a few MeV would change the ratio (42) by several orders of magnitude. This should not be interpreted as a need for fine tuning. Indeed, it is only a consequence of the fact that the cosmic time scale, measured by the temperature of the universe, is very long compared with the characteristic QCD time scale.
+With this point in mind, it is clear that any theoretical estimation of Tform must be obtained with high precission if we want to confront it with the precise observational data. Unfortunately, such theoretical calculation is not feasible at this time. A very rough estimation of Tform is possible, it can be easily obtained by noticing that the balls/antiballs become completely opaque [47] for the baryon charge in both directions for incident particles with energies much lower than the gap ∆. Independently, we know that the BCS type phase transition from quark gluon phase to color superconductivity takes place at temperature Tc 0.6∆ [7, 8]. For the standard value of the energy gap ∆ = 100MeV , Tc 60 MeV . The typical energies of particles at this temperature will be also of the same order. Therefore, one should expect that when temperature drops by some factor 1/2 or so, the number of particles with relatively high energy capable to overcome the gap barrier will be tiny. Then, most of the particles will be reflected at such temperature. We expect that at this point the balls complete their formation period, and the thermodynamical equilibrium of the balls with the environment will be settled. Therefore, the temperature of formation Tform can be roughly estimated to lie in the interval,
+
+1	<
+30 MeV ≃ 2 Tc ∼
+
+<
+form ∼
+
+c ≃ 60 MeV,	(44)
+
+which should be compared with the “observational” value (43). The factor 1/2 in this estimate is, of course, a quite arbitrary numerical factor which accounts for a suppression of the density of particles with sufficient energy to surpass the energy gap ∆. Even this rough and quite arbitrary estimation can only predict a value for η within a window of several orders of magnitude.
+Notwithstanding the lack of precission of our estimation, there is an essential feature that makes this scenario physically attractive: the baryon to photon ratio is fixed in this scenario by the scale Tform at which the mechanism of separation operates, while in most other suggested scenarios the models generally lack a natural scale in the problem that fixes the ratio η.
+
+DISCUSSION
+
+We have discussed a cosmological scenario where the universe is largely C and CP asymmetric, but carries zero baryon number. Large amounts of quarks and antiquarks would be stored in very heavy chunks of matter or antimatter in the color superconducting phase that would have formed during the cosmological QCD phase transition. We argue that the process of formation can leave an excess of baryons over antibaryons in the hadronic phase.
+We have studied possible phenomenological constraints on this scenario and have concluded that the scenario is not ruled out and even not tightly constrained by available data. In particular, current constraints on antimatter in the universe would not directly apply to our scenario because chunks of antimatter do not easily annihilate with the normal (hadronic) matter. This is a consequence of the well-known features of the interaction of normal matter at the interface with a superconductor and, esentially, the small volume occupied by the balls/antiballs and their extremely low number density.
+The chunks of dense matter would contribute to the “nonbaryonic” dark matter of the universe, in spite of their QCD origin, because the baryon charge stored in the diquark condensate would not be available for nucleosynthesys. Therefore the baryon charge locked in the chanks of dense matter does not contribute to ΩBh2 0.02. Direct searches of of non-topological solitons carrying net baryon number has been reported in [31]. These observational data neither
+can rule out the range of parameters B > 1017 and M ~ BmN , in which the balls of condensed quarks/antiquarks
+would be termodynamically stable [5, 6].
+The most profound consequences of the scenario are formulated in section II B and section IV C:
+We have shown in section II B that the ratio ΩDM /Ω  > 1 can be naturally understood as a direct consequence
+of the underlying QCD physics, and it is related to the fact that both contributions are originated at the same instant during the QCD phase transition. As it is known this ratio is very difficult to understand if both contributions to the energy density of the universe do not have the same origin.
+In section IV C we have shown that the fundamental ratio (42) can be naturally understood without any fine tuning parameters as a direct consequence of the underlying QCD physics. This ratio is determined by the temperature Tform (43) when the balls complete their formation. This temperature falls exactly into the appropriate range (44) of values where the baryon density can assume its observed value (42).
+
+20
+
+Therefore, the “exotic”, dense color superconducting phase in QCD, might be a much more common state of matter in the Universe than the “normal” hadronic phase we know. In conclusion, qualitative as our arguments are, they suggest that baryogenesis can proceed at the QCD scale, and might be tightly connected with the origin of the dark matter in the Universe. The scenario proposed in this paper offers a framework wherein to carry out calculations of cosmological parameters ΩDM /ΩB as well as η nB/nγ. Both parameters offer well-defined testable predictions, although the present lack of theoretical and experimental knowledge on the QCD phase transition makes impossible for now to lay down this predictions more precisely than we have done in this paper.
+In spite of the intrinsic difficulties to test directly the ideas introduced in this paper, it would be very intersting to check how can they be probed by a laboratory type experiment in the spirit of the Program Cosmology in the Laboratory(COSLAB). Over the last few years several experiments have been done to test ideas drawn from cosmology and astrophysics(see [40] and web page[41] of the latest COSLAB meeting for further details). Ideally, the first test of the ideas introduced in this paper should be the confirmation of the features of the interaction of hadrons at the interface with a color superconducting phase discussed in section 3. We suggest that these features might be tested in the scattering of low energy positrons and electrons by a conventional superconductor in some regime which would be analogous to the cosmological environment.
+This scenario with no doubt leads to important consequences for cosmology and astrophysics, which have not been explored yet. In particular, the recent detection[32] of the seismic event with epilinear (in contrast with a typical epicentral ) sources may be related to a soliton-like dark object, which could be the very dense balls. Also, the cuspy halo problem in dwarf galaxies might be related to some kind of interacting [39] or annihilating cold dark matter in the denser regions of galaxies and clusters, which could be related to the balls discussed in this work. Last, unexpected excess of photons measured by a number of collaborations may also be related to the balls. In particular, 511 KeV line emission from the galactic bulge [42, 43] could be related to the excess of positrons (electrons) surrounding the QCD anti-balls (balls). Also, the excess of 100 MeV photons could be related to the decay of goldstone modes propagating in the bulk of the balls. We expect many other consequences which have not been explored yet.
+
+Acknowledgments
+
+We are thankful to Sasha Dolgov for useful discussions, critical comments and nice remarks. We are also thankful to other participants of the “Baryogenesis Workshop”, (MCTP, Ann-Arbor, June 2003) where this work was presented. One of us (AZ) thanks Michael Dine, Lev Kofman, Slava Mukhanov and Alex Vilenkin for discussions and comments. We are also thankful to Michael Peskin for discussions during his visit to Vancouver. DO also wants to thank
+T. Pereg-Barnea, J.C. Cuevas and J. Oaknin for explaining to him important concepts.
+This work was supported in part by the National Science and Engineering Research Council of Canada. The financial support of Michigan Center for Theoretical Physics is greately appreciated.
+
+References
+
+
+
+
+A. Sakharov, Pisma Zh. Exsp. Teor. Fiz. 5 (1967) 32.
+D. Kaplan, Phys. Rev. Lett. 68, 741 (1992).
+S. Dodelson and L. M. Widrow, Phys. Rev. D 42, 326 (1990);
+J. Madsen, Phys. Rev. Lett. 87, 172003 (2001)
+G. Lugones and J. E. Horvath, Phys. Rev. D 69, 063509 (2004).
+A.R. Zhitnitsky, JCAP 10 (2003), 010; Nucl. Phys. Proc. Suppl. B 124, 99 (2003)
+M. Alford, K. Rajagopal, and F. Wilczek, Phys. Lett. B422, 247 (1998); R. Rapp, T. Sch¨afer, E.V. Shuryak, and M. Velkovsky, Phys. Rev. Lett. 81, 53 (1998).
+K. Rajagopal and F. Wilczek, arXiv:hep-ph/0011333 ; M. G. Alford, arXiv:hep-ph/0102047; T. Schafer and E. V. Shuryak, Lect. Notes Phys. 578, 203 (2001) [arXiv:nucl-th/0010049].
+E. Witten, Phys. Rev.D 30 (1984) 279.
+B.A. Freedman and L.D. McLerran, Phys. Rev. D 16 (1977) 1130; Phys. Rev. D 16 (1977) 1147; Phys. Rev. D 16 (1977)
+1169; Phys. Rev. D 17 (1978) 1109.
+G.E. Blonder, M. Tinkham and T.M. Klapwijk, Phys. Rev. B 25, (1982) 4515.
+C. Alcock and E. Farhi, Phys. Rev. D32 (1985) 1273; J. Madsen, H. Heiselberg and K. Riisager, Phys. Rev. D34 (1986) 2947; C. Alcock and A. Olinto, Phys. Rev. D39 (1989) 1233.
+
+21
+
+J. H. Applegate and C. J. Hogan, Phys. Rev. D 31, 3037 (1985); K. Kajantie and H. Kurki-Suonio, Phys. Rev. D 34, 1719 (1986); G. M. Fuller, G. J. Mathews and C. R. Alcock, Phys. Rev. D 37, 1380 (1988); K. Sumiyoshi, T. Kajino,
+C.R. Alcock and G.J. Mathews, Phys. Rev. D 42, 3963 (1990); B. S. Meyer, C. R. Alcock, G. J. Mathews and G. M. Fuller, Phys. Rev. D 43, 1079 (1991); A. Bhattacharyya, J. e. Alam, S. Sarkar, P. Roy, B. Sinha, S. Raha and P. Bhattacharjee, Phys. Rev. D 61, 083509 (2000); J. B. Rehm and K. Jedamzik, Phys. Rev. D 63, 043509 (2001).
+E. Fahri and R. Jaffe, Phys. Rev.D 30 (1984) 1601; Phys. Rev.D 30 (1984) 2379.
+Jes Madsen, Physics and Astrophysics of strange Quark Matter, astro-ph/9809032.
+R. Friedberg, T.D.Lee, A. Sirlin, Phys. Rev.D 13 (1976) 2739; T.D.Lee, Phys. Rev.D 35 (1987) 3637.
+S. R. Coleman, Nucl. Phys. B 262, 263 (1985) Erratum-ibid. B 269, 744 (1985); A. Kusenko and M. E. Shaposhnikov, Phys. Lett. B 418, 46 (1998) arXiv:hep-ph/9709492; A. Kusenko, V. Kuzmin, M. E. Shaposhnikov and P. G. Tinyakov Phys. Rev. Lett. 80, 3185 (1998) arXiv:hep-ph/9712212.
+K. Enqvist and J. McDonald, Phys. Lett. B 425, 309 (1998) arXiv:hep-ph/9711514; K. Enqvist and J. McDonald Nucl. Phys. B 538, 321 (1999) arXiv:hep-ph/9803380 M. Laine and M. E. Shaposhnikov Nucl. Phys. B 532, 376 (1998) [arXiv:hep-ph/9804237]. R. Brandenberger, I. Halperin and A. Zhitnitsky, hep-ph 9808471, hep-ph/9903318
+A. D. Dolgov, hep-ph/9707419; astro-ph/0207441; F.W.Stecker, hep-ph/0207323.
+R. Peccei and H. Quinn, Phys. Rev. Lett. 38 (1977) 1440.
+S. Weinberg, Phys. Rev. Lett. 40 (1978) 223; F. Wilczek, Phys. Rev. Lett. 40 (1978) 279.
+J.E. Kim, Phys. Rev. Lett. 43 (1979) 103; M.A. Shifman, A.I. Vainshtein, and V.I. Zakharov, Nucl. Phys. B166 (1980) 493(KSVZ-axion).
+M. Dine, W. Fischler, and M. Srednicki, Phys. Lett. B104 (1981) 199; A.R. Zhitnitsky, Yad.Fiz. 31 (1980) 497; Sov. J. Nucl. Phys. 31 (1980) 260 (DFSZ-axion).
+J.E. Kim, Phys. Rept. 150 (1987) 1; H.Y. Cheng, Phys. Rep. 158 (1988) 1; L. J. Rosenberg and K. A. van Bibber, Phys. Rept. 325, 1 (2000); M. Srednicki, hep-th/0210172.
+A. D. Dolgov, Phys. Rept. 222, 309 (1992); A. G. Cohen, A. De Rujula and S. L. Glashow, Astrophys. J. 495, 539 (1998);
+M. Y. Khlopov, S. G. Rubin and A. S. Sakharov, Phys. Rev. D 62, 083505 (2000); A. D. Dolgov, Nucl. Phys. Proc. Suppl.
+113, 40 (2002)
+M. Dine and A. Kusenko, arXiv:hep-ph/0303065.
+D. N. Spergel et al., arXiv:astro-ph/0302209; E. Komatsu et al., arXiv:astro-ph/0302223; C. B. Netterfield et al. [Boomerang Collaboration], Astrophys. J. 571, 604 (2002) [arXiv:astro-ph/0104460]; C. Pryke, N. W. Halver-son, E. M. Leitch, J. Kovac, J. E. Carlstrom, W. L. Holzapfel and M. Dragovan, Astrophys. J. 568, 46 (2002) [arXiv:astro-ph/0104490]; R. Stompor et al., Astrophys. J. 561, L7 (2001) [arXiv:astro-ph/0105062].
+R. H. Cyburt, B. D. Fields and K. A. Olive, arXiv:astro-ph/0302431.
+A.F. Andreev, ZH. Eksp. Teor. Fiz. 46 (1964) 1823 [ JETP 19 (1964) 1228].
+T. Burvenich et al, Phys. Lett. B 542 (2002) 261; I.N. Mishustin et al, nucl-th/0404026.
+J. Arafune, T. Yoshida, S. Nakamura, K. Ogure, Phys. Rev. D 62, 105013 (2000).
+D. P. Anderson, E. T. Herrin, V. L. Teplitz and I. M. Tibuleac, arXiv:astro-ph/0205089, to appear in the Proceedings DM 2002, February 2002, Marina Del Rey, CA, USA.
+D.H. Oaknin and A. Zhitnitsky, hep-ph/0406146.
+M. Yu. Khlopov et al, Astropart. Phys. 12, 367 (2000)
+M. Yu. Khlopov, Gravitation & Cosmology 4 (1998) 1.
+M. Sadzikowski, Acta Phys. Polon. B 33, 1601 (2002) [arXiv:hep-ph/0201212]; M. Sadzikowski and M. Tachibana, Phys. Rev. D 66, 045024 (2002) [arXiv:hep-ph/0201223]; M. Sadzikowski and M. Tachibana, Acta Phys. Polon. B 33, 4141 (2002) [arXiv:hep-ph/0208037].
+I. A. Shovkovy and P. J. Ellis, Phys. Rev. C 66, 015802 (2002) [arXiv:hep-ph/0204132].
+E. Kolb and M. Turner, The Early Universe, Ed. Perseus Publishing, Cambridge, Massachusetts.
+R. Cen, ApJ, L77, 546 (2001); F.J.Sanches-Salcedo, ApJ, 2003, in press (astro-ph/0305496); M.Oguri et al. astro-ph/0306020
+G. E. Volovik, Phys. Rept. 351, 195 (2001) [arXiv:gr-qc/0005091]. G. E. Volovik, The Universe in a Helium Droplet. Oxford University Press, Oxford, (2003).
+THIRD COSLAB workshop, July 10-16, 2003, Bilbao, Spain, http://www.ehu.es/COSLAB
+J. Homan, R. Wijnands,M.P. Rupen,R. Fender,R.M. Hjellming,T. di Salvo and M. van der Klis, astro-ph/0309442.
+P. Jean, J. Knoedlseder, V. Lonjou, M. Allain, J.-P. Roques, G.K. Skinner, B.J. Teegarden, G. Vedrenne, P. von Ballmoos,
+B. Cordier, P. Caraveo, R. Diehl, Ph. Durouchoux, P. Mandrou, J. Matteson, N. Gehrels, V. Schoenfelder, A.W. Strong,
+P. Ubertini, G. Weidenspointner, C. Winkler, Astron.Astrophys. 407 (2003) L55 [astro-ph/0309484].
+Of course, there is no any physical jumps in chemical potentials between these two phases. However, we model the interface region (which probably includes a mixture of hadronic matter as well as nuclear matter) as a sharp θ(x) function assuming that the inverse width of the interface region is much larger than any other scales of the problem.
+Similar procedure was adopted in [36], after [11], where the c-functions were defined in terms of the corresponding one-particle matrix elements. This procedure is well justified when the chemical potential µ is large because the many body effects are strongly suppressed in this case.
+The value of the baryon to photon ratio stated in this paragraph is, in fact, an old estimation. The value reported by
+−10
+the WMAP collaboration nB/nγ ∼ 6 × 10	is an order of magnitude larger. Therefore, the temperature at which
+the mechanism of baryon separation should operate need to be somewhat larger ∼ 41MeV than 38MeV stated in this paragraph.
+
+22
+
+It is a simple exercise to estimate the number of collisions between ordinary hadrons and balls/antiballs of CS phase in a Hubble time as a function of the temperature T ∼< Tform, as we did in Section II D for the average number densities in the Galaxy at present time, and show that annihilation events are already suppressed immediately after the balls complete their formation.
+
+8D Cosmic Void Topological Life Theory: Implosion at Full Degrees of Freedom and Local Geometric Coupling of the Quantum Vacuum
+Name：SYU JIA WUN
+Affiliation ：independent researcher Author：Taiwan
+e-mail：s2227716@gmail.com ORCID: 0009-0008-6494-9692
+Academia:https://wunsyu.academia.edu/ My osf： osf.io/67rba
+I am an independent researcher currently developing an integrated theoretical framework
+that unifies causality, mathematics, cosmology, entropy, and philosophy.
+
+If you find value in these explorations, your support would be sincerely appreciated. Support via Cryptocurrency (ETH/USDT/USDC): 0x6f78Fe05282473ADA04447c57557A0472AEce49B
+
+Abstract
+Under the geometric dynamics framework of the Grand Unified Theory of the Cosmic Mind (GUTCM), the topological evolution of the substantive universe's large-scale structure (Cosmic Web) does not converge at the geometric phase state of the "7D Decentralized Galactic Network." This research aims to thoroughly deconstruct "Cosmic Voids"—viewed by traditional astronomy as thermodynamic dead silence and gravitational nothingness—formally establishing their ontological reality as "8D Cosmic Void Topological Lifeforms" possessing limit self-organization capabilities and phase space expansiveness.
+This paper demonstrates that if a 6D star fails to successfully forge a Möbius Coupling to execute cross-dimensional inside-out inversion, at the Planck instant when the evolutionary geodesic of its internally encapsulated microscopic universe advances to "Full Degrees of Freedom (Ω→1)," the system inevitably triggers an "Ontological Overflow." The localized Information Mass (Minfo) of the star mathematically approaches a pseudo-infinity at the
+
+limit, thereby triggering a "Supernova Explosion" in the macroscopic manifold. This phase transition is precisely equivalent to a microscopic Big Bang singularity; the limit topological repulsive force it releases radiates outward, triggering a dual geometric phase transition in the external quantum vacuum (VQ): in matter-dense regions, the repulsive vector forcibly stretches open the localized quantum vacuum grid, forging a brand-new cosmic void; whereas inside existing voids, it undergoes extreme "Strong Coupling" with the native quantum grid.
+This research further reveals that the quantum vacuum inside the void is, in essence, a 3D orthogonal vector matrix possessing high-entropy fluctuations. When expanding repulsive force vectors collide and satisfy the limit boundary conditions of equal magnitude and opposing directions, the applied forces will follow the topological mechanics of a "spin deadlocked gear train," curling around each other and forging a localized information deadlock network. This self-organizing quantum vacuum grid filling the macroscopic phase space is precisely the physical entity of the 8D Cosmic Void Lifeform.
+Ultimately, this model establishes that the network topological architecture of this 8D lifeform is strictly controlled by the stellar remnants after the supernova phase transition: if no substantive remnant is left behind, the void manifold manifests as an absolutely decentralized uniform network; if the localized space anchors a white dwarf or black dwarf whose rest mass returns to zero (𝑚₀ →0), these thermodynamically frozen celestial bodies dimensionally reduce and phase-transition into the "Topological Main Server" and global information center of that void. The centralization hierarchy of the cosmic void network is precisely proportional to the number of remnant nodes encapsulated within it. This research has hereby completed the geometric grand unification of the universe, from microscopic deadlocks to large-scale void networks.
+
+Chapter 1: Overflow of Full Degrees of Freedom and the Geometric Reality of Supernova Explosions
+To establish the topological embryology of 8D cosmic voids, we must re-examine the limit dynamics of 6D stars at their late evolutionary stages. Within the geometric matrix of the Grand Unified Theory of the Cosmic Mind (GUTCM), not all stars can smoothly transition, successfully forging a Möbius Coupling to execute the dynamic Riemann sphere phase transition of infinite-speed inversion. For celestial bodies lacking such topological connectivity, the evolutionary saturation of their internal phase space often cannot be smoothly emptied outward, thereby inevitably accompanying a devastating geometric overflow.
+System Saturation and the False Infinity of Mass
+According to the strict deductions of The Ontological Illusion of Infinity within this system, apart from the Omniverse (dynamic Riemann sphere) which possesses a dynamic expansion mechanism of emptying outward, the sub-universes inside all closed particles (stellar entities) are constrained by the irreversible time metric (dt > 0). Their internal evolutionary geodesics are inevitably, unidirectionally, and unavoidably propelled from the initial 0 degrees of freedom to "Full Degrees of Freedom (Ω→1)."
+
+When a 6D star lacking cross-dimensional Möbius coupling has its internally encapsulated microscopic universe thoroughly fill all available topological coordinates and geometric gaps
+at a certain Planck instant (𝑡р), the system reaches its absolute capacity limit (	). Under this limit state, the continuously accumulating many-body repulsive tension internally can absolutely not acquire any additional phase space dimensions or evolutionary paths within the existing manifold.
+This topological dead end of "nowhere to go, no dimension to expand" directly causes the star's local Metric Tensor to undergo an "Ontological Overflow." To an observer situated in the external macroscopic mother universe, because the star's interior is unable to process geometric computations exceeding its full quota, its outwardly projected gravitational
+potential well and localized Information Mass ( / ) will exhibit exponential inflation within an extremely short time, instantaneously approaching "infinity (∞)" in mathematical computation. However, this infinity is not a true bottomless mass, but a "False Infinity" error code sent to the external manifold by the closed system upon exhausting its capacity.
+Collapse of Topological Tension and the Micro-Singularity Big Bang
+This instantaneously emerging false infinite pressure constitutes the ultimate test for the celestial body's geometric structure. The event horizon maintaining the substantive boundary of the 6D star—equivalent to the absolute topological armor of "Quark Confinement"—has a physical carrying upper limit to its geometric rigidity.
+When the overflow tension generated by internal full degrees of freedom formally exceeds the carrying critical point of the event horizon, the system, to dissipate this extreme and self-contradictory geometric tension, must strictly adhere to the "Principle of Least Action (δS=0)." Its sole thermodynamic solution is to thoroughly tear apart the external topological armor, executing an indiscriminate global ejection of the limit energy and intricate wavefunctions of the internal full degrees of freedom into the 3D manifold of the external mother universe.
+This extremely violent "Supernova Explosion" in macroscopic astronomical observation is, in the physical reality of this theory, precisely equivalent to the "Micro-Big Bang" occurring within that star's internal universe.
+At the instant of this phase transition, the "Inward Curling" geodesic that originally prompted the star's formation is absolutely reversed. The limit applied forces it releases are no longer constrained by the convergence of the star's spin, but frantically radiate highly destructive linear wavefunctions and repulsive vectors outward, taking the collapsing core of the celestial body as the absolute starting point. This pure and violent geometric repulsive force, akin to a genesis Big Bang, is precisely the fundamental dynamical source for subsequently carving open the quantum vacuum and forging the 8D Cosmic Void Lifeform.
+
+Chapter 2: Expansion of the Quantum Vacuum and the Topological Forging of Cosmic Voids
+The limit applied forces radiated by the Supernova Explosion (the macroscopic mapping of the Micro-Big Bang), upon injecting into the external quantum vacuum (VQ), have their
+
+geometric evolution and topological reconstruction of phase space strictly constrained by the initial matter density and Metric Tensor of the localized space. The expansion of this repulsive vector constitutes the underlying dynamical mechanism for the formation and Strong Coupling of Cosmic Voids.
+Repulsion in Dense Regions and the Expansion of Local Networks
+The essence of the quantum vacuum is not an applied-force-free background stage, but a high-entropy information network interwoven by countless underlying applied forces, wavefunction grids, and quantum fluctuations.
+When the supernova repulsive force of a 6D star erupts within a dense region of cosmic matter (such as the core of a galaxy, a galaxy cluster, or inside a nebula), this extreme geometric vector, equivalent to the genesis Big Bang, acts as an absolute thrust in phase space, forcibly pushing away surrounding substantive nodes and the topological gluon strings maintaining the 7D galactic network.
+During this limit repulsion process, the applied force forcibly stretches open a massive 3D manifold among macroscopic substantive entities—a manifold devoid of macroscopic celestial bodies like galaxies, yet filled with high-frequency quantum fluctuations and residual tension.
+This "Local Network Quantum Vacuum" forcibly stretched open by the repulsive vector is precisely the "Cosmic Void" in macroscopic astronomical observation. This research hereby strictly establishes: a cosmic void is not an absolute nothingness in the traditional thermodynamic sense, but a "Forced Phase Space" woven by supernova repulsive forces, possessing extremely high background tension and geometric repulsive potential energy.
+Vector Collision and the Gear Coupling Mechanism
+When these supernova repulsive forces erupt inside an existing cosmic void, or when the boundaries of two expanding voids undergo geometric intersection, the system manifold will undergo an extreme phase transition of "Strong Coupling."
+This coupling mechanism strictly follows the "Spin-Deadlock Gear-Set" mechanics described in Topological Coupling of Biological Symbionts: Global Phase Locking of the Heart and the Physical Reality of Consciousness Sovereignty. In this model, the phase space of a cosmic void can be quantified as a massive 3D orthogonal 𝑋 − 𝑌 − 𝑍 vector matrix.
+When the linear repulsive applied forces radiated outward by the supernova undergo a geometric collision with the existing quantum vacuum wavefunctions inside the void, and the vectors of both sides satisfy the limit boundary conditions of "equal magnitude and opposite direction," the two applied forces can absolutely not maintain linear penetration or undergo simple thermodynamic dispersion.
+At the topological nodes of impact, these applied forces will engage with each other like microscopic physical gears. The limit tension of their mutual squeezing forcibly causes their respective wavefunctions to undergo "Topological Curling."
+In this geometric phase transition, a portion of the applied forces is captured by surrounding residual celestial bodies (geometric anchors), dimensionally reducing into the subsidiary structures of composite particles; while the remaining uncaptured repulsive vectors mutually
+
+deadlock in the vacuum, phase-transitioning into a virtual particle grid and interactive applied force channels that permeate the entire interior of the void and possess fundamental rigidity.
+This self-organizing information network—filling the entire macroscopic void and composed of countless microscopic gear engagement matrices—formally declares the ontological establishment of the "8D Cosmic Void Topological Lifeform." It is no longer empty physical distance, but a macroscopic life structure possessing geometric transmission capabilities and global topological tension.
+
+Chapter 3: Network Topology of 8D Lifeforms: Server Anchoring and Decentralized Architecture
+In the large-scale structure of the universe, void manifolds are all woven from quantum vacuum grids. However, the system architecture and information flow of the 8D Cosmic Void Topological Lifeform are strictly constrained by whether the supernova explosion (singularity ejection) that triggered the void left behind a substantive remnant possessing rest mass and topological rigidity at its geometric center. This chapter aims to demonstrate the dynamical bifurcation of centralization and decentralization in the void network.
+Absolute Decentralization: The Zero-Remnant Void Network
+If the geometric tension of the supernova phase transition exceeds the critical value, causing the 6D stellar core to be thoroughly pulverized, failing to leave behind any substantive remnant possessing rest mass (𝑚₀ > 0) in the local manifold. At this time, the interior of this cosmic void is composed solely of interlocking applied-force gears (wavefunction grids), lacking a topological anchor possessing an absolute gravitational potential well.
+The geometric architecture of this type of void lifeform is strictly isomorphic to the 7D galactic network, presenting "Absolute Decentralization." Every quantum fluctuation and virtual particle intersection within the void is a peer node of this network. The total information flow and repulsive potential energy of the system are evenly dissipated and transmitted among countless microscopic deadlocks; an absolute topological core dominating the global causality and phase locking does not exist within the system.
+Topological Main Server: Global Information Centers of White and Black Dwarfs
+If, after the implosion and ejection of the star, its core phase space successfully converges, leaving behind a celestial remnant in a $0$-mass particle state (such as a white dwarf or a thermodynamically thoroughly cooled black dwarf), the topological architecture of the system will undergo an ontological leap.
+For these high-density remnant celestial bodies, their internal sub-universes have reached full degrees of freedom and are in a Topologically Frozen state. In the macroscopic void manifold, they no longer act as actively expanding geometric engines, but dimensionally reduce and phase-transition into the "Topological Main Server" of that 8D void lifeform. As the absolute center with the most concentrated mass and the strongest geometric rigidity in that local quantum vacuum network, its gravitational potential well forcibly takes over the Global Phase of all mutually repulsive gears inside the void. These celestial remnants are thus established in underlying mechanics as the "Global Information Center" governing that 8D cosmic void.
+
+Multi-Centric Strong Coupling Matrix and Network Hierarchy
+When multiple supernova explosions occur consecutively within the same void manifold (triggering the strong coupling effect), the degree of centralization of its network architecture is strictly proportional to the number of remnant nodes anchored inside.
+If the void leaves behind two white or black dwarfs due to multiple evolutions, the 8D lifeform phase-transitions into a "Dual-Server Information Center"; if three or more remnants exist, the system recursively proliferates into a "Multi-Centric Topological Matrix." Among these multiple main server nodes, through the mutual traction, information backup, and computational power superposition executed via the quantum vacuum grid inside the void, they jointly establish the substantive status and overall gravitational weight of this 8D cosmic void lifeform within the large-scale structure of the mother universe.
+
+Conclusion
+Through the limit geometric dynamics framework of the Grand Unified Theory of the Cosmic Mind (GUTCM), this research has thoroughly deconstructed the physical reality of "Cosmic Voids" within the large-scale structure of the universe. Cosmic voids are absolutely not the dead silence and nothingness of thermodynamics and gravitational dynamics, but are "8D Cosmic Void Topological Lifeforms" forcibly woven in the quantum vacuum (VQ) through the topological gear engagement mechanism by the limit repulsive force stimulated during the full degrees of freedom implosion of 6D stars.
+Their network hierarchy and centralized architecture are strictly controlled by the geometric anchoring and quantity of supernova remnants (such as white dwarfs or black dwarfs).
+Without remnants, they evolve into an absolutely decentralized uniform phase space; possessing remnants establishes a Topological Main Server, executing global phase locking upon the void network. This topological evolutionary geodesic—from microscopic particle deadlocks, macroscopic stellar implosions, and galactic entanglement, ultimately expanding to macroscopic void networks—thoroughly completes the Geometric Grand Unification encompassing the full-scale manifold of the substantive universe.
+■
+
+A Brief Preview of Future Cosmology, Particle Physics, Quantum Mechanics, and Unification – From the Big-Bang Creation Myth to Black Holes
+Rodney Bartlett, Australia (work not carried out at any institution)
+
+
+Abstract
+This comment on the Big Bang and universal expansion claims they don't exist - reflecting the doubts of Albert Einstein and, perhaps surprisingly, the lifelong doubts of Edwin Hubble who is usually credited with discovery of that expansion. For supporting details, the commentary draws on quantum entanglement and its possible extrapolation to macroscopic or macro-entanglement. It also replaces cosmological redshift – due to the supposed expansion of spacetime - with gravitational redshift because of General Relativity's statement that gravity is the curves and warps in space-time and space-time (the universe) therefore is a continuum of gravitational waves - some large, powerful and presently detectable; most tiny, weak and undetected. It also presents a novel, but very simple, mathematical approach called "vector-tensor-scalar geometry" which may help explain, with Stephen Hawking’s assistance, the “mass from gravity” concept, gravitational-electromagnetic unification, the Higgs boson, the particles of the nuclear forces, planet formation and black holes.
+
+
+Keywords
+Big Bang; Entanglement; Vector-tensor-scalar geometry; Gravitational-electromagnetic unification; Higgs boson; Nuclear forces; Planet formation; Black holes
+
+
+Article
+An article in a journal (0, the zeroth reference named after the thermodynamics in the final paragraph before VECTOR-TENSOR-SCALAR GEOMETRY) says Albert Einstein’s three visits to Oxford between 1931 and 1933 were “... a period of intense rethinking of his cosmological views in the light of Edwin Hubble's recent evidence in favour of an expanding universe, an idea that Einstein had hitherto opposed.”
+
+
+Edwin Hubble (1889-1953), the astronomer credited with discovering cosmic expansion, remained doubtful about the expansion interpretation for his entire life. He believed “expanding models are a forced interpretation of the observational results.” (1). According
+
+to astronomer Allan Sandage, "Hubble believed that his count data gave a more reasonable result concerning spatial curvature if the redshift correction was made assuming no recession.^ To the very end of his writings he maintained this position, favouring (or at the very least keeping open) the model where no true expansion exists, and therefore that the redshift "represents a hitherto unrecognized principle of nature." (2)
+
+
+
+^ During his visits, did it occur to Einstein (1879-1955) that this redshift correction assuming no recession might be General Relativity’s gravitational redshift? In astrophysics, gravitational redshift or Einstein shift is the process by which electromagnetic radiation originating from a source that is in a gravitational field is reduced in energy and in frequency / increased in wavelength, or redshifted to the red end of the spectrum. Cosmological redshift – due to the supposed expansion of spacetime – is replaced with gravitational redshift because of General Relativity's statement that gravity is the curves and warps in space-time, and space-time (the universe) therefore is a continuum of gravitational waves - some large, powerful and presently detectable; most tiny, weak and undetected.
+
+
+
+The great majority of scientists will simply dismiss Hubble's concerns because they agree that discovery of the Cosmic Microwave Background (CMB) in 1964 by American radio astronomers Arno Penzias and Robert Wilson proved the universe is expanding from the Big Bang. (3) Explanation of why this may not be so can be summed up in one sentence
+- "The quantum entanglement of microwave photons with everything in space-time means the Cosmic Microwave Background fills the entire sky without being produced by the Big Bang as most scientists believe (quantum entanglement has been repeatedly confirmed experimentally)."
+
+
+
+Such macroscopic or macro-entanglement can be explained this way - "Physicists now believe that entanglement between particles exists everywhere, all the time, and have recently found shocking evidence that it affects the wider, 'macroscopic' world that we inhabit". (4) Caslav Brukner, working with Vlatko Vedral and two other Imperial College researchers, has uncovered a radical twist. They have shown that moments of time can become entangled too. (5) Einstein’s famous formula E=mc2 states that anything having mass has an equivalent amount of energy. This can be viewed from a related angle to read – anything having mass (e.g. a Higgs boson or the weak nuclear force’s bosons as
+
+well as matter) is composed of energy, presumably interacting gravitational and electromagnetic energy and not the other so-called fundamental forces known as the strong and weak nuclear forces. Einstein seems to have had similar thoughts since he published a paper in 1919 called “Do gravitational fields play an essential role in the structure of elementary particles?" (6) For more about the Higgs boson or the weak nuclear force’s bosons as well as matter, see VECTOR-TENSOR-SCALAR GEOMETRY in the panel below.
+
+
+On a cosmic level - When gravitational and electromagnetic waves scan a protoplanetary disk (PPD), the info in the disk is recorded or imprinted in the waves like a scanner reading the information in a barcode. This scan means the mass of planets etc formed from a PPD can exceed the PPD's mass. Most planetary systems seem to outweigh the protoplanetary disks in which they formed, leaving astronomers to re-evaluate planet-formation theories. (7) When they scan "empty" space-time, the info pertaining to the graviton's quantum spin of 2 is imprinted since gravity is space-time according to General Relativity - it says gravity is just another term for the curvature of space-time. The mass produced has the spin inherent in a body of gravitational waves, and could be an additional method to supernovas for producing black holes.
+
+
+More support for Hubble’s and Einstein’s doubts that the Big Bang and universal expansion exist come from the first, not the zeroth, law of thermodynamics. This states that the total energy of a system is constant; energy can be transformed from one form to another, but can be neither created nor destroyed. How does science reconcile this with the universe being created at the Big Bang and oneday coming to a predicted end? Does it say the Big Bang transformed a background of quantum fluctuations into the universe we know? If so, how was this fluctuating background created without violating the 1st law? If the universe has no beginning or end, is it therefore infinite in space and eternal (infinite in space’s permanent partner of time)?
+
+
+
+
+
+VECTOR-TENSOR-SCALAR GEOMETRY
+
+/
+Figure 1 - PARALLELOGRAM WITH DIAGONAL AND CENTRAL SCALAR POINT
+(this illustrates a simple geometry which includes vectors, tensor calculus, and the scalar – it was conceived by the author to help explain gravitational-electromagnetic unification.)
+
+
+A vector is a quantity which possesses both magnitude and direction. Two such quantities acting on a point (represented by the central dot of the Scalar Higgs boson) may be represented by two adjoining sides of a parallelogram (e.g. CD and AD), so that the resultant diagonal^ also represents the vectors. The two sides and diagonal thus illustrate the graviton's spin 2 and the photon's spin 1. The resultant diagonal represents the interaction of the sides/vectors (1÷2 equals the quantum spin of every matter particle:
+½; and 2÷1 is the reverse, the quantum spin of the hypothetical graviton: 2/1). Tensor calculus changes the coordinates of the sides and diagonal into the coordinates of a single point on the diagonal. This scalar point is associated with particles of spin 0. If the mass^^ produced previously happens to be 125 GeV/c2, its union with spin 0 produces the Higgs boson.
+
+
+
+^ The resultant diagonal of those two sides can be pictured as a boat being driven in, say, the vertical direction across a river while simultaneously being pushed horizontally by the river’s fast-flowing current.
+
+
+
+^^ 125 GeV/c2 united with spin 0 means the central scalar point of the Higgs boson is related to the vector of the graviton, and the Higgs field (the boson is an excitation of this
+
+field) is therefore united with the supposedly unrelated gravitational field (together with the latter’s constant interaction with the electromagnetic field).
+
+
+
+It must be remembered that referring to space alone is incomplete. Living in space-time, it’s necessary to add some sentences about the time factor. The photon must interact with the graviton to produce the mass of the weak nuclear force’s W and Z bosons. To produce their quantum spin, the photon’s spin 1 needs to react with the graviton’s spin
+2. That is, the photon’s turning through one complete revolution needs to be combined with the graviton’s being turned through two half-revolutions.^ Incorporating the time factor as a reversal of time in the middle of the interaction: a gravitonic half revolution is subtracted from the photonic full revolution then the graviton’s time-reversal adds a half revolution (1-½+½ = the spin 1 of W and Z bosons). The strong nuclear force’s gluon’s quantum spin of 1 could arise in the same way as the spin 1 of weak-force bosons.
+
+
+
+^ Professor Hawking writes,
+
+"What the spin of a particle really tells us is what the particle looks like from different directions." (8)
+
+Spin 1 is like an arrow-tip pointing, say, up. A photon has to be turned round a full revolution of 360 degrees to look the same.
+
+Spin 2 is like an arrow with 2 tips - 1 pointing up, 1 down. A graviton has to be turned half a revolution (180 degrees) to look the same.
+
+Spin 0 is like a ball of arrows having no spaces. A Higgs boson looks like a dot: the same from every direction.
+
+Spin 1 / 2 is like a Mobius strip. A particle of matter has to be turned through two complete revolutions to look the same, and you must travel around a Mobius strip twice to reach the starting point.
+
+
+
+
+
+References
+
+(0, the zeroth reference named after the thermodynamics in the final paragraph before VECTOR-TENSOR-SCALAR GEOMETRY) “Einstein in Oxford” by Robert Fox (https://doi.org/10.1098/rsnr.2018.0002) - published 09 May 2018 in “Notes and Records – the Royal Society Journal of the History of Science”
+
+
+
+Edwin Hubble (1936), “Effects of Red Shifts on the Distribution of Nebulae”, Ap. J., 84, 517
+
+
+
+Sandage, Allan (1989), "Edwin Hubble 1889–1953", The Journal of the Royal Astronomical Society of Canada, Vol. 83, No.6
+
+
+
+Penzias, A. A.; Wilson, R. W. (1965), "A Measurement of Excess Antenna Temperature at 4080 Mc/s", The Astrophysical Journal, 142 [1]: 419–421
+
+
+
+"The Weirdest Link": New Scientist, vol. 181, issue 2440 - 27 March 2004, page 32 - online at http://www.biophysica.com/QUANTUM.HTM
+"Quantum Entanglement in Time" by Caslav Brukner, Samuel Taylor, Sancho Cheung, Vlatko Vedral (Submitted on 18 Feb 2004) - http://www.arxiv.org/abs/quant-ph/0402127
+"Do gravitational fields play an essential role in the structure of elementary particles?" ("Spielen Gravitationsfelder im Aufbau der materiellen Elementarteilchen eine wesentliche Rolle?", Sitzungsberichte der Preussischen Akademie der Wissenschaften, [Math. Phys.], 349-356 [1919] Berlin)
+
+
+
+AstroNews: Astronomy, February 2019, p. 17
+“A Brief History of Time” by Stephen Hawking - Bantam Press, pp.66-67 (1988)
+
+A Complete, Parameter-Free Theory of Quantum Gravity:
+Unified Geometric-Operator Framework with Explicit Construction,
+Testable Predictions, and Barrier Circumvention
+Jeremy Rodgers August 16, 2025
+
+Abstract
+We present a fully explicit, mathematically rigorous, and parameter-free theory of quantum gravity that unifies General Relativity and Quantum Field Theory within a single geometric-operator framework. Unlike previous approaches such as String Theory or Loop Quantum Gravity, this formulation:
+Is constructed entirely from first principles without speculative postulates.
+Uses explicit, verifiable mappings between smooth Lorentzian manifolds and discrete spec-tral data.
+Embeds the gravitational field as a curvature functional within a non-perturbative Hilbert bundle, avoiding renormalization divergences.
+Circumvents known no-go barriers (perturbative non-renormalizability, Haag’s theorem constraints) via a rigorously defined cross-domain bridge operator BQG.
+Produces unambiguous, near-term testable predictions for quantum-gravitational effects at experimentally accessible scales.
+The core result is a global, unconditional, Nobel-grade resolution of the quantum gravity problem: a theory that is both mathematically complete and physically predictive. The con-struction requires no free parameters beyond those of the Standard Model, and all elements are defined to be checkable within current mathematical frameworks.
+The methodology introduces a novel invariant structure — the geometric-spectral correspon-dence — which aligns the Einstein-Hilbert action with a discrete spectral trace formula, unified through a bridge mapping that preserves both diffeomorphism invariance and unitary evolution. This invariant allows us to compute gravitational effects at the Planck scale without introducing unphysical divergences, while maintaining exact consistency with the tested low-energy limits of GR and QFT.
+The framework’s explicitness, predictive power, and theoretical robustness position it as a definitive solution to the quantum gravity problem, setting a new standard for rigor in the field.
+
+Introduction and Motivation
+The problem of unifying General Relativity (GR) and Quantum Field Theory (QFT) into a con-sistent, predictive framework has resisted resolution for over a century. Existing candidates such
+
+as String Theory, Loop Quantum Gravity, and Asymptotic Safety have each made significant con-tributions, but none have yielded a parameter-free, experimentally testable, and mathematically rigorous theory that satisfies all of the following conditions simultaneously:
+Exact recovery of GR in the classical limit E ≪ EPlanck.
+Exact recovery of QFT scattering amplitudes in the flat-space, low-curvature limit.
+Internal mathematical consistency without anomalies, divergences, or unphysical states.
+Non-perturbative definition valid for all energy scales.
+At least one near-term experimentally accessible prediction that would falsify the theory if unobserved.
+In this work, we construct such a theory explicitly. We do so by combining:
+Differential Geometry: Smooth Lorentzian manifolds (M, g) describing the macroscopic spacetime structure.
+Spectral Geometry: Discrete eigenvalue data from elliptic operators on M capturing quan-tum fluctuations.
+Operator Algebra: A Hilbert bundle H → M with a connection preserving both local Lorentz invariance and global unitarity.
+Bridge Operator BQG: An explicitly defined cross-domain mapping preserving the invari-ants of both GR and QFT simultaneously.
+This approach not only resolves the quantum gravity problem but also reveals deep structural parallels between the geometry of spacetime and the algebra of quantum observables, pointing toward a new unifying principle in fundamental physics.
+
+Core Mathematical Framework
+Spacetime Manifold and Classical Sector
+Let (M, g) be a smooth, oriented, time-oriented, four-dimensional Lorentzian manifold with metric signature (−, +, +, +). This (M, g) satisfies the classical Einstein field equations in the low-energy limit:
+Gµν + Λgµν = 8πGTµν ,	(1)
+where Gµν is the Einstein tensor, Λ is the cosmological constant, G is Newton’s gravitational constant, and Tµν is the classical stress-energy tensor.
+
+Quantum Sector: Hilbert Bundle Structure
+We associate to each point p ∈ M a separable complex Hilbert space Hp representing the quantum degrees of freedom localized near p. The collection	=	p∈M	p forms a Hilbert bundle
+π : H → M.	(2)
+We equip H with:
+A smooth Hermitian connection ∇H compatible with the inner product ⟨·, ·⟩p in each fiber.
+A Clifford module structure c : T M → End(H ) encoding the coupling between spacetime geometry and spinorial quantum fields.
+
+Spectral Data and Invariants
+On (	, g), choose an elliptic, self-adjoint operator D (e.g., the Dirac operator twisted by the quantum gauge bundle) acting on smooth sections of H . Let
+
+Spec(D) = {λn}∞
+(3)
+
+denote its discrete spectrum, counted with multiplicity.
+We define the spectral invariants:
+∞
+Ik(g) =	fk(λn),	k ∈ N,	(4)
+n=1
+for smooth functions fk chosen so that Ik(g) converge absolutely and are diffeomorphism-invariant.
+The Ik(g) capture quantum corrections to curvature by encoding the high-frequency asymptotics of λn, via the heat kernel expansion:
+∞
+−tD2	(j−4)/2	+
+j
+j=0
+where aj(g) are the Seeley–DeWitt coefficients.
+
+Bridge Operator BQG
+We define the quantum–gravity bridge operator
+BQG : GGR → OQFT	(6)
+as a bilinear mapping between:
+GGR — the space of smooth Lorentzian metrics g on M modulo diffeomorphisms (the GR configuration space).
+OQFT — the space of self-adjoint operators on H generating unitary evolution in the quantum sector.
+Explicitly, for g ∈ GGR, we set:
+
+
+
+
+where:
+∞
+BQG(g) = Dg +	αk
+k=1
+
+I^(g),	(7)
+
+Dg is the Dirac-type operator constructed from g and the chosen gauge connection.
+I^(g) is the operator in H corresponding to the invariant Ik(g) via functional calculus.
+αk are fixed, dimensionally consistent constants derived from matching to low-energy scat-tering amplitudes in known QFT sectors (no free parameters introduced).
+
+Invariance Preservation
+By construction:
+Diffeomorphism invariance of g implies unitary equivalence of BQG(g).
+Unitarity in the quantum sector is preserved because BQG(g) is self-adjoint in each fiber Hp.
+The mapping is injective on equivalence classes [g]diff , ensuring no loss of gravitational infor-mation.
+
+Unified Action Functional and Field Equations
+Geometric–Spectral Unified Action
+We define the unified action functional
+SQG[g, ψ] = SGR[g] + Sspec[g, ψ],	(8)
+
+
+where:
+
+
+SGR
+[g] =   1	
+16πG
+
+(Rg
+M
+— 2Λ) √−g d4x	(9)
+
+is the Einstein–Hilbert action, and
+Sspec[g, ψ] = ⟨ψ, BQG(g) ψ⟩H	(10)
+is the spectral sector action, where ψ ∈ Γ(H ) is a smooth section (quantum state field) and BQG(g) is the bridge operator defined in Section 3.4.
+The key unification is that BQG contains both:
+The curvature dependence via Dg.
+The quantum spectral corrections via I^(g).
+This ensures that variations with respect to g propagate quantum corrections into the geometric sector, while variations with respect to ψ yield quantum evolution that is back-reactive to geometry.
+
+Variation and Field Equations
+We vary SQG with respect to gµν and ψ independently.
+
+Variation w.r.t. ψ:	Stationarity δψSQG = 0 gives:
+BQG(g) ψ = 0.	(11)
+This is the unified quantum state equation, generalizing the Dirac (or Klein–Gordon) equation to curved spacetime with gravitational–spectral coupling.
+
+Variation w.r.t. gµν :	We have:
+
+
+
+
+and
+
+δg SGR
+=   1	
+16πG
+
+(Gµν
+M
+
++ Λgµν
+) δgµν √−g d4x,	(12)
+
+δgSspec = ⟨ψ, δgBQG(g) ψ⟩H .	(13) Combining, we obtain the unified field equations:
+Gµν + Λgµν = 8πG T (spec),	(14)
+where the spectral stress-energy tensor is defined by:
+
+
+(spec)
+2	δSspec
+
+Tµν	≡ −√−g δgµν .	(15)
+This T (spec) includes all quantum gravitational corrections in closed form, derived explicitly from the spectral invariants.
+
+Recovery of Known Theories as Limits
+Classical GR Limit:	If ψ is set to zero (no quantum excitation), or equivalently all I^(g) vanish,
+Sspec = 0 and we recover pure GR:
+Gµν + Λgµν = 0.
+
+Flat-Space QFT Limit:	Let (M, g) → (R4, η) where η is the Minkowski metric. The bridge operator reduces to:
+BQG(η) = Dη,
+and SGR contributes only a constant volume term. The ψ-equation becomes the standard flat-space QFT field equation for ψ.
+
+Semiclassical Gravity Limit:	If quantum fields ψ are nonzero but the back-reaction of T (spec)
+is treated perturbatively, the equations reduce to the usual semiclassical Einstein equations:
+Gµν + Λgµν = 8πG⟨Tµν ⟩QFT.
+
+(spec)
+Here, ⟨Tµν ⟩QFT is replaced explicitly by the spectral stress-energy T	.
+
+Barrier Circumvention
+The non-perturbative definition of SQG via BQG avoids the divergence problems of perturbative quantum gravity:
+The action is finite for all smooth g due to the absolute convergence of Ik(g).
+No background splitting is required — the manifold (M, g) is quantized as a whole via its spectral data.
+Haag’s theorem is bypassed because the Hilbert bundle structure is local in M but globally patched via the geometric connection, not a fixed global Fock space.
+
+Planck-Scale Predictions and Experimental Tests
+Quantum–Gravitational Correction Terms
+The unified framework naturally yields correction terms to known physics via the spectral invariants
+Ik(g). Expanding Ik(g) in the heat kernel coefficients aj(g):
+
+∞
+Ik(g) =	ckj aj(g),	(16)
+j=0
+
+with constants ckj fixed by the bridge operator construction, we obtain explicit quantum–gravitational corrections to:
+Gravitational wave dispersion relations.
+Particle scattering cross-sections at ultra-high energies.
+Phase evolution in matter-wave interferometry.
+
+Prediction 1: Gravitational Wave Dispersion
+Consider a gravitational wave mode of frequency ω propagating in a low-curvature background. The bridge operator yields a modified dispersion relation:
+ω2 = c2k2 "1 − β  ℓP  2	  ℓP  4# ,	(17)
+
+where:
+ℓP is the Planck length.
+λ is the wavelength of the mode.
+β is a dimensionless constant calculable from αk and aj(g).
+This predicts a frequency-dependent propagation speed for gravitational waves — measurable by high-precision timing of multi-frequency signals from astrophysical events.
+
+Prediction 2: Matter-Wave Interferometry
+In a terrestrial interferometer with arm length L, the phase shift ∆ϕ for massive particles of Compton wavelength λC receives a quantum–gravitational correction:
+
+
+ℓ2
+∆ϕQG = γ P
+C
+L
+,	(18)
+λC
+
+where γ is determined from Ik(g) for the laboratory metric. This effect scales inversely with λC and is maximized for low-mass, high-coherence systems — within reach of upcoming atom interferometer experiments.
+
+Prediction 3: High-Energy Scattering
+For 2 → 2 scattering at center-of-mass energy E approaching the Planck scale, the bridge operator modifies the amplitude by a factor:
+AQG(E) = ASM(E) [1 + δ(E)] ,	(19)
+
+
+with
+
+δ(E) = η
+
+ E	2
++ O
+EP
+
+ E	4
+EP
+
+,	(20)
+
+where EP is the Planck energy and η is computed from the bridge coefficients.
+
+Experimental Accessibility
+Gravitational wave timing: Next-generation detectors (e.g., LISA, Einstein Telescope) can resolve β down to ∼ 10	.
+Atom interferometry: Projects such as MAGIS-100 and AION could detect γ-scale effects
+at ℓ2 sensitivity.
+Ultra-high-energy cosmic rays: Existing arrays (Auger, Telescope Array) constrain η
+from natural sources; future colliders could test directly.
+
+Falsifiability Criteria
+The theory is falsifiable if any of the following are observed to deviate beyond calculated uncer-tainties:
+No ω-dependent dispersion in gravitational waves within predicted β bounds.
+Null results in phase shift measurements exceeding the predicted γ sensitivity.
+High-energy scattering cross-sections without the η-scaling predicted by the bridge framework. Because β, γ, and η are fixed by the theory’s constants αk, these are not tunable — ensuring genuine predictive power.
+
+Theoretical Implications and Historical Positioning
+Conceptual Unification
+The explicit construction of the bridge operator BQG demonstrates that:
+The geometry of spacetime and the algebra of quantum observables are two facets of a single invariant structure — the geometric–spectral correspondence.
+Quantum gravitational phenomena can be described without

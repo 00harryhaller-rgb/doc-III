@@ -1,0 +1,1970 @@
+geometry (i.e. those that cannot be eliminated by a change of coordinates) is given where (t) becomes unbounded. However, being bounded is not a sufficient condition for the absence of geometric singularities. The Kretschmann scalar = ⋆(Rab ⋆Rab) offers another invariant that can also locate geometric singularities where it becomes unbounded. In terms of the scale factor of the model under consideration, it is given by
+
+4	2	48 W	2
+102
+60H2(t)	4
+
+L0 K(t) = —6 W — S2(t) — 12 H (t) W — S4(t) —	S2(t)	— 12H (t).
+Recent measurements of type-1a supernova luminosities have also made possible observations of the current value of the dimensionless de-acceleration parameter [13, 14]. In terms of cosmic time, this is defined as
+
+q(t)  =  —
+S(t) S¨(t)
+.
+S˙2(t)
+
+Using (23) to eliminate the second derivative of the scale factor, this takes the form
+4	W
+q(t) = 1 + S˙2(t) + H2(t)	(27)
+
+which in our model with W < 0, is clearly not manifestly positive and therefore offers the possibility of finding an epoch t in I where q(t) < 0 thereby exploring earlier epochs by retro-diction. For arbitrary values of Cs1, Cs2 in the solutions (24) and when W < 0 one has the asymptotic behaviour
+
+−4W t
+q(t) ≃ —1 + O(e	)
+as t approaches infinity. Hence
+
+
+lim
+t→∞
+q(t) = —1
+
+reminiscent of de Sitter-type solutions. The recent claim that an accelerating phase (i.e. q(t) < 0) of the cosmos is consistent with observation has recently led to a number of new cosmological models beyond the standard paradigm.
+
+
+The Cosmological Maxwell Sector
+We turn next to the construction of Maxwell fields in the model with Ψ constant given by
+C (Ψ0) = 0, C (Ψ0) > 0. Since the U (1)-invariant Maxwell 2-form F = dA must then
+satisfy the linear equation δF = δ d A = 0 on  where δ ⋆d⋆ is the divergence operator on p-forms, a general solution could include a superposition of singular solutions and non-singular modes generated from scalar harmonics on S3. Typical regular modes were considered earlier by Schr¨odinger [15] and have subsequently been developed further in the literature [16, 17, 18].
+
+Singular solutions would satisfy δF = δ d A = 0 on electromagnetic source-free domains of M free of singularities. In Minkowski spacetime certain distributional Maxwell field solutions serve as models of point particles with electromagnetic multi-pole moments that can interact with regular Maxwell fields. For example stationary electrically charged point particles are modelled by the Coulomb solution where their charge arises as a de-Rham period rather than from a 3-dimensional volume integral of any regular charge density. There exist analogues of such solutions in the spacetime with the metric (12). One readily verifies that in the local chart with coordinates {η, r, θ, φ} the dimensionless Maxwell 2-form:
+FI = Q0  1 +  1  dr Λ dη
+
+satisfies dFI = δFI = 0 where Q0 is a dimensionless constant and r = 0. In the preferred frame defined by the unit time-like vector field
+1	∂
+
+V ≡ X0 =
+,
+L0S(η) ∂η
+
+this corresponds to an electromagnetic field with electric and magnetic 1-forms:
+I	I	Q0  1	 1  dr		Q0  r	1  2 	N	
+sV	=  iV F	= —	+  2	=	+	2	2
+
+4π	4	r
+¥V	=  iV ⋆ F  = 0
+S˜(η)L
+4π	4	r
+S˜ (η)L0
+
+in terms of the space-like unit 1-form
+N = sin(θ) cos(φ)e + sin(θ) sin(φ)e — cos(θ)e .
+At any value of η = η0 the net electric flux crossing any 2-sphere S2 surrounding the singularity at r = 0 is given by the de-Rham period:
+
+⋆FI = Q0.
+S2
+
+
+One notes that the norms of FI and sI
+√
+coincide and:
+Q0
+
+  r	1  2
+
+/	/
+
+/	/	/
+
+implying that both FI , I diverge as r   . However the anti-podal point of S3 where r =  is not in the local chart. But FI, g and the coframe e1, e2, e3 are each invariant under the symmetry transformation Q0 Q0, r 4 implying that the above local representation of FI extends to a global electrically neutral distributional Maxwell solution with singularities at a pair of antipodal points of S3 with equal and opposite de-Rham periods at each pole (see appendix). Since this zero-total electric charge solution on S3 has a pair of spatially distinct singularities we shall designate it an electric bi-pole to distinguish it from electrically neutral singular dipole solutions that each possess a single spatially located singularity.
+
+Similarly Hodge-duality implies the existence of distributional magnetic bi-pole solutions of the form:
+
+FII = M0
+4π
+where M0 is a dimensionless constant and
+
+sin(θ) dθ Λ dφ
+
+
+
+sV	=  iV F	= 0
+II	II
+M0  1
+1  dr	
+M0  r
+1 2 	N	
+
+¥V	=  iV ⋆ F	=	+  2	= —	+	2	2
+4π	4	r	S˜(η)L0	4π	4	r	S˜ (η)L0
+in the chart with coordinates {η, r, θ, φ}, with constant dimensionless magnetic charge:
+∫S2 FII = M0.
+Thus FII represents a global magnetically neutral distributional Maxwell solution with singularities at a pair of antipodal points of S3 with equal and opposite de-Rham periods at each pole and symmetric under the transformation M0  M0, r 4 . Despite the similarity of these Maxwell field LFRW bi-pole solutions to the Minkowski Coulomb and magnetic monopole solutions in the vicinity of their isolated singularities, neither FI nor FII is a spatially spherically symmetric solution:
+LKj FI /= 0	and	LKj FII /= 0	(j = 1, 2, 3)
+
+in terms of the spacelike Killing vectors {Kj} on M discussed in section 3.
+
+In the cosmological context that follows we shall content ourselves with a particular regular source-free superposition that displays interesting distinct electromagnetic features and consider the particular ans¨atz:
+F	=  d α(η) e1	+ E(η) e0 Λ e1 + B(η) e2 Λ e3
+in terms of the real scalar functions α, E, B of η and return to a discussion of local charge fluctuations in section 6. Now the source free Maxwell equations dF = δF = 0 lead to the non-distributional solutions:
+
+E(η)  =	[Ck1 cos(2η) — Ck2 sin(2η)] ,
+S˜2(η)
+[Ck1 sin(2η) + Ck2 cos(2η)]
+B(η) =	S˜2(η)
+
+and the second-order ODE:
+
+˜ (η) — W
+
+
+
+′
+S2(η) α(η) + 2α′(η)	=  0
+S˜(η)
+
+for α(η). In terms of the cosmic time variable t:
+F	= d α(t) e1  + E(t) e0 Λ e1 + B(t) e2 Λ e3	(28)
+where
+
+/	/
+
+
+and α(t) is a solution of
+S2(t)
+S2(t)
+
+α¨(t) + 3 H(t) α˙ (t) — Wα(t) = 0.	(29)
+This is a linear non-autonomous ordinary differential equation for α(t) which can be readily integrated in terms of two arbitrary real constants. Depending upon the sign of W , it resembles the dynamics of an oscillator or an “anti-oscillator” with time-dependent damping or “anti-damping” determined by the dimensionless Hubble function H(t).
+
+The particular solutions involving E(η) and B(η) above generalize the source-free Maxwell solutions found by Kopin´ksi and Nat´ario [19] in the context of a standard LFRW model involving two non-interacting null fluids. To transform these to a cosmic time variable requires the computation of the integral (15). To simplify our analytic presentation in terms of the evolution variable t, in the following we shall therefore generate a regular Maxwell field from the restricted Maxwell potential 1-form ans¨atz A = α(t) e1 by analogy with the ans¨atz F = Γ e1.
+When S˜(η0) /= 0 and α˜(η0) is regular one can immediately calculate the
+Maxwell magnetic helicity 3-form H˜ |η=η0 ≡ A Λ F |Σ3 on any 3-dimensional space-like
+
+˜	˜ (η0)	1	2	3 
+
+
+where Σ3 is, topologically, the 3-sphere S3. This gives a finite total instantaneous Maxwell magnetic helicity:
+∫	˜	˜ (η0)	3	2	2	2 ˜2
+
+
+
+
+since Vol(S3) =
+S3
+e1 Λ e2 Λ e3 
+= 2π2 L3 S˜3(η0).
+
+In a similar way, we may define the instantaneous F-magnetic helicity associated with the
+vector field configuration F˜(η) in (18): H˜ |η=η0 ≡ F Λ dF|Σ3 and derive, for S˜(η0) /= 0, the
+
+
+∫S3
+
+H˜ |η=η0	=  —2
+
+Γ2
+
+/
+L0 S˜(η0)
+
+Vol(S
+
+) = —4π
+
+Γ2 L2 S˜2
+
+(η0).
+
+The existence of non-zero total instantaneous magnetic helicity for the particular solutions where F and A are proportional to the 1-form e1 on each constant η hypersurface implies that the corresponding electric and magnetic field lines (i.e. the instantaneous integral curves of the electric and magnetic field vectors), defined by splitting the 2-form field strengths F , F = dF respectively into electric and magnetic type 1-form fields relative to the preferred coframe (13), are “linked” and exhibit a “Hopfian” knot configuration at each instant η = η0 [20, 21, 22].
+
+It is worth noting that the Maxwell gauge field A = α(η) e1 satisfies the condition δA = 0. This reduces its number of independent physical degrees of freedom to two. Although in general the 1-form F is not a U (1) gauge field and does not satisfy δF = 0, when one restricts to a model where the constant scalar field satisfies C (Ψ0) = 0, Ψ0 ∈ R, then δ = 0 also.
+
+
+The Cosmological Einstein Sector
+Next we turn attention to the total stress-energy-momentum tensor T in the Einstein equation (8). Introducing the dimensionless fluid density Ω(t) = ρ(t) L2c2/κ and dimensionless fluid pressures Pk(t) = pk(t) L2/κ, and substituting the equations Ψ = Ψ0, A = α(t) e1, F = Γ e1 into T yields the non-zero g-orthonormal T components:
+
+
+T00(t) = —J
+—(t) +
+2α2(t)
+S2(t) +
+2(t)α2(t)
++ Ω(t)
+2
+
+
+T11(t) = J
+
+(t) —
+
++
+2α2(t)
+S2(t) —
+2α2(t)
+2(t)α2(t)
+2	— 2 W + P1(t)
+H (t)α (t)
+
+T22(t) = —J
+
+T33(t) = —J
+(t) +
+
++(t) +
+S2(t) +
+2α2(t)
+S2(t) +
+2	— 2 W + P2(t)
+2	2
+
+2	3
+
+in terms of the dimensionless Hubble function H(t) and where
+±	W	2	S˙2(t) ! 2	α˙ 2(t) 
+/	/	/	/
+/
+
+
+
+i.e.
+
+±
+
+W	 2		1	2
+
+2	α˙ 2(t) 
+
+/
+
+/
+
+It remains to solve the dynamical system containing (29) and
+κ Eint	=  Tt = Tt + Tt	(30)
+where {Eint, Tt, Tt, Tt} is the form taken by the tensors {Ein, T, T , T} with the ans¨atz (16), (18), (28) and Ψ = Ψ0. This system comprises six ordinary coupled equations for the six variables:
+{ Ω(t), P1(t), P2(t), P3(t), S(t), α(t) }.
+However, any solutions will automatically satisfy the Bianchi identity ∇ · Ein = 0 which implies ∇ · T = 0. Hence there must be some relations between the six solutions. For any solutions α(t), S(t), the solutions for the fluid variables are found to be
+
+
+Ω(t) = J
+—(t) +
+(3	2α2(t))
+S2(t)	+
+H2(t) 2
+6 — α2(t)
+
+
+P1(t) = —J
++(t) +
+(7 + 2α2(t))
+S2(t)	+
+H2(t) 2
+
+2 + α2(t)
+
++ 2 W
+
+
+(31)
+
+P2(t) = J
+
+P3(t) = J
++(t) +
+
++(t) +
+(7	2α2(t))
+S2(t)	+
+(7	2α2(t))
+S2(t)	+
+H2(t)
+
+/
+2
+H2(t) 2
+2 — α2(t)
+
+2 — α2(t)
++ 2 W
+
++ 2 W.
+
+Two algebraic relations amongst these fluid variables emerge:
+Ω(t)	=  — W Γ2 + 1 (P (t) — P (t) ) +   3	 + 3H(t)2
+
+and
+P2(t)	=  P3(t).
+These relations parametrize a dynamically induced anisotropic fluid mechanical equation of state which is, in general, manifestly dependent on the evolution variable t through the dynamics of the scale factor S(t) and the vector, scalar and Maxwell fields. Note that although the fluid stress-energy-momentum tensor is thereby anisotropic [23], the total stress-energy-momentum tensor Tt is not. Spatial anisotropies in the field contributions to Tt cancel
+
+those in the fluid contribution Tt yielding the isotropic Einstein tensor Eint with non-zero
+g-orthonormal components Eint(Xa, Xb) = Einab(t) given by:
+	3		˙		 3   1	
+Ein (t) =	1 + S2(t)	≡	+ H2(t) 
+
+00	L2 S2(t)
+2	S2(t)
+
+(32)
+
+Ein  (t) = —	 1 + 2S(t)S¨(t) + S˙2(t) ≡	 H2(t)(2q(t) — 1) —	 
+	1		 1 	 1	
+
+kk
+
+for k = 1, 2, 3.
+L2 S2(t)
+2	S2(t)
+
+
+Testing the Cosmological Model
+In the previous section we showed that the ans¨atz (18) together with Ψ(t) = Ψ0 at a minimum
+0 of was sufficient to reduce the coupled scalar-vector system (4) and (6) to the single condition (23) to determine the scale function S(t), the general solution depending on the constants of integration {Cs1, Cs2} and the parameter
+W ≡ ζ0 Ξ0.
+Solutions for the fluid variables Ω(t), P1(t), P2(t), P3(t) then follow from the Einstein equations (30) in terms of cosmological solutions for the Maxwell equations (5).
+
+An immediate test of the model can be made by exploiting currently available measured
+values of the Hubble parameter H^obs(^t0) and the de-acceleration parameter q^obs(^t0) since
+these are independent of the standard cosmological paradigms based on particular multi-fluid equations of state. The cosmic time evolution variable t0 here, with dimensions of time, is related to the current dimensionless time coordinate t0 by the relation
+−1
+^t0 = t0L0/c. Furthermore, since [H^] = T	, if one uses SI units of time in seconds, then the
+
+−18	−1	−26
+H^obs(^t0) = 58 h km sec	/Mpc = 3.243 × 10	h sec	yields H(t0) = 1.082 × 10	h with
+/
+
+Since (27) implies the de-acceleration parameter q(t) > 0 for W > 0, contrary to current observation, we will concentrate attention on solutions S(t) of (23) with W < 0. Particular solutions are then fixed by specifying values for W, S(0) and S˙(0) since there is no loss of
+generality by labelling t0 = 0. The values of S(0) and S˙(0) are then in turn furnished in terms of values for (0) and q(0) for some W < 0. Evaluating (23) at t = 0 yields the following value for S(0):
+
+
+S(0) =
+2
+H(0) √q(0) + ∆2 — 1	(33)
+
+where W = —H(0)2 ∆2 with ∆ ∈ R. Then
+S˙(0) = H(0) S(0)
+and the solution S(t) is fixed and real for any ∆2 > 1 — q(0).
+
+
+
+
+
+
+8 × 1027
+
+6 × 1027
+
+4 × 1027
+
+2 × 1027
+
+0
+
+
+
+
+
+
+
+
+
+
+
+−51.5
+
+
+−52
+
+
+−52.5
+
+
+−53
+S(t)
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	−1 × 1026	0	1 × 1026 2 × 1026
+t
+
+log10( L2 R(t) )
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	−1 × 1026	0	1 × 1026 2 × 1026
+t
+
+
+
+
+
+1
+
+
+
+
+0
+
+
+
+
+−1
+
+
+
+
+
+
+
+
+
+
+
+3 × 1025
+
+
+2 × 1025
+
+
+1 × 1025
+
+
+0
+q(t)
+
+
+
+
+
+
+
+
+−1 × 1026	0	1 × 1026 2 × 1026
+t
+
+H(t)
+
+
+
+
+
+
+
+
+−1 × 1026	0	1 × 1026 2 × 1026
+t
+
+
+
+
+
+
+−98
+
+
+−100
+
+
+−102
+
+
+−104
+
+
+
+
+
+
+
+
+
+
+
+3
+
+
+
+
+2
+
+
+
+
+1
+log10( L4 |K(t)| )
+
+−1 × 1026	0	1 × 1026 2 × 1026
+t j(t)
+
+
+
+
+
+
+
+−1 × 1026	0	1 × 1026 2 × 1026
+t
+
+Figure 2:	Astrophysical model predictions based on current (t = 0) values of the dimensionless Hubble parameter H(0) and the de-acceleration parameter q(0).
+
+Figure 2 shows cosmological characteristics based on the solution2 obtained with ∆ = 1.257, giving S(0) = 2.25×1027 and retro-dicts the location of a single zero of S at t = —1.245×1026 together with a non-uniformly exponentially increasing value of S(t). The curves for K and clearly show that the zero of S is a geometric singularity so one may conclude that the model fitting	and q with ∆ = 1.257 at the current epoch yields an age of the Universe to be around 13.2		109 years. The second figure displays the past and future behaviour of the de-acceleration function q(t) while the fifth figure displays the past and future behaviour of the dimensionless Hubble function H(t). Although there is no data for the current value of
+the dimensionless “jerk” function:
+
+
+j(t) =
+S(t)2 ... t)
+,
+S˙(t)3
+
+the model predicts j(0) = 1.480 and the last plot in Figure 2 displays its past and future behaviour.
+
+
+In general, when W < 0 one has:
+
+lim
+t→∞
+
+j(t) = 1
+
+for arbitrary values of Cs1, Cs2 in the solutions of (24).
+
+Although all these cosmographic features are mathematically independent of the Einstein equations [24], they are consistent with a single “big-bang” scenario undergoing eternal
+
+2In terms of the complex constants in (26) this data corresponds to the values: Cs1 = 5.002 × 1054,
+Cs2 = —5.700i × 10	and W = —6.223 × 10	.
+
+non-uniform exponential accelerated expansion. The Einstein equations in turn then predict the behaviour of the density and pressures in the fluid stress-energy-momentum tensor compatible with the Maxwell, scalar and vector field stress-energy-momentum tensors, determined from their associated field equations. It is worth noting at this stage that none of the particular solutions that follow from the equations for α(t), S(t), Ψ(t), F, give rise to a term in T of the form Λ0 g with Λ0 constant and g the spacetime metric tensor (i.e. to an effective cosmological constant).
+
+It is also of interest to examine what the above cosmological solution implies for the various local “energy conditions” that feature in a number of theoretical criteria for general relativistic stress-energy-momentum tensors. These are based on inequalities that involve the eigenvalues of such symmetric tensors. Thus one may express the right hand side of the Einstein equation (30) as
+T	=	Ω^(t) e0 ⊗ e0 + 1 Σ P^ (t) ek ⊗ ek.
+
+in terms of the eigen-mass-energy density Ω(t) and eigen-pressures Pk(t) and note that the total mass-energy of the interacting system includes the mass-energy of the fields as well as the material fluid. The eigenvalues of Tt following simply from the eigenvalues of Eint displayed in (32). Cosmological stress-energy-momentum tensors that satisfy these local “energy conditions” at cosmic time t obey the constraints on the left in figure 3 and the figures on the right illustrate the behaviour of the expressions in the Dominant, Strong, Weak and Null energy inequalities as a function of dimensionless cosmic time over an interval, starting from the big-bang and including the current epoch (t = 0). Over this interval all inequalities are satisfied except the Strong Energy Condition. Opinion seems divided on the significance of this condition in constraining cosmological models [25].
+
+A Scalar and Vector Field Fluctuation Model
+With a dynamic model that yields an evolving scale factor one may construct a recursive framework for analysing the fluctuation and thermal history of the matter and field content of the Universe consistent with the solutions (31) to Einstein’s equations (8) without a cosmological constant. This may offer some insight into the nature of “dark-matter” [26].
+
+It has been shown in section 4 that the ans¨atz (16), defining the metric g, and the ans¨atz
+(18) for F yield analytic solutions to the equations (4), (6) provided the constant solution Ψ = Ψ0 satisfies ′(Ψ0) = 0 and the metric scale factor S(t) is a solution of the non-linear ODE (23), with the general solution given by (26). Any particular solution of (29) then generates a source free Maxwell field that completes a cosmological solution to the coupled field system (4), (5), (6) compatible with Einstein’s equations.
+
+In section 5 particular solutions S(t) to (23) have been shown to describe distinct cosmological spacetimes including those possessing a single initial singularity in the spacetime geometry. However, given C(Ψ), the fully coupled general system (4), (5), (6),
+(8) has other solutions that can break the spatial homogeneity and isotropy of the particular LFRW metric solution.  Such solutions may, given additional physical data,
+
+ Ω^(t) ≥ 0
+
+
+
+
+1.5 × 10
+
+
+
+
+−52
+
+ ^	 ^
+
+Dominant Energy Conditions
+Ω(t) — P1(t) ≥ 0
+
+Ω(t) — P2(t) ≥ 0
+ Ω^(t) — P^3(t) ≥ 0
+
+1 × 10−52
+
+
+
+
+0.5 × 10−52
+
+
+
+
+0
+
+
+
+ Ω^(t) + Σ3
+
+P^i(t) ≥ 0
+
+
+
+1.5 × 10−52
+
+
+ ^	^
+
+1 × 10−52
+
+Strong Energy Conditions
+ Ω(t) + P1(t) ≥ 0
+
+ Ω^(t) + P^2(t) ≥ 0
+
+
+0.5 × 10
+
+
+−52
+
+
+
+0
+
+
+
+
+
+
+
+
+Weak Energy
+ Ω^(t) + P^3(t) ≥ 0
+
+
+ Ω(t) ≥ 0
+ Ω^(t) + P^1(t) > 0
+
+−0.5 × 10−52
+
+
+−1 × 10−52
+
+
+
+
+
+
+
+1.5 × 10−52
+
+
+
+
+1 × 10−52
+
+Conditions
+ Ω^(t) + P^2(t) > 0
+
+
+0.5 × 10
+
+
+−52
+
+ Ω^(t) + P^3(t) > 0	0
+
+
+−52
+
+
+
+Null Energy Conditions
+ Ω(t) + P1(t) ≥ 0
+ Ω^(t) + P^2(t) ≥ 0
+ Ω^(t) + P^3(t) ≥ 0
+1.5 × 10
+
+
+
+
+1 × 10−52
+
+
+
+
+0.5 × 10−52
+
+
+
+
+
+0
+
+
+−1 × 1026	0	1 × 1026	2 × 1026
+t
+Figure 3: Plots displaying constraints for the Dominant, Strong, Weak and Null Energy Conditions respectively. Some curves are indistinguishable in the plots.
+
+ultimately account for the formation of plasma states in the early Universe, needed to thermalise matter and electromagnetic radiation, and for the formation of the elements, stars and galaxies during later epochs of its evolution.
+
+A tentative approximation scheme, adopted below, is to generate a sequence of linearised perturbations of the equations (4), (5), (6) about the exact cosmological solution described in section 5 in terms of the scale factor (26) in the LFRW metric. This particular scheme assumes the evolving perturbations have a negligible back-reaction on the ambient LFRW gravitational field. This is reasonable for field fluctuations that are localised in small regions of space. In section 8 we will also describe analytically, field perturbations that are spatially localised during epochs were the ambient gravitational field is itself neglected, i.e. where the dominant physics under consideration takes place in a background Minkowski spacetime.
+
+
+Working to order ǫ2 in the dimensionless perturbed fields, let:
+Ψ = Ψ(0) + ǫΨ(1) + ǫ2Ψ(2)
+
+F = F(0) + ǫF(1) + ǫ2F(2)
+
+A = A(0) + ǫA(1) + ǫ2A(2)
+
+
+
+(34)
+
+with norms |Ψ(j)| ≤ 1, | ⋆ (F(j) Λ ⋆F(j))| ≤ 1, | ⋆ (A(j) Λ ⋆A(j))| ≤ 1 for j = 1, 2. Up to this maximum order it is sufficient to write the potential C in the form of a truncated Taylor series about the constant value Ψ0 where it has a local minimum:
+
+
+
+with
+1	2
+C(Ψ) = Ξ0 + 2 Ξ1(Ψ — Ψ0)
+1	3
++ 6 Ξ2(Ψ — Ψ0)
+
+Ξ ≡ C(Ψ ),	C (Ψ ) = 0,	Ξ  ≡ C (Ψ ) > 0	and	Ξ  ≡ C  (Ψ ).
+In terms of the summands in the expansion of Ψ above, it follows that to order ǫ2:
+
+1	(1)
+C
+2 ǫ2,	C′(Ψ) = Ξ Ψ(1)ǫ +  Ξ Ψ(2)	1
+(1)
+2  ǫ2.	(35)
+
+Substituting the expansions (34), (35) into the PDE equations (4)-(6) yields the zeroth
+ǫ-order PDE system:
+d ⋆ dΨ(0) = 0
+d ⋆ dF(0) + W ⋆ F(0) = 0
+0
+dF (0) = 0,	d ⋆ F (0) = 0,
+the first ǫ-order PDE system:
+d ⋆ dΨ(1) + Ξ1  Γ F (0) Λ F (0) —  ζ0 F(0) Λ ⋆F(0)  Ψ(1)
+
+1	2
+0
+d ⋆ dF(1) + W
+0
+
+
+
+⋆ F(1)
+
+dF (1) = 0,	d ⋆ F (1)
+
+and the second ǫ-order PDE system:
+
+d ⋆ dΨ(2) + Ξ1	Γ
+2	1
+
+F (0)	F (0)	 ζ0
+L2
+
+F(0) Λ ⋆F(0) Ψ(2) = J	(40)
+
+d ⋆ dF(2) + W ⋆ F(2) = J	(41)
+0
+
+
+
+where
+dF (2) = 0,	d ⋆ F (2) = J	(42)
+
+
+F (j) = d A(j),	(j = 0, 1, 2)
+
+and
+J	≡  +  ζ0Ξ1 F(0) Λ ⋆F(1) — Γ1Ξ1  F (1) Λ F (0) + F (0) Λ F (1)  Ψ(1)
+
++  ζ0Ξ2 F(0) Λ ⋆F(0) — Γ1Ξ2 F (0) Λ F (0)  (Ψ(1))2
+4L2	4
+J	Ξ1ζ0 (Ψ(1))2 ⋆ F(0)
+2L2
+J	≡  —Γ1Ξ1 Ψ	dΨ	Λ F	= —Γ1Ξ1 d  (Ψ	) Λ F	 .
+(1)	(1)	(0)	1	(1) 2	(0)
+One sees from these equations that, given Ψ(0), F(0) and F (0), the scheme generates a sequence of PDE systems for Ψ(j), F(j) and F (j).  With Ψ(0) = Ψ0,  ′(Ψ0) = 0 and F(0) = Γ1 e1, the zeroth-ǫ order system is satisfied by solving the source-free Maxwell system (36). Thus these zeroth ǫ-order equations are those used in sections 2, 3 and 4 to establish a viable cosmological model when combined with the Einstein equations. The first ǫ-order field modifications to this exact cosmological solution (37)-(39) are given by solutions to an uncoupled, homogeneous, (source-free) second-order PDE system. By contrast, at the next ǫ-order, the perturbations (40)-(42) satisfy uncoupled inhomogeneous equations with sources generated by solutions to the lower ǫ-order systems.
+
+Of particular note is the perturbed Maxwell system (42) for the perturbation F (2) containing the manifestly conserved electric current 3-form J :
+d J = 0.
+Since the SI system of units accommodates quantities with the dimensions q of electric charge, it is convenient at this point to express (42) as
+dF (2)  =  0,	d ⋆ F (2) = J
+in terms of the dimensioned forms:
+
+
+F (2) =
+L ǫ
+
+F (2),
+q0
+J = L ǫ J
+
+where the real constant q0 carries the dimensions of charge and ǫ0 is the permittivity of free space with SI dimensions q2 T2/M L3. Then in units with charge q measured in Coulombs, Newtonian  force  (N)  measured  in  Newtons  and  length  (L)  in  metres,
+ǫ	= 8.8542 × 10−12 q2 N−1 L−2. At any spacetime point, in any local frame of reference
+defined by a unit time-like vector field V on M, the charge density ρ(V ) in Coulombs per
+cubic metre is then given by —iV ⋆ J^ and the associated electric current 2-form J(V ) in
+amps per square metre is given by c iV J at that point.
+Since F (0) and F (1) are source free solutions, assumed regular and singularity free, the net electric charge Q[Σ3] in any 3-dimensional spacelike domain Σ3 c S3 with boundary ∂Σ3 /= 0, is:
+
+
+Q[Σ3] =
+Σ3
+J^ = ∫
+d ⋆ F^(2).
+
+This implies, by Stokes’ theorem, that
+
+Q[Σ3] =
+∂Σ3
+
+
+
+⋆F^(2)
+
+is the net electric flux emanating from the 2-surface ∂Σ3 bounding Σ3. The value of Q[Σ3] may be positive or negative, implying the existence of localised charge fluctuations of different polarities in different regions. However if one integrates J over an entire closed space-like hypersurface, topologically S3, at any instant, then Q[S3] = 0 since the 3-sphere has no boundary across which the electric flux can cross (∂S3 = 0). Thus the total electric charge (induced by the scalar fields Ψ(1) and F (0) at order ǫ2) must be zero. In any cosmological model the presence of locally charged regions in space seems to be an essential prerequisite for providing scattering processes in a charged particle-field interpretation of the thermalisation mechanism between matter and radiation prior to any decoupling era where ionisation ceases.
+
+Thermal History within the New Paradigm
+The existence of a high temperature state of the early Universe has achieved almost universal recognition based on the accurate measurements of an extra-galactic omni-directional Planck distribution of electromagnetic radiation with a maximum intensity in the microwave spectrum. Assuming that such a radiation distribution has evolved with the expansion of the Universe without change of shape since it escaped from the opaque plasma state, any cosmological model should accommodate the high precision COBE and Planck data [27]. If
+
+
+s[Σ3] = V [Σ3]
+∞
+Uω(T) dω
+0
+
+denotes the total thermal energy in any spatial domain Σ3 with volume V [Σ3] in an early plasma state then it has a Planck spectrum with temperature T if
+
+U^ω (T) =
+kω3
+
+/
+π2c3
+1
+
+/
+exp kω — 1
+
+where k, k are the reduced Planck and Boltzmann constants respectively. Assuming that each harmonic frequency component in this distribution transports electromagnetic energy along
+
+a null geodesic of an isotropic background LFRW metric g, one may exploit the ray-optics approximation for harmonic solutions to the source-free Maxwell equations [7] to relate the frequencies or wavelengths of these components made by observers at different spacetime events p. In a cosmology with a LFRW metric a key feature is the existence of a preferred unit time-like vector field V that can be used to define the angular frequency ωp = 2π νp and wavelength λp = 2π c/ωp of such solutions at any event p. Then
+
+
+νe[Ve]
+ν [V ]
+= g(Ve, Ke)
+g(V , K )
+≡ 1 + zo,e,
+
+o	o	o	o
+in terms of the redshift parameter zo,e. Here e denotes an emission event where the tangent to the null geodesic is the null vector Ke of a harmonic Maxwell wave with frequency νe in the cosmic frame Ve. A similar statement refers to the observation of the frequency νo at an
+observation point o in the causal-future of e. With V =  1 ∂  it follows from (17) that
+
+
+
+
+
+and
+νe = S(t0)
+νo	S(te)
+(43)
+
+z	= S(t0) — 1 = s Σ(t0) — 1	(44)
+
+in terms of the general solution (25). Defining
+Uλ(T) = U^ω (T)|ω=2πc
+
+
+and the change of variable
+
+2πkc
+y ≡  λkT ,	(45)
+
+the distribution Uλ(T) in wavelength becomes
+k5T5
+
+Uy(T) dλ =		F(y) dλ	(46) 2k4π3c4
+in terms of the dimensionless universal function
+y5
+F(y) = ey — 1 .	(47)
+Since the COBE and Planck data measure the variation of Uy(T) with λo with a definite temperature To ≃ 2.73o K (after correcting for the detector’s motion relative to the frame Vo) in agreement with (46), it follows from (45) that y remains independent of epoch after decoupling, i.e.
+
+
+
+
+and hence from (43):
+λo	Te
+
+/	/
+λe	To
+
+
+
+To
+
+S(te) = S(t0)	.
+e
+
+If the scale factor S(t) is continuous monotonic-increasing with t and 0 < To/Te < 1 then te lies at a time between the initial singularity event and the current epoch t0. An estimate of the temperature Te when the Universe first became transparent to thermal radiation would give an estimate of the ratio S(te)/S(t0) since To is measured. In the standard cosmological model the value of S(t0) is estimated from the current densities of matter and radiation in a solution of the Friedman equations. In the cosmological model discussed in this paper it is fixed by the solution (26) using the current values of (t0) and q(t0) that fix the constants Cs1, Cs2 and W assuming ∆ = 1.257. If one assumes a value Te  4000oK for the temperature at decoupling, based on a model for the physics of thermalisation in the hot plasma, together with a value S(t0) = 2.25 × 1027 defined by (33) one may estimate the value for the scale factor at decoupling to have been S(te) ≃ 1.54 × 1024. Finally, denoting by tBB the dimensionless cosmic time of the geometric singularity, then the dimensionless time interval between the big-bang and the decoupling era te — tBB, is determined to be
+7.78 × 1019, i.e. 8.23 × 103 years.
+
+Extending the Fluctuation Model with Perturbative Scalar and Vector Minkowski Modes
+In the current epoch, with t = t0, many physical phenomena can be described in terms of field theories on a background flat Minkowski spacetime. If one introduces new coordinates T and R (with dimensions of time and length respectively) by the substitutions t = c T /L0 and r = R/S(t0)L0 then in coordinate domains where R ≪ 2S(t0)L0 the LFRW metric (17) is well approximated by the Minkowski metric in standard spherical polar spatial coordinates:
+g ≈ —c2 dT ⊗ dT + dR ⊗ dR + R2 dθ ⊗ dθ + R2 sin2(θ) dφ ⊗ dφ.
+In this section the Hodge map ⋆ will, throughout, refer to the metric of this background, approximately flat, spacetime domain. In the previous sections we have shown that the solutions Ψ = Ψ0 and F = Γ e1 are exact solutions to the equations (4) and (6) in a particular LFRW metric. However these coupled non-linear partial differential equations on have other solutions that may have relevance for the generation of local spatial inhomogeneities during the evolution of the Universe. If we assume that such solutions are perturbations of the exact cosmological solutions discussed above then a linearisation of (4) and (6) will offer a perturbative approach for finding them. Thus we analyse the first ǫ-order equations (37), (38) for perturbative solutions about the zeroth ǫ-order solutions Ψ(0) = Ψ0, F(0) = Γ e1, F (0) = 0,
+i.e. the uncoupled linear partial differential equations for Ψ(1) and F(1) :
+⋆d ⋆ dΨ(1) + W1 Ψ(1)	=  0	(48)
+0
+
+⋆d ⋆ dF(1) + W F(1) = 0	(49)
+0
+
+
+where
+
+1
+W1 = /ζ0
+2
+
+
+Ξ1Γ2,	W = ζ0
+
+
+Ξ0.
+
+Since the divergence operator δ ≡ ⋆d⋆ is nilpotent (δ2 = 0), all solutions of (49) satisfy
+δF(1) = 0.
+It is instructive to compare equations (48), (49) with the classical Klein-Gordon and Proca field equations in Minkowski spacetime. These were introduced historically to accommodate short-range Yukawa-type static field (singular) solutions associated with particles having a real positive rest-mass m0 and mP respectively. Expressed in terms of their respective Compton wavelengths such equations take the form:
+2 2
+⋆d ⋆ dΨ(1) +	0	 Ψ(1)	=  0	(50)
+k2
+
+and
+
+
+
+
+where
+
+
+
+m2 c2
+⋆d ⋆ dF(1) +   P	 F(1) = 0
+k2
+δF(1) = 0.
+
+
+
+(51)
+
+2	W1k2	2	W k2
+m0 = L2c2	and	mP  = L2c2 .
+One sees that when the real parameters W and W1 are strictly positive, (48) and (49) yield real values for m0 and mP but admit different types of solutions otherwise. Thus perturbative corrections to the cosmological solution F(0) in the previous section require W = —H(0)2 ∆2 < 0 with ∆ ∈ R so do not admit solutions with a real Proca rest-mass mP . However the sign of ζ0 is a-priori unconstrained and if W1 is positive then perturbative corrections to the constant solution Ψ(0) can describe a perturbed scalar field associated with particles of mass m0 that could, in the absence of further constraints, provide a dark-matter candidate since it has no direct coupling to the Maxwell field.
+
+However the presence or absence of static solutions to either (48) or (49) does not imply the absence of dispersive propagating wave-packet (radiative) solutions constructed by superposition of separable mode solutions to these wave equations.
+
+To illustrate this we consider an interesting class of exact solutions in local spatial cylindrical polar coordinates {T , r, φ, Z} in which the Minkowski metric tensor takes the form:
+g = —c2 dT ⊗ dT + dr ⊗ dr + r2 dφ ⊗ dφ + dZ ⊗ dZ.
+This choice of cylindrical polar coordinates will facilitate our discussion of particular exact solutions below. In these coordinates, a general integral representation of complex solutions for (48) may be constructed from a Fourier superposition of time harmonic and spatial cylindrical Helmholtz modes:
+
+Σ	Σ ∫ ∞ ∫ ∞
+/
+/ / /
+
+^	^	^
+
+in terms of the complex scalar Fourier amplitudes Ψ^, the parameter w1 = W1/L2 ∈ R and
+
+the complex branched dispersion relation:
+
+k(w1, ω, s) =
+
+
+ω2
+— s2 — w1 .	(52)
+
+
+Similarly a Fourier representation of solutions for (49) takes the form
+
+Σ	Σ ∫ ∞ ∫ ∞
+
+/ / /
+
+
+^	^	^
+
+where
+
+
+F^(ω, s, m) =
+
+α^(ω, s, m) e3 — c k(w, ω, s) e0 
+
+
+in terms of w = W/L2 ∈ R, the complex scalar Fourier amplitudes α, the 1-forms e0 = c dT ,
+e3 = dZ and the complex branched dispersion relation:
+r ω2
+
+/
+The distinct mode types in the mode summations for Ψ(w1 ) and F(w) above arise from the distinct contributions to the integrations over ω and s for each integer m, determined by the sign of the argument of the square root function in the dispersion relations (52) and
+(53) respectively.
+
+For each mode labelled by m in the summations for Ψ(w1 ) and F(w) above, the double integral over the half-plane ω ∈ [—∞, ∞], s ∈ [0, ∞] can be partitioned into distinct contributions by branches of the hyperbolae k(w1, ω, s) = 0 and k(w, ω, s) = 0 respectively. Contributions with k real yield progressive modes while those with k pure imaginary behave exponentially with respect to Z. The contributing physical modes are those that are spatially “evanescent” for all Z. Figure 4 indicates how this partitioning depends on the sign of w1 for the dispersion relation (52). A similar partition is determined by the branch points of the dispersion relation (53) where w has replaced w1. In general the global
+behaviour of solutions generated from such mode summations depends critically on the structure of the scalar Fourier amplitudes α^(ω, s, m) and Ψ^(ω, s, m).
+
+
+Particular Local Fluctuations in Minkowski Spacetime
+The existence of particular examples of axially symmetric (m = 0) dispersive complex wave-packet solutions of the equations (48) and (49) can be directly demonstrated using the methods of pre-potentials [28, 29, 30] and recently exploited to study the dynamic evolution of electromagnetic single-cycle laser pulses [31]. In terms of strictly positive arbitrary real constants Q1, Q2 with dimensions of length, introduce the dimensionless expression
+^	^	qr^2 + [Q1 + i(Z^ — cT^)] [Q2 — i(Z^ + cT^)]
+/
+
+/
+Figure 4: Light grey domains (ω2/c2 — s2 — w > 0) distinguish contributions to the Fourier integral representations yielding progressive modes from dark grey domains (ω2/c2 —s2 —w < 0) that contribute to evanescent modes.
+
+
+Then one may verify directly that a particular complex axially-symmetric non-singular dispersive (radiative) pulse solution to (48) is given by the scalar fields:
+K1 √W1 Λ(T^, r^, Z^) 
+(1)
+
+ΨW1 (T , r^, Z) =
+when W1 > 0	(55)
+Λ(T^, r^, Z^)
+
+(1)	C √—W1 Λ(T^, r^, Z^) 
+
+ΨW1 (T , r^, Z) =
+when W1 < 0	(56)
+Λ(T^, r^, Z^)
+
+where K1 is a modified second kind Bessel function and	is either the Hankel function
+H(1) or H(2).
+1	1
+It has been shown in [32, 33] how solutions to certain linear scalar wave equations can be used to generate solutions to certain linear vector wave equations. A similar process is available here to generate a particular solution to (49) from the solutions (55) or (56) with W1 replaced by W . Thus for any real W = 0, complex dispersive ν-chiral vector wave-packet solutions to (49) are given in terms of (55) or (56) by
+F(1)(T^, r^, Z^) = ⋆d Ψ(1)(T^, r^, Z^) Πν ,	ν = ±1, 0	(57)
+
+where the closed (dΠν = 0) and co-closed (δΠν = 0) complex chiral 2-forms Πν are given by
+±iφ^
+Π±1 = d( r^e	) Λ c d T^,	Π0 = dZ^ Λ c dT^.
+The detailed “dispersive” behaviour of these axially-symmetric complex wave-packets, as functions of (T , r, Z), is determined by the ratio Q1/Q2 and the parameters W, W1. The real (or imaginary) parts describe real non-singular solutions to (48) and (49). By construction the expression (54) generates solutions with turning points at particular
+values when T^ = 0. The location of these turning points can easily be changed by shifting
+
+the origin of the spatial coordinates. Similarly the direction of the Z-axis of symmetry can be arbitrarily rotated to another direction [34]. Those solutions involving the K1 and H(2)
+Bessel  functions  exhibit  bounded  axially-symmetric  wave-packet  profiles  that  spread  in  r
+(1)
+and Z^ as T^ increases. By contrast those involving H1	Bessel functions exhibit growing
+amplitudes as T^ increases and are unphysical solutions.
+
+
+/
+Figure 5: W, W1, ζ0, Ξ0 correlations for solutions for the Proca and Klein-Gordon wave equations.
+
+Given the properties of the particular scalar and vector perturbations discussed in this section, one can summarise the following criteria on the basic parameters for the perturbed cosmological model. We demand W ≡ ζ0 Ξ0 < 0 to be consistent with q(0) < 0 and Ξ1 ≡ C (Ψ ) > 0 for a potential minimum at Ψ . However solutions that admit Klein-Gordon and Proca positive rest-mass solutions require W1 > 0 and W > 0 respectively where W1 ≡ ζ0 Ξ1 Γ2/2 with Γ real. Furthermore solutions with arbitrary non-zero values of W1 and W admit scalar field and vector field physical wave-packet profiles respectively. Since ζ0 and Ξ0 ≡ C(Ψ(0)) remain unconstrained we exhibit these conditions as designated domains in the Ξ0 — ζ0 plane in Figure 5. Shaded domains in these figures:
+admit construction of a viable cosmological model from S(t) with one real root.
+admit scalar perturbations Ψ(1) that satisfies the Klein-Gordon equation (50) with a real rest-mass m0.
+admit vector perturbations F(1) satisfying the Proca equation (51) with a real rest-mass mP .
+admit both (ii) and (iii).
+admit vector perturbations F(1) satisfying a Proca equation with a real rest-mass
+mP and spatially bounded dispersive wave packets (55).
+
+admit vector perturbations F(1) described by spatially bounded dispersive wave packet solutions (57) and scalar perturbations Ψ(1) described by solutions with a real rest-mass m0 and spatially bounded dispersive wave packet solutions (55).
+admit vector perturbations F(1) described by solutions with spatially bounded dispersive wave packets (57) and scalar perturbations Ψ(1) described by solutions with spatially bounded dispersive wave packets (55).
+These designated domains indicate that there exist real values of the couplings ζ0 and Ξ0 permitting the construction of the cosmological solution with W < 0 discussed in this paper. Such couplings then permit the construction of perturbed solutions Ψ(1) and F(1) to the linear wave equations (48) and (49) in a background domain that is approximately Minkowskian. The former has particular solutions characteristics of a Klein-Gordon solution with a real particle mass m0 or an axially symmetric dispersive propagating wave packet while the latter has only axially symmetric dispersive propagating polarised vector wave packet solutions. Assuming that the history of such dispersive fluctuations are currently detectable, an observational signature may reside in the influence of a primordial vector field polarisation on visible matter (or electromagnetic fields) or effects due to a primordial massive Klein-Gordon field.
+
+
+Conclusions
+In this article we have discussed a new paradigm for exploring a number of puzzling aspects in modern cosmology and their implications for astrophysics and observable astronomy. In this paradigm we argue that an evolutionary description of the Universe is best formulated in terms of a series of successive approximations based on a viable cosmography derived from current observations with a minimum number of phenomenological constraints on the dynamics of the unobservable early Universe. Consequently assumptions about the states of matter during such epochs in our paradigm are replaced by a series of retro-dictions from a coupled system of field equations with initial conditions based on current data. We depart from many standard cosmological models, with their use of different isotropic fluid models in different epochs, by using a single anisotropic material fluid model in an Einstein-Maxwell-vector-scalar-fluid system of master equations. The Maxwell, vector and scalar fields are coupled to gravity and themselves in such a way that an exact analytic approach to a cosmological solution for the spacetime metric, vector, scalar and Maxwell fields can be found without the need to impose any a-priori equation of state for the material fluid. Instead, its equation of state in the cosmological sector is induced from the Einstein equation containing a stress-energy-momentum tensor without a cosmological constant. By establishing all solutions on a spacetime with the topology I × S3, I ∈ R the spacetime metric falls within the LFRW class of metrics possessing spatial sections with topology S and the associated scale factor describes five distinct spacetime geometries. Motivated by the recent estimates of the negative de-acceleration parameter we use the current value of the Hubble parameter to select a viable cosmology with a single singular state and an exponentially expanding scale factor. Its predicted history leads to the value 13.2 × 109 years for the age of the Universe and a predicted value of 1.48 for the (unmeasured) “jerk” parameter. Based on this history we have verified that, over an interval from the big-bang, including the current
+
+epoch, the Dominant-Energy, Weak-Energy and Null-Energy conditions are satisfied and only the Strong-Energy conditions are (weakly) violated.
+
+By neglecting any back-reaction of the fields on the LFRW spacetime we have derived a series of coupled linear PDE’s that determine the vector, scalar and Maxwell field fluctuations by the method of successive approximations. In this scheme one finds that, to lowest and first order, the primordial vector field remains “dark” (i.e. has no direct coupling to the Maxwell field at those orders). Furthermore we show that at second order the Maxwell field acquires an electric current source induced from lower order scalar fields and source-free Maxwell perturbations. We argue that these currents offer a potential mechanism for initiating a thermalisation process between matter and electromagnetic radiation. Based on the COBE observation of a microwave dominant Planck spectrum of cosmological origin and a choice of 4000◦K for the temperature at radiation decoupling from matter, our cosmological model history predicts a time interval of 8.23 103 years between the big-bang and the decoupling era.
+
+By restricting to spacetime domains where the local effects of gravity may be neglected we use the parameters fixed by cosmography and the coupling constants that enter into the master field equations to explore the relation of the vector and scalar perturbations to the solutions of the historic Proca and Klein-Gordon equations in Minkowski spacetime. We show that there exist couplings where both vector and scalar dispersive wave-packet solutions arise and where the scalar perturbation may give rise to Yukawa solutions associated with a massive Klein-Gordon particle with rest mass given by
+
+
+m2 =
+ζ0Ξ1Γ2k2
+2L2c2	(ζ0 > 0).
+
+In S.I. units (L0 = 1), this has the value
+m2 = 0.616 × 10−84ζ Ξ Γ2.
+Dark matter searches are then circumscribed by the values of the dimensionless parameters ζ0, Ξ0 and Γ which must be determined independently from other astrophysical observations. These include applications of the perturbation scheme in section 8 to gravitational lensing by galaxies, bounds on primordial magnetic fields, CMBR anisotropies and dark-energy constraints.
+
+Aside from such local perturbative features the global aspects of our model give rise to a number of novel electromagnetic solutions that owe their existence to the three-sphere topology of space. The symmetry of the electric and magnetic bi-pole solutions discussed in section 4 may have relevance to charge conjugation and parity inversion symmetry in the early Universe while primordial extragalactic magnetic fields may owe their existence to evolving “Hopfion-like” solutions with magnetic helicity.
+
+Further investigations based on the Einstein-vector-scalar-Maxwell-fluid paradigm discussed above may have implications for other more challenging problems in cosmology and astrophysics and will be discussed elsewhere. However, it is important to recognise that to confront our model with such astrophysical phenomena, the latest experimental data [27] needs to be analysed beyond the standard paradigm.
+
+Acknowledgements
+RWT is grateful to the University of Bolton for hospitality and to STFC (ST/G008248/1) and EPSRC (EP/J018171/1) for support. MA and JLT are supported by the research grant from the Spanish Ministry of Economy and Competitiveness ESP2017-86263-C4-3-R. All authors are grateful to Ed Copeland and Clive Speake for useful discussions.
+
+Appendix
+In this Appendix the stereographic mapping employed in section 3 in the construction of a spacetime LFRW metric tensor, in terms of Maurer-Cartan forms on S3, is described.
+
+An SO(3) group element U can be expressed in terms of the Pauli matrices {σ1, σ2, σ3} and group coordinates {α1, α2, α3} as
+U = exp i(α1σ1 + α2σ2 + α3σ3) .
+The three pure imaginary Maurer-Cartan 1-forms
+
+
+Θ˜k =
+/tr(σk
+2
+
+U −1
+dU )	(k = 1, 2, 3)
+
+in the real coordinate cobasis {dα1, dα2, dα2} are then:
+3
+
+k	i
+Θ	=	α3
+k
+j	j
+j=1
+
+
+
+where
+
+Θ˜1
+
+
+= (α2 + α2) cos(α) sin(α) + α2 α
+
+1
+2
+Θ˜1
+
+2
+1
+Θ˜2
+= α1 α2 ( α — cos(α) sin(α) ) — α3 α sin2(α)
+= α1 α3 ( α — cos(α) sin(α) ) — α2 α sin2(α)
+
+= α1 α2 ( α — cos(α) sin(α) ) + α3 α sin2(α)
+= (α2 + α2) cos(α) sin(α) + α2 α
+
+Θ˜2
+
+3
+1
+3
+2
+Θ˜3
+= α2 α3 ( α — cos(α) sin(α) ) — α1 α sin2(α)
+
+= α1 α3 ( α — cos(α) sin(α) ) — α2 α sin2(α)
+= α2 α3 ( α — cos(α) sin(α) ) + α1 α sin2(α)
+= (α2 + α2) cos(α) sin(α) + α2 α
+
+
+
+and
+
+
+α2 ≡ α2 + α2 + α2.
+
+In these equations the coordinates are defined in the intervals —π < αj < π and 0 ≤ α < π. To facilitate the construction of the LFRW metric from the Maurer-Cartan forms Θk on S3 we introduce the stereographic coordinate transformation {α1, α2, α2} '→ {ξ1, ξ2, ξ3} :
+
+
+
+
+
+where
+α1 =
+ξ2 — 1
+
+/
+ξ2 + 1
+χ,	α2 =
+ 2ξ3 
+ξ2 + 1
+χ,	α3 =
+ 2ξ2 
+ξ2 + 1
+χ	(58)
+
+
+
+
+and
+arctan √1	ω2, ω
+χ  ≡	√1 — ω2	,
+
+ξ2 ≡ ξ2 + ξ2 + ξ2,	ω ≡  2 ξ1  .
+
+The two-argument function arctan(y, x) computes the principal value of the argument of the complex number x + iy such that arctan(y, x) ∈ (—π, π]. In the {ξ1, ξ2, ξ3} chart the
+
+Θ1	=		4i	  1 (1 + ξ2 — ξ2 — ξ2)dξ + (ξ ξ + ξ )dξ + (ξ ξ — ξ )dξ 
+
+
+Θ2	=		4i	 (ξ ξ
+
+/	/	/
+
+1
+— ξ )dξ
+
+ξ2 — ξ2 — ξ2)dξ
+
++ (ξ ξ
+
++ ξ )dξ 
+
+Θ3	=  — 	4i	 (ξ ξ
+
+/	/	/
+
++ ξ )dξ
+
++ (ξ ξ
+1
+— ξ )dξ
+
+ξ2 — ξ2 — ξ2)dξ  .
+
+In these equations the coordinates are defined in the intervals —∞ < ξj < ∞ and cover S3
+minus the point where ξ2 → ∞ or, under the transformation:
+
+  ξ1
+1
+=	r sin(θ) cos(φ),	ξ2
+2
+1
+=	r sin(θ) sin(φ),	ξ3
+2
+= 1 r cos(θ)	,
+2
+
+at the point where r2 → ∞.
+
+References
+A. Ijjas, P. J. Steinhardt, and A. Loeb. Pop goes the universe. Scientific American, 316(2):32–39, 2017.
+A. Ijjas, P. J. Steinhardt, and A. Loeb.	Inflationary paradigm in trouble after Planck2013. Physics Letters B, 723(4–5):261–266, 2013.
+M. Milgrom. A modification of the Newtonian dynamics as a possible alternative to the hidden mass hypothesis. Astrophys. J., 270:365–370, 1983.
+J. D. Bekenstein. Relativistic gravitation theory for the modified newtonian dynamics paradigm. Phys. Rev. D, 70(8):083509, 2004.
+
+K. S. Thorne.	Primordial element formation, primordial magnetic fields, and the isotropy of the Universe. The Astrophysical Journal, 148:51, 1967.
+M. Visser. Jerk, snap and the cosmological equation of state. Classical and Quantum Gravity, 21(11):2603, 2004.
+J. Plebanski and A. Krasinski. An Introduction to General Relativity and Cosmology. Cambridge University Press, Cambridge., 2006.
+S. Weinberg. Cosmology. Oxford University Press, Oxford, 2008.
+A. H. Guth. Inflation and eternal inflation. Physics Reports, 333:555–574, 2000.
+C. Eckart. Variation principles of hydrodynamics. The Physics of Fluids, 3(3):421–427, 1960.
+R.L. Seliger and G. B. Whitham. Variational principles in continuum mechanics. Proc. Royal Soc. A: Math. Phys. Sci., 305(1480):1–25, 1968.
+M. Karlovini and L. Samuelsson. Elastic stars in general relativity: I. Foundations and equilibrium models. Classical and Quantum Gravity, 20(16):3613, 2003.
+H. Velten, S. Gomes, and V. C. Busti. Gauging the cosmic acceleration with recent type ia supernovae data sets. Physical Review D, 97(8):083516, 2018.
+A. W. Alsabti and P. Murdin. Handbook of Supernovae. Springer, Cham, Switzerland, 2017.
+L. Bass and E. Schrodinger. Must the photon mass be zero? Proc. Royal Soc. A: Math. Phys. Sci., 232(1188):1–6, 1955.
+J. Ben Achour, E. Huguet, J. Queva, and J. Renaud. Explicit vector spherical harmonics on the 3-sphere. Journal of Mathematical Physics, 57(2):023504, 2016.
+L. Lindblom, N. W. Taylor, and F. Zhang. Scalar, vector and tensor harmonics on the three-sphere. General Relativity and Gravitation, 49(11):139, 2017.
+B. Alertz. Electrodynamics in Robertson-Walker spacetimes. Ann. Inst. H. Poincar´e Phys. Th´eor., 53(3):319–342, 1990.
+J. Kopin´ski and J. Nat´ario.	On a remarkable electromagnetic field in the Einstein Universe. Gen. Rel. Grav., 49(6):81, 2017.
+A. M. Berger and G. B. Field. The topological properties of magnetic helicity. Journal of Fluid Mechanics, 147:133–148, 1984.
+W. T. M. Irvine and D. Bouwmeester. Linked and knotted beams of light. Nature Physics, 4(9):716, 2008.
+A. F. Ranada. On the magnetic helicity. European Journal of Physics, 13(2):70, 1992.
+R. D. Hazeltine, S. M. Mahajan, and P. J. Morrison.	Local thermodynamics of a magnetized, anisotropic plasma. Physics of Plasmas, 20(2):022506, 2013.
+
+M. Visser. Cosmography: Cosmology without the Einstein equations. General Relativity and Gravitation, 37(9):1541–1548, 2005.
+M. Visser and C. Barcelo. Energy conditions and their cosmological implications. In
+Cosmo-99, pages 98–112. World Scientific, Singapore., 2000.
+R. A. Daly and S. G. Djorgovski. A model-independent determination of the expansion and acceleration rates of the Universe as a function of redshift and constraints on dark energy. The Astrophysical Journal, 597(1):9, 2003.
+N. Aghanim et al. Planck 2018 results. VI. Cosmological parameters. arXiv:1807.06209, 2018.
+J. N. Brittingham. Focus waves modes in homogeneous Maxwells equations: Transverse electric mode. J. Appl. Phys., 54(3):1179–1189, 1983.
+J. L. Synge. Relativity: the Special Theory. North-Holland Publishing Company, Amsterdam, 1956.
+R. W. Ziolkowski. Exact solutions of the wave equation with complex source locations.
+J. Math. Phys., 26(4):861–863, 1985.
+S. Goto, R. W. Tucker, and T. J. Walton. The dynamics of compact laser pulses. J. Phys. A: Math. Theor., 49(26):265203, 2016.
+R. W. Ziolkowski. Localized transmission of electromagnetic energy. Phys. Rev. A, 39(4):2005, 1989.
+S. Goto, R. W. Tucker, and T. J. Walton. Classical dynamics of free electromagnetic laser pulses. Nucl. Instr. Meth. Phys. Res. B, 369:40–44, 2016.
+M. Visser. Physical wavelets: Lorentz covariant, singularity-free, finite energy, zero action, localized solutions to the wave equation. Physics Letters A, 315(3–4):219–224, 2003.
+
+/
+
+
+
+
+
+This is a repository copy of A new possibility for light-quark Dark Matter.
+White Rose Research Online URL for this paper: https://eprints.whiterose.ac.uk/159157/
+Version: Published Version
+
+Article:
+Bashkanov, M. orcid.org/0000-0001-9822-9433 and Watts, D. P. orcid.org/0000-0003-4758-9599 (2020) A new possibility for light-quark Dark Matter. Journal of Physics G:
+Nuclear and Particle Physics. 03LT01. ISSN 0954-3899 https://doi.org/10.1088/1361-6471/ab67e8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reuse
+This article is distributed under the terms of the Creative Commons Attribution (CC BY) licence. This licence allows you to distribute, remix, tweak, and build upon the work, even commercially, as long as you credit the authors for the original work. More information and the full terms of the licence here: https://creativecommons.org/licenses/
+Takedown
+If you consider content in White Rose Research Online to be in breach of UK law, please notify us by emailing eprints@whiterose.ac.uk including the URL of the record and the reason for the withdrawal request.
+
+
+
+eprints@whiterose.ac.uk https://eprints.whiterose.ac.uk/
+
+Journal of Physics G: Nuclear and Particle Physics
+
+
+
+
+LETTER • OPEN ACCESS
+
+A new possibility for light-quark dark matter
+To cite this article: M Bashkanov and D P Watts 2020 J. Phys. G: Nucl. Part. Phys. 47 03LT01
+
+
+
+
+View the article online for updates and enhancements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This content was downloaded from IP address 144.32.66.190 on 03/04/2020 at 14:12
+
+/
+J. Phys. G: Nucl. Part. Phys. 47 (2020) 03LT01 (10pp)	https://doi.org/10.1088/1361-6471/ab67e8
+
+Letter
+
+A new possibility for light-quark dark matter
+M Bashkanov1 / and D P Watts /
+Department of Physics, University of York, Heslington, York, Y010 5DD, United Kingdom
+E-mail: mikhail.bashkanov@york.ac.uk and daniel.watts@york.ac.uk Received 1 July 2019, revised 11 December 2019
+Accepted for publication 6 January 2020
+Published 12 February 2020
+
+Abstract
+Despite many decades of study the physical origin of ‘dark matter’ (DM) in the Universe remains elusive. In this letter we calculate the properties of a completely new DM candidate—Bose–Einstein condensates formed from a recently discovered bosonic particle in the light-quark sector, the d*(2380)
+hexaquark. In this first study, we show stable d*(2380) Bose–Einstein con-
+densates could form in the primordial early universe, with a production rate
+sufficiently large that they are a plausible new candidate for DM. Some possible astronomical signatures of such DM are also presented.
+
+Keywords: dark matter, BEC, hexaquarks
+
+(Some figures may appear in colour only in the online journal)
+
+Introduction
+The physical origin of dark matter (DM) in the Universe is one of the key unsolved questions for physics and astronomy. There is strong indirect evidence for the existence of such matter
+[1] from measurements of cosmic primordial radiation, anomalies in the radial dependence of galactic rotational curves and gravitational lensing. Despite its apparently pivotal role in the Universe the physical origin of DM remains unknown, with significant research focused on beyond standard model (yet currently undiscovered) particles such as axions, sterile neutrinos and weakly interacting massive particles (WIMPs) [1]. Recent advances in experimental searches have now eliminated significant fractions of the parameter space for WIMP candi-dates and the initial motivation as a full solution to the DM problem appears weaker. For
+
+1 Author to whom any correspondence should be addressed.
+
+Original content from this work may be used under the terms of the Creative Commons Attribution 4.0 licence. Any further distribution of this work must maintain attribution to the
+author(s) and the title of the work, journal citation and DOI.
+0954-3899/20/03LT01+10$33.00 © 2020 The Author(s). Published by IOP Publishing Ltd Printed in the UK	1
+
+/
+example, the upper abundance limits derived from the latest direct detection WIMP searches
+[2] appear incompatible with many of the supersymmetric WIMP DM models.
+As well as the exotic searches described above the possibility of DM deriving from light-quark ingredients remains appealing as the mass of the ‘remaining’ visible matter in the Universe is predominantly in this form, albeit mainly as fermionic (half-integer spin) con-figurations of light u, d quarks such as the protons and neutrons within atomic nuclei. The possibility for additional bosonic (integer-spin) forms of light-quark matter have been investigated, particularly six-quark (hexaquark) systems such as the double-strange quark containing ‘H-dibaryon’ [3]. However, despite recent ongoing work [4] such postulates went out of favour as a H-dibaryon with the desired properties for a significant contribution to DM was ruled out experimentally.
+In this letter we present a new possibility for light-quark based DM, motivated by the recent discovery of the d*(2380) hexaquark. The properties of the d*(2380) have been established in recent years following its first experimental observation [5–13]. It has a mass of M * = 2380 MeV, vacuum width Γ = 70 MeV and quantum numbers I(J P) = 0(3+) and made of six light quarks; 3 u-quarks and 3 d-quarks. The spins of the quarks are aligned and QCD based approaches, such as Chiral quark models, predict a highly compact structure, smaller than a single proton [14]. It therefore offers a completely new bosonic and isoscalar configuration into which light-quark matter can form.
+In this letter we present the first estimates of the stability, properties and primordial production rates of a d*(2380)-BEC, employing a range of simple theoretical ansatz and physically motivated assumptions based on our current knowledge of the d*(2380) and its interaction. We discuss how charge-neutral bound systems based on a d*(2380)-BEC core are a new DM candidate and outline potential astronomical signatures that would arise from such systems.
+
+Estimates of d*(2380)-BEC stability
+To estimate the stability of the d*(2380)-condensate we take ansatz used previously in the evaluation of BEC properties and adapt these for the case of the d*(2380). The simplest such approach for BECs is a modified liquid drop model. For a standard isospin symmetric nucleus the liquid drop model gives the nuclear binding energy, BLD, per nucleon as
+
+
+BLD
+
+A = av - as ·
+- ac ·
+Z (Z - 1)
+,
+
+(1)
+
+where A is the mass number, Z the proton number, av the volume coefficient, as the surface coefficient and ac the Coulomb coefficient.
+To model a BEC the terms in the drop model need to be modified for bosonic rather than nucleonic constituents. We follow the ansatz used for the modelling of other bosonic con-densate systems, such as linear chain α particle condensates [15]. The surface term is assumed obsolete; in a BEC all constituents have a common wavefunction forming a single object with binding independent of radial position. This also influences the form of the volume term; the equivalent interactions between all BEC constituents give a proportionality to A(A− 1), in contrast to nuclear matter, where the dominance of nearest neighbour interactions produces a proportionality of binding with A. The lack of surface effects in a BEC also influences the form of the Coulomb term, as it is then energetically favourable for the condensates to form a linear chain (where the Coulomb repulsion is minimised), rather than a sphere as assumed in equation (1). Based on these modifications the drop model then gives the binding energy per
+
+/
+d*(2380) (B/D) in a linear (lin) and spherical (sph) BEC configurations as:
+B/D = a ¢ · (D-1) - a ¢ ·  (D-1) ;	a ¢(MeV) = 0.064 · r ;	(lin)
+/
+
+v	c	D	c
+r
+0	,	(2)
+
+B/D = a ¢ · (D-1) - a ¢ ·  (D-1) ;	a ¢(MeV) = 0.73 ·
+;	(sph)
+
+v	c	D1 3	c
+
+where D is the number of d*(2380), ρ is the average condensate density and ρ is nuclear
+matter density. The coefficients av¢ and ac¢ determine the relative strengths of the attractive volume and the repulsive Coulomb terms (see appendix A). The magnitude of these coefficients for the case of a BEC will be dictated by the average relative separations of the constituents and the strength of the strong interactions between them. The isoscalar nature of
+the d*(2380) interaction gives expectation of a force somewhat weaker than the isovector N–N interaction. This is already established for the analogous (isoscalar) Λ–Λ hyperon interaction, where the scattering length is an order of magnitude weaker than the
+corresponding N–N. Recent calculations of the range of the d*–d* interaction [16]2 also indicate an interaction of smaller magnitude and shorter range. We take av¢ over all values from 0 up to the NN limit of 30 MeV to to explore the sensitivity of the condensate properties
+to the detailed nature of the d*(2380) interaction. We note that assuming an interaction strength scaled from the ΛΛ-case, and consistent with recent d*d* interaction calculations, would give av¢ of order ∼1 MeV. As shown in equations (2), the size of ac¢ has a weak dependence on matter density. The range of ac¢ covers densities up to ρ = 10ρ0, reflecting the
+expected shorter range of the interaction compared to the NN case. However, as will be
+shown the results are rather insensitive to ac¢ over this wide range of densities. Experiments on d*(2380) production in the nuclear medium, will help to determine the strength of the d*(2380) interactions. Such experiments are planned to be done at CB@MAMI, JLab and could be performed at several other facilities, like FAIR@GSI. An exploratory study was also performed at WASA [17].
+Figure 1 shows a plot of the predicted binding energy of the d*(2380)-BEC as a function of d*(2380) multiplicity and a ¢. The results provide an indicative parameter space for a bound d*(2380)-BEC, defining regions where the energy required to form the d*(2380) from nucleons is exceeded by the binding energy available in forming the d*(2380)-BEC. For the range of a ¢ calculated (corresponding to a range of potential attractive/repulsive d*-forces) the minimum multiplicity threshold for a stable d*(2380)-condensate ranges from the order of hundreds (mass in the TeV range) to the order of millions. For the previously motivated value of a ¢ ~ 1 MeV a multiplicity threshold of around 1000 d*(2380) is predicted for a stable condensate. Ongoing experimental programmes aiming to better determine the d*(2380) interaction in nuclear matter may allow tighter constraints on this multiplicity threshold. The small relative contribution of the Coulomb term compared to the volume term means the conclusions are rather insensitive to the adopted value of ac¢ or to the assumption of a linear-chain configuration. The latter point is illustrated in figure 1 where the bound threshold for a spherical condensate is also presented for 3 values of condensate density, ρ = 3, 5 and 10ρ0.
+
+2 Due to the isoscalar nature of the d*(2380), isovector meson exchanges (e.g. π, ρ) are excluded and higher mass meson exchanges (e.g. η, η′ mesons) are known to have weak coupling. Therefore, estimates based on a modified NN potential, accounting for the higher d*(2380) mass and assuming a dominance from the remaining σ-meson (scalar-isoscalar two-pion exchange) and ω-meson exchange in the interaction and a meson-d*(2380) coupling a factor 2 larger than meson-N coupling to account for the six-quark rather than three-quark systems. This results in a force showing suppression of longer range interactions and strong short range attraction with even stronger shorter range repulsion. The detailed calculations will be published in a forthcoming paper [16].
+
+/
+
+
+Figure 1. The d*(2380) binding energy (z-axis) presented as a function of the multiplicity and the magnitude of av¢ (see text). The binding energy contours are shown from 500 MeV unbound (red) to 500 MeV bound (dark violet) in intervals of 100 MeV. Unbound regions are identified by the hatching. Solid line correspond to the bound threshold for linear condensates, assuming ρ = 5rho0, while dotted, short-dashed and long-dashed lines represent spherical condensate bound thresholds with ac¢ corresponding to ρ = 3, 5 and 10ρ0, respectively. Note the double-logarithmic scale.
+
+Significant deviations from the linear-chain configuration calculation,are only visible for regions where av¢ is small.
+In order to give further validity to the results, we can check for consistency with other
+theoretical ansatz employed in BEC studies. The d*(2380)-BEC proposed here is in somewhat analogous to the (few-particle) α-BEC attributed [18, 19] to the Hoyle states in 12C and 8Be. Predictions in the Gross–Pitaevskii formalism (GPF) for a dilute isoscalar Nα-boson BEC give predicted scalings of binding energy with multiplicity consistent with those in equation (2) (the GPF formalism gives total kinetic energy T ∝ (N− 1) and two-body potential energy V ∝ N(N − 1)/2).
+Estimates of upper limits of d*(2380)-BEC stability can be obtained from recent generic formulations for the properties of BEC formed from fundamental particles, which additionally include gravitational binding. For a recent overview on self-interacting BEC DM see e.g.
+[20]. The maximum BEC mass for an attractive condensate is Mmax =	k	, [20], where a
+is the scattering length, m is the particle mass and G is the gravitational constant. Using
+*
+Md* = 2.38 GeV and ∣a∣ ~ 1 fm gives Mmax ∼ 1017 GeV, corresponding to a d (2380)-BEC
+having size and mass limits of order Angstroms and grams, respectively, characteristic DM
+scales well studied for the analogous ‘WIMPzilla’ scenarios [21].
+
+Quantification of primordial production
+For d*(2380)-BECs to be a plausible new DM candidate then a site with the potential to produce sufficient quantities should be established. An estimate of d*(2380)-BEC primordial production in the early universe can be obtained from thermodynamic considerations and in our estimates we follow the methodology outlined in [22]. The most significant primordial production would be expected during the transition from quark-gluon plasma (QGP) to
+
+/
+
+
+
+Figure 2. The primordial production of d*(2380)-BEC (expressed as a ratio to baryon matter) calculated as a function of binding energy per baryon, Bˆ(see appendix B for
+details) and decoupling temperature. The red line shows the loci corresponding to the current experimental determination of the dark matter to matter ratio [23].
+
+hadrons and this was estimated as a function of decoupling temperature and d*(2380)-BEC binding energy per baryon (or equivalently its mass) (see appendix A). The predicted pri-mordial abundance of d*(2380)-BEC as a ratio to conventional baryonic matter is presented as a function of these quantities in figure 2. It is clear that for a wide range of (feasible) d*(2380)-BEC binding energies the predicted primordial abundance greatly exceeds that of standard baryonic matter. At the decoupling temperature of the QGP to hadrons (∼155 MeV) very significant primordial production of d*(2380)-BEC is evident for a wide range of binding energies. Also displayed on the figure is the experimentally determined constraint on the DM fraction in the Universe; ΩDM/Ωbaryon = 5.3 ± 0.1. Assuming dominant freeze out close to the temperature of the QGP phase transition (∼155 MeV), and taking the limit where all observed DM arises from d*(2380)-BECs, would necessitate a binding energy of order
+∼200 MeV (see figure 1 for the corresponding constraints on condensate multiplicities). This could be reduced even further if condensate formation would also be possible at lower
+decoupling temperatures in the hadronic phase, for example through pn « d*(2380)
+processes.
+The concept of a new, light-quark QCD inspired DM candidate produced near the QGP phase transition is also interesting due to the recently proposed separation of quarks and antiquarks at freezeout [24]. The signatures of such CP violating effects are searched for in a number of ongoing heavy-ion beam experimental programmes. If this is confirmed, the
+possibility for a preferential formation of antimatter d¯*(2380)-BECs is worthy of further study
+due to the possibility to ‘hide’ primordially produced antimatter in the form of a BEC.
+
+
+Potential astronomical signatures
+The theoretical estimates for d*(2380)-BEC formation indicate it could be a plausible new light-quark based DM candidate. As creating the necessary d*(2380) multiplicities and densities for BEC formation (see section 2) is out of the reach of currently conceivable experimental facilities, then confirmation of the existence of d*(2380)-BECs relies on
+
+/
+
+
+Figure 3. The d*(2380)-BEC decay spectrum, presented as a flux per d*(2380), per MeV of kinetic energy. The flux is separated into the contributions from gamma (black), nucleons (green), deuterons (red) and charged pions (blue).
+
+astrophysical signatures. In this section we employ our current knowledge of the d*(2380)ʼs properties to identify possible features that could be incorporated in future DM searches.
+As discussed in section 2 our results indicate d*(2380)-BEC have a formation threshold of around ∼1000 constituents if the d*−d* interaction scales simply from the nucleon–nucleon case, or a threshold of many millions if the d*−d* interaction is weaker. The upper d*(2380)-BEC multiplicity limits (for the assumed attractive d*−d* interaction) correspond to masses at the gram scale. Such d*(2380)-BEC ‘nuclei’ would posses a very large positive charge. As discussed in section 2 the expected absence of such a surface effect in the d*(2380)-BEC favours ‘chain-state’ structures, in which the Coulomb repulsion between constituents is minimised. Such behaviour is already observed for the analogous α-BEC ‘chain states’ in light nuclei [15]. Neutral atomic systems may form around the d*(2380)-BEC, but the equivalent atomic number would be well in excess of standard atoms. Calcu-lations of, and subsequent searches for, atomic line series from such high-Z, extended structures may provide one route to the observation of d*(2380)-BECs, if transitions in the d*(2380)-BEC atomic series are distinguishable from, and inconsistent with, known atoms. With recent advances in x-ray telescopes anomalous transitions are already being identi-fied [25].
+However, if larger mass and therefore highly-charged d*(2380)-BEC form, the bound electrons (and muons if the Fermi momentum is sufficiently high) may have such confined radii that the structure tends towards mixed hadronic and leptonic matter. Such heavy ‘atoms’ would have a net zero charge while being gravitationally weak. Therefore observation through standard astronomical methods based on atomic electromagnetic signatures may be challenging or impossible.
+The direct observation of decays products from a d*(2380)-BEC are likely to be the clearest experimental signature. Condensate breaking would require an energy transfer to the condensate (e.g. via cosmic ray interactions) greater than the gap between the condensed and non-condensed states. Figure 3 shows the expected yield of reaction products from a complete condensate collapse of a d*(2380)-BEC at rest, calculated using the established ‘free-space’ decay branches of the d*(2380). A very high multiplicity, localised and essentially instan-taneous emission of γ radiation along with an intense flux of deuterons, nucleons and charged
+
+/
+pions would be expected from a condensate collapse3. Such characteristic emission spectra could be searched for in astronomical observations.
+The existence of d*(2380)-BEC decays in the Earth’s atmosphere or close to its surface would produce energies comparable with cosmic-ray events, but without directionality. As cosmic-rays should not be able to pass through the Earth based on our current understanding of standard model physics, then upward going ‘cosmic-ray’ events may provide a potential signal. The experimentally observed (and currently unexplained) upward going cosmic-ray events [26] could also therefore be explored to put astronomical constraints on d*(2380)-BECs.
+An enhancement of any d*(2380)-BEC decay signal could be achieved if signatures of the parent π0 mesons, which dominantly produce the γ flux, could be identified. Such measurements are already obtained for π0 produced from the Moon’s surface (e.g. with the Fermi-LAT telescope [27]). However, better directional information and proximity to the surface to localise the source would be of benefit, such as may be achieved in the Lunar Prospector mission [28].
+
+Conclusion
+In this paper we present a first investigation into the feasibility of the formation of stable Bose–Einstein condensates of bosonic, isoscalar, hexaquark matter formed from the recently discovered d*(2380). The d*(2380) condensates are predicted to be stable for a multiplicity threshold ranging from 1000ʼs to millions dependent on the detailed nature of the d*(2380)ʼs self-interaction. Very significant primordial production at the QGP to hadronic phase trans-ition appears feasible dependent on the condensate properties, suggesting a new potential candidate for DM. Some possible astronomical signatures and search scenarios for estab-lishing the existence of such matter are presented. The ongoing and planned x-ray and gamma ray astronomy facilities could potentially set limits on the existence of d*(2380) condensates.
+
+Appendix. A
+The derivations of the form of the Coulomb terms and their density dependence for the case of spherical and linear condensates are outlined below.
+
+Spherical case
+The electrostatic energy E of a spherical nucleus can be approximated by the energy of a homogeneously charged sphere enclosing a charge, Q:
+3  1  Q2	3  1	Z (Z - 1)
+
+E =	»	,
+(3)
+
+5 4p0 R
+where Z is the nuclear charge and r0 the parameter defining the average separation of nucleons in the nucleus (or equivalently hexaquarks in a condensate). The r0 parameter is extracted from the observed scaling of nuclear radii with mass number R = r0 A1 3 (or for condensate R = r0D1/3). From comparison with the form of the Coulomb term in equation (1), ac is given by:
+
+
+3 The main decay channels are
+pnp+p-.
+d*  dp0p0, d*  pnp0p0, d*  ppp-p0, d*  nnp+p0, d*  dp+p-, d* 
+
+/
+1  e2	3 kca
+
+ac = / = /, 5 4p0 r0	5 r0
+(4)
+
+
+
+ac (MeV) =
+0.86 ,
+r0(fm)
+(5)
+
+where k is the reduced Planck’s constant, e the electron charge, α(∼1/137) the fine structure constant and c the speed of light in vacuum. The standard nuclear value (r0 = 1.25 fm) gives ac = 0.7 MeV. The formula for ac can also be expressed as a function of the dimensionless parameter ρ/ρ0:
+
+r =   mN A   r
+= 1.18 (fm) ,
+
+(6)
+
+/3pr3A	0
+
+
+ac¢(MeV) = ac (MeV) = 0.73 · 3 r r0 .
+(7)
+
+This way the formula for the ac calculations can be generalised as a function of the matter density, including for the case of condensate matter. Note that for the spherical case ac¢ and ac (see text) are the same. Equation (7) illustrates the weak dependence of the ac term with matter density.
+
+Linear chain case
+The Coulomb energy for a homogeneously charged rod of enclosed charge (Q), having length
+l is given by electrostatic theory as:
+
+
+E =	1  Q ,
+4p0 l
+(8)
+
+
+
+a ¢ = kca ,
+(9)
+
+/
+c	l
+
+
+ac¢(MeV) =
+1.43 .
+l (fm)
+(10)
+
+For the linear case the volume is defined by the width and the length of the cylindrical volume. Therefore an additional parameter is needed, the radius of the d*(2380). Here we
+adopt a value of rd* = 0.5 fm in accordance with 14. However, ac¢ has a rather weak
+
+dependence on the adopted value.
+r =  md*D   l =
+pr 2 lD
+d
+
+5.6 (fm)	,
+r 2 (fm2) · r [r0]
+
+(11)
+
+r * = 0.5(fm)  l = 22.4 (fm) ,
+r [r0]
+(12)
+
+ac¢(MeV) = 0.064 · r/r0.
+(13)
+
+For the linear condensate the binding energy contribution per d* from the Coulomb term is therefore constant i.e. independent of the number of participating d*ʼs. Note that this differs from the volume term, which is proportional to the number of participants.
+
+/
+Appendix. B
+Boltzmann’s law give the number density of particles with mass m, degrees of freedom (g) as:
+⎛ mT ⎞3 2 m-m
+
+n = g ⎜	⎟
+⎝ 2p ⎠
+e T ,
+(14)
+
+where T is the temperature and μ is the chemical potential. For a non-strange medium at high temperature (md - mu  T ), the number of u and d quarks approaches equality. For this situation it is possible to compare the number density of the proposed ‘hexaquark matter’ with ‘proton–neutron’ matter.
+The d* has spin S = 3, giving 2S+1 degrees of freedom and g * = 7. For the nucleonic case the two nucleons can be either in spin S = 1 or S = 0 states. Summing these possibilities
+*
+gives gpn = 4. Taking mˆ * as the mass of the bound d in condensate gives:
+
+ nd*
+7 ⎛ mˆ d*
+3 2 
+2MN  d *
+
+= /⎜	⎟	e  T
+(15)
+
+npn
+4 ⎝ 2mN ⎠
+
+Introducing the binding energy of the d* in condensate per baryon as Bˆ = 2MN - mˆ d* we
+2
+can rewrite equation (16) with a matter density parameter Ω as:
+
+W	7 ⎛ 2m
+- 2B^⎞5/2 ^	7 ⎛
+B^ ⎞5/2 ^
+
+  DM  = /⎜	N	 ⎟
+W	4	2m
+2B = /⎜1 -	⎟
+4	m
+eT .
+(16)
+
+matter	⎝	N	⎠	⎝	N ⎠
+
+
+ORCID iDs
+M Bashkanov / https://orcid.org/0000-0001-9822-9433 D P Watts / https://orcid.org/0000-0003-4758-9599
+
+References
+Bertone G and Tait T M P 2018 Nature 562 51
+Aprile E et al 2018 Phys. Rev. Lett. 121 111302
+Faessler A, Buchmann A J, Krivoruchenko M I and Martemyanov B V 1998 J. Phys. G: Nucl.
+Part. Phys. 24 791
+Kolb E W and Turner M S 2019 Phys. Rev. D 99 063519
+Bashkanov M et al 2009 Phys. Rev. Lett. 102 052301
+Adlarson P et al 2011 Phys. Rev. Lett. 106 242302
+Adlarson P et al 2013 Phys. Lett. B 721 229
+Adlarson P et al 2013 Phys. Rev. C 88 055208
+Adlarson P et al 2015 Phys. Lett. B 743 325
+Adlarson P et al 2016 Eur. Phys. J. A 52 147
+Adlarson P et al 2014 Phys. Rev. Lett. 112 202301
+Adlarson P et al 2014 Phys. Rev. C 90 035204
+Bashkanov M, Clement H and Skorodko T 2015 Eur. Phys. J. A 51 87 7
+Huang F, Shen P N, Dong Y B and Zhang Z Y 2016 Sci. China Phys. Mech. Astron. 59 622002
+Suhara T et al 2014 Phys. Rev. Lett. 112 062501
+Pastore A et al 2019 Private communications
+Adlarson P et al 2012 Phys. Rev. C 86 032201
+Roepke G, Schnell A, Schuck P and Nozieres P 1998 Phys. Rev. Lett. 80 3177
+Yamada T and Schuck P 2004 Phys. Rev. C 69 024309
+Chavanis P-H 2011 Phys. Rev. D 84 043531
+
+/
+Park J-C and Park S C 2014 Phys. Lett. B 728 41–4
+Farrar G R 2011 arXiv:1805.03723
+Ade P A R et al 2016 Astron. Astrophys. J. 594 A13
+Kharzeev D 2006 Phys. Lett. B 633 260
+Bulbul E, Markevitch M, Foster A, Smith R K, Loewenstein M and Randall S W 2014 Astrophys.
+J. 789 23
+Gorham P W et al 2018 Phys. Rev. Lett. 117 071101
+Ackermann M et al 2016 Phys. Rev. D 93 082001
+Ota S, Kobayashi S, Sihver L, Yamashita N and Hasebe N 2011 Earth Planets Space 63 25
+
+EPJ Web of Conferences 52, 04008 (2013) DOI: 10.1051/epjconf/20135204008
+⃝C Owned by the authors, published by EDP Sciences, 2013
+
+A Quark Matter Contribution to the Cosmic Ray Spectrum
+
+Kyle Lawson1,a
+1Department of Physics and Astronomy, University of British Columbia, Vancouver, BC, V6T 1Z1, Canada
+
+Abstract. I will describe a possible dark matter model in which the dark matter is composed of heavy “nuggets" of standard model quarks and antiquarks bound in a high density phase of qcd. If objects of this type are formed early in the universe’s history they may provide the observed dark matter content. In this scenario the nuggets are dark not because of their fundamentally weak interactions but because of the incredibly small number density required to explain the observed mass density of the dark matter. The correspondingly small flux of these objects through the earth renders them invisible to conventional high sensitivity dark matter searches intended to detect weakly interacting particles with a flux many orders of magnitude larger. Instead the greatest search potential for dark matter models of this form may come from the largest scale cosmic ray detectors. I will briefly describe the properties of quark nugget dark matter and then use these properties in order to predict the signal they would produce in a variety of cosmic ray detectors.
+
+
+
+Quark matter as dark matter
+Conventional dark matter models generally assume the ex-istence of a new fundamental particle which interacts only weakly with the particles of the standard model and which carries a conserved charge to prevent its decay over cos-mological timescales. The properties of this new particle are then to be extracted from the observed properties of the dark matter. As an alternative to invoking new funda-mental physics there exists a class of dark matter models in which the dark matter is a composite object consisting of standard model particles. In the dark matter model con-sidered here the dark matter takes the form of nuggets of standard model light quarks locked in a colour supercon-ducting phase (or whatever phase is actually realized in the high density limit of qcd.) It has been speculated that such objects could be formed at qcd phase transition of the early universe at which time the essentially “freeze out" of interactions with the surrounding plasma. This model is similar to earlier objects such as “stranglets" in which the high density phase is stabilized by the presence of strange quarks [1].
+The particular model considered here differs from ear-lier composite dark matter candidates in that these objects may be composed of either matter or antimatter and was originally proposes as an explanation of the matter dom-inance of the universe. It is assumed that the very early universe contained equal amounts of matter and antimat-ter and that a baryogenesis process must occur resulting in the present day matter dominance. In this scenario the dark matter forms through a charge separation mechanism in which the formation of nuggets of antimatter proceeds slightly faster than the rate of matter nugget formation. Af-
+
+aklawson@phas.ubc.ca
+ter the phase transition the hadronic matter not bound in nuggets annihilates with the remaining antimatter. How-ever the remaining plasma has an excess of quarks corre-sponding to the excess of antiquarks locked in the nuggets. The remaining matter makes up the visible component of the universe. This mechanism can explain the observed visible matter to dark matter ratio if the matter component of the universe is composed of dark antimatter nuggets, dark matter nuggets and visible matter in a 3:2:1 ratio. More details on this model may be found in [2], [3], [4] and the references therein.
+
+Nugget structure
+
+At asymptotically large densities the ground state of qcd is a colour superconducting quark matter state with equal numbers of u,d and s quarks. This state is electrically and composed purely of the three light quark flavours. How-ever, at the surface of a nugget composed of quark mat-ter the density must drop to zero from its bulk value. As the density drops so does the ability of the quark mat-ter to support a strange quark population of the heavier strange quarks. As such the outer shell of the quark matter contains only u and d quarks and carries a strong electri-cal field due to the charge difference between these two species. At the nugget surface the energy density of these electric fields will be near the qcd energy scale. In or-der to maintain overall electrical neutrality the nugget ac-quires a surrounding shell of electromagnetically bound leptons known as the electrosphere (though in the case of an antiquark nugget the electrosphere is in fact composed of positrons.) The electrosphere was modeled in detail in
+[5] and runs from nuclear scale densities near the surface
+
+
+
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License 2.0, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+Article available at	or
+
+EPJ Web of Conferences
+
+
+down to atomic densities far from the quark matter where the electrons see only a strongly screened central charge.
+While the actual nugget structure may be rather com-plicated depending on the specific qcd phase realized many of these details are incidental to the general effects that I will consider below. Of primary importance is the pres-ence of a higher than nuclear density quark matter core in a non-baryonic phase and a surrounding electrosphere of electrons or positrons.
+
+Observational constraints
+While, as argued above, the nuggets are effectively “dark" their interaction with visible matter that they do encounter is by not weak in any sense. It is only the rarity of these in-teractions makes them difficult to observe. At present the best constraints on the model are derived from astrophys-ical observations. Of particular interest are observations of regions where both the visible and dark matter densi-ties are substantially above average. Here I briefly outline some of the relevant observations.
+A stronger than expected 511keV line, associated with low momentum electron positron annihilation, is observed from the galactic centre [6]. This indicates the presence of significantly more antimatter in the galactic centre than is predicted by standard astrophysical models and may be explained by the annihilation of galactic electrons in the outer, low temperature, positron layers of a population of quark nuggets [7].
+The compTEl satellite observes an excess of diffuse gamma rays from the galactic centre at the MeV energy scale. In the quark nugget model this emission is neces-sarily co-produced with the 511 keV line [8]. While the majority of galactic electrons incident on a nugget will an-nihilate almost immediately on contact with the outer lay-ers of the electrosphere a small fraction will be capable of penetrating sufficiently deep into the nugget that they an-
+plasma is too hot to remain bound to the galaxy and has no obvious heating mechanism [11]. At the microwave scale the wmap satellite observes a “haze" associated with the galaxy. The scale of both of these diffuse sources is con-sistent with the predictions of the quark nugget dark matter model.
+The observations outlined above all arise from the in-teractions of visible and dark matter in the relatively high density region near the galactic centre. Recent work has also analyzed the contribution of these objects the cosmo-logical background [12]. The density of the universe at very early phases of it’s evolution was comparable to that of the galactic centre today and, as such, we would ex-pect a similar diffuse radiation contribution to that from the galactic centre but redshifted down in energy by roughly three orders of magnitude. In fact, sky temperature mea-surements by the arcadE2
+While none of these sources independently provide a smoking gun the absence of any one of these sources, in roughly the observed ratio, would have immediately ruled out this dark matter model. Based on the observed scale of emission and assuming a typical dark matter profile for the galactic centre we may estimate the average quark nugget mass required to produce a diffuse continuum at this scale (smaller nuggets have a larger number density and thus produce a stronger diffuse emission.) A rough fit to the galactic backgrounds would suggest that the nuggets have an average baryonic charge of B ∼ 1025 or, equivalently, a mass of roughly a gram.
+
+Estimated flux and energy
+For present purposes the most important consequence of this model is the presence of massive nuggets of nuclear density antiquarks in the solar neighbourhood. Given a lo-cal dark matter density of roughly 1GeV cm−3 and a galac-tic velocity of 200 km/s the flux of quark nuggets is,
+
+nihilate with positrons carrying momenta near the binding
+energy scale of the quark matter. Detailed calculations of the structure of the positron layer and annihilation rates
+ dN 
+dA dt = nv ≈
+ 1025 !
+/
+
+
+km−2
+
+yr−1
+.	(1)
+
+produce a 511keV to MeV emission ratio consistent with that observed [5].
+The annihilation of galactic protons is a more com-plicated many body problem than the case of electrons. A proton colliding with the nugget will penetrate into the nugget and annihilate to jets of light mesons. This process results in two distinct annihilation signals. If one of the resulting jets is directed back towards the nugget surface the energy will rapidly heat a region of the positron layer which will subsequently emit in the xray band [9]. Jets unable to reach the surface dissipate their energy in the nugget increasing its temperature and resulting in thermal emission. The scale of the thermal spectrum is determined by the surrounding matter density and for the galactic cen-tre will be in the microwave band [10]. In both of these bands an excess emission above expected galactic back-grounds are detected. The chandra telescope detects an excess of emission from the galactic centre which it char-acterizes as consistent with an 8keV plasma though such a
+Where the nuggets’ average baryon charge, B, should be taken to be around 1025. While this flux is far below the sensitivity level of conventional dark matter searches it is accessible to large scale cosmic ray detectors being com-parable to the cosmic ray flux near the gzk limit.
+A nugget of quarks will deposit thermal energy in
+the atmosphere as it collides with atmospheric molecules, however, this process will produce only modest levels of ionization and will not generate any relativistic secondary particles. As such the prospects for detecting these events in a cosmic ray experiment are very limited. If however the nugget is composed antiquarks the resulting annihilation of atmospheric molecules will release considerably more energy, much of it in the form high energy secondary par-ticles. In order to estimate energy scale of these events we consider the case in which all of the atmospheric material in the path of the nugget annihilates completely. The at-mospheric depth is on the order of 1kg cm−2 and a quark nugget with a baryon number on the order of 1025 will
+
+ISVHECRI 2012
+
+
+have a radius of 10µm so that the energy generated by an-nihilations may be estimated as
+by thermal photons.) The partial deflection of incoming at-mospheric matter combined with the relatively small num-ber of annihilation products may push the number of emit-
+
+2	2	26
+   Rn	 2
+
+/ /
+
+ted secondary particles below the annihilation rate (3) by
+
+/
+
+
+While much of this energy will be thermalized within the nugget some will be released into the atmosphere and may be observable. Some discussion of the nuggets’ thermo-dynamics and interactions with the atmosphere is required before this energy can be translated observational conse-quences. However the scale of the total energy produced as an antiquark nugget crosses the atmosphere is large enough to suggest that these events may be observable to detectors of sufficient area.
+
+Atmospheric fluorescence
+The production of atmospheric fluorescence requires a large number of relativistic secondary particles. As these particles lose energy to the surrounding atmosphere they excite nitrogen molecules which subsequently emit in the UV band. The fluorescence yield of a quark nugget in-duced air shower may thus be estimated from the number of high energy secondary particles which the nugget in-jects into the atmosphere.
+Following the same logic which lead to equation (2) the total number of nucleons striking the nugget will be,
+suppression effects, the total number of secondaries will
+remain at least comparable to the number generated in a ultra high energy cosmic ray induced air shower. Shower evolution is then dependent on the thermal properties of the nugget and the surrounding atmospheric density. The evolution of these parameters with atmospheric depth has been discussed in [13] where it is argued that the shower evolution may in fact take a more complex form then sim-ply tracking the rise in atmospheric density.
+The most important distinguishing feature of the air shower associated with a quark nugget passing through the atmosphere is the distinctive time scale involved. While the emitted secondary particles travel at essentially the speed of light the nugget itself moves at a much slower galactic speed. This results in an air shower which may evolve over tens of milliseconds.
+
+Surface particle counts
+In a conventional air shower the production of secondary particles continues only as long as the shower contains particles of sufficient energy to break up atmospheric nu-clei. Beyond the point where ionization becomes the dom-
+
+
+Etot =
+XatπR2
+10 eV
+mN
+  Rn	 2
+10−5cm
+.	(3)
+inate interaction secondary particles cease to be created and only those particles with sufficient momenta will reach the earth’s surface where they may be detected.  Con-
+
+Where mN is the average mass per nucleon. This number however represents only an upper limit on the number of annihilations as thermal and radiation effects will likely cause some fraction of the incoming matter to be deflected before reaching the nugget’s surface [13].
+In order to estimate the number of secondary particles which these nuclear annihilations will produce consider the fate of an atmospheric nucleus incident on the surface of an antiquark nugget. Rather than annihilating directly on contact the nucleus will penetrate some distance into the nugget due to the relatively small wave function over-lap between the nucleons and the cooper pair states of the quark matter. When the nucleon annihilates the annihila-tion products will stream off as hadronic jets along with the other light modes of the superconductor. As the nu-cleus’ initial momentum is negligible in comparison to the total energy released the resulting jets will be randomly oriented relative to the nugget’s surface. If one of these jets happens to be directed back towards the quark surface any components of the particle cascade which are weakly coupled to the quark matter may escape across the sur-face. Strongly bound hadronic particles will remain bound to the nugget while electrons and positrons are unlikely to be able to be able to penetrate out through the electro-sphere and the associated strong electric fields. Conse-quently, muons produced in either the initial annihilation or the subsequent cascade will dominate particle emission from nugget (thought the total energy release is dominated
+versely, a quark nugget traveling through the atmosphere will continue to emit secondary particles across all atmo-spheric depths. These secondary particles are preferen-tially “beamed" in the forward direction of the nugget’s path as the majority of annihilations will occur on the nugget’s forward surface and only those annihilation com-ponents directed back towards the nugget surface are able to escape from the quark matter. The injection energy of these secondary particles depends only on nuclear physics processes within the nugget and consequently will be es-sentially constant across all atmospheric depths. Rather than producing the typical “pancake" of comoving sec-ondary particles observed in a conventional shower the nugget will carry with it a cone of secondary particles emitted along its line of motion.
+The nuggets themselves will move at a much slower velocity than the secondary particles it emits (unlike con-ventional showers where both the primary and secondary particles move at the speed of light.) This introduces a much longer timescale for the arrival of shower compo-nents. In [13] this timescale was estimated as follows. The highest energy shower components are likely to be muons with QCD scale energies (E ∼ GeV) in the ref-erence frame of a surface observer these particles have a lifetime on the order of 10µs during which time they travel a couple kilometers. Thus the cone of relativistic muons will extend roughly a kilometer ahead of the nugget. Once this cone reaches the surface relativistic muons will begin
+
+EPJ Web of Conferences
+
+
+to be seen in surface detectors. As the nuggets travel at velocities v ∼ 200km/s it will take on the order of a few milliseconds for the nugget itself to reach the surface at which point the emitted muons will be entirely absorbed by the earth and will no longer be detectable. A surface detector will thus detect particles over timescales from the millisecond down depending on the distance of the detec-tor from the shower centre.
+
+Radio signal
+The secondary particles emitted by the nugget will be de-flected by the earth’s magnetic field leading to the emis-sion of geosynchrotron radiation. This effect has also been considered in the case of air showers induced by a single ultrahigh energy primary and would allow for observations with a much higher duty cycle than conventional fluores-cence detection.
+As with the case of atmospheric fluorescence the total magnitude of the atmospheric radio signal will be compa-rable to that of a conventional air shower. This is for the simple reason that total number of contributing relativistic particles (which sets the magnitude of both the fluores-cence and geosynchrotron signals.) As with the fluores-cence signal the clearest differentiating feature between a quark nugget driven air shower and that of a ultra high en-ergy cosmic ray is in the signal timing. The fact that the nugget travels considerably slower than the speed of light causes the radio emission to occur over millisecond time scales.
+A second significant distinguishing feature of a quark nugget air shower in the radio band arises from the fact that the nugget itself is heated as it passes through the at-mosphere reaching keV scale temperatures near the earth’s surface. Despite the small area of the emitting surface such a high temperature can result in appreciable levels of ther-mal radiation. While this radiation is generally an order of magnitude smaller than the associated geosynchrotron signal it is spread across a broader range of wavelengths and a wider range of emission directions [14].
+As the nugget’s temperature is set by the density of the surrounding material the thermal emission may be boosted once the nugget enters the earth. It has been suggested [15] that the thermal emission from a nugget passing through the radio transparent antarctic ice will present a relatively strong signal across the radio band.
+Conclusion
+If the dark matter in our galaxy consists of nuggets of quark and antiquark matter then these nuggets, while evad-ing conventional dark matter searches, may be detectable by large scale cosmic ray detectors. If a nugget of anti-matter strikes the earth’s atmosphere it will induce an air shower of secondary particles at a scale similar to that pro-duced by a single ultra high energy cosmic ray. These air showers are detectable by the same means currently used to detect air showers associated with ultrahigh energy cos-mic rays. The main distinguishing feature of this type of shower is the significantly longer time duration associated with the relatively low velocity of the primary. If cur-rently operating or planned cosmic ray detectors are ca-pable of searching for signals on this longer (millisecond) timescale they will be able to explore most of the interest-ing parameter space for dark matter of this form.
+
+References
+Witten, E., Phys. Rev. D 30, (1984) 272-285
+Zhitnitsky, A., JCAP 10, (2003)
+	Oaknin, D. and Zhitnitsky, A., Phys. Rev. D 71, (2005) 023519
+Zhitnitsky, A., Phys. Rev. D 74, (2006), 043515
+Forbes, M.M., Lawson, K. and Zhitnitsky, A., Phys.
+Rev. D 82, (2010), 083510
+	Knodlseder, J. et al., Astron. and Astrophys. 441, (2005) 513-532
+Zhitnitsky, A., Phys. Rev. D 76, (2007) 103518
+Lawson, K. and Zhitnisky, A., JCAP 0801, (2008), 22
+Forbes, M.M. and Zhitnitsky, A., JCAP 0801, (2008),
+23
+Forbes, M.M. and Zhitnitsky, A., Phys. Rev. D 78, (2008), 083505
+Muno, M.P. et al, Astrophys. J. 613, (2004), 326-342
+Lawson, K. and Zhitnitsky, A.R., arXiv:1210.2400
+Lawson, K., Phys. Rev. D 83, (2011), 103520
+Lawson, K., arXiv:1208.0042
+Gorham, P., Phys. Rev. D 86, (2012), 123005
+
+A Theory of the Universe and Matter
+
+
+Daniel Lee Stark
+
+Abstract
+This paper presents a new concept for particle physics, which leads to a new concept for the universe and theories in physics. That concept is that the fundamental particle in the universe is a Dark Matter (DM) particle, and our matter consists of excited DM particles. The excited DM particles are theorized as formed in small regions of the universe where DM particles have been concentrated via gravitational attraction, which also acts to concentrate gravitational potential energy. These high-energy DM concentrations energize DM particles, creating the electromagnetic fields, which forms our matter and our sub-universe. The DM particles only interact via a gravitational field; however, the excited DM is theorized to also create the electromagnetic force. The weak and strong nuclear forces are theorized as an edifice of the DM basic bubble like structure.
+All matter is composed of only two items, DM and energy. All particles are composed of different combinations of these two items.
+The greater universe is an even distribution of DM particles with all energy stored as gravitational potential. Our sub-universe is a concentration of DM and energy. The energy flows back to lower energy regions in the universe following the same principle as the thermodynamic laws. The energy flows back to the universe’s lower energy regions via excited DM particles, creating the appearance of an expanding universe.
+Thus we live in two universes, an infinite DM universe and a finite sub-universe composed of our matter with both universes sharing the same space, time, energy, gravity and DM particles.
+This theory has major implications in “a theory of the universe,” particle physics and general physics. This simple assumption provides alternate theories to many of current accepted theories. The model presented herein is less complex than the current Standard Model, origin of the universe, and relativity. Many current contradictions are resolved. This theory lends itself to more rigorous mathematical modeling of physical phenomena, enabling a more rigorous mathematical modeling as compared to current theories.
+
+
+A Theory of the Universe and Matter
+
+
+Table Of Contents
+	Logic Used To Derive This Theory	1
+Recent Revelations About Our Universe & Dark Matter	1
+A New Theory For The Nature Of Particles Based On Logic	1
+Our Matter Consists of DM Excited Particles	1
+DM Particles Have Mass & Mass is Conserved	2
+DM Bubble Structure Hosts Energy	2
+DM Particles May Also Combine & Group	2
+	Summary of The Bubble Theory	2
+	New Concept for the Universe	3
+Our Sub-Universe Inside an Infinite DM Universe	3
+Ground State DM Universe	3
+Creation of Our Sub-Universe	3
+Expanding Universe	3
+DM Galaxy Formation	3
+Our Matter Created at Each Galaxy	4
+The Evolution of the Universe and Our Sub-Universe	4
+Quiescent Infinite DM Universe	4
+We Exist in Both Universes	5
+Possibly Certain Size DMs are Excited	5
+Our Matter May Only Exist at a Low Energy States	5
+A New Concept for Particle Physics	5
+Our Matter and the Electromagnetic Force	5
+New Particle Definition for DM & Excited DM	5
+The Fundamental Particle is a DM Particle	5
+DM Particles Have Mass	6
+Particles That Travel the Speed of Light	6
+Degrees-Of-Freedom to Excite DM Particles	6
+Naming Method For Excited Particles	7
+DM Particle Discussion	7
+Physics of a Large DM Concentration	8
+No Pressure Inside a Large DM Concentration	8
+Other Impacts On Physical Concepts	8
+The Universe Requires a New Term for its Energy State	8
+Electromagnetic Force and Weak-Strong Nuclear Force	9
+Speed Of Light In a Vacuum Dependent on Force Fields	9
+Gravity is Quantized	10
+Energy and Mass Conversion Disputed	10
+Cosmological Constant	11
+No Big Bang	11
+A Star’s Gravity Effect on Passing Photons	11
+Further Exploration Required	12
+Why Do Only Photons Travel at The Speed of Light	12
+Photons May Decay	12
+Propagation Velocity for Gravity & EM Forces	13
+Vacuum Energy	13
+De Broglie Waves	13
+Conclusions	13
+
+A THEORY OF THE UNIVERSE AND MATTER
+
+
+
+  Logic Used To Derive This Theory
+Prior to providing the theory advanced by this paper, the evidence and the logic that derived this theory is presented.
+Recent Revelations About Our Universe & Dark Matter
+First, the evidence collected in recent astronomical discoveries forms the framework for this theory.
+Abbreviated samples of this evidence is referenced and partially presented below.
+An image of galaxy MCS J0416.1–2403, one of six clusters targeted by the Hubble Frontier Fields program, is shown in figure one. 1 The image’s blue is a DM map detected by Hubble combined with Chandra using gravitational lensing.
+DM appears more evenly spaced in the universe, and around new galaxies whereas our matter is mainly in galaxies, with little matter between galaxies. Our Universe is distributed in a highly structured fashion.
+Large concentrations of stars and cosmic dust interspersed with large areas of empty space. These star concentrations form galaxies, with very little of our matter between galaxies, empty space. The bigger picture shows galaxies in clusters. Galaxy clusters are located in the densest concentrations formed in large strings. This cosmic network of strings shows very little of our matter between them. Matter appears to first concentrate into large strings, then into galaxies.
+The Super Massive Black Hole (SMBH) at the center of galaxy NGC 1365 has a disk edge velocity at 84% the speed of light. 2 Such a SMBH, if typical, creates a very high-energy particle accelerator. When the edge of the SMBH is spinning at 84% of the speed of light, particle escape is easily achieved. The escape velocity adds to the Eddington luminosity.
+The faster the black hole spins, the larger its ergo-sphere, which provides high-energy collisions farther from the event horizon adding to the probability that a particle will escape into the galaxy.
+Galaxies are observed to have SMBHs at the center with new star formation near the center of these galaxies. Galaxies without these SMBHs do not have new star formations.
+Bogdan and his colleague Andy Goulding from Princeton University investigated the correlation between SMBHs and DM halos around galaxies. 3 They used data from 3,000 elliptical galaxies. Star motions provided the mass for the galaxy’s central black hole, and X-ray measurements of hot gas surrounding the galaxies determined the DM halo’s mass.
+DM constitutes most of the matter in our observable universe, possibly as much as 90%. Every galaxy is
+
+surrounded by a halo of DM that weighs as much as a trillion suns and extends for hundreds of thousands of light-years. A strong correlation was determined between the DM halo’s mass and the black hole’s mass.4
+Researchers established that a galaxy’s evolution and structure is directly related to the size of the massive black hole(s) in the center of the galaxy. A second observation is that star revolution speed at the outer edge of the galaxy was directly related to the size of the galaxy’s inner black hole.
+New suns and solar systems are born near the center of each galaxy, and propagate outward over time. Matter rotating in the same direction as the galaxy’s SMBH allows formation of structured solar systems with sufficient angular momentum to prevent the matter from returning to the SMBH.
+The most spectacular accretion disks found in nature are those of active galactic nuclei and of quasars, which are believed to be Massive Black Holes (MBH) at the center of galaxies. The accretion disk is the matter above the event horizon around the MBH.
+A New Theory For The Nature Of Particles Based On Logic
+The second part of the logic leading to the derivation of this theory requires speculation about the nature of matter, and identification of the fundamental particle. Selecting a DM particle as the basic particle is based on the realization that our matter is possibly only 10% of the universe, and may be the exception rather than the rule.
+Our Matter Consists of DM Excited Particles
+The first step is to understand the nature of our particles. Our intuitive senses provide a concept of “solid” which prevents particles from passing through each other, but bouncing upon collision. However, particles have repulsive forces from electromagnetic fields, which creates the illusion of “hard particles” upon collision.
+The concept that a particle is mainly open space is not new. Literature sources cite early German scientists referring to matter as froth, with even Einstein describing matter accordingly. In 1955 John Wheeler described matter as Quantum foam (also referred to as space-time foam). 5
+The theory presented herein theorizes the DM particles as a gravity bubble. The concept of a gravity bubble is selected herein rather than a graviton or a wimp in order to free the DM particle from properties currently assigned to those defined particles. However, a graviton may be more appropriate if its properties  are  redefined.  A  graviton’s  current
+
+A THEORY OF THE UNIVERSE AND MATTER
+
+
+properties are described as: massless, relativistic velocities, a particle of force, no weak interactions.
+A bubble structure is selected to avoid the gravitational force approaching infinity as one approaches the “center” of the DM particle. The minimum dimension is most likely Plank’s constant, which avoids excessive particle gravitational fields near a particle’s center. The lesson is that nature does not have singularities or points. Points are an edifice of math, not represented by matter in nature.
+The bubble structure is oversimplified in that a better analogy may be described as a hollow liquid droplet, which does not have a surface, but a decreasing fluidic nature radially outward. A “bubble” structure with an infinite number of shells may suffice as an adequate mathematical model. A shell is described by the allowed energy quanta. The bubble structure is similar to a balloon wherein quantized energy packets in a shell are allowed; however, the number of allowed shells is infinite, allowing the addition or subtraction of non-quantized energy from the bubble structure mode. Each shell can support three modes, the stable mode being (1,1,1). This complex model will be referred to in its simpler form as a “gravity bubble” in this paper.
+DM Particles Have Mass & Mass is Conserved
+A DM particle satisfies the definition of mass because it is capable of supporting kinetic energy and gravitational attraction, thus having inertial mass and gravitational mass.
+All particles will have mass since all particles are either a ground state DM or an energized DM particle. The revelation is that mass can be applied to a DM particle, and an energized DM has the same mass as the original DM. Mass and energy are conserved even during nuclear reactions. This theory contradicts the current graviton description by assigning mass to the gravity bubble, thus requiring definition

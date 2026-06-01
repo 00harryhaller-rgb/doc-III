@@ -1,0 +1,1776 @@
+perturbations manifests itself from a certain epoch (depending upon model parameters) during the matter era. This is useful to place constraints on model parameters using the data of large scale structure and CMB.
+This paper is organized as follows. In Sec. II we consider a class of scalar-tensor theories with constant coupling
+Q. In Sec. III we study the background cosmological dynamics and consider the case of constant as well as varying λ (the slope of the potential in the physical frame). In this section we also introduce a family of potentials which are natural generalizations of a viable family of models in f (R) gravity. In Sec. IV we discuss the LGC under the chameleon mechanism and place experimental bounds on parameters of viable scalar-tensor models using solar-system
+and equivalence principle constraints. In Sec.	we study the evolution of the equation of state of DE and show that
+the divergence of wDE previously found in f (R) theories is also present in the class of scalar-tensor models considered here which are compatible with LGC. In Sec. VI we discuss the evolution of density perturbations and place constraints on the coupling and model parameters employing the predicted difference in the slopes of the power spectra between large scale structure and the CMB. Finally we conclude in Sec. VII. The stability analysis which is crucial to derive
+the background cosmological scenario is briefly summarized in Appendix A 1. In Appendix	we also clarify the
+stability condition of a de-Sitter point that appears in the presence of the coupling Q for varying λ.
+
+3
+
+SCALAR-TENSOR THEORIES
+
+We start with a class of scalar-tensor theories, which includes the pure f (R) theories as well as the quintessence models as special cases, in the form
+S = ∫ d4x√−g 1 f (ϕ, R) − 1 ζ(ϕ)(∇ϕ)2 + S (g , Ψ ) .	(1)
+
+Here, f is a general differentiable function of the scalar field ϕ and the Ricci scalar R, ζ is a differentiable function of ϕ and Sm is a matter Lagrangian that depends on the metric gµν and matter fields Ψm. We also choose units such that κ2  8πG = 1, and restore the gravitational constant G when it makes the discussion more transparent.
+The action (1) can be transformed to the so called Einstein frame under the conformal transformation [36] :
+g˜µν = e2Ω gµν ,	(2)
+
+
+where
+
+1
+Ω = / ln F,	F = 2
+
+∂f
+.	(3)
+∂R
+
+In the following we shall consider F to be positive in order to ensure that gravity is attractive.
+We shall be considering theories of the type
+f (ϕ, R) = F (ϕ)R − 2V (ϕ) ,	(4)
+for which the conformal factor Ω depends upon ϕ only. Introducing a new scalar field φ by
+∫ s 3  F,ϕ 2	ζ 
+φ =		2	F	+ F  dϕ ,	(5)
+
+the action in the Einstein frame becomes [36]
+S = ∫ d4x√−g˜ 1 R˜ − 1 (∇˜ φ)2 − U (φ) + S (g˜ F −1, Ψ ) ,	(6)
+
+where a tilde represents quantities in the Einstein frame and
+V
+U = F 2 .	(7)
+In f (R) gravity theories without the field ϕ, the conformal factor Ω depends only on R. Introducing a new scalar field to be
+√6
+φ =	ln F ,	(8)
+2
+the action in the Einstein frame is given by (6) with the potential [36]
+U = RF − f .	(9)
+2F 2
+Hence, the f (R) gravity can be cast in the form of scalar-tensor theories of the type (1) with (4), by identifying the potential in the Jordan frame to be V = (RF	f )/2.
+In order to describe the strength of the coupling between dark energy and a non-relativistic matter, we introduce the following quantity
+Q =	F,φ .	(10)
+2F
+From Eq. (8) one has F = e2φ/√6 which shows that the f (R) gravity corresponds to
+Q = −1/√6 .	(11)
+
+4
+
+In what follows we shall study a class of scalar-tensor theories where Q is treated as an arbitrary constant. This class includes a wider family of models, including f (R) gravity, induced gravity and quintessence models. Using Eqs. (5) and (10) we have the following relations
+
+
+F = e−2Qφ ,	ζ = (1 − 6Q2)F
+
+Then action (1) in the Jordan frame together with (4) yields
+dφ 2
+dϕ
+
+.	(12)
+
+S = ∫ d4x√−g" 1 FR − 1 (1 − 6Q2)F (∇φ)2 − V # + S (g  , Ψ  ) .	(13)
+
+In f (R) gravity the kinetic term of the field φ vanishes with the potential given by V = (RF	f )/2. Note that in the limit, Q	0, the action (13) reduces to the one for a minimally coupled scalar field φ with a potential V (φ).
+It is informative to compare (13) with the following action
+S = ∫ d4x√−g" 1 χR − ωBD (∇χ)2 − V # + S (g  , Ψ ) ,	(14)
+
+which corresponds to Brans-Dicke theory with a potential V . Setting χ = F = e−2Qφ, one easily finds that two actions are equivalent if the parameter ωBD is related with Q via the relation
+1
+3 + 2ωBD = 2Q2 .	(15)
+Under this condition, the theories given by (13) are equivalent to the Brans-Dicke theory with a potential V .
+In the following sections we shall in turn consider the evolution of the background dynamics in homogeneous settings, the local gravity constraints and the matter density perturbations.
+
+HOMOGENEOUS COSMOLOGY
+
+In what follows we shall discuss cosmological dynamics for the action (13) in the flat Friedmann-Lemaitre-Robertson-Walker (FLRW) spacetime ds2 = dt2 + a2(t)dx2, where t is cosmic time and a(t) is the scale factor. As a source of the matter action Sm, we consider a non-relativistic fluid with energy density ρm and a radiation with energy density ρrad. Then the evolution equations in the Jordan frame are given by
+3FH2 = 1 (1 − 6Q2)F φ˙2 + V − 3HF˙ + ρ  + ρrad ,	(16)
+
+2F H˙
+= −(1 − 6Q2)F φ˙2 − F¨ + HF˙ − ρm
+4
+— 3 ρ
+
+
+rad
+
+,	(17)
+
+ρ˙m + 3Hρm = 0 ,	(18)
+ρ˙rad + 4Hρrad = 0 ,	(19)
+where H	a˙/a and a dot represents a derivative with respect to t. Taking the time-derivative of Eq. (16) and using Eq. (17), we obtain
+(1 − 6Q2)F φ¨ + 3Hφ˙ + 2FF˙ φ	+ V,φ + QFR = 0 ,	(20)
+where the Ricci scalar is given by
+R = 6(2H2 + H˙ ) .	(21)
+We regard the Jordan frame as a physical one, since the usual matter conservation holds in this frame [see Eq. (18)].
+In order to study the cosmological dynamics, it is convenient to introduce the following dimensionless phase space variables
+
+φ˙	1 r V
+
+/	/
+1 r ρrad
+/	/
+
+5
+
+Then the constraint equation (16) yields
+Ω	≡  ρm  = 1 − (1 − 6Q2)x2 − x2 − 2√6Qx − x .	(23)
+
+We also define the following quantities
+Ωrad ≡ x2 ,	ΩDE ≡ (1 − 6Q2)x2 + x2 + 2√6Qx1 .	(24)
+3	1	2
+Eq. (23) then yields the relation Ωm + Ωrad + ΩDE = 1. From Eqs. (17) and (20) we obtain
+H˙	1 − 6Q2 h	2	2	2	2 2 /	√/	i	2
+φ¨	= 3(λx2 − √6x ) + 3Q h(5 − 6Q2)x2 + 2√6Qx − 3x2 + x2 − 1i .	(26)
+Using these relations, we obtain the following autonomous equations:
+
+dx1
+= √6 (λx2 − √6x ) + √6Q h(5 − 6Q2)x2 + 2√6Qx
+— 3x2 + x2 − 1i − x
+H˙
+,	(27)
+
+dN	2	1	2
+dx2	√6	H˙
+1	1	2	3
+1 H2
+
+dN =	2 (2Q − λ)x1x2 − x2 H2 ,	(28)
+
+dx3
+
+= √6Qx x
+— 2x − x
+H˙
+,	(29)
+
+where N ≡ ln (a) is the number of e-foldings and λ is defined by
+
+λ ≡ − V,φ .	(30)
+
+The exponential potential V (φ) = V0e−λφ gives a constant value of λ. Generally, however, λ is dependent on φ, where the field φ is a function of x1, x2 and x3 through the definition of x2 and Eq. (25). Hence Eqs. (27)-(29) are closed. The effective equation of state is given by
+2 H˙
+weff ≡ −1 − 3 H2
+
+1 − 6Q2
+2	2	2
+2 2	√/	2
+
+= −1 +
+3	(3 + 3x1 − 3x2 + x3 − 6Q x1 + 2
+6Qx1) − 2Q(λx2 − 4Q) .	(31)
+
+In what follows we shall first discuss the case of constant λ and then proceed to consider the varying λ case.
+
+Constant λ
+
+If λ is a constant, one can derive the fixed points of the system by setting the r.h.s. of Eqs. (27)-(29) to be zero. In the absence of radiation (x3 = 0), we obtain the following fixed points:
+(a) φ matter-dominated era (φMDE [27])
+
+	√6Q	!
+
+3 − 2Q2
+
+4Q2
+
+(x1, x2) =
+
+
+(b1) Kinetic point 1
+3(2Q2 − 1) , 0
+,	Ωm = 3(1 − 2Q2)2 ,	weff = 3(1 − 2Q2) .	(32)
+
+
+(x , x ) =  √  1
+
+, 0  ,	Ω
+
+= 0 ,	w
+=	3 − √6Q
+
+.	(33)
+
+
+
+(b2) Kinetic point 2
+
+
+
+
+(x , x ) =  √  1
+
+
+
+
+, 0  ,	Ω
+
+
+
+
+= 0 ,	w
+
+
+
+3 + √6Q
+=
+6
+
+
+
+.	(34)
+
+1	2
+6Q − 1
+m	eff
+3(1 − √6Q)
+
+
+
+(c) Scalar-field dominated point
+	√6(4Q − λ)
+
+ 6 − λ2 + 8Qλ − 16Q2 1/2!
+
+
+20Q2 − 9Qλ − 3 + λ2
+
+(x1, x2) =
+6(4Q2 − Qλ − 1) ,
+6(4Q2 − Qλ − 1)2
+, Ωm = 0 ,	weff = −
+3(4Q2 − Qλ − 1)	.(35)
+
+
+
+(d) Scaling solution
+
+  √6
+
+/
+
+ 3 + 2Qλ − 6Q2 1/2!
+
+/
+/
+
+
+3 − 12Q2 + 7Qλ	2Q
+
+/
+
+
+(e) de-Sitter point (present for λ = 4Q)
+(x1, x2) = (0, 1) ,	Ωm = 0 ,	weff = −1 .	(37)
+Note that, when x3 = 0 we have a radiation fixed point (x1, x2, x3) = (0, 0, 1).
+One can easily confirm that the de-Sitter point exists for λ = 4Q, by setting φ˙ = 0 in Eqs. (16), (17) and (20). This de-Sitter solution appears in the presence of the coupling Q. Note that this is the special case of the scalar-field dominated point (c).
+Now given a value for λ, and using the stability conditions for the above fixed points given in the Appendix A, the cosmological dynamics can be specified. We shall briefly discuss the cases Q = 0 and Q /= 0 in turn.
+
+Q = 0
+
+When Q = 0 (i.e., F = 1, which corresponds to a standard minimally coupled scalar field), the eigenvalues µ1 and µ2 of the Jacobian matrix for perturbations about the fixed points reduce to those derived in Ref. [37] with γ = 1 (see Ref. [38] for earlier works). In this case the matter-dominated era corresponds to either the point (a) or (d). The point (a) is a saddle node because µ1 = 3/2 and µ2 = 3/2. The point (d) is stable for λ2 > 3, in which case Ωm < 1. The late-time accelerated expansion (weff < 1/3) can be realized by using the point (c), whose condition is given by λ2 < 2. Under this condition the point (c) is a stable node. Hence, if λ2 < 2, the saddle matter solution (a) is followed by the stable accelerated solution (c) [note that in this case Ωm < 0 for the point (d)]. The scaling solution
+(d) can have a matter era for λ2  1, but in this case the epoch following the matter era is not of an accelerated nature.
+
+Q /= 0
+
+We next consider the case of non-zero values of Q. Here we do not consider the special case of λ = 4Q. If the point (a) is responsible for the matter-dominated epoch, we require the condition Q2 ≪ 1. We then have Ωm ≃ 1 + 10Q2/3 > 1 and weff ≃ 4Q /3√,  for the φMDE. √When Q ≪ 1 the scalar-field dominated point (c) yields an accelerated expansion
+1
+provided that −  2 + 4Q < λ <	2 + 4Q . Under these conditions the φM√DE point is followed by the late-time
+acceleration. It is worth noting that in the case of f (R) gravity (Q = −1/ 6) the φMDE point corresponds to,
+Ωm = 2 and weff = 1/3. In this case the universe in the matter era prior to late-time acceleration evolves as a	t1/2, which is different from the evolution in the standard matter dominated epoch [9].
+We note that the scaling solution (d) can give rise to the equation of state, weff ≃ 0 for |Q| ≪ |λ|. In this case,
+matter for the point (d) does not satisfy the condition Ωm ≃ ∼1. In summary the viable cosmological trajectory corresp√o nds to the seq√uence from the φMDE to the scalar-field dominated point (c) under the conditions, Q2 ≪ 1
+and −  2 + 4Q < λ <	2 + 4Q.
+
+
+1 Note that under the condition Q2 ≪ 1 and in the case where the dynamics is in the accelerated epoch, the condition |Qλ| < 1 is also satisfied.
+
+7
+
+Varying λ
+
+When the time-scale of the variation of λ is smaller than that of the cosmic expansion, the fixed points derived above in the case of constant λ can be regarded as the “instantaneous” fixed points [39]. We shall briefly consider the cases of Q = 0 and Q /= 0 in turn.
+
+Q = 0
+
+We begin with a brief discussion of the Q = 0 case. If the condition λ2 < 2 is satisfied throughout the cosmic evolution, the cosmological trajectory is similar to the constant λ case discussed above except for the fact that the fixed points are regarded as the “instantaneous” ones. In this case the saddle matter solution (a) is followed by the accelerated point (c).
+When λ2  1 the scaling solution (d) is stable with Ωm  1. Hence the cosmological trajectory during the matter era chooses the scaling solution (d) rather than the saddle point (a). If λ decreases at late-times, such that it satisfies the acceleration condition λ2 < 2, the trajectory stops following the solution represented by the matter point (d) to
+follow the scalar-field dominated point (c)2. A representative model of this type is provided by the double exponential potential, V (φ) = V0(e−λ1 φ + e−λ2φ), with, λ2 ≫ 1 and λ2 < 2 [40]. The assisted quintessence models in Ref. [41]
+1	2
+also lead to a similar cosmological evolution.
+
+
+Q /= 0
+
+We shall now proceed to consider the case of non-zero Q. If λ is initially much larger than unity and decreases with time, it happens that the solutions finally approach the de-Sitter solution (e) with λ = 4Q. As we shall show in the Appendix A 2, the de-Sitter point (e) is in fact stable even for the variable λ case, if the potential satisfies the condition Q(dλ/dF ) > 0 or dλ/dφ < 0 at the de-Sitter point.
+In the context of f (R) gravity, it has been shown that the model,
+f (R) = R − µRc 1 − (R/Rc)−2n	(µ > 0, Rc > 0, n > 0) ,	(38)
+is a good example which can be consistent with cosmological and local gravity constraints [18]. Note that the models proposed by Hu & Sawicki [16] and Starobinsky [15] reduce to this form of f (R) in the high-curvature region (R	R ).
+In this model the field φ is related to the Ricci scalar R via the relation e2φ/√6 = 1 − 2nµ(R/Rc)−(2n+1). Hence, the
+potential V = (FR − f )/2 can be expressed in terms of the field φ as
+V (φ) = µRc 1 − 	2n + 1	  1 − e2φ/√6 2n/(2n+1)  .	(39)
+
+
+The parameter λ is then given by
+
+	4n		√
+
+
+
+	2n + 1	 
+
+
+√/  −2n/(2n+1) 
+/ /
+
+
+
+√/ −1/(2n+1)
+/
+
+
+In the deep matter-dominated epoch in which the condition R/Rc ≫ 1 is satisfied, the field φ is very close to zero. For n and µ of the order of unity, |λ| is much larger than unity during this stage. Hence the matter era is realized by the instantaneous fix√ed point (d). As R/Rc gets smaller, |λ| decreases to the order of unity. If the solutions reach the
+point λ = 4Q =	4/ 6 and satisfy the stability condition dλ/dF < 0 the final attractor corresponds to the de-Sitter
+fixed point (e).
+For the theories with general couplings Q, let us consider the following scalar-field potential
+V (φ) = V0 1 − C(1 − e−2Qφ)p	(V0 > 0, C > 0, 0 < p < 1) ,	(41)
+
+
+2 Note that the de-Sitter solution (e) exists only for λ = 0, i.e., for the case of cosmological constant (V =const.).
+
+8
+
+as a natural generalization of Eq. (39). The slope of the potential is given by
+2C p Qe−2Qφ(1 − e−2Qφ)p−1
+
+λ =
+1 − C(1 − e−2Qφ)p
+.	(42)
+
+When Q > 0, the potential energy decreases from V0 as φ increases from 0. On the other hand, if Q < 0, the potential energy decreases from V0 as φ decreases from 0. In both cases we have V (φ)  V0(1  C) in the limits φ   (for Q > 0) and φ	(for Q < 0).
+In the model (41) the field is stuck around the value φ = 0 during the deep radiation and matter epochs. In these epochs one has R ρm/F from Eqs. (16), (17) and (21) by noting that V0 is negligibly small compared to ρm or ρrad. Using Eq. (20), we obtain the relation V,φ + Qρm 0. Hence, in the high-curvature region the field φ evolves along the instantaneous minimum given by
+
+
+
+φm ≃
+1
+/
+1−p
+0
+
+.	(43)
+
+2Q	ρm
+We stress here that a range of minima appears depending upon the large energy density ρm of the non-relativistic matter. As long as the condition ρm  V0pC is satisfied, we have φm  1 from Eq. (43).
+Since from Eq. (42) λ  1 for field values around φ = 0, the instantaneous fixed point (d) can represent the matter-dominated epoch provided that Q  λ . The deviation from Einstein gravity manifests itself when the field begins to evolve towards the end of the matter era. The variable F = e−2Qφ decreases in time irrespective of the sign of the coupling strength and hence 0 < F < 1. This decrease of F is crucial to the divergent behavior of the equation of state of DE, as we will see in Sec. V.
+The de-Sitter solution corresponds to λ = 4Q, i.e.,
+2
+
+C = (1 − F )p−1 [2 + (p − 2)F ] ,	(44)
+where F1 is the value of F at the point (e). Provided that the solution of this equation exists in the region 0 < F1 < 1, for given values of C and p, the de-Sitter point exists. From Eq. (42) we obtain
+
+
+dλ
+dφ = −
+4CpQ2F (1	F )p−2[1	pF	C(1	F )p]
+
+/
+[1 − C(1 − F )p]2	.	(45)
+
+When 0 < C < 1, one can easily show that the function g(F )  1  pF  C(1  F )p is positive in the region 0 < F < 1 giving dλ/dφ < 0. Hence, the conditions for a stable de-Sitter point is automatically satisfied. In this case the solutions approach the de-Sitter attractor after the end of the matter era.
+When C > 1, the function g(F ) becomes negative for values of F that are smaller than the critical value Fc (< 1). The de-Sitter point (e) is stable under the condition 1 pF1 > C(1 F1)p. Using Eq. (44) we find that this stability condition translates to
+1
+F1 > 2 − p .	(46)
+If this condition is violated, the solutions choose another stable fixed point as an attractor. In f (R) gravity, for example, the solutions can reach the stable accelerated point (d) characterized b, m = r 1 and ( 3 1)/2 < m < 1 [11], where m  Rf,RR/f,R and r   Rf,R/f .
+In summary, when 0 < C < 1, the matter point (d) can be followed by the stable de-Sitter solution (e) for the model (41). In Fig. 1 we plot the evolution of ΩDE, Ωm, Ωrad and weff for Q = 0.01, p = 0.2 and C = 0.7. Beginning from the epoch of matter-radiation equality, the solutions first dwell around the matter point (d) with weff 0 and finally approach the de-Sitter attractor (e) with weff  1. We have also numerically confirmed that λ is initially much larger than unity and eventually approaches the value λ = 4Q.
+
+LOCAL GRAVITY CONSTRAINTS
+
+In this section we shall study the local gravity constraints (LGC) for the scalar-tensor theories given by the action
+(13). In the absence of the potential V (φ) the Brans-Dicke parameter ωBD is constrained to be ωBD > 4.0	104 from solar-system experiments [35]. Note that this bound also applies to the case of a nearly massless field with the
+
+9
+
+
+1 . 0 
+
+
+
+
+0.50 
+
+
+
+
+0 . 0 
+
+
+
+
+-0.50 
+
+
+
+
+-1.0 
+
+0	2	4	6	8	1 0 
+N
+FIG. 1: The evolution of ΩDE, Ωm, Ωrad and weff for the model (41) with parameters Q = 0.01, p = 0.2 and C = 0.7 and initial conditions x1 = 0, x2 = 2.27 × 10 , x3 = 0.7 and x4 − 1 = −5.0 × 10	.
+
+potential V (φ) in which the Yukawa correction e−Mr is close to unity (where M is the scalar field mass and r is an interaction length). Using the bound ωBD > 4.0 × 10 in Eq. (15), we find
+|Q| < 2.5 × 10−3	(for the massless case).	(47)
+This is a strong constraint under which the cosmological evolution for such theories is difficult to be distinguished from the Q = 0 case.
+Let us then consider the case in which the mass M of the field φ is sufficiently heavy so that the√interaction range
+of the field (∼ 1/M ) becomes short so as to satisfy LGC. In the context of f (R) gravity (Q = −1/ 6) it was in fact
+shown that the LGC can be satisfied by constructing models in which M is large enough in a high-dense region where local gravity experiments are carried out [15, 16, 17, 18, 19]. In these models the mass M tends to become lighter with the decrease of the Ricci scalar R towards the present epoch. In what follows, we shall construct viable models, based on scalar-tensor theories whose couplings Q are of order unity, which are consistent with LGC.
+
+Chameleon mechanisms
+
+In Refs. [12, 16, 24, 25] it was explicitly shown that in f (R) gravity a spherically symmetric body forms a thin-shell inside the body through a chameleon mechanism [22, 23]. Generally this happens in a non-linear regime where the mass M of a scalar-field degree of freedom is heavy so that the usual linear analysis based on the inequality,
+(0)	(0)
+|δR| ≪ |R	|, is invalid (where δR is a perturbation about a background value R	). In what follows we shall
+briefly review the chameleon mechanism for the theory given in Eq. (13) and then place constraints on viable models consistent with LGC.
+Let us consider the Einstein frame action (6). The variation of this action with respect to φ leads to the following equation of motion
+ ˜ φ − U,φ = −QT˜ ,	(48)
+where, T˜ = e4QφT and T = gµν Tµν , with Tµν being energy momentum tensor of the matter in the Jordan frame. We take a spherically symmetric spacetime with a radius r˜ from the center of symmetry. In this setup Eq. (48) becomes
+
+
+d2φ	2 dφ
+dUeff
+
+dr˜2 + r˜ dr˜ =
+,	(49)
+dφ
+
+10
+
+where
+Ueff(φ) = U (φ) + eQφρ∗ .	(50)
+Here, ρ∗ is related with the energy density ρ	T in the Jordan frame via the relation ρ∗ = e3Qφρ, which is conserved in the Einstein frame [23] (i.e., ρ∗r˜3 =constant).
+We consider a configuration in which the spherically symmetric body has a constant density ρ∗ = ρ∗A inside the body (r˜ < r˜c) and that the energy density outside the body (r˜ > r˜c) is given by ρ∗ = ρ∗B (≪ ρ∗A). Then the mass of
+this body is given by Mc = (4π/3)r˜3ρ∗ = (4π/3)r3ρA. Let us denote the field value at the minimum of the effective
+c A	c
+potential Ueff(φ) corresponding to the density ρ∗A (ρ∗B ) by φA (φB). That is, they are given by
+U,φ(φA) + QeQφA ρ∗A = 0 , and U,φ(φB) + QeQφB ρ∗B = 0 ,	(51)
+respectively. Under the condition ρ∗A ≫ ρ∗B the mass squared m2 ≡ U ′′ (φA) is much larger than m2 ≡ Ue′′ff (φB).
+In solving for a static spherically symmetric field configuration, we impose the boundary conditions dφ(r˜ = 0)/dr˜ = 0
+and φ(r˜	) = φB, so that the field φ is non-singular at r˜ = 0 and that the force on a test body vanishes at a sufficiently large distance. Then φ starts to roll down the potential where the term dUeff/dφ becomes important.
+If the field value at the center φ(r˜ = 0) is close enough to the equilibrium value φA with φ(r˜ = 0)  φA  φA , the thin-shell solution is realized [23]. In this case the field does not move away from φ(r˜ = 0) practically up to a radius r˜1 which satisfies ∆r˜c/r˜c ≡ (r˜c − r˜1)/r˜c ≪ 1. At r˜ = r˜1, the field starts to roll down the potential and we find,
+U,φ(φ)  Qe ρA for r˜1 < r˜ < r˜c. Under the condition QφA  1 (as we will confirm later) the r.h.s. of Eq. (49) is approximately given by dUeff/dφ Qρ∗A. Outside the body (r˜ > r˜c) the gradient energies on the l.h.s. of Eq. (49) become important because the energy density drops down from ρ∗A to ρ∗B . Taking into account the mass term mB of the effective potential Ueff, one has dUeff /dφ = m2 (φ  φB) on the r.h.s. of Eq. (49).
+We match the solutions of Eq. (49) at r˜ = r˜c with the boundary conditions φ = φA, dφ/dr˜ = 0 at r˜ = r˜1 and
+φ(r˜ → ∞) = φB. Then the following solution is obtained in the region r˜ > r˜c [23, 25].
+QMc "	 r˜1 3# e−mB (r˜−r˜c)
+
+/	/	/
+
+
+where
+
+
+r˜1 2
+r˜c
+
+
+≃ 1 −
+
+φB − φA
+3QΦc
+
+
+ Mc 
+,	Φc ≡ 8πr˜ =
+
+
+GMc r˜c
+
+
+.	(53)
+
+In deriving the relation (52), we assumed the condition mBr˜c	1. Since we are in the thin-shell regime, we obtain the following relation from Eq. (53).
+∆r˜c ≃ φB − φA .	(54)
+
+r˜c
+Then the solution outside the body (r˜ > r˜c) is given by
+Qeff Mce−mB (r˜−r˜c)
+6QΦc
+
+
+
+∆r˜c
+
+φ(r˜) ≃ − 4π
+r˜	+ φB ,	where  Qeff ≡ 3Q
+r˜c
+.	(55)
+
+Thus, when the body has a thin-shell, the effective coupling |Qeff| in the thin-shell becomes much smaller than unity,
+even if |Q| itself is of the order of 1.	>
+If the field value at r˜ = 0 is not close to φA (i.e., φ(r˜ = 0)	φA	φA ), the field rapidly rolls down the potential
+at r˜1	0. Setting r˜1 = 0 in Eq. (52), we obtain the solution (55) with Qeff replaced by Q. This is the thick-shell regime in which the effective coupling is not small as to satisfy the LGC.
+The presence of the fifth force interaction mediated by the field φ leads to a modification to the spherically symmetric metric. Under the weak field approximation, the spherically symmetric metric in the Jordan frame is given by [12, 25]
+ds2 = −  1 − 2Geff Mc  dt2 +  1 + 2γGeff Mc  dr2 + r2(dθ2 + sin2 θdφ2) ,	(56)
+
+where the effective gravitational “constant” Geff and the post-Newtonian parameter γ are given by
+
+
+
+Geff ≃ G
+"1 −
+√6
+Qeffe
+
+−mB
+(r−rc)#
+
+,	γ ≃
+1 + (√6Qeff/3)(1 + mBr)e−mB (r−rc)
+√
+
+.	(57)
+
+3	1 − (
+6Qeff /3)e−mB(r−rc)
+
+11
+
+Note that we have used the approximation r˜ ≃ r that is valid in the region |Qφ| ≪ 1.
+Provided that the√condition mBr √≪ 1 holds in an environment in which local gravity experiments are carried out,
+we have γ ≃ (1 +	6Qeff /3)/(1 −	6Qeff /3). Hence, if |Qeff| is much smaller than unity through the chameleon
+mechanism, it is possible to satisfy the following severest solar system constraint that comes from a time-delay effect of the Cassini tracking [42]:
+|γ − 1| < 2.3 × 10−5 .	(58)
+Using the thin-shell parameter, this bound translates into
+
+∆rc
+rc
+4.7	10−6
+<
+|Q|
+
+.	(59)
+
+If the body does not have a thin-shell for |Q| of th√e order of unity, the condition (58) is not satisfied. In f (R) gravity,
+for example, we have γ = 1/2 for Qeff = Q = −1/ 6.
+
+
+Solar system constraints
+
+In f (R) gravity, the models (38) can satisfy LGC because the mass M of the field potential (39) is sufficiently heavy in the high-density region whose Ricci scalar R is much larger than Rc. Since the field mass Mφ inside the body is much heavier than that outside the body, most of the volume element within the core does not contribute to the field profile at r > rc except for the thin-shell regime around the surface of the body (note that this contribution is proportional to e−Mℓ, where ℓ is a distance from the volume element to a point outside the body). In the case of general couplings Q, the models presented in Eq. (41) can be compatible with LGC. Under the condition Qφ  1, one has U,φ  2V0QpC(2Qφ)p−1 for the potential U = V/F 2 in the Einstein frame. Then from Eq. (51) we obtain the field values at the potential minima inside/outside the body:
+
+
+φA ≃
+
+1
+1−p
+0
+
+,	φB ≃
+
+1
+1−p
+0
+
+,	(60)
+
+2Q	ρA	2Q	ρB
+which satisfy φA  φB . Note that these are analogous to the field value φm derived in Eq. (43) in the cosmological setting. In order to realize the accelerated expansion at the present epoch, V0 needs to be roughly the same order as the square of the present Hubble parameter H0, so we have V0 H2 ρ0, where ρ0 10−29 g/cm3 is the present cosmological density. Note that the baryonic/dark matter density in our galaxy corresponds to ρB 10−24 g/cm3. This then shows that the conditions, QφA  1 and QφB  1 are in fact satisfied provided that C is not much larger than unity.
+The field mass squared M 2 ≡ d2U/dφ2 at φ = φA is approximately given by
+
+
+M 2(φA) ≃
+ 	
+1 − p	Q2
+(2p pC)1/(1−p)
+
+2−p
+
+/
+ρA	1−p
+
+/
+V0
+
+V0 .	(61)
+
+This means that Mφ(φA) can be much larger than H0 due to the condition ρA  V0. Therefore, while the mass Mφ
+is not different from the order of H0 on cosmological scales, it increases in the regions with a higher energy density.
+Let us place constraints on model parameters by using the solar system bound (59). In so doing, we shall consider the case where the solutions finally approach the de-Sitter point (e). Since we have ∆rc/rc φB/(6QΦc) with φB given in Eq. (60), the bound (59) translates into
+(2V0pC/ρB)1/(1−p) < 1.2 × 10−10|Q| ,	(62)
+where we have used the value Φc = 2.12 × 10−6 for the Sun. At the de-Sitter point (e), one has 3F1H2 = V0[1 − C(1 −
+F1)p] with C given in Eq. (44). Hence, we obtain the following relation
+V = 3H2 2 + (p − 2)F1 .	(63)
+0	1	p
+
+Substituting this in Eq. (62) we find
+ R1  1/(1−p)
+
+12
+
+where R1 = 12H2 is the Ricci scalar at the de-Sitter point. Since the term (1 F1) is smaller than one half from the condition (46) we obtain the inequality (R1/ρB)1/(1−p) < 2.4 10−10 Q . We assume that R1 is of the order of the present cosmological density ρ0 = 10−29 g/cm3. Taking the baryonic/dark matter density to be ρB = 10−24 g/cm3 outside the Sun we obtain the following bound
+
+5
+p > 1 − 9.6 − log
+
+.	(65)
+|Q|
+
+For Q = 10−2 and Q = 10−1 this gives p > 0.57 and p > 0.53 respectively. The above bound corresponds to p > 0.50 for the case of f (R) gravity, which translates into the condition n > 0.5 in Eq. (39). This agrees with the result found in Ref. [25].
+
+Equivalence principle constraints
+
+Let us proceed to the constraints from a possible violation of the equivalence principle (EP). Under the condition that the neighborhood of the Earth has a thin-shell, the tightest bound comes from solar system tests of the EP that makes use of the free-fall accelerations of the Moon (aMoon) and the Earth (a⊕) toward the Sun [23, 25]. The bound on the differences between the two accelerations is [42]
+2 |aMoon − a⊕| < 10−13 .	(66)
+aMoon + a⊕
+
+Since the acceleration induced by a fifth force with the field profile φ(r) and the effective coupling is given by
+afifth = |Qeffφ(r)| we obtain [23]
+GM⊙ "	 ∆r⊕ 2 Φ⊕ #	GM⊙ "	 ∆r⊕ 2	Φ2	#
+/	/	//	/	/
+where Φ⊙ ≃ 2.1 × 10−6, Φ⊕ ≃ 7.0 × 10−10 and ΦMoon ≃ 3.1 × 10−11, are the gravitational potentials of the Sun, the Earth and the Moon, respectively. Note that ∆r⊕/r⊕ is the thin-shell parameter of the Earth. From the bound (66), this is constrained to be
+
+∆r⊕
+r⊕
+8.8	10−7
+<
+|Q|
+
+.	(68)
+
+Note also that the thin-shell condition for the neighborhood outside the Earth provides the same order of the upper bound for, ∆r⊕/r⊕ [25].
+Taking a similar procedure as in the case of the solar system constraints discussed above (using the value R1 = 10−29 g/cm3 and ρB = 10−24 g/cm3), we obtain the following bound:
+5
+
+p > 1 − 13.8 − log
+.	(69)
+|Q|
+
+This is tighter than the bound (65). When Q = 10−2 and Q = 10−1 we have p > 0.68 and p > 0.66, respectively. In the case of f (R) gravity the above bound corresponds to p > 0.65 which translates to n > 0.9 for the potential (39).
+In summary, the LGC can be satisfied under the condition (69) for the potential (41).
+
+General properties for models consistent with LGC
+
+In this subsection we shall consider the general properties of scalar-tensor theories consistent with LGC, without specifying the form of the field potential. In order to satisfy the LGC we require that φB  φA is much smaller than QΦc from Eq. (54). Since there is a gap between the energy densities inside and outside of the spherically symmetric body we have, φB  φA  φB , which implies φB   QΦc . The gravitational potential Φc is very much smaller than unity in settings where local gravity experiments are carried out, hence this yields the constraint
+|φB| ≪ 1. Cosmologically this means that |φ| is much smaller than unity during matter/radiation epochs. When
+|Q| ≫ 1 the condition |φB| ≪ 1 is not necessarily ensured, but those cases are excluded by the constraints from
+
+13
+
+
+V()
+Q<0
+	
+Q>0
+	
+	
+	
+	
+	
+	
+m	dS
+
+
+FIG. 2: This illustration describes a field potential V (φ) that is consistent with LGC. For a coupling Q that is positive (negative) the potential evolves in the region φ 0 (φ 0). In the figure φm represents the field value during the radiation/matter eras, which instantaneously changes in time. The field value φdS corresponds to the one at the de-Sitter point. Note that both φm and φdS are sustained by the presence of the coupling Q having potential minima characterized by the condition (70). In the early stages of the cosmological evolution, the mass M of the field φ is heavy for consistency with LGC. This mass gradually gets smaller as the system approaches the de-Sitter point.
+
+
+density perturbations unless the model is very close to the ΛCDM model (as we shall see later). In the following we
+<
+In the region |φ| ≪ 1 (i.e., F ≃ 1),∼the derivative terms are negligible in Eq. (20) and the field stays at instantaneous
+V,φ + QFR = 0 ,	(70)
+in the late radiation-dominated and matter-dominated eras. The condition (70) translates into λ/Q = ρm/V which means that λ/Q  1 in the radiation and matter epochs. This is in fact consistent with the condition weff = 2Q/λ  1 for the existence of a viable matter point (d). If the de-Sitter point (e) is stable, the solutions finally approach the minimum given by (70), i.e., λ/Q = 4.
+The sign of λ needs to be the same as that of Q in order to realize the above cosmological trajectory. When Q > 0, we require λ = V,φ/V > 0, i.e., V,φ < 0, which means that the field φ evolves along the potential toward larger positive values from φ 0. When Q < 0 the field evolves towards smaller negative values from φ 0.
+We illustrate such potentials in Fig. 2. Since the ratio λ/Q decreases from the radiation/matter epochs to the de-Sitter epoch, the derivative dλ/dφ is negative irrespective of the sign of Q. We recall that in this case the stability of the de-Sitter point (e) is also ensured. Since dλ/dφ = λ2 − V,φφ/V , the mass squared
+M 2 ≡ V,φφ ,	(71)
+is required to be positive to satisfy the condition dλ/dφ < 0. Moreover, the mass M needs to be heavy enough in order to satisfy the condition M 2 > λ2V in radiation/matter epochs. The model (41) provides a representative example which satisfies all the requirements discussed above.
+It is worth mentioning that for the models that satisfy LGC, the quantity F = e−2Qφ in the matter/radiation eras is larger than its value at the de-Sitter point. It is this property which leads to an interesting observational signature for the DE equation of state, as we shall see in the next section.
+
+14
+
+THE EQUATION OF STATE OF DARK ENERGY
+
+In scalar-tensor DE models, a meaningful definition of energy density and pressure of DE requires some care. In this section, following Ref. [28], we shall discuss the evolution of the equation of state of DE, which could provide comparisons with observations. In the absence of radiation, Eqs. (16) and (17) can be written as
+3F0H2 = ρDE + ρm ,	(72)
+−2F0H˙  = ρDE + pDE + ρm ,	(73)
+where the subscript “0” represents present values and
+ρ	≡ 1 (1 − 6Q2)F φ˙2 + V − 3HF˙ − 3(F − F )H2 ,	(74)
+p	≡ 1 (1 − 6Q2)F φ˙2 − V + F¨ + 2HF˙ + (F − F )(3H2 + 2H˙ ) ,	(75)
+
+which satisfy the usual conservation equation
+ρ˙DE + 3H(ρDE + pDE) = 0 .	(76)
+
+
+We define the equation of state of DE to be
+
+w
+
+
+pDE		wef   f	
+≡	=	,	(77)
+
+DE	ρDE	1 − (F/F0)Ωm
+where Ωm and weff are defined in Eqs. (23) and (31), respectively. Integrating Eq. (18), we obtain
+ρm = 3F0Ω(0)H2(1 + z)3 ,	(78)
+m	0
+where Ω(0) is the present energy fraction of the non-relativistic matter and z ≡ a /a − 1 is the redshift. On using
+
+m
+Eqs. (72) and (73), we find
+
+
+
+
+wDE
+0
+
+
+=	3r − (1 + z)(dr/dz) ,	(79)
+3r − 3Ω(0)(1 + z)3
+
+where r = H2(z)/H2. Note that this is the same equation as the one used in Einstein gravity [2]. By defining the energy density ρDE and the pressure pDE as given in Eqs. (74) and (75), the resulting DE equation of state wDE agrees with the usual expression which can be used to confront the models with SNIa observations.
+From Eq. (77) we find that wDE becomes singular at the point Ωm = F0/F . This happens for models in which F increases from its present value F0 as we go back in time. From Eq. (12) it is clear that F decreases in time for Qφ˙ > 0. We note that even when the system crosses the point Ωm = F0/F physical quantities such as the Hubble parameter remain to be continuous.
+The models (41) satisfy this condition regardless of the sign of Q, w√hich means that the divergent behavior of wDE
+2(n+1)	n
+indeed occurs. We recall that in the context of f (R) gravity (Q = −1/ 6) the models f (R) = R − µ	/R (n > 0)
+correspond to a scalar field potential that decreases toward larger φ, i.e., φ˙ > 0 [6]. Hence, the divergence of wDE
+does not occur in such models because of the decrease of F toward the past.
+For the models that satisfy λ  1 initially such that λ decreases with time, the solutions are in the regime around the instantaneous fixed point (d) during the matter era and finally approach either the scalar-field dominated point
+(c) or the de-Sitter point (e). In Fig. 3 we plot the evolution of wDE for the case Q = 0.1 and C = 0.95, with three different values of p. In these cases the final attractor corresponds to the de-Sitter point (e) satisfying the relation λ = 0.4. During the deep matter era the solutions evolve along the “instantaneous” fixed point (d) with Ωm close to 1 (because λ  1). After λ decreases to the order of unity, the solutions approach the de-Sitter solution (e) with Ωm = 0 and wDE = weff =  1.
+Figure 3 clearly shows that wDE exhibits a divergence at a redshift zc that depends on the values of p. When p = 0.3, for example, the divergence occurs around the redshift, zc = 3. For compatibility with LGC we require p > 0.53, from solar system constraints, and p > 0.66 from EP constraints, as we showed in the previous section. In those cases the critical redshift zc gets larger, which is out of the observational range of current SNIa observations. Nevertheless, the equation of state wDE shows a peculiar evolution that changes from wDE < −1 to wDE > −1 at a redshift around zc = O(1). This cosmological boundary crossing, similar to the divergence of wDE, is attributed to
+
+15
+
+6.0 
+
+
+
+4.0 
+
+
+
+2.0 
+
+
+
+0.0 
+
+
+
+-2.0 
+
+
+
+-4.0 
+
+
+
+-6.0 
+0	1	2	3	4	5	6	7	8
+z
+
+FIG. 3: Figure depicting the evolution of wDE for Q = 0.1 and C = 0.95 with three different values of p (0.3, 0.55, 0.7). The redshift zc at which the divergence of wDE occurs decreases for smaller p.
+
+the fact that F increases as we go back to the past. It is worth noting that this is a common feature among viable models that are consistent with LGC, as we have illustrated in the previous section.
+Note that in the limit Q  0 the potential V (φ) approaches a constant value V (φ)  V0(1 C). Hence, the models are hardly distinguishable from the ΛCDM model. In these cases the critical redshift zc also goes to infinity. Thus, the effect of modified gravity is more apparent for larger Q and smaller p. In f (R) gravity, for example, the model given by Eq. (39) can give rise to the redshift zc as close as a few [18] while satisfying the LGC (p > 0.65). These cases are particularly interesting to place tight bounds on model parameters from future high-precision observations.
+
+MATTER DENSITY PERTURBATIONS
+
+In this section we discuss the evolution of matter density perturbations and the resulting spectra for scalar-tensor theories. Considering as our background spacetime the flat FLRW metric, the perturbed metric including the scalar metric perturbations Φ and Ψ in the longitudinal gauge is given by [43]
+ds2 = −(1 + 2Φ)dt2 + a2(t)(1 − 2Ψ)dxidxj .	(80)
+In the following we shall neglect radiation and consider only the pressureless matter. The components of the energy momentum tensor of the pressureless matter are given by
+T 0 = −(ρm + δρm) ,	T 0 = −ρmvm,i ,	(81)
+where vm is related to the velocity potential V through vm =	(V	b). In the Fourier space matter perturbations satisfy the following equations of motion [19, 34, 44]:
+Φ = v˙ ,	(82)
+·	˙	k2
+(δρm/ρm) = 3Ψ − a2 v ,	(83)
+where v	avm is a covariant velocity perturbation and k is a comoving wavenumber. We shall introduce the following gauge-invariant density contrast:
+δ	= δρm + 3Hv .	(84)
+m	ρm
+
+16
+
+The evolution equation for δm is then given by
+¨	˙	k2	¨	˙
+
+
+where B = Hv + Ψ.
+δm + 2Hδm + a2 Φ = 3B + 6HB ,	(85)
+
+In Fourier space the scalar metric perturbations in scalar-tensor theories satisfy the following equations [44]
+
+k2	˙
+ 1  "  ˙  ˙	1	˙2
+
+˙	˙	2
+k2 
+
+/
+
++ (3HF˙ − ωφ˙2)Φ + 3F˙ (HΦ + Ψ˙ ) + δρm# ,	(86)
+
+
+HΦ + Ψ˙
+=  1  ωφ˙δφ + δF˙	HδF	F˙ Φ + ρ
+2F	m
+δF
+
+v  ,	(87)
+
+Ψ − Φ =
+,	(88)
+F
+
+¨	ω,φ ˙  ˙	" k2	 ω,φ	φ˙2	  2V,φ − F,φR  #
+= φ˙Φ˙ + 2φ¨ + 3Hφ˙ + ω,φ φ˙2 Φ + 3φ˙(HΦ + Ψ˙ ) +  1  F δR ,	(89)
+
+ω
+where ω = (1 − 6Q2)F and
+
+˙ ·
+2ω ,φ
+
+
+
+˙	 k2	˙	k2
+
+
+As long as the mass M defined in Eq. (71) is sufficiently heavy to satisfy the conditions M 2  R and M 2 > λ2V (in order to ensure dλ/dφ < 0), one can approximate ((2V,φ F,φR)/2ω),φ M 2/ω in Eq. (89). While this quantity becomes negative for Q2 > 1/6 this does not imply that the perturbation δφ exhibits a negative instability. In fact we shall illustrate below, that due to the perturbation δR on the r.h.s. of Eq. (89), the effective mass produced is positive.
+Generally, the solution of Eq. (89) consists of the sum of the matter-induced mode δφind sourced by the matter perturbation and the oscillating mode δφosc (scalarons [5]), i.e., δφ = δφind + δφosc. The oscillating mode corresponds to the solution of Eq. (89) without the matter perturbation.
+In order to derive the approximate perturbation equations on sub-horizon scales, we use the approximation according to which the terms containing k2/a2, δρm, δR and M 2 dominate in Eqs. (86)-(89). This method was used in Refs. [2, 34, 45] in the nearly massless case (M 2 < H2). In the context of f (R) gravity this approximation was shown
+in Ref. [19] to be extremely accurate even in the massive case (M 2  H2) as long as the oscillating degrees of freedom do not dominate over the matter-induced mode.
+In order to extract the peculiar features of the matter perturbations in scalar-tensor tensor theories, let us first concentrate on the matter induced mode. Under the above-mentioned approximation, we have δRind  2(k2/a2)[Ψ+ (F,φ/F )δφind] from Eqs. (88) and (90), where the subscript “ind” represents a matter induced mode. Then from Eq. (89) we find
+2QF	k2
+δφind ≃ (k2/a2)(1 − 2Q2)F + M 2 a2 Ψ .	(91)
+Using Eq. (86) and (88) we obtain
+
+k2	δρm (k2/a2)(1 − 2Q2)F + M 2	k2
+δρm (k2/a2)(1 + 2Q2)F + M 2
+
+a2 Ψ ≃ − 2F
+(k2/a2)F + M 2	,
+a2 Φ ≃ − 2F
+(k2/a2)F + M 2	.	(92)
+
+In the limit M 2/F  k2/a2 one has (k2/a2)Φ	δρm/2F 4πGδρm, which recovers the standard Poisson equation. In the limit M 2/F  k2/a2 one has (k2/a2)Φ  (δρm/2F )(1 + 2Q2), where the effect of the coupling Q becomes important.
+From Eq. (87) we find that v is of the order of FHΦ/ρm. Using the fact that (k2/a2)Φ is of the order of −(1/F )δρm we can estimate that |3Hv/(δρm/ρm)| ∼ (aH)2/k2 ≪ 1. Hence we have δm ≃ δρm/ρm in Eq. (84). Similarly the
+
+17
+
+terms on the r.h.s. of Eq. (85) can be neglected relative to those on the l.h.s., which leads to the following equation for matter perturbations:
+δ¨m + 2Hδ˙m − 4πGeff ρmδm ≃ 0 ,	(93)
+where the effective “cosmological” gravitational constant is given by
+
+1
+Geff = 8πF
+(k2/a2)(1 + 2Q2)F + M 2
+(k2/a2)F + M 2	.	(94)
+
+We can rewrite Eq. (93) by using the derivative with respect to N :
+d2δm	 1	3	 dδm	3	(k2/a2)(1 + 2Q2)F + M 2
+
+We also define the effective gravitational potential Φeff	(Φ + Ψ)/2, which is directly linked with the Integrated-Sachs-Wolfe (ISW) effect in CMB and the weak lensing in distant galaxies [13]. From Eq. (92) we obtain the relation
+
+
+a2
+Φeff ≃ − 2k2
+ρm δ .	(96)
+F  m
+
+In order to confront models with weak lensing observations, it is convenient to introduce the anisotropic parameter
+η defined by, η ≡ (Φ − Ψ)/Ψ [45, 46]. From Eq. (92) we obtain
+4Q2(k2/a2)F
+
+η ≃ (k2/a2)(1 − 2Q2)F + M 2 ,	(97)
+which vanishes in the limit M 2/F  k2/a2 but approaches a value η  4Q2/(1  2Q2), in the limit M 2/F  k2/a2. We also introduce another parameter Σ  q(1 + η/2), where q is defined to be (k2/a2)Ψ  (1/2)qρmδm. We then have Σ  1/F , which shows that the effective potential can be written as Φeff   (a2/2k2)ρmδmΣ. Hence, unlike the case of the Einstein gravity the weak lensing potential in these scalar-tensor models of gravity are affected by the changes of Σ as well as δm.
+During the matter era the field φ sits at the instantaneous minima characterized by the condition (70). This is analogous to the situation considered in subsection IV B where for models (41) the field value at the potential minimum
+ 1 
+and the mass squared M 2 are given by Eqs. (60) and (61) respectively. Hence, we have the relations φ ∝ ρp−1 and
+φ	m
+2−p
+M 2 ∝ M 2 ∝ ρ 1−p during the matter-dominated epoch. The field φ can initially be heavy to satisfy the condition
+2	2	2	1 <	<	1
+upon the model parameters and the mode k, the mass squared M 2 can be smaller tha∼n k2∼/a2 during the matter era.
+Next, let us consider the behavior of the oscillating mode. Using Eqs. (86) and (88) under the condition k2/a2  H2 the gravitational potentials for δρm = 0 are expressed by δφosc. Then from Eq. (90) the perturbation δR corresponding to the oscillating mode is given by
+¨	˙	k2
+
+
+Substituting this relation in Eq. (89), we find
+
+¨	˙
+
+
+  k2
+
+/
+
+
+M 2 
+
+/
+/
+
+which is valid in the regimes M 2	R, λ2V . Equation (99) clearly shows that the effective mass for the oscillating mode is positive even for Q2 > 1/6.
+In the following we shall confirm that as long as the oscillating mode does not initially dominate over the matter-induced mode, it remains subdominant throughout the cosmic history. We shall discuss the two cases: (i) M 2/F ≫ k2/a2 and (ii) M 2/F ≪ k2/a2, separately.
+
+18
+
+The case M 2/F ≫ k2/a2
+
+In this regime the matter perturbation equation (95) reduces to the standard one in Einstein gravity. During the matter era with, weff ≃ 0 and Ωm ≃ 1, we have the following solutions:
+δm ∝ a ∝ t2/3 ,	Φeff = constant .	(100)
+2(4−p)
+For the model (41√) the matter-induced mode of the field perturbation evolves as δφind ∝ δρm/M 2 ∝ t 3(1−p) . When
+/	/	/
+
+
+δφosc
+−3/2	1
+/
+φ
+cos  ∫ ωφ
+
+dt  .	(101)
+
+
+/
+p		1 
+For the model (41), in the regime M 2/F ≫ k2/a2, this oscillating mode evolves as δφosc ∝ t 2(1−p) cos ct−	, where
+c is a constant.
+ 2 
+Now since the background field φ during the matter era evolves as φ ∝ t 1−p , we find
+
+
+2/3
+
+4−p
+
+/	/
+—
+
+
+This indicates that the matter-induced mode dominates over the oscillating mode with time. While the solution of the oscillating mode in Eq. (102) is valid only in the WKB regime ( ω˙ φ/ω2  1), we have checked that δφ approaches a constant value with oscillations at the later stage in which the WKB approximation is violated. Hence, as long as the oscillating mode is not overproduced in the early universe, it remains sub-dominant relative to the matter-induced mode. Note that this property also holds during the radiation-dominated epoch.
+
+The case M 2/F ≪ k2/a2
+
+In this regime the effective gravitational constant (94) is given by Geff = (1 + 2Q2)/8πF , which shows that the effect of modified gravity becomes important. From Eqs. (95) and (96) we obtain
+√25+48Q2 −1	√25+48Q2 −5
+δm ∝ t	6	,	Φeff ∝ t	6	,	(103)
+which grow faster than the solutions given in Eq. (100). This leads to changes in the matter power spectrum of the LSS as well as in the ISW effect in the CMB.
+The field perturbation δφ is the sum of the matter-induced mode given in Eq. (91) and the oscillating mode δφosc
+given in Eq. (99). Using the WKB solution (101) for the latter mode, we have
+√25+48Q2 −5
+δφ = c1t	6	+ c2t−2/3 cos(ct1/3) .	(104)
+Since the frequency has a dependence |ω˙ φ/ω2| ≃ H ∝ 1/t, the WKB approximation tends to be accurate at late times. Equation (104) shows that the matter-induced mode dominates over the oscillating mode with time.
+
+The matter power spectra
+
+The models (41) have a heavy mass M which is much larger than H in the deep matter-dominated epoch, but which gradually decreases to become of the order of H around the present epoch. Depending on the modes k, the system crosses the point M 2/F = k2/a2 at t = tk during the matter era. In the context of f (R) gravity this indeed happens
+2−p
+for the modes relevant to the galaxy power spectrum [18, 19]. Since for the model (41) M evolves as M	t 1−p
+3(1−p)
+during the matter era, the time tk has a scale-dependence given by tk ∝ k− 4−p . When t < tk, the evolution of δm
+is given by Eq. (100), but for t > tk its evolution changes to the form given by (103).
+We define the growth rate of the matter perturbation to be
+δ˙m
+s ≡ Hδ	,	(105)
+
+19
+
+2.0 
+
+
+
+1.8 
+
+
+
+1.6 
+
+
+
+1.4 
+
+
+
+1.2 
+
+
+
+1.0 
+
+
+
+0.80 
+0	5	1 0	1 5	2 0	2 5	3 0 
+z
+
+FIG. 4: The evolution of the growth rate s of matter perturbations in terms of the redshift z for Q = 1.08 and k = 600a0 H0 with three different values of p. For smaller p the critical redshift zk gets larger. The growth rate s reaches a maximum value and begins to decrease after the system enters the accelerated epoch. For smaller p the maximum value of s tends to approach the analytic value given in Eq. (106).
+
+
+which is s = 1 in the regime M 2/F  k2/a2. After the system enters the regime M 2/F  k2/a2 during the matter-dominated epoch, we have
+
+/
+
+25 + 48Q2	1
+s =
+4
+.	(106)
+
+During the matter era the mass squared is approximately given by
+
+
+M 2 ≃
+ 	
+1 − p	Q2
+(2p p C)1/(1−p)
+
+2−p
+/
+ρm	1−p
+
+V0
+
+V0 .	(107)
+
+Using the relation ρ	= 3F Ω(0)H2(1 + z)3, we find that the critical redshift z at time t can be estimated as
+m	0 m	0	k	k
+" /		# 1
+
+a0H0 Q
+(1 − p)1−p (3F Ω(0))2−p H2
+
+where a0 is the present scale factor. The critical redshift increases for larger k/(a0H0). The matter power spectrum, in the linear regime, has been observed for the scales 0.01h Mpc−1 < k < 0.2h Mpc−1, which corresponds to 30a0H0 < k < 600a0H0. In Fig. 4 we plot the evolution of the growth rate s for the mode k = 600a0H0 and the coupling Q = 1.08 with three different values of p. We find that, in these cases, the critical redshift exists in the region zk > 1
+and that zk increases for smaller p. When p = 0.7 we have, zk = 3.9, from Eq. (108), which is consistent with the
+numerical result in Fig. 4. The growth rate s reaches to a maximum value smax and then begins to decrease around the end of the matter era.
+McDonald et al. [47] derived the constraint s = 1.46 0.49 around the redshift, z = 3, from the measurement of the matter power spectrum from the Lyman-α forests. The more recent data reported by Viel and Haehnelt [48] in the redshift range 2 < z < 4 show that even the value s = 2 can be allowed in some of the observations. The likelihood
+analysis using these data for the coupled quintessence scenario gives the constraint s < 1.5 [49]. If we use the criterion
+s < 2 for the analytic estimation (106), we obtain the bound Q < 1.08. Figure 4 shows that smax is smaller than the analytic value s = 2 (which corresponds to Q = 1.08). When p = 0.7, for example, we have that smax = 1.74. For
+
+20
+
+the values of p that are very close to 1, smax can be smaller than 1.5. However these cases are hardly distinguishable from the ΛCDM model. In any case the current observational data on the growth rate s is not enough to place tight bounds on Q and p.
+The growth of matter perturbations continues to the time tΛ characterized by the condition a¨ = 0. At time tΛ the
+3	2	2
+matter power spectrum Pδm = (k /2π )|δm| shows a difference compared to the ΛCDM model given by
+  /  2„ √25+48Q2 −1 − 2 «	√
+The CMB power spectrum is also affected by the non-standard evolution of Φeff given in Eq. (103). This mainly happens for low multipoles because of the ISW effect. Since the smaller scale modes in CMB relevant to the galaxy power spectrum are hardly affected by this modification, there is a difference between the spectral indices of the matter power spectrum and of the CMB spectrum on the scales, k > 0.01h Mpc−1:
+
+
+
+∆n(tΛ) =
+.	(110)
+4 − p
+
+This reproduces the result in the f (R) gravity derived in Ref. [15]. In Ref. [18] it was further shown that this analytic estimation agrees well with numerical results except for large values of p close to unity. This reflects the fact that for larger p the redshift z = zk at time t = tk gets smaller (being of the order of zk =  (1)) so the approximations used in deriving the solution (103), based on weff = 0 and Ωm = 1, break down. In Ref. [18] it was also found that the difference ∆n(t0) integrated to the present epoch does not show significant difference compared to (110).
+At present we do not have any observationally significant evidence for the presence of a difference between the spectral indices of the CMB and the matter power spectra [50]. In Fig. 5 we plot the constraints coming from the criterion, ∆n(tΛ) < 0.05. If Q is smaller than 0.1, this condition is trivially satisfied. For larger Q the constraints on the values of p tend to be stronger. In the f (R) gravity we obtain the bound p > 0.78, which is stronger than the constraint coming from the violation of the equivalence principle. If we adopt the criterion ∆n(tΛ) < 0.03, the bound on p becomes tighter: p > 0.87. Meanwhile, if Q is smaller than the order of 0.1, the EP constraint gives the tightest bound. If we use the criterion s < 2 for the analytic estimation (106) then the coupling Q is bounded from above (Q < 1.08).
+In Fig. 5 we show the allowed parameter space consistent with current observational and experimental constraints. The constraints coming from the ISW effect in the CMB due to the change in evolution of the gravitational potential do not provide tighter bounds compared to those shown in Fig. 5.
+
+CONCLUSIONS
+
+We have considered a class of dark energy models based on scalar-tensor theories given by the action (13). In these theories, expressed in the Einstein frame, the scalar field φ is coupled to the non-relativistic matter with a constant coupling Q. The action (13) is equivalent to the Brans-Dicke theory with a field potential V , where the Brans-Dicke parameter ωBD is related to the coupling Q via the relation 3 + 2ωBD = 1/2Q2. These theories inclu√de
+the f (R) gravity theories and the quintessence models as special cases where the coupling is given by Q = −1/ 6
+(i.e., ωBD = 0) and Q = 0 (i.e., ωBD → ∞), respectively.
+We began by studying the background cosmological dynamics in a homogeneous and isotropic setting, without specifying the field potential V (φ) but under the assumption that the slope of the potential, λ = V,φ/V , is constant. The varying λ case can also be studied by treating the fixed points as instantaneous ones. We found that for a range of values of the coupling constant Q not much smaller than unity the matter era can be realized by the solution corresponding to the point (d) in Eq. (36) subject to the condition λ/Q 1. Interestingly the presence of a non-zero coupling Q leads to a de-Sitter solution characterized by the condition V,φ + QFR = 0 (i.e., λ = 4Q), which can lead to late-time acceleration. (The condition for the stability of this de-Sitter solution is given by dλ/dφ < 0 at the fixed point.)
+In the absence of the scalar-field potential, solar-system tests constrain the coupling Q to have values in the range Q < 2.5  10−3. The presence of the potential, on the other hand, allows the LGC to be satisfied for larger values of Q , if the field is sufficiently heavy in the high-curvature region where gravity experiments are carried out. We found that even when Q is of the order of 1, a thin-shell can form inside a spherically symmetric body such that the effective coupling Qeff defined in Eq. (55) becomes much smaller than 1.
+We then considered a family of models given by the scalar-field potentials (41) which generalize the corresponding potential in the f (R) theory, while at the same time satisfying the LGC for appropriate choices of the parameters.
+
+21
+
+
+
+1
+
+0.9
+
+0.8
+
+0.7
+
+0.6
+
+0.5
+
+0.4
+
+0.3
+
+0.2
+
+0.1
+
+0
+10−2	10−1	100	101
+|Q|
+
+FIG. 5: The allowed region of the parameter space in the (p, Q) plane. We show the bounds coming from the conditions
+∆n(tΛ) < 0.05 and s < 2 as well as the solar-system constraint (65) and the EP constraint (69).
+
+
+In particular we found that as p approaches unity, the mass of the field φ becomes larger, thus allowing the LGC to be satisfied more easily [see Eq. (61)]. Using the constraints coming from solar system tests as well as compatibility with the equivalence principle, we obtained the bounds p > 1 5/(9.6 log10 Q ) and p > 1 5/(13.8 log10 Q ), respectively. In the f (R) gravity, for example, these constraints correspond to p > 0.50 and p > 0.65 respectively.
+During radiation/matter eras the field φ needs to be very close to 0 for the compatibility with LGC, which results in, F = e−2Qφ 1. Figure 5 summaries the regions of the parameter space in the (p, Q) plane where the corresponding potentials lead to models compatible with the LGC.
+For these models we found that the quantity F tends to increase from its present value as we go into the past, which results in the equation of state wDE of dark energy becoming singular when Ωm = F0/F . This behavior is similar to that found for f (R) theories.
+We also studied the evolution of density perturbations for these models in order to place constraints on the coupling Q as well as on the parameters of the field potential. In the deep matter era the mass M of the scalar field is sufficiently heavy to make these models compatible with LGC, but it gradually gets smaller as the Universe enters the accelerated epoch. For the models compatible with the galaxy power spectrum, there exists a “General Relativistic” phase during the matter era characterized by the condition M 2/F  k2/a2. At this stage the matter perturbation δm and the effective gravitational potential Φeff evolve as δm t2/3 and Φeff = constant, respectively, as in the case of Einstein gravity. Around the end of the matter-dominated epoch, the deviation from the Einstein gravity can be seen once M 2/F becomes smaller than k2/a2. The evolution of perturbations during this “scalar-tensor” regime is given by Eqs. (103). Under the criterion s = δ˙m/Hδm < 2 of the growth rate of matter perturbations with the use of the analytic estimation (106), we obtain the bound Q < 1.08. The difference ∆n of the spectral indices of the CMB and the matter power spectra gives rise to another constraint on the model parameter p and the coupling Q.
+Figure 5 illustrates the bounds derived from the conditions ∆n < 0.05 and s < 2, as well as those from local gravity constraints. The models with p close to 1 satisfy all these requirements. It will be certainly of interest to place more stringent constraints on the values of p and Q by using the recent data of matter power spectrum, CMB and lyman alpha forest. Moreover, the future survey of weak lensing may find some evidence of an anisotropic stress between gravitational potentials Φ and Ψ, which can be a powerful tool to distinguish modified gravity models from the ΛCDM cosmology.
+
+22
+
+ACKNOWLEDGEMENTS
+
+K. U. would like to thank Gunma National College and The University of Tokyo for their kind hospitality during his stay where a part of this work was done. J. Y. would like to thank Bernard J. Carr for his kind hospitality at Queen Mary College where a part of the work was done. K. U. is supported by the Science and Technology Facilities Council (STFC) and S. M. is supported by a JSPS Research Fellowship. This work was partially supported by JSPS Grant-in-Aid for Scientific Research Nos. 30318802(ST), 16340076(JY), and 19340054(JY).
+
+APPENDIX A: STABILITY ANALYSIS
+
+In this Appendix, we briefly summarizes the results of the stability analysis which are necessary to obtain the background cosmological dynamics discussed in Sec. III.
+
+Stability of the fixed points
+
+When λ is a constant, one can analyze the stability of the critical points (a)-(e) [i.e., Eqs. (32)-(37)] by considering small perturbations δx1 and δx2 around them [2]. We write the equations for perturbations in the form
+ d   δx1  = M  δx1  ,	(A1)
+
+and derive eigenvalues µ1 and µ2 of the matrix M to assess the stability of fixed points. They are given by
+(a)
+
+
+
+
+
+(b1)
+3	2Q2
+µ1 = − 2(1 − 2Q2) ,	µ2 =
+
+
+3(√6 + 4Q − λ)
+3 + 2Qλ	6Q2
+2(1 − 2Q2)	.	(A2)
+
+
+3 + √6Q
+
+
+
+(b2)
+µ1 =
+√6 + 6Q	,	µ2 = 1 + √6Q .	(A3)
+
+3(√6  − 4Q + λ)	3 − √6Q
+
+
+
+(c)
+µ1 =
+√6 − 6Q	,	µ2 = 1 − √6Q .	(A4)
+
+
+
+
+
+
+(d)
+µ1 = −
+6	λ2 + 8Qλ	16Q2
+
+/
+2(1 − 4Q2 + Qλ)	,	µ2 = −
+3	λ2 + 7Qλ	12Q2
+
+/
+1 − 4Q2 + Qλ	.	(A5)
+
+3(2Q − λ) "	s	8(6Q2 − 2Qλ − 3)(12Q2 + λ2 − 7Qλ − 3)#
+
+
+
+(e)
+µ1,2 =	4λ
+1 ±	1 +
+3(2Q − λ)2
+.	(A6)
+
+µ1 = µ2 = −3 .	(A7)
+
+23
+
+Stability of the de-Sitter point for the variable λ
+
+While the point (e) is stable for constant λ, it is not obvious that this property also holds for a varying λ. In what follows we shall discuss the stability of the de-Sitter point.
+It is convenient to consider the variable λ(φ) as a function of F (φ), i.e., λ = λ(F ). We define a variable, x4	F , that satisfies the following equation
+dx4 = −2√6Qx x ,	(A8)
+
+where the r.h.s. vanishes at the de-Sitter point (e). Considering the 3	3 matrix for perturbations δx1, δx2 and δx4
+around the point (e), we obtain the eigenvalues
+µ = −3 ,	µ	= − / "1 ± r1 − / F Q	(F )# ,	(A9)
+3	8	dλ
+
+
+where, F1	F (φ1) is the value of F at the de-Sitter point with the field value φ1. Since, F1 > 0, we find that the de-Sitter point is stable for
+
+
+dλ
+Q dF (F1) > 0 ,	i.e.,
+dλ
+dφ (φ1) < 0 .	(A10)
+
+We checked that this agrees with the stability condition derived in Refs. [51] by considering metric perturbations
+about the de-Sitter point.	√
+In f (R) gravity this condition translates into dλ/dF < 0. Since in this case, F = e2φ/ 6 = df/dR and V =
+(RF	f )/2, we have λ =	Rf,R/√6V . Then, together with the fact that Rf,R = 2f holds for the de-Sitter point,
+the condition, dλ/dF < 0, is equivalent to R < f,R/f,RR. For positive R this gives
+0 < Rf,RR < 1 ,	(A11)
+f,R
+which agrees with the stability condition for the de-Sitter point derived in Ref. [11].
+
+
+V. Sahni and A. A. Starobinsky, Int. J. Mod. Phys. D 9, 373 (2000); V. Sahni, Lect. Notes Phys. 653, 141 (2004);
+S. M. Carroll, Living Rev. Rel. 4, 1 (2001); T. Padmanabhan, Phys. Rept. 380, 235 (2003); P. J. E. Peebles and
+B. Ratra, Rev. Mod. Phys. 75, 559 (2003); S. Nojiri and S. D. Odintsov, Int. J. Geom. Meth. Mod. Phys. 4, 115 (2007).
+E. J. Copeland, M. Sami and S. Tsujikawa, Int. J. Mod. Phys. D 15, 1753 (2006).
+Y. Fujii, Phys. Rev. D 26, 2580 (1982); L. H. Ford, Phys. Rev. D 35, 2339 (1987); C. Wetterich, Nucl. Phys B. 302, 668 (1988); B. Ratra and J. Peebles, Phys. Rev D 37, 321 (1988); R. R. Caldwell, R. Dave and P. J. Steinhardt, Phys. Rev. Lett. 80, 1582 (1998).
+T. Chiba, T. Okabe and M. Yamaguchi, Phys. Rev. D 62, 023511 (2000); C. Armendariz-Picon, V. F. Mukhanov and
+P. J. Steinhardt, Phys. Rev. Lett. 85, 4438 (2000).
+A. A. Starobinsky, Phys. Lett. B 91, 99 (1980).
+S. Capozziello, Int. J. Mod. Phys. D 11, 483, (2002); S. Capozziello, V. F. Cardone, S. Carloni and A. Troisi, Int. J. Mod. Phys. D, 12, 1969 (2003); S. M. Carroll, V. Duvvuri, M. Trodden and M. S. Turner, Phys. Rev. D 70, 043528 (2004).
+S. Nojiri and S. D. Odintsov, Phys. Lett. B 576, 5, (2003); Phys. Rev. D 68, 12352, (2003); S. M. Carroll, V. Duvvuri,
+M. Trodden and M. S. Turner, Phys. Rev. D 70, 043528 (2004); G. Allemandi, A. Borowiec and M. Francaviglia, Phys. Rev. D 70, 103503 (2004); S. M. Carroll, A. De Felice, V. Duvvuri, D. A. Easson, M. Trodden and M. S. Turner, Phys. Rev. D 71, 063513 (2005); S. Capozziello, V. F. Cardone and A. Troisi, Phys. Rev. D 71, 043503 (2005); S. Carloni, P. K. S. Dunsby,
+S. Capozziello and A. Troisi, Class. Quant. Grav. 22, 4839 (2005).
+A. D. Dolgov and M. Kawasaki, Phys. Lett. B 573, 1 (2003).
+L. Amendola, D. Polarski and S. Tsujikawa, Phys. Rev. Lett. 98, 131302 (2007); Int. J. Mod. Phys. D 16, 1555 (2007).
+S. Capozziello, S. Nojiri, S. D. Odintsov and A. Troisi, Phys. Lett. B 639, 135 (2006); A. W. Brookfield, C. van de Bruck and L. M. H. Hall, Phys. Rev. D 74, 064028 (2006); T. P. Sotiriou, Class. Quant. Grav. 23, 5117 (2006); P. J. Zhang, Phys. Rev. D 73, 123504 (2006); B. Li and J. D. Barrow, Phys. Rev. D 75, 084010 (2007); S. Fay, S. Nesseris and
+L. Perivolaropoulos, Phys. Rev. D 76, 063504 (2007); A. De Felice and M. Hindmarsh, JCAP 0706, 028 (2007).
+L. Amendola, R. Gannouji, D. Polarski and S. Tsujikawa, Phys. Rev. D 75, 083504 (2007).
+T. Faulkner, M. Tegmark, E. F. Bunn and Y. Mao, Phys. Rev. D 76, 063505 (2007).
+
+24
+
+Y. S. Song, W. Hu and I. Sawicki, Phys. Rev. D 75, 044004 (2007); I. Sawicki and W. Hu, Phys. Rev. D 75, 127502 (2007).
+S. M. Carroll, I. Sawicki, A. Silvestri and M. Trodden, New J. Phys. 8, 323 (2006); R. Bean, D. Bernat, L. Pogosian,
+Silvestri and M. Trodden, Phys. Rev. D 75, 064020 (2007); L. Pogosian and A. Silvestri, arXiv:0709.0296 [astro-ph];
+I. Laszlo and R. Bean, arXiv:0709.0307 [astro-ph].
+A. A. Starobinsky, JETP Lett. 86, 157 (2007).
+W. Hu and I. Sawicki, Phys. Rev. D 76, 064004 (2007).
+S. A. Appleby and R. A. Battye, Phys. Lett. B 654, 7 (2007).
+S. Tsujikawa, Phys. Rev. D 77, 023507 (2008).
+S. Tsujikawa, K. Uddin and R. Tavakol, Phys. Rev. D 77, 043007 (2008).
+G. J. Olmo, Phys. Rev. D 72, 083505 (2005); Phys. Rev. Lett. 95, 261102 (2005); A. L. Erickcek, T. L. Smith and
+M. Kamionkowski, Phys. Rev. D 74, 121501 (2006); V. Faraoni, Phys. Rev. D 74, 023529 (2006); A. F. Zakharov,
+A. A. Nucita, F. De Paolis and G. Ingrosso, Phys. Rev. D 74, 107101 (2006); T. Chiba, T. L. Smith and A. L. Erickcek, Phys. Rev. D 75, 124014 (2007).
+T. Chiba, Phys. Lett. B 575, 1 (2003).
+J. Khoury and A. Weltman, Phys. Rev. Lett. 93, 171104 (2004).
+J. Khoury and A. Weltman, Phys. Rev. D 69, 044026 (2004).
+I. Navarro and K. Van Acoleyen, JCAP 0702, 022 (2007).
+S. Capozziello and S. Tsujikawa, arXiv:0712.2268 [gr-qc].
+L. Amendola and S. Tsujikawa, Phys. Lett. B 660, 125 (2008).
+L. Amendola, Phys. Rev. D 62, 043511 (2000).
+F. Perrotta, and C. Baccigalupi Phys. Rev. D 65, 123505 (2002); D. F. Torres, Phys. Rev. D 66, 043522 (2002).
+A. Riazuelo and J. P. Uzan, Phys. Rev. D 66, 023525 (2002); E. Elizalde, S. Nojiri and S. D. Odintsov, Phys. Rev. D 70, 043539 (2004); M. X. Luo and Q. P. Su, Phys. Lett. B 626, 7 (2005); V. Pettorino, C. Baccigalupi and F. Perrotta, JCAP 0512, 003 (2005); S. Capozziello, S. Nesseris and L. Perivolaropoulos, JCAP 0712, 009 (2007); N. Agarwal and R. Bean, arXiv:0708.3967 [astro-ph]; V. Acquaviva and L. Verde, JCAP 0712, 001 (2007).
+J. Martin, C. Schimd and J. P. Uzan, Phys. Rev. Lett. 96, 061303 (2006).
+R. Gannouji, D. Polarski, A. Ranquet and A. A. Starobinsky, JCAP 0609, 016 (2006).
+L. Perivolaropoulos, JCAP 0510, 001 (2005); S. Nesseris and L. Perivolaropoulos, Phys. Rev. D 73, 103511 (2006); Phys.
+Rev. D 75, 023517 (2007).
+L. Amendola, Phys. Rev. D 60, 043501 (1999); J. P. Uzan, Phys. Rev. D 59, 123510 (1999); T. Chiba, Phys. Rev. D 60,
+083508 (1999); N. Bartolo and M. Pietroni, Phys. Rev. D 61 023518 (2000); F. Perrotta, C. Baccigalupi and S. Matarrese, Phys. Rev. D 61, 023507 (2000); C. Baccigalupi, S. Matarrese and F. Perrotta, Phys. Rev. D 62, 123510 (2000).
+B. Boisseau, G. Esposito-Farese, D. Polarski and A. A. Starobinsky, Phys. Rev. Lett. 85, 2236 (2000); G. Esposito-Farese and D. Polarski, Phys. Rev. D 63, 063504 (2001).
+C. D. Hoyle, D. J. Kapner, B. R. Heckel, E. G. Adelberger, J. H. Gundlach, U. Schmidt and H. E. Swanson, Phys. Rev. D 70, 042004 (2004).
+K. Maeda, Phys. Rev. D 39, 3159 (1989).
+E. J. Copeland, A. R. Liddle and D. Wands, Phys. Rev. D 57, 4686 (1998).
+J. J. Halliwell, Phys. Lett. B 185, 341 (1987); J. Yokoyama and K. Maeda, Phys. Lett. B 207, 31 (1988).
+A. de la Macorra and G. Piccinelli, Phys. Rev. D 61, 123503 (2000); S. C. C. Ng, N. J. Nunes and F. Rosati, Phys. Rev. D 64, 083510 (2001).
+T. Barreiro, E. J. Copeland and N. J. Nunes, Phys. Rev. D 61, 127301 (2000).
+A. A. Coley and R. J. van den Hoogen, Phys. Rev. D62, 023517 (2000); S. A. Kim, A. R. Liddle and S. Tsujikawa, Phys. Rev. D 72, 043506 (2005).
+C. M. Will, Living Rev. Relativity 9 (2006), arXiv:gr-qc/0510072.
+J. M. Bardeen, Phys. Rev. D 22, 1882 (1980); H. Kodama and M. Sasaki, Prog. Theor. Phys. Suppl. 78, 1 (1984);
+V. F. Mukhanov, H. A. Feldman and R. H. Brandenberger, Phys. Rept. 215, 203 (1992); B. A. Bassett, S. Tsujikawa and
+D. Wands, Rev. Mod. Phys. 78, 537 (2006).
+J. c. Hwang and H. Noh, Phys. Rev. D 65, 023512 (2002); Phys. Rev. D 71, 063536 (2005).
+S. Tsujikawa, Phys. Rev. D 76, 023514 (2007).
+L. Amendola, M. Kunz and D. Sapone, arXiv:0704.2421 [astro-ph].
+P. McDonald et al., astro-ph/0407377.
+M. Viel and M. G. Haehnelt, Mon. Not. Roy. Astron. Soc. 365, 231 (2006).
+C. Di Porto and L. Amendola, arXiv:0707.2686 [astro-ph].
+M. Tegmark et al. [SDSS Collaboration], Phys. Rev. D 74, 123507 (2006).
+V. Faraoni, Phys. Rev. D 70, 044037 (2004); Phys. Rev. D 72, 061501 (2005).
+
+Cosmic Broth: A Structurally Constrained Framework for Emergent Inertia and Cosmological Substrate Dynamics
+
+Abstract
+The origin of inertia remains one of the deepest unresolved questions in fundamental physics. While General Relativity successfully describes gravitational dynamics through spacetime geometry, inertial mass itself is introduced as a primitive property rather than a derived phenomenon. In this work we develop a structurally constrained formulation of the Cosmic Broth framework in which inertia emerges dynamically from interaction between matter and a universal correlated substrate.
+We demonstrate that causality and cosmological horizon structure impose intrinsic limits on substrate correlations, fixing the relaxation scale of the medium independently of phenomenological assumptions. Integrating out substrate degrees of freedom yields a nonlocal inertial response characterized by finite memory time, leading naturally to frequency-dependent inertia in laboratory systems. Remarkably, the same causal constraint determines a characteristic acceleration scale
+a⋆∼cHO,a_\star \sim c H_O,a⋆∼cHO,
+linking galactic dynamics, inertial response, and cosmological expansion within a single dynamical structure.
+In this framework inertia becomes a locally measured manifestation of globally constrained substrate dynamics. The equivalence principle arises as an infrared fixed point of matter–substrate interaction, while effective dark-sector behavior corresponds to equilibrium stress–energy of the substrate. We formulate a fundamental substrate relation connecting correlation length, relaxation time, and emergent inertial scale, thereby reducing previously independent phenomenological parameters to consequences of cosmological causality.
+The resulting theory provides a unified description in which gravitational curvature, inertial mass, and galactic acceleration scales originate from different dynamical regimes of a single underlying medium. Precision metrology and astrophysical observations probe complementary limits of the same substrate physics, rendering emergent inertia experimentally testable across vastly different scales.
+
+Introduction
+Inertia occupies a peculiar position in modern physics. Unlike gravitational interaction, which in General Relativity arises from spacetime geometry, inertial mass enters physical theory as an assumed property of matter. The equivalence principle establishes empirical equality between inertial and gravitational mass, yet offers no dynamical explanation for its origin. Despite more than a century of theoretical development, inertia remains conceptually external to the geometric structure of gravity.
+Historically, Mach proposed that inertia might arise from interaction with the global distribution of matter in the Universe. Although General Relativity partially incorporates relational aspects of motion, it does not fully realize a dynamical mechanism through which cosmological structure determines local
+
+inertial response. Contemporary approaches exploring emergent gravity, vacuum response, and effective field theories have revived the possibility that inertia may originate from interactions with underlying degrees of freedom associated with spacetime itself.
+The Cosmic Broth framework advances this perspective by postulating the existence of a universal correlated substrate whose dynamical response generates inertial behavior. Previous work has shown that such a substrate can reproduce universal inertial response as an infrared fixed point, account for gravitational lensing constraints through equilibrium stress–energy contributions, and predict laboratory-scale inertial memory effects arising from finite relaxation dynamics.
+However, a central challenge remains. Many emergent frameworks introduce phenomenological scales whose physical origin remains unspecified. In particular, the appearance of a characteristic galactic acceleration scale comparable to cHOcH_OcHO suggests a connection between local dynamics and cosmological structure that standard formulations leave unexplained.
+The present work addresses this issue by imposing structural constraints derived from cosmological causality. If the substrate constitutes a physical medium extending across spacetime, its correlation length cannot exceed the cosmological horizon. This requirement fixes the maximal relaxation time of substrate dynamics and leads naturally to a fundamental relation connecting cosmological expansion, inertial response, and emergent acceleration scales.
+Within this picture, inertia becomes a cosmological local phenomenon: locally measured resistance to acceleration reflects interaction with a medium whose dynamical memory is bounded by the causal history of the Universe itself.
+The purpose of this paper is therefore threefold:
+to derive the effective dynamics of matter interacting with a causally constrained substrate,
+to establish a fundamental relation linking substrate correlation scales to cosmological expansion,
+to demonstrate how gravitational, inertial, and dark-sector phenomena emerge as distinct dynamical regimes of the same underlying medium.
+The paper is organized as follows. Section II introduces the dynamical substrate model and causal correlation constraints. Section III derives the effective nonlocal inertial action. Section IV formulates the fundamental substrate relation and emergent acceleration scale. Section V discusses geometric and cosmological implications. Section VI examines observational and experimental consequences. Conclusions follow.
+Cosmological Causality and Substrate Correlation Structure
+
+The Substrate as a Physical Medium
+We consider a universal correlated substrate described by a coarse-grained scalar response field Ψ(x)\Psi(x)Ψ(x), representing collective degrees of freedom of the Cosmic Broth. The essential physical assumption is minimal:
+The substrate permeates spacetime.
+
+It possesses finite correlation length.
+It obeys relativistic causality.
+The effective quadratic action in curved spacetime is
+SΨ=∫d4x−g[Z2gμν∂μΨ∂νΨ−12mΨ2Ψ2].S_\Psi = \int d^4x \sqrt{-g} \left[ \frac{Z}{2} g^{\mu\nu}\partial_\mu \Psi \partial_\nu \Psi -\frac{1}{2} m_\Psi^2 \Psi^2 \right].SΨ=∫d4x−g[2Z gμν∂μΨ∂νΨ−21mΨ2Ψ2].
+
+The parameter mΨ−1m_\Psi^{-1}mΨ−1 defines the intrinsic correlation length in the absence of cosmological effects.
+However, this intrinsic scale cannot exceed limits imposed by spacetime causal structure.
+
+Horizon-Limited Correlation Length
+In a cosmological background with Hubble parameter H(t)H(t)H(t), the causal horizon scale is LH(t)∼cH(t).L_H(t) \sim \frac{c}{H(t)}.LH(t)∼H(t)c.
+Any physical correlation extending beyond this scale would require super-horizon communication, violating causality.
+Thus, the maximal correlation length of the substrate satisfies
+𝘗Ψ(t)≤LH(t).\ell_\Psi(t) \le L_H(t).𝘗Ψ(t)≤LH(t).
+In the late-time Universe where H→HOH \to H_OH→HO,
+𝘗Ψmax∼cHO.\ell_\Psi^{\text{max}} \sim \frac{c}{H_O}.𝘗Ψmax∼HOc.
+This result does not depend on detailed substrate microphysics; it follows purely from causal structure.
+
+Relaxation Time Constraint
+For a relativistic medium, signal propagation speed cannot exceed ccc. Therefore the relaxation time is bounded by
+τΨ∼𝘗Ψc.\tau_\Psi \sim \frac{\ell_\Psi}{c}.τΨ∼c𝘗Ψ. Combining with the horizon constraint yields τΨ≲1HO.\tau_\Psi \lesssim \frac{1}{H_O}.τΨ≲HO1.
+In the limiting case of maximal cosmological correlation,
+τΨ∼H0−1.\tau_\Psi \sim H_O^{-1}.τΨ∼H0−1.
+
+Thus the substrate possesses a natural relaxation timescale of cosmological magnitude. This conclusion is structural, not phenomenological.
+
+Emergent Inertial Response from Finite Relaxation
+From previous derivations, integrating out substrate fluctuations yields a nonlocal effective worldline action
+Seff=−m0∫dτ+λ22∫dτdτ′K(τ−τ′),S_{\text{eff}} = -m_O\int d\tau + \frac{\lambda^2}{2} \int d\tau d\tau' K(\tau-\tau'),Seff=−m0∫dτ+2λ2∫dτdτ′K(τ−τ′),
+with memory kernel characterized by τΨ\tau_\PsiτΨ.
+The resulting equation of motion in derivative expansion form is
+mIa+ηIa˙+ξIa"+⋯=Fext.m_I a + \eta_I \dot a + \xi_I \ddot a +\dots = F_{\text{ext}}.mIa+ηIa˙+ξI a"+⋯=Fext.
+The coefficients scale with kernel moments:
+ηI∼mIτΨ,ξI∼mIτΨ2.\eta_I \sim m_I \tau_\Psi, \qquad \xi_I \sim m_I \tau_\Psi^2.ηI∼mIτΨ,ξI∼mIτΨ2.
+Hence inertial response becomes sensitive to acceleration variations over timescales comparable to τΨ\tau_\PsiτΨ.
+
+Emergent Acceleration Scale
+Consider motion characterized by timescale T∼v/aT\sim v/aT∼v/a. Inertial deviations become significant when
+T∼τΨ.T \sim \tau_\Psi.T∼τΨ.
+
+Taking vvv limited by causal propagation speed in the substrate (v≲cv\lesssim cv≲c), the threshold acceleration satisfies
+ca⋆∼τΨ.\frac{c}{a_\star} \sim \tau_\Psi.a⋆c∼τΨ.
+Hence
+a⋆∼cτΨ.a_\star \sim \frac{c}{\tau_\Psi}.a⋆∼τΨc. Substituting the cosmological constraint τΨ∼H0−1,\tau_\Psi \sim H_O^{-1},τΨ∼H0−1,
+
+we obtain
+a⋆∼cHO.\boxed{ a_\star \sim c H_O. }a⋆∼cHO.
+This reproduces the observed galactic acceleration scale without introducing an empirical parameter.
+
+Structural Substrate Relation
+Combining correlation length and relaxation time yields the fundamental substrate identity: a⋆=c2𝘗Ψwith𝘗Ψ∼cHO.\boxed{ a_\star = \frac{c^2}{\ell_\Psi} } \qquad \text{with} \qquad \ell_\Psi
+\sim \frac{c}{H_O}.a⋆=𝘗Ψc2with𝘗Ψ∼HOc.
+Equivalently,
+a⋆∼cHO.a_\star \sim cH_O.a⋆∼cHO.
+This is the central structural relation of the theory. It connects:
+cosmological expansion (HOH_OHO),
+substrate correlation structure (𝘗Ψ\ell_\Psi𝘗Ψ),
+inertial dynamics (a⋆a_\stara⋆). No independent tuning parameter appears.
+
+Interpretation: Inertia as a Cosmological Local Phenomenon
+The result implies that local inertial behavior is constrained by the maximal causal memory of the Universe. A body accelerating relative to the substrate probes correlations extending across cosmological scales. When acceleration becomes sufficiently small, motion samples the full memory depth of the medium, leading to modified effective response.
+In this sense, inertia becomes a locally measured consequence of globally constrained substrate dynamics.
+This realization operationalizes a Machian intuition within a causally consistent relativistic framework.
+Covariant Formulation and Consistency with General Relativity
+
+Covariant Substrate Action
+
+Consider the total action:
+S=SEH+Smatter+SΨ+Sint.S = S_{\text{EH}} + S_{\text{matter}} + S_\Psi + S_{\text{int}}.S=SEH
++Smatter+SΨ+Sint. Where:
+SEH=116πG∫d4x−g RS_{\text{EH}} = \frac{1}{16\pi G}\int d^4x \sqrt{-g}\, RSEH=16πG1∫d4x−gR SΨ=∫d4x−g[Z2gμν∇μΨ∇νΨ−12mΨ2Ψ2]S_\Psi = \int d^4x \sqrt{-g} \left[ \frac{Z}{2} g^{\mu\nu}\nabla_\mu \Psi \nabla_\nu \Psi -\frac{1}{2} m_\Psi^2 \Psi^2 \right]SΨ=∫d4x−g[2Z gμν∇μΨ∇νΨ−21mΨ2Ψ2] Sint=λ∫dτ Ψ(x(τ)).S_{\text{int}} = \lambda \int d\tau\, \Psi(x(\tau)).Sint
+=λ∫dτΨ(x(τ)).
+All terms are manifestly covariant.
+No preferred frame is introduced at the level of the fundamental action.
+
+Energy–Momentum Tensor of the Substrate
+Variation with respect to gμνg^{\mu\nu}gμν yields
+Tμν(Ψ)=Z ∇μΨ∇νΨ−gμν[Z2(∇Ψ)2−12mΨ2Ψ2].T_{\mu\nu}^{(\Psi)} = Z\,\nabla_\mu \Psi
+\nabla_\nu \Psi - g_{\mu\nu} \left[ \frac{Z}{2} (\nabla \Psi)^2 -\frac{1}{2} m_\Psi^2 \Psi^2
+\right].Tμν(Ψ)=Z∇μΨ∇νΨ−gμν[2Z(∇Ψ)2−21mΨ2Ψ2].  In equilibrium (long-wavelength limit),
+Ψ→ΨO=constant,\Psi \to \Psi_O = \text{constant},Ψ→ΨO=constant, implying
+Tμν(Ψ)→−12mΨ2ΨO2 gμν.T_{\mu\nu}^{(\Psi)} \to -\frac{1}{2} m_\Psi^2 \Psi_O^2\, g_{\mu\nu}.Tμν(Ψ)→−21mΨ2ΨO2gμν.
+Thus the equilibrium substrate behaves as an effective cosmological component. No explicit violation of local Lorentz symmetry appears.
+
+Infrared Fixed Point and Equivalence Principle
+In the low-frequency limit ω≪HO\omega \ll H_Oω≪HO, τΨ→∞effectively,\tau_\Psi \to \infty \quad \text{effectively},τΨ→∞effectively, so derivative corrections vanish:
+
+meff(ω)→mI.m_{\text{eff}}(\omega) \to m_I.meff(ω)→mI.
+Thus free-fall universality and equivalence principle tests remain satisfied locally. In renormalization-group language:
+ω→O⇒μ(a)→1.\omega \to O \quad \Rightarrow \quad \mu(a) \to 1.ω→O⇒μ(a)→1. The equivalence principle appears as an infrared fixed point of the substrate response.
+
+Causality and Stability
+The kernel obtained from integrating out Ψ\PsiΨ is retarded: K(τ−τ′)∝θ(τ−τ′)e−(τ−τ′)/τΨ.K(\tau-\tau') \propto \theta(\tau-\tau') e^{-(\tau-
+\tau')/\tau_\Psi}.K(τ−τ′)∝θ(τ−τ′)e−(τ−τ′)/τΨ.
+Thus:
+no acausal propagation,
+no advanced solutions,
+no runaway instabilities (unlike classical radiation reaction).
+The memory corrections remain perturbative as long as
+ωτΨ≪1\omega \tau_\Psi \ll 1ωτΨ≪1 in laboratory regimes.
+Given τΨ∼H0−1\tau_\Psi \sim H_O^{-1}τΨ∼H0−1,
+ωτΨ∼ωHO.\omega \tau_\Psi \sim \frac{\omega}{H_O}.ωτΨ∼HOω.
+For solar-system frequencies ω∼10−7 s−1\omega \sim 1O^{-7}\,\text{s}^{-1}ω∼10−7s−1,
+ωτΨ∼1O1O.\omega \tau_\Psi \sim 1O^{1O}.ωτΨ∼1O1O.
+
+However, this corresponds to ultra-low accelerations a≪a⋆a \ll a_\stara≪a⋆, precisely where galactic modifications occur, not local instabilities.
+Thus no contradiction arises in tested regimes.
+
+Compatibility with Local Lorentz Invariance
+Although cosmology selects a preferred rest frame (the comoving frame of the Universe), this does not violate local Lorentz invariance:
+
+The fundamental equations remain covariant.
+The horizon constraint arises from global geometry, not local symmetry breaking.
+Local experiments in inertial frames remain consistent with SR.
+The substrate memory scale depends on global boundary conditions, not on local frame choice.
+
+Covariant Fundamental Relation
+We may now express the structural relation in fully covariant form. Define the cosmological expansion scalar:
+Θ=∇μuμ,\Theta = \nabla_\mu u^\mu,Θ=∇μuμ, where uμu^\muuμ is the comoving four-velocity field. In FLRW background:
+Θ=3H.\Theta = 3H.Θ=3H.
+The substrate relaxation time satisfies τΨ∼Θ−1.\tau_\Psi \sim \Theta^{-1}.τΨ∼Θ−1. Hence the fundamental substrate relation becomes a⋆∼c Θ\boxed{ a_\star \sim c\,\Theta }a⋆∼cΘ which in late-time cosmology reduces to a⋆∼cHO.a_\star \sim cH_O.a⋆∼cHO.
+This is now written entirely in covariant language.
+
+Structural Summary
+We have shown that:
+The substrate action is covariant.
+Its equilibrium sector contributes to curvature.
+Its dynamical sector generates inertial response.
+Cosmological expansion constrains correlation structure.
+The emergent acceleration scale arises without phenomenological tuning.
+The framework remains consistent with GR in all locally tested regimes while predicting modifications at acceleration scales determined by cosmological causality.
+
+Unified Regime Structure: Geometry, Inertia, and Cosmological Dynamics
+Two Faces of One Medium
+We formalize the Cosmic Broth substrate as a single physical medium with two operationally distinct manifestations:
+Equilibrium sector (long-wavelength, coarse-grained): contributes an effective stress–energy TμνsubT_{\mu\nu}^{\text{sub}}Tμνsub sourcing curvature.
+Response sector (dynamical, non-equilibrium): produces inertial response and memory through retarded susceptibility.
+We express this schematically as
+Ψ(x)=ΨO(x)+δΨ(x),\Psi(x)=\Psi_O(x)+\delta\Psi(x),Ψ(x)=ΨO(x)+δΨ(x),
+
+where ΨO\Psi_OΨO characterizes the equilibrium configuration and δΨ\delta\PsiδΨ the fluctuations governing response.
+The essential unification claim is: both sectors are constrained by the same correlation structure (𝘗Ψ,τΨ)(\ell_\Psi,\tau_\Psi)(𝘗Ψ,τΨ), and (𝘗Ψ,τΨ)(\ell_\Psi,\tau_\Psi)(𝘗Ψ,τΨ) are bounded by cosmological causality, hence by H(t)H(t)H(t).
+
+The Structural Constraint as a Closure Condition
+From Sec. II–III we obtained the fundamental substrate relation
+𝘗Ψ(t) ≲ cH(t) , τΨ(t) ∼ 𝘗Ψ(t)c , a⋆(t) ∼ cτΨ(t) ∼ c2𝘗Ψ(t) ∼ cH(t) .\boxed{\ \ell_\Psi(t)\
+\lesssim\ \frac{c}{H(t)}\ },\qquad \boxed{\ \tau_\Psi(t)\ \sim\ \frac{\ell_\Psi(t)}{c}\ },\qquad \boxed{\ a_\star(t)\ \sim\ \frac{c}{\tau_\Psi(t)}\ \sim\ \frac{c^2}{\ell_\Psi(t)}\ \sim\ cH(t)\ }. 𝘗Ψ(t) ≲ H(t)c
+, τΨ(t) ∼ c𝘗Ψ(t) , a⋆(t) ∼ τΨ(t)c ∼ 𝘗Ψ(t)c2 ∼ cH(t) .
+This does more than produce an “acceleration scale”: it closes the theory structurally by linking the response scale to cosmological dynamics, eliminating a free phenomenological constant.
+We adopt the minimal closure statement:
+a⋆(t)≡κ⋆ cH(t),a_\star(t) \equiv \kappa_\star\, cH(t),a⋆(t)≡κ⋆cH(t),
+with κ⋆\kappa_\starκ⋆ a dimensionless constant expected O(1)O(1)O(1). In the late Universe, a⋆(tO)=κ⋆cHOa_\star(t_O)=\kappa_\star cH_Oa⋆(tO)=κ⋆cHO.
+
+Unified Field Equations with Substrate Stress–Energy
+
+The geometric sector is
+Gμν=8πG(Tμνbar+Tμνsub).G_{\mu\nu} = 8\pi G\left(T_{\mu\nu}^{\text{bar}} + T_{\mu\nu}^{\text{sub}}\right).Gμν=8πG(Tμνbar+Tμνsub).
+
+We treat TμνsubT_{\mu\nu}^{\text{sub}}Tμνsub as a conserved effective tensor in the equilibrium limit:
+∇μTsubμν≃O,\nabla_\mu T^{\mu\nu}_{\text{sub}} \simeq O,∇μTsubμν≃O,
+valid when baryons follow approximately geodesic motion and exchange with the substrate is negligible on macroscopic timescales.
+In the weak-field, quasi-static limit the potential obeys
+∇2Φ=4πG(ρbar+ρsub).\nabla^2\Phi = 4\pi G\left(\rho_{\text{bar}}+\rho_{\text{sub}}\right).∇2Φ=4πG(ρbar+ρsub).
+Thus lensing responds to the total equilibrium mass-energy: Mlens=Mbar+Msub.M_{\text{lens}} = M_{\text{bar}} + M_{\text{sub}}.Mlens=Mbar+Msub.
+This is the essential fix imposed by the lensing discriminator: geometry must carry the “missing” mass signal.
+
+Unified Response Law for Timelike Motion
+The response sector yields (from integrating out δΨ\delta\PsiδΨ) a retarded effective equation of motion. In its local derivative expansion:
+mIa+ηIa˙+ξIa"+⋯=Fext.m_I a+\eta_I \dot a+\xi_I \ddot a + \cdots = F_{\text{ext}}.mIa+ηIa˙+ξI a"+⋯=Fext.
+For gravitational forcing, Fext=−m0∇ΦF_{\text{ext}}=-m_O\nabla\PhiFext=−m0∇Φ, giving
+mIa+ηIa˙+ξIa"+⋯=mO ∣∇Φ∣.m_I a+\eta_I \dot a+\xi_I \ddot a + \cdots = m_O\,|\nabla\Phi|.mIa+ηI a˙+ξIa"+⋯=mO∣∇Φ∣.
+In the quasi-static regime where memory terms are negligible,
+mI(a) a=mO ∣∇Φ∣.m_I(a)\,a = m_O\,|\nabla\Phi|.mI(a)a=mO∣∇Φ∣. Define the inertial renormalization factor μ(a)≡mI(a)mO.\mu(a)\equiv \frac{m_I(a)}{m_O}.μ(a)≡mOmI(a).
+Then
+μ(a) a=∣∇Φ∣.\mu(a)\,a = |\nabla\Phi|.μ(a)a=∣∇Φ∣.
+
+Crucially, ∣∇Φ∣|\nabla\Phi|∣∇Φ∣ itself is determined by ρbar+ρsub\rho_{\text{bar}}+\rho_{\text{sub}}ρbar+ρsub. Hence dynamics and lensing are no longer in conflict: both depend on the same underlying equilibrium geometry, while μ(a)\mu(a)μ(a) supplies a subleading dynamical correction in selected regimes.
+
+Regime Map: When Does Each Sector Dominate?
+Introduce two dimensionless control parameters:
+Geometric dominance
+χ(r)≡ρsubρbarorχM(r)≡Msub(r)Mbar(r).\chi(r)\equiv \frac{\rho_{\text{sub}}}{\rho_{\text{bar}}}
+\quad\text{or}\quad \chi_M(r)\equiv \frac{M_{\text{sub}}(r)}{M_{\text{bar}}(r)}.χ(r)≡ρbarρsuborχM (r)≡Mbar(r)Msub(r).
+Response dominance
+ϵ(a)≡∣1−μ(a)1∣,δ(ω)≡ωτΨ.\epsilon(a)\equiv \left|\frac{1-\mu(a)}{1}\right|,\qquad
+\delta(\omega)\equiv \omega\tau_\Psi.ϵ(a)≡11−μ(a),δ(ω)≡ωτΨ. Then we identify three phenomenological regimes:
+Regime I — GR Laboratory/High-Acceleration (Local)
+a≫a⋆,ϵ(a)→O,δ(ω)≪1,χ irrelevant locally.a\gg a_\star,\quad \epsilon(a)\to O,\quad
+\delta(\omega)\ll 1,\quad \chi\ \text{irrelevant locally}.a≫a⋆,ϵ(a)→O,δ(ω)≪1,χ irrelevant locally.
+Prediction: standard inertia, no detectable memory unless precision reaches extremely small δ(ω)\delta(\omega)δ(ω) effects.
+Regime II — Galactic Low-Acceleration (Transitional)
+a∼a⋆,ϵ(a) may be nonzero,χ system-dependent.a\sim a_\star,\quad \epsilon(a)\ \text{may be nonzero},\quad \chi\ \text{system-dependent}.a∼a⋆,ϵ(a) may be nonzero,χ system-dependent.
+Here the response sector can matter, but lensing constraints require that if χ\chiχ is small, large ϵ\epsilonϵ produces tension; viable solutions tend to require either (i) non-negligible χ\chiχ, or (ii) a tightly constrained ϵ(a)\epsilon(a)ϵ(a) that does not break lensing–dynamics consistency.
+Regime III — Cluster/Strong Lensing (Geometric)
+χ≫1⇒∣∇Φ∣ enhanced by ρsub,ϵ(a)→O preferred,\chi\gg 1\quad\Rightarrow\quad |\nabla\Phi|\
+\text{enhanced by}\ \rho_{\text{sub}}, \qquad \epsilon(a)\to O\
+\text{preferred},χ≫1⇒∣∇Φ∣ enhanced by ρsub,ϵ(a)→O preferred,
+so Mdyn≈MlensM_{\text{dyn}}\approx M_{\text{lens}}Mdyn≈Mlens naturally.
+This regime map is a direct synthesis of your lensing paper and the emergent-dark-sector completion.
+
+/
+The Cosmological Locality of Inertia
+Now we make the conceptual step precise.
+The response kernel has a relaxation time τΨ\tau_\PsiτΨ bounded by horizon causality:
+τΨ(t)∼H(t)−1.\tau_\Psi(t)\sim H(t)^{-1}.τΨ(t)∼H(t)−1.
+Therefore inertial response has an intrinsic cosmologically set timescale. In frequency space, the effective inertial transfer function for a test mass driven at frequency ω\omegaω behaves (to leading order) as
+meff(ω)≈mI[1+i ωτΨ+O(ω2τΨ2)].m_{\text{eff}}(\omega)\approx m_I\left[1+i\,\omega\tau_\Psi+O(\omega^2\tau_\Psi^2)\right].meff(ω)≈mI[1+iωτΨ+O(ω2τΨ2)].
+Thus, although inertia is measured locally, the scale controlling non-instantaneous response is determined by global causal structure. This operationalizes the statement:
+Inertia is a cosmological local phenomenon: local response, global constraint. \boxed{\ \text{Inertia is a cosmological local phenomenon: local response, global constraint.}\
+} Inertia is a cosmological local phenomenon: local response, global constraint.
+This is not philosophical garnish; it is a scaling law that links laboratory dynamics to H(t)H(t)H(t).
+
+Coupling Geometry and Response Through a Single Scale
+To make structural constraint meaningful, the theory must avoid independent free scales for:
+inertial transition a⋆a_\stara⋆,
+memory time τΨ\tau_\PsiτΨ,
+substrate equilibrium density ρsub\rho_{\text{sub}}ρsub.
+The minimal unifying hypothesis is that all three descend from the same correlation structure. One compact way to encode this is:
+ρsub≡R ⁣(𝘗Ψ;ρbar,∇Φ,… ),μ(a)≡M ⁣(aa⋆),a⋆≡c2𝘗Ψ,\rho_{\text{sub}} \equiv \mathcal R\!\left(\ell_\Psi; \rho_{\text{bar}}, \nabla\Phi,\dots\right), \qquad \mu(a)\equiv \mathcal M\!\left(\frac{a}{a_\star}\right), \qquad a_\star\equiv \frac{c^2}{\ell_\Psi},ρsub≡R(𝘗Ψ;ρbar
+,∇Φ,…),μ(a)≡M(a⋆a),a⋆≡𝘗Ψc2,
+with 𝘗Ψ∼c/H\ell_\Psi\sim c/H𝘗Ψ∼c/H.
+This yields a model class with one cosmologically set scale (HHH) and at most dimensionless response parameters. The difference between “framework” and “inevitable theory” lies exactly here: scale reduction.
+
+
+A Compact Fundamental Substrate Relation
+We now state, in the paper’s own language, the fundamental relation of the substrate as a triple identity:
+𝘗Ψ(t) ∼ cH(t),τΨ(t) ∼ 1H(t),a⋆(t) ∼ cH(t).\boxed{ \ell_\Psi(t)\ \sim\ \frac{c}{H(t)}, \qquad
+\tau_\Psi(t)\ \sim\ \frac{1}{H(t)}, \qquad a_\star(t)\ \sim\ cH(t). }𝘗Ψ(t) ∼ H(t)c,τΨ(t) ∼ H(t)1,a⋆
+(t) ∼ cH(t).
+This is the structural core: if the substrate is a causal physical medium, then its maximal correlation and relaxation are horizon-limited, and the inertial transition scale is fixed.
+Weak-Field Algebra and Point-by-Point Derivations
+Setup: weak-field metric and two potentials
+Work in the weak-field, quasi-static regime with (signature −,+,+,+-,+,+,+−,+,+,+):
+ds2=−(1+2Φ) c2dt2+(1−2Ψ) dx2.ds^2 = -(1+2\Phi)\,c^2dt^2 + (1-2\Psi)\,d\mathbf{x}^2.ds2=−(1+2Φ)c2dt2+(1−2Ψ)dx2.
+In GR with standard matter and negligible anisotropic stress, Φ≃Ψ\Phi\simeq \PsiΦ≃Ψ. We will keep Φ,Ψ\Phi,\PsiΦ,Ψ explicit until we specialize.
+Light deflection depends on the lensing potential Φ+Ψ\Phi+\PsiΦ+Ψ. In the minimal GR-consistent limit Φ=Ψ\Phi=\PsiΦ=Ψ, lensing depends on 2Φ2\Phi2Φ.
+Geometry sector: Poisson equation with substrate equilibrium density
+Goal: show that lensing sees baryons + substrate.
+Einstein equations with substrate:
+Gμν=8πG(Tμνbar+Tμνsub).G_{\mu\nu}=8\pi G\left(T_{\mu\nu}^{\rm bar}+T_{\mu\nu}^{\rm sub}\right).Gμν=8πG(Tμνbar+Tμνsub).
+In the Newtonian/quasi-static limit, the OOOOOO equation yields:
+∇2Φ=4πG(ρbar+ρsub).\nabla^2\Phi = 4\pi G(\rho_{\rm bar}+\rho_{\rm sub}).∇2Φ=4πG(ρbar
++ρsub).
+Define enclosed masses (spherical symmetry):
+Mi(r)=4π∫0rρi(r′) r′2dr′,i∈{bar,sub}.M_i(r)=4\pi\int_O^r \rho_i(r')\,r'^2dr',\quad i\in\{{\rm bar,sub}\}.Mi(r)=4π∫Orρi(r′)r′2dr′,i∈{bar,sub}.
+Then:
+
+dΦdr=Gr2[Mbar(r)+Msub(r)].\frac{d\Phi}{dr}=\frac{G}{r^2}\left[M_{\rm bar}(r)+M_{\rm sub}(r)\right].drdΦ=r2G[Mbar(r)+Msub(r)].
+Define the geometric (metric) acceleration:
+aΦ(r)≡∣∇Φ∣=Gr2[Mbar(r)+Msub(r)].a_\Phi(r)\equiv |\nabla\Phi|=\frac{G}{r^2}\left[M_{\rm bar}(r)+M_{\rm sub}(r)\right].aΦ(r)≡∣∇Φ∣=r2G[Mbar(r)+Msub(r)].
+This is the “acceleration felt by photons” (via curvature), independent of any modified inertia.
+Lensing mass is total equilibrium mass
+For a thin lens, the convergence is:
+κ(R)=Σtot(R)Σcrit,Σtot=Σbar+Σsub.\kappa(R)=\frac{\Sigma_{\rm tot}(R)}{\Sigma_{\rm crit}},\qquad
+\Sigma_{\rm tot}=\Sigma_{\rm bar}+\Sigma_{\rm sub}.κ(R)=ΣcritΣtot(R),Σtot=Σbar+Σsub.
+The lensing-inferred enclosed mass therefore satisfies:
+Mlens(r)=Mbar(r)+Msub(r).M_{\rm lens}(r)=M_{\rm bar}(r)+M_{\rm sub}(r).Mlens(r)=Mbar (r)+Msub(r).
+This is the non-negotiable closure demanded by the “lensing discriminator” logic: if lensing follows dynamics, geometry must carry the extra source.
+Response sector: nonlocal inertia reduced to a controlled local expansion
+Goal: show how inertial response modifies timelike motion without touching lensing.
+Effective equation of motion from integrating out substrate fluctuations:
+mIa+ηIa˙+ξIa"+⋯=Fext.m_I a+\eta_I \dot a+\xi_I \ddot a+\cdots = F_{\rm ext}.mIa+ηIa˙+ξI a"+⋯=Fext.
+For purely gravitational forcing:
+Fext=mO aΦ⇒mIa+ηIa˙+ξIa"+⋯=mO aΦ.F_{\rm ext}=m_O\,a_\Phi \quad\Rightarrow\quad m_I a+\eta_I \dot a+\xi_I \ddot a+\cdots = m_O\,a_\Phi.Fext=mOaΦ⇒mIa+ηIa˙+ξIa"+⋯=mOaΦ.
+Define the static inertial renormalization:
+μ(a)≡mI(a)mO.\mu(a)\equiv \frac{m_I(a)}{m_O}.μ(a)≡mOmI(a).
+In the quasi-static regime where memory derivatives are negligible (slowly varying motion), reduce to:
+μ(a) a=aΦ.\mu(a)\,a = a_\Phi.μ(a)a=aΦ.
+This equation governs massive tracers; photons remain governed by Φ,Ψ\Phi,\PsiΦ,Ψ alone.
+
+The key relation: dynamical mass vs lensing mass
+Goal: derive the exact algebraic tension/consistency condition.
+Observers often infer “dynamical mass” via:
+a(r)=v2(r)r=GMdyn(r)r2.a(r)=\frac{v^2(r)}{r}=\frac{GM_{\rm dyn}(r)}{r^2}.a(r)=rv2(r)=r2GMdyn (r).
+But in the theory:
+a(r)=aΦ(r)μ(a)=G[Mbar(r)+Msub(r)]μ(a) r2.a(r)=\frac{a_\Phi(r)}{\mu(a)}=\frac{G[M_{\rm
+bar}(r)+M_{\rm   sub}(r)]}{\mu(a)\,r^2}.a(r)=μ(a)aΦ(r)=μ(a)r2G[Mbar(r)+Msub(r)].
+Therefore:
+Mdyn(r)=1μ(a)[Mbar(r)+Msub(r)].M_{\rm dyn}(r)=\frac{1}{\mu(a)}\left[M_{\rm bar}(r)+M_{\rm sub}(r)\right].Mdyn(r)=μ(a)1[Mbar(r)+Msub(r)].
+Using Mlens=Mbar+MsubM_{\rm lens}=M_{\rm bar}+M_{\rm sub}Mlens=Mbar+Msub:
+
+Mdyn(r)=1μ(a) Mlens(r). \boxed{\,M_{\rm dyn}(r)=\frac{1}{\mu(a)}\,M_{\rm lens}(r).\,}Mdyn (r)=μ(a)1Mlens(r).
+
+Hence the observational condition Mdyn≃MlensM_{\rm dyn}\simeq M_{\rm lens}Mdyn≃Mlens implies:
+
+μ(a)≃1in regimes where lensing and dynamics are compared tightly.\mu(a)\simeq 1 \quad\text{in regimes where lensing and dynamics are compared
+tightly.}μ(a)≃1in regimes where lensing and dynamics are compared tightly.
+Interpretation: once the substrate contributes substantially to equilibrium curvature (Msub≠0M_{\rm sub}\neq OMsub =O), the allowed “room” for large inertial renormalization shrinks (or becomes a subleading correction).
+Structural constraint: derive the acceleration scale from horizon-limited memory
+Now we plug in the “structural closure.”
+Horizon-limited correlation:
+𝘗Ψ(t)∼cH(t),τΨ(t)∼𝘗Ψ(t)c∼1H(t).\ell_\Psi(t)\sim \frac{c}{H(t)},\qquad \tau_\Psi(t)\sim
+\frac{\ell_\Psi(t)}{c}\sim  \frac{1}{H(t)}.𝘗Ψ(t)∼H(t)c,τΨ(t)∼c𝘗Ψ(t)∼H(t)1.
+The response sector’s characteristic “non-instantaneous” scale is:
+a⋆(t)∼cτΨ(t)∼cH(t).a_\star(t)\sim \frac{c}{\tau_\Psi(t)}\sim cH(t).a⋆(t)∼τΨ(t)c∼cH(t).
+Late time:
+
+a⋆(tO)∼cHO .\boxed{\,a_\star(t_O)\sim cH_O\,}.a⋆(tO)∼cHO.
+This is the structurally constrained replacement for inserting an empirical MOND-like acceleration “by hand.”
+
+A minimal closed ansatz for ρsub\rho_{\rm sub}ρsub consistent with the structural scale
+At this point the framework is still a class until we specify how equilibrium substrate density is generated. We want the minimal closure that: (i) respects dimensions and causality, (ii) is local in the equilibrium limit, (iii) introduces no new scale beyond a⋆a_\stara⋆.
+A compact, weak-field closure with the correct dimensions is:
+ρsub=α4πG ∣∇Φ∣r⋆,\rho_{\rm sub} = \frac{\alpha}{4\pi G}\,\frac{|\nabla\Phi|}{r_\star},ρsub=4πGα r⋆∣∇Φ∣,
+where r⋆r_\starr⋆ is a length scale. Structural constraint says the only large length available is
+𝘗Ψ\ell_\Psi𝘗Ψ, so take:
+r⋆≡𝘗Ψ∼cH.r_\star \equiv \ell_\Psi \sim \frac{c}{H}.r⋆≡𝘗Ψ∼Hc. Then:
+ρsub=α4πG Hc ∣∇Φ∣=α4πG ∣∇Φ∣c2 a⋆,\rho_{\rm sub} = \frac{\alpha}{4\pi G}\,\frac{H}{c}\,|\nabla\Phi|=\frac{\alpha}{4\pi G}\,\frac{|\nabla\Phi|}{c^2}\,a_\star,ρsub=4πGαcH
+∣∇Φ∣=4πGαc2∣∇Φ∣a⋆,
+
+since a⋆∼cHa_\star\sim cHa⋆∼cH. This uses only the cosmologically fixed scale; α\alphaα is dimensionless.
+Closed field equation in spherical symmetry
+Insert the closure into Poisson:
+∇2Φ=4πGρbar+4πGρsub=4πGρbar+α Hc ∣∇Φ∣.\nabla^2\Phi = 4\pi G\rho_{\rm bar} + 4\pi G\rho_{\rm sub} =4\pi G\rho_{\rm bar} + \alpha\,\frac{H}{c}\,|\nabla\Phi|.∇2Φ=4πGρbar
++4πGρsub=4πGρbar+αcH∣∇Φ∣.
+For spherical symmetry with aΦ(r)=∣dΦ/dr∣a_\Phi(r)=|d\Phi/dr|aΦ(r)=∣dΦ/dr∣:
+1r2ddr(r2aΦ)=4πGρbar(r)+α Hc aΦ(r).\frac{1}{r^2}\frac{d}{dr}\left(r^2 a_\Phi\right)=4\pi G\rho_{\rm bar}(r)+\alpha\,\frac{H}{c}\,a_\Phi(r).r21drd(r2aΦ)=4πGρbar(r)+αcHaΦ(r).
+
+This is now a closed ODE for aΦ(r)a_\Phi(r)aΦ(r) given ρbar\rho_{\rm bar}ρbar, with the cosmological parameter HHH entering as the structural constraint.
+Asymptotic solution and flat rotation curves
+Consider the outer region where ρbar→O\rho_{\rm bar}\to Oρbar→O. Then:
+
+1r2ddr(r2aΦ)=α Hc aΦ.\frac{1}{r^2}\frac{d}{dr}\left(r^2 a_\Phi\right)=\alpha\,\frac{H}{c}\,a_\Phi.r21drd(r2aΦ)=αcHaΦ.
+Let u(r)≡r2aΦ(r)u(r)\equiv r^2 a_\Phi(r)u(r)≡r2aΦ(r). Then:
+dudr=α Hc u.\frac{du}{dr}=\alpha\,\frac{H}{c}\,u.drdu=αcHu. So:
+u(r)=uO eαHr/c.u(r)=u_O\,e^{\alpha Hr/c}.u(r)=uOeαHr/c.
+This is too steep if taken literally to arbitrarily large rrr; physically the quasi-static approximation and the closure must saturate or transition on scales comparable to 𝘗Ψ\ell_\Psi𝘗Ψ. The correct use is local: for r≪𝘗Ψr\ll \ell_\Psir≪𝘗Ψ, expand:
+eαHr/c≃1+αHrc+O ⁣(r2𝘗Ψ2).e^{\alpha Hr/c}\simeq 1+\alpha\frac{Hr}{c}+O\!\left(\frac{r^2}{\ell_\Psi^2}\right).eαHr/c≃1+αcHr+O(𝘗Ψ2r2).
+Thus:
+aΦ(r)=uOr2(1+αHrc+⋯ )=uOr2+α Hc uOr+⋯a_\Phi(r)=\frac{u_O}{r^2}\left(1+\alpha\frac{Hr}{c}+
+\cdots\right) = \frac{u_O}{r^2}+\alpha\,\frac{H}{c}\,\frac{u_O}{r}+\cdotsaΦ(r)=r2uO(1+αcHr
++⋯)=r2uO+αcHruO+⋯
+The 1/r1/r1/r term yields approximately constant circular speed:
+v2(r)=r a(r)≈r aΦμ(a)∼const(μ≃1 in the lensing-consistent regime).v^2(r)=r\,a(r)\approx r\,\frac{a_\Phi}{\mu(a)}\sim \text{const} \quad (\mu\simeq 1\ \text{in the lensing-consistent regime}).v2(r)=ra(r)≈rμ(a)aΦ∼const(μ≃1 in the lensing-consistent regime).
+So the flat-curve behavior appears as the first horizon-controlled correction to the Newtonian 1/r21/r^21/r2 law, without introducing a new empirical acceleration scale. The “scale” is HHH, i.e., cosmology.
+V.1O Laboratory connection: inertial memory amplitude expressed through the same scale
+From the metrology paper, for harmonic forcing at frequency ω\omegaω:
+meff(ω)≈mI(1+iωτΨ+O(ω2τΨ2)).m_{\rm eff}(\omega)\approx m_I\left(1+i\omega\tau_\Psi+O(\omega^2\tau_\Psi^2)\right).meff(ω)≈mI(1+iωτΨ+O(ω2τΨ2)).
+With τΨ∼1/H\tau_\Psi\sim 1/HτΨ∼1/H:
+Δmm∼ω H−1 .\boxed{\ \frac{\Delta m}{m}\sim \omega\,H^{-1}\ }. mΔm∼ωH−1 .
+
+So the same cosmological quantity that fixes a⋆∼cHa_\star\sim cHa⋆∼cH fixes the first-order inertial-memory correction. This is the cross-scale closure: galaxy phenomenology and laboratory response are governed by one structural timescale.
+
+Predictions and Falsifiability Across Scales
+The core falsifiable triangle
+Il framework strutturalmente vincolato produce tre relazioni che devono coesistere:
+Cosmological constraint
+τΨ(t)∼H(t)−1,𝘗Ψ(t)∼cH(t).\tau_\Psi(t)\sim H(t)^{-1},\qquad \ell_\Psi(t)\sim \frac{c}{H(t)}.τΨ (t)∼H(t)−1,𝘗Ψ(t)∼H(t)c.
+Emergent acceleration scale
+a⋆(t)∼cτΨ(t)∼cH(t).a_\star(t)\sim \frac{c}{\tau_\Psi(t)}\sim cH(t).a⋆(t)∼τΨ(t)c∼cH(t).
+Dual manifestation of the substrate
+Equilibrium: TμνsubT_{\mu\nu}^{\rm sub}Tμνsub sources curvature (lensing).
+Response: retarded susceptibility produces inertial memory (metrology).
+Falsifiability condition: se uno di questi tre lati non si aggancia agli altri due con lo stesso H(t)H(t)H(t), la “chiusura strutturale” fallisce e la teoria ricade a modello parametrico.
+
+Astrophysical prediction A: a redshift-dependent acceleration scale
+Se a⋆(t)∼cH(t)a_\star(t)\sim cH(t)a⋆(t)∼cH(t), allora il “threshold” inerziale/gravito-substrato non è una costante universale immutabile, ma evolve con il redshift:
+a⋆(z) ∝ H(z).a_\star(z)\ \propto\ H(z).a⋆(z) ∝ H(z).
+Predizione qualitativa: galassie a redshift più alto dovrebbero mostrare una transizione dinamica (o un’acceleration relation) spostata rispetto a z≈0z\approx Oz≈O, con trend tracciabile da H(z)H(z)H(z).
+Falsificatore: se la scala osservata resta rigidamente costante con zzz (al di là di errori sistematici e selezione), la versione “structurally constrained” è in difficoltà.
+
+Astrophysical prediction B: lensing–dynamics coherence without large μ(a)\mu(a)μ(a)
+Con Mlens=Mbar+MsubM_{\rm lens}=M_{\rm bar}+M_{\rm sub}Mlens=Mbar+Msub e Mdyn=1μ(a)Mlens,M_{\rm dyn}=\frac{1}{\mu(a)}M_{\rm lens},Mdyn=μ(a)1Mlens,
+
+il regime “lensing-tight” richiede tipicamente μ(a)≃1\mu(a)\simeq 1μ(a)≃1.
+Predizione: nei sistemi dove lensing e dinamica sono misurati con alta precisione nello stesso raggio, deviazioni sistematiche Mdyn≠MlensM_{\rm dyn}\neq M_{\rm lens}Mdyn =Mlens dovrebbero essere piccole e correlate a segnali di non-equilibrio (ad esempio sistemi non rilassati, merger).
+Falsificatore: se esistesse una popolazione robusta e pulita di sistemi rilassati con Mdyn/MlensM_{\rm dyn}/M_{\rm lens}Mdyn/Mlens stabilmente lontano da 1 in modo non spiegabile con systematics, allora la separazione “equilibrium curvature + small response correction” si rompe.
+
+Astrophysical prediction C: environment dependence through correlation saturation
+Il closure basato su 𝘗Ψ∼c/H\ell_\Psi\sim c/H𝘗Ψ∼c/H implica che le correzioni al potenziale devono saturare o cambiare regime su scale comparabili a 𝘗Ψ\ell_\Psi𝘗Ψ.
+Predizione qualitativa: l’effetto substrato non può crescere indefinitamente con rrr; deve mostrare transizioni (o saturazioni) collegate a:
+grande scala cosmologica (horizon-limited), e/o
+condizioni di equilibrio locale del substrato (densità/gradiente/curvatura).
+Falsificatore: se i dati imponessero un profilo “universale” del settore oscuro che non ammette alcuna transizione/saturazione compatibile con una scala cosmologica, allora l’ansatz minimalista va sostituito con una chiusura più fisica (o la parte strutturale perde forza).
+
+Laboratory prediction A: frequency-dependent inertial transfer function
+Dal paper metrologico, per forcing armonico:
+meff(ω)≈mI(1+iωτΨ+O(ω2τΨ2)),τΨ∼H−1.m_{\rm eff}(\omega)\approx m_I\left(1+i\omega\tau_\Psi+O(\omega^2\tau_\Psi^2)\right), \quad \tau_\Psi\sim H^{-1}.meff (ω)≈mI(1+iωτΨ+O(ω2τΨ2)),τΨ∼H−1.
+Predizione: esiste una correzione universale, estremamente piccola, che scala come ω/H\omega/Hω/H nella parte dissipativa/di fase.
+Falsificatore (principio): se si potesse escludere sperimentalmente qualsiasi dipendenza da ω\omegaω dell’inerzia fino a sensibilità tali da rendere impossibile qualsiasi τΨ\tau_\PsiτΨ compatibile con a⋆∼cHOa_\star\sim cH_Oa⋆∼cHO, allora la chiusura a⋆=c/τΨa_\star=c/\tau_\Psia⋆=c/τΨ non regge.
+(Nota metodologica interna al paper: questo falsificatore è “hard” perché richiede precisioni enormi; ma è concettualmente pulito e cгoss-scale.)
+
+Laboratory prediction B: hysteresis under controlled acceleration cycles
+Con kernel retarded, una firma qualitativa è la non-chiusura perfetta in cicli di accelerazione/forza:
+
+F(a)≠F(−a) during reversal, at fixed amplitude and controlled environment.F(a) \neq F(-a)\
+\text{during reversal, at fixed amplitude and controlled
+environment.}F(a) =F(−a) during reversal, at fixed amplitude and controlled environment.
+Predizione: micro-isteresi o phase-lag non riconducibile a damping ambientale, distinguibile perché si lega a derivate di accelerazione e non alla velocità.
+Falsificatore: se in configurazioni ultra-isolated (alto Q, criogenia, vuoto) tutte le anomalie di phase-lag risultassero interamente spiegabili da dissipazione nota, la finestra per inertial memory si restringe drasticamente (pur non chiudendo del tutto, perché l’effetto potrebbe essere sotto soglia).
+
+Cross-scale prediction: one parameter to rule them all
+Questa è la predizione più “pericolosa” e più potente:
+a⋆(t)∼cH(t)⟺τΨ(t)∼H(t)−1.a_\star(t)\sim cH(t) \quad\Longleftrightarrow\quad \tau_\Psi(t)\sim H(t)^{-1}.a⋆(t)∼cH(t)⟺τΨ(t)∼H(t)−1.
+Quindi, in principio:
+misurare (o vincolare) τΨ\tau_\PsiτΨ in laboratorio vincola a⋆a_\stara⋆ in astrofisica,
+misurare a⋆(z)a_\star(z)a⋆(z) vincola τΨ(z)\tau_\Psi(z)τΨ(z) come memoria del substrato.
+Falsificatore cruciale: se i dati astrofisici richiedono un a⋆a_\stara⋆ incompatibile con qualsiasi τΨ\tau_\PsiτΨ fisicamente ammissibile nel formalismo retarded (o viceversa), allora la teoria non può restare strutturalmente vincolata; deve o rompere il legame o cambiare ontologia.
+
+What would count as a “smoking gun”?
+Un “smoking gun” credibile (anche se difficile) sarebbe uno di questi:
+Una dipendenza con redshift coerente con H(z)H(z)H(z) nella scala di transizione dinamica (non spiegabile con selezione).
+Un segnale di phase-lag inerziale che scala con ω\omegaω come previsto, separabile da damping.
+Una correlazione quantitativa tra proprietà del potenziale (lensing-inferred) e residual inertial corrections in un regime controllabile.
+
+Minimal experimental/observational checklist
+Per rendere il programma pratico, il paper può chiudere questa sezione con una checklist:
+
+Astro: test a⋆(z)a_\star(z)a⋆(z) vs H(z)H(z)H(z); confronti lensing–dynamics in sistemi rilassati; analisi ambiente/saturazione.
+Lab: sweep in frequenza con calibratori inerziali; cicli di accelerazione per isteresi; separazione da damping via modelli di rumore e phase response.
+
+Discussion: Scope, Limitations, and Theoretical Risks
+
+Relation to Modified Gravity and Modified Inertia Frameworks
+The Cosmic Broth framework shares conceptual territory with both modified gravity and modified inertia approaches, yet differs structurally from each.
+Modified gravity theories typically alter geometric field equations directly, introducing additional fields or nonlinear curvature terms. Modified inertia approaches instead alter the response of matter without modifying spacetime geometry.
+The present framework occupies an intermediate position:
+spacetime geometry remains governed by Einstein equations,
+equilibrium substrate stress–energy contributes to curvature,
+inertial response emerges dynamically from substrate interaction.
+Thus gravitational and inertial modifications arise from different dynamical limits of a single medium rather than independent theoretical assumptions.
+Importantly, the theory does not replace dark matter phenomenology but reinterprets it as equilibrium behavior of underlying degrees of freedom.
+
+Is the Framework Merely a Reparameterization?
+A central concern is whether the Cosmic Broth represents only a reformulation of existing phenomenology.
+This risk is genuine.
+Any effective theory capable of reproducing observed dynamics may appear indistinguishable from parameterized dark-sector models unless it reduces independent scales or produces cross-domain constraints.
+The structurally constrained formulation attempts to avoid this degeneracy by linking: a⋆,τΨ,𝘗Ψa_\star,\quad \tau_\Psi,\quad \ell_\Psia⋆,τΨ,𝘗Ψ
+to the single cosmological quantity H(t)H(t)H(t).
+If this linkage fails observationally, the framework collapses back into phenomenological equivalence with standard models.
+Hence the theory derives significance only insofar as the structural constraint survives empirical testing.
+
+/
+Global Constraints vs Local Lorentz Symmetry
+Another potential objection concerns the introduction of cosmological information into local inertial physics.
+The framework does not introduce explicit preferred-frame dynamics at the level of fundamental equations. Instead, global boundary conditions associated with cosmological expansion limit correlation structure of the substrate.
+This situation is analogous to thermodynamic systems whose local properties depend on global constraints without violating microscopic symmetries.
+Local Lorentz invariance therefore remains intact, while inertial parameters inherit dependence on cosmological background through causal limits rather than symmetry breaking.
+
+Saturation and Large-Scale Behavior
+The weak-field closure introduced in Sec. V cannot remain valid arbitrarily far from matter sources. Since the correlation length is horizon-limited, substrate response must saturate or transition near scales comparable to 𝘗Ψ\ell_\Psi𝘗Ψ.
+Failure to include such saturation would lead to unphysical exponential growth of effective mass contributions.
+
+The present work therefore defines only the local asymptotic regime r≪𝘗Ψr \ll \ell_\Psir≪𝘗Ψ. A complete nonlinear treatment of substrate equilibration remains an open problem and represents one of the primary theoretical tasks required for future development.
+
+Stability and Nonlocal Dynamics
+Nonlocal response theories often suffer from runaway solutions or acausal propagation. In the Cosmic Broth framework, the memory kernel is explicitly retarded and exponentially damped, preventing advanced solutions.
+Nevertheless, a fully covariant treatment beyond derivative expansion is necessary to rigorously demonstrate stability in strongly time-dependent gravitational environments.
+This limitation should be regarded as methodological rather than conceptual; similar challenges arise in radiation-reaction and open-system formulations across physics.
+
+Parameter Economy and Predictive Power
+The central motivation of the structurally constrained approach is parameter reduction.
+
+Standard cosmological modeling introduces independent parameters describing dark matter abundance and dynamical behavior. Here, the emergent acceleration scale follows from cosmological expansion itself:
+a⋆∼cH.a_\star \sim cH.a⋆∼cH.
+If confirmed observationally, this reduces phenomenological freedom by replacing empirical constants with causal structure.
+Conversely, failure of this relation would immediately invalidate the constrained formulation.
+
+Conceptual Implication: Inertia Beyond Locality
+Perhaps the most significant conceptual implication is the reinterpretation of inertia.
+In standard physics, inertia is strictly local. Within the present framework, inertia remains locally measurable but globally constrained. Resistance to acceleration reflects interaction with a medium whose

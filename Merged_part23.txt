@@ -1,0 +1,2477 @@
+Polarski, JCAP 0902, 034 (2009).
+S. Tsujikawa, R. Gannouji, B. Moraes and D. Polarski, Phys. Rev. D 80, 084044 (2009).
+T. Narikawa and K. Yamamoto, Phys. Rev. D 81, 043528 (2010).
+J. Matsumoto, Phys. Rev. D 87, 104002 (2013).
+P. Zhang, Phys. Rev. D 73, 123504 (2006).
+B. Li and J. D. Barrow, Phys. Rev. D 75, 084010 (2007).
+S. Nojiri and S.D. Odintsov, Phys. Lett. B576, 5 (2003).
+T. Faulkner, M. Tegmark, E. F. Bunn and Y. Mao, Phys. Rev. D 76, 063505 (2007).
+T. Clifton, P. G. Ferreira, A. Padilla, C. Skordis, Phys. Rep. 513, 1 (2012).
+K. Bamba and S. D. Odintsov, Symmetry 7, 220 (2015).
+J.-Q. Guo, Int. J. Mod. Phys. D 23, 1450036 (2014).
+Y.	Higuchi	and	Masato	Shirasaki,	10.1093/mn-ras/stw814. arXiv:1603.01325v2.
+S. Tsujikawa and T. Tatekawa, Phys, Lett. B 665, 325 (2008).
+F. Schmidt, A. Vikhlinin and W. Hu, Phys. Rev. D 80, 083505 (2009).
+L. Yang, C.C. Lee, L.W. Luo and C.Q. Geng, Phys. Rev. D 82, 103515 (2010).
+L. Lombriser, A. Slosar, U. Seljak and W. Hu, Phys. Rev. D 85, 124038 (2012).
+F. Hammad, Phys. Rev. D 92, 044004 (2015).
+S. Nojiri and S. D. Odintsov, Phys. Rev. D 68, 123512 (2003).
+S. Capozziello, V. F. Cardone, S. Carloni, and A. Troisi, AIP Conf. Proc. 751, 54 (2005).
+S. Nojiri and S. D. Odintsov, Phys. Rep. 505, 59 (2011).
+F. Hammad, Phys. Rev. D 89, 044042 (2014).
+F. Hammad, Phys. Rev. D 91, 124027 (2015).
+M. B. Green, J. H. Schwarz and E. Witten, Superstring theory, Vol 1, 2, (Cambridge Universiy Press, Cambridge, London, 1987).
+S. Capozziello and V. Faraoni, Beyond Einstein Gravity: A Survey of Gravitational Theories for Cosmology and Astrophysics (Springer, New York, 2011).
+B. Boisseau, G. Esposito-Farese, D. Polarski and A. A. Starobinsky, Phys. Rev. Lett. 85, 2236 (2000).
+G. Esposito-Farese and D. Polarski, Phys. Rev. D 63, 063504 (2001).
+A. Riazuelo and J. P. Uzan, Phys. Rev. D 66, 023525 (2002).
+V. Acquaviva and L. Verde, JCAP 0712, 001 (2007).
+R. Gannouji and D. Polarski, JCAP 0805, 018 (2008).
+Y. S. Song, L. Hollenstein, G. Caldera-Cabral and K. Koyama, JCAP 1004, 018 (2010).
+A. De Felice, S. Mukohyama and S. Tsujikawa, Phys. Rev. D 82, 023524 (2010).
+V. F. Mukhanov and G. V. Chibisov, JETP Lett. 33, 532 (1981).
+A. A. Starobinsky, JETP Lett. 30, 682 (1979).
+A. R. Liddle and D. H. Lyth, Cosmological Inflation and Large-Scale Structure, ( Cambridge University Press, Cambridge, 2000).
+A. De Felice and S. Tsujikawa , Living Rev. Rel. 13, 3 (2010).
+S. Weinberg, Cosmology, (Oxford University Press, New York) (2008).
+V. F. Mukhanov, H. A. Feldman and R. H. Branden-berger, Theory of cosmological perturbations. Part 1. Classical perturbations. Part 2. Quantum theory of per-turbations. Part 3. Extensions,? Phys. Rept. 215, 203
+(1992).
+A. Riotto, Inflation and the Theory of Cosmological Per-turbations, arXiv:hep-ph/0210162.
+L. Yang, C.-C. Lee and C.-Q. Geng, JCAP 08, 029 (2011).
+F. Bowman, Introduction to Bessel Functions, (Dover, New York) (1958).
+
+
+Dynamical structures specific to strong gravitational field: Quantum formalism
+Andrzej Góźdź,1, ∗ Włodzimierz Piechocki,2, † and Grzegorz Plewa2, ‡
+1Institute of Physics, Maria Curie-Skłodowska University, pl. Marii Curie-Skłodowskiej 1, 20-031 Lublin, Poland 2Department of Fundamental Research,
+National Centre for Nuclear Research, Hoża 69, 00-681 Warszawa, Poland
+(Dated: September 19, 2018)
+Abstract
+The dynamics of the general Bianchi IX spacetime, near the gravitational singularity, underlies the Belinskii, Khalatnikov and Lifshitz scenario. Asymptotically, near the singu-larity, the oscillations of the directional scale factors (defining the spacetime metric) are freezed so the evolution of the Bianchi IX model is devoid of chaotic features. However, it includes special structures, that we call the wiggles, which change their properties in the asymptotic regime. We propose the formalism, based on an affine quantization scheme, to examine the fate of the wiggles at the quantum level. We present the way of comparing the classical wiggles with their quantum counterparts. We expect that our work may contribute towards understanding some quantum aspects of the BKL scenario.
+PACS numbers: 04.60.-m, 04.60.Kz, 0420.Cv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+∗ andrzej.gozdz@umcs.lublin.pl
+† wlodzimierz.piechocki@ncbj.gov.pl
+‡ grzegorz.plewa@ncbj.gov.pl
+Typeset by REVTEX	1
+
+
+
+
+
+CONTENTS
+
+I.
+	Introduction
+	2
+	
+	II.
+	Classical dynamics
+	3
+	
+	III.
+	Quantization
+	5
+	
+	
+	A. Affine coherent states
+	6
+	
+	
+	1. Affine coherent states for half-plane
+	6
+	
+	
+	2. Structure of the fiducial vector
+	9
+	
+	
+	3. Phase space and quantum state spaces
+	11
+	
+	
+	4. Affine coherent states for the entire system
+	12
+	
+	
+	B. Quantum observables
+	14
+	
+	IV.
+	Quantum dynamics
+	14
+	
+	V.
+	The probability measure
+	15
+	
+	VI.
+	Prospects
+	16
+	
+	
+	Acknowledgments
+	17
+	
+	A.
+	Regularized Hamiltonian
+	17
+	
+	B.
+	Alternative affine coherent states for half-plane
+	18
+	
+	C.
+	Orthonormal basis of the carrier space
+	21
+	
+	
+	References
+	21
+	
+	
+
+INTRODUCTION
+
+The Belinskii, Khalatnikov and Lifshitz (BKL) scenario is thought to describe a generic solution to the Einstein equations near either spacelike [1, 2] or timelike [3, 4] gravitational singularities. This scenario was obtained by the generalization of the dynamics of the general Bianchi IX model.
+
+It is well known that the dynamics of the vacuum Bianchi IX includes the os-cillations of the dynamical scale factors [1], which underly the chaotic dynamics of that evolution (see, e.g., [5]). If one makes the analysis of the Bianchi IX dynamics corresponding to the general case, when the 3-metric of space cannot be diagonal-ized globally once for all moments of time1, one can find that asymptotically near the singularity the oscillations are freezed so the evolution is devoid of the chaotic behaviour [6–8]. However, there are other interesting structures, which we call the wiggles, specific to this dynamics.
+The existence of physical structures in the evolution of spacetime is of fundamen-tal importance since if they exist, they can be treated as seeds of real structures in the Universe like, e.g., inhomogeneities of the CMB spectrum. The latter is believed to be the origin of large scale structures, like galaxies and clusters of galaxies, visible presently on the sky. On the other hand, if quantization does not erase these struc-tures, they can be used to get insight into quantum fluctuations underlying quantum gravity expected to play an important role near the cosmological and astrophysical singularities. This paper is devoted to the construction of the formalism to be used in the examination of the dynamical gravitational structures at the quantum level.
+Our paper is organized as follows: In Sec. II we recall (to make our paper self-consistent) the Hamiltonian formulation of our gravitational system. Section III is devoted to the construction of the quantum formalism. It is based on using the affine coherent states ascribed to the physical phase space and the resolution of the unity in the carrier space of the unitary representation of the affine group. The quantum dynamics is defined in Sec. IV. Section V concerns the probability measure defined on the physical phase space. An outline of how the formalism might be applied is presented in Sec. VI.
+
+CLASSICAL DYNAMICS
+
+The asymptotic form (near the singularity) of the dynamical equations of the general (nondiagonal) Bianchi IX model is the following [6, 7]
+
+d2 ln a
+2	d2 ln b	2
+d2 ln c	2
+
+dT 2	= b/a − a ,	dT 2	= a − b/a + c/b,	dT 2	= a − c/b,	(1)
+where a, b, c are functions of an evolution parameter T , and are interpreted as the directional scale factors of considered anisotropic universe. The solution to (1) should satisfy the dynamical constraint
+
+d ln a
+
+/
+
+d ln b	d ln a
++
+d ln c	d ln b
++
+d ln c = a2 + b/a + c/b.	(2)
+
+dT	dT
+/
+dT	dT
+dT	dT
+
+1 In the vacuum case the 3-metric can be globally diagonalized.
+
+Eqs. (1) and (2) define a nonlinear coupled system of differential equations. We recommend Sec. 6 of Ref. [7] for the derivation of these equations from the exact dynamics.
+Recently, we have derived the reduced phase space formulation of the classical dynamics corresponding to the above dynamics [9]. The two form Ω defining the Hamiltonian formulation is given by
+Ω = dq1 ∧ dp1 + dq2 ∧ dp2 + dt ∧ dH,	(3) where the variables (q1, q2, p1, p2) parameterise the physical phase space, H =
+H(q1, q2, p1, p2, t) is the Hamiltonian generating the classical dynamics, and t is an evolution parameter specific to the Hamiltonian formulation. There is no explicit relation between the evolution parameters T and t. The variables q1 and q2 are related to a and b via q1 = ln a and q2 = ln b, and the variable c is expressed in terms of other variables to implement the constraint (2) into the Hamiltonian scheme.
+The Hamiltonian reads [9]
+H(q , q , p , p ; t) = q + ln −e2q1 − eq2−q1 − 1 (p2 + p2 + t2	1 p p + p t + p t) ,
+
+1	2	1	2	2
+4	1	2
+) +	( 1 2	1
+2
+2
+(4)
+
+and Hamilton’s equations are:
+dq1 dt dq2 dt
+
+∂H
+=
+∂p1
+∂H
+=
+∂p2
+
+= p2 − p1 + t ,	(5)
+2F
+= p1 − p2 + t ,	(6)
+2F
+
+dp1
+dt dp2
+∂H
+= −
+∂q1
+∂H
+2e2q1 − eq2−q1
+=
+F
+eq2−q1
+,	(7)
+
+
+where
+= −
+dt	∂q2
+= −1 +
+,	(8)
+F
+
+F (q , q , p , p , t) := −e2q1 − eq2−q1 − 1 (p2 + p2 + t2
+1
+/ p p + p t + p t) > 0. (9)
+
+1	2	1	2
+
+/
+4	1	2
+) +	( 1 2	1	2
+2
+
+The constraint in the r.h.s. of (9) is not of dynamical origin; it results from the restriction of the dynamics to the physical phase space parameterized by real (not complex) variables. Equations (5)–(8) define a coupled system of nonlinear ordi-nary differential equations. The solution defines the physical phase space of our gravitational system. The regularized version of the Hamiltonian (4) (to be used in calculations) is presented in App. A.
+
+Applying the simple algebraic identity (A + B + C)2 = A2 + B2 + C2 + 2AB + 2BC + 2AC to Eq. (9) gives:
+F (q , q , p , p , t) = −e2q1 − eq2−q1 − 1(p − p + t)2 + p t,	(10)
+
+1	2	1	2
+
+/
+4	1	2	1
+
+F (q , q , p , p , t) = −e2q1 − eq2−q1 − 1(−p + p + t)2 + p t,	(11)
+
+1	2	1	2
+
+/
+4	1	2	2
+
+F (q , q , p , p , t) = −e2q1 − eq2−q1 − 1(p + p − t)2 + p p .	(12)
+
+1	2	1	2
+
+/
+4	1	2	1 2
+
+Combining (9) and (10) we get
+
+
+p > 1 e2q1 + eq2−q1
+1	t
+1
++	(p1 4
+
+— p2
+
++ t)2  ,	(13)
+
+whereas (9) and (11) give
+
+
+p > 1 e2q1 + eq2−q1
+2	t
+1
++		(−p1 4
+
++ p2
+
++ t)2  .	(14)
+
+Making use of (9) and (12) leads to
+
+
+
+p1p2
+
+> e2q1 + eq2−q1
+1
++ /(p1 4
++ p2
+— t)2.	(15)
+
+It is clear that the signs of both r.h.s. of Eq. (13) and Eq. (14) depend only on the sign of t. It results from (13)–(15) that the signs of both p1 and p2 are the same for any value of t /= 0. The two sectors, t > 0 and t < 0, are dynamically independent. In what follows we consider the case t > 0, which implies p1 > 0 and p2 > 0.
+The range of the variables q1 and q2 results from the physical interpretation as-cribed to them [9]. Since 0 < a < +∞ and 0 < b < +∞, we have (q1, q2) ∈ R2. Thus, the physical phase space Π consists of the two half planes:
+Π = Π1 × Π2 := {(q1, p1) ∈ R × R+} × {(q2, p2) ∈ R × R+} ,	(16)
+where R+ := {x ∈ R | x > 0}.
+
+QUANTIZATION
+
+Suppose we have reduced phase space Hamiltonian formulation of classical dy-namics of a gravitational system. It means dynamical constraints have been resolved and the Hamiltonian is a generator of the dynamics.  By quantization we mean
+
+(roughly speaking) a mapping of such Hamiltonian formulation into a quantum sys-tem described in terms of quantum observables (including Hamiltonian) represented by a set of self-adjoint operators acting in a Hilbert space. The construction of the Hilbert space may make use some mathematical properties of phase space like, e.g., symplectic structure, geometry or topology. The quantum Hamiltonian is used to de-fine the Schrödinger equation. In what follows we make specific the above procedure by using the affine coherent states approach. Since the variables parameterizing our phase space Π are dimensionless, it is convenient to assume k = 1 (unless otherwise specified) at the quantum level.
+
+Affine coherent states
+
+The Hilbert space H of the entire system consists of the Hilbert spaces H1 and H2 corresponding to the phase spaces Π1 and Π2, respectively. In the sequel the construction of H1 is followed by merging of H1 and H2.
+As both half-planes Π1 and Π2 have the same mathematical structure, the cor-responding Hilbert spaces H1 and H2 are identical so we first consider only one of them. In what follows we present the formalism for Π1 and H1 to be extended later to the entire system.
+
+Affine coherent states for half-plane
+
+The phase space Π1 may be identified with the affine group G1 ≡ Aff(R) by defining the multiplication law as follows
+(q′, p′) · (q, p) = (p′q + q′, p′p),	(17) with the unity (0, 1) and the inverse
+
+′	′ −1
+q′ 1
+
+(q , p )	= (− / , /).	(18)
+p′  p′
+The affine group has two, nontrivial, inequivalent irreducible unitary representations
+[10] and [11, 12]. Both are realized in the Hilbert space H1 = L2(R+, dν(x)), where
+dν(x) = dx/x is the invariant measure2 on the multiplicative group (R+, ·). In what
+
+2 The general notion of invariant measure dm(x) on the set X in respect to the transformation h : X → X can be approximately defined as follows: for every function f : X → C the integral defined by this measure fulfils the invariance condition:
+∫X dm(x)f (h(x)) = ∫X dm(x)f (x) .
+This property is often written as: dm(h(x)) = dm(x).
+
+follows we choose a different representation defined by the following action:
+U (q, p)ψ(x) = eiqxψ(px) ,	(19) where3 |ψ⟩ ∈ L2(R+, dν(x)). Eq. (19) defines the representation as we have
+U (q′, p′)[U (q, p, )ψ(x)] = U (q′, p′)[eiqxψ(px)] = ei(p′ q+q′)xψ(p′px) ,
+and on the other hand
+[U (q′, p′)U (q, p, )]ψ(x) = U (p′q + q′, p′p)ψ(x) = ei(p′ q+q′)xψ(p′px) .
+This action is unitary in respect to the scalar product in L2(R+, dν(x)):
+
+∞
+dν(x)[U (q, p)f2(x)]⋆[U (q, p)f1(x)] =
+0
+∞
+dν(x)[eiqxf2(px)]⋆[eiqxf1(px)]
+0
+
+∞
+=	dν(x)f2(px)⋆f1(px) =
+0
+∞
+dν(x)f2(x)⋆f1(x) .	(20)
+0
+
+The last equality results from the invariance of the measure dν(px) = dν(x).
+The affine group is not the unimodular group. The left and right invariant mea-sures are given by
+
+
+
+
+
+respectively.
+dp
+dµL(q, p) = dq p2	and	dµR(q, p) = dq
+dp
+,	(21)
+p
+
+The left and right shifts of any group G are defined differently by different authors.
+Here we adopt the definition from [14]:
+LLf (g) = f (h−1g)	and	LRf (g) = f (gh−1)	(22)
+h	h
+for a function f : G → C and all g ∈ G.
+For simplicity of notation, let us define integrals over the affine group G1 = Aff(R)
+as:
+
+∫G1
+ 1 	+∞
+dµL(q, p) =	dq
+−∞
+∞ dp
+2	and
+0
+∫G1
+ 1 	+∞
+dµR(q, p) =	dq
+−∞
+∞ dp
+.
+0	p
+
+(23)
+
+3 We use Dirac’s notation whenever we wish to deal with abstract vector, instead of functional representation of the vector.
+
+In many formulae it is useful to use shorter notation for points in the phase space ξ ≡ (q, p) and identify them with elements of the affine group. In this case the product (17) is denoted as ξ′ · ξ. Depending on needs we will use both notations.
+Fixing the normalized vector |Φ⟩ ∈ L2(R+, dν(x)), called the fiducial vector, one can define a continuous family of affine coherent states |q, p⟩ ∈ L2(R+, dν(x)) as follows
+|q, p⟩ = U (q, p)|Φ⟩.	(24)
+As we have two invariant measures, one can define two operators which potentially can lead to the unity in the space L2(R+, dν(x)):
+
+BL =	dµL(q, p)|q, p⟩⟨q, p|	and	BR =	dµR(q, p)|q, p⟩⟨q, p| .	(25)
+G1	G1
+
+Let us check which one is invariant under the action U (q, p) of the affine group:
+
+U (q′, p′)BLU (q, p)† =	dµL(q, p)|p′q + q′, p′p⟩⟨p′q + q′, p′p| .	(26)
+G1
+
+One needs to replace the variables under integral:
+q˜ = p′q + q′	and	p˜ = p′p	(27)
+
+q = 1 (q˜− q′)	and	p =
+p′
+p˜
+p′ .	(28)
+
+Calculating the Jacobian ∂(q,p) =  1  one gets
+∂(q˜,p˜)	(p′)2
+1	1	1
+dµL(q, p) = p2 (p′)2 dq˜dp˜ = p˜2 dq˜dp˜ = dµL(q˜, p˜) .	(29)
+The last result proves that
+
+U (q′, p′)BLU (q, p)† =	dµL(q˜, p˜)|q˜, p˜⟩⟨q˜, p˜| = BL .	(30)
+G1
+
+This also means that BR is not invariant under the action U (q, p).
+The irreducibility of the representation, used to define the coherent states (24), enables making use of Schur’s lemma [15], which leads to the resolution of the unity in L2(R+, dν(x)):
+∫G1 dµL(q, p)|q, p⟩⟨q, p| = AΦ I ,	(31)
+
+where the constant AΦ can be calculated using any arbitrary, normalized vector
+|f ⟩ ∈ L2(R+, dν(x)):
+
+AΦ =	dµL(q, p) ⟨f |q, p⟩⟨q, p|f ⟩ .	(32)
+G1
+
+This formula can be calculated by making use of invariance of the measure:
+
+AΦ = ∫
+∫ ∞
+
+dµL(q, p)
+∫ ∞	′
+
+∫ ∞ dx′ ∫ ∞ dx ∫ ∞ dp   1  ∫ +∞ dqeiq(x′−x) f (x′)⋆f (x)Φ(px′)Φ(px)⋆
+
+0	x′	0
+x	0	p2
+2π	−∞
+
+∞ dx
+=
+
+|f (x)|2
+∫ ∞ dp
+|Φ(px)|2
+
+0	x2	0	p2
+
+ ∫ ∞ dx
+
+|f (x)|2
+   ∫ ∞ dp
+
+|Φ(p)|2
+∞ dp
+=
+
+|Φ(p)|2	(33)
+
+0	x	0	p2
+0	p2
+
+because ⟨f |f ⟩ = 1. Thus, the normalization constant is dependent on the fiducial vector.
+
+Structure of the fiducial vector
+
+The problem which influences the structure of quantum state space is a possible degeneration of the space due to specific structure of the fiducial vector. In the case of quantum states the vectors which differ by a phase factor represent the same quantum state. Thus, let us consider the states satisfying the above condition for physically equivalent state vectors [16]:
+U (q˜, p˜)Φ(x) = eiβ(q˜,p˜)Φ(x),	where	β(q˜, p˜) ∈ R.	(34)
+The phase space points ξ˜ = (q˜, p˜) treated as elements of the affine group Aff(R)
+forms its subgroup GΦ. The left-hand side of Eq. (34) can be rewritten as:
+eiq˜xΦ(p˜) = eiβ(q˜,p˜)Φ(x) .	(35)
+If the generalized stationary group GΦ of the fiducial vector Φ is a nontrivial group, then the phase space points (q′, p′) and (q˜, p˜) · (q′, p′) = (p˜q′, p˜p′) are represented by
+
+the same state vector U (q′, p′)Φ(x), for all transformations (q˜, p˜) ∈ GΦ. This is due to the equality
+U (q′, p′)Φ(x) = U ((q˜, p˜) · (q′, p′))Φ(x).	(36)
+In this case, to have a unique relation between phase space and the quantum states, the phase space has to be restricted to the quotient structure Aff(R)/Gφ. From the physical point of view, in most cases, this is an undesired property.
+How to construct the fiducial vector to have GΦ = {eG}, where eG is the unit element in this group?
+It is seen that Eq. (35) cannot be fulfilled for q˜ /= 0, independently of chosen fidu-cial vector. This suggests that the generalized stationary group GΦ is parameterized only by the momenta (0, p˜), i.e. it has to be a subgroup of the multiplicative group of positive real numbers, GΦ ⊆ (R+, ·).
+On the other hand, Eq. (35) implies that |Φ(p˜x)| = |Φ(x)| for all (0, p˜) ∈ GΦ. In addition, for the fiducial vectors Φ(x) = |Φ(x)|eiγ(x) the phases of these complex functions are bounded by 0 ≤ γ(x) < 2π. Due to Eq. (35) the phases γ(x) and β(0, p˜) have to fulfil the following condition γ(p˜x) − γ(x) = β(0, p˜). One of the solutions to this equation is the logarithmic function γ(x) = ln(x).
+In what follows, to have the unique representation of the phase space as a group manifold of the affine group, we require the generalized stationary group to be the group consisted only of the unit element. This can be achieved by the appropriate choice of the fiducial vector.
+The unit operator (31) depends explicitly on the fiducial vector
+
+
+I[Φ] =  1 
+AΦ
+dµL
+G1
+(ξ)U (ξ)|Φ⟩⟨Φ|U (ξ)† ,	(37)
+
+This suggests that the most natural transformation of vectors from the representation given by the fiducial vector |Φ⟩ to the representation given by another fiducial vector
+|Φ′⟩ can be constructed as the product of two unit operators I[Φ′]I[Φ].
+Let us consider an arbitrary vector |Ψ⟩ from the space L2(R+, dν(x)) and its representation in the space spanned with a help of the fiducial vector |Φ⟩:
+
+
+|Ψ⟩ = I[Φ]|Ψ⟩ =  1 
+AΦ
+dµL
+G1
+(ξ)U (ξ)|Φ⟩⟨Φ|U (ξ)†|Ψ⟩	(38)
+
+The same vector can be represented in terms of another fiducial vector |Φ′⟩:
+|Ψ⟩ = I[Φ′]|Ψ⟩ =  1  ∫	dµL(ξ)U (ξ)|Φ′⟩⟨Φ′|U (ξ)†|Ψ⟩	(39)
+AΦ′	G0
+
+However, one can transform the vector (38) into the vector (39) using the product of two unit operators:
+
+|Ψ⟩ = I[Φ′]I[Φ]|Ψ⟩ =  1	1  ∫	dµL(q, p) ∫
+
+dµL
+
+(q′, p′)U (ξ)|Φ′⟩
+
+AΦ′ AΦ	G1	G1
+⟨Φ′|U (ξ−1 · ξ′)|Φ⟩⟨Φ|U (ξ′)†|Ψ⟩	(40)
+In this way, we see that a choice of the fiducial vector is formally irrelevant. However, as we will see later a relation between the classical model and its quantum realization depends on this choice. The sets of affine coherent states generated from different fiducial vectors may be not unitarily equivalent, but lead in each case to acceptable affine representations of the Hilbert space [13].
+
+Phase space and quantum state spaces
+
+The quantization procedure requires understanding the relations among the clas-sical phase space and quantum states space. We have three spaces to be considered:
+The phase space Π, which consists of two half-planes Π1 and Π2 defined by
+(16). It is the background for the classical dynamics4.
+The carrier spaces H1 := L2(R+, dν(x)) of the unitary representation U (q, p), with the scalar product defined as
+∫ ∞
+/
+
+The space of square integrable functions on the affine group KG = L2(Aff(R), dµL(q, p)). The scalar product is defined as follows
+
+
+
+⟨ψG2
+
+|ψG1⟩G
+=  1 
+A
+dµL
+(q, p)ψ⋆
+(q, p)ψG1
+(q, p) ,	(42)
+
+φ	Aff
+where ψG(q, p) := ⟨q, p|ψ⟩ = ⟨Φ|U (q, p)†|ψ⟩ with |ψ⟩ ∈ H1. The Hilbert space KG is defined to be the completion in the norm induced by (42) of the span of the ψG functions.
+
+4 For simplicity we consider here only one half-plane, but the results can be easily extended to Π.
+
+We show below that the spaces H1 and KG are unitary isomorphic. First, one needs to check that the functions ψG ∈ KG are square integrable function belonging to L2(Aff(R), dµL(q, p)). Using the decomposition of unity we get
+
+ 1 
+A	dµL
+
+(q, p)|⟨q, p|ψ⟩|2 < ⟨ψ|ψ⟩H
+
+< ∞.	(43)
+
+Φ	G1
+The definition of the space KG shows that for every ψ1, ψ2 ∈ Hl we have the corre-sponding functions ψG1, ψG2 for which the scalar products are equal (unitarity of the transformation between both spaces): ⟨ψ2|ψ1⟩H1 = ⟨ψG1|ψG2⟩KG .
+Let us now denote by |en⟩ the orthonormal basis in H1 (see App. C). The corre-
+sponding functions eGn(q, p) = ⟨q, p|en⟩ furnish the orthonormal set:
+
+
+⟨eGn
+
+|eGm
+
+⟩KG
+=  1 
+AΦ
+dµL
+G1
+(q, p)e⋆
+(q, p)eGm
+(q, p)
+
+=  1 
+A
+dµL
+(q, p)⟨en
+|q, p⟩⟨q, p|em
+⟩ = ⟨en
+|em
+⟩ = δnm
+.	(44)
+
+Φ	G1
+It is obvious that the vectors |eGn⟩ define the orthonormal basis in the space KG. For every vector |ψ⟩ ∈ H1
+|ψ⟩ =	⟨en|ψ⟩|en⟩.	(45)
+n
+Closing both sides of the above equation with ⟨q, p| gives the unique decomposition of the vector ψG(q, p) ≡ ⟨q, p|ψ⟩ ∈ KX in the basis |eGn⟩G:
+ψG(q, p) ≡ ⟨q, p|ψ⟩ = Σ⟨en|ψ⟩⟨q, p|en⟩ = Σ⟨en|ψ⟩|eGn⟩G.	(46)
+
+Note that the vector |ψ⟩ ∈ H1 and the vector |ψG⟩ ∈ KG have the same expansion coefficients in the corresponding bases. This define the unitary isomorphism be-tween both spaces. It means that we can work either with the quantum state space represented by the space H1 or KG.
+
+Affine coherent states for the entire system
+
+The phase space Π of our classical system has the structure of the Cartesian product of two partial phase spaces Π1 and Π2: Π = Π1 × Π2. The partial phase spaces Πl, where l = 1, 2, are identified with the corresponding affine groups which we denote by Gl = Affl(R). The simple product of both affine groups GΠ = (G1 = Aff1(R)) × (G2 = Aff2(R)) can be identified with the whole phase space Π:
+(ξ1, ξ2) → |ξ1, ξ2⟩ = U (ξ1, ξ2)|Φ⟩ := U1(ξ1) ⊗ U2(ξ2)|Φ⟩,	(47)
+
+where ξl = (ql, pl), l = 1, 2, the fiducial vector |Φ⟩ belongs to the simple product of two Hilbert spaces (H1 = L2(R+, dν(x1))) × (H2 = L2(R+, dν(x2))) = L2(R+ × R+, dν(x1, x2)), and where the measure dν(x1, x2) = dν(x1)dν(x2). The scalar prod-uct in H = L2(R+ × R+, dν(x1, x2)) reads
+
+
+⟨ψ2|ψ1⟩ =
+∞
+dν(x1)
+0
+∞
+dν(x2)ψ1(x1, x2)⋆ψ2(x1, x2) .	(48)
+0
+
+
+The fiducial vector Φ(x1, x2) is constructed as a product of two fiducial vectors Φ(x1, x2) = Φ1(x1)Φ2(x2) generating the appropriate quantum partners for the phase spaces Π1 and Π2. The fiducial vector of this type does not add any correlations be-tween both partial phase spaces. A nonseparable form of Φ(x1, x2) might lead to reducible representation of GΠ in which case Schur’s lemma could not be applied to get the resolution of unity in H.
+Let us denote by ˆI12 the linear extension of the tensor product ˆI1 ⊗ ˆI2, where the unit operators in Hk are expressed in terms of the appropriate coherent states
+
+ˆI =  1  ∫
+
+dµ (ξ )U
+
+(ξ )|Φ
+
+⟩⟨Φ |U
+
+(ξ )†,	k = 1, 2.	(49)
+
+
+/
+
+Let us consider the orthonormal basis {e(1)(x ) ⊗ e(2)(x )} in the Hilbert space H and
+n	1	n	2
+an arbitrary vector Ψ(x , x ) = Σ	a	e(1)(x ) ⊗ e(2)(x ) belonging to this space
+(where the basis en(x) is defined in App. C). Acting on this vector with the operator
+ˆI12 one gets:
+ˆI12Ψ(x1, x2) = Σ anm(ˆI1e(1)(x1)) ⊗ (ˆI2e(2)(x2)) = Ψ(x1, x2).	(50)
+
+
+The operator ˆI12 is identical with the unit operator ˆI on the space H.
+The explicit form of the action of the group GΠ on the vector Ψ(x1, x2) reads:
+U (q1, p1, q2, p2)Ψ(x1, x2) = Σ anm{U1(q1, p1)e(1)(x1)} ⊗ {U (q2, p2)e(2)(x2)}
+= Σ anm{eiqx1 e(1)(p1x1)} ⊗ {eiqx2 e(2)(p2x2)} = eiq1 x1 eiq2 x2 Σ anme(1)(p1x1) ⊗ e(2)(p2x2)
+
+= eiq1x1 eiq2 x2 Ψ(p1x1, p2x2) .	(51)
+
+Quantum observables
+
+Making use of the resolution of the identity (31), we define the quantization of a classical observable f on a half-plane as follows [18]
+
+F ∋ f −→ fˆ :=  1 
+A
+dµL
+(q, p)|q, p⟩f (q, p)⟨q, p| ∈ A ,	(52)
+
+Φ	G1
+where F is a vector space of real continuous functions on a phase space, and A is a vector space of operators (quantum observables) acting in the Hilbert space H1 = L2(R+, dν(x)). It is clear that (52) defines a linear mapping and the observable fˆ is a symmetric (Hermitian) operator. Let us evaluate the norm of the operator fˆ:
+
+fˆ ≤  1 
+A
+dµL
+(q, p)|f (q, p)| |q, p⟩⟨q, p|  ≤  1 
+A
+dµL
+(q, p)|f (q, p)| .	(53)
+
+Φ	G1	Φ	G1
+This implies that, if the classical function f belongs to the space of integrable func-tions L1(Aff(R), dµL(q, p)), the operator fˆ is bounded so it is a self-adjoint opera-
+tor. Otherwise, it is defined on a dense subspace of L2(R+, dν(x)), and its possi-ble self-adjointness becomes an open problem as symmetricity does not assure self-adjointness, and further examination is required [19]. The quantization (52) can be applied to any type of observables including non-polynomial ones, which is of primary importance for us due to the functional form of the Hamiltonian (4).
+It is not difficult to show that the mapping (52) is covariant in the sense that one
+has
+
+U (ξ )fˆU †(ξ ) =  1  ∫
+dµ  (ξ)|ξ⟩f (ξ−1 · ξ)⟨ξ| = ^L
+(54)
+
+
+/
+where LL f (ξ) = f (ξ−1 · ξ) is the left shift operation (22) and ξ−1 · ξ = (q0, p0)−1 ·
+ξ0	0	0
+(q, p) = ( q−q0 ,  p ).
+p0	p0
+The mapping (52) extended to the Hilbert space H = L2(R+ × R+, dν(x1, x2)) of the entire system and applied to an observable fˆ reads
+fˆ(t) = 	1	 ∫	dµ (ξ , ξ )|ξ , ξ ⟩f (ξ , ξ )⟨ξ , ξ | ,	(55)
+where dµL(ξ1, ξ2) := dµL(q1, p1)dµL(q2, p2).
+
+QUANTUM DYNAMICS
+
+The mapping (55) applied to the classical Hamiltonian (4) reads
+Hˆ (t) = 	1	 ∫	dµ (ξ , ξ )|ξ , ξ ⟩H(ξ , ξ , t)⟨ξ , ξ | ,	(56)
+
+where t is an evolution parameter of the classical level.
+Suppose that Hˆ is bounded on H so it is self-adjoint on H. Therefore, we can
+define the quantum evolution using the Schrödinger equation as follows
+i ∂ |ψ(τ )⟩ = Hˆ (t)|ψ(τ )⟩ ,	(57)
+∂τ
+where |ψ⟩ ∈ H, and where τ is an evolution parameter at the quantum level.
+In general, the parameters t and τ are quite different. To get the consistency between the classical and quantum levels we postulate that t = τ , which defines the time variable at both levels.
+
+THE PROBABILITY MEASURE
+
+Let us define the following probability measure on the phase space:
+Π ⊃ Ω → Mˆ (Ω) := 	1	 ∫ dµ (ξ )dµ (ξ )|ξ , ξ ⟩⟨ξ , ξ | ,	(58)
+where |Φ1⟩ ∈ H1 and |Φ2⟩ ∈ H2 are the fiducial vectors. This probability measure represents the observable: “the system is in the region Ω of the phase space Π”.
+In what follows we take Φ1(x) = Φ2(x) = Φ(x) because the Hilbert spaces H1 and H2 are identical, and any two fiducial vectors can be linked by the unitary map of the form (19).
+The measure (58) is of the POV type [20] as it is
+positive, Mˆ (Ω) ≥ 0, ∀ Ω ⊂ Π;
+additive, Mˆ (  k Ωk) =	k Mˆ (Ωk) if Ωi	Ωj = ∅,  i /= j ;
+normalized, Mˆ (Π) = I .
+The volume V (Ω) of Ω is defined as
+V (Ω) =	dµL(q1, p1)dµL(q2, p2) .	(59)
+Ω
+One needs to remember the factor 1/(2π)2 hidden in this integral, see 23.
+Now, suppose that Ω is a small neighbourhood of (ξ1, ξ2) := (q1, p1, q2, p2). We define the probability density measure operator Mˆ (ξ1, ξ2), which determines the prob-ability that the quantum system is at the state |ξ1, ξ2⟩ of the phase space Π. It is defined as follows
+Mˆ (ξ) =	lim	Mˆ (Ω) where (ξ , ξ ) ∈ Ω.	(60)
+V (Ω)→0 V (Ω)	1	2
+
+The r.h.s. of (60) is well defined due to the mean value theorem applied to the measure (58). This probability density operator can be rewritten as
+Mˆ (ξ , ξ ) = 1 |ξ , ξ ⟩⟨ξ , ξ | .	(61)
+1	2	2	1	2	1	2
+Φ
+Let f : Π → R be a classical observable and |ψ⟩ a quantum state of our system. The expectation value of the corresponding quantum operator fˆ is given by the standard expression
+⟨fˆ⟩ = ⟨ψ|fˆ|ψ⟩ =  1  ∫	dµ (ξ , ξ )⟨ψ|ξ , ξ ⟩f (ξ , ξ )⟨ξ , ξ |ψ⟩ ,	(62)
+where dµL(ξ1, ξ2) := dµL(q1, p1)dµL(q2, p2).
+Let Π = ∪kΩk, with Ωi ∩Ωj = ∅ if i /= j. The probability density that (ξ1k, ξ2k) ∈
+Ωk is given by
+p (ξ1k, ξ2k) ∈ Ωk) := ⟨ψ|Mˆ (Ωk |ψ⟩ .	(63)
+The consistency between (62) and (63) occurs if one has
+⟨fˆ⟩ ≈ Σ f (ξ1k, ξ2k)p (ξ1k, ξ2k) ∈ Ωk .	(64)
+
+One can show that (64) is satisfied due to the mean value theorem applied to the measure (58). In the limit V (Ωk) → 0, such that Π = ∪kΩk Eq. (64) is exact.
+
+PROSPECTS
+
+Recently, special structures have been found in the evolution of gravitational systems. They are named spikes [21] and wiggles [22].
+To compare the classical and quantum dynamics of the wiggles, one needs to com-pare the classical solutions ζ(t) = (ζ1(t), ζ2(t), ζ3(t), ζ4(t)) := (q1(t), p1(t), q2(t), p2(t)) of the Hamilton equations(5)–(8) with the average values of the corresponding quan-tum operators:
+
+ˆ	 1 
+k	2
+Φ
+dµL
+GΠ
+(ζ)|ζ⟩ζk⟨ζ| =
+GΠ
+dµL
+(ζ)ζk
+Mˆ (ζ) .	(65)
+
+The expectation value is given by
+⟨ζˆ ⟩	= ⟨ψ(t)|ζˆ |ψ(t)⟩ =  1  ∫	dµ (ζ)⟨ψ(t)|ζ⟩ζ ⟨ζ|ψ(t) .	(66)
+
+This average is calculated in the state |ψ(t)⟩ evolving according to the Schrödinger equation (57) with the initial condition corresponding to the initial condition used in solution of the Hamilton equations. If the classical initial condition is given by ζk(t0) = ζ(0), then the corresponding initial condition for the Schrödinger equation is defined to be
+⟨ψ(t0)|ζˆk|ψ(t0)⟩ = ζ(0).	(67)
+In such a case the classical trajectories ζk(t) and the quantum “trajectories” ⟨ζˆ ⟩
+
+are treated on the same footing.
+k ψ(t)
+
+The wiggles are parametric curves, ζ : R ⊃ [t1, t2] → Π ⊂ R4, in the physical phase space Π. The observables invariant with respect to reparametrization of a curve can be chosen to be [23]:
+the length s[ζ] of a curve (global observable),
+the generalized curvatures {χ1(t), χ2(t), χ3(t)} (local observables) of a curve defined by the Frenet vectors.
+The curvatures of these curves depend on the location of the initial conditions in the physical phase spaced Π specifying the dynamics, and on the stage of the evolution of the system.
+Both the length and the curvatures can be determined for the quantum “curves”
+⟨ζˆk⟩ψ(t) as well. Thus, the comparison of the observables for the classical and quantum curves will enable finding the influence of the quantization on the classical wiggles.
+Does quantization suppress these structures, leave them almost unchanged, or turns them into some quantum structures? Our next paper will be devoted to the examination of this issue.
+
+ACKNOWLEDGMENTS
+
+We would like to thank Katarzyna Górska for the derivation of Eqs. (13)–(15), and John Klauder for helpful correspondence.
+
+Appendix A: Regularized Hamiltonian
+
+The Hamiltonian (4) is restricted to the region of Π corresponding to F > 0. We extend it to the whole phase space by introducing an additional functional coefficient which vanishes for F ≤ 0. It has the form
+H	:= θ p p − e2q1 − eq2−q1 − 1 (p + p − t)2 H(q , q ; p , p ; t) ,	(A1)
+
+where H(q1, q2; p1, p2; t) is the original Hamiltonian (4), while θ stands for the Heav-iside step function.  However, so defined new Hamiltonian is not differentiable at F = 0. To get a better behaviour we adopt the following “smooth” version of θ:
+0 : x ≤ 0,
+1 : x > ǫ.
+Here, ǫ is a small parameter 0 < ǫ ≪ 1. Using (A2) we rewrite (A1):
+H (q , q ; p , p ; t) := θ  p p − e2q1 − eq2 −q1 − 1(p + p − t)2 H(q , q ; p , p ; t) .
+
+ǫ	1	2	1	2
+ǫ	1 2
+4	1	2
+1	2	1
+2
+(A3)
+
+The Hamiltonian Hǫ is well defined and differentiable in the whole phase space. Indeed, for any (q1, q2; p1, p2; t) corresponding to F > 0 one finds Hǫ(q1, q2; p1, p2; t) ≃ H(q1, q2; p1, p2; t). The smaller ǫ is, the better approximation we get. Also the function (A2) guaranties that the Hamiltonian (A3) vanishes smoothly in the limit F → 0. Taking the limit ǫ → 0+ restores to the original expression (4).
+
+Appendix B: Alternative affine coherent states for half-plane
+
+The phase space Π1 may be identified with the affine group Aff(R) by defining the multiplication law as follows
+
+(q′, p′) · (q, p) = ( q
+p′
+
++ q′, p′p),	(B1)
+
+with the unity (0, 1) and the inverse
+(q′, p′)−1 = (−q′p′, 1 ).	(B2)
+p′
+The affine group has two, nontrivial, inequivalent irreducible unitary representations
+[10] and [11, 12]. Both are realized in the Hilbert space L2(R+, dν(x)), where dν(x) = dx/x is the invariant measure on the multiplicative group (R+, ·). In what follows we choose the one defined by
+U (q, p)ψ(x) = eiqxψ(x/p) ,	(B3)
+where |ψ⟩ ∈ L2(R+, dν(x)).
+
+For simplicity of notation, let us define integrals over the affine group Aff(R) as follows:
+
+∫Aff(R)
+∫Aff(R)
+∫Aff(R)
+ 1 	+∞
+dµL(q, p) =	dq
+−∞
+ 1 	+∞
+dµR(q, p) =	dq
+−∞
+ 1 	+∞
+dµU (q, p) =	dq
+−∞
+∞ dp
+2 ,	(B4)
+0
+∞ dp
+,	(B5)
+0	p
+∞
+dp ρ(q, p) .	(B6)
+0
+
+The last one is intended to be used as invariant measure in respect with the action
+U (q, p).
+Fixing the normalized vector |φ⟩ ∈ L2(R+, dν(x)), called the fiducial vector, one can define a continuous family of affine coherent states |q, p⟩ ∈ L2(R+, dν(x)) as follows
+|q, p⟩ = U (q, p)|φ⟩.	(B7)
+As we have three measures, one can define three operators which potentially can leads to the unity in the space L2(R+, dν(x)):
+BL = ∫Aff(R) dµL(q, p)|q, p⟩⟨q, p| ,	(B8)
+
+BR =
+Aff(R)
+BU =
+Aff(R)
+dµR(q, p)|q, p⟩⟨q, p| ,	(B9)
+
+dµU (q, p) ρ(q, p)|q, p⟩⟨q, p| .	(B10)
+
+Let us check which one is invariant under the action U (q, p) of the affine group:
+
+
+U (q′, p′)BU U (q′, p′)† =
++∞	∞
+dq
+−∞	0
+
+dpρ(q, p)|q/p′ + q′, p′p⟩⟨q/p′ + q′, p′p|	(B11)
+
+One needs to replace the variables under the integral:
+q˜ = q/p′ + q′	and	p˜ = p′p ,	(B12)
+
+q = p′(q˜− q′)	and	p =
+
+Calculating the Jacobian ∂(q,p) = 1 one gets:
+p˜
+p′ .	(B13)
+
+
+
+dµU
+(q, p) = ρ(q, p)dq˜d p˜ = ρ(p′(q˜− q′), /p˜)dq˜d p˜
+p′
+(B14)
+
+This implies, the transformed weight should be equal to the initial one, ρ(p′(q˜ − q′),  p˜ ) = ρ(q, p) for every (q′, p′). The simplest solution is ρ(q, p) = const, so we get dµU (q, p) = dq dp.
+It also implies that the operators BL and BR do not commute with the affine group. The action (B3) is not compatible neither with the left invariant, nor with right invariant measures on the affine group.
+The irreducibility of the representation, used to define the coherent states (B7), enables making use of Schur’s lemma [15], which leads to the resolution of the unity in L2(R+, dν(x)):
+∫Aff(R) dµU (q, p)|q, p⟩⟨q, p| = Aφ I ,	(B15)
+where the constant Aφ can be calculated using any arbitrary, normalized vector
+|f ⟩ ∈ L2(R+, dν(x)):
+Aφ = ∫Aff(R) dµU (q, p) ⟨f |q, p⟩⟨q, p|f ⟩ .	(B16) This formula can be calculated directly:
+Aφ = ∫Aff(R) dµU (q, p)
+
+∞
+dν(x′)
+0
+∞
+dν(x)(f (x′)⋆eiqx′ φ(x′/p))(e−iqxφ(x/p)⋆f (x))
+0
+
+∫ ∞ dx′ ∫ ∞ dx ∫ ∞
+
+/
+ 1 	+∞
+dp
+
+dqeiq(x′−x)
+
+f (x′)⋆f (x)φ(x′/p)φ(x/p)⋆
+
+0	x′	0	x	0
+2π	−∞
+
+∞ dx
+=
+∞
+|f (x)|2
+dp|φ(x/p)|2
+
+0	x2	0
+
+ ∫ ∞ dx
+
+|f (x)|2
+   ∫ ∞ dp
+
+|φ(p)|2
+∞ dp
+=
+
+|φ(p)|2	(B17)
+
+0	x	0	p2
+0	p2
+
+
+if ⟨f |f ⟩ = 1.
+In the derivation of (B17) we have used the equations:
+⟨x|x′⟩ = xδ(x − x′),	∫ ∞ dx |x⟩⟨x| = I,	∫ ∞ dx δ(x − x′)f (x) = f (x′) .	(B18)
+0	x	0	x
+
+
+Appendix C: Orthonormal basis of the carrier space
+
+The basis of the Hilbert space L2(R+, dν(x)) is known to be [17]
+e(α)(x) = s	n!	e−x/2x(1+α)/2 L(α)(x),	(C1)
+
+where L(α) is the Laguerre polynomial, α > −1, and (n + α)! = Γ(n + α + 1). One
+can verify that ∫ ∞ e(α)(x)e(α)(x)dν(x) = δ	so that e(α)(x) is an orthonormal basis.
+
+
+V. A. Belinskii, I. M. Khalatnikov, and E. M. Lifshitz, “Oscillatory approach to a singular point in the relativistic cosmology”, Adv. Phys. 19, 525 (1970). I
+V. A. Belinskii, I. M. Khalatnikov, and E. M. Lifshitz, “A general solution of the Einstein equations with a time singularity”, Adv. Phys. 31, 639 (1982). I
+S. L. Parnovsky, “Gravitation fields near the naked singularities of the general type”,
+Physica A 104, 210 (1980). I
+S. L. Parnovsky, “A general solution of gravitational equations near their singularities”,
+Class. Quant. Grav. 7, 571 (1990). I
+N. J. Cornish and J. J. Levin, “The Mixmaster universe is chaotic,” Phys. Rev. Lett.
+78, 998 (1997). I
+V. A. Belinskii, I. M. Khalatnikov, and M. P. Ryan, “The oscillatory regime near the singularity in Bianchi-type IX universes”, Preprint 469 (1971), Landau Institute for Theoretical Physics, Moscow (unpublished); published as Secs. 1 and 2 in M. P. Ryan,
+Ann. Phys. 70, 301 (1971). I, II
+V. A. Belinski, “On the cosmological singularity”, Int. J. Mod. Phys. D 23, 1430016 (2014). II, II
+E. Czuchry and W. Piechocki, “Asymptotic Bianchi IX model: diagonal and general cases,” arXiv:1409.2206 [gr-qc]. I
+E. Czuchry and W. Piechocki, “Bianchi IX model: Reducing phase space,” Phys. Rev.
+D 87, 084021 (2013). II, II, II
+I. M. Gel′fand and M. A. Naïmark, “Unitary representations of the group of linear transformations of the straight line”, Dokl. Akad. Nauk. SSSR 55, 567 (1947). III A 1, B
+E. W. Aslaksen and J. R. Klauder, “Unitary Representations of the Affine Group”, J. Math. Phys. 9, 206 (1968). III A 1, B
+
+
+E. W. Aslaksen and J. R. Klauder, “Continuous Representation Theory Using Unitary Affine Group”, J. Math. Phys. 10, 2267 (1969). III A 1, B
+J. R. Klauder, private communication. III A 2
+J. Q. Chen, J. Ping and F. Wang, Group Representation Theory for Physicists (World Scientific, 2002). III A 1
+A. O. Barut and R. Ra¸czka, Theory of group representations and aplications (PWN,
+Warszawa, 1977). III A 1, B
+A. Perelomov, Generalized coherent states and their applications (Springer-Verlag,
+Berlin, 1986). III A 2
+J.	P.	Gazeau	and	R.	Murenzi,	“Covariant	affine	integral	quantization(s)”, arXiv:1512.08274 [quant-ph]. C
+H. Bergeron and J. P. Gazeau, “Integral quantizations with two basic examples,” An-nals Phys. 344, 43 (2014). III B
+M. Reed and B. Simon, Methods of Modern Mathematical Physics (San Diego, Aca-demic Press, 1980), Vols I and II. III B
+P. Busch, P.J. Lahti and P. Mittelstaedt, The Quantum Theory of Measurement
+(Springer, 1966), sec. edition. V
+E. Czuchry, D. Garfinkle, J. R. Klauder and W. Piechocki, “Do spikes persist in a quantum treatment of spacetime singularities?,” Phys. Rev. D 95, 024014 (2017). VI
+W. Piechocki and G. Plewa, “Structures arising in the asymptotic dynamics of the Bianchi IX model,” arXiv:1611.05262 [gr-qc]. VI
+W. Kühnel, Differential Geometry: Curves - Surfaces - Manifolds (American Mathe-matical Society, 2002), sec. edition. VI
+
+
+
+Early Cosmological Period of QCD Confinement
+Seyda Ipek and Tim M.P. Tait
+Department of Physics and Astronomy, University of California, Irvine, CA 92697-4575 USA
+(Dated: March 22, 2019)
+If the strong coupling is promoted to a dynamical field-dependent quantity, it is possible that the strong force looked very different in the early Universe. We consider a scenario in which the dynamics is such that QCD confines at high temperatures with a large dynamical scale, relaxing back to ∼ 1 GeV before big bang nucleosynthesis. We discuss the cosmological implications and explore potential applications, including fleshing out a new mechanism for baryogenesis which opens up if QCD confines before the electroweak phase transition of the Standard Model.
+
+
+INTRODUCTION
+
+The Standard Model (SM) of particle physics provides a fantastic description of a plethora of low energy obser-vations. That said, it remains incomplete, and experi-mental probes to date have been largely limited to low energies and temperatures. As a result, it is an intrigu-ing possibility that there could be new physics operating at early cosmological times when the Universe was much hotter than it is today.
+The SM predicts that QCD deconfines at temperatures
+explore the details of the UV dynamics in more detail, but we leave that for future work.
+
+Strong Coupling and the QCD Scale
+
+When φ acquires a vacuum expectation value (VEV), it renormalizes the wave function of the gluons, modifying the effective strong coupling. In addition, the coupling gs0 runs with the renormalization scale µ in the usual way. At one loop,
+
+T & GeV and the electroweak symmetry is restored at temperatures T & 100 GeV. But our precise understand-ing of the cosmological history becomes fuzzy for tem-
+	1	
+αs(µ, ⟨φ⟩)
+= 3 3 − 2nf ln	µ
+12π	Λ2
+
++ 4π
+⟨φ⟩
+
+/
+M∗
+
+,	(2)
+
+peratures T & 10 MeV when big bang nucleosynthesis (BBN) begins [1]. It is thus entirely possible that there
+is physics beyond the SM which produces a radical de-parture from the standard cosmological picture at earlier times.
+Given this blind spot, we ask the question: what if the scale of QCD confinement was itself varying in the early
+where nf is the number of quark flavors with masses mf  µ, and the scale Λ0 encodes the value of gs0 at some UV reference scale.
+Confinement is triggered at the scale Λ for which
+α−1(Λ, ⟨φ⟩) ≃ 0,
+	24π2	⟨φ⟩ 
+
+Universe, settling down to the	GeV value we observe today sometime before BBN? We introduce dynamics
+Λ(⟨φ⟩) = Λ0 Exp
+2nf
+— 33 M∗
+.	(3)
+
+which allow us to explore this possibility, and map out the consequences for cosmology, the electroweak phase tran-sition, and an opportunity to explain the baryon asym-metry of the Universe.
+
+DYNAMICAL QCD COUPLING
+
+In order to promote the QCD coupling to a dynamical quantity, we introduce a scalar field φ, taken to be a SM singlet, coupled to the gluon field strength Gµν via,
+For nf = 6, Λ0  GeV and φ /M∗ = 0.62, QCD confines at Λ  1 TeV, well above the temperature of the usual electroweak phase transition.
+
+φ Potential
+
+We consider a generic potential for φ at zero tempera-ture,
+V (φ) = α1φ + α2φ2 + α3φ3 + α4φ4 + β1φh†h + β2φ2h†h,
+(4)
+
+1	 1 	 φ 
+2	µν
+s0
+
+Gµν ,	(1)
+
+where αi and βi are couplings with appropriate mass di-mension. We have included a trilinear and mixed quartic
+
+where gs0 is the QCD coupling for φ = 0, and M∗ en-codes the short distance physics mediating the interac-tion. φ could represent fluctuations in a radion or a dila-ton, or could represent a generic scalar field which couples to gluons via a triangle diagram containing heavy vector-like colored particles. In that case M∗ 4πMQ/nQyQαs, where nQ is the number of colored fermions with mass MQ and Yukawa coupling yQ. It would be interesting to
+with the SM Higgs doublet h, which would modify the φ dynamics, and lead to mixing between φ and the SM Higgs, and are bounded by LHC measurements [2]. Since such interactions do not change the qualitative picture, we simplify the analysis by assuming that they are neg-ligibly small.
+When QCD confines, the interaction in Eq. (1) further induces a non-perturbative contribution to V (φ) via the
+
+
+
+gluon condensate, GG  Λ4( φ ) [3]. For potentials with a sizable α1, this effect is typically unimportant. For example, a benchmark point with α1 = TeV3, α2 = TeV2, α3 = TeV, α4 = 0.1, and M∗  13 TeV results in φ 7 TeV and mφ 4 TeV, with a negligible contribution from the gluon condensate.
+
+
+Temperature Dependence
+
+In order to restore ordinary QCD with Λ	1 GeV at low temperatures, φ must shift by an amount of order 1/2M∗. The details of how this occurs depend sensi-tively on both the zero temperature V (φ) and the finite temperature corrections to it. Whatever the mechanism, it is clear that successfully realizing the BBN predictions for the primordial abundances of the light elements re-quires that the temperature at which Λ reaches ΛQCD
+satisfy Tres & 10 MeV.
+There are a number of constructions which could ac-
+complish this temperature dependence. (i) There may be species (which could be SM singlets) in the plasma with significant coupling to φ, contributing to its effec-tive mass g2T 2. Such species could play an important role in φ phenomenology. (ii) If Eq. (1) is generated by vector-like quarks, there may be additional temperature-dependent contributions to their masses, suppressing the interaction at low temperatures. (iii) There could be a scalar field ψ with its own coupling (ψ/M∗)GG, but whose potential induces a positive VEV with parameters tuned to partially cancel the φ contribution. (iv) Ad-ditional scalar fields could couple to φ, and themselves undergo symmetry-breaking at low temperatures, trig-gering a shift in the effective V (φ) (see, e.g., [4]). For example, one could introduce two real singlet scalar fields φ and ψ with the zero-temperature potential
+V (φ, ψ) = α1φ + α2φ2 + α3φ3 + α4φ4
++ β1ψ2 + β2ψ4 + γ1φψ2 + γ2φ2ψ2,	(5)
+which is invariant under Z2 symmetry ψ ψ. For an appropriate choice of parameters, at high temperatures the fields φ and ψ have zero VEVs. As the universe cools down, first φ acquires a VEV, and then at a lower tem-perature, ψ acquires a VEV, which triggers the transition
+⟨φ⟩ → 0.
+2
+
+symmetry breaking. For nf = 6 massless quark flavors, the chiral phase transition is expected to be strongly first order [5, 6], and proceeds by nucleating bubbles of con-fined phase with q¯q = 0, which expand to fill the Uni-verse. The chiral condensate also couples to the Higgs via the quark Yukawa interactions, appearing as a tad-pole which induces a Higgs VEV inside the bubbles. This picture is illustrated in cartoon form in Figure 1.
+
+
+
+
+
+
+hqq¯i ∼ Λ3
+hhi ∼ Λ
+
+
+
+
+
+FIG. 1. Bubbles of confined QCD phase are generated and expand. Inside the bubble, the Higgs acquires a VEV due to the tadpole term induced via the quark condensate.
+
+The precise details of the QCD phase transition, bub-ble nucleation, bubble profile, and expansion, are non-perturbative and beyond the scope of this work [7, 8]. Here, we model the dynamics by a linear sigma model reflecting the approximate SU (6)L SU (6)R flavor sym-metry of QCD, which is explicitly broken by the SM Yukawa interactions. The field Π(x) is a 6  6 com-plex scalar containing the pions, scalar mesons, and chi-ral symmetry-breaking VEVs which is taken to transform under SU (6)L × SU (6)R as
+Π(x) → L Π(x) R†	(6)
+where L and R are SU (6)L,R transformations, respec-tively1. Below the confinement scale, the dynamics of QCD can be described by an effective field theory con-taining Π(x) and the baryons (which are not important for this discussion),
+LΠ = Tr ∂µΠ†∂µΠ + µ2 Tr Π†Π − λ2 Tr Π†Π 2
+
+In the remainder of this work, we remain agnostic con-cerning the nature of the physics which provides the nec-essary temperature dependence in V (φ), simply assuming
+— λ1
+ 1 
+Tr Π ΠΠ Π +	Det Π + H.c.	(7)
+M 2
+
+that some mechanism restores standard QCD somewhere
+Naive dimensional analysis (NDA) [9] suggests that up to
+
+in the range GeV . T
+res
+. 100 GeV.
+(1) numbers, µ2 Λ¯ 2, M Λ¯ /g2, and λ1 λ2 g2, where g 4π and Λ¯ is the cut-off of the chiral effective theory (typically of the order of the ρ-meson mass.) Ne-
+
+PHASE TRANSITION AND ELECTROWEAK SYMMETRY BREAKING
+
+If SU (3) confines before the electroweak phase transi-tion, it triggers electroweak symmetry breaking via chiral
+glecting the SM Yukawa interactions, this would result
+
+
+1 Note that the electroweak SU (2)W is a subgroup of SU (6)L.
+
+
+
+in a VEV for Π, breaking SU (6)L × SU (6)R → SU (6)D, of the form ⟨Πi ⟩ = fπδi where f 2 ∼ Λ¯ 2/g2.
+3
+
+l.O
+O.8
+
+The explicit SU (6)L SU (6)R breaking from the quark
+Yukawa interactions can be included by treating Y = yh as a spurion, where h is the neutral CP even component of the Higgs doublet, and in the diagonal quark mass basis y is the 6 6 diagonal matrix whose entries are the quark Yukawa interactions. The corresponding terms containing the spurion Y read,
+LY = (m˜ 2 Tr Π†Y + h.c.) − λ˜1Tr Π†Y Π†Y
+— λ˜2Tr Π†Y Y †Π − λ˜3Tr ΠY †Y Π†	(8)
+with NDA estimates m˜ 2  Λ¯ 2/g, λ˜1  λ˜2  λ˜3   1.
+The first term expands into a tadpole for h induced by the non-zero q¯q condensate. The remaining terms in-duce masses2 for the 35 pions and induce a back-reaction where the Higgs VEV reduces the corresponding chiral condensate by producing a mass for the SM quarks. In principle, this results in a complicated set of coupled equations, however a simple estimate provides a heuristic picture.
+The most important entry in Y is the 66 entry corre-sponding to the top quark with y66 = yt 1. Including the tadpole generated by Π66 in the finite temperature Higgs potential gives
+O.6
+O.4
+O.2
+O.O
+-O.2
+-l.O	-O.5	O.O	O.5	l.O	l.5
+h [TeV]
+
+FIG. 2. Finite-temperature Higgs potential at T = 1, 5 TeV, where the chiral effective theory cut-off is taken to be Λ¯ = 4 TeV.
+
+Baryogenesis
+
+QCD confining at TeV temperatures combined with the axion as a solution to the strong CP problem allows for a novel mechanism to explain the baryon asymmetry of the Universe. As mentioned above, since confinement at a TeV scale takes place when all six of the SM quarks are massless, the phase transition is expected to be first order [5, 6] and proceeds through bubble nucleation. In-
+
+Λ¯ 2
+Veff (h, T ) ≃ − 4π yt⟨Π66⟩ h +
+ α (T 2
+24
+— T 2) h2
+side the bubble QCD is confined and the EW symmetry is broken (and thus baryon-number violation through the
+
+
+where
+— γTh + λh ,	(9)
+weak interaction is inoperative) whereas outside remains
+in the unbroken and unconfined phases. Furthermore, if there exists an axion field that addresses the strong CP
+
+α =	gi
+bosons
+ mi 2	1
+
+/	/
+
+gi
+fermions
+ mi 2
+
+/
+
+problem, there can be large CP violation from the uncan-celled strong phase during this phase transition [10, 11]. The axion couples to the baryon current through the
+
+Tc = 2v
+6λ
+,	γ =
+α
+√2
+gi
+6π
+bosons
+ mi 3
+
+/
+/
+
+interactions of the pseudoscalar η′ meson, whose mass scales like mη′	Λ. At energies lower than the η′ mass, its residual effects are described by the effective
+
+and the sums go through all massive bosons and fermions in the SM. Taking Π66	Λ¯ /4π, the Higgs vev can be
+well approximated by
+Lagrangian:
+
+  10	αs	αw
+
+Leff ≃ f 2m2 8π GG˜ 8π W W˜,	(11)
+
+v ≃ Λ¯ yt
+ 1/3
+.	(10)
+π  η′
+
+4	π2λ
+where W (W˜) is the SU (2)W (dual) field strength. As
+
+
+
+Higgs VEV is v ≃ 0.9 TeV, as can be seen in Fig. 2.
+
+APPLICATIONS
+
+An early period of QCD confinement can have pro-found implications for the history of the early universe. We flesh out one particularly exciting possibility to gen-erate the observed baryon asymmetry of the Universe, and sketch several more which would be worth following
+
+/
+
+/
+which induces a GG˜ condensate [10],
+αs ⟨GG˜⟩ = m2(T )f 2 sin θ¯(T ).	(12)
+
+Through the anomaly equation, ∂µjµ = αW /8πW W ,
+µ B
+grating by parts produces an effective chemical potential
+µ for baryons:
+ d "   10	 2	2	¯	#
+
+/ /
+
+
+2 The pion masses in a given epoch scale with both Λ and ⟨h⟩.
+The non-zero chemical potential drives production of a non-zero baryon asymmetry by the electroweak
+
+4
+
+
+sphalerons,
+
+
+nB =
+
+
+dt Γsph(T ) µ,	(14)
+Ti	T
+Dark Matter Freeze-out. If dark matter freezes out dur-ing a period in which QCD is confined, the relevant de-grees of freedom both for annihilation and in the plasma correspond to the confined phase, in contrast with usual WIMP scenarios.
+
+where Γsph(T ) 25 α5 T 4 is the thermal sphaleron rate outside the bubble where h = 0. We assume that inside the bubble the sphalerons are sharply switched off. Mak-ing use of the temperature-dependent axion mass [12]
+  Λ  7
+Axion Dark Matter. For theories invoking a QCD ax-ion, the early period of confinement switches on the ax-ion potential earlier and generates a larger axion mass (of order 104 the usual mass for Λ  TeV). For very large Λ, the axion could decay on cosmological time scales,
+
+a	a	T
+f 2
+a	π	2
+a
+assuming sin θ¯ is varying slowly, and ∆m2(TPT)
+m2(TPT) around TPT, the temperature at which the EW transition happens, the resulting baryon-to-entropy ratio is
+sition to Λ 1 GeV would induce a novel temperature-dependence on the axion mass, and could e.g. result in an early period of matter domination.
+Gravitational Waves. As with other first order cos-mological phase transitions, the early period of QCD confinement is expected to generate gravitational waves [14, 15]. The detailed predictions will depend sensitively on the dynamics of the bubble nucleation, expansion, and collision, which themselves take place in a background of
+
+nB
+η =	≃
+45 × 125
+2
+π α5 sin θ¯
+  TPT  3  Λ  7
+the strongly interacting plasma (which could, for exam-
+
+s	2π2g∗(Treh) m2′ w
+Treh
+TPT
+
+(16)
+ple, provide friction slowing down the bubble expansion rate). A careful investigation of the properties of the phase transition and its impact on gravitational wave
+
+where Treh is the reheat temperature at the end of the EW phase transition and g∗ counts the relativistic de-grees of freedom at that time. This picture has all of the dynamics naturally occurring concurrently, resulting in Treh TPT Λ and in the baryon asymmetry being roughly independent of the temperature at which QCD confines provided this happens above the electroweak scale. The baryon-to-entropy ratio is
+η ≃ 1.8 × 10−9 × sin θ¯,	(17) to be compared with the Planck measurement [13],
+ηexp = (8.59 ± 0.11) × 10−11.	(18)
+Achieving the observed baryon asymmetry requires a very modest tuning of sin θ¯  1/10 or a small amount of dilution after the baryon asymmetry is generated. It is remarkable that the baryon asymmetry is naturally close to the observed value for θ¯ of order one, despite the relative dearth of adjustable parameters.
+
+Other Applications
+
+The baryon asymmetry is just one application of an early period of QCD confinement out of many that could be imagined. We leave detailed follow up for future work, but a few others would be:
+BBN and Early universe. Early QCD confinement could leave an imprint on BBN if the transition to Λ  1 GeV occurs late enough, implying bounds on the dynamics of φ. Furthermore, while confined the SM plasma degrees of freedom are different, influencing the evolution of the Universe.
+production is currently under investigation [16].
+Collider searches. The most model-independent pre-diction is the existence of the neutral scalar field φ which couples to gluons, and could contribute to dijet signa-tures at high energy colliders. If it mixes with the Higgs, it will pick up other couplings to SM fields, and induce deviations in the Higgs couplings. There may be addi-tional neutral or colored particles coupled to φ as well.
+Heavy Ion Collisions. If the dynamics restoring Λ
+1 GeV occur at low energies, there are likely to be indi-cations visible in high temperature environments such as heavy ion collisions.
+SU (2)W Confinement. A similar mechanism could be employed, e.g. to trigger SU (2)W confinement in the early Universe, with interesting consequences for electroweak symmetry breaking and potentially opening more new avenues for baryogenesis.
+
+
+CONCLUSIONS AND OUTLOOK
+
+Given our lack of knowledge about QCD at high tem-peratures, it is natural to ask whether there may be sur-prising dynamics which were important in the early Uni-verse, but remain hidden at low temperatures. If QCD confines at a high scale, returning to Λ 1 GeV at later times, it may shed light on some of the mysteries of our Universe, including the fact that it is made out of matter and not anti-matter. We have sketched the basic proper-ties of such a scenario, and demonstrated that baryogen-esis can work if there is an axion which solves the strong CP problem. Many open questions remain open, and many avenues remain to be explored in this framework.
+
+5
+
+
+ACKNOWLEDGEMENTS
+
+
+
+We are grateful for discussions with Djuna Croon, Anna Hasenfratz, Christopher T. Hill, Ciaran Hughes, David B. Kaplan, David McKeen, Michael Ramsey-
+Musolf, and Geraldine Servant. This work is supported in part by NSF Grant No. PHY-1620638. SI acknowl-edges support from the UC Office of the President via a UC Presidential Postdoctoral fellowship. This work was performed in part at Aspen Center for Physics, which is supported by National Science Foundation grant PHY-1607611.
+
+
+
+/
+
+
+M. Tanabashi et al. (Particle Data Group),
+.
+G. Aad et al. (ATLAS, CMS), JHEP 08, 045 (2016),
+.
+B. von Harling and G. Servant, JHEP 01, 159 (2018),
+.
+M. J. Baker and J. Kopp,
+A. G. Cohen, D. B. Kaplan, and A. E. Nelson, Lett. B412, 301 (1997),
+V. A. Kuzmin, M. E. Shaposhnikov, and I. I. Tkachev,
+.
+G. Servant,	,
+.
+M. S. Turner,	.
+
+(2017),	.
+R. D. Pisarski and F. Wilczek,
+.
+H.-T. Ding,
+P. A. R. Ade et al. (Planck),		, A13 (2016),	.
+C.	Caprini	et	al.,	,
+.
+
+.
+K. Kajantie,
+D. Cutting, M. Hindmarsh, and D. J. Weir,
+.	D97, 123513 (2018),	.
+
+Y. Bai, A. J. Long, and S. Lu, (2018),
+.
+D. Croon, S. Ipek, and T. M. Tait, work in progress..
+
+Published for SISSA by	Springer
+Received: January 17, 2018
+Revised: March 21, 2018
+Accepted: May 2, 2018
+Published: May 14, 2018
+
+
+
+
+Early universe with modified scalar-tensor theory of gravity
+
+
+Ranajit Mandal,a Chandramouli Sarkarb and Abhik Kumar Sanyalb
+aDepartment of Physics, University of Kalyani,
+Nadia, 741235 India
+bDepartment of Physics, Jangipur College, Murshidabad, 742213 India
+E-mail: ranajitmandalphys@gmail.com, csarkar123@yahoo.co.in, sanyal ak@yahoo.com
+Abstract: Scalar-tensor theory of gravity with non-minimal coupling is a fairly good can-didate for dark energy, required to explain late-time cosmic evolution. Here we study the very early stage of evolution of the universe with a modified version of the theory, which includes scalar curvature squared term. One of the key aspects of the present study is that, the quantum dynamics of the action under consideration ends up generically with de-Sitter expansion under semiclassical approximation, rather than power-law. This jus-tifies the analysis of inflationary regime with de-Sitter expansion. The other key aspect is that, while studying gravitational perturbation, the perturbed generalized scalar field equation obtained from the perturbed action, when matched with the perturbed form of the background scalar field equation, relates the coupling parameter and the potential ex-actly in the same manner as the solution of classical field equations does, assuming de-Sitter expansion. The study also reveals that the quantum theory is well behaved, inflationary pa-rameters fall well within the observational limit and quantum perturbation analysis shows that the power-spectrum does not deviate considerably from the standard one obtained from minimally coupled theory.
+
+Keywords: Cosmology of Theories beyond the SM, Conformal and W Symmetry, Models of Quantum Gravity
+
+ArXiv ePrint: 1801.04056
+
+
+
+
+
+Open Access, ⃝c The Authors.
+https://doi.org/10.1007/JHEP05(2018)078
+
+Article funded by SCOAP3.
+
+/
+
+Contents
+Introduction	1
+Canonical formulation of non-minimally coupled scalar-tensor theory of gravity in the presence of higher order term	4
+In search of a form of f (φ) and canonical quantization	7
+Probabilistic interpretation	9
+Semiclassical approximation	9
+First order approximation	11
+Inflation	12
+Slow roll approximation	12
+Gravitational perturbation: validating the relation between f(φ) and V (φ)	14
+Perturbative semiclassical approach	17
+Concluding remarks	19
+A Hermiticity of the effective Hamiltonian Hˆe	20
+Canonical formulation following standard techniques	20
+Ostrogradski’s formalism	21
+Dirac’s constraint analysis	22
+Horowitz’ formalism	23
+
+
+
+Introduction
+In the early stage of evolution, between 10−36 sec–10−32 sec, the universe went through an inflationary phase of expansion, which has been accepted as a scenario rather than a model. What happened prior to the inflationary era can only be answered in view of ‘quantum theory of gravity’. In the absence of a complete and legitimate (unitary and renormalizable) quantum theory of gravity, some perception regarding the evolution of the universe in the pre-inflationary phase may be achieved through quantization of a viable cosmological model - known as “quantum cosmology”. In this regard a cosmological model should be chosen such that it leads to a viable inflationary era fitting the recently available data, and also the late-time cosmic acceleration which is a great cry of the present century. Non-minimally coupled scalar-tensor theory of gravity having an action in the form
+A = ∫ √−g d4x f (φ)R − 1 φ φ,µ − V (φ) ,	(1.1)
+
+is a strong contender for dark-energy candidature, being able to explain late-time cosmic acceleration inclusive of presently available data [1–12]. It is therefore required to test the theory during early phase of cosmological evolution. To accommodate cosmic inflation in the theory, additional contribution to the above action is required. It is well known that quantum gravity, in any of its forms (super string theory, heterotic string theory super-gravity, M-theory, loop quantum gravity etc.) admits higher order curvature invari-
+ant terms. Of particular interest is curvature squared (R2, R2 ) term, since it leads to
+renormalized theory of gravity [13]. Although, perturbatively it encounters ghost degrees of freedom, non-perturbatively it is well behaved. Further, although unification of the early inflation with late-time cosmic acceleration with non-minimally coupled scalar field has recently been achieved [14], nevertheless one can’t ignore the presence of higher order terms in the early universe, particularly because inflation without phase transition is an essential feature of such higher order term [15, 16]. Now, in the homogeneous and isotropic
+background, R2	and R2 terms differ only by a total derivative term, and it is therefore
+sufficient to add scalar curvature squared term to the above action, which therefore reads as
+A = ∫ √−g d4x f (φ)R + BR2 − 1 φ φ,µ − V (φ) .	(1.2)
+
+As already mentioned, our present aim is not to establish unification, rather to study its behaviour at the very early stage of cosmic evolution particularly, in the quantum domain. This requires canonical formulation of the theory. There exists a host of canonical formalisms in connection with higher order theory of gravity, which requires additional degrees of freedom. In addition to the three space metric (hij), the extrinsic curvature tensor (Kij) is taken as an additional basic variable for the purpose. In the process, Cauchy data exceeds and therefore, one requires more boundary data. While, Ostrogrdski’s technique [17],1 Dirac’s [18, 19] formalism and Horowitz’ no boundary proposal [20] insist upon setting δhij = 0 = δKij, at the boundary, and end up with the same phase-space Hamiltonian; a modified version of Horowitz’ technique [21–29] favours δhij = 0 = δR, at the boundary and for a class of higher order theory of gravity, ends up with a Hamiltonian which although different, is related under a suitable canonical transformation with the one obtained following the known standard techniques [17–20]. It has therefore been tacitly assumed that the canonical structure of higher order theory of gravity is independent of the choice of boundary condition. However, such a preconceived concept has shattered in view of a very recent work [30]. It has been found that for Gauss-Bonnet-dilatonic coupled higher order theory of gravity,
+A  = ∫ √−g d4x  αR+βR2 +Λ(φ)G− 1 φ  φ,ν −V (φ) +αΣR +βΣR2 +Λ(φ)ΣG ,	(1.3)
+(where, ΣR = 2 ∂V K√hd3x, ΣR2 = 4 ∂V RK√hd3x and ΣG = 4 ∂V 2GijKij + K3  √hd3x
+are the supplementary boundary terms known as the Gibbons-Hawking-York term cor-
+responding to the linear sector, its modified version for curvature squared term and for Gauss-Bonnet-dilatonic coupled sector respectively, α, β, and Λ(φ) are the coupling param-eters, V (φ) is the dilatonic potential, while the symbol K stands for K = K3 − 3KKijKij +
+
+1Pioneeering work by M. Ostrogradski and W.F. Donkin is quoted here.
+
+2KijKikKk, K being the trace of extrinsic curvature tensor), modified Horowitz’ formal-ism ends up with a different phase-space Hamiltonian, which is not related to the others under canonical transformation [30]. The most important outcome of the work is that, the well-known standard formalisms [17–20], for which supplementary boundary terms are not required due to the fact that δhij = 0 = δKij at the boundary, don’t produce correct classical analogue of the theory under appropriate semi-classical approximation, although modified Horowitz’ formalism does [30]. It is true that the choice of boundary terms does not in any way affect classical field equations, nevertheless, the above mentioned results prove unambiguously that it does, in the quantum domain, and the standard tech-niques [17–20] towards canonical formulation don’t render a viable quantum description of the theory, in general. Here, we have chosen the action (1.2) to establish in particular the fact that, the in-equivalent phase-space structure of the Hamiltonian is an outcome of non-minimal coupling.
+It is important to repeat that, if one insists upon the boundary conditions δhij|∂V = 0 = δR|∂V , the action must be supplemented by additional boundary terms. On the con-trary, the boundary conditions δhij|∂V = 0 = δKij|∂V take care of the total derivative
+terms, and there is no need to supplement the action with additional boundary terms. This was the main argument of Horowitz for his no boundary proposal. Horowitz [20] ar-gued that, without the supplementary boundary term, superposition principle holds during the transition from the initial configuration space to the final, following an intermediate one. However, Horowitz [20] also pointed out that, the above argument does’t specifically state that boundary terms can’t exist. Although sounds attractive, with no boundary proposal the cherished Gibbons-Hawking-York [31, 32] term, which is responsible for the entire contribution to the Euclidean action, also vanishes, and it is not possible to recover it under weak field limit. Next, it is well-known that F (R) theory of gravity admits scalar tensor equivalence, under redefinition of F (R) by an auxiliary variable to Jordan’s frame or through conformal transformation to Einstein’s frame. Variation of such canonical La-grangian requires to fix the scalar at the end point. This is indeed equivalent to fixing of the Ricci scalar R at the boundary. Further, Dyer and Hinterbichler [33] have shown that the boundary terms reproduce the expected ADM energy, and the entropy of a Schwarzschild black hole is one-quarter of the area of the horizon in units of the effective Planck’s length, which agrees with the Wald entropy formula [34, 35]. This clearly indicates that higher curvature terms make no additional correction to the entropy in the result obtained from Gibbons-Hawking-York [31, 32] term. Last but not the least important fact, as already mentioned is that, the quantum counterpart with no boundary proposal for Gauss-Bonnet-dilatonic coupled higher order theory of gravity does not lead to a classical limit under an appropriate semi-classical approximation [30].
+Usually, either exponential expansion in the de-Sitter form or power law expansion as a solution to the classical field equations, is the starting point of studying inflationary evolution. The aim of the present work is to explore the fact that for the action under consideration (1.2), the quantum domain generically leads to de-Sitter expansion under ap-propriate semi-classical approximation, rather than power law expansion. This is the most important outcome of the present work. We therefore make canonical formulation of the
+
+action (1.2), in the Robertson-Walker minisuperspace, canonically quantize and show that the semiclassical wave-function is strongly peaked around the classical de-Sitter solution. Next we show that such a de-Sitter solution goes through to a viable inflationary phase, and the inflationary parameters are very much consistent with currently available data.
+In the following section we therefore follow modified Horowitz’ technique towards canonical formulation of action (1.2) in the homogeneous and isotropic background. How-ever, we encounter certain operator ordering ambiguity during quantization, which can only be resolved after having specific knowledge on the form of the coupling parameter f (φ). We therefore choose de-Sitter solution, and find a relation between the coupling parameter f (φ) and the potential V (φ) in view of the (0) equation of Einstein. The other field equation then fixes the forms of the two, uniquely. In view of the form of the coupling parameter f (φ), we remove operator ordering ambiguity, present the quantum mechan-ical probabilistic interpretation, and perform semiclassical approximation to explore the already mentioned fact that, the wave-function is strongly peaked around the classical de-Sitter solution.
+Since quantum dynamics of action (1.2) admits de-Sitter solution as its generic fea-ture, so in section 3, we study the inflationary regime, with exponential expansion. For this purpose, we first translate our action (1.2) to the Einstein’s frame under conformal transformation, to show that the present action involves an additional scalar field ψ. This clarifies the reason for imposing a condition in addition to the standard slow-roll approx-imation. However, the rest of the analysis has been performed in the original variables. While studying gravitational perturbation, we match perturbed generalized scalar-field equation with the perturbed background scalar-field equation and observe that the cou-pling parameter f (φ) and the potential V (φ) must be related exactly in the same manner, as has been found while solving classical field equations assuming de-Sitter exponential solution. In appendix A, we prove that the effective canonical Hamiltonian is hermitian. In appendix B, we show that the standard canonical formulation schemes following Ostro-gradski’s [17], Dirac’s [18, 19] and Horowitz’ [20], lead to the same phase-space structure of the Hamiltonian, which is different from the one obtained following modified Horowitz’ technique in section 2, and is not related to it under canonical transformation.
+
+Canonical formulation of non-minimally coupled scalar-tensor theory of gravity in the presence of higher order term
+In accordance with the discussions in the introduction, we insist upon keeping δhij = 0 = δR, at the boundary, and so it is required to supplement the action (1.2) with appropriate boundary terms. The action (1.2) therefore reads
+
+A = ∫ √−g d4x  f (φ)R + BR2 − 1 φ
+
+φ,µ − V (φ) + ΣR
+
++ Σ 2
+1
+
++ Σ 2
+2
+
+,	(2.1)
+
+
+/
+
+
+the presence of non-minimal coupling, and ΣR2 = Σ
+2 +Σ
+2 = 4B ∫ 3 RK√h is the bound-
+
+/
+
+two parts in the manner, ΣR2 = 4B ∫ 3RK√h d3x; ΣR2 = 4B ∫ (4R −3 R)K√h d3x. Such
+splitting is required to take care of the total derivative terms appearing under integration by parts. This has been discussed earlier in details [21–30]. In the above, K is the trace of the extrinsic curvature tensor, and h is the determinant of the induced three-space metric. Since reduction of higher order theory to its canonical form requires additional degrees of free-dom, hence, in addition to the three-space metric hij, the extrinsic curvature tensor Kij is treated as basic variable. In the homogeneous and isotropic Robertson-Walker metric, viz.,
+2	2	2	2		dr2	2	2	2	2 
+ds = −N (t) dt + a (t)  1 − kr2 + r (dθ + sin θdφ ) ,	(2.2)
+
+
+we therefore choose the basic variables hij = zδij = a2δij
+, so that Kij
+h˙ ij
+2N
+= − aa˙ δij =
+
+— 2N δij, and hence, the Ricci scalar is expressed as,
+ 6   a¨	a˙2	2  k	N˙ a˙ !	 6    z¨	2 k	1 N˙ z˙ !
+/	/	/
+
+The action (2.1) in Robertson-Walker minisuperspace (2.2), therefore takes the form,
+∫ "	√/  z¨	N˙ z˙	!	9B   z¨2	2N˙ z˙z¨	N˙ 2z˙2	4kN˙ z˙	4kz¨	2 !
+/	/	/	/	/	/	/	/
++ z 3  1  φ˙2 − V N  #dt + Σ  + Σ	+ Σ	.	(2.4)
+
+In the above, ΣR = − 3f √zz˙ , while Σ 2 = − 36B√kz˙ and Σ 2 = − 18B√z˙  z¨ − z˙N˙  . Under
+
+integrating by parts, the counter terms ΣR and Σ 2
+1
+get cancelled and the action (2.4)
+
+reduces to
+∫ " 
+
+
+3f jφ˙z˙√z
+/
+
+3fz˙2
+
+/
+√/!	9B  z¨2
+
+/	/
+
+2N˙ z˙z¨
+
+/
+
+N˙ 2z˙2
+
+/
+2kz˙2	2	!
+/
+
++z 3  1  φ˙2 −V N  #dt+Σ	,	(2.5)
+
+where, prime denotes derivative with respect to the scalar field φ. At this stage introducing an auxiliary variable
+∂A	 18B 	N˙ z˙ !
+
+Q =
+
+straight into the action (2.5), as
+∂z¨ = N 3√z
+z¨ − N
+(2.6)
+
+∫ "   3f jφ˙z˙√z	3fz˙2	√/!	N 3√z	2	N˙ z˙Q	18Bk/z˙2	36BNk2
++z 3  1  φ˙2 −V N  #dt+Σ	,	(2.7)
+
+the rest of the boundary terms is taken care of under integration by parts. Finally, the action being free from the boundary temrs, is expressed as
+∫ "	˙	3f jφ˙z˙√z	3fz˙2	√/	N 3√z	2	N˙ z˙Q	18Bk/z˙2	36BNk2
++z 3  1  φ˙2 −V N   #dt.	(2.8)
+
+2N
+The canonical momenta are
+pQ = −z˙
+˙
+
+
+
+3f jφ˙√z	 3fz˙ 	N˙ Q
+
+
+
+
+36Bkz˙
+
+
+
+(2.9a)
+
+pz = −Q −
+N	− N √z − N +
+3
+Nz 2
+(2.9b)
+
+p	=	z˙Q
+N
+3f jz˙√z
+
+
+
+3
+z 2 φ
+(2.9c)
+
+pφ = −
++	(2.9d)
+N	N
+
+The (0) component of Einstein’s field equation in terms of the scale factor is
+"	6f   a˙2	f ja˙φ˙	 36B	...	2	a˙2a¨	a˙4	2 N¨	N˙	2 N˙ 2	a˙3N˙
+
+
+
+−2kN
+
+2 a˙2
+a2 +k
+
+N 4
+
+/
+a2
+φ˙2
++	2N 2 +V (φ)
+!#Na3
+
+= 0,	(2.10)
+
+which when expressed in terms of the phase-space variables leads to the Hamilton con-straint equation. However, construction of the phase-space structure of the Hamiltonian is non-trivial, since the Hessian determinant vanishes and the Lagrangian corresponding to the action (2.8) is degenerate. This is due to the presence of the time derivative of the lapse (which is essentially a Lagrange multiplier of the theory) in the said action, which is a typi-cal to the higher order theory. Remember that no such time-derivative of the lapse function appears in General Theory of Relativity. The constraint QpQ − NpN = 0, is also apparent from the expressions of canonical momenta (2.9). Usually Dirac’s constraint analysis is in-voked to construct the phase-space Hamiltonian. Nevertheless, we have repeatedly pointed out [26, 27] that it is possible to bypass the issue and construct the canonical Hamiltonian in the following manner. For this purpose, let us use the expression,
+˙	3z˙f jφ˙√z	3fz˙2	N˙ z˙Q	36Bkz˙2
+
+pQpz = Qz˙ +	N	+ N √z +
+N	−	Nz 2
+(2.11)
+
+obtained in view of the relations (2.9a) and (2.9b), and construct the Hamiltonian con-straint equation in terms of the phase space variables as,
+
+   pQ2	√
+N 3Q2√z
+18kB  pQ2
+Np2
+2
+3f jpQpφ
+
+Hc = 3f	2N √z −2kN
+z  −pQpz +
+36B	− N √z
++2kN
+z
++	3
+2z 2	z
+
+9f j2p2	3
++ 2N √z +V Nz 2 = 0.	(2.12)
+
+It is important to note that although the phase-space structure of the Hamiltonian corre-sponding to the higher order theory under consideration has been produced in (2.12), it does not establish the diffeomorphic invariance of the theory. Diffeomorphic invariance is apparent only when the Hamiltonian is expressed in terms of the basic variables (x, z, φ) and their canonically conjugate momenta (px, pz, pφ). In order to express the Hamilto-nian in terms of the basic variables, we make the canonical transformations following the
+replacements of Q = px and pQ = −Nx, as before. The phase-space structure of the
+Hamiltonian in terms of the basic variables is then expressed as,
+
+"	√zpx2
+  x2
+√/	18kB  x2
+2	3f jxpφ
+9f j2x2	3#
+
+Hc = N
+xpz +
++3f
+36B
+2√z −2k
+z − √z
++2k
+z
++	3 +
+2z 2
+z	+ 2√z +V z 2
+
+= N H.	(2.13)
+Diffeomorphic invariance is now clearly established in equation (2.13). The action (2.5) can also be expressed in the canonical form with respect to the basic variables as,
+A = ∫	z˙pz + x˙px + φ˙pφ − N HL dt d3x = ∫	h˙ ijπij + K˙ ij Πij + φ˙pφ − N HL dt d3x,
+(2.14)
+where, πij and Πij are momenta canonically conjugate to hij and Kij respectively. This establishes the importance of the use of appropriate basic variables, over other canonical ones. Now, the canonical Hamiltonian (2.13) may immediately be quantized to obtain,
+ ik ∂Ψ	k2	  ∂2	n ∂	k2  ∂2Ψ	3
+
+√z ∂z = − 36Bx
+∂x2 + x ∂x
+Ψ − 2xz2 ∂φ2 + z 3 fˆjpφ
+
+(2.15)
+
++  3fx +
+2z
+9f j2x
++
+2z
+V z	6kf
+x −  x −
+18kBx
+z2	−
+36k2B
+
+/
+xz
+Ψ = HˆeΨ,
+
+where, n is the operator ordering index. In the above expression (2.15) due to the presence of coupling between f j(φ) and pφ, there still remains some operator ordering ambiguity, which may only be resolved after having specific knowledge regarding the form of f (φ).
+In search of a form of f (φ) and canonical quantization
+The nonminimally coupled action (2.1) can be re-expressed (apart from the supplementary boundary terms) as,
+A = ∫ √−g d4x  1 f(φ, R) − 1 φ φ,µ − V (φ)  ,	(2.16)
+where f(φ, R) = 2f (φ)R + 2BR2. The field equations in the homogeneous and isotropic flat (k = 0) Robertson-Walker metric background (with N = 1), are expressed as
+H2 =  1   1 φ˙2 + RF − f + 2V − 3HF˙  ,	(2.17)
+H˙ = −  1  φ˙2 + F¨ − HF˙ ,	(2.18)
+φ¨ + 3Hφ˙ + 1 2V j − fj = 0,	(2.19)
+
+where F =  ∂f  , H = a˙ , R = 6(H˙ + 2H2), and the scalar field equation (2.19) follows from
+∂R	a
+equations (2.17) and (2.18). It is already known that inflation is an essential feature of
+higher order curvature term [15, 16]. Here our aim, as already mentioned in the introduc-tion, is to check if the quantum dynamics of the higher-order theory under consideration in the Trans-Planckian era, leads generically to the inflationary scenario in the post Planck’s era. Therefore, we seek inflationary solution of the classical field equations (2.17)–(2.19) in the following standard de-Sitter exponential form
+a = a0eHt,	φ = φ0e−Ht,	(2.20)
+where, constant ‘H’ is the Hubble parameter ‘H’ in the de-Sitter regime, and R = 12H2. Equation (2.19) relates V j(φ) and fj(φ, R) and in the process V (φ) and f (φ) in the following manner,
+2V j − fj = 4H2φ =⇒ V (φ) − 12H2f (φ) = H2φ2 + c,	(2.21)
+where c is an integration constant. In view of equation (2.17), one can also find
+2V = 12H2f (φ) − 12H2f j(φ)φ − H2φ2.	(2.22)
+The two equations (2.21) and (2.22) are simultaneously satisfied restricting the potential and the coupling parameter to the following forms
+V0	f1	φ2
+V (φ) = V1 + φ ,	and f (φ) = f0 + φ − 12 ,	(2.23)
+where c = −f0R − 2BR2, and the parametric constants, V0, V1, f0, and f1 are related in the following manner,
+V0 = 12f1H2,	V1 = 6f0H2.	(2.24)
+Since the form of the coupling parameter f (φ) has been explored in (2.23), we can now proceed with our left out task regarding canonical quantization. Choosing suitable operator ordering between f j(φ) and pφ, equation (2.15) now takes the form
+ ik ∂Ψ	k2	  ∂2	n ∂	k2 ∂2Ψ	ik/  φ3 +6f1  ∂Ψ	ik/  φ3 −12f1 
+" 3x	f1	φ2	9x  f1	φ  2	6f0H2z	12f1H2z #
+
+/	/
+where Weyl symmetric ordering has been performed between f j(φ) and pφ, appearing in the third term on the right hand side, and the form of the potential has been supplemented from equation (2.23) and (2.24). Now, under a change of variable, the above modified Wheeler-de-Witt equation, takes the look of Schr¨odinger equation, viz.,
+ik∂Ψ	k2   1 ∂2	n  ∂	k2 / ∂2Ψ	ik  φ3 + 6f1  ∂Ψ
+
+∂σ = − 54B
+x ∂x2 + x2 ∂x
+Ψ − 3xσ 4
+∂φ2 + 3σ	φ2	∂φ
+
+(2.26)
+
+ik  φ3 − 12f1	ˆ
+
+where, σ = z 2 = a3 plays the role of internal time parameter. In the above equation, the
+effective potential Ve, is given by,
+"  x/	f 	φ2	 3x  f 	φ  2	4f H2σ 2	8f H2σ 2 #
+/
+
+Probabilistic interpretation
+The hermiticity of Hˆe (see appendix A) should enable us to write the continuity equation, which requires to find ∂ρ , where, ρ = Ψ∗Ψ. A little bit of algebra leads to the following
+
+equation,
+∂ρ	 ∂  ik 	∗	∗
+
+ ∂  ik 	∗	∗	  φ3 + 6f1	∗
+/	/
+
++ (n + 1)  ΨΨ∗ − Ψ∗Ψ	(2.28)
+Clearly, continuity equation can be written, only under the choice n = −1, as
+∂ρ
+∂σ + ∇.J = 0,	(2.29)
+where, ρ = Ψ∗Ψ and J = (Jx, Jφ, 0) are the probability density and the current density respectively, and
+J =  ik  (ΨΨ∗ − Ψ∗Ψ )	(2.30a)
+
+x	54Bx	,x
+ ik 	∗
+
+,x
+∗	  φ3 + 6f1	∗
+/
+
+It is noticeable that the existence condition of standard quantum mechanical probabilistic interpretation, fixes the operator ordering index to n = −1.
+Semiclassical approximation
+Now to check the viability of the quantum equation (2.26), it is required to test its behaviour under certain appropriate semi-classical approximation. For the purpose, it is easier to handle equation (2.25) instead, and express it as,
+k2√z   ∂2	n ∂	k2 / ∂2Ψ	∂Ψ	ik  φ3 +6f1  ∂Ψ
+
+— 36Bx
+where
+∂x2 + x ∂x
+Ψ	3
+2xz 2
+∂φ2 −ik ∂z + 2z	φ2
+∂φ +VΨ = 0	(2.31)
+
+"  3x  
+f 	φ2 
+ 9x   f 	φ  2
+6f H2z 3	12f H2z 3	ik  φ3 −12f  #
+
+V =  2√z
+f0 + φ − 12
++ 2√z	φ2 + 6	+
++	+
+x	xφ	4z
+.
+φ3
+(2.32)
+
+The above equation (2.31) may be treated as time independent Schr¨odinger equation with three variables (x, z, φ). Therefore, as usual, let us seek the solution of equation (2.31) as,
+
+i S(x,z,φ)
+0
+(2.33)
+
+and expand S in power series of k as,
+S = S0(x, z, φ) + kS1(x, z, φ) + k2S2(x, z, φ) + . . . .	(2.34)
+Now inserting the expression (2.34) in equation (2.33) and taking appropriate derivatives of Ψ, everything may finally be inserted in equation (2.31). At the end, equating the coefficients of different powers of k to zero, one obtains the following set of equations (up-to second order)
+
+√z S2
+
+S2
++  0,φ +S0,z −
+  φ3 +6f1
+S0,φ+V(x, z, φ) = 0,	(2.35a)
+
+/
+36Bx
+i√z
+0,x
+3
+2xz 2
+in√z
+
+/
+
+/
+2zφ2
+iS0,φφ
+/
+
+/
+
+√zS0,xS1,x
+/
+
+
+
+S0,φS1,φ
+/
+
+/
+
+
+  φ3 +6f1 
+/
+
+
+√zS1,xx
+n√zS1,x	√
+2
+1,x
++2S0,xS2,x
+2
+1,φ
++2S0,φS2,φ
+
+S1,φφ
+  φ3 +6f1 
+
+−i 36Bx −i
+36Bx2 +  z
+36Bx	+
+3
+
+/
+2xz 2
+−i xz 3
++S2,z −
+2zφ2
+S2,φ = 0,
+(2.35c)
+
+that are to be solved successively to find S0(x, z, φ), S1(x, z, φ) and S2(x, z, φ) and so on. Now identifying S0,x as px; S0,z as pz and S0,φ as pφ one can recover the classical Hamiltonian constraint equation Hc = 0, given in equation (2.13) from equation (2.35a). This is a consistency check. Thus, S0(x, z) can now be expressed as,
+S0 = ∫ pzdz + ∫ pxdx + ∫ pφdφ	(2.36)
+apart from a constant of integration which may be absorbed in ψ0. The integrals in the above expression can be evaluated using the classical solution for k = 0 presented in equation (2.20), the definition of pz given in (2.9b), pφ in (2.9d) and px = Q. Further, we recall the expression for Q given in (2.6), remember the relation, x = z˙, where, z = a2, choose n = −1, since probability interpretation holds only for such value of n, and use the form of f (φ) presented in (2.23), to obtain the following expressions of px, pz pφ in term of x, z and φ,
+f j = −  f1 + φ	(2.37a)
+x = 2Hz	(2.37b)
+p = 36√2BH 3 √x	(2.37c)
+p = −72BH3√z − 6f H√z − 9f1H z	(2.37d)
+
+z	0
+6f1Ha3φ3
+a0φ0
+
+pφ =	0 0
+φ5
+(2.37e)
+
+Hence the integrals in (2.36) are evaluated as,
+∫	√/	3  3
+/ /
+
+
+/	/
+
+z	2
+∫	3f1Ha3φ3
+
+/
+0	2a0φ0
+
+Thus, the explicit form of S0 in terms of z is found as,
+S =  48BH3 − 4f H z 3 − 6f1H z2.	(2.39)
+/
+For consistency, one can trivially check that the expression for S0 (2.39) so obtained, satisfies equation (2.35a) identically. In fact it should, because, equation (2.35a) coincides with Hamiltonian constraint equation (2.13) for k = 0. Moreover, one can also compute the zeroth order on-shell action (2.8). Using classical solution (2.20) one may express all the variables in terms of t and substitute in the action (2.8) to obtain
+
+∫	4
+
+3Ht
+
+2 3 3Ht
+24f1H2
+
+3 4Ht 
+
+A = Acl =
+Integrating we have,
+144BH a0e
+12f0H a0e
+φ0
+a0e
+dt.	(2.40)
+
+A = A  =  48BH3 − 4f H a3e3Ht − 6f1H a4e4Ht,	(2.41)
+which is the same as we obtained in (2.39), proving S0 to be the classical action and checking consistency yet again. Hence, at this end, the wave function is
+i h(48BH3−4f H)z 3 − 6f1H z2i
+/
+
+Ψ = ψ0ek
+First order approximation
+0	2  a0φ0
+.	(2.42)
+
+Now for n = −1, equation (2.35b) can be expressed as,
+—	/  iS0,xx −2S0,xS1,x − i S0,x −	1	  iS0,φφ −2S0,φS1,φ + x√z φ3 +6f1 S1,φ  +S1,z = 0.
+
+Using the expression for S0 obtained in (2.39), we can write S1,z from the above equation as
+i h  12D − 30√z −   D	 i
+
+S1,z =	0 0
+2 +   D  	√z
+0 0
++ 12Dz
+/ /
+3
++ (6f1 − 24)
+/
+  ,	(2.44)
+
+/
+
+where, D = 12BH2 − 1. On integration the form of S1 is found as,
+S1 = iF (z),	(2.45)
+and therefore the wavefunction up to first-order approximation reads
+i h(48BH3−4f H)z 3 − 6f1H z2i
+
+
+where,
+
+/
+Ψ = ψ01ek
+0	2  a0φ0
+,	(2.46)
+
+ψ01 = ψ0e−F (z).	(2.47)
+It has been proved that S0 obeys Hamilton-Jacobi equation. Comparison with classical constraint equation Hc = 0 (2.13), one finds px = ∂S0 , and pz = ∂S0 . So the wavefunc-
+∂x	∂z
+tion shows a strong correlation between coordinates and momenta. Now using the relation
+between velocities and momenta and the fact that S0 obeys Hamilton-Jacobi equation, it is apparent that the above relations define a set of trajectories in the x − z plane, which are solutions to the classical field equations. Thus the semiclassical wave function (2.46) is strongly peaked around classical inflationary solutions (2.20).
+
+Inflation
+Since the very early quantum universe smoothly transits to the de-Sitter type inflationary era, we therefore in the following subsection 3.1, compute the inflationary parameters in connection with the action (2.1) under consideration. It is important to note that the potential (2.23) is flat when φ is sufficiently large, and so, the slow-roll approximation is admissible. In the next subsection 3.2, we study classical aspect of gravitational pertur-bation. Finally in subsection 3.3 we derive the perturbation spectra generated from the quantum fluctuations in an early scalar field dominated accelerating (inflation) phase.
+
+Slow roll approximation
+Before we proceed, let us perform conformal transformation to demonstrate the fact that the higher order theory of gravity with non-minimal coupling under consideration (2.16), involves an additional degree of freedom. Under the following conformal transformation,
+
+
+gµν
+
+→ gˆµν
+
+= Ω2gµν
+and under the choice Ω2 = F	∂f(φ, R) = e, 2 ψ	(3.1)
+∂R
+
+
+/
+where ψ =	3 ln F is the new dynamical variable, the Lagrangian density, associated with action (2.16) may be transformed into [36, 37]
+
+
+ˆ	1 ˆ	1
+ˆ;ν	1
+ˆ;ν	ˆ
+ˆ	RF − f + 2V
+
+L = 2 R − 2F φˆ;µφ
+2 ψˆ;µψ
+V (φ, ψ),	where,
+V (φ, ψ) =
+2F 2	.	(3.2)
+
+In the above, we use hats to denote quantities based on the conformally transformed metric frame. Thus, our original f(φ, R) gravity is cast into the Einstein theory with an additional scalar field ψ, and a special potential term Vˆ(φ, ψ) (3.2).2 Using the conformal equivalence between the theories, it is possible to derive the equations for the background and the perturbations. The general asymptotic solutions for the perturbations in the generalized gravity from the simple results known in the minimally coupled scalar field may also be presented [36, 37]. However, we shall not use the conformal transformation properties in the following treatment. Rather we use the conformal transformation to realize that, along with the standard slow-roll conditions of minimally coupled single-field inflation, viz. φ˙2 ≪ V and |φ¨| ≪ 3H|φ˙|, it is required to impose one additional condition due to the presence of additional field viz. 4|f˙|H ≪ 1 [38]. As in the case of Gauss-Bonnet coupling [39–42], instead of standard slow roll parameters, here also the introduction of a combined hierarchy in the following manner, appears to be much suitable. Firstly, the background evolution is described by a set of horizon flow functions (the behaviour of Hubble distance during inflation) starting from
+ǫ  = dH ,	(3.3)
+0	dH
+i
+2Only in a very special case, assuming ψ = ψ(φ), one can introduce another scalar field φˆ to express the Lagrangian in terms of a single scalar field as in the case of minimally coupled scalar-tensor theory of
+gravity as, Lˆ = Rˆ − 1 φˆ φˆˆ;µ −Vˆ(φˆ). However in that case, φˆ should satisfy the relation dφˆ = √  1 dφ2 + dψ2.
+
+where, dH = H−1 is the Hubble distance, also called horizon in our chosen unit. We use suffix i to denote the era at which inflation was initiated. Now hierarchy of functions is defined in a systematic way as
+
+
+
+ǫl+1
+= d ln |ǫl| ,	l	0.	(3.4)
+dN
+
+In view of the definition N = ln  a , which implies N˙
+i
+= H, one can compute ǫ1 = d ln dH ,
+
+which is the logarithmic change of Hubble distance per e-fold expansion N . It is the first
+slow-roll parameter ǫ1 = d˙H = −  H˙ , implying that the Hubble parameter almost remains
+
+constant during inflation. The above hierarchy allows one to compute ǫ2 = d ln ǫ1
+1 ǫ˙1
+H ǫ1
+
+which implies ǫ ǫ	= d d¨ = −  1   H¨ − 2 H˙ 2  . In the same manner higher slow-roll
+parameters may be computed. Equation (3.3) essentially defines a flow in space with cosmic time being the evolution parameter, which is described by the equation of motion
+
+
+ǫ ǫ˙
+ 1 
+—	ǫ ǫ
+
+= 0,	l ≥ 0.	(3.5)
+
+0 l	dH  l l+1
+
+One can also check that (3.5) yields all the results obtained from the hierarchy defined in (3.4), using the definition (3.3). As already mentioned, the additional degree of freedom appearing due to the function f(φ, R), requires to introduce yet another hierarchy of flow parameters as
+
+δ1 = 4f˙H ≪ 1,	δ
+
+
+m+1
+= d ln |δm| ,	with,	m	1.	(3.6)
+d ln a
+
+Clearly, for m = 1, δ = d ln |δ1| =  1 δ˙1 , and δ δ =  4 ¨fH + f˙H˙  , and so on. The slow-roll
+conditions therefore read |ǫm| ≪ 1 and |δm| ≪ 1, which are analogous to the standard slow-roll approximation. Now we arrange the field equations (2.17) and (2.19) in the following manner
+
+
+φ˙2 + 2V = 12H2f + 3(1 + 4Hf˙) + 144BH4
+H˙ 2 + H2
+
+— 72BH
+H˙ 2 + H2
+
+4 	1
+  H¨	H˙ 2 !
+H˙ !2	
+(3.7)
+
+— 144BH 1 − H2	H − 2 H2	− 2	1 + H2	+ 1 − 3.
+
+
+φ¨ + 3Hφ˙ = −V j + 6H2fj  2 +
+H˙	.	(3.8)
+H2
+
+
+In view of the slow-roll parameters, the above equations (3.7) and (3.8) may therefore be expressed as
+φ˙2 + 2V = 12H2f + 3 (1 + δ1) + 144BH4 (2 − ǫ1) − 72BH4 (2 − ǫ1)2
+
+— 144BH4f (1 + ǫ1ǫ2) − 2 (1 − ǫ1)2 + 1 − 3,
+(3.9)
+
+φ¨ + 3Hφ˙ = −V j + 6H2fj(2 − ǫ1),	(3.10)
+
+respectively, and may be approximated to
+V ≃ 6H2f,	(3.11)
+3Hφ˙ ≃ −V j + 12H2fj.	(3.12)
+Since the Hubble parameter H = H, remains constant during inflation, so the above pair of equations (3.11) and (3.12) may be combined to obtain
+φ˙ = V j .	(3.13)
+3H
+The number of e-folds then has to be computed in view of the following relation,
+
+
+N (φ) ≃
+
+tf
+Hdt =
+ti
+
+φf H
+φ˙ dφ ≃
+φf 3H2
+dφ,	(3.14)
+φi	V j
+
+where, φi and φf denote the values of the scalar field at the beginning (ti) and the end (tf ) of inflation. Since we already have knowledge on the specific forms of the potential V (φ) and the coupling parameter f (φ) in view of relations (2.23) and (2.24) it is now possible to compute the number of e-folding, along with the other slow-roll parameters.
+The number of e-folding (3.14) now reads
+ 1  ∫ φi  2	 1 	3	3
+
+We take following numerical values: φi = 4.8Mp, φf = 1.2Mp, f0 = 0.4291M 2, and, f1 = −0.162M 3 to find that inflation halts (ǫf = 1) after N = 56 e-fold of expansion. The slow-roll parameters take the numerical values,
+
+M 2  V j  2
+
+/	/
+/
+M 2	V 2
+
+/
+M 2	2f 2
+
+/	/
+/
+
+2 V jj	2 	2V		M 2 	4f	 
+
+and therefore the scalar to tensor ratio and the spectral index take the values r = 16ǫ = 0.012; and, ns = 1 − 6ǫ + 2η = 0.963, which are very much within the limit of recently released data [54].
+Gravitational perturbation: validating the relation between f(φ) and V (φ)
+In this subsection, we study gravitational perturbation essentially to demonstrate the fact that the perturbed form of the background scalar field equation when equated to the same equation obtained by varying the metric-perturbed action, the relationship between the potential V (φ) and f(φ, R) and hence between V (φ) and the coupling parameter f (φ) is found to be the same as already obtained (2.21) in view of de-Sitter solution (2.20) of the classical field equations (2.17) and (2.19). Although, it might appear striking, nevertheless, it validates the semiclassical approximation performed in subsection 2.3, that ends up with a wave-function which is oscillatory about de-Sitter expansion.
+
+Cosmological perturbation in Einstein’s gravitational theory [43, 44] and also in a broad class of theories f(φ, R), often called generalized gravity theories, have been anal-ysed thoroughly in a series of articles [36, 37, 45–49], in uniform curvature gauge, first introduced by Mukhanov [50]. The asymptotic solutions of the scalar field equation in the large and small scale limits have been found. Further, the primordial seed density fluc-tuations generated from vacuum quantum fluctuations in different inflationary models for generalized gravity theories, have also been presented [37, 43, 45]. Although our present aim is to validate the choice of de-Sitter expansion, which relates the potential and the coupling parameter uniquely, however, for the sake of completeness we briefly review the work of Hwang regarding quantum perturbation, and present the expression for the power spectrum in the generalized gravity under consideration.
+As usual, we consider a spatially flat, homogeneous and isotropic Robertson-Walker metric together with the most general scalar-type and tensor-type space-time dependent perturbations as,
+ds2 = −a2 (1 + 2α) dη2 − a2 (β,α + Bα) dηdxα
++ a2 hg(3) (1 + 2ϕ) + 2γ,α|β + 2Cα|β + 2Cαβi dxαdxβ,	(3.18)
+where, dt ≡ adη, η being the conformal time.	While,  α(x, t),  β(x, t),  ϕ(x, t) and
+γ(x, t) characterize the scalar-type perturbations, Bα(x, t) and Cα(x, t) are trace-free
+
+(Bα
+|α
+= 0 = Cα ) and correspond to the vector-type perturbations. Finally, Cαβ(x, t) is
+|α
+
+transverse and trace-free (Cβ
+α|β
+= 0 = Cα) and corresponds to the tensor-type perturba-
+
+tion. Indices are based on g(3) as the metric and the vertical bar (‘|’) indicates a covariant derivative. Now, we decompose the energy-momentum tensor along with the scalar field
+by introducing perturbation as, Ta(x, t) = T¯a(t) + δTa(x, t), φ(x, t) = φ¯(t) + δφ(x, t), and
+b	b	b
+F = F¯ + δF . In these expressions an over-bar indicates a background ordered quantity
+and it will be omitted unless necessary. At this stage, we introduce a gauge invariant combination as,
+
+φ˙
+δφϕ = δφ − H ϕδφ,
+δF	δφ
+F˙ = φ˙ ,	(3.19)
+
+where H = a˙ is the Hubble parameter, and since δF is related to δφ, so one can use
+either as the representative. Note that δφϕ becomes δφ in the uniform-curvature gauge which takes φ ≡ 0 as the gauge condition. The perturbed action in a unified form may be expressed as [37, 48],
+δS = 1 ∫ a3Θ (δφ˙ 2 − 1 δφ|νδφ	+	1 H "a3Θ  φ˙ !.#.δφ2 ) dtd3x,	(3.20)
+
+
+/
+2
+1+ 3F˙ 2
+
+/
+ϕ	a2	ϕ
+ϕ,ν
+a3Θ φ˙	H	ϕ
+
+where, Θ = 1+  F˙  2 , makes all the difference between generalized theory of gravity under
+consideration and General Theory of Relativity with a minimally coupled scalar field, for which Θ = 1. The equation of motion of δφϕ then takes the following form,
+
+δφ¨ϕ +
+(a3Θ)˙
+
+/
+a3Θ
+δφ˙ϕ −
+∇(3)2
+
+/
+a2
+ 1  H
++ a3Θ φ˙
+
+a3Θ
+  φ˙ !.#.)
+
+/
+/
+
+δφϕ = 0.	(3.21)
+
+Now, the perturbed form of the background equation (2.19) can be expressed3 as,
+δφ¨ + 3Hδφ˙ − ∇	 + 1 2V jj − fjj δφ  = 0,	(3.22)
+where, ∇(3)2 is the Laplacian based on the comoving part of the background three-space metric. Equation (3.21) reduces to the perturbed form (3.22) of the background metric equation (2.19) under the following conditions.
+(a3Θ)˙
+a3Θ  = 3H	(3.23)
+1 H "a3Θ  φ˙ !.#.	1 2V jj − fjj = θ0,	(3.24)
+a3Θ φ˙	H	2
+where, θ0 is a constant. Now, the above pair of conditions (3.23) and (3.24) lead to
+Θ = constant,	(3.25)
+2V j − fj = 2θ0φ,	(3.26)
+where we have set the constant of integration in (3.26) to zero. In the process we find exactly the same relationship (2.21) between the generalized parameter f(φ, R) and the potential V (φ), under the choice θ0 = 2H2, as was found while seeking inflationary solution of the classical field equations in the de-Sitter exponential form. This fact proves without ambiguity that the model under consideration (1.2), allows de-Sitter expansion in the inflationary regime rather than the power law expansion. Further, it also proves that the technique followed to find gravitational perturbation for non-standard models is legitimate. This is another important finding of the present work.
+Now, introducing new variables, z ≡ a√Θ φ˙  and v ≡ √Θaδφϕ, one can express the
+above equation (3.21) in terms of ϕδφ as
+v,ηη +  k2 − z,ηη  v = 0.	(3.27)
+In the above, comma denotes ordinary derivative.	The asymptotic solutions of equa-tion (3.27) in the large-scale (k2 ≪ z,ηη ) and small-scale (k2 ≫ z,ηη ) limits are,
+
+z
+φ˙	∫ t
+
+/
+z
+1  H2
+
+/
+
+
+/
+  1	 h	ikη	−ikη i  1 
+where, C(x), D(x) are integration constants of the relatively growing and decaying modes
+and c1(k), c2(k) are arbitrary integration constants, respectively. Further, as z,ηη	 n
+where n = constant, the solution of equation (3.21) can be expressed in the following form [51–53],
+
+√π|η| h
+
+/
+/
+
+(1)
+(2)	i  1
+/
+
+
+/
+3Here, φ = φ¯ + δφϕ and φ˙ = φ,iui. So that φ˙ = (φ¯ + δφϕ),i(u¯i + δui).
+
+where C1 and D1/are integration constants, ν = qn + 1 and the Hankel functions
+
+H(1,2)(x) → ±
+Γ(ν)( 2 )ν
+iπ	.
+
+Perturbative semiclassical approach
+In the post Planck era gravity should be treated classically, while the matter fields still behave quantum mechanically. ‘Quantum Field Theory in Curved Space-Time’ (QFT in CST), treats gravity classically while the energy-momentum tensor is quantized. For Gen-eral Theory of Relativity, it is expressed as Gµν =< Tµν >, where the quantum operator
+< Tµν > is a suitably renormalized expectation value. The perturbative semiclassical ap-proximation under consideration in this subsection, is quite different from QFT in CST. In this technique, the perturbed parts of the metric and matter fields are treated as quantum mechanical operators, keeping the background parts classical [45–47]. Since, we derive the perturbation spectra generated from the quantum fluctuations in an early scalar field dominated accelerating (inflation) phase, therefore this approach appears to be more le-gitimate than QFT in CST. However, we shall use the result of QFT in CST to choose appropriate vacuum.
+Instead of the classical decomposition, we are therefore required to replace the perturbed order variables with the quantum operator in Heisenberg representation of
+δφˆ(x, t) as,
+
+φ(x, t) = φ(t) + δφˆ(x, t);	δφˆϕ
+= δφˆ −
+φ˙
+/ϕˆ.	(3.31)
+H
+
+Note that the background order quantities are considered as classical variables. Now, in the flat space under consideration it is possible to expand δφˆ(x, t) in the mode expression as
+
+ˆ	∫	d3k/ h
+
+ik.x
+†	∗	−ik.xi
+
+
+where, the annihilation and creation operators, aˆk and aˆ†k satisfy standard commutation relation:
+[aˆk, aˆk′ ] = 0 = aˆ†k, aˆ†k′ , and,	aˆk, aˆ†k′  = δ3(k − kj),	(3.33)
+while δφk(t) is the mode function, a complex solution of the classical mode evolution equation (3.21). Equal time commutation relation must also hold for δφˆ(x, t) and its canonical conjugate momentum, which reads
+h ˆ	ˆ˙	j	i	 i  3	j
+In order that the commutation relations (3.33) and (3.34) hold simultaneously, the mode function should satisfy the Wronskian condition,
+δφϕkδφ˙∗ϕk − δφ∗ϕkδφ˙ϕk =	i  .	(3.35)
+At this stage assuming z,ηη = n , the implication of which has been discussed in details by
+z	η
+Hwang in [47], following solution is found
+δφ	(η) = √π|η| hc (k)H(1)(kη) + c (k)H(2)(kη)i  1 ,	(3.36)
+
+
+/
+where, ν = n + 1 . Coefficients c1(k) and c2(k) are arbitrary functions of k, which are normalized in accordance with (3.35) as
+|c1(k)| − |c2(k)| = 1.	(3.37)
+Clearly imposing quantum condition in (3.35) does not completely fix the coefficients. The remaining freedom depends on the choice of vacuum state. Here, we insert the result of QFT in CST to choose adiabatic vacuum, also known as the Bunch-Davies vacuum in de-Sitter space, which fixes c1(k) = 0 and c2(k) = 1, corresponding to positive frequency solution in Minkowski space limit. The power spectrum therefore takes the form,
+
+k3	2
+/
+k3 ∫	ˆ	ˆ
+
+−ik.r 3
+
+
+where, <>vac≡< vac||vac > is a vacuum expectation value and ak|vac >≡ 0 for every k. Now, assuming adiabatic vacuum, two point function G(xj, xjj) which is defined as,
+
+
+j	jj
+
+ˆ	j	ˆ	jj
+∫	d3k
+
+ik.(x′−x′′)
+
+j	∗ jj
+
+G(x , x
+) ≡< δφϕ(x )δφϕ(x
+) >vac =
+(2π)3 e
+δφk(t )δφk(t )
+(3.39)
+
+∫ ∞ k2dk	j	jj	j	∗ jj
+
+where, x ≡ (x, t), takes the form in the exponential expansion case (η = −  1  ),
+
+
+G(xj, xjj) =
+( 1 −ν2) sec(πν)
+
+/
+×Γ  3
+
++ν,
+3
+−ν; 2; 1; 1+
+(ηj−ηjj)2 −(xj−xjj)2 	1	
+/
+
+16πajajjηjηjj	2	2
+4ηjηjj
+ΘjΘjj
+(3.40)
+
+which is valid for ν < 3 . At the equal time, the vacuum expectation value reads
+ˆ	ˆ	∫	d3k	ik.r	2	∫ ∞
+
+In the small scale limit the solution (3.36) takes the form
+δφ	(η) =	1	e−ikη+i(ν+ / )  .	(3.42)
+ϕk			2 2
+a  2kΘ
+On the contrary, in the large scale limit we can write from (3.36)
+
+
+
+δφϕk(η) = i
+
+and the power spectrum reads
+2a√πΘ	2
+,	(3.43)
+
+ Γ(ν)   k|η|  3 −ν  1 
+
+Pδφˆϕ (k, η) =
+π 2 a|η|	2
+√Θ .	(3.44)
+
+Since Θ is a constant in view of (3.25), so the power spectrum may deviate only by a constant factor from the minimally coupled case for which Θ = 1.
+
+Concluding remarks
+
+In the absence of a complete theory of gravity, quantum cosmology is studied to perceive the evolution of the universe in the Planck regime, when gravity is quantized. Shortly after the Plank’s era, gravity becomes classical, while the matter fields still remain quantized. In this era, the universe went through an inflationary phase. The seed of perturbation grows, which finally leads to the structures we observe. In this manuscript, we have found the wave-function of a model universe which contains scalar curvature squared term. The effective Hamiltonian operator is hermitian and standard quantum mechanical probability interpretation holds, which prove that the wave-function is stable and well behaved. The model universe transits smoothly to a de-Sitter type inflationary phase, and inflationary pa-rameters have been found to be very much within the observational limit. The perturbation analysis shows that only de-Sitter solution is allowed, since it relates the coupling parameter and the potential in the same manner as de-Sitter solution to the classical field equations does. Perturbative semiclassical approximation method has been pursued in which the per-turbed parts of the metric and matter fields are treated as quantum mechanical operators, keeping the background parts classical. In the process, we derive the perturbation spectra generated from the quantum fluctuations in an early scalar field dominated de-Sitter phase. The power-spectrum deviates only by a constant term from the minimally coupled case.
+Regarding the canonical quantization scheme followed here and the results obtained in the present manuscript, there are a few important issues to discuss. We have at least in one case (G-B-dilatonic coupled gravity in the presence of scalar curvature squared term) proved that the known standard techniques ([17–20]) regarding canonical formulation of higher order theory of gravity do not produce a viable quantum theory, since these techniques don’t reveal correct classical analogue under semi-classical approximation [30]. It is therefore legitimate to follow the technique of canonical formulation, which is well behaved in all the cases studied so far. Here, we have considered a modified (with higher order term) non-minimally coupled scalar-tensor gravitational action, and aimed at studying the very early universe. Canonical formulation in isotropic and homogeneous background has been performed following modified Horowitz’ formalism, which has been extensively applied earlier in different situations. The most important result as already mentioned may be summarized in the following manner. The forms of the coupling parameter f (φ) and the potential V (φ) obtained following perturbative analysis, dictates that the classical field equations must admit de-Sitter type exponential expansion in the inflationary regime. The wave function of the universe also admits the same de-Sitter type expansion under semiclassical approximation. This means that the very early universe smoothly transits to exponential expansion (inflationary) phase. This result proves overall consistency of the present study. Finally, although we are neither the proponents of multiverse theory nor do we oppose it as a topic of theological discourse, it should be mentioned that a stable quantum dynamics in the Trans-Planckian era doesn’t in any way rule out the possibility of multiverse, which may have been created during the next inflationary phase. The potential we found is sufficiently flat when the scalar field is large enough, and therefore the possibility of multiverse is nascent in the quantum fluctuation of such a field.
+
+Hermiticity of the effective Hamiltonian Hˆe
+To prove that the effective Hamiltonian is hermitian, let us split it as
+Hˆe = Hˆ1 + Hˆ2 + Hˆ3 + Vˆe,	(A.1)
+
+
+where,
+
+ˆ	k2   1 ∂2
+
+n ∂ 
+
+/
+
+
+ˆ	k2	∂2
+
+H2 = − 3xσ 4 ∂φ2 ,
+(A.2)
+
+ˆ	ik  φ3 + 6f1   ∂	ik  φ3 − 12f1 
+
+H3 = 3σ	φ2
+Let us first take the very first term.
++	.
+∂φ	6σ	φ3
+
+∫	ˆ	∗
+k2  ∫   1 ∂2ψ∗
+n ∂ψ∗ 
+k2  ∫   ψ ∂2ψ∗
+nψ ∂ψ∗ 
+
+(H1ψ
+)ψdx = − 54B
+x ∂x2  + x2 ∂x
+ψdx = − 54B
+x ∂x2  + x2
+dx
+∂x
+(A.3)
+
+Under integration by parts twice and dropping the first (integrated out) term due to fall-of condition, we obtain,
+
+∫	ˆ	∗
+k2 ∫
+∗  1 ∂2ψ
+  2 + n  ∂ψ
+2(n + 1)
+
+(H1ψ
+)ψdx = − 54B
+k2 ∫
+
+/
+ψ	x ∂x2 −
+∗  1 ∂2ψ
+/
+x2	∂x +
+1 ∂ψ	∫
+
+/
+x3	ψ dx
+∗ ˆ
+(A.4)
+
+
+under the choice n = −1. Thus, Hˆ1 is hermitian, under a particular choice of operator ordering parameter n = −1. It is trivial to prove that Hˆ2 is hermitian. We therefore turn our attention to Hˆ3.
+∫ (Hˆ ψ∗)ψdφ = − ik ∫  φ + 6f1  ∂ψ∗ ψdφ − ik ∫  1 − 12f1  ψ∗ψdφ.	(A.5)
+Again under integration by parts and dropping the integrated out terms due to fall-of condition, it is possible to arrive at
+∫ (Hˆ ψ∗)ψdφ = ik ∫ ψ∗  φ + 6f1  ∂ψdφ + ik ∫  1 − 12f1  ψ∗ψdφ = ∫ ψ∗Hˆ ψdφ,
+
+3	3σ
+φ2	∂φ	6σ	φ3
+3
+(A.6)
+
+and the Weyl symmetric ordering performed between f j(φ) and pφ turns out Hˆ3 to be hermitian operator, and thus the effective Hamiltonian (Hˆe) as such is hermitian operator.
+
+Canonical formulation following standard techniques
+While in the methodology of canonical formulation of higher order theory of gravity adopted here, we insist on fixing the three-space metric hij and the Ricci scalar R at the boundary,
+
+the standard methods keep hij and the extrinsic curvature tensor Kij fixed at the boundary, instead. In the process, all the boundary terms, obtained under integration by parts vanish and there is no need to supplement the action by boundary terms as presented in action (2.1). As a result it is legitimate to start with action (1.2). In the appendix, we show that canonical formulation following some standard methods lead to a unique Hamiltonian. However it is different from and is not canonically related to the one (2.13) obtained in the manuscript.
+
+Ostrogradski’s formalism
+The Hamiltonian formulation of theories with higher derivatives was first developed by Ostrogradski more than one and half a century ago [17], which gives special treatment to the highest derivatives of the original Lagrangian, so that the initial higher-order regular system be reduced to a first-order system. Ostrogradski’s theorem can be stated as follows: if the higher order time derivative Lagrangian is non-degenerate, there is at least one linear instability in the Hamiltonian of this system. Basically, the method [17] is adopted only to systems described by regular Lagrangian, that is, a Lagrange function for which the associ-ated Hessian matrix formed with respect to the highest-order time derivatives has a nonzero determinant. The underlying idea of this method and of its subsequent generalizations con-sist in introducing, besides the original configuration variables, a new set of coordinates that encompasses each of the successive time derivatives of the original Lagrangian coordi-nates so that the initial higher-order regular system be reduced to a first-order system. In Ostrogradski’s formalism [55, 56], if a Lagrangian contains maximum order of m-th time
+
+...
+derivatives of the generalized coordinate qi, in the form L = L(qi, q˙i, q¨i, q i . . . ,m
+qi), where,
+
+mq = (  d )m, then one should choose m independent variables (q , q˙ , q¨ , ... . . . ,m−1 q ) and
+
+i	dt
+i	i	i q i	i
+
+corresponding m generalized momenta pi,0, pi,1, pi,2 . . . pi,m−1 according to the recurrence
+
+relations, p
+i,m−1
+=  ∂L , and p
+i
+i,n−1
+=  ∂L
+i
+— p˙
+i,n
+, for n = 1, 2, . . . m − 1. With these new
+
+independent coordinates and their corresponding momenta, the Legendre transformation
+to express the pase-space Hamiltonian reads
+
+N  m−1
+HO = Σ Σ q˙αpi,α − L.	(B.1)
+i=1 α=
+
+Starting with action (2.4), apart from the supplementary boundary terms, we therefore, for the present purpose require two variable z and x, where x =  z˙  = −2Kij. The action (2.4)
+may therefore be expressed as,
+
+∫ "	√
+9B	2
+/
+3  φ˙2	!#
+
+/
+
+
+
+Since, the Hessian determinant vanishes, so the corresponding Lagrangian is singular, and as a result, canonical formulation following Ostrogradski’s formalism is not possible. How-ever, if we make a gauge fixing N = 1 a-priori, the Hessian is non-vanishing and Ostro-
+
+gradski’s technique may be pursued. The canonical momenta in that case are,
+
+px = 3f
+√z +
+18B
+√z (x˙ +2k) ;	pz =
+∂L
+
+/
+∂z˙
+— p˙x = −
+18Bx¨
+√z  +
+9Bx
+
+/
+3
+z 2
+(x˙ + 2k) − 3f jφ˙√
+/	3fx z − 2√z ;
+
+pφ =
+φ˙z 3
+.	(B.3)
+N
+
+In terms of phase space variables the Hamiltonian reads,
+√z	fzpx	f 2z 2	2	3
+
+HO = xpz + 36Bpx − 2kpx − 6B +
+Dirac’s constraint analysis
++	3
+4B	2z 2
++ V z 2 .	(B.4)
+
+As already mentioned, for arbitrary N , the Hessian vanishes, and so canonical formulation may be pursued following Dirac’s constraint analysis [18, 19]. We introduce (  z˙  − x) = 0 through Lagrange multiplier λ, and the point Lagrangian corresponding to action (2.4) therefore reads,
+
+Canonical momenta are
+N √z
+
+/
+2
+2N	N
+
+˙ 3
+
+√/	18B
+λ	φz 2
+
+px = 3f	z + N √z (x˙ + 2kN ), pz = N , pφ = N , pN = 0, pλ = 0	(B.6)
+The constraint Hamiltonian therefore is
+Hc = x˙px + z˙pz + φ˙pφ + N˙ pN + λ˙ pλ − L	(B.7)
+Clearly we require three primary constraints

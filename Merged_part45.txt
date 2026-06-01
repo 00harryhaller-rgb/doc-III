@@ -1,0 +1,2156 @@
+is a result of some new dynamics occurring right now. Cosmologists have been concentrating on building models for acceleration of the latter type. Whereas no natural model for the acceleration has yet been found, the ones proposed have allowed the physics community to think more creatively about how else cosmic acceleration can be generated and where else one can look for its signature Until recently, most of the models of dark energy concentrated on introducing a new form of matter, usually a scalar field with some extremely flat potential. As the universe expands, the density of pressureless dark matter decreases until the dark energy becomes dominant and begins to drive the dynamics. Some models of such
+“quintessence” are described in §2.4.
+This dissertation surveys the implications of a different idea: we suppose that despite our having tested general relativity (“GR”) to a high precision on Earth and
+
+3
+in the solar system, we do not actually know how gravity behaves on cosmological scales. In this framework, the acceleration is a result of a modification to gravity at low curvatures. Instead of modifying the right-hand side of Einstein’s equations by adding a new source of stress-energy, we attempt to suggest methods of modifying the left-hand side.
+There are many possibilities for such modifications, once the floodgates are open. We investigate the implications for cosmology and local tests of gravity of various exampular models in order to try to build an understanding of the classes of modific-ations we are allowed to perform without breaking those features of gravity of which we are certain. We then turn to detailed cosmological calculations for the models to understand the kinds of signatures in cosmological data that are possible when gravity is modified. Eventually, we hope to be able to make some model-independent state-ments about the limits to modifications of gravity as a result of some post-Friedmanian parameterisation. Alas, this remains outside the scope of this dissertation.
+In §2.1, we provide introductory detail on how the cosmological constant fits into the framework of general relativity and how it affects its solutions, then moving onto the observational methods that are used to infer the existence of dark-energy in §2.2. We then proceed to discuss linear perturbation theory in general relativity and we derive some of the results which lead to cosmological tests of structure formation and the cosmic microwave background §2.3. Finally, we will briefly survey some other models of dark energy §2.4.
+We then move onto a discussion of a braneworld modification of gravity of Dvali, Gabadadze and Porrati [13] in §3. In this model, the acceleration of the universe is caused by the embedding of our universe in a higher-dimensional space. We develop linear perturbation theory in such a scenario and verify how well such a model fits
+
+4
+to current data. We find that the strength of the ISW effect in the CMB is much too high to allow for a standard scale-free initial power spectrum for perturbations. We develop a test, combining data from the CMB and the distribution of galaxies, which is largely independent of the initial power spectrum and produces a signature very different from general relativity. Next generation of surveys should be able to exclude the model definitely.
+We then move onto the class of f (R) models related to the inverse-curvature model of Carroll, Duvvuri, Trodden and Turner (“CDTT”) [14] in §4. The particular modification proposed by CDTT was quickly shown to not pass solar-system tests of gravity. However, we develop an understanding of the features required by such models to allow them to resemble general relativity much more closely and we propose a class of models which has ΛCDM as one of its limits. We conclude that it is not actually solar-system tests, but the structure of dark-matter halos in these modified models of gravity that will determine how likely they are to be excluded. However, even in the most conservative scenarios, where the halos are unchanged from ΛCDM, these models produce a distinct signature in cosmological tests which may well be found with next-generation surveys.
+Finally, we move onto a class of Modified-Source-Gravity models, first introduced by Carroll, Sawicki, Silvestri and Trodden [15] in §5. These are models which do not introduce a new degree of freedom into the theory, but change its constraint structure. We find that the linear theory in these models is unstable; however, they return to GR by design as densities become larger and therefore should stabilise, reproducing viable cosmologies.
+A common theme appearing in all the considered cases is the fact that perhaps the strongest test for modifications of gravity might come neither from solar-system tests,
+
+5
+nor from cosmological ones, but from understanding exactly how non-linear structure is formed in these models. Unfortunately, this is a very difficult problem, even in general relativity. Generically, in modified gravity, the effective Newton’s constant can be interpreted as being a function of local density. This largely invalidates the methods which are currently being used to test the predicted formation of halos. However, it will only be when this tool is developed, in addition to improvements in constraints from cosmological data, that we will be able to say with any kind of definiteness whether models which modify gravity result in a universe that is at all like the one in which we believe we live.
+
+CHAPTER 2
+A FEW WORDS ON COSMOLOGY
+
+General Relativity and the Cosmological Constant
+
+General relativity is defined through its equations of motion, the Einstein equations, relating the curvature of spacetime to the local stress-energy
+
+
+µ  = κ2Tµ
+,	(2.1)
+
+
+where κ2 = 8πG and we have set c = 1. We obtain the cosmological solutions by assuming that the metric has the most general isotropic and homogeneous form, the Robertson–Walker metric
+ds2 = −dt2 + a2(t) hdr2 + r2(dθ2 + sin2 θdφ2)i ,	(2.2)
+
+
+where we have assumed for simplicity that the spatial hypersurfaces are flat. The dynamics of such a metric are encoded in the time-variation of the scale factor, a(t).
+For cosmological purposes, it is assumed that the universe be filled with a perfect fluid with the energy-momentum tensor
+
+Tµν = (ρ + p)uµuν + pgµν ,	(2.3)
+
+where ρ is the energy density, p the pressure and uµ the fluid velocity. In the rest-frame of the fluid, the energy-momentum tensor becomes
+
+ν = diag(−ρ, p, p, p) .	(2.4) 6
+
+7
+We can define the equation-of-state parameter to relate the pressure and density
+
+
+p ≡ wρ ,	(2.5)
+
+
+with w = 1/3 representing a traceless energy-momentum tensor for conformal matter (such as radiation or other relativistic particles), and w = 0 for “dust”, or matter for which the pressures are non-relativistic.
+The Einstein equations then lead to the two Friedman equations
+
+
+H2 =
+κ2ρ
+
+/
+3
+,	(2.6)
+
+a¨
+a = −
+κ2ρ
+(1 + 3w) ,	(2.7)
+6
+
+
+with H := a˙/a the Hubble parameter, and the conservation equations result in
+
+
+ρ˙ + 3Hρ(1 + w) = 0 ,	(2.8)
+
+
+implying that the density evolves as
+
+ρ 𝖺 a−3(1+w) .	(2.9)
+
+We can rewrite the Friedman equation Eq. (2.6) to define contributions to total matter density
+H2 = H2h2 Ωma−3 + Ωra−4 + Ωka−2 + ΩDEa−3(1+w)  ,	(2.10)
+
+with the terms on RHS representing contributions from matter, radiation, curvature and dark energy, respectively, and their scaling with the scale factor. HO = 2997.9 Mpc−1 is the Hubble constant. It is important to note here that some experiments put con-
+
+8
+straints on the physical matter density Ωmh2 (CMB), while some constrain Ωm by itself (supernovae). Combination of these data sets imputes the value of the Hubble parameter to be h = 0.72.
+From Eq. (2.7), we can see that an accelerating universe requires that the effective equation-of-state parameter be less than −1/3.
+One can add a constant term to the Einstein equations Eq. (2.1)
+
+
+
+µ  + Λδµ
+= κ2Tµ
+,	(2.11)
+
+
+
+as was indeed done by Einstein in order to permit a static solution for the cosmo-logy. As a modification on the LHS of the equations, the cosmological constant Λ is presaging a class of modifications of gravity which we will discuss in detail in §4. The effect of this addition is to eliminate flat Minkowski space as a vacuum of the theory and replace it with de Sitter space expanding (or contracting) at a constant rate. (For a review, see [16, 17].)
+Traditionally, however, Λ is brought over to the right-hand side of the equations and reclassified as a new contribution to the energy content of the universe. A com-parison with Eq. (2.4) allows us to conclude that a cosmological constant acts as a perfect fluid with negative pressure p = −ρ, or w = −1. As such, Eq. (2.9) implies that the energy density stored in the cosmological constant remain constant as the universe expands.
+The cosmological constant represents vacuum energy. In quantum field theory, such a term would be represented by loop diagrams with no external legs: vacuum to vacuum transitions. In Minkowski (flat) space, such transitions are removed by normal ordering or, equivalently, by absorbing them into an overall partition func-tion in the path-integral formalism. However, gravity couples to the absolute energy
+
+9
+density and it is no longer possible to discard such contributions. We could attempt to estimate their size
+
+Λ
+ρvac ≡ κ2 ∼
+
+kmax
+O
+d3k 2(2π)3
+qk2
+
++ m2
+
+∼ kmax ,	(2.12)
+
+
+with such a contribution for each species in the theory. If we believe that the standard model is the correct effective theory up to the scale of quantum gravity, then the appropriate cut off is the Planck mass
+
+kmax ∼ MPl ∼ 1018	GeV .	(2.13)
+
+Measurements of the acceleration imply that the energy scale of the cosmological constant is
+Mc.c. ∼ 10−3	eV ,	(2.14)
+which gives a discrepancy of energy scales thirty orders of magnitude. This is the cosmological-constant problem. It can be somewhat ameliorated by supersymmetry as a result of the cancellation of loop contribution by superpartners: fermions and bosons contribute to the loop calculation with opposite signs. However, this would only occur above the supersymmetry-breaking scale, which is not less than MSUSY ≥ 1 TeV, still fifteen orders of magnitude away.
+Another problem with the cosmological constant is that it has a value that is very similar to the energy density in matter today
+
+
+ρvac ρm
+= Ωvac
+Ωm
+∼ 3 .	(2.15)
+
+
+Because of the completely different scaling of the two energy densities, such a period
+
+10
+of equality occurs only once in the history of the universe, where, for most of its history, one form of matter completely dominates over any other. Why are we here right now to witness it? This problem is called the coincidence problem.
+
+Measurements of Background Evolution
+
+The discovery of dark energy is largely owing to our ability to map the expansion history of the universe, which is based on the principle of measuring the distance to chosen objects from some class and mapping that as a function of redshift. Measuring the redshift is reasonably simple: one looks for known features in the spectrum (emis-sion from particular atomic species) and compares the wavelength with the reference on Earth. The ratio of the wavelengths is the redshift.
+A much more difficult proposition is the measurement of distance. In fact, even the definition of distance is not a simple issue in an expanding universe. The appropriate measure depends on what is being observed. For one, we can define the proper distance from the metric, by setting following the null geodesic (and assuming that
+the universe be flat):
+d = ∫ dt = ∫ O  dz  ,	(2.16)
+
+where the redshift is defined as 1 + z ≡ a−1 and zem is the redshift at which the radiation was emitted. However, if the luminosity L of an object is being measured, then the flux detected on Earth will be
+
+
+L
+F = 4πd2
+L
+= 4π(1 + zem)2d2	(2.17)
+
+
+where dL is the luminosity distance. The reason for the two additional factors of redshift, 1 + zem, is that the energy of the photon arriving at the observer will have
+
+11
+been redshifted during its journey and because it appears that the source is producing photons at a rate that is slower by a factor of the redshift.
+On the other hand, if the angle, ∆θ subtended by an object of known extent, R, is being measured, then there is an additional factor of the scale factor from the metric in the angular distance, dA
+
+R2 = ∆s2 = a2r2∆θ2 ,	(2.18)
+
+
+giving
+dL = (1 + zem)d = (1 + zem)2dA .	(2.19)
+
+Provided there were objects the intrinsic luminosity or extent of which were known, they could then be used to map out the expansion history. Indeed, type-IA supernovae have become standard candles du jour. They do not all have the same luminosity, but can be standardised by measuring various features of their spectrum and its time evolution. The errors are still large but narrowing as models of the mechanisms improve. The farthest supernovae observed so far are at z = 1.4, and so they allow us to probe most of the acceleration era [10]. The supernovae are sensitive to the deceleration parameter, and thus only place limits on the deceleration parameter
+a¨a	1
+q := − a˙2 = 2 (Ωm − 2ΩΛ)	(2.20)
+
+In addition, since the absolute luminosity of these evens is not known, a multiplicative shift is allowed in the data: therefore, the supernovae by themselves do not allow for constraining the value of the Hubble parameter, h.
+Another distance measurement comes from the CMB: the angular size of the first peak in the CMB anisotropy spectrum is the imprint of the sound horizon at the time
+
+12
+of recombination. Since we believe dark energy (or any modifications to gravity) to have been insignificant in the early universe, the physical size of the sound horizon can be calculated from the value of the Hubble parameter, the photon-to-baryon ratio and the redshift of the last-scattering surface. The angular size subtended by this physical scale is then dependent on the evolution of the expansion at late times. Measurements of the position of the first peak constrain the physical combination of parameters (Ωm + ΩΛ)h2, a combination orthogonal to the supernovae. We are thus able to separate the contributions from matter and from dark energy.
+In the case of dark-energy and modified-gravity models, the Friedman equation differs at late times, but will only have a finite number of parameters. These distance measurements allow for these parameters to be constrained, and for some expansion histories to be excluded owing to an evolution history that differs too much from ΛCDM.
+
+Linear Perturbations in General Relativity
+
+Structure in the universe, such as galaxies, halos and the anisotropies in the CMB are believed to originate from fluctuations generated during an early phase of accelerating expansion in the early universe—inflation [18]. Gravity acts to amplify any such perturbations during the evolution of the cosmology. We will discuss below how this occurs and the imprint it leaves on observables.
+During inflation, quantum fluctuations of the de-Sitter background are exten-ded to classical sizes. They are dominated by scalar fluctuations and have a nearly
+scale-invariant power spectrum with a primordial amplitude ∆ζ ∼ 10−5. Tensor per-
+turbations are also generated, but they are severely suppressed compared to scalar modes, and have not yet been detected. Finally, vector modes do not couple to the
+
+13
+energy-momentum tensor and cannot grow, even if they are set up during inflation. We only consider scalar modes in the analysis beneath. The most general scalar perturbations to the FRW metric can be parameterised in the longitudinal gauge as
+
+ds2 = −(1 + 2Ψ )dt2 + a(t)(1 + 2Φ)dx2 .	(2.21)
+
+
+As a result of the constraint structure of GR, perturbations are also generated in the energy-momentum tensor. They can be parameterised as
+
+O = −ρ(1 + δ) ,	(2.22)
+O = (1 + w)ρ∂iq ,	(2.23)
+Ti = ρ(w + c2δ)δi + wρ  ∂i∂ − 1 δi  π .	(2.24)
+
+
+Here ρ is the density of the cosmological background, w ≡ p/ρ is the background
+equation-of-state parameter, and c2 = δp/δρ is the sound speed for the pressure
+perturbations and π is the anisotropic stress in the fluid, only present in fluids with non-vanishing pressure, such as a photon gas or neutrinos, if they have sufficiently small masses.
+The Einstein equations Eq. (2.1), after linearising in the perturbations and fourier transforming the position space to momentum, k, give the constraint relations for the perturbations. In particular, the Poisson equation
+
+
+k2
+a2 Φ =
+κ2ρ
+∆,	(2.25)
+2
+
+14
+where ∆ is the comoving density perturbation defined as
+
+
+∆ := δ − 3H(1 + w)q ,	(2.26)
+
+
+and the anisotropy equation
+
+Φ + Ψ = −κ2wρa2π .	(2.27)
+
+
+In the late universe, when radiation is negligible, it is a good approximation to set the anisotropy π to zero. In GR therefore, the two independent scalar gravitational potentials are effectively equal and opposite
+
+Φ = −Ψ .	(2.28)
+
+
+It is this latter constraint that will be fundamentally changed by modifications of gravity. In GR, this result can be traced back to Birkhoff’s theorem which states that spherically symmetric solutions are unique. This is generically no longer true in modifications of gravity.
+The above equations are then supplemented by conservation equations for the perturbed energy-momentum tensor, ∇µTµν = 0, to give a closed set of time-evolution equations for the perturbations
+ d "   δ	 #	k2	˙
+/	/
+q˙ − 3c2qH + c2  δ	 = −Ψ .	(2.30)
+
+
+This set of equations is best solved numerically, but various limits allow us to un-
+
+15
+derstand some of the behaviour. For example, for matter perturbation modes which are much smaller than the horizon, i.e. k/aH ≫ 1 and w = 0, we can combine these equation into one second-order differential equation for the density perturbation
+
+
+δ𝘫𝘫
+
++  2 +
+H𝘫
+
+/
+H
+
+δ𝘫
+κ2ρ
+= 2H2 δ ,	(2.31)
+
+where the prime signifies differentiation with respect to ln a. Assuming that a partic-ular energy component is driving the expansion of the background, we can solve this equation to obtain the dependence on the scale factor of the growing mode. Doing so, we find that during radiation-domination and the acceleration eras the matter perturbations do not grow, while during matter domination, δ 𝖺 a. Then, given an initial power spectrum for the perturbations, ∆ζ , we can calculate how it will have been processed by gravity during the evolution of the universe, resulting in the matter power spectrum. It can also be shown that modes larger than horizon size, k/aH ⨭ 1, do not grow.
+This calculation is only valid as long as the perturbations remain linear, i.e. there will be a minimum distance scale beyond which we will need to employ N -body simulations. An example of a power spectrum is presented in Fig. 2.1. This power spectrum is being measured by deep-field galaxy surveys such as the SDSS [5, 6], by mapping out the position of galaxies in the universe and finding the correlation function between them. See [19, 20] for recent fits to data.
+Through the Poisson equation Eq. (2.25), the growth of perturbations can be related to the behaviour of the gravitational potential. For example, when ∆ ∼ δ 𝖺 a
+and H2 𝖺 a−3, Φ remains constant. This is also true during radiation domination.
+However, as the universe begins to accelerate and matter perturbation growth slows down, Φ will begin to decay.  This time evolution of the gravitational potentials
+
+16
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+104
+
+
+
+
+
+
+
+103
+
+0.001	0.01	0.1
+k (h/Mpc)
+
+Figure 2.1: Linear matter power spectrum for the ΛCDM model. We start off with a scale-free power spectrum Pi(k) ∆ζk−3 and evolve it according to Eqs (2.25–2.30). Density perturbations do not grow until they enter the horizon and then—
+only during matter domination. This results in the peaked structure for the matter power spectrum, with the most power in the mode which entered the horizon at matter-radiation equality, z   3000, k   0.01h Mpc−1.  For k > 0.1h Mpc−1,
+δ > 1 and non-linear modelling is required. The wiggles in the spectrum beyond k  0.02h Mpc−1 are an imprint of baryons’ oscillations as a result of their coupling to the electromagnetic radiation, and can be used as a geometrical test of gravity (see page 62 for a discussion in the context of DGP gravity)
+
+17
+impacts the power spectrum of CMB anisotropies on the largest scales. Since the potentials are decaying at large distances at the same time, there will now be an additional correlation signal at large angles. This is known as the integrated Sachs-Wolf (“ISW”) effect.
+The CMB anisotropy power is coupled to the combination of the potentials Φ𝘫 −Ψ 𝘫
+and therefore any modification to gravity which introduces a difference between the two potentials, or in their time evolution will register as a modification of the CMB power at the lowest multipoles.
+It is the precise calculation of these two effects in modified theories of gravity that is necessary for the accurate prediction of cosmological observables within these models and the comparison of those with the available data.
+
+Brief Overview of Quintessence
+
+In this section (and indeed in everything that follows, for this is equally an issue for modified gravity), we will assume that there exists some unknown symmetry in nature which removes the coupling of gravity to vacuum energy in exactly those cases we would like (for example, not during inflation). We will assume that Λ = 0 and the acceleration effects are a result of there being new physics, either in the shape of a new form of matter, or a modification of gravity at large scales.
+By looking for other sources of dark energy, we are effectively allowing for an en-ergy component which has an equation-of-state parameter different from w = −1, and most likely time varying (if not, then we effectively have recreated the cosmological constant). In addition, so as not to upset various measurements of structure forma-tion, this form of matter cannot cluster on small scales. For a more detailed review of
+
+18
+such ideas see [21]. It is important to note that currently there is no evidence which would favour such a model [22].
+The simplest model that can be used is one inspired by the mechanism of in-flation: a new scalar field rolling down a potential [23, 24], usually referred to as “quintessence”. In a Friedman–Robertson–Walker background the scalar evolves ac-
+cording to
+
+φ¨ + 3Hφ˙ + ∂V
+∂φ
+= 0 .	(2.32)
+
+The energy-momentum tensor for the scalar field gives the effective equation of state for a scalar-field fluid
+φ˙2	2V (φ)
+w = φ˙2 + 2V (φ) .	(2.33)
+Then, it can easily be seen that dark-energy behaviour for the scalar field requires
+that φ˙2 ⨭ V (φ), i.e. that the field be rolling slowly. Specifying a potential then
+specifies the type of acceleration. For example, exponential potentials, such as
+
+
+V (φ) = VO exp  −s 16π
+φ MPl
+! ,	(2.34)
+
+lead to power-law expansion, a 𝖺 tp, which accelerates for p > 1. These potentials have an additional interesting feature: they exhibit cosmological scaling solutions in presence of another fluid where the ratio of scalar to matter energy densities remains constant during the evolution until some chosen scale, leading to a potential mech-anism to attack at least the coincidence problem [25]. However, in order to try to account for dark-energy domination at the present densities, one has to invariably tune the parameters of the quintessence potential to unnatural values: the small cos-mological constant becomes a small parameter in the lagrangian. For example, for the field to be slowly rolling today, V 𝘫𝘫(φO) ∼ H2, i.e. the mass of the scalar must be
+
+19
+
+
+of cosmological scale
+
+mφ ∼ HO ∼ 10−33	eV .	(2.35)
+
+
+Such a small mass implies that interactions mediated by such a scalar field have a range similar to the radius of the universe. Thus, if it couples to matter at all (even if only through some Planck-mass-suppressed, graviton-mediated loops) it should have been seen in fifth-force tests. One way of avoiding such a feature is through the chameleon mechanism, explored in §4.4, as part of the discussion of modifications of gravity.
+In fact, one can design potentials to replicate virtually any expansion history, provided that w > −1 [26]. Even restricting forms of the potential to polynomials of φ does not significantly reduce the space of potential expansion histories [27]. This means that quintessence-type models are rather unsatisfactory as solutions to the cosmological-constant problem not least for their lack of predictivity.
+
+CHAPTER                   3 DVALI–GABADADZE–PORRATI GRAVITY
+Introduction
+For a first example of modifications of gravity, we turn to a model proposed by Dvali, Gabadadze and Porrati (“DGP”) [13, 28, 29] who suggest that the observed universe might be a brane embedded in a higher-dimensional space-time, with Standard-Model fields propagating only on the brane. Gravity propagates in the bulk and is a (4+1)-dimensional interaction, but on-brane radiative corrections to the graviton propagator result in there being induced an additional, (3+1)-dimensional Ricci scalar in the action. This allows for gravitational potentials on the brane of a usual r−1 form at small distances to evolve into r−2 form beyond a crossover scale determined by the unknown energy scale for the bulk gravity.
+In braneworld setups such as these, the equations of motion for the theory of gravity, pertinent to the study of cosmology, do not close on the brane, but involve interactions with the bulk in an essential way. However, finding the solution for a cosmological background is possible without reference to the bulk and it was shown in [30][31] that this solution features late-time acceleration generated by the geometry of the embedding of the brane in the bulk, without requiring an exotic energy component like dark energy.
+Extending the analysis to linear theory, required for analysing structure formation, is more difficult, however. The interaction with the bulk enters at this order in perturbation theory and cannot be ignored. Koyama and Maartens [32] have used a quasi-static approximation, valid well within the cosmological horizon, to investigate
+
+
+20
+
+21
+structure formation at smaller scales. This solution shows the essential role that the bulk plays in correcting the gravitational potentials, reducing the growth rate.
+Various cosmological probes which can distinguish DGP from dark energy models (DE) have been investigated in the literature [32–42]. These come in two classes: those that test DGP modifications of the expansion history and those that test changes in how cosmological structures are formed. The advantage of the former class is that the predictions of the DGP model are well understood theoretically. The main disadvantage is that they currently lack the power to distinguish the DGP model from the ΛCDM model at high significance. Moreover, expansion rate tests cannot distinguish between the DGP model and an arbitrary form of smooth dark energy that is constructed to mimic it in the background. Structure formation tests on the other hand can in principle solve both these problems. However due to complexities in the theory they currently can only be rigorously implemented on a rather small range of scales.
+In this chapter, we summarise the findings of [43–45]. We start off in §3.2 by deriving the effective equations of motion which govern gravity on the brane. This permits us to find the modified Friedman equation in a new way. We then proceed to develop the scaling solution to the master equation governing the evolution of scalar perturbations in the bulk in §3.3. This allows us to proceed to solve the equations for the evolution of large-scale structure in (3.4) and to understand the limits of the simpler quasi-static approximation, testing our scaling assumption in §A. Finally, we confront our solution with data in §3.5 by combining the two types of tests comparing the predictions for DGP’s effects on the CMB and large-scale structure with available data. We discuss our findings in §3.6.
+These tests do in fact strongly disfavour the simplest version of the DGP model:
+
+22
+a modification of gravity in a spatially flat cosmology with no bulk cosmological constant. The best-fit DGP model has a significant negative curvature and a high Hubble constant. Even with the addition of spatial curvature, it is a slightly poorer fit to the data than flat ΛCDM. This model has a strikingly different expansion history to ΛCDM and would be ruled out on the basis of the baryon acoustic oscillations (BAO) in galaxy clustering [42, 46], the abundance of galaxy clusters, and fluctuations in the Lyman-α forest. However, these probes rely on a good understanding of non-linear theory, which is beyond the current understanding for DGP gravity and therefore are not robust as tests. However, using our scaling approximation, structure formation in DGP is currently well understood on scales between the Hubble scale and the scale radius of a typical dark matter halo. Large-scale CMB anisotropy is substantially enhanced by the Integrated Sachs-Wolfe (ISW) effect. At the lowest multipoles, this excess poses a significant challenge for the model. Possible resolutions of this problem still leave a robust prediction and sharp test of the DGP model: high-redshift galaxies should be substantially correlated with the CMB.
+
+DGP Dynamics
+
+On-Brane Field Equations
+We start with a single 3-brane embedded in a five-dimensional bulk M. We will as-sume that all the standard-model fields are confined to the brane. Gravity propagates in the bulk and is a fully five-dimensional interaction, but, as first proposed in the model of Dvali, Gabadadze and Porrati [13], there is an on-brane radiative correction to the graviton propagator resulting in the induction of an on-brane, four-dimensional Ricci scalar in the effective action. Generalising the DGP model slightly, we will init-
+
+23
+allially allow for both a nonzero brane tension, λ, and bulk cosmological constant, Λ. No fields propagate in the bulk other than gravity. We thus write down the action:
+
+S = ∫Md
+x√−g
+(5)R
+ 2κ2 − Λ −
+K+
+κ2 −
+K− + δ(χ)
+κ2
+(4)R
+ 2µ2 − λ + LSM
+
+
+,	(3.1)
+
+
+where gµν is the metric in the bulk, (5)R is the 5D Ricci scalar, (4)R is the induced 4D Ricci scalar, χ parameterises a vector field such that χ = 0 coincides with the position of the brane everywhere (we assume that such a vector field exists); a particular choice for this vector field is nµ, defined in Eq. (3.4). K± is the trace of the extrinsic curvature of either side of the brane; this term is the Hawking–Gibbons term necessary to reproduce the appropriate field equations in a space-time with a boundary. The appropriate energy scales are represented by κ2 = 8πM5−3 for the true 5D quantum
+gravity scale and µ2 = 8πM4−2 for the induced-gravity energy scale on the brane.
+Finally, LSM is the standard-model lagrangian, with fields restricted to the brane.
+The ratio of the two gravitational scales, the cross-over scale,
+
+
+rc :=
+κ2
+
+/
+2µ2
+ M 2
+2M 3
+
+was shown by Dvali et al. [13] to appear in the propagator of the graviton in the 5D-bulk DGP theory. It is at this distance scale that the potential owing to one-graviton exchange undergoes a transition from 4D to 5D behaviour. Also, Deffayet [30] has shown that an FRW cosmology enters a self-accelerated phase when H ∼ rc−1. If we wish to explain the cosmological acceleration using this phase, then we need to set rc ∼ 1 Gpc, i.e. approximately the current Hubble radius. Dvali et al. [13] show that, at distances much smaller than rc, when expanded around the Minkowski background, µ2 enters the gravitational potential as the constant of proportionality, i.e. µ2 = 8πG.
+
+24
+This forces us to set M4 ≡ MPl = 1028 eV and, therefore, M5 ∼ 100 MeV. This scale is unfortunately too low to allow us to claim that this model is entirely natural, but we will continue nonetheless.
+Varying the action leads to the following equation of motion:
+
+
+
+(5)  µ
+ν
+= κ2Tµ
+,	(3.3)
+
+
+where the indices run over all the five dimensions, from 0 to 4. We write down the induced metric on the brane as
+
+qµν = gµν − nµnν ,	(3.4)
+
+
+with nµ a spacelike vector field with unit norm, normal to the brane at χ = 0. We can then write down the energy-momentum tensor as
+
+Tµν = −Λgµν + Sµνδ(χ) ,	(3.5) with the on-brane contribution described by
+Sµν = τµν − λqµν −  1  (4)Gµν .	(3.6)
+
+Here, (4)Gµν is the Einstein tensor obtained by varying the usual ∫ d4x (4)R, restric-ted to exist on the brane, while τµν is the energy-momentum tensor resulting from varying LSM with respect to qµν . As already mentioned, the bulk is empty, save for a cosmological constant Λ.
+We then proceed by following the methodology first proposed in [47]: we carry out a 4 + 1 decomposition of the theory (3.3) and calculate the effective on-brane field
+
+25
+equations. This result was first obtained in [48].
+We use the Gauss equation to calculate the Riemann tensor on the brane:
+
+
+
+α
+βγδ
+µ		α	ν		ρ νρσ		µ		β		γ
+σ + Kα
+Kβδ − Kα Kβγ ,	(3.7)
+
+
+where Kµν := qα q ν ∇αnβ is the extrinsic curvature of the brane. We can compute
+this curvature by assuming a Z2 symmetry of the codimension; using the Israel junc-tion conditions for the jumps in the induced metric and the extrinsic curvature across the brane [49], we obtain
+
+
++	+
+µν	µν
+− qµ−ν
+=: [qµν ] = 0	(3.8)
+
++ = [Kµν ] = −κ2  Sµν − 1 qµν S  .	(3.9)
+
+
+We now contract Eq. (3.7) appropriately and, after some manipulation, we obtain the equation for the 4D Einstein tensor:
+
+λκ4 ! (4)
+/
+  κ2
+
+/
+κ4λ2 !
+
+/
+
+/
+λκ4	κ4
+
+/	/
+
+
+where the tensors fµν and Eµν are defined as
+
+fµν :=  1  AAµν − 1 A αAνα + 1 qµν  A	Aαβ − 1 A2	(3.11)
+Eµν = (5)C⊥α⊥β α	β ,	(3.12)
+
+
+
+with
+
+Aµν := (4)Gµν − µ2τµν .	(3.13)
+
+
+
+Eµν is the projection onto the brane of the bulk Weyl tensor (5)Cα
+(⊥ signifies
+
+26
+an index contracted with nµ). fµν describes brane terms that are quadratic in τµν and Gµν ; henceforth we will drop the superscript (4) and assume all quantities are four-dimensional unless otherwise specified.
+We can recover the standard Einstein equations from Eq. (3.10) by sending the brane tension λ to infinity, i.e. in the limit when the brane is ‘stiff’.
+The difference between DGP gravity and the standard Randall–Sundrum result of [47] is the presence of the 4D Einstein tensor in Sµν , resulting in additional terms
+containing (4)Gµν explicitly: we now have an equation which is quadratic in the
+Einstein tensor, i.e. curvature can act as a source of curvature, leading to a potentially non-zero Ricci in the vacuum (as obtained, for example, by Gabadadze and Iglesias in [50, 51] for their solution for a point mass in DGP). This decoupling of the Ricci from the value of its general-relativistic constraint is a common feature of scalar-tensor theories, of which DGP is an example. We discuss this behaviour more closely as part of out investigation of f (R) theories in §4.
+
+Cosmological Background
+The quadratic nature of Eq. (3.10) makes this formulation computationally imposing. In addition, it was already noted by Shiromizu et al. in [47] that the transverse-traceless component of Eµν contains the information about gravitational radiation coming off and onto the brane as well as the transition from 4D to 5D gravity, and its evolution is necessarily dependent on the state of the bulk: the equation of motion for Eµν does not close on the brane.
+Nevertheless, the large symmetry of a Robertson–Walker universe allows us to
+make progress. Choosing Gaussian-normal co-ordinates, with the brane positioned at
+
+27
+y = 0 and a Robertson–Walker metric on the brane, our bulk metric becomes [30]: ds2 = −n2(t, y)dt2 + b2(t, y)γij dxidxj + dy2 ,	(3.14)
+and we are allowed to pick the normalization such that n(t, 0) = 1 by rescaling the time variable; γij is a 3D maximally-symmetric spatial metric. We also define the value of A on the brane: a(t) := A(t, 0).  In these co-ordinates, the 4D-tensor
+components are significantly simplified. We thus obtain for Gµ :
+
+O	 a˙2	 k !
+/
+i	a¨	a˙2	 k ! i
+/
+µ	 a¨	a˙2	 k !
+/
+
+
+with the dot representing differentiation with respect to the t co-ordinate. In addition, we assume that the brane is filled with a homogeneous distribution of a perfect fluid, such that
+
+ν = diag(−ρ, p, p, p)	(3.18)
+p = wρ .	(3.19)
+
+This allows us to obtain the 0-0 component of the quadratic tensor fµν of (3.11):
+
+O	 1  " 2	 a˙2	 k !#2
+/
+
+
+The remaining issue is the tensor Eµν .	It can be shown that, for branes with maximally-symmetric spatial hypersurfaces, the projected Weyl tensor must take the
+
+28
+form Ca−4, with C a constant (see [52]: it is effectively a constant of integration for the background); because of this scaling with a, this term is sometimes referred to as dark radiation (see, for example, the review of Maartens [53]), although we will term it the Weyl fluid. Since the Weyl tensor is traceless, it will dilute as rapidly as radiation and will become irrelevant at late times, if it doesn’t completely dominate the dynamics initially. For the moment, we will keep this term in the background equations, although ultimately we will set it to zero.
+Substituting the above into Eq. (3.10) and replacing a˙ with H, we obtain a quad-
+ratic equation for the energy density (or, equivalently, for H2):
+
+κ4 2	 λκ4	κ4	2	 k !!	3 κ4	2	 k !2
+/	/	/	/
+κ4λ!	2	 k !	κ2	κ2λ2 !	C
+/	/	/
+/	/
+
+where k = −1, 1, 0 depending on whether the spatial hypersurface on the brane has negative, positive or no curvature. We can write this relation as a version of the Friedman equation with modified dependence on the Hubble parameter,
+2	2µ2 ,u,	2	k !	κ2	C	µ2	k
+
+
+
+So, provided that the Λ and C terms remain negligible, and H2 +  k
+a
+µ2
+≫ 2 κ2 , the
+
+evolution of the scale factor in the early universe does not differ from that in standard FRW cosmology. As H decreases, the evolution becomes non-standard; this can be demonstrated more clearly by solving Eq. (3.21) for H2:
+
+
+2	µ4	µ2
+k	µ2 s µ4	µ2
+κ2	 C 
+
+H  = 2 κ4 +
+3 (ρ + λ) − a2 + 2ǫκ2
+κ4 +
+3 (ρ + λ) −
+6 Λ − 3a4 ,	(3.23)
+
+29
+with ǫ = ±1 representing the two possible embeddings of the brane in the bulk (see [30]). The above result has been obtained previously obtained by Collins and Holdom
+[54] and Shtanov [55].
+We are going to follow Deffayet [30] by naming the ǫ = +1 branch as ‘self-accelerated’ and ǫ = −1 branch as ‘non-accelerated’. The reason for this nomen-clature becomes obvious in the case of flat bulk and a zero brane tension and no dark radiation, i.e. k, λ, Λ, C = 0. Eq. (3.23) then reduces to that originally obtained by Deffayet [ibid]:
+/
+2	1	µ2	ǫ u 1	µ
+
+with rc, the crossover scale, defined as in Eq. (3.2). For ǫ = +1, once µ2ρ/3 ⨭ rc−2/2, H approaches the nonzero constant H = rc−1, and the universe enters an accelerated de Sitter phase. If we wish to use this model to replace the effects of the cosmological constant, we should set rc to be approximately the current Hubble radius. The non-accelerated branch with ǫ = −1 behaves like the usual Friedman universe, with H2 tending to zero in the flat-universe case.
+Note that there are two distinct limits in which we can recover the ordinary Friedman equation in the presence of a cosmological constant,
+2	µ2	k
+H  = 3 (ρ + ρvac) − a2 ,	(3.25)
+
+where ρ is the energy density in everything other than the cosmological constant. One limit is to simply let κ2 → ∞, decoupling the extra dimension entirely and leaving us with ρvac = λ. The other is to set the brane tension to zero, λ = 0, and take both
+
+30
+κ2 and −Λ to infinity while keeping their ratio constant, yielding
+ρvac = s−6Λ .	(3.26)
+
+
+Then Λ = 0 corresponds to “pure DGP”, while Λ → −∞ corresponds to ordinary
+ΛCDM.
+We will, henceforth, set both the bulk and brane tensions to zero, operating in the pure DGP paradigm and work in the self-accelerated branch, investigating the ability of this modification of gravity to replace the need for the cosmological constant. With the above assumption, we can rewrite the modified Einstein equations, Eq. (3.10) in a simplified manner
+Gµν = 4r2fµν − Eµν ,	(3.27)
+
+and similarly the Friedman equation Eq. (3.23)
+
+
+2	H
+H − rc =
+µ2ρ
+.	(3.28)
+3
+
+
+This is the background equation which we will use, with the possible addition of a curvature term, for the rest of our analysis.
+
+Linear Perturbations
+An observer restricted to the brane will perceive the universe as purely four dimen-sional. Therefore, the most general, linear, scalar perturbations to the induced flat four-dimensional metric can be parameterised by
+
+ds2 = −(1 + 2Ψ )dt2 + a2(1 + 2Φ)dx2 ,	(3.29)
+
+31
+while the linearised energy-momentum tensor can be written down as
+
+
+O = −ρ(1 + δ) ,	(3.30)
+O = (1 + w)ρ∂iq ,	(3.31)
+τi = ρ(w + c2δ)δi + wρ  ∂i∂ − 1 δi  π .	(3.32)
+
+
+Here ρ is the density of the cosmological background, w ≡ p/ρ is the background
+equation-of-state parameter, and c2 = δp/δρ is the sound speed for the pressure
+perturbations.
+The full 5D perturbations of the bulk are richer: Deffayet in [56] has shown that, in the case of scalar perturbations, their effect on the brane can be reduced to the presence of perturbations to the Weyl tensor as an additional source of stress-energy. The precise relationship between the various components of the Weyl tensor is determined by their relationship to a master variable (see §3.2.5), which in turn encodes all the gauge-invariant perturbations to the full 5D metric throughout the bulk. We define the linear, scalar perturbations to the Weyl tensor by
+
+O  = −µ2ρδE ,	(3.33)
+O = µ2ρ∂iqE ,	(3.34)
+Ei = µ2w  ρ δ  δi +  ∂i∂ − 1 δi ∂2  π   .	(3.35)
+
+
+The Weyl tensor is traceless, and hence the pressure perturbation will behave like radiation, i.e. wE = 1/3. The linearised Poisson and anisotropy equations, obtained
+
+32
+from Eq. (3.27), then are
+
+
+k2
+a2 Φ =
+µ2ρ
+2
+2Hrc	∆ +
+2Hrc − 1
+µ2ρ
+2
+1
+2Hrc − 1 ∆E ,	(3.36)
+
+Φ + Ψ = − 1 +	 µ2ρa2wπ
+
+	2rcH  1 +
+1
+H˙ 2H2
+  − 1 
+µ2ρ 2
+
+− 2rcH
+1 +  H˙
+2H
+a
+− 1  3
+πE ,	(3.37)
+
+
+with ∆ the comoving density contrast and the equivalent definition for ∆E :
+
+∆ := δ − 3H(1 + w)q ,	∆E := δE − 3HqE .	(3.38)
+
+
+The equations of motion for the energy momentum tensor are given by the con-servation law ∇µτµν = 0 supplemented by equations of state that define the stress fluctuations
+ d "   δ	 #	k2	˙
+/	/
+q˙ − 3c2qH + c2  δ	 − 2	w	k2π = −Ψ .	(3.40)
+
+
+We have here assumed adiabatic pressure fluctuations in the multicomponent matter system c2 = p˙/ρ˙.
+On the other hand, the Weyl tensor is not separately conserved and its equations of motion come from the Bianchi identity, ∇µGµν = 0, as applied to Eq. (3.27),
+
+∇ Eµν = 4r2∇µfµν .	(3.41)
+
+33
+We can rewrite this as
+
+˙	k2
+δE + (1 − 3w)HδE − a2 qE = 0 ,	(3.42)
+
+q˙ − 3wHq
+1	2 2
++	δ	−	k π
+= S ,	(3.43)
+
+
+
+where the source term
+2rcH˙	∆ + ∆E	k2(wπ + πE/3)	
+
+
+/	/
+3H   1 − 2Hrc
+1 − 2Hrc
+1 +  H˙
+2H
+ .	(3.44)
+
+/
+
+
+Thus, a non-zero Weyl tensor is unavoidably generated by matter perturbations in linear theory [32].
+In order to close the above equations, we need the analogue of an equation of state to relate the Weyl anisotropic stress πE to the other components of the Weyl tensor δE and qE . Unlike the relationship between the Weyl pressure and energy density,
+this relation requires a consideration of perturbations in the bulk.
+
+
+Range of Validity of Linear Regime
+Above, we assumed that we can use the linear approximation to the modified Ein-stein’s Eq. (3.10). It is important to verify this explicitly, since the large magnitude of the coefficients of the quadratic terms in Eq. (3.10), might lead to their dominating over the linear terms.
+After a systematic review of all the quadratic terms in the expansion of Eq. (3.10), we conclude that the quadratic term which is most likely to be large arises from the
+(Gµν )2 term and is of the form
+4r2 ∇2Φ 2	(3.45)
+
+34
+Assuming that the Poisson equation is approximately valid, we have ∇2Φ ∼ µ2ρ¯∆, and using the definition of rc, Eq. (3.2), leads to the condition that for the linearisation of DGP to be valid
+r2µ2ρ¯∆ ⨭ 1	(3.46)
+If we assume that the density perturbation is in the form of a spherical top hat with a characteristic size D and ignore the momentum of the perturbed fluid, we can write down the mass of this object as M ∼ D3ρ¯∆. Finally, the Schwarzschild radius in four dimensions is rS ∼ µ2M , giving us:
+
+r2rS ⨭ D3	(3.47)
+
+
+We have thus recovered the result first discovered by Dvali et al and others [57–61], that there is a new strong-coupling scale in the DGP theory,
+
+r∗ = (r2rS)1/3 .	(3.48)
+
+
+At small distances (between the Schwarzschild radius and r∗), gravity behaves es-sentially as 4D general relativity with small corrections, because the quadratic terms dominate the modified Einstein equation (3.10). If we set Λ = λ = 0, in this regime we are looking for the solution to
+ν ≈ 0	(3.49)
+
+with the obvious solution being Gµ  = µ2τµ , i.e. the usual 4D Einstein equation.
+On intermediate scales (between r∗ and rc, in what is known as the “weak-brane” phase), gravity is described by a scalar-tensor theory, and the linearisation presented in §3.2.3 is valid.
+
+35
+Once the non-linear effects become important near r∗, it is not understood how two sources superimpose. However, the linear density fields in cosmology are actu-ally constructed out of a spatial average of dark-matter halos, each of which has r∗ comparable to its own radius. Thus, we should be able to use the linear theory to discuss the gravitational dynamics of the spatial averages of the halos, but most likely not their internal structure. Making this more precise would require detailed N -body simulations, see §3.5.2.
+
+Master Equation
+In [62], Mukohyama showed that for maximally-symmetric five-dimensional space-times, the full five-dimensional linear scalar perturbations in the bulk can be described using a master variable Ω. Since the bulk being considered is just Minkowski, and the brane is assumed flat, we can parameterise the unperturbed background 5D metric as in Eq. (3.14)
+ds2 = −n(y, t)2dt2 + b(y, t)2dx2 + dy2 ,	(3.50)
+
+where the brane sits at y = 0 and
+
+b = a(1 + H |y|) ,	n = 1 +  H˙ + H! |y| .	(3.51)
+
+
+This parameterisation is also valid for branes with non-zero curvature provided that
+|Ωk| ⨭ 1. The master variable then obeys a hyperbolic equation of motion:
+
+
+Ω˙	.	 ∂
+−	nb3	+ ∂y
+n ∂Ω b3 ∂y
+nk2
+− b5 Ω = 0 .	(3.52)
+
+36
+We can then express all the gauge-invariant perturbations to the 5D bulk as functions of derivatives of the master variable. In particular, Deffayet [56] has shown that the components of the Weyl tensor evaluated on the brane can be expressed as
+2	k4Ω
+µ ρδE = − 3a5 y=O ,	(3.53)
+2	k2   ˙	 
+µ ρqE = −3a3  Ω − HΩ  y=O ,	/	(3.54)
+2	1	¨	˙	k2	3H˙ ∂Ω ! 
+
+
+We will hereafter implicitly assume evaluation at y = 0 for the master variable in the on-brane equations where no confusion might arise. We can now rewrite the Bianchi identity in terms of the master variable, obtaining, after assuming that the cosmological fluid has no anisotropy stress,
+2a3	2	¨	˙
+k2K(H) µ ρ∆ = Ω − 3HF (H)Ω+
+k2		H		2Hrc − 1	!
+
++	F (H) a2 + K(H)rc +
+RH	Ω ,	(3.56)
+rc
+
+
+where R expresses the derivative across the brane
+
+
+1  ∂Ω
+R := / 
+.	(3.57)
+
+HΩ ∂y  y=O
+
+We have defined two new functions of the Hubble parameter
+
+
+
+
+F (H) :=
+
+2Hrc  1 +
+
+H˙ 3H2
+
+  − 1
+
+
+,	(3.58)
+
+2Hrc − 1
+K(H) := 	2Hrc − 1	 .	(3.59)
+
+2Hrc  1 +
+H˙ 2H2
+  − 1
+
+37
+Were it not for the ∂Ω/∂y derivative across the brane in R, this equation would be a simple dynamic equation for Ω, which, given an evolution equation for the source ∆, could be solved as a coupled equation. The role of the master equation is to define R, the relationship between ∂Ω/∂y and Ω.
+Koyama and Maartens [32] adopted a quasi-static approach to solve these equa-tions. The master equation then implies that the gradient
+k
+R = −aH .	(3.60)
+
+In the Bianchi identity, the time-derivative and brane-derivative terms are neglected compared to those of order (k/aH)2Ω. This quasi-static approach leads to their solution to which we will refer henceforth as “QS”
+
+
+2a5	2
+ΩQS = k4F (H)K(H) µ
+ρ∆.	(3.61)
+
+This solution is equivalent to a closure relationship for πE in terms of δE through Eqs. (3.53) and (3.55). Using this, we can define the quasi-static limit (QS) of DGP gravity where the Poisson and anisotropy equations become
+
+k2	k2
+µ2ρ
+
+2 a2 Φ− := a2 (Φ − Ψ ) =	2 ∆
+
+k2	k2
+µ2ρ
+
+2 a2 Φ+ := a2 (Φ + Ψ ) = − 6β ∆,	(3.62)
+
+with
+β ≡ 1 − 2rcH  1 +
+H˙ 3H2
+! .	(3.63)
+
+These equations are equivalent to the linear limit of the results obtained by Lue et al. [33].
+
+38
+In the next two sections, we will show how the quasi-static solution is dynamically achieved for the perturbations shortly after horizon crossing and discuss large-scale deviations from this solution.
+
+Scaling Solution to Master Equation
+
+Causal Horizon
+The master equation is a wave equation sourced by the comoving density perturba-tions on the brane through the Bianchi identity (3.56).
+Since, in appropriate co-ordinates, the bulk is just Minkowski, the evolution of Ω in the bulk can be seen as a normal propagating wave given a boundary condition from the behaviour on the brane. Beyond the causal horizon, the bulk should remain unperturbed. This causal horizon must be invariant in all coordinisations of the bulk; therefore, we can locate it by finding the null geodesic of Eq. (3.50), giving us the y-position of the horizon as
+
+
+ξ = y
+H = aH2 ∫ a 	da˜	 .	(3.64)
+
+
+
+Before the acceleration epoch, this reduces to ξ = 1/(2 + 3w) for a cosmology with a constant equation of state parameter, i.e. ξ = 1/3 for a radiation-only cosmology and ξ = 1/2 for a matter-only cosmology. We are making the assumption that the universe has not gone through a period of inflation, which would have moved the horizon much further out. If inflation did take place, it is not unreasonable to expect that any perturbations that existed prior to the inflationary phase will have been pushed far away and the bulk will start in an unperturbed state in the vicinity of
+
+39
+the brane at the beginning of radiation domination, resulting in a causal horizon equivalent to that of the cosmology with no inflation.
+The constancy of the horizon during the domination of a particular fluid suggests
+that we can define a new variable, in which the horizon will remain fixed at all times, lying at x = 1
+yH
+x	.	(3.65)
+ξ
+We can then recast the master equation in x and solve it as a boundary-value problem with the value of Ω at the horizon, x = 1, set to zero.
+
+Scaling Ansatz
+The second boundary condition needed to solve the master equation is the behaviour of the master variable on the brane. During epochs when the source remains scale-free and the Bianchi dynamics also do not change, one would expect that the master variable also obeys a scaling ansatz on the brane Ω|y=O = Aap , where A and p are constants. Likewise, during such epochs we expect the master variable in the bulk to reach a stable solution in the variable x, the distance in units of the causal horizon, for a given wavenumber k/aH.
+We therefore propose a new ansatz for the solution to the master equation (3.52):
+
+Ω = A(p)apG(x) .	(3.66)
+
+
+With this assumption, the master equation (3.52) becomes the ordinary differential equation
+
+40
+
+
+d2G	 4h2 + h(2p − 1) + 2h𝘫	 1 + 2p 	h + h2 + h𝘫	! dG
+
++  hp(2p − 5) − 2h𝘫p + 	3p	 − (1 + 2h)(h(4h + 2p − 1) + 2h𝘫)p +
+(1 + h)(h + h2 + h𝘫)p	  k !2	(1 + (1 + h)xξ)2	 2
++	h2(1 + (1 + h)xξ)	−	aH	(1 + xξ)3(1 + xξ(1 + 2h))  ξ G = 0 ,
+where the primes denote differentiation with respect to ln a—the new time co-ordinate which will be used henceforth—and h ≡ H𝘫/H. In deriving the above, we have neglected time derivatives of p and ξ: the scaling ansatz is not expected to be valid when p is not a constant, i.e. during times when the cosmology is undergoing a change from the domination of one fluid to another. In addition, strictly speaking, G is actually a function of both x and k/aH, even in the scaling limit. We have therefore also assumed that k/aH is a constant, which is valid in the k = 0 limit. As we explain later, as k/aH approaches unity, where its time-derivatives might impact the solution significantly, the character of Eq. (3.67) changes and terms which do not involve the derivatives of k/aH dominate (see §3.4.1).
+Note that, provided w be constant, one of the denominators in Eq. (3.67) can be re-expressed as
+
+1 + xξ(1 + 2h) = 1 − x .	(3.68)
+
+
+Thus the equation has a regular singular point x = 1, exactly at the causal horizon. This is not a co-ordinate singularity (all the entries of the metric are regular there), but is a reflection of the junction between perturbed and unperturbed space-times.
+Supplying H, p as a function of the scale factor is enough to solve this ODE as a
+
+41
+boundary-value problem, requiring that G(x) be 1 on the brane and 0 at x = 1. This in turn gives the value of R as
+dG
+R =  1 dx x=O ,	(3.69)
+ξ G|x=O
+
+and closes the evolution equations for the perturbations on the brane.
+We will henceforth refer to this solution as the dynamical scaling or just scaling solution and use the acronym “DS”.
+
+Iterative Solution
+In practice, one does not know the scaling index p a priori and, moreover, it can change during the evolution of a k mode as the master variable leaves one scaling regime and enters another. We therefore solve for p iteratively by demanding consistency with the Bianchi identity.
+To determine the zeroth-order solution for p, we substitute the ansatz Eq. (3.66) into Eq. (3.56) to obtain
+
+
+2a3−p	2
+A(p) = k2K(H)H2[J(H) + F (H)(k/aH)2 ]µ
+ρ∆,	(3.70)
+
+J(H) = p[p + h − 3F (H)] + 	1	 + 2Hrc − 1 R .
+K(H)Hrc	Hrc
+Before the acceleration epoch, when the expansion is dominated by a single fluid, J(H) and F (H) are constant, while K(H) is a simple power law in a. We therefore set p = p(O), the zeroth order solution for k/aH ⨭ 1
+
+p(O)
+= 3 +
+d ln[ρ∆(O)/(K(H)H2)] d ln a
+.	(3.71)
+
+42
+Note that this definition allows transitions between scaling regimes where w changes. We shall see that the solutions for R become independent of p for k/aH ≫ 1 and so we use this as the zeroth-order solution for all modes, both super- and subhorizon.
+Finally, we need a zeroth-order solution for ∆(O).  Modes of interest to large-
+scale cosmological tests are superhorizon during radiation domination and enter the horizon either during matter domination or the current acceleration epoch. Before the acceleration era and in the absence of anisotropic stress these modes obey [63]
+
+
+∆(O)
+D3 + 2 D2 − 8 D − 16 + 16 √D + 1
+D(D + 1)
+
+
+where D ≡ a/aeq. In order to obtain the zeroth-order solution for p(O), we assume that the growth prescribed by equation Eq. (3.72) continues until today (see Fig. 3.1). Given this, we solve the master equation Eq. (3.67) to obtain the off-brane gradi-ent, R, and then dynamically solve the Bianchi identity Eq. (3.56) coupled to the cosmology, for the particular mode. Once the dynamic evolution for the first-order solution Ω(1) is obtained, we can iteratively improve our estimation of p by numeric-
+ally calculating
+
+p(i) =
+d ln Ω(i)
+
+/
+d ln a
+(3.73)
+
+and repeating the above prescription. We find in the next section that this procedure converges quickly and alters the value of p only when p is not a constant, as expected. We display the effects of the iteration on p in Fig. 3.1.
+
+43
+
+
+
+
+
+
+
+
+
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+−6	−4	−2	0	2
+log a
+
+Figure 3.1: Value of exponent p in the scaling solution Ω|y=O 𝖺 ap for superhorizon modes, plotted as a function of the scale factor. The p(O) calculation assumes that the density perturbation ∆ follows Eq. (3.72) at all times. The p(i) result is the output of an iterative process, where p is used to calculate R and hence the evolution of Ω which is in turn used to derive a correction to p.
+
+44
+Cosmological Implications of the Scaling Solution
+
+Limiting Cases and Numerical Solutions
+
+The evolution of the master variable exhibits several distinct phases that are distin-guished by the on-brane scaling evolution: that during radiation domination, matter domination and the de-Sitter acceleration phase both inside and outside the horizon. The scaling of the Bianchi identity Eq. (3.56) determines the value of p at a particu-lar scale factor, while the solution to the master equation Eq. (3.67) determines the off-brane gradient R. To understand better the nature of the solution and how it impacts perturbation evolution, we will compare the analytic expectations to the full numerical results in the various phases.
+
+Superhorizon Modes
+During radiation domination, Hrc ≫ 1, H𝘫/H = −2 + a/2aeq and F (H) = 1/3. The particular combination in the denominator of K(H) causes the first-order contribution of H𝘫/H to cancel, leaving us with K(H) 𝖺 a−1. The Bianchi identity Eq. (3.56) for superhorizon modes then dictates that
+
+A 𝖺 a4−p∆.	(3.74)
+
+Since ∆ 𝖺 a2 during radiation domination, this gives p = 6 for superhorizon modes. Inserted back into the master equation under the scaling ansatz Eq. (3.67), this value of p implies
+
+R = −3,	(k/aH ⨭ 1, radiation domination) .	(3.75)
+
+45
+
+
+
+
+
+
+
+
+
+
+
+2
+
+0
+
+−2
+
+−4
+
+
+−6
+
+−8
+
+−10
+
+
+
+
+
+
+−6	−4	−2	0	2
+log a
+
+
+Figure 3.2: Evolution of ratio of off-brane gradient to master variable, R, as defined in Eq. (3.57), for a selection of modes. On superhorizon scales, R is constant whenever p is a constant. Once the mode enters the horizon, it rapidly approaches R =  k/aH. As the universe enters the de-Sitter phase, the modes again leave the horizon and R asymptotes to 1.
+
+46
+With R determined, the equations of motion for the perturbations on the brane are closed.
+This analytic expectation also serves as the initial conditions for the numerical
+scaling solution. In practice, we begin the integration at a = 10−6, when all modes of interest are outside the horizon. The numerical solution for p is shown in Fig. 3.1 and for R in Fig. 3.2. Note that, in the radiation-dominated era, their values stay stable at the analytic prediction for all iterations of the solution.
+The large-scale modes of interest remain outside the horizon during the whole
+radiation-dominated epoch. In the matter-dominated epoch, the evolution outside the horizon can be obtained by noting, F (H) = 1/2, K(H) = 4, H𝘫/H = −3/2, and Hrc ≫ 1. The Bianchi identity dictates that
+
+A 𝖺 a3−p∆.	(3.76)
+
+
+Given that ∆ 𝖺 a, p = 4. Since the matter-dominated solution is of particular interest, we explicitly give the master equation under the scaling ansatz
+d2G	  7 − 2p 	 1 + 2p 	 1	 ! dG
+dx2 +	4(x − 1) − 2(x + 2) − x − 4	dx +
++  p(2p − 7) + p(5 − 2p) + 	p	 + 	3p	 +
+12(x − 1)	12(x + 2)	6(x − 4)	2(x + 2)2
+  k !2	(x − 4)2	
++	aH	8(x − 1)(x + 2)3  G = 0 .	(3.77)
+
+This is solved as a boundary value problem with boundary conditions G(0) = 1 and
+G(1) = 0. The form of the numerical solution to this equation is shown in Fig. 3.3.
+
+47
+In the large-scale limit, the gradient reaches
+
+
+R = −1,	(k/aH ⨭ 1, matter domination) .	(3.78)
+
+
+In the numerical solution of Figs. 3.1 and 3.2, these values of p = 4 and R = −1 are achieved gradually as the expansion becomes matter dominated. The iteration of the numerical solution in fact further smooths the transition until a stable form is achieved as would be expected. Note also that R is very insensitive to k/aH, provided it be less than 1, such that the mode is larger than the horizon.
+
+Subhorizon Modes
+The modes of interest cross the horizon either during matter domination or the ac-celeration epoch. For large values of k/aH, the final term of the master equation Eq. (3.67) dominates over other parts of the coefficients of G(x) and G𝘫(x). As evid-enced in Fig. 3.3, in this regime, the solution does not penetrate very far into the bulk. We can thus expand the master equation around x = 0, reducing it to
+
+
+d2G dx2 − ξ
+
+(1 − 2ξx)
+ k   2
+aH
+
+G = 0 .	(3.79)
+
+
+This matches the quasi-static approximation up to first order in x. Therefore, for k/aH ≫ 1, the relation giving the gradient on the brane is exactly as in the QS approximation [32], with no dependence on the value of p:
+k
+R = −aH	(k/aH ≫ 1, matter/acceleration).	(3.80)
+
+48
+
+
+
+
+
+
+
+
+1
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+0	0.2	0.4	0.6	0.8
+x
+
+Figure 3.3: Off-brane profile for G(x) obtained by solving equation (3.67) during matter domination (log a = 2), compared to off-brane profiles for the quasi-static (QS) solution. For high k/aH, the profiles are very narrow and effectively independent of the position of the causal horizon: they penetrate very little into the bulk and the behaviour of the solution is practically independent of the value of p. In this regime, the QS solution is practically coincident with the scaling solution. For modes with low k/aH, the solution is non-zero in the whole interval x [0, 1) and therefore it depends strongly on the value of p. QS severely underestimates the gradient of the profile in this regime.
+
+49
+The numerical solution for R evolved through horizon crossing is shown in Fig. 3.2. It reaches this scaling shortly after horizon crossing.
+Despite this independence of p, the master variable does achieve a scaling form during matter domination. The Bianchi identity (3.56) can be reduced to the QS form, Eq. (3.61), and implies
+A 𝖺 a2−p∆,	(3.81)
+
+and hence p = 3.
+In general then, R is a function of both k/aH and p(a) and therefore each mode needs to be followed separately through its evolution both outside and inside the horizon. However, only outside the horizon does the value of the off-brane gradient actually affect the evolution on the brane, since for high k/aH it is subdominant in the Bianchi identity Eq. (3.56).
+
+Asymptotic de-Sitter Phase
+
+At late times, the DGP cosmology enters the self-accelerated de-Sitter phase. During this time, all modes exit the horizon while the causal horizon in the bulk, ξ, grows rapidly toward infinity. This allows us to concentrate on the k ⨭ aH limit. Deep into the de-Sitter phase of the expansion, Hrc = 1, K(H) = F (H) = 1. The master equation (3.52) can now be rewritten (in the scaling approximation) as
+
+
+∂2Ω
+2	∂Ω
+p(p − 3)
+
+∂y2 − 1 + Hy ∂y − (1 + Hy)2 Ω = 0 .	(3.82)
+
+This equation has an analytic solution. Assuming that the perturbations vanish at the causal horizon, Ω = 0 at y = ξ/H, and that p /= 3/2, we can find the off-brane
+
+50
+
+
+gradient:
+
+R = 1 (3 − |2p − 3|) − 	|2p − 3|	 .	(3.83)
+
+2	(1 + ξ)|2p−3| − 1
+This can now be combined with the Bianchi identity
+
+6H2r2Ωm∆
+
+(p2	3p + 1 + R)Ω =	O c
+k2
+.	(3.84)
+
+
+It can be shown that ∆ becomes a constant during the acceleration era.
+In the limit where r2∆/Ω → 0 and ξ → ∞, i.e. at very late times, the solution to the above two equations combined is R = 1 and p = 2 or p = 1, where we would expect the fastest-growing mode, p = 2, to dominate. We plot the numerical solutions in Figs. 3.1 and 3.2. Note that iteration of the solution here is crucial, but p = 2, R = 1 is approached at late times.
+The numerical results only converge to p = 2, R = 1 very slowly. This can also be understood analytically. There is a slight correction to this result arising as a result of ξ being finite, but it is already insignificant by log a ∼ 2. A more significant correction to the scaling behaviour arises as a result of ∆’s not being zero. Its size can be estimated by assuming that p = 2 + ǫ. Substituting this into both Eq. (3.83) and Eq. (3.84) we obtain
+1 s	6H2r2Ωm∆
+ǫ = 1 − /	4 +	O c 2	.	(3.85)
+
+Indeed, as Ω grows, the correction decreases until p = 2 is achieved. In particular, the continued growth of Ω implies that the anisotropy at the largest scales will continue growing as
+Φ + Ψ 𝖺 πE 𝖺 a	.	(3.86)
+
+51
+Superhorizon Metric Evolution
+
+Deriving an evolution equation for the metric highlights the fact that the metric evol-ution is not sensitive to the DGP modification until the acceleration epoch. Even in the acceleration epoch, the metric obeys a simple equation of motion on superhorizon scales.
+By appropriately rearranging the linearised Einstein equations and the Bianchi identity, we can obtain a single differential equation for the gravitational potentials
+ 𝘫𝘫	𝘫	H𝘫𝘫  𝘫	 H𝘫𝘫	H𝘫 !	  k !2 " 2	H𝘫	1	!
+Φ − Ψ − H𝘫 Φ +	H𝘫 − H	Ψ +	aH	cs + 3H 2Hrc − 1	Φ+
+
++	H𝘫
+9(1 + w)H
+2Hrc − 1 (Φ + Ψ )	(1 + w) =
+Hrc − 1
+
+= H𝘫	1	"(w − c2)∆	+  1 − w + H𝘫 ! δ # .	(3.87)
+
+
+/
+H 2Hrc
+s	E	3
+3H	E
+
+In the large-scale limit, k/aH → 0, δE ≈ 0; if we also assume that c2 = w or that
+∆E = O(k/aH)2Φ from the Poisson equation, we obtain
+Φ𝘫𝘫 − Ψ 𝘫 − H𝘫𝘫 Φ𝘫 +  H𝘫𝘫 − H𝘫 ! Ψ = 0 .	(3.88)
+
+H𝘫
+H𝘫	H
+
+Note that this equation for the metric perturbations is the same as found in general relativity [e.g. [64] Eq. (50)]. Therefore, before the DGP modifications change the expansion rate or generate anisotropic stress, the evolution of the metric is identical to general relativity. Furthermore, as pointed out by Bertschinger [65], in the absence of anisotropic stress, Ψ = −Φ and Eq. (3.88) yields solutions that depend only on the expansion history through H, even in the acceleration epoch.
+In DGP gravity, however, the anisotropy at the largest scales is never negligible and, in fact, grows at late times, as discussed on page 49.  Using Eq. (3.62), we
+
+52
+can rewrite Eq. (3.88) in the de Sitter era, when H𝘫/H = 0 and H𝘫𝘫/H𝘫 = −3. Assuming that the two new variables obey a scaling solution with Φ+ = A+ap+ and Φ− = A−ap−, Eq. (3.88) becomes
+
+A+ap+(p2 + 2p+ − 3) + A−ap−(p2 + 4p− + 3) = 0 .	(3.89)
+
+
+One would expect that Φ+ would grow with exponent p+ = 1, while Φ− would decay away with exponent p− = −1. However, because of the need to preserve the Bianchi identity with a non-zero ∆, as discussed on page 49, the scaling solution is slightly violated. We find that p+ = 1 + ǫ while p− = 1. This leads to the relation
+
+
+A− =
+A+
+ǫaǫ
+,	(3.90)
+2
+
+
+where ǫ → 0 monotonically. At late times, our solution tends to a regime where the ratio Φ−/Φ+ → 0, with Φ+ 𝖺 a.
+It is interesting to note that in this opposite limit to that studied in [65] where
+Φ− ⨭ Φ+ Eq. (3.88) also becomes closed and has solutions that depend only on the expansion history through H.
+In fact, Eq. (3.88) is equivalent to the statement that the Bardeen curvature, ζ ≡ Φ + Hq, is conserved during the de Sitter era, once the mode leaves the horizon. This is also true of the comoving density perturbation, ∆, which saturates to a constant during the de Sitter era. However, the comoving and longitudinal hypersurfaces warp with a shift Hq that grows without bound (see §4.3.2 for a more detailed discussion).
+
+53
+
+
+
+
+
+
+
+
+
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+−6	−5	−4	−3	−2	−1	0
+log a
+
+Figure 3.4: Ratio of master variable Ω for dynamic scaling and quasi-static solutions. In QS, Ω responds instantaneously to changes in ∆. Fully dynamic solution to the Bianchi identity (3.56) requires time to respond and eventually decays to the QS solution. Initialising the calculation at earlier times changes neither the scale factor at which Ω responds nor its value today. Rapid growth occurs during the time before horizon crossing.
+
+54
+Quasi-Static vs Dynamical-Scaling Solutions
+
+It is useful to summarise the differences between the quasi-static (QS) and dynamical scaling (DS) solutions uncovered in the previous section.
+For concreteness, we will take in our calculations rcHO = 1.32, in a matter and radiation universe with Ωm = 0.24 and h = 0.66. When comparing with ΛCDM, the concordance set of parameters will be used: Ωm = 0.25, h = 0.72. The two sets of parameters represent cosmologies which are best fits to supernova luminosity data (SNLS [9]) and the distance to the last-scattering surface (WMAP [4]), but assuming that the universe is flat. We discuss more detailed fits to these data in the following section §3.5.
+Beginning at the initial conditions in the radiation-dominated era, the superhori-zon value of the master variable is highly suppressed with ΩDS/ΩQS = O (k/aH)2 
+(see Fig. 3.4). As the mode enters the horizon during matter domination, the DS solution for Ω grows rapidly and then executes damped oscillations around the QS solution. This can be understood analytically since the Bianchi identity takes the
+form of a damped oscillator in Ω/a2 that is driven by ∆.  During the time when
+Ω significantly deviates from the QS solution, the Weyl corrections to the Poisson equation (3.36) are suppressed, since Hrc ≫ 1, and there is no additional correction to the gravitational potentials over and above that of QS (see Fig. 3.7).
+We find that the results of the scaling solution match the quasi-static results for all modes that enter the horizon well within the matter-dominated epoch k >
+0.01 Mpc−1 (see Figs. 3.4–3.7). For larger scales, this is not so: as shown in Fig. 3.4,
+Ω now only decays toward the QS solution, rather than oscillating around it. Since at late times the Weyl perturbations are no longer suppressed, this now makes a significant contribution to the Poisson equation, resulting in additional decay of the
+
+55
+
+
+
+
+
+
+
+
+
+
+
+1
+
+0.8
+
+0.6
+
+0.4
+1
+
+0.8
+
+0.6
+
+0.4
+−2	−1.5	−1	−0.5	0
+log a
+
+Figure 3.5: Evolution of the principal gravitational observable Φ Ψ for concordance ΛCDM, the quasistatic (QS) solution, and our new dynamical scaling (DS) solution. For scales k & 0.01 Mpc−1 the scaling and QS solutions do not differ appreciably:
+the decay in the potentials is a little faster than ΛCDM as a result of slower growth
+of density contrast. At larger scales, the DS solution exhibits significant additional decay owing to the different value of Ω at late times, as exhibited in Fig. 3.4. All potentials normalised to 1 at log a = −2.
+
+56
+
+
+
+
+
+
+
+
+
+
+
+80
+60
+40
+20
+0
+60
+40
+20
+0
+−2	−1.5	−1	−0.5	0
+log a
+
+Figure 3.6: Evolution of the comoving density contrast ∆ for concordance ΛCDM, QS and our DS solution. The growth function in DGP is suppressed compared to ΛCDM, even in the case of a flat cosmology. There is no significant difference between the scaling ansatz and the quasi-static solution, with DS departing at most by 2% from QS at the largest scales. All quantities are normalised to 1 at log a = −2.
+
+57
+potentials. As shown in Fig. 3.7, there is a 15% deviation from QS in Φ − Ψ at the scale k = 0.001 Mpc−1 for the chosen sets of cosmological parameters. The direction of this effect agrees with estimates made by Lue in [61] and is such that the scaling solution is an even worse fit to CMB anisotropy data than the quasi-static (see §3.5.2 for a discussion).
+On the other hand, up to the present time, the QS solution for comoving density perturbations, ∆, is a very good approximation for the DS solution at all scales. The additional suppression is of the order of 2% for k = 0.001 Mpc−1.
+
+
+Confrontation with Data
+
+Background Expansion History
+
+Supernovae, CMB and HO
+The main evidence for cosmic acceleration is geometrical and based on the luminos-ity distance to high-redshift supernovae (SN) [1, 2, 8, 66] and the angular diameter distance to the recombination epoch of the CMB (e.g. [3]). Both distances are given as usual by the (comoving) angular diameter distance in units of HO−1
+
+D(z) = √Ω  sinh  r(z)qΩ	,	(3.91)
+1
+k
+
+
+
+where r(z) is
+
+r(z) =	z
+O
+
+dz𝘫
+
+/
+E(z𝘫)
+
+.	(3.92)
+
+E(z) is the Hubble parameter in units of the Hubble constant. The DGP model modifies the Friedman equation, or the relationship between E(z) and the energy
+
+58
+
+
+
+
+
+
+
+
+
+
+
+1
+
+0.9
+
+0.8
+
+0.7
+
+1
+
+0.99
+
+0.98
+−2	−1.5	−1	−0.5	0
+log a
+
+Figure 3.7: Comparison of results of QS and DS solutions: Upper panel presents the ratio of Φ Ψ in the two approximations. For modes with k > 0.01 Mpc−1 the two solutions differ by less than 2%. The difference is much more pronounced for larger scales where Ω has not decayed to the QS value, resulting in additional decays of up to 15%. Lower panel presents the ratio of comoving density perturbations in the two solutions: ∆ is affected much less, with approximately a 2% deviation from QS at the largest scale, k = 0.001 Mpc−1.
+
+59
+densities of matter and radiation in units of the critical density
+
+
+2	H2
+E  ≡ H2
+= Ωka−2 +
+ 	
+Ωrc +
+qΩrc + Ωma−3
+
++ Ωra
+−4 2 ,
+
+
+where HO = 2997.9h Mpc−1. Here, the scale factor a = 1/(1 + z); Ωrc(:=1/4r2H2)
+
+
+is given by
+c	O
+
+
+
+(1 − Ωk − Ωm − Ωr)2
+
+Ωrc =
+4(1 − Ωk
+.	(3.93)
+)
+
+We implement the SN constraints from the “gold” SN data set of [8] and the SNLS set of [9]. For the CMB, we fix the distance to recombination at zlss = 1088+1 through the measurement of the acoustic peak scale ℓA = 302+O.9 and its length calibration through the matter density Ωmh2 = 0.1268+O.OO72 [3]. Note that the SN are a relative
+−O.OO95
+distance indicator and hence constrain D whereas the CMB is an absolute distance measure which constrains D/h.
+Like flat ΛCDM (“fΛCDM”), flat DGP has a single parameter Ωm that is over-constrained by the distances to recombination, Ωmh2, and high-redshift supernovae.
+Unlike fΛCDM, flat DGP is not a good fit to these data. In DGP cosmologies, the SN favour a lower Ωm than in fΛCDM resulting in a shorter angular diameter distance
+to the CMB than is measured by WMAP. For the SNGold data set the excess χ2 over
+fΛCDM is ∆χ2 ≈ 4 while for SNLS the excess is ∆χ2 ≈ 9 (see Fig. 3.8).
+A negatively curved geometry elongates the CMB distance and allows a low Ωm in agreement with the SN distances [42, 67]. Even so, the CMB constraint on Ωmh2 favours a high Hubble constant of h = 0.8 (SNGold) and h ≈ 0.9 (SNLS) compared with observations from the HST Key Project (KP) h = 0.72 ± 0.08 [68]. fΛCDM on the other hand, despite being highly over-constrained, satisfies the observations with
+
+60
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3.8: The ∆χ2 between the best fit flat and open DGP versus that of flat ΛCDM model. SNGold supernova (SN) data set is used in the top panel and SNLS SN data set is used in the bottom panel. The DGP model requires curvature and a high Hubble constant. With the addition of Key Project (KP) direct Hubble constant measurements, open DGP is a marginally poorer fit to the data than flat ΛCDM.
+
+61
+h = 0.73.
+With the addition of the KP HO constraint, the best-fit open DGP (“oDGP”) model has h = 0.76 (SNGold) and h = 0.82 (SNLS) but is a marginally poorer fit to the data than fΛCDM. The excess over fΛCDM of the latter is ∆χ2 ∼ 2.5 with one fewer degree of freedom due to the fit to spatial curvature. The other parameters of this best fit model are Ωm = 0.18, Ωk = 0.036.
+If the Hubble constant measurements could be improved by a factor of 2 in the future, then the oDGP and fΛCDM will be clearly distinguished from each other. They are currently both acceptable fits to these data. We will hereafter take the best fit model to the WMAP, SNLS and KP data sets as the oDGP model for further tests.
+
+DGP vs Dark Energy
+
+The main expansion history differences between the best-fit oDGP model and fΛCDM can be exposed by finding the scalar field (QCDM) model that matches the oDGP distance measures exactly. With the same curvature, Ωmh2 and HO, that QCDM model has a time-dependent equation of state
+
+
+1
+w(a) = −
+dE2
+d ln a
++ 3Ωm
+a−3 + 2Ωk
+a−2 + 4Ωra−4
+
+− 1 .	(3.94)
+
+3	E2 − Ωma−3 − Ωka−2 − Ωra−4
+
+This equation of state starts at w = −1/3 during radiation domination, becomes w = −0.5 during matter domination and decays to w = −0.85 at the present time. The value of w(a) is substantially higher than the w = −1 of fΛCDM. The implied increase in the dark-energy density causes both the larger Hubble constant and a decrement in D(z) at high redshift. This decrement is compensated by negative
+
+62
+curvature to match the CMB distance.
+The expansion history of this QCDM model is strikingly different from fΛCDM despite the fact that they both satisfy CMB and SN constraints. Both the increased dark energy density and the negative spatial curvature contribute to changes in struc-ture formation that would violate even current observations. One therefore expects that structure formation tests should provide a strong constraint on the oDGP model. It is important to emphasise that it is not necessary to distinguish between oDGP and QCDM based on difference in the growth of structure. The comparison is between oDGP and fΛCDM because the QCDM model is not viable. We therefore use the de-generate QCDM model as a guide to understand the qualitative predictions of oDGP. The main task of testing the expansion history consequences for oDGP is to find a structure formation probe that can be robustly calculated in the DGP model.
+
+Structure Formation
+
+Baryon Acoustic Oscillations
+
+As discussed in the previous section, the largest expansion history discrepancy between oDGP and fΛCDM lies in the current expansion rate or Hubble constant. In the distance-degenerate QCDM model, the large Hubble constant would be in strong conflict with the measured baryon acoustic oscillations in the SDSS galaxy correla-tions. Baryon acoustic oscillations appear near the scale where density perturbations become non-linear and hence cannot be considered a purely geometric test. It is nonetheless useful to quantify the extent of the problem in the QCDM model since it determines the level at which nonlinear oDGP corrections would have to alter linear theory predictions to satisfy the data [42].
+
+63
+The baryon oscillations are imprinted at a fixed physical scale by the CMB at recombination. Under ordinary gravity, they yield a nearly geometric test since non-linearities are insufficient to change the physical scale of features substantially. The SDSS luminous red galaxy (LRG) survey measures the features between 0.16 ≤ z ≤
+0.47. At these redshifts, this distance is sensitive mainly to the Hubble constant [69]. More specifically, it can be converted to a relative distance measure between the effective LRG redshift and recombination of D(z = 0.35)/D(zlss) = 0.0979 ± 0.0036.
+Recall that the CMB measures D(zlss)/h. Hence, in the high-Hubble-constant QCDM
+model this number is too low—specifically 0.0818—leading to a 4.5σ discrepancy. This discrepancy can be slightly ameliorated by refitting the models to all data including the BAO data [42].
+If oDGP shared the same non-linear effects with QCDM, the BAO measurement would exclude it as well. However, as discussed in §3.2.4, the size of the strong-coupling scale r∗ precludes our extending of the linear results to the scales relevant for BAO. Detailed N -body simulations of the oDGP model at these scales, with a fully non-linear Poisson equation, would be required to judge whether the tension with the BAO results is actual.
+For definiteness, let us take the other cosmological parameters as in the best fit QCDM model: Ωmh2 = 0.122, Ωbh2 = 0.0224, τ = 0.11 with a power law spectrum of adiabatic fluctuations with ns = 0.958, δζ = 4.5 × 10−5 at knorm = 0.05
+Mpc−1. In this QCDM model, the LRG galaxy number densities correspond to halos
+of M∗ ≈ 1013h−1M⊙ corresponding to r∗ ≈ 3 Mpc. This scale is only marginally smaller than the baryon-oscillation scale. Furthermore, without a determination of how dark matter halos form under DGP and whether the observed galaxies indeed reside in 1013h−1M⊙ halos it remains unclear whether weak-brane phase predictions
+
+64
+can be applied to the BAO measurements.
+
+
+Linear Growth Rate
+
+The same expansion history discrepancy between QCDM and fΛCDM which raises h also causes, both, an earlier decay of the growth of structure and a larger total change in the growth to z = 0. For example, in the QCDM model, σ8 = 0.6 and Ωm = 0.18. These values are in conflict with the abundance of local clusters. Unfortunately, this QCDM prediction again relies on the non-linear aspects of structure formation and hence cannot yet be applied to oDGP. In order to test oDGP we must find a probe on scales rc ≫ r ≫ r∗.
+In this regime, the linear-theory predictions of DGP are now well understood
+using the solutions developed in §3.3. The quasi-static solution implies a 5% to 10% extra decay of Φ− in oDGP compared with the QCDM model with the same expansion history. We show the evolution of Φ− for each model in Fig. 3.9. The main effect however is not a difference between oDGP and QCDM but between either and fΛCDM. In either case, Φ− begins to decay at high-z such that there is as much decay at z > 1 as there is in fΛCDM at z < 1.
+In order to find an appropriate test of this prediction, we need to determine the validity of the quasistatic solution on large scales approaching rc. We have shown in §3.4.2 that the quasistatic solution is stably approached by k = 10aH and hence
+is valid to better than 2% at k & 0.01 Mpc−1 for z = 0.  Combined with the
+condition from r∗, a robust test of the quasi-static predictions of oDGP would involve fluctuations between 0.01 . k(Mpc−1) . 0.1.
+
+65
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3.9: The growth factor of Φ− of fΛCDM and oDGP under the quasi-static (QS) assumption normalised to Φ−(z ≫ 1) = 1. The model parameters are chosen as the best fit to the CMB (3yrWMAP), SN (SNLS), and HO (KP). QCDM is the scalar-field dark-energy model which has the same expansion history as oDGP. The growth rate is plotted on subhorizon scales where the dark energy is smooth and oDGP follows the QS assumption.
+
+66
+ISW Effect
+
+The decay in the gravitational potential Φ− at k & 0.005 Mpc−1 causes an enhance-ment of the large-angle anisotropy in the CMB through the ISW effect.
+The angular power spectrum of the ISW effect is given by
+
+
+CII = 4π ∫ dk [II(k)]2 k
+PΦ−Φ−(k, 0)
+,	(3.95)
+
+
+
+where PΦ−Φ−(k, 0) is the power spectrum of Φ− at the present time and the kernel II is
+
+
+II(k) = ∫
+dz Φ−(k, z) W Φ−(k, 0)
+I(k, z)jℓ(kD)
+dD  1/2
+
+/
+dr
+
+.	(3.96)
+
+
+The window function is given by
+
+W I(k, z) =  2 ∂Φ− .	(3.97)
+Φ− ∂z
+We have here assumed that the spatial curvature is small enough that the spherical Bessel function jℓ accurately represents the radial harmonics.
+Fig. 3.10 shows the difference between predictions for CII from oDGP under the quasistatic approximation compared with fΛCDM and QCDM. We also show the total temperature power spectrum CTT.  The enhancement of the low-multipole power
+spectrum directly reflects the high-redshift decay of the gravitational potential in oDGP and QCDM. In QCDM, the effect at the lowest multipoles is smaller since a scalar field has a Jeans scale at the horizon. Beyond this scale, dark energy perturb-ations slow the decay of the potential.
+There are analogous corrections for oDGP on large scales but they have the oppos-
+
+67
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3.10: The CMB temperature anisotropy power spectra of the various models. Top panel: oDGP under the quasi-static (QS) approximation versus QCDM and fΛCDM for the total power (upper curves) and the ISW effect (lower curves). Bottom panel: oDGP (QS) compared with the dynamical scaling (DS) solution. The DS solution predicts a further enhancement of the ISW effect such that ℓ < 10 strongly violates the WMAP measurements (points). The errors are mainly associated with cosmic variance at these multipoles and the 68% and 95% CL bands per ℓ have been attached to the DS model.
+
+68
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3.11: Top panel: the spatial wavenumbers corresponding to the ISW effect under the QS approximation for multipoles ℓ = 2, 20. For ℓ = 20 the scales associated with the effect are 1/rc ⨭ k ⨭ 1/r∗ and even the quadrupole receives much of its contribution from 1/rc k. Bottom panel: the fractional difference between the dynamical scaling (DS) and quasi-static (QS) solutions for DGP at the relevant scales for ℓ = 2, 20. For ℓ = 20, the QS approximation is accurate to the several percent level.
+
+69
+ite sign. Under the DS approximation, the decay rate of the Φ− actually increases at the largest scales (see Fig. 3.11) leading to even larger fluctuations. In §3.4.2 we show that the full dynamics only serves to make the decay of the gravitational potential more rapid; the QS solution should thus be taken as a lower bound on the ISW effect. Hence, the discrepancy between the oDGP QS predictions and the measurements at ℓ = 2 − 5 in the three-year WMAP data are a challenge to the model that will require either a cut off in the initial spectrum or other new phenomena near rc to overcome. At ℓ ∼ 20, the ISW effect comes from physical scales that are within the limit of the quasi-static approximation as well as well below rc. The ISW effect here is a small fraction of the total anisotropy and is best isolated through cross correlation with tracers of the gravitational potential, e.g. galaxies. Moreover the cross correlation can isolate the redshift history of the potential decay and expose a key prediction of
+the oDGP structure formation: an early decay of the potential.
+
+
+Galaxy-ISW correlation test
+The oDGP model predicts a stronger and earlier decay of the gravitational potential than the fΛCDM model. By cross-correlating galaxies of different redshifts with the CMB, one can in principle reconstruct the redshift history of the potential decay. Furthermore, the cross-correlation arises from the well understood quasi-static (QS) regime of oDGP.
+The cross-power spectrum of the CMB and a set of galaxies gi is given by a generalisation of Eq. (3.95)
+
+
+CgiI = 4π ∫ dk Igi (k)II(k) k
+PΦ−Φ−(k, 0)
+,	(3.98)
+
+70
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3.12: The galaxy-ISW cross-correlation coefficient Ri in each galaxy bin from z = 0 to z = 3. Solid curves denotes fΛCDM and dash curves denotes oDGP. Note the much larger correlation at high z in oDGP.
+
+71
+where the galaxy kernel Igi is
+
+
+Igi (k) = ∫
+dz Φ−(k, z) W Φ−(k, 0)
+gi (k, z)jℓ(kD)
+dD  1/2
+
+/
+dr
+
+.	(3.99)
+
+
+Under the QS approximation, the window function becomes
+
+g	2	k2 ni(z)bi(z)
+
+W i (k, z) =
+3Ω
+,	(3.100)
+2	1 + z
+
+m HO
+where ni(z) is the redshift distribution of the galaxies normalised to ∫ dzni = 1 and bi(z) is the galaxy bias.
+For definiteness, we assume that the galaxy sets come from a net galaxy distribu-tions of
+
+n (z) 𝖺 z2e−(z/1.5)2 ,	(3.101)
+
+where the normalisation is given by the LSST expectation1 of 35 galaxies per arcmin2. For the subsets of galaxies, we assume that this total distribution is separated by photometric redshifts which have a Gaussian error distribution with rms σ(z) = 0.03(1 + z) (see [70] for details). The redshift distributions are then given by
+
+
+ni(z) =
+
+Aing
+2
+
+(z)
+"erfc
+z	z
+√2σ(z)
+
+− erfc
+ z	z 
+√2σ(z)	,
+
+
+where erfc is the complementary error function and Ai is determined by the normal-isation constraint.
+Our galaxy bias bi(z) is determined by a halo model and ranges from 1.4 at z ∼ 0 to 3.8 at z ∼ 3. However, with our narrow binning, the bias is nearly constant across
+1. http://www.lsst.org
+
+72
+the bin and so its value can be empirically determined through comparing the auto-and cross-power spectra once the data are in hand. In particular, the cross-correlation
+coefficient Ri in harmonic space
+
+
+CgiI
+Ri = 	ℓ	
+
+(3.102)
+
+ℓ	qCTTCgigi
+
+is independent of the bias and is a robust measure of the galaxy-ISW correlation.
+In Fig. 3.12, we show Ri for oDGP and fΛCDM. The main difference appears
+in the high-redshift bins and reflects the early decay of the potential in oDGP. The correlation of high-redshift galaxies with the CMB is therefore a sharp test of the oDGP model.
+To determine whether these correlations are potentially observable, we estimate the sampling and noise errors in the cross-correlation measurement.  First, let us
+define the total galaxy power spectra C˜gigi as
+
+C˜gigi = Cgigi + Ngigi .	(3.103)
+ℓ	ℓ	ℓ
+
+Here the shot noise Ngigi = 1/ni where ni is the angular number density of galaxies
+ℓ	A	A
+in the bin. With our number densities, the variance is nearly sample limited in all of the redshift bins.
+Likewise the total power in the CMB measurements is given by
+
+
+
+C˜TT = CTT + N TT
+(3.104)
+
+ℓ	ℓ	ℓ
+
+where the instrumental noise N TT is ∆2 eℓ(ℓ+1)σ2/8ln2. With either WMAP or Planck
+ℓ	T
+
+73
+variance limited to good approximation.
+The error on cross-correlation can be calculated under the Gaussian assumption
+
+
+as
+∆Cg I	,u	1
+"  g I 2
+g g	TT#1/2
+/
+
+
+where fsky is the sky fraction covered by the galaxy survey.
+	Statistical Properties of Galaxy Correlations	
+z¯
+	0.2
+	0.6
+	1.0
+	1.4
+	1.8
+	2.2
+	2.6
+	3.0
+	
+	(Si/Ni)/qfsky
+	2.5
+	5.0
+	5.9
+	6.0
+	5.7
+	5.3
+	4.9
+	4.5
+	
+	ℓ5O%
+	12
+	18
+	23
+	26
+	29
+	31
+	33
+	35
+	
+	RoDGP/RfΛCDM
+ℓ50%	ℓ50%
+	0.83
+	1.1
+	1.6
+	2.2
+	2.8
+	3.6
+	4.4
+	5.3
+	
+	Table 3.1: Rows: mean redshift, total signal-to-nose of correlation, multipole ℓ below which 50% of the (Si/Ni)2 arises, ratio of correlation between oDGP and fΛCDM at that multipole.
+
+
+The signal to noise in each bin is given by
+
+  Si !2	Σ  CgiI 2
+
+=
+Ni	ℓ
+∆CgiI 
+(3.106)
+
+
+and these values are given in Tab. 3.1. In the sample variance limit approached by our fiducial assumptions
+
+  Si !2	Σ
+
+/
+/ /	/
+(Ri )2
+
+/
+/
+
+
+Even at high redshift z ∼ 2 − 3 the signal to noise allows a 15% − 20% measurement of the correlation. Such a measurement would be more than sufficient to distinguish
+
+74
+Most of the detectable signal comes from the regime where the QS approximation is appropriate. At low multipoles ℓ < 10, the cosmic variance of both the galaxy and temperature fields dominate [71]. By ℓ = 100 the sample variance of the acoustic peaks dominates. From the signal to noise sum in Eq. (3.106), one can define ℓ5O% as the multipole at which the (Si/Ni)2 reaches half its total value. This scale is also given in Tab. 3.1 and lies between ℓ = 20 − 40 for most of the bins. At this scale the ratio of correlation coefficients in oDGP and fΛCDM approaches a factor of 6 at z = 3. High-redshift galaxies can thus test the quasi-static oDGP predictions with high significance.
+
+
+Discussion
+
+We have introduced a new scaling ansatz which allows solutions to linear perturb-ations in the DGP model on all scales less than the cross-over scale rc up to the present epoch. The equations of motion for linear perturbations on the brane require knowledge of the gradient of the so-called master variable into the bulk. The master variable obeys a master equation in the bulk. To solve the master equation, it is sufficient to have two boundary conditions, one on the brane and the other in the bulk.
+Our scaling solution begins with an ansatz for the brane boundary condition: that the evolution of the master variable is scale free on the brane. The second boundary condition is that the master variable vanishes at the causal horizon in the bulk. With these two boundary conditions, we solve the master equation to determine the gradient. With the gradient known, we can then replace the scale-free ansatz with the dynamical solution and iterate the solution until convergence.
+
+75
+We find that the quasi-static (QS) solution of [32] is rapidly approached once the perturbation crosses the horizon. Before horizon crossing, there are strong deviations from the quasistatic solution. For modes that crossed the horizon only recently, during the acceleration epoch, we find that the metric perturbation Φ − Ψ decays more rapidly than the QS solution. The QS solution itself has a stronger decay than the ΛCDM model. The extra decay compared with ΛCDM is extremely robust to changing the gradient of the master variable into the bulk, the one variable that is required to close the equations of motion on the brane.
+A potential problem with the DGP model is the existence of a ghost degree of freedom [72–76], It is known, for instance, that the de Sitter background is unstable to classical linear perturbations in the presence of non-conformal matter; however, it is claimed in [77] that strong-coupling effects at small radii around matter sources ensure that the theory remains stable.
+The point of view of our work has been to assume that linear perturbation theory remains valid on the largest scales. This is motivated by the fact that the late universe is dominated by the gravitational interaction of dark-matter haloes. The internal structure of the haloes is controlled by the strongly-coupled non-linear theory. On the other hand, the radius below which strong-coupling is important for haloes is approximately equivalent to their size and therefore their interactions should be driven by the linear theory analysed in this work.
+We do find that deep into the accelerated era the spacetime becomes unstable on the timescale of the expansion (but not a short-time instability). However, this is an effect that only becomes important far into the future and is negligible as far as the observational impact today is concerned. We therefore assume that during the early universe, when the theory does not exhibit instabilities, the analysis for DGP
+
+76
+proceeds in exactly the same way as that for GR. Then, deep during the acceleration era, instabilities develop and the theory may or may not be saved by non-linear effects—an issue on which we remain agnostic. This evolutionary history appears to be the only one which is capable of reproducing the universe as we see it. If strong coupling effects are important straight away and at all scales, the approximation of a homogeneous background cosmology is completely inapplicable and the DGP model would not be able to reproduce observations such as supernova luminosities. We therefore effectively assume a best-case scenario for DGP: should this analysis fail to predict the observations, the model is excluded. If it passes the observational tests, a more careful study of the effects of the strong coupling regime during the acceleration era would be required to understand fully the future evolution of the universe in the DGP model.
+The self-accelerating DGP braneworld model is challenged by expansion history constraints from the CMB, supernovae and the Hubble constant. Unlike a model with a cosmological constant as the dark energy, the DGP model requires spatial curvature to satisfy the CMB and supernovae constraint and even so mildly exceeds bounds on the Hubble constant.
+In a dark-energy model, the DGP expansion history would be ruled out by struc-ture formation tests. These challenges for the model are serious but perhaps not insurmountable. Among the most powerful are the baryon oscillations and the large-angle CMB anisotropy from the ISW effect. In the DGP model, these two phenomena lie close to the two critical scales: r∗ where gravity transitions from obeying the usual Einstein equations to a scalar-tensor or weak-brane phase and rc where gravity exits the weak-brane phase and becomes fully 5 dimensional. At the r∗ transition, the theoretical framework to calculate structure formation is currently incomplete. At
+
+77
+the rc scale, changes in the initial power spectrum or new gravitational physics may ameliorate the problem.
+The enhancement of the ISW effect from the decay of the gravitational potential extends to intermediate scales where the theoretical calculations are robust. The main difference between the DGP and the ΛCDM expansion history is the prediction that the gravitational begins its decay at high redshift. A sharp test of the DGP scenario would be to isolate this decay at high redshift by cross correlating the CMB with a high-redshift galaxy population. The cross-correlation coefficient is also relatively robust to changes in the initial amplitude of fluctuations. We show that a galaxy survey that covers a substantial fraction of the sky at z > 1 can detect this correlation at high significance. Such surveys are currently being planned for the measurement of high-redshift baryon oscillations. Alternately, radio sources, X-ray sources and quasars provide other high-redshift populations for cross correlation.
+A possible source of confusion for this test is the apparent number density fluc-tuation induced by magnification from gravitational lensing by the same structures associated with the ISW effect [78]. Magnification both lowers the number density for a fixed population behind a lens and also raises it for a fixed flux limit by bringing faint galaxies into the sample. This effect may be separated from a true spatial cor-relation by examining different populations of objects where the competition between these two effects differ and the cross-correlation between high and low redshift galaxy populations. A full examination of this issue is beyond the scope of this work but it is likely that the galaxy-ISW cross correlation will become a sharp test of the DGP braneworld acceleration model in the future.
+
+CHAPTER 4
+METRIC-VARIATION F (R) GRAVITY
+
+Introduction
+
+For a second category of modification to gravity, we turn to f (R) models, where the Einstein–Hilbert action for general relativity is modified by the addition of a non-linear function of the Ricci scalar, R. A wide variety of f (R) functions has been demonstrated to result in late-time acceleration (e.g. [14, 79, 80]).
+However, it was only later noticed that some f (R) models do not have expansion histories that match those of ΛCDM cosmology: the usual high-curvature matter-dominated phase is replaced with a low-curvature phase with a different time evolution [81, 82]. It has been shown, however, that at least some models do correctly predict a matter-dominated era [83, 84].
+What is less clear in the literature is whether any proposed metric-variation f (R) modification can simultaneously satisfy stringent solar-system bounds on deviations from general relativity as well as accelerate the expansion at late times. Chiba [85] showed that the fundamental difficulty is that f (R) gravity introduces a scalar degree of freedom with the same coupling to matter as gravity that, at the background cosmological density, is extremely light. This light degree of freedom produces a long-range fifth force or, equivalently, a dissociation of the curvature of the space-time from the local density. As a result, the metric around the Sun is predicted to be different than is implied by observations. This problem has been explicitly proven to exist for a wide variety of f (R) models, if the Sun is placed into a background of cosmological density [86, 87].
+
+
+78
+
+79
+If high density could be re-associated with high curvature this difficulty would disappear. The scalar degree of freedom would become massive in the high-density solar vicinity and hidden from solar-system tests by the so-called chameleon mechan-ism [88–90]. Faulkner et al. [90] analysed a class of models where solar-system tests of gravity could be evaded, but only at the price of reintroducing the cosmological constant as a constant piece of f (R) that drives the cosmic acceleration but is un-related to local modifications of gravity. Moreover, for these models to satisfy local constraints, all aspects of the cosmology are essentially indistinguishable from general relativity with a cosmological constant.
+In this chapter, we summarise the findings of [91–93]. We start off in §4.2 by presenting the equations of motion for f (R) gravity. We then proceed by discussing the transformation that brings the theory to a scalar-tensor form. This allows us to analyse the conditions required for the existence of a stable matter-dominated phase in the cosmological solution.
+We then proceed in §4.3 to develop linear perturbation theory in for predicting cosmological observables such as the Cosmic Microwave Background (CMB) and the large-scale structure of the universe exhibited in galaxy surveys. We work in the phys-ical frame where the matter is minimally coupled and obeys simple conservation laws. Since f (R) provides a functional degree of freedom, we choose to reverse engineer a model which has the same expansion history as ΛCDM, separating the background and linear effects of the modification. Then, in §4.3.5 we introduce a class of broken-power-law models which has ΛCDM as one of its limits, does not significantly depart from ΛCDM expansion history in a large region of parameter space and yet does not contain an explicit cosmological constant.
+Finally, in §4.4, we investigate the behaviour of this broken-power-law model in
+
+80
+the vicinity of objects such as the Sun and the galaxy. We show explicitly that solar-system tests alone place only weak constraints on our class of models. This allows us to put nearly model-independent limits on the parameter space of f (R) theories which escape solar-system constraints, provided gravity behaves similarly to general relativity in the galaxy. However, if cosmological deviations from general relativity are required to be large, the latter condition is satisfied only with extreme and testable changes to the galactic halo. We discuss these results in §4.5.
+
+f (R) Dynamics
+
+We consider modifications to the Einstein-Hilbert action with matter of the form
+
+S = ∫ d4x√−g " R + f (R) + Lm# ,	(4.1)
+
+where R is the Ricci scalar, κ2 = 8πG and Lm is the matter Lagrangian. Note that a constant f is just a cosmological constant. In this theory, we can obtain the equations of motion in two ways
+By varying the action with respect to the metric. This results in fourth-order equations of motion and is the subject of analysis in this chapter
+By using the Palatini formalism of treating the metric and the connection as two independent degrees of freedom. In general relativity, this procedure res-ults in an equation of motion which equates the connection to the Christoffel connection, recovering the Einstein equations. In f (R) theories this is no longer true. For more information of the Palatini formalism see §5.
+
+81
+Varying with respect to the metric we obtain the modified Einstein equations
+
+Gµν + fRRµν − gµν  f − fR! − ∇µ∇νfR = κTµν ,	(4.2)
+
+where fR := df/dR and fRR := d2f/dR2. Since the Ricci scalar contains second derivatives of the metric, the metric-variation version of f (R) gravity is a fourth-order theory. This not only significantly complicates our ability to find solutions in these theories, but potentially introduces the danger of new instabilities [94].
+This form of modification to gravity was first proposed in [95] where f (R) 𝖺 R2, with the modifications to gravity occurring at high curvatures and—specifically—in the early universe, where the cosmological solutions to this Starobinsky model contain a period of inflation, without recourse to a separate scalar field.
+More recently, Carroll et al. (“CDTT”, [14]) have used an inverse-curvature modi-fication of the form f (R) = −µ4/R to modify gravity at low curvatures. This again results in equipping the cosmological solutions with a period of inflation-like accelerat-
+ing expansion, but this time at late times, possibly providing a mechanism to explain dark energy. It is on this sort of low-curvature models that we will concentrate our analysis.
+The impact of f (R) can be alternatively viewed in terms of the field equation for
+fR. The trace of Eq. (4.2) can be interpreted as the equation of motion for fR
+
+3  fR − R + fRR − 2f = κ2T .	(4.3)
+
+
+This is a fully dynamical equation for the (function of the) Ricci scalar. The fourth-order nature of (4.2) is a result of there being an additional scalar degree of freedom in f (R) gravity in addition to the two polarisations of the graviton: the Ricci scalar
+
+82
+is potentially independent of the local energy density. We will refer to solutions to f (R) gravity where the Ricci scalar is close to the general-relativistic value, R ≈ κ2ρ as “high-curvature”, whereas those where R ⨭ κ2ρ will be called “low-curvature”.
+Eq. (4.3) can be recast in the form
+
+
+ fR
+= ∂Veff ,	(4.4)
+∂fR
+
+
+
+with the effective potential
+
+∂Veff
+/
+
+/
+
+
+= 1  R − f
+
+
+
+R + 2f − κ2ρ  .	(4.5)
+
+
+This method of looking at the Ricci scalar is suggestive of the possibility of being able to extract the new scalar and to rewrite the theory in a simpler manner, and is taken to its conclusion in §4.2.1.
+In order for an f (R) model to be consistent with cosmological observations, the evolution of the scale factor must remain close to that of the concordance ΛCDM model: i.e. a period of radiation domination, followed by high-curvature matter dom-ination, ending in an era of acceleration. In §4.3.1, we show how to construct a function f (R) which will replicate any desired expansion history. In the remainder of this section we will concentrate on the properties f (R) must have in order to replicate this expansion history stably.
+
+Scalar-Tensor Duality
+So far, we have been analysing f (R) theory in the Jordan frame. It is in this frame in which matter is minimally coupled to gravity and therefore follows geodesics of the metric. As shown in [85, 96], one can perform a transformation to the Einstein frame,
+
+83
+where gravity is unmodified, but there is an additional non-minimally coupled scalar which evolves in a potential. However, here, matter no longer follows geodesics, and therefore we need to transform back to the Jordan frame in order to interpret the physical predictions.
+In this section, we will use the subscript “J” to denote quantities in the Jordan frame and the subscript “E” to denote those in the Einstein frame.
+Provided that fRR /= 0 and 1 + fR > 0, we can use the conformal transformation
+to the Einstein metric, gE = exp(σψ)gJ	with the new scalar field defined as
+
+
+ψ ≡ σ ln(1 + fR) ,	(4.6)
+
+where σ = sgn(fR) ensures that ψ ≥ 0. The Jordan-frame curvature RJ(ψ) can then be found by inverting the relation (4.6). The resulting Einstein-frame action is one for a scalar-tensor theory of gravity 1
+
+
+S = ∫ d4xq−gE 1  R − 3 (∇Eψ)2 − V (ψ) +
+
+
+
+
+
+
+where
+ 2κ
+
++ exp(−2σψ)Lm[gE
+2
+exp(−σψ)] ,	(4.7)
+
+V (ψ(RJ
+)) = RJfR − f .	(4.8)
+(1 + fR)2
+
+Henceforth in this section, all derivatives, with the exception of fR and fRR, will be taken with respect to Einstein-frame variables.
+/
+1. Defining ϕ ≡ σψ/√2/3κ yields canonical normalisation.
+
+84
+High-Curvature Stability
+For expository purposes we use a generalisation of the CDTT model [14]:
+
+
+µ4 f (RJ) = −σ R
+,	(4.9)
+
+
+where σ = ±1 and µ ∼ HO. The σ = +1 model is the original CDTT choice with fRR < 0 and has a period of late-time acceleration with an effective w = −2/3. As in all inverse-curvature models, the behaviour in the low curvature acceleration phase where |fR| ≫ 1 is independent of σ [97]. However, the acceleration phase for σ = −1 (mCDTT) eventually causes a sign change in 1 + fR evolving past a co-ordinate singularity in the Einstein frame. Moreover, a sign change in 1 + fR at low curvature would lead to Jordan-frame instabilities in a perturbed universe. Nevertheless the mCDTT model is illustrative and its pathologies are avoidable: any function f (R) such that
+
+
+lim
+RJ→∞
+fR = 0	(4.10)
+
+could have been chosen for this analysis. For example, the class of models we introduce in §4.3.5 is a natural extension of mCDTT.
+We analyse the model in the Einstein frame, with the scalar defined as in (4.6).
+At high curvature, ψ is inversely related to the Jordan-frame Ricci scalar RJ
+
+µ4
+
+lim
+RJ→∞
+ψ ∼ (R )2 .	(4.11)
+
+
+Small ψ implies a high curvature. If ψ evolves away from zero, the expansion enters a low-curvature phase. The potential for the scalar, as defined in (4.8) is
+V (ψ) = 2σµ2 e−2σψ qσ(eσψ −1) .	(4.12)
+
+85
+We assume that the matter is a sum of a pressureless component, pm = 0, with density ρm and an ultrarelativistic component, pr = 1/3, with density ρr. Non-minimal coupling to the trace of the energy-momentum tensor requires that the evol-ution of ψ is driven by an effective potential
+
+
+1 ∂V
+ψ =
+σ 2 J
+−	κ ρ
+e−2σψ ≡ ∂Veff ,	(4.13)
+
+
+where we have used ρJ  = ρE e2σψ to bring out the dependence on ψ. Neither of
+the two quantities is conserved in the Robertson-Walker background of the Einstein
+frame. For example, ρE evolves according to
+
+ρE 𝘫 + 3ρE = −σψ𝘫ρE .	(4.14)
+
+Assuming that ψ ⨭ 1, i.e. that the curvature is high—RJ ≫ µ2—we can expand the effective potential around ψ = 0:
+
+
+
+Veff ≈
+κ2ρJ
++
+6
+2 σµ2 3
+qψ −
+σκ2ρJ ψ +	(ψ3/2) .	(4.15)
+3
+
+
+This potential has an extremum at ψGR ≈ µ4/(κ2ρJ )2, i.e. at the GR limit of RJ ≈ κ2ρJ . For the CDTT model this is a maximum, whereas for the mCDTT model this is a minimum. The potentials for both models are presented in Fig. 4.1.
+We can easily demonstrate the instability of the high-curvature solution for the CDTT model in the Einstein frame. For ψ ⨭ 1, the equation of motion of the scalar field becomes (4.13)
+
+
+𝘫𝘫
+HE𝘫 !	𝘫
+ σ   µ2
+J !
+
+ψ +	3 +
+HE
+ψ + 3H2
+√ψ − κ ρm
+≈ 0 ,	(4.16)
+
+86
+
+
+
+
+
+
+
+
+
+1
+
+0
+
+−1
+
+−2
+4
+
+2
+
+0
+
+10−5	100
+ψ
+
+Figure 4.1: Exact effective potentials with constant term subtracted for a range of matter densities for scalar field in CDTT (top panel) and mCDTT (bottom panel) models. Both models exhibit extrema at RJ = κ2ρJ : a maximum for CDTT and a
+minimum for mCDTT.
+
+87
+where 𝘫 ≡ d/d ln aE, and HE obeys the Friedman equation
+
+
+ψ𝘫2	1
+κ2ρE
+κ2ρE
+
+H2 = H2	+ /V (ψ) + 	m + 	r  .	(4.17)
+E	E 4	6	3	3
+We now assume that there exists a well behaved high-curvature solution to (4.16), say ψO. We then perturb around this solution by defining ψ = ψO + δψ which results in the linearised equation of motion for the perturbation
+
+𝘫𝘫
+HE𝘫 !	𝘫	σµ2
+/	/
+
+E	6HEψO
+
+For σ = +1, δψ is unstable on very short timescales, since ψO ⨭ 1. However, for the mCDTT model, the high-curvature solution is stable, provided it exists. This analysis is related to [85] where the mass of the scalar around ψ = 0
+
+2 = V,ψψ |ψ=O = f −1 − 3R − 4f ,	(4.19)
+
+gave a large tachyonic value m2 < 0 for the CDTT model at high curvature. The
+field rapidly rolls away from this maximum to high values, causing the Jordan frame curvature to be significantly below that of GR. We illustrate this with a numerical solution in Fig. 4.2. The calculation is initialised at the GR value of the Ricci scalar but it drops quickly to a small value and proceeds to decay as aJ−4.
+We now need to establish the existence of the high-curvature solution in the case of mCDTT, i.e. that corrections to GR remain small throughout the matter-dominated phase. We continue to assume that ψ, ψ𝘫 ⨭ 1 (implying that Jordan- and Einstein-frame quantities are approximately equal) and we ignore the contribution of radiation. We take ψGR = µ4/(κ2ρJ )2 as the GR solution for the Jordan-frame Ricci scalar.
+
+88
+
+
+
+
+
+
+
+
+
+
+
+1040
+
+
+
+1030
+
+
+
+1020
+
+
+
+1010
+
+
+100
+
+
+
+10−10
+−15
+
+ainit−10
+
+
+log aJ
+
+−5	0
+
+
+Figure 4.2: Evolution of the Jordan-frame Ricci scalar for LCDM (solid; µ = HO), mCDTT (dashed;

@@ -1,0 +1,570 @@
+fluctuations and GW [96]. Therefore, initial vacuum perturbations cannot describe the observed structures in the Universe. In addition, a negligible amplitude of GW is predicted on cosmological scales. However, a scale invariant spectrum of curvature fluctuations can be obtained by using primordial vacuum fluctuations in a second scalar field in the ekpyrotic scenario [97].
+Another alternative to cosmological inflation is the emergent string gas sce-nario [53], based on a possible extended quasi-static period in the very early Universe dynamically dominated by a thermal gas of fundamental strings, after which there is a transition to the expanding radiation phase of standard cos-mology. The thermal fluctuations of a gas of closed strings on a compact space with toroidal topology, which do not originate quantum mechanically (unlike in most models of inflation), then produce a scale-invariant spectrum of curvature
+
+
+
+
+fluctuations and GW. The tilt of the spectrum of curvature fluctuations is pre-dicted to be red as in inflation, but that of the GW is slightly blue, in contrast to what is obtained in inflation.
+We should note that although some of the alternatives to inflation are sug-gested by ideas motivated by QG, it is also of interest to know whether inflation occurs naturally within QG. We will discuss this later.
+
+The physics horizon and Synge’s g-method
+The Physics horizon: The basic problem as regards inflation and any attempts to model what happened at earlier times in the history of the Universe is that we run into the physics horizon: we simply do not know what the relevant physics was at those early times. The reason is that we cannot construct par-ticle colliders that extend to such high energies. Thus we are forced either to extrapolate tested physics at lower energies to these higher energies, with the outcome depending on what aspect of lower energy physics we decide to ex-trapolate (because we believe it is more fundamental than other aspects), or to make a phenomenological model of the relevant physics.
+Synge’s g-method: A very common phenomenological method used is Synge’s
+g-method : running the EFE backwards [20]. That is, in eqn. (1), instead of trying to solve it from right to left (given a matter source, find a metric g that corresponds to that matter source), rather choose the metric and then find the matter source that fits. That is, select a metric g with some desirable properties, calculate the corresponding Ricci tensor Rab and Einstein tensor Gab and then use (1) to find the matter tensor Tab so that (1) is identically satisfied, and voila! we have an exact solution of the EFE that has the desired geometric properties. No differential equations have to be solved. The logic is: via (1),
+{gab} ⇒ {Rab} ⇒ {Gab} ⇒ {Tab}.	(3)
+One classic example is choosing an inflationary scale factor a(t) that leads to structure formation in the early Universe that agrees with observations. We can then run the EFE backward as in (3) to find a potential V (φ) for an effective scalar field φ that will give the desired evolution a(t). It is a theorem that one almost always can find such a potential [98], essentially because the energy momentum conservation equations are in that case equivalent to the Klein-Gordon equation for the field φ; but there is no real physics behind claims of the existence of such a scalar field. It has not been related to any matter or field that has been demonstrated to exist in any other context.
+
+Dynamical behaviour of cosmological solutions
+The dynamical laws governing the evolution of the universe are the classical EFEs. It is of interest to study exact cosmological solutions and especially spatially inhomogeneous cosmologies [2], and their qualitative and numerical behaviour. Dynamical systems representations of the evolution of cosmological
+
+
+
+
+solutions are very useful [99, 100]. In particular, it is of interest to extend stability results to the study of cosmological models with matter and in the case of a non-zero cosmological constant [11].
+
+Stability of cosmological solutions
+This concerns the question of whether the evolution of the EFE under small perturbations is qualitatively similar to the evolution of the underlying exact cosmological solution (e.g., by including small-scale fluctuations). This prob-lem involves the investigation of the (late time) behavior of a complex set of partial differential equations about a specific cosmological solution [101]. The asymptotic behaviour of solutions in cosmology was reviewed in [100].
+We note that for a vanishing cosmological constant and matter that satis-fies the usual energy conditions, spatially homogeneous spacetimes of (general) Bianchi type IX recollapse and consequently do not expand for ever. This re-sult is formalized in the so-called closed universe recollapse conjecture [102], which was proven in [103]. However, Bianchi type IX spacetimes need not rec-ollapse in the case that a positive cosmological constant is present. The study of the stability of de Sitter spacetime for generic initial data is very important, particularly within the context of inflation (although, as noted earlier, precise statements concerning the generality of inflation are problematic).
+
+Stability of de Sitter spacetime
+A stability result for de Sitter spacetime (vacuum and a positive cosmological constant) for small generic initial data was proven in [136]. Therefore, de Sitter spacetime is a local attractor for expanding cosmologies containing a positive cosmological constant. In addition, it was proven that any expanding spatially homogeneous model (in which the matter obeys the strong and dominant energy conditions) that does not recollapse is future asymptotic to an isotropic de Sitter spacetime [137]. This so-called “cosmic no hair” theorem is independent of the particular matter fields present. The remaining question is whether general, initially expanding, cosmological solutions corresponding to initial data for the EFE with a positive cosmological constant and physical matter exist globally in time. It is known that this is indeed the case for a variety of matter models (utilizing the methods of [104]). Global stability results have also been proven for inflationary models with a scalar field with an exponential potential [138, 139]. It is, of course, of considerable interest to investigate the cosmic no–hair theorem in the inhomogeneous case. A number of partial results are known in the case of a positive cosmological constant [105].
+The possible quantum instability of de Sitter spacetime has also been investi-gated. In a semi-classical analysis of backreaction in an expanding universe with a conformally coupled scalar field and a cosmological constant, it was advocated that de Sitter spacetime is unstable to quantum corrections and might, in fact, decay. In principle, this could consequently provide a mechanism that might alleviate the cosmological constant problem and also, perhaps, the fine-tuning
+
+
+
+
+problems that occur for the very flat inflationary potentials that are necessitated by observations.
+In particular, it has been suggested that de Sitter spacetime is unstable due to infrared effects, in that the backreaction of super-Hubble scale GW could contribute negatively to the effective cosmological constant and thereby cause the latter to diminish. Indeed, from an investigation of the backreaction effect of long wavelength cosmological perturbations it was found that at one LQG order super-Hubble cosmological perturbations do give rise to a negative contribution to the cosmological constant [106]. It has consequently been proposed that this backreaction could then lead to a late time scaling solution for which the contribution of the cosmological constant tracks the contribution of the matter to the total energy density; that is, the cosmological constant obtains a negative contribution from infrared fluctuations whose magnitude increases with time [160].
+
+The nature of cosmological singularities
+Although the singularity theorems imply that singularities occur generally in GR, they say very little about their nature [46]. For example, singularities can occur in tilted Bianchi cosmologies in which all of the scalar quantities remain finite [107]. However, such cosmological models are likely not generic. Belinskii, Khalatnikov and Lifshitz (BKL) [108] have conjectured that within GR, and for a generic inhomogeneous cosmology, the approach to the spacelike singularity into the past is vacuum dominated, local and oscillatory, obeying the the so-called BKL or mixmaster dynamics. In particular, due to the non-linearity of the EFE, if the matter is not an effective massless scalar field, then sufficiently close to the singularity all matter terms can be neglected in the FE relative to the dynamical anisotropy. BKL have confirmed that the assumptions they utilized are consistent with the EFE. However, that doesn’t imply that their assumptions are always valid in general situations of physical interest. Numerical simulations have recently been used to verify the BKL dynamics in special classes of spacetimes [109, 110]. Rigorous mathematical results on the dynamical behaviour of Bianchi type VIII and IX cosmological models have also been presented [111].
+Up to now there have essentially been three main approaches to investigate the structure of generic singularities, including the original heuristic BKL met-ric approach and the so-called Hamiltonian approach. The dynamical systems approach [100], in which the EFE are reformulated as a scale invariant asymp-totically regularized dynamical system (i.e., a first order system of autonomous ordinary or partial differential equations) in the approach towards a generic spacelike singularity, allows for a more mathematically rigorous study of cos-mological singularities. A dynamical systems formulation of the EFE (in which no symmetries were assumed a priori) was presented in [112], which resulted in a detailed description of the generic attractor, precisely formulated conjectures concerning the asymptotic dynamical behavior toward a generic spacelike sin-gularity, and a well-defined framework for the numerical study of cosmological
+
+
+
+
+singularities [113]. It should be noted that these studies assume that the singu-larity is spacelike, but there is no reason that this has to be so (this is not, in fact, generic). The effect of GR spikes on the BKL dynamics and on the initial cosmological singularity was reviewed in [9].
+
+Isotropic singularity
+Penrose [52] has utilized entropy considerations to motivate the “Weyl curvature hypothesis” that asserts that on approach to an initial cosmological singular-ity the Weyl curvature tensor should tend to zero or at least remain bounded (this conjecture subsequently led to the conformal cyclic cosmology proposal). It is difficult to represent this proposal mathematically but the clearly formu-lated geometric condition presented in [114], that the conformal structure should remain regular at the singularity, is closely related to the original Penrose pro-posal. Such singularities are called isotropic or conformal singularities. It is known [115] that solutions of the EFE for a radiation perfect fluid that admit an isotropic singularity are uniquely characterized by particular free data spec-ified at the singularity. The required data is essentially half as much as the data necessary in the case of a regular Cauchy hypersurface. This result was generalized to the case of a perfect fluid with a linear equation of state[116], and can be further extended to more general matter models (e.g., more general fluids and a collisionless gas of massless particles) [37].
+As noted earlier, we do not aim to discuss alternative theories of gravity in this review. However, it is of cosmological interest to determine whether isotropic singularities are typical in any modified theories of gravity. For ex-ample, the past stability of the isotropic FLRW vacuum solution, on approach to an initial cosmological singularity, in the class of theories of gravity con-taining higher–order curvature terms in the GR Lagrangian, has been inves-tigated [117]. In particular, a special isotropic vacuum solution was found to exist, which behaves like a radiative FLRW model, that is past stable to small anisotropies and inhomogeneities (which is not the case in GR). Exact solutions with an isotropic singularity for specific values of the perfect fluid equation of state parameter have also been obtained in a higher dimensional flat anisotropic Universe in Gauss-Bonnet gravity [118]. A number of simplistic cosmological solutions of theories of gravity containing a quadratic Ricci curvature term in the Einstein-Hilbert Lagrangian have also been investigated [119].
+
+
+Problems in physical cosmology
+The predicted distribution of dark matter in the Universe is based on obser-vations of galaxy rotation curves, nucleosynthesis estimates and computations of structure formation [120]. The nature of the missing dark matter is not yet known (e.g., whether it is due to a particle or whether the dark matter phenom-ena is not characterized by any type of matter but rather by a modification of GR). But it is, in general, anticipated that this particular problem will be ex-plained within conventional physics. More recently primordial black holes have been invoked to explain the missing dark matter and to alleviate some of the problems associated with the CDM scenario (see later) [196].
+
+Origin of structure
+The CMB anisotropies and structure observed on large angular scales are com-puted using linear perturbations about the standard background cosmological model. However, such large scale structure could never have been in causal con-tact within conventional cosmology and hence its origin cannot be explained by it without invoking inflation. In general, the testable predictions of inflationary models are scale-invariant and nearly Gaussian adiabatic density fluctuations and almost, but not exactly, a scale-invariant stochastic background of relic GW. However, and as noted earlier, possible alternatives to inflation to obtain successful structure formation consistent with current observations [96] exist, including the popular matter bounce cosmologies.
+
+Large scale structure of the Universe
+In the standard cosmology it is assumed that cosmic structure at sufficiently large scales grew out of small initial fluctuations at early times, and we can study their evolution within (cosmological) linear perturbation theory (LPT) [203]. We assume that on large scales there is a well defined mean density and on intermediate scales, the density differs little from it. This is a highly non-trivial assumption, which is perhaps justified by the isotropy of the CMB. It is usual to use a fluid model for matter and a kinetic theory model for radiation. At late times and sufficiently small scales fluctuations of the cosmic density are not small. The density inside a galaxy is about two orders of magnitude greater than the mean density of the Universe, and LPT is then not adequate to study structure formation on galaxy-cluster scales of a few Mpc and less. It is necessary to treat clustering non-linearly using N-body simulations. Since this is mainly relevant on scales much smaller than the Hubble scale, it has usually been studied in the past with non-relativistic N-body simulations. On intermediate to small scales, density perturbations can become large. Inside a galaxy they are small, and even inside a galaxy cluster the motion of galaxies is essentially decoupled from the Hubble flow (i.e., clusters do not expand). Therefore, the gravitational potential of a galaxy remains small, and in the Newtonian (longitudinal) gauge, metric perturbations remain small. In the
+
+
+
+
+past, this together with the smallness of peculiar velocities has been used to argue that Newtonian N-body simulations are sufficient.
+In the adiabatic case, the last scattering surface is a surface of constant baryon density, so the observed CMB fluctuations do not represent density fluctuations, as is often stated [163]. Thus, in standard perturbation theory language, this shows that in the uniform density gauge (which for adiabatic perturbation is the same as the uniform temperature gauge) the density fluctu-ations are given exactly by the redshift fluctuations. In the non-adiabatic case this will no longer be true. The main shortcoming of the conventional analysis is, of course, the instantaneous recombination approximation (accurate to a few percent only for multipoles with ℓ < 100); to go beyond this one has to use a Boltzmann approach [163] (although nothing changes conceptually). Also, in principle we cannot neglect radiation or neutrino (even massive) velocities. In addition, Newtonian simulations only consider 1 (of in general 6) degrees of freedom, and observations are made on the relativistic, perturbed light cone. Hence relativistic calculations are needed.
+
+Perturbation theory
+The complexity of the distribution of the actual matter and energy in our ob-served Universe, consisting of stars and galaxies that form clusters and super-clusters of galaxies across a broad range of scales, cannot be described within the standard spatially homogeneous model. To do this we must to be able to describe spatial inhomogeneity and anisotropy using a perturbative approach starting from the uniform FLRW model as a background solution [183]. The perturbations live on the four-dimensional background spacetime, which is split into three-dimensional spatial hypersurfaces utilizing a (1+3) decomposition. Within the standard cosmology a flat background spatial metric (k = 0) in LPT is assumed, which is consistent with current observations. For generalisa-tions to spatially hyperbolic or spherical FLRW models see, e.g., [170].
+The introduction of a spatially homogeneous background spacetime to de-scribe the inhomogeneous Universe leads to an ambiguity in the choice of co-ordinates. Selecting a set of coordinates in the (real) inhomogeneous Universe, which will then be described by an FLRW model plus perturbations, essen-tially amounts to the assignation of a mapping between spacetime points in the inhomogeneous Universe and the spatially homogeneous background model. The freedom in this selection is the gauge freedom, or gauge problem, in GR perturbation theory. Either the gauge freedom must be handled very carefully by delineating what freedom remains at each stage of coordinate specialisation [200], by using gauge covariant variables [198], or utilizing 1+3 gauge invariant and covariant variables [199].
+Indeed, gauge-invariant variables are widely utilized since they constitute a theoretically effective way to extract predictions from a gravitational field theory applied to the Universe for large-scale linear evolution [170]. In addition, by using gauge-invariant variables the analysis is reduced to the study of only three decoupled second order ordinary differential equations, and they represent
+
+
+
+
+physical quantities that can be immediately connected to observations. In the review [183] the focus was on how to construct a variety of gauge invariant variables to deal with perturbations in different cosmological models at first order and beyond. Most work to date has been done only to linear order where the perturbations obey linear FE.
+As a theoretical application the origin of primordial curvature and isocur-vature perturbations from field perturbations during inflation in the very early Universe can be considered. LPT allows the primordial spectra to be related to quantum fluctuations in the metric and matter fields at considerably higher energies. In the most simple single field inflationary models it is, in fact, pos-sible to equate the primordial density perturbation with the curvature pertur-bation during inflation, which essentially remains constant on very large scales for adiabatic density perturbations. The observed power spectrum of primor-dial perturbations revealed by the CMB and LSS is thus a powerful probe of inflationary models of the very early Universe.
+The outstanding problems within LPT are mostly technical issues and, in particular, include the important questions of the physical cut off to the short and long wavelength modes and the convergence of the perturbations (and hence the validity of the perturbative approach itself).
+
+Non-linear perturbations
+The new frontier in cosmological perturbation theory is the investigation of non-linear primordial perturbations, at second-order and beyond. Although the simple evolution equations obtained at linear order can be extended to non-linear order [183], the non-linearity of the EFE becomes evident and consequently the resulting definitions of gauge invariant quantities at second order clearly become more complicated than those at first order. Recently, perturbations at second order [186] and, more generally, non perturbative effects have been studied, where there are certainly more foundational problems.
+Perturbative methods allow quantitative statements but have limited do-mains of validity. Recently, several groups have started to develop relativistic simulations [77]. Numerical relativistic N-body simulations are a unique tool to study more realistic scenarios, and appear to compare well to numerical rel-ativity fluid simulations [167]. However, assumptions are still made that need to verified. In particular, care must be taken in applying Newtonian intuition to GR. For example, [25] do not solve the full EFE and use the fact that the gravitational potential is very small, but spatial derivatives, and second deriva-tives, are not small. Therefore, when computing the Einstein tensor they go only to first order in the gravitational potentials and their time derivatives (but also include quadratic terms of first spatial derivatives and all orders for second spatial derivatives).
+New qualitatively effects occur beyond linear order. The non-linearity of the FE inevitably leads to mixing between scalar, vector and tensor modes and the existence of primordial density perturbations consequently generate vector and tensor modes. Non-linearities then permit additional information to be de-
+
+
+
+
+termined from the primordial perturbations. A lot of effort is currently being devoted to the investigation of higher order correlations (and issues of gauge dependence). Non-Gaussianity in the primordial density perturbation distri-bution would uncover interactions beyond the linear theory. Such interactions are minimal (suppressed by slow-roll parameters) in the simplest single field inflation models, so any detection of primordial non-Gaussianity would cause a major reassessment about our knowledge of the very early Universe. In prin-ciple, this approach can be easily extended to higher-orders, although large primordial non-Gaussianity is expected to dominate over non-linearity in the transfer functions.
+However, cosmological perturbation theory based on a cosmological 1+3 split is ill-suited to address important questions concerning non-linear dynamics or to evaluate the viability of scenarios based on classical modifications of GR. A new formulation of a fully non-perturbative approach has been advocated [169], along with a gauge fixing protocol that enables the study of these issues (and especially the linear mode stability in spatially homogeneous and nearly homogeneous backgrounds) in a wide range of cosmological scenarios, based on a method that has been successful in analyzing dynamical systems in mathematical and numerical GR based on the generalized harmonic formulation of the EFE.
+
+Non-linear regime
+At the non-linear order a variety of different effects come into play, including gravitational lensing of the source by the intervening matter and the fact that redshift is affected by peculiar motion, both of which have relatively simple Newtonian counterparts. But there are a host of complicated relativistic cor-rections once light propagation is worked out in more detail. There are selection effects too: we are much more likely to observe sources in halos, some objects are obscured from view by bright clusters, and so on.
+Within the context of perturbation theory it is relatively easy to predict the expectation value of the bias in the Hubble diagram for a random direction [191]. The full second-order correction to the distance-redshift relation has been calculated within cosmological perturbation theory, yielding the observed redshift and the lensing magnification to second order appropriate for most investigations of dark energy models [189]. These results were used in [187] to calculate the impact of second-order perturbations on the measurement of the distance to the last-scattering surface, where relativistic effects can lead to significantly biased measurements of the cosmological parameters at the sub-percent to percent level if they are neglected.
+The somewhat unexpected percent level amplitude of this correction was discussed in [188], but the focus therein was on on the effect of gravitational lensing only and thus did not consider the perturbations of the observed redshift, notably due to peculiar velocities, which can lead to a further bias in parameter estimation. In addition, [190] noted that the notion of average is adapted to the observation of the Hubble diagram and may differ from the most common angular or ensemble averages, and suggested a possible non-perturbative way
+
+
+
+
+for computing the effects of inhomogeneities on observations based on light-like signals using the geodesic light-cone gauge to explicitly solve the geodetic-deviation equation.
+In order to comprehensively address the issue of the bias of the distance-redshift relation, previous work was improved upon by fully evaluating the ef-fect of second-order perturbations on the Hubble diagram [191]. In particular, the notion of average which affects bias in observations of the Hubble diagram for inhomogeneity of the Universe was carefully derived, and its bias at second-order in cosmological perturbations was calculated. It was found that this bias considerably affects direct estimations of the evolution of the cosmological pa-rameters, and particularly the equation of state of dark-energy. Despite the fact that the bias effects can reach the percent level on some parameters, er-rors in the standard inference of cosmological parameters remain less than the uncertainties in observations [191].
+In further work [80], a non-perturbative and fully relativistic numerical cal-culation of the observed luminosity distance and redshift for a realistic cosmo-logical source catalog in a standard cosmology was undertaken to investigate the bias and scatter, mainly due to gravitational lensing and peculiar velocities, in the presence of cosmic structures. The numerical experiments provide conclu-sive evidence that the non-linear relativistic evolution of inhomogeneities, once consistently combined with the kinematics of light propagation on the inhomo-geneous spacetime geometry, does not lead to an unexpectedly large bias on the distance-redshift correlation in an ensemble of cosmological sources. However, inhomogeneities introduce a significant non-Gaussian scatter that can give a large standard error on the mean when only a small sample of sources is avail-able. But even for large, high-quality supernovae samples this scatter can bias the inferred cosmological parameters at the percent level [80].
+It was argued in [192], using a fully relativistic treatment, that cosmic vari-ance (i.e., the effects of the local structures such as galaxy clusters and voids) is of a similar order of magnitude to current observational errors and consequently needs to be taken into consideration in local measurements of the Hubble expan-sion rate within the standard cosmology. In addition, the constraint equation relating metric and density perturbations in GR is inherently non-linear, and leads to an effective and intrinsic non-Gaussianity in the large-scale dark matter density field on large scales (even when the primordial metric perturbation is itself Gaussian) [194].
+
+Non-Gaussianities
+In standard cosmology, the primordial perturbations corresponding to the seeds for the LSS are selected from a Gaussian distribution with random phases, jus-tified primarily from the fact that primordial non-Gaussianity (PNG) has not yet been observed and also theoretically (e.g., the central limit theorem); thus a Gaussian random field constitutes a satisfactory representation of the properties of density fluctuations. However, any deviation from perfect Gaussianity will, in principle, reveal important information on the early Universe, and an investi-
+
+
+
+
+gation of PNG is especially relevant if these initial conditions were generated by some dynamical process such as, for example, inflation. In particular, a direct measurement of non-Gaussianity would permit us to move beyond the free-field limit, yielding important information about the degrees of freedom, the possi-ble symmetries and the interactions characterizing the inflationary action. The current status of the modelling of, and the searching for, PNG of cosmological perturbations was reviewed in [179].
+In order to evaluate PNG from the early Universe to the present time, it is necessary to self-consistently calculate non-Gaussianity during inflation. We must then evolve scalar and tensor perturbations to second order outside the horizon, matching conserved second-order gauge-invariant variables to their val-ues at the end of inflation (appropriately taking into account reheating). Finally, we need to investigate the evolution of the perturbations after they re-entered the Hubble radius, by computing the second-order radiation transfer function and matter transfer function for the CMB and LSS, respectively. Although these calculations are very complicated, PNG represents an important tool to probe fundamental physics during inflation at energies from the grand unified scale, since different inflationary models predict different amplitudes and shapes of the bispectrum, which complements the search for primordial gravitational-waves (PGW) (via a stochastic GW background).
+The Planck satellite has produced good measurements of higher-order CMB correlations, resulting in considerable stringent constraints on PNG. The latest data regarding non-Gaussianity tested the local, equilateral, orthogonal (and various other) shapes for the bispectrum and led to new constraints on the pri-mordial trispectrum parameter [84]. The most extreme possibilities have been excluded by CMB and LSS observations, and now primarily the detection of (or constraints from) mild or weak deviations from primordial Gaussian initial con-ditions are sought, characterized by a small parameter, fNL, compatible with observations. Even though the sensitivity is not comparable to CMB data [84], the bispectra for redshift catalogues can be determined (e.g., the three-point correlation functions for the WiggleZ and BAO spectroscopic surveys) [182], and interesting observational bounds on the local fNL from current constraints on the power spectrum can be obtained (see [179] and references within). Ne-glecting complications arising from the breaking of statistical isotropy (such as sky-cut, noise, etc.) the procedure is, in general, to fit the theoretical bispec-trum template, and fNL is found to be approximately 0.01 in generic inflation [173].
+PNG is certainly the best way of practically investigating the only guaran-teed prediction of inflation [16]. Indeed, even though standard models of slow-roll inflation only predict tiny deviations from Gaussianity (consistent with the Planck results), specific oscillatory PNG features can be indicative of particular string-theory models. Therefore, the search for PNG is of interest for theoreti-cally well-motivated models of inflation and the Planck results can potentially severely constrain a variety of classes of inflationary models beyond the sim-plest paradigm. However, only the failure to find any such evidence for PNG can falsify inflation.
+
+
+
+
+There are some outstanding issues regarding non-Gaussianity [179]. First, it has been argued that the consistency relation is certainly not observable for single field inflation since, in the strictly squeezed limit, this term can be gauged away by an appropriate coordinate tranformation (so that the only residual term is proportional to the same order of the amplitude of tensor modes). Second, in the non-linear evolution of the matter perturbations in GR the second order dark matter dynamics leads to post-Newtonian-like contributions which mimic local PNG. A recent estimate of the effective non-Gaussianity due to GR light cone effects comparable to a PNG signal were discussed in [179], which would correspond in the comoving gauge to an fNL in the pure squeezed limit. There-fore, such a GR PNG signature may not be detectable via any cosmological observables.
+
+Simulations and post-Newtonian cosmological perturbations
+There has been a lot of recent interest in testing the validity of GR using cos-mological observables related to structure formation. Since the physics involved in horizon-sized cosmological perturbations is quite different to that which oc-curs on smaller scales, where galaxies and clusters of galaxies are present, this is challenging. LPT [183] is not suitable for investigating gravitational fields associated with structures that have highly non-linear density contrasts (which necessarily have to be small in order for the perturbative expansion to be well defined). GR numerical simulations using, for example, the gevolution code developed by Adamek, Durrer and co-workers [25], have proven to be an im-portant new tool for studying structure formation. Targeted fully relativistic non-linear simulations with an evolving non-zero spatial curvature have also been developed [156].
+Alternatively, 2-parameter post-Newtonian cosmological perturbation schemes have been proposed [185]. Indeed, recent progress [184] has been made in ap-plying the techniques from post-Newtonian expansions of the gravitational FE into cosmology in the presence of highly non-linear structures to relate the func-tions that parameterize gravity on non-linear scales to those that parameterize it on very large scales. This so-called parameterized post-Newtonian cosmology (PPNC) has been used to analyse alternative theories of gravity [184]. This was achieved by simultaneously expanding all of the relevant equations in terms of two parameters; the first associated with the expansion parameter of LPT, and the second characterizing the order-of-smallness from post-Newtonian theory [185]. An alternative Lagrangian-coordinates based approximation scheme to provide a unified treatment for the two leading-order regimes was presented in [193].
+
+Black holes and gravitational waves
+Gravitational waves
+Recent progress in numerical GR has allowed for a detailed investigation of the collision of two compact objects (such as, e.g., black holes and neutron stars). In
+
+
+
+
+such a violent inspiral an enormous amount of gravitational radiation is emit-ted. The detection and subsequent analysis of the gravitational wave (GW) signals produced by black hole mergers necessitate extremely accurate theoret-ical predictions that can be utilized as template waveforms that can then be used to cross-correlate with the output of GW detectors. This is, of course, of fundamental import in view of the recent LIGO observations [152]. Indeed, such an analysis led to the direct detection of GW by the LIGO-Virgo collaboration [153]. To a large extent the numerical problem has been solved in the case of a black-hole merger, although the relatively simple properties of the two-body non-linear gravity waveforms [154] have not been fully understood mathemati-cally. There is also the recent binary neutron star merger event, which is much more difficult to model within GR. There are a number of open problems, par-ticularly concerning the physical nature of the recently observed merger events [155]. GW astronomy will potentially play an increasingly important role within cosmology [209]. For example, there is a promise that they will allow very good direct estimates of the distance of colliding black holes, avoiding the need for the usual cosmic distance ladder.
+
+Primordial gravitational waves
+Primordial GW (PGW) add to the relativistic degrees of freedom of the cos-mological fluid. Any change in the particle physics content, perhaps due to a change of phase or freeze-out of a species, will leave a characteristic imprint on an otherwise featureless spectrum of PGW. The existence of a stochastic PGW background at a detectable level would then probe new physics beyond the stan-dard cosmological model, and this may be possible with the Laser Interferometer Space Antenna (LISA) [178].
+Recently, a class of early-Universe scenarios has been theoretically identified which produce a strongly amplified, blue-tilted spectrum of GW [177]. Detec-tion of GW over a broad range of frequencies can provide important information concerning the underlying source [177], and also may well be of relevance for the spectrum of GW emitted by other scaling sources. In addition, a population of massive primordial black holes (PBHs) would be anticipated to generate a stochastic background of GW [197], regardless of whether they form binaries or not. The focus is usually on the GW generated by either stellar black holes (ob-servable by LIGO) or supermassive black holes (observable by LISA). However, with an extended PBH mass function, the GW background ought to encompass both of these limits and also every intermediate frequency. Many supermassive black holes are in binary pairs that orbit together and eventually merge, emit-ting GW in the process. The LISA detection window includes mergers of black holes in the mass range of 104 — 107 solar masses [174]. Due to the possibility that the coalescing black holes observed by LIGO [153] could be of primordial origin, black holes in the intermediate mass range of 10 — 103 solar masses are of particular interest since such PBHs might contribute to the dark matter (see below).
+The primary goal of CMB observations is the polarization signal induced
+
+
+
+
+by GW at the start of inflation. There is a considerable effort underway to obtain stricter limits on the tensor-to-scalar ratio, r, the quantitative measure of the ratio of the primordial amplitude of the B-mode (or shearing) polar-ization component due to GW to the scalar (or compressive) mode of CMB temperature fluctuations associated with the density fluctuations that seeded structure formation. While PGW have not yet been detected, the upper limit on r from the BICEP2/Keck CMB polarization experiments [84] (in conjunction with Planck temperature measurements and other data) is less than or equal to approximately 0.07 at the 95% confidence level. However, the tensor amplitude predicted depends on the (fourth power of the) energy scale of inflation, and so the primordial polarization signal could, in principle, be unmeasurably small [16].
+
+Primordial black holes
+The possibility of 10 — 103 solar mass objects is of particular interest in view of the recent detection of black-hole mergers by LIGO which has, in particular, revitalized the interest in stellar mass black holes of around thirty solar masses (which are larger than initially expected) [153], and especially non-evaporating primordial black holes (PBHs). In particular, it has been suggested that massive PBHs could provide the dark matter [180] or the supermassive black holes which reside in galactic nuclei and power quasars [181].
+The most natural mechanism for PBH formation involves the collapse of primordial inhomogeneities, such as might arise from inflation (or spontaneously at some kind of phase transition). Interest in PBH increased due to the discovery that black holes radiate [195], since only PBH could be small enough for this to be relevant cosmologically. Indeed, evaporating PBHs have been invoked to explain several cosmological features [196]. Since it was initially believed that PBHs would grow as fast as the Universe during the radiation-dominated era and consequently attain a huge mass by the present time, it was thought that PBH never formed and could thus be excluded. However, such an argument is essentially Newtonian and neglects the cosmological expansion, and in [175] it was shown that there is no self-similar solution in which a black hole can grow as fast as the Universe. Therefore, once formed, their contribution to the dark matter of the Universe grows with time (the mass of non-evaporating PBH is unchanged after formation and can only grow if they accrete matter) [176].
+PBH would have the particle horizon mass at formation and could form as early as the Planck epoch, when QG forces are comparable to gravitational forces that at later epochs are far too weak on particle scales. However, as the Universe expands and cools, tiny black holes of Planck mass all quickly disappear. More massive black holes live longer and should survive until today as early Universe relics [175]. Attention has consequently shifted to larger PBHs, which are unaffected by Hawking radiation. Such PBHs might have important cosmological consequences.
+Perhaps the most exciting possibility is that PBH larger than 103 solar masses could provide the dark matter which comprises 25% of the critical den-
+
+
+
+
+sity [196]. 7 Since PBHs formed in the radiation-dominated era, they are not subject to the well-known cosmological nucleosynthesis constraint that baryons can contribute at most 5% to the critical density. PBH should thus be classified as non-baryonic and behave like any other form of cold dark matter (CDM). The subject has consequently become very popular and non-evaporating PBHs may turn out to play a more important cosmological role than evaporating ones. PBHs could provide the dark matter but a number of constraints restrict their possible mass ranges [180], including those arising from gravitational mi-crolensing, but PBHs at a level of 10% of the dark matter are still possible over a wide range of masses. The PBH density might be much less than the dark matter density, but the PBHs are not necessarily required to provide all of the dark matter [196]. For intermediate mass black holes of 103 solar masses a dark matter mass fraction of only 0.1% still allows for important consequences for structure formation. Cosmological structures could be generated either individ-ually through a ‘seed’ effect or collectively through the ‘Poisson’ effect (fluctu-ations in the black hole population generates an initial density perturbation for PBH dark matter), consequently alleviating some of the possible problems as-sociated with the standard CDM scenario (even when they may only contribute a small portion of the dark matter density). Both mechanisms for generating fluctuations then amplify through gravitational instability to bind massive re-gions [181] and have been considered as either alternatives or in conjunction
+with other CDM scenarios.
+
+Effects of structure on observations:	Gravitational lensing
+A particularly important cosmological question is whether gravitational lensing significantly alters the distance-redshift relation D(z) to the CMB last scattering surface or the mean flux density of sources. Any such D(z) bias could change CMB cosmology, and the corresponding bias in the mean flux density could alter supernova cosmology.
+In spatially homogeneous and isotropic cosmologies the ratio between the proper size of a source and the angular diameter distance is a function of redshift only. In an inhomogeneous Universe, lensing by intervening metric fluctuations can cause magnification of the angular size, with a corresponding change of flux density, since surface brightness is not affected by gravitational lensing. Therefore, the apparent distance to objects at a given redshift can effectively become a randomly fluctuating quantity.
+Using conservation of photons (i.e., flux conservation), Weinberg [161] argued that in the case of transparent lenses there is no mean flux density amplification, so that the uniform universe formula for D(z) remains unchanged (where the averaging is over sources, and the result relies on the implicit assumption that the area of a constant-z surface is unaffected by gravitational lensing). This
+
+7 An alternative to PBHs includes persistent (or “pre-big-bang”) black holes occurring in bouncing cosmologies [172].
+
+
+
+issue has recently been revisited [162], and it was argued that in an ensemble averaged (and more appropriate cosmological) sense, the perturbation to the area of a surface of constant redshift is in reality a very small (approximately one part in one million) effect, supporting Weinberg’s argument and validating the usual treatment of gravitational lensing in the analysis of CMB anisotropies. However, Weinberg’s argument regarding the mean flux density appears to contradict well-known theorems of gravitational lensing, such as the focusing theorem. Non-linear relativistic perturbation theory to second order indicates that there is bias in the area of a surface of constant redshift and in the mean distance to the CMB last scattering surface. Indeed, a lot of investigations of gravitational lensing continue to advocate significant effects in the mean. Bolejko [157] (also see references in [162]) has provided a comprehensive review of such studies, some of which claim large effects, some of which obtain effects at the level of a few percent (which would still be important), while others argue that the effects are exceedingly small. A non-vanishing perturbation to the mean flux densities of distant sources caused by intervening structures, at least for sources that are viewed along lines of sight that avoid mass concentrations, effectively contradict Weinberg’s result. Recent non-linear analysis does suggest
+that non-linear effects have not been proven to be negligible [80, 191, 163].
+
+Backreaction and averaging
+Averaging in GR is a fundamental problem within mathematical cosmology [3]. The cosmological FE on the largest scales are derived by averaging or coarse graining the EFE of GR. A solution of this problem is critical for the correct interpretation of cosmological data [24] (on the largest scales the dynamical behavior can be significantly different from the dynamics in the standard cos-mology; e.g., the expansion rate can be greatly affected [145]).
+First, it is of great importance to provide a rigorous mathematical defini-tion for averaging (tensors on a differential manifold) in GR. A spacetime or space volume averaging approach must be well defined and generally covariant [141, 143], and produce the structure equations for the averaged macroscopic geometry (and give a prescription for the correlation functions in the macro-scopic FE which emerge in the averaging of the non-linear FE), which do not necessarily take on precisely the same mathematical form as the original FE [143]. It is straightforward to average scalar quantities and since, in general, a spacetime is determined entirely by its scalar curvature invariants, a specific spacetime averaging scheme based on scalar invariants only has been proposed [142]. In addition, only scalar quantities are (space volume) averaged within the (1 + 3) cosmological spacetime splitting approach of Buchert [145].
+Although the standard FLRW ΛCDM cosmology has, to date, been very successful in explaining all of the observational data (up to a number of potential anomalies and tensions [83]) it does require, as yet undetected, sources of dark energy density that currently dominate the dynamics of the Universe. More importantly, the actual Universe is neither isotropic nor spatially homogeneous on small scales. Indeed, observations of the current late epoch Universe uncovers
+
+
+
+
+a very complicated picture in which the largest gravitationally bound structures, consisting of clusters of galaxies of different sizes, form, in turn, “knots, filaments and sheets that thread and surround very underdense voids” [146]. An enormous fraction of the volume of the current Universe is, in fact, contained within voids of a single characteristic size of about 30 megaparsecs [147] with an almost “empty” density contrast [148].
+In principle, a number of coarse grainings over different scales is required to reasonably model the observed complicated gravitationally bound large scale structures [22]. In standard cosmology it is implicitly taken that the matter distribution on the largest scale can be modeled by an “effective averaged out” stress-energy tensor, regardless of the physical details of the actual coarse grain-ing at each scale. However, based on the two-point galaxy correlation function, the very smallest scale on which there can be a reasonable definition of sta-tistical homogeneity is 70–120 megaparsecs [149], and even then variations for the number density of galaxies on the order of several percent still arise in the largest possible survey volumes [150, 21]. It is fair to say that it is not at all clear what the largest scale is that matter and geometry on smaller scales can be coarse-grained such that the average evolution is still an exact solution of the EFE.
+A smooth macroscopic geometry (with macroscopic matter fields), applicable on cosmological scales, is obtained after an appropriate averaging. The coarse graining of the EFE for local inhomogeneities on small scales can generally lead to important backreaction effects (consisting of not just the mean cosmic variance) [151] on the average dynamics of the Universe [145]. In addition, all cosmological observations are deduced from null geodesics (the paths of photons) which travel enormous distances, preferentially traversing the underdense voids of the actual Universe. But inhomogeneities perturb curved null geodesics, so that observed luminosity distances can be significantly affected.
+A consistent approach to cosmology is consequently to treat GR as a meso-scopic theory, which is applicable only on the mesoscopic scales for which it has actually been verified, containing a mesoscopic metric field and a mesoscopic ge-ometry. The effective macroscopic dynamical equations on cosmological scales are then obtained by averaging. It had originally been hoped that such a back-reaction approach might help resolve the dark energy and dark matter prob-lems. However, it now seems unlikely that backreaction can replace dark energy (although large effects are theoretically possible from inhomogeneities and av-eraging [24]). But it can certainly affect precision cosmology at the level of 1
+% [26] and may offer a better understanding of some issues in cosmology (such as the emergence of a homogeneity scale and non-zero spatial curvature due to non-linear evolution of cosmic structure).
+
+Backreaction magnitude
+This last point is very important, and since it has been a source of some con-troversy let us summarize briefly here. The Universe is very inhomogeneous on small scales at the present time but smooth on large scales. It must be re-
+
+
+
+
+membered that density pertubations (δρ/ρ) ≃ 1028 on Earth, but the metric is very close to Minkowski. To establish the backreaction effects we need approx-imation methods to deal with metric perturbations (δh/h) ≃ 10−5 but second derivatives ≃ 1028. Various approaches have been tried:
+Zalaletdinov [143] developed a very complex bimetric averaging formalism that can, in principle, be applied in general; the effect of such averaging on cosmological observations was estimated to be of the order of about 1 % [144]. A global Ricci deformation flow for the metric, which is generically applicable in cosmology, was introduced by Carfora.
+Buchert [145] developed an explicit (1 + 3) spatial averaging scheme, al-though the scheme is not fully deterministic and depends on some ad hoc phenomenological assumptions. Models based on this scheme, and partic-ularly the “timescape cosmology” of Wiltshire which utilizes time-dilation effects in voids, can predict very large effects, and there have been claims that the results are sufficient to explain dark energy [24].
+There have been various approximation schemes that have claimed that the backreaction effects are negligible (≃ 10−5), including a scheme by Green and Wald [205, 151] which uses distributional methods that does not involve explicit averaging.
+Durrer and collaborators have developed detailed second order calcula-tions that predict percent level changes (i.e., that are sufficient to be of significance in GR precision cosmology studies), and they (using the “gevo-lution” numerical code) and others have subsequently confirmed this with N-body simulations.
+The most reasonable outcome of this debate, at least in our view and particularly in light of the latter results, is that observable differences caused by backreaction effects will be of the order of 1%.
+
+Spatial curvature
+Current constraints on the background spatial curvature, characterized by Ωk, within the standard cosmology are often used to “demonstrate” that it is dy-namically negligible: Ωk ~ 5 × 10−3 (95% confidence level) [95]. However, in standard cosmology the spatial curvature is assumed to be zero (or at least very small and below the order of other approximations) for the analysis to be valid. Therefore, strictly speaking, the standard model cannot be used to predict a small spatial curvature.
+In general, Ωk is assumed to be constrained to be very small primarily based on CMB data. However, the recently measured temperature and polarization power spectra of the CMB provides a 99% confidence level detection of a negative Ωk = —0.044 (+0.018, —0.015), which corresponds to a positive spatial curva-ture [84]. Direct measurements of the spatial curvature Ωk using low-redshift
+
+
+
+
+data such as supernovae, baryon acoustic oscillations (BAO) and Hubble con-stant observations (as opposed to fitting the FLRW model to the data) do not place tight constraints on the spatial curvature and allow for a large range of possible values (but do include spatial flatness). Low-redshift observations often rely on some CMB priors [201] and, in addition, are sensitive to the assumptions about the nature of dark energy. 8
+Attempts at a consistent analysis of CMB anisotropy data in the non-flat case suggest a closed model with Ωk ~ 1% [122, 202]. Including low redshift data, Ωk = —0.086 ± 0.078 was obtained [122], which provides weak evidence in favor of a closed spatial geometry (at the level of 1.1σ), with stronger evidence for closed spatial hypersurfaces (at a significantly higher σ level) coming from dynamical dark energy models [202] (see also [123]). The inclusion of CMB lensing reconstruction and low redshift observations, and especially BAO data, gives a model dependent constraint of Ωk = —0.0007 ± 0.0019 [84].
+As an illustration, constraints on the phenomenological two curvature model (which has a simple parametrized backreaction contribution [144] leading to decoupled spatial curvature parameters Ωkg , Ωkd in the metric and the Fried-mann equation, respectively, and which reduces to the standard cosmology when Ωkg = Ωkd ), were investigated in [164]. It was found that the constraints on the two spatial curvature parameters are significantly weaker than in the standard model, with constraints on Ωkg an order of magnitude tighter than those on Ωkd , and there are tantalizing hints from Bayesian model selection statistics that the data favor Ωkd /= Ωkg at a high level of confidence.
+Observations on recently emerged, present-day (large-scale mean) average
+negative curvature are weak and not easy to measure [124]. Local inhomo-geneities and perturbations to the distance-redshift relation at second-order contribute a monopole at the sub-percent level, leading to a shift in the apparent value of the spatial curvature (as do other GR curvature effects in inhomoge-neous spacetimes). Indeed, in an investigation of how future measurements of Ωk are affected by GR effects, it was shown that constraints on the curvature parameter may be strongly biased if cosmic magnification is not included in the analysis [125].
+Given that current curvature upper limits are at least one order of mag-nitude away from the level required to probe most of these effects, there is an imperative to continue pushing the curvature parameter, Ωk, constraints to greater precision (i.e., to about the 0.01% level). These will become increasingly measurable in future surveys such as the Euclid satellite. In addition, the cur-rent curvature parameter estimations are not yet at the cosmic variance limit (beyond which constraints cannot be meaningfully improved due to the cosmic variance of horizon scale perturbations); indeed, the current measurements are more than one order of magnitude away from the limiting threshold [125]. The prospects for further improving measurements of spatial curvature are discussed in [126]. Most importantly, we are interested in model independent [127] and
+
+8 For late Universe observables there is significant degeneracy between Ωk and dark en-ergy parameters; the standard approach is to treat Ωk and these parameters as independent quantities, and to marginalize over the dark energy parameters [121].
+
+
+
+explicitly CMB-independent [121] checks of the cosmic flatness.
+However, currently there is no fully independent constraint with an appro-priate accuracy for a value of Ωk of approximately less than 0.01 on the cosmic flatness from cosmological probes. In principle, a small non-zero measurement of Ωk perhaps indicates that the assumptions in the standard model are not met, thereby motivating models with curvature at the level of a few percent. Such models are certainly not consistent with simple inflationary models in which Ωk is expected to be negligible [204]. We remark that an observation of non-zero spatial curvature, even at the level of a percent or so, could be the re-sult of backreaction effects and be a signal of non-trivial averaging effects [143]. Note that calculations imply a small positive spatial curvature [144] (although backreaction estimates have tended to give a negative mean curvature [124]).
+If the geometry of the universe does indeed deviate slightly from the standard FLRW geometry (for example, due to the evolution of cosmic structures), then the spatial curvature will no longer necessarily be constrained to be constant and any effective spatial flatness may not be preserved. An investigation of a small emerging spatial curvature can be undertaken by relativistic cosmological simulations [77, 25]. However, such simulations need to include all relativistic corrections and can suffer from gauge issues [210, 25]. In particular, using a fully inhomogeneous, anisotropic cosmological numerical simulation, it was shown that [26]: (i) On small scales, below the measured homogeneity scale of the standard cosmology, deviations in cosmological parameters of 6 - 31% were found (in general agreement with LPT and with deviations depending on an observer’s physical location). (ii) On the approximate homogeneity scale of the Universe mean cosmological parameters consistent to about 1% with the corresponding standard cosmology were found (although the parameters can deviate from these mean values by 4-9% again depending on the physical location in the simulation domain). (iii) Above the homogeneity scale of the Universe, 2 - 3% variations in mean spatial curvature and backreaction were found.
+As noted above, attempts to study relativistic models of inhomogeneities rely upon metric forms that are designed to be “close to” the spatially homoge-neous and isotropic metric form. However, these can not also be used to address the cosmological backreaction problem; backreaction can only be present if the structure–emerging average spatial curvature, and hence the large–scale aver-age of cosmological variables, are allowed to evolve [211]. A dynamical coupling of matter and geometry on small scales which allows spatial curvature to vary is a natural feature of GR. Indeed, the requirement that spatial curvature re-mains constant as in an FLRW model on arbitrarily large scales of cosmological averaging is not a natural consequence of any principles of GR. Schemes that suppress average curvature evolution (e.g., by employing periodic boundary con-ditions as in Newtonian models and neglecting global curvature evolution) can not describe global backreaction but only cosmic variance [24]. Moreover, within standard cosmology, spatial fluctuations are conceived to evolve on an assumed background FLRW geometry, but this description only makes sense with respect to their spatial average distribution and its evolution. We note that even small
+
+
+
+
+fluctuations within averaging schemes are also subject to gauge issues [212]. In principle, large effects are possible from inhomogeneities and averaging [22, 24].
+Recently, a relativistic (Simsilun) simulation based on the approximation of a ‘silent universe’ was presented [156]. The simulation begins with perturba-tions around a (flat) standard model (with initial conditions set up using the Planck data). The perturbations are allowed to have non-zero spatial curvature. Initially, the negative curvature of underdense regions is compensated by the positive curvature of overdense regions [213, 144]. But once the evolution enters the non-linear regime, this symmetry is broken and the mean spatial curvature of the universe slowly drifts from zero towards negative curvature induced by cosmic voids (which occupy more volume than other regions). The results of the Simsilun simulation indicate that the present-day curvature of our Universe is Ωk ~ 0.1, as compared to the spatial flatness of the early universe.
+It should be emphasised that the fact that structure formation implies that the present-day Universe (is volume-dominated by voids and) is characterized by on average negative curvature is a subtle issue that follows from the result that intrinsic curvature does not obey a conservation law [24, 23]. Indeed, it dispels the naive expectation that on large scales the distribution of positive spatial curvature for high-density regions and negative spatial curvature for the voids, averages out to the almost or exactly zero spatial curvature assumed.
+
+
+Problems from the quantum realm
+There are a number of very fundamental problems in the quantum regime, cul-minating in the question of whether there is a single unified theory of quantum gravity (QG). And, in particular, is this “theory of everything” string theory? Some problems in the quantum realm are relevant for cosmology. For example, do there exist any fundamental particles that are predicted by QG that have not yet been observed and, if so, what are their properties and are they of im-portance in cosmology? In particular, the detection of the Higgs boson seems to complete the standard model, but with additional new physics that is needed to protect the particle mass from quantum corrections (that could increase it by 14 orders of magnitude). It is believed that supersymmetry is the most reason-able solution to this naturalness problem, but the most simple supersymmetric models have not proved successful and, to date, there is no convincing mecha-nism to break supersymmetry nor to determine the multiple parameters of the supersymmetric theory. In addition, does a theory of QG lead to a multiverse in cosmology? And, perhaps most importantly, do theories of QG naturally lead to inflation?
+
+The problem of quantum gravity:
+The standard model of particle physics concerns only 3 forces: namely, elec-tromagnetism and the strong and weak nuclear forces. A primary goal of the-oretical physics is to derive a theory of QG in which all 4 forces, including that of gravitation, are unified within a single field theory. Up to now, no at-tempt at such a unification has been successful. In particular, it is of interest to know whether QG can be formulated for cosmology and whether there is any extension of quantum mechanics required for QG, and especially quantum cosmology? Quantum cosmology gives rise to a number questions concerning a possible theory for the initial cosmological state [29], which include: what laws or principles might characterize the initial conditions of the Universe and what are the subsequent predictions of the initial conditions for the Universe on macro-, meso- and micro-scopic scales?
+Let us first briefly discuss two cosmological problems that originate in QG and have a very distinct mathematical formulation of particular interest here.
+
+Higher dimensions
+Ordinary spacetime is 4D, but additional dimensions are possible in, for ex-ample, string theory [214]. At the classical level, gravity has a much richer structure in higher dimensions than in 4D. In particular, there has been a lot of work done on the uniqueness and stability of black holes in arbitrary dimensions [215]. For example, closed trapped surfaces and singularity theorems in higher dimensions have been discussed [216] and the positive mass theorem has been proven in arbitrary dimension [217]. However, the problem of stability in higher dimensions is much more difficult. Indeed, there is evidence from numerical
+
+
+
+
+simulations to indicate that there are higher dimensional black holes that are not stable [215]. In addition, the question of cosmic censorship in higher dimen-sions is extremely difficult and is perhaps not even well posed. In fact, there is numerical evidence that suggests that cosmic censorship does not hold [218] and that black holes are not necessarily stable to gravitational perturbations in higher dimensions [219]. Indeed, black holes become highly deformed at very large angular momenta and resemble black branes, and in spacetime dimensions greater than six exhibit an “ultraspinning instability” [220].
+Higher dimensional spacetime manifolds are also considered in a number of cosmological scenarios. For example, in the cosmological context all known mathematical results can be investigated in models with a non-zero cosmological constant. In addition, theoretical results, such as the dynamical stability of higher dimensional cosmological models, are of interest. In particular, spatially homogeneous cosmologies in higher dimensions, and especially extensions of the BKL analysis, have been investigated [221].
+
+AdS/CFT correspondence
+Anti de Sitter (AdS) spacetimes are of interest in QG theories formulated in terms of string theory due to the AdS/CFT (or Maldacena gauge/gravity dual-ity) correspondence, in which string theory on an asymptotically AdS spacetime is conjectured to be equivalent to a conformally invariant quantum field theory (CFT) on its boundary [222, 223]. This holographic paradigm leads to a num-ber of cosmological questions. In particular, the AdS/CFT conjecture strongly motivates the dynamical investigation of asymptotically AdS spacetimes. But, of course, such a spacetime is clearly not this Universe. In addition, recently it has been conjectured that AdS spacetimes are unstable to arbitrarily small perturbations [224].
+The global non-linear stability of AdS has been investigated in spherically symmetric massless scalar field models within GR [225]. Numerical evidence seems to indicate that AdS spacetimes are non-linearly unstable to a “weakly turbulent mechanism” in which an arbitrarily small black hole is formed whose mass is determined by the initial energy. Such a non-linear instability appears to happen for various typical perturbations. However, there are also many perturbations that don’t lead to an instability, which consequently implies the existence of “islands of stability” [226, 227]. It is of great interest to study the non-linear stability of AdS with no assumptions on symmetry; however, such a study is currently intractable both analytically and numerically. But the general gravitational case is clearly richer than the case of spherical symmetry analysed to date [226]. Therefore, it is of great significance to determine if the conjectured non-linear instability in AdS spacetime in more general models behaves in a similar or a different way to that in spherically symmetric scalar field collapse [224].
+
+
+
+Singularity resolution
+Singularity resolution and a quantum singularity theorem
+The existence of singularities indicates a failure of GR when the classical space-time curvature is sufficiently large. This is exactly when QG effects are antici-pated to be important. Therefore, the problem of if, and when, QG can extend solutions of classical GR beyond the singularities is crucial [228]. It is, of course, pertinent to determine whether all singularities can be removed in QG. How-ever, it is certainly not true that all singularities can be resolved within string theory; for example, it is known that the string in an exact plane wave back-ground does not propagate through the curvature singularity in a well-behaved manner [229].
+Gauge/gravity duality, which can be regarded as providing an indirect for-mulation of string theory [230], has been utilized to study singularities in the quantum realm and investigate cosmic censorship with asymptotically AdS ini-tial data. The existence of a quantum version of cosmic censorship was suggested from holographic QG [231]. It has been deduced that a large class of bounces through cosmological singularities are forbidden. Consequently, although some singularities can indeed be resolved, a novel singularity theorem is possible. Therefore, it is important to determine whether a quantum mechanical gener-alization of any of the singularity theorems exists, which would subsequently imply that singularities are inevitable even in quantum settings. In particular, it has been shown that a fine-grained generalized second law of horizon thermo-dynamics can be used to prove the inevitability of singularities [232], thereby extending the classical singularity theorem of Penrose [41] to the semi-classical regime. It is plausible that this result, which was constructed in the context of semiclassical gravity, will still hold in a complete theory of QG [232]. Therefore, not all singularities can be resolved within QG.
+
+Cosmological singularity resolution
+Cosmological singularity resolution can be investigated within loop quantum gravity (LQG) and string theory. (Black hole singularity resolution was reviewed in [5].) LQG is a non-perturbative canonical quantization of gravity. It has been suggested that singularities may be generically resolved within LQG as a result of QG effects [233]. In particular, the classical big bang singularity is replaced by a symmetric quantum big bounce when the energy density is of the order of the Planck density, which occurs without any violation of the energy conditions or fine tuning. The resulting quantum big bounce connects the currently expanding universe to a pre-bounce contracting classical universe.
+The application of LQG in the context of cosmology is referred to as loop quantum cosmology (LQC). In LQC the infinite degrees of freedom reduce to a finite number due to spatial homogeneity. A variety of spatially homogeneous cosmologies have been investigated [234]. In particular, solutions to the effective equations for the general class of Bianchi type IX cosmological spacetimes has been investigated within LQC computationally, wherein the big bang singular-
+
+
+
+
+ity was shown to be resolved [235]. The reduction of symmetries within LQC involves a very considerable simplification, and consequently crucial aspects of the dynamics may be neglected. However, partly due to evidence supporting the BKL conjecture, it is believed that the singularity resolution in spatially homogeneous cosmologies does capture important features of singularity reso-lution in more general spatially inhomogeneous cosmological models [234, 236]. There are ongoing attempts to include spatial inhomogeneities in the analysis [237].
+Various singularities have been investigated within standard LQC. It has been conjectured that all curvature singularities which result in geodesic in-completeness are so-called strong singularities (such as the big bang in GR). In recent years a number of other types of cosmological singularities have been ob-tained, which include the big rip and the big freeze, and sudden and generalized sudden singularities. Of these, the big rip and big freeze are strong singularities within GR, whereas sudden and generalized sudden singularities are weak singu-larities. Using a phenomenological matter model in GR, it has been established that strong singularities are, in general, resolved in LQC, whereas quantum geometry does not usually affect weak singularities [238]. A comprehensive in-vestigation of the resolution of a variety of singularities within modified LQC models, in which the bounce can be asymmetric and the bounce density can be affected, was performed using an effective spacetime description and compared with the analysis in standard LQC [238].
+
+Quantum gravity and inflation
+Although some of the alternatives to inflation alluded to earlier are suggested by ideas motivated by QG, it is also of interest to determine whether inflation occurs naturally within QG. For example, it appears to be difficult to get inflation within string theory [239]. In particular, so-called swampland criteria constrain inflationary models and there are no-go theorems for the existence of de-Sitter vacua in critical string theory. The fact that exact de Sitter solutions with a positive cosmological constant cannot describe the late-time behaviour of the Universe [239] is often interpreted as “bad news” for string theory.
+The observations of Planck 2018 (of the almost scale-invariant and Gaussian primordial curvature perturbations) [84] are compatible with the predictions of simple single scalar field inflation models with a canonical kinetic term and an appropriately flat self-interaction potential minimally coupled to gravity. However, despite the success of the single-field slow-roll inflation model, it is not straightforward to embed such a model within a fundamental theory [240]. However, the so-called α-attractor models and, in particular, the KKLMMT model [241], have been actively studied. The most attractive theoretical proper-ties of these models is their conformal symmetry and their successful embedding into supergravity via hyperbolic geometry. The KKLMMT model is often ac-knowledged as the first to discuss the origin of D-brane inflation within string theory [241], and provides the motivation for more general string inspired cos-mological models. These models predict values for the spectral index and the
+
+
+
+
+tensor-to-scalar ratio which match observational data well. Thus, phenomeno-logical D-brane inflation has attained renewed importance, independent of its string theory origin, since Planck 2018 [84]. Indeed, it has been shown [242] that further phenomenological models of D-brane inflation can be derived within the string theory approach (see also [240]). Because scalar fields (such as, for example, moduli fields) occur ubiquitously in fundamental theories such as su-pergravity and string/M theory, multi-field generalizations of the α-attractor models have also been considered [243].
+A number of inflationary cosmologies have been suggested within the context of string/M-theory [241, 239]. However, very few models exist that can be embedded within LQC [244]. In particular, there are a number of approaches to QG which include bouncing regimes. In resolving the initial singularity, it is of interest to determine whether slow-roll inflation is subsequently allowed (or is even natural). Inflation within the context of LQC, and how the bounce affects the evolution of the inflaton (as compared to the normal scenario with no bounce), was investigated in [245]. The evolution of the inflaton from the initial bounce was studied analytically for a number of important potentials in the case that the inflaton is taken to be the same scalar field that gives rise to the LQC bounce. It was found [245] that LQC, or any bouncing model in which the total energy density of the inflaton field is bounded at the transition, does provide a viable description of the pre-inflationary epoch and the subsequent smooth evolution to the standard inflationary era. The results were particularly encouraging in that the bounds obtained theoretically (on the critical bounce value for the inflaton field in order for there to subsequently be an appropriate slow roll inflationary regime) match (where appropriate) the known results from the numerical dynamics of the fully non-linear LQC.
+
+String inflation
+Cosmological inflation and its realization within QG and, in particular, in string theory, was reviewed in [240]. Examples of string inflation include brane and axion inflation. There are also string inspired effective field theories. Since string theory is considerably more constrained, some effective field theories that are apparently consistent at low energies do not, in fact, admit ultraviolet QG completions (leading to improved predictivity). However, there are indications that it might not be possible to embed simple inflationary models in string theory [239, 240]. One problem is that in order to obtain a period of slow-roll inflation from simple scalar field potentials, field values in excess of the Planck mass are required. But for sufficiently large values of the fields string effects on the shape of the potential must be included, which tend to destroy its required flatness except perhaps in the case of special field symmetries [96] (however, even then string theoretical arguments such as the so-called “Weak Gravity Conjecture” [246] can lead to the effective field theory analysis being invalidated).
+In addition, generating effective theories from string theory can also lead to different ideas as to what a natural (or a minimal) inflationary model might be.
+
+
+
+
+Indeed, a comprehensive understanding of naturalness within string theory is elusive. However, a general feature of all stringy constructions is the existence of a number of light scalar fields, so while multiple ‘unnecessary’ fields might be considered non-minimal in many field theory models, they are ubiquitous within string theory. Time-dependent solutions with string scale curvatures are crucial for any further comprehension, especially if we hope to progress from the paradigm of an effective theory for the massless modes.
+To date, it is fair to say that there have not been any convincing realizations of inflation in the context of superstring theory. Making predictions in string theory is made exceedingly difficult by the landscape problem that string theory has an enormous number of vacua. Despite the fact that dynamics within the landscape is not well understood, it appears that false vacuum eternal inflation is an unavoidable consequence. In addition, all 4D de Sitter vacua in super-symmetric string theories are metastable, since 10D supersymmetric Minkowski spacetime has zero energy, but de Sitter spacetime has positive vacuum energy. In particular, there are well-known no-go theorems for the existence of stable de-Sitter vacua in critical string theory [239]. This is a real problem for inflation should string theory be the final theory of QG.
+The so-called string swampland criteria constrain inflationary models [247]. In addition, the second of the swampland conjectures implies, as noted above, that exact de Sitter solutions with a positive cosmological constant cannot de-scribe the fate of the Universe at late times within string theory [239]. Dynam-ical dark energy scalar field models must also satisfy particular criteria so as to avoid the swampland. The observational implications of such string-theory criteria on quintessence models and the accompanying constraints on the dark energy were studied in [248]. However, since string theory does not naturally lead to scalar fields with an appropriate energy scale to be a reasonable candi-date for quintessence, novel physics from string theory must be introduced to explain dark energy. In some very special models it is possible to characterize the Planck-suppressed corrections to the string theory inflatonary action, lead-ing to the first indications for inflation within string theory [240]. But many critical challenges still remain. Indeed, the ‘simple’ cosmological observations (of the almost scale-invariant and Gaussian primordial curvature perturbations measured by Planck) to date are often interpreted as an argument against com-plex models of inflation in string theory (however, see [240]).
+
+
+Concluding remarks
+We have reviewed recent developments and described a number of open ques-tions in the field of theoretical cosmology. We described the concordance cos-mological model and the standard paradigms of modern cosmology, and then discussed a number of fundamental issues and open theoretical questions, em-phasizing the various assumptions made and identifying which results are in-dependent of these assumptions. Indeed, standard cosmology contains a num-ber of philosophical assumptions that are not always scientific, including the assumption of spatial homogeneity and isotropy at large scales outside our par-ticle horizon. Perhaps a more tangible fundamental issue concerns the measure problem and the issue of initial conditions in inflation. Many of the fundamental problems arise due to the inhomogeneities in the Universe. However, this is also one of the great strengths of present day cosmology: our models predict what structure will occur, and consequently the astounding development of observa-tional projects determining in great detail the characteristics of such structure that serve to give strong limits on cosmological parameters.
+Cosmology is not only a mathematical endeavour, but it is a testable sci-entific theory due to its ability to produce observational predictions. In recent times there has been a plethora of such detailed tests, leading to the so-called era of precision cosmology. Perhaps fundamental questions are less relevant for current working cosmologists, who are more concerned with physical cosmology and data and statistical analysis. But as the modern emphasis changes to more physical and observational issues, theoretical cosmology is still important and fundamental questions persist. In some sense, we hope to record here the state of the art as it now exists.
+A qualitative analysis of the properties of cosmological models and the prob-lems of the stability of cosmological solutions and of singularities is important in mathematical cosmology. A number of open problems in theoretical cosmology involve the nature of the origin and details of cosmic inflation, and its relation to fundamental physics. Perhaps the most urgent open problems of theoretical cosmology include the early and late time accelerated expansion of the universe and the role of the cosmological constant Λ. As we have emphasized, computa-tional cosmology is becoming an increasingly important tool in the investigation of theoretical and physical cosmology.
+We then reviewed a number of open problems in physical cosmology, with particular focus on perturbation theory (and gauge issues) and the formation and distribution of large scale structure in the Universe at present times (and especially in the non-linear regime). Backreaction is still an important issue, although perhaps the more formal mathematical averaging problem is currently more relevant. Finally, gravitational wave astronomy will potentially play an in-creasingly important role within cosmology. Indeed, there is a robust prediction within inflation for a gravitational wave induced CMB polarization signal.
+We also discussed cosmological problems in quantum gravity, including the possible resolution of cosmological singularities and the crucial issue of the role of inflation within quantum gravity.
+
+
+
+
+Finally we have emphasized that, given the uniqueness of the Universe and the limitations on the domain we can explore by any conceivable observations, it is key to carry out all possible consistency tests of our models. For example, the first and foremost is the age of the universe: is the Universe older than its stellar and galactic content? If not, cosmology is in deep trouble. Fortunately this consistency test seems to be satisfied at present (thanks to the cosmological constant). Another consistency test is that all number counts must display a dipole aligned with the CMB dipole; this is presently being contested.
+
+
+Acknowledgements
+We would like to acknowledge Bernard Carr for his helpful comments, and to thank Timothy Clifton and Julian Adamek for fruitful discussions. Financial support was provided by NSERC of Canada (AAC) and NRF of South Africa (GFRE).
+
+References
+G. F. R. Ellis, Relativistic Cosmology in General Relativity and Cosmology, Proc. Int. School of Physics ‘Enrico Fermi’ (Varenna) Course XLVII pp104-179, ed. R. K. Sachs (Academic Press, 1971).
+H. Stephani, D. Kramer, M. MacCallum, C. Hoenselaers and E. Herlt, “Ex-act Solutions of Einsteins Field Equations” (Cambridge University Press, Cambridge, second ed., 2003).
+G. F. R. Ellis, “Relativistic cosmology: Its nature, aims and problems”, in General Relativity and Gravitation, pp. 215–288 eds. B. Bertotti,
+F. de Felice and A. Pascolini (Reidel, Dordrecht, 1984); G.F.R. Ellis and
+W. Stoeger, Class. Quant. Grav. 4 1697 (1987); S. Bildhauer and T. Futa-mase, Gen. Rel. Grav. 23 1251 (1991; T. Futamase, Phys. Rev. D 53 681
+(1993); J. P. Boersma, Phys. Rev. D 57 798 (1998).
+B. Bertotti, Proc. Roy. Soc. London A 294 195 (1966).
+A. Coley, Phys. Scr. 92 093003 (2017).
+D. Hilbert, Bull. Amer. Math. Soc. 8 437 (1902) (see also, in the original German, Gottinger Nachrichten 1 253 (1900) & Archiv. Math. Phys. 1 44
+& 213 (1901)).
+B. Simon, “Fifteen Problems in Mathematical Physics, Perspectives in Mathematics”, Anniversary of Oberwolfach at Birkhiiuser Verlag, Basel (1984).
+http://gonitsora.com/fivegreatunsolvedproblemsintheoreticalphysics.
+A. Coley, Gen. Rel. Grav. 51 78 (2019) [arXiv:1807.08628].
+J. M. M. Senovilla and D. Garfinkle, Class. Quant. Grav. 32 124008 (2015) [arXiv:1410.5226].
+G. Dotti, Phys. Rev. Lett. 112 191101 (2014) & Class. Quant. Grav. 33
+205005 (2016).
+G. F. R. Ellis, Studies in History and Philosophy of Modern Physics, 46 5 (2014).
+
+
+
+
+J. Butterfield, Studies in History and Philosophy of Modern Physics, 46 57 (2014).
+M. Sahlena, “On Probability and Cosmology: Inference Beyond Data?” [arXiv:1812.04149]; Slightly expanded version of contribution to the book The Philosophy of Cosmology, eds. K. Chamcham, J. Silk, J. D. Barrow and S. Saunders (Cambridge University Press, 2017).
+A. Linde and M. Noorbala, J. Cosmol. Astropart. Phys. 9 008 (2010); K.
+D. Olum, Phys. Rev. D 86 063509 (2012).
+J. Silk, Found. Phys. 48 1305 (2018).
+S. Weinberg, Phys. Rev. Lett. 59 2607 (1987).
+G. Ellis and J. Silk, Nature 516 321 (2014).
+R. Maartens, Phil. Trans. R. Soc. A 369 5115 (2011).
+G. F. Ellis, R. Maartens and M. A. MacCallum, Relativistic cosmology
+(Cambridge University Press, 2012).
+F. Sylos Labini, N.L. Vasilyev, L. Pietronero and Y. V. Baryshev, Euro-phys. Lett. 86 49001 (2009) [arXiv:0805.1132]; see also [arXiv:1512.03313].
+D. L. Wiltshire, Class. Quant. Grav. 28 164006 (2011) [arXiv:1106.1693].
+C. Desgrange, A. Heinesen and T. Buchert, “Dynamical spatial curvature as a fit to type Ia supernovae” IJMPD [arXiv:1902.07915].
+T. Buchert and M. Carfora, Phys. Rev. Letts. 90 031101 (2003) [gr-qc/0210045]; D. L. Wiltshire, New J. Phys. 9 377 (2007) [arXiv:gr-qc/0702082]; T. Buchert, “Is Dark Energy Simulated by Struc-ture Formation in the Universe?” [arXiv:1810.09188].
+J. Adamek, D. Daverio, R. Durrer and M. Kunz, J. Cosmol. Astropart. Phys. 2016(07) 053 (2016). J. Adamek, D. Daverio, R. Durrer and M. Kunz, Nature Physics 12 346 (2016) [arXiv:1509.01699]; J. Adamek, C. Clarkson, D. Daverio, R. Durrer and M. Kunz, Class. Quant. Grav. 36 014001 (2019) [arXiv:1706.09309]; J. Adamek, D. Daverio, R. Durrer and
+M. Kunz, J. Cosmol. Astropart. Phys. 2016 053 (2016).
+H. Macpherson, D. J. Price and P. D. Lasky, “Einstein’s Universe: cos-mological structure formation in numerical relativity” [arXiv:1807.01711];
+H. Macpherson, P. D. Lasky and D. J. Price, “The trouble with Hubble” [arXiv:1807.01714].
+N. J. Cornish, D. N. Spergel, and G. D. Starkman, Class. Quant. Grav. 15
+2657 (1998).
+
+
+
+
+R. Aurich, H. S. Janzer, S. Lustig and F. Steiner, Class. Quant. Grav. 25 125006 (2008); see also G. F. R. Ellis and G. Schreiber, Phys. Lett. A 115 97 (1986).
+J. B. Hartle, “The Impact of Cosmology on Quantum Mechanics” [arXiv:1901.03933]; J. B. Hartle, “Quantum Cosmology: Problems for the 21st Century” in Proceedings of the 11th Nishinomiya-Yukawa Sym-posium, ed by K. Kikkawa et al., World Scientific Singapore, 1998. [arXiv:gr-qc/9701022].
+B. J. Carr (editor), Universe or Multiverse (Cambridge University Press, 2007); also see B. J. Carr and G. F. R. Ellis, Astron. Geophys. 49 2 (2008).
+S. W. Hawking and G. F. R. Ellis, The large scale structure of spacetime
+(Cambridge Univ. Press, Cambridge, 1973).
+L. D. Landau and E. M. Lifshitz, Fluid Mechanics (Pergammon Press, Oxford, 1987).
+F. Debbasch, Eur. Phys. J. B37 257 (2004) & B43 143 (2005).
+A. Coley, S. Hervik and N. Pelavas, Class. Quant. Grav. 26 025013 (2009) [arXiv:0904.4877]; A. Coley, S. Hervik and N. Pelavas, Class. Quant. Grav. 27 102001 (2010) [arXiv1003.2373]; see also A. Coley and S. Hervik, Gen. Rel. Grav. 43 2199 (2011).
+M. Ishak, “Testing general relativity in cosmology” [arXiv:1806.10122].
+T. Clifton, P. G. Ferreira, A. Padilla and C. Skordis “Modified gravity and cosmology” Physics reports 513 1-189 (2012).
+A. Rendall, Living Rev. Rel. 5 6 (2002) [arxiv:gr-qc/0203012].
+L. Andersson, “The global existence problem in general relativity, The Einstein equations and the large scale behavior of gravitational fields”, pp. 71–120 (Birkhuser, Basel, 2004) [arxiv/gr-qc/9911032].
+Y. Choquet-Bruhat and R. Geroch, Comm. Math. Phys. 14 329 (1969).
+M. Narita, Class. Quant. Grav. 19 6279 (2002) [arXiv:gr-qc/0210088].
+R. Penrose, “Singularities and time asymmetry”, in “General Relativity: an Einstein Centenary Survey”, eds. S. W. Hawking and W. Israel (Cambridge University Press, Cambridge, 1979).
+R. Penrose, Phys. Rev. Lett. 14 57 (1965).
+S. W. Hawking and G. F. R. Ellis, Ap. J. 152 25 (1968);
+S. W. Hawking, Proc. Roy. Soc. London A294 511 (1966); ibid., A295 490 (1966); ibid., A300 187 (1967).
+
+
+
+
+R. Penrose and S. W. Hawking, Proc. Roy. Soc. Lond. A 314 529 (1970).
+J. M. M. Senovilla, “Singularity theorems in general relativity: achieve-ments and open questions”, Chapter 15 of Einstein and the Changing Worldviews of Physics, eds. C. Lehner, J. Renn and M. Schemmel, Ein-stein Studies 12 (Birkhauser, 2012)
+D. Christodoulou, “The formation of black holes in general relativity” (Monographs in Mathematics, European Mathematical Soc. Publishing House, Helsinki, 2009).
+S. Klainerman, J. Luk and I. Rodnianski, Invent. Math. 198 1 (2014).
+S. Klainerman and I. Rodnianski, Acta Math. 208 211 (2012); J. Luk and
+I. Rodnianski, “Nonlinear interactions of impulsive gravitational waves for the vacuum Einstein equations”, Cambridge J. Math. [arXiv:1301.1072];
+M. Dafermos, Astrisque 123 352 (2013).
+R. Brandenberger and P. Peter, Found. Phys. 47 797 (2017) [arXiv:1603.05834].
+J. Khoury, B. A. Ovrut, P. J. Steinhardt and N. Turok, Phys. Rev. D 64 123522 (2001) [hep-th/0103239]; J. Khoury, B. A. Ovrut, N. Seiberg, P. J. Steinhardt, and N. Turok, Phys. Rev. D 65 086007 (2002) [hep-th/0108187];
+P. L. McFadden, N. Turok, and P. J. Steinhardt, Phys. Rev. D 76 104038 (2007) [hep-th/0512123]; J.-L. Lehners and N. Turok, Phys .Rev. D 77 023516 (2008) [hep-th/0708.0743].
+R. Penrose, “The Emperor’s New Mind: Concerning Computers, Minds, and The Laws of Physics” (Oxford University Press, 1989).
+R. H. Brandenberger and C. Vafa, Nucl. Phys. B 316 391 (1989); A. Nayeri,
+R. H. Brandenberger, and C. Vafa, Phys. Rev. Lett. 97 021302 (2006); R.
+H. Brandenberger, Class. Quant. Grav. 28 204005 (2011) [arXiv:1105.3247].
+C. Ganguly and M. Bruni, “Quasi-isotropic cycles and non-singular bounces in a Mixmaster cosmology” [arXiv:1902.06356].
+Y. F. Cai, R. Brandenberger and P. Peter, Class. Quant. Grav. 30 075019 (2013) [arXiv:1301.4703].
+R. Penrose, “Fashion, faith, and fantasy in the new physics of the universe” (Princeton University Press, 2016).
+D. Garfinkle, W. C. Lim, F. Pretorius and P. J. Steinhardt, Phys. Rev. D 78 083537 (2008); B. Xue, D. Garfinkle, F. Pretorius and P. J. Steinhardt, Phys. Rev. D 88 083509 (2013).
+
+
+
+
+A. Ijjas, P. J. Steinhardt, and A. Loeb, Phys. Rev. D 89 023525 (2014);
+A. Ijjas, J.-L. Lehners, and P. J. Steinhardt, Phys. Rev. D 89 123520 (2014); A. Ijjas and P. J. Steinhardt,“Bouncing Cosmology made simple” [arXiv:1803.01961].
+N. Turok, M. Perry and P. J. Steinhardt, Phys. Rev. D 70 106004 (2004).
+M. Bojowald, Phys. Rev. Lett. 95 091302 (2005).
+A. Ashtekar, T. Pawlowski and P. Singh, Phys. Rev. D 74 084003 (2006);
+P. Diener, B. Gupt and P. Singh, Class. Quant. Grav. 31 105015 (2014).
+G. F. R. Ellis, E. Platts, D. Sloan and A. Weltman, J. Cosmol. Astropart. Phys. 2016(04) 026 (2016).
+H. Friedrich, J. Diff. Geom. 34 275 (1991); R. A. Bartnik, M. Fisher and
+T. A. Olinyk, J. Math. Phys. 51 032504 (2010) [arXiv:0907.3975].
+P. Bizon, Comm. Math. Phys. 215 45 (2000); P. Bizon, T. Chmaj and Z. Tabor, Nonlinearity 14 1041 (2001).
+L. Andersson, N. Gudapati and J. Szeftel, Ann. PDE 3 13 (2017) [arXiv:1501.00616]; J. Sterbenz and D. Tataru, Comm. Math. Phys. 298 231 (2009) [arXiv:0907.3148]; P. Bizon and P. Biernat, Comm. Math. Phys. 333 1443 (2015); P. Bizon, Acta Physica Polonica B 33 1893 (2002); H.
+Andreasson, Living Rev. Rel. 14 4 (2011) [arXiv:1106.1367].
+D. Eardley and V. Moncrief, Comm. Math. Phys. 83 171 (1982) & Comm. Math. Phys. 83 193 (1982); S. Klainerman and M. Machedon, Ann. Math. 142 39 (1995); P. T. Chrusciel and J. Shatah, Asian J. Math. 1 530 (1997);
+S. Kichenassamy and A. D. Rendall, Class. Quant. Grav. 15 1339 (1998).
+W. Israel, Comm. Math. Phys. 8 245 (1968); G. Bunting and A. K. M. Masood-ul-Alam, Gen. Rel. Grav. 19 147 (1987).
+B. Carter, in Black Holes, 1972 Les Houches Lectures, eds. B. DeWitt and
+C. DeWitt (Gordon and Breach, NY, 1973); B. Carter, Comm. Math. Phys.
+99 563 (1985); D. C. Robinson, Phys. Rev. Lett. 34 905 (1975).
+E. Newman, J. Math. Phys. 6 918 (1965); P. Mazur, J. Phys. A 15 3173
+(1982).
+D. Christodoulou, and S. Klainerman, Commun. Pure Appl. Math. 43 137 (1990).
+D. Christodoulou and S. Klainerman, “The global nonlinear stability of the Minkowski space” (Princeton mathematical series, 41, Princeton University Press, 1993).
+
+
+
+
+M. Dafermos, G. Holzegel and I. Rodnianski, “The linear stability of the Schwarzschild solution to gravitational perturbations”, 146 pages (2016) [arXiv:1601.06467]; G. Holzegel, Class. Quant. Grav. 33 205001 (2016).
+S. Chandrasekhar, “Mathematical Theory of Black Holes” (Oxford University Press, 1983); M. Heusler, Living Rev. Rel. 1 6 (1998); http://www.livingreviews.org/Articles/Volume1/1998-6heusler.
+S. Klainerman and J. Szeftel, “Global Nonlinear Stability of Schwarzschild Spacetime under Polarized Perturbations”, 425 pages [arXiv:1711.07597].
+M. Dafermos and I. Rodnianski, “Lectures on black holes and linear waves”, Clay Mathematics Proceedings 17 97 (2008) [arXiv:0811.0354]; M. Dafer-mos, G. Holzegel and I. Rodnianski, “Boundedness and decay for the Teukolsky equation on Kerr spacetimes I” [arxiv/1711.07944].
+M. Zilhao, V. Cardoso, C. Herdeiro, L. Lehner and U. Sperhake, Phys. Rev. D 90 124088 (2014) [arXiv:1410.0694].
+A.	Coley,	L.		Lehner,		F.		Pretorius	and	D.	Wiltshire, “Computational	Issues	in		Mathematical		Cosmology”		(2017); http://cms.iopscience.iop.org/alfresco/d/d/workspace/SpacesStore/ 83f10d6e-0b33-11e7-9a47-19ee90157113/Overview-CC.pdf
+E. Bentivegna and M. Bruni, Phys. Rev. Lett.	116 251302 (2016)
+[arXiv:1511.05124]; E. Bentivegna, Phys. Rev. D 95 044046 (2017) [arXiv:1610.05198].
+J. T. Giblin, J. B. Mertens and G. D. Starkman, Phys. Rev. Lett.  116
+251301 (2016), ibid. Phys. Rev. D 93 124059 (2016) [arXiv:1511.01105],
+ibid. Class. Quant. Grav. 34 214001 (2017) [arXiv:1704.04307].
+J. Adamek, C. Clarkson, L. Coates, R. Durrer and M. Kunz, “Bias and scatter in the Hubble diagram from cosmological large-scale structure” [arXiv:1812.04336].
+G. Lemaˆıtre, Ann. Soci´et´e Sci. de Bruxelles 47 49 (1927).
+M. J. Disney, Nature 263 573 (1976).
+T. Buchert, A. A. Coley, H. Kleinert, B. F. Roukema and D. L. Wiltshire, Int. J. Mod. Phys. D 25 1630007 (2016) [arXiv:1512.03313].
+Y. Akrami et al., Planck 2018 results. I. Overview [arXiv:1807.06205];
+N. Aghanim et al. VI. Cosmological parameters, [arXiv:1807.06209]; Y. Akrami et al., X. Constraints on inflation [arXiv:1807.06211].
+F. Finelli, J. Garca-Bellido, A. Kovcs, F. Paci and I. Szapudi, Mon. Not. Roy. Astron. Soc. 455 1246 (2016) [arXiv:1405.1555]; A. Kovacs and J. Garca-Bellido, Mon. Not. Roy. Astron. Soc. 462 1882 (2016) [arXiv:1511.09008].
+
+
+
+
+Particle Data Group, Rev. Part. Phys. Chin. Phys. C 40 100001 (2016).
+G. F. R. Ellis and J. E. Baldwin, Mon. Not. R. Astron. Soc. 206 377 (1984).
+D. L. Wiltshire, P. R. Smale, T. Mattsson, T. and R. Watkins, Phys. Rev. D 88 083529 (2013); J. H. McKay and D. L. Wiltshire, Mon. Not. R. Astron. Soc., 457 3285 (2016) (Err. ibid. 463 3113); see also D. L. Wiltshire, “Com-ment on ”Hubble flow variations as a test for inhomogeneous cosmology” [arXiv:1812.01586].
+D. Kraljic and S. Sarkar, J. Cosmol. Astropart. Phys. 1610 016 (2016).
+R. Maartens, C. Clarkson and S. Chen, J. Cosmol. Astropart. Phys. 1801
+013 (2018).
+A. Kashlinsky, F. Atrio-Barandela and H. Ebeling, Astrophys. J. 732 1 (2011); A. Kashlinsky, F. Atrio-Barandela, H. Ebeling, A. Edge, and D. Kocevski, Ap. J. Lett. 712 L81(2010) [arXiv:0910.4958]; H. A. Feldman,
+R. Watkin, and M. J. Hudson, Mon. Not. R. Astron. Soc. 407 2328 (2010) [arXiv:0911.5516].
+J. Colin, R. Mohayaee, S. Sarkar and A. Shafeloo, Mon. Not. R. Astron. Soc. 414 264 (2011) [arXiv:1011.6292]; A. Green, AAO Observer Number 122 (August 2012) [arXiv:1210.0625].
+A. G. Riess et al., Ap. J. 826 56 (2016) [arXiv:1604.01424].
+A. G. Riess, S. Casertano, W. Yuan, L. M. Macri and D. Scolnic, “Large Magellanic Cloud Cepheid Standards Provide a 1% Foundation for the Determination of the Hubble Constant and Stronger Evidence for Physics Beyond ΛCDM” [arXiv:1903.07603].
+P. A. R. Ade et al., Planck 2015 results. XIII. cosmological parameters, Astron. Astrophys. 594 A13 (2016) [arXiv:1502.01589].
+R. H. Brandenberger, “Beyond Standard Inflationary Cosmology” [arXiv:1809.04926] (modified version of a contribution to ”Beyond Space-time” eds. N. Huggett, K. Matsubara and C. Wuethrich (Cambridge Univ. Press, Cambridge, 2018)).
+A. Notari and A. Riotto, Nucl. Phys. B 644 371 (2002) [hep-th/0205019]; F. Finelli, Phys. Lett. B 545 1 (2002) [hep-th/0206112]; F. Di Marco, F. Finelli and R. Brandenberger, Phys. Rev. D 67 063512 (2003) [astro-ph/0211276];
+J. L. Lehners, P. McFadden, N. Turok and P. J. Steinhardt, Phys. Rev. D
+76 103501 (2007) [hep-th0702153]; E. I. Buchbinder, J. Khoury and B.
+Ovrut, Phys. Rev. D 76 123503 (2007) [hep-th/0702154]; P. Crem-inelli and L. Senatore, J. Cosmol. Astropart. Phys. 0711 010 (2007) [hep-th/0702165].
+G. F. R. Ellis and M. S. Madsen, Class. Quantum Grav. 8 667 (1991).
+
+
+
+
+C. B. Collins and G. F. R. Ellis, “Singularities in Bianchi cosmologies”, Physics Reports 56 65-105 (1979).
+	J. Wainwright and G. F. R. Ellis, “Dynamical systems in cosmology” (Cambridge University Press, Cambridge, 1997).
+	L. Andersson, “Cosmological Models and Stability ”, in “General Relativ-ity, Cosmology and Astrophysics, Fundamental Theories of Physics”, 177
+p. 277 (Springer International Publishing Switzerland, 2014; ISBN 978-3-319-06348-5); L. Andersson and V. Moncrief, “Future complete vacuum spacetimes”, in “The Einstein equations and the large scale behavior of gravitational fields”, pp. 71–120 (Birkhuser, Basel, 2004) [gr-qc/0303045].
+J. D. Barrow, G. J. Galloway and F. J. Tipler, Mon. Not. R. Astron. Soc.
+223 835 (1986).
+X. Lin and R. M. Wald, Phys. Rev. D 40 3280 (1989) & 41 2444 (1990).
+A. D. Rendall, Math. Proc. Camb. Phil. Soc. 118 511 (1995).
+L. G. Jensen and J. A. Stein-Schabes, Phys. Rev. D 35 1146 (1987).
+	A. M. Polyakov, Infrared instability of the de Sitter space, [arXiv:1209.4135]; A. M. Polyakov, Nucl. Phys. B 797, 199 (2008) [arXiv:0709.2899]; E. Mottola, Phys. Rev. D 33, 1616 (1986); N. C. Tsamis and R. P. Woodard, Nucl. Phys. B 474, 235 (1996); L. R. W. Abramo, R.
+H. Brandenberger and V. F. Mukhanov, Phys. Rev. D 56, 3248 (1997) [gr-qc/9704037];
+G. F. R. Ellis and A. R. King, Commun. Math. Phys. 38 119 (1974).
+	E. M. Lifshitz and I. M. Khalatnikov, Adv. Phys. 12 185 (1963); V. A. Be-linskii, I. M. Khalatnikov, and E. M. Lifschitz, Adv. Phys. 19, 525 (1970); ibid. 31 639 (1982); V. A. Belinskii and I. M. Khalatnikov, Soviet Scientific Review Section A: Physics Reviews 3 555 (1981).
+	B. K. Berger and V. Moncrief, Phys. Rev. D 48 4676 (1993); B. K. Berger, Living Rev. Rel. 5 1 (2002).
+D. Garfinkle, Phys. Rev. Lett. 93 161101 (2004); D. Garfinkle, Class.
+Quant. Grav. 24 S295 (2007).
+	J. M. Heinzle and C. Uggla, Class. Quant. Grav. 26 075016 (2009); H. Ringstrom, Class. Quant. Grav. 17 713 (2000) & Annales Henri Poincare 2 405 (2001); B. Brehm, “Bianchi VIII and IX vacuum cosmologies: Al-most every solution forms particle horizons and converges to the Mixmaster attractor” [arXiv:1606.08058, 2016].
+C. Uggla, H. van Elst, J. Wainwright and G. F. R. Ellis, Phys. Rev. D 68
+103502 (2003).
+
+
+
+
+L. Andersson et al., Phys. Rev. Lett. 94 051101 (2005).
+	S. W. Goode and J. Wainwright, Class. Quant. Grav. 2 99 (1985); S. W. Goode, A. A. Coley and J. Wainwright, Class. Quant. Grav. 9 445 (1992) [arXiv:0810.3744]
+	C. M. Claudel and K. P. Newman, Proc. R. Soc. London, Ser. A 454 3 (1998); R. P. A. C. Newman, Proc. R. Soc. London, 443 A473 & A493 (1993).
+K. Anguige, and K. P. Tod, Ann. Phys. (N. Y.) 276 257 (1999).
+	J. Middleton and J. D. Barrow, Phys. Rev. D 77 10352 (2008) [arXiv:0801.4090].
+	I. V. Kirnos, A. N. Makarenko, S. A. Pavluchenko and A. V. Toporensky, Gen. Rel. Grav. 42 2633 (2010) [arXiv:gr-qc/0906.0140].
+	J. D. Barrow and S. Hervik, Phys. Rev. D 81 023513 (2010) [arXiv:0911.3805]
+K. Freese, “Status of Dark Matter in the Universe” [arXiv:1701.01840].
+	H. Xu, Z. Huang, Z. Liu and H. Miao, “Flatness without CMB - the Entanglement of Spatial Curvature and Dark Energy Equation of State” [arXiv:1812.09100].
+	C.-G. Park and B. Ratra, “Measuring the Hubble constant and spatial curvature from supernova apparent magnitude, baryon acoustic oscillation, and Hubble parameter data” [arXiv:1809.03598].
+	H. Yu, B. Ratra and F.-Y. Wang, Ap. J. 856 3 (2018); J. Ryan, S. Doshi and B. Ratra, Mon. Not. R. Astron. Soc. 480 759 (2018).
+	J. Larena, J.-M. Alimi, T. Buchert, M. Kunz and P. S. Corasaniti, Phys. Rev. D 79, 083011 (2009) [arXiv:0808.1161].
+	E. Di Dio, F. Montanari, A. Raccanelli, R. Durrer, M. Kamionkowski and J. Lesgourgues, J. Cosmol. Astropart. Phys. 1606 013 (2016) [arXiv:1603.09073]; C. D. Leonard, P. Bull and R. Allison, Phys. Rev D 94 023502 (2016) [arXiv:1604.01410].
+	R. Jimenez, A. Raccanelli, L. Verde and S. Matarrese, J. Cosmol. As-tropart. Phys. 1804 002 (2018).
+C. Clarkson, B. Bassett and T. H. Lu, Phys. Rev. Lett. 101 011301 (2008).
+	E. Witten, “The cosmological constant from the viewpoint of string the-ory”, in Sources and Detection of Dark Matter and Dark Energy in the Universe, ed. D. B. Cline pages 27–36 (Springer, Berlin, Heidelberg, 2001).
+
+
+
+
+	P.	Steinhardt	and	N.	Turok,	Science	312	1180	(2006) [arXiv:astro-ph/0605173].
+S. Weinberg, Rev. Mod. Phys. 61 1 (1989).
+	A. Padilla,	“Lectures on the Cosmological Constant Problem” [arXiv:1502.05296].
+A. G. Riess et al., Astron. J. 116 1009 (1998).
+S. Perlmutter et al., Astrophys. J. 517 565 (1999).
+	C. L. Wainwright, M. C. Johnson, A. Aguirre and H. V. Peiris, J. Cosmol. Astropart. Phys. 1410 030, (2014) [arXiv:1407.2950]; C. L. Wainwright, M.
+C. Johnson, H. V. Peiris, A. Aguirre, and L. Lehner, J. Cosmol. Astropart. Phys. 2014(03) (2014) [arXiv:1312.1357].
+	W. E. East, M. Kleban, A. Linde and L. Senatore, J. Cosmol. Astropart. Phys. 1609 010 (2016) [arXiv:1511.05143]; J. Braden, M. C. Johnson, H. V.
+Peiris and A. Aguirre, Phys. Rev. D 96 023541 (2017) [arXiv:1604.04001];
+K. Clough, E. A. Lim, B. S. DiNunno, W. Fischler, R. Flauger and S. Paban, J. Cosmol. Astropart. Phys. 1709 025 (2017).
+H. Friedrich, J. Geom. Phys. 3 101 (1986).
+R. Wald, Phys. Rev. D 28 2118 (1983).
+	A. A. Coley, “Dynamical systems and cosmology” (Kluwer Academic, Dordrecht: ISBN 1-4020-1403-1, 2003).
+	J. M. Heinzle and A. D. Rendall, Comm. Math. Phys. 269 1 (2007); H. Ringstrom, Comm. Math. Phys. 290 155 (2009).
+	A. A. Coley and W. C. Lim, Phys. Rev. Lett. 108 191101 (2012) [arXiv:1205.2142]; W. C. Lim and A. A. Coley, Class. Quant. Grav. 31 015020 (2014) [arXiv:1311.1857].
+R. van den Hoogen, J. Math. Phys. 50 082503 (2009).
+A. A. Coley, Class. Quant. Grav. 27 245017 (2010) [arXiv:0908.4281].
+	R. M. Zalaletdinov, Gen. Rel. Grav. 24 1015 (1992) & Gen. Rel. Grav. 25 673 (1993) [arXiv:gr-qc/9703016]; M. Mars and R. M. Zalaletdinov, J. Math. Phys. 38 4741 (1997).
+A. A. Coley, N.  Pelavas and R. M. Zalaletdinov, Phys. Rev. Letts. 95
+151102 (2005) [arXiv:gr-qc/0504115].
+T. Buchert, Gen. Rel. Grav. 32 105 (2000) [arXiv:gr-qc/9906015] & Gen.
+Rel. Grav. 33 1381 (2001) [arXiv:gr-qc/0102049].
+
+
+
+
+	J. Einasto, “Yakov Zeldovich and the Cosmic Web Paradigm”, in Proc. IAU Symp. 308, eds. R. van de Weygaert, S. Shandarin, E. Saar, J. Einasto (Cambridge Univ. Press, 2017) [arXiv:1410.6932].
+F.  Hoyle  and  M.  S.  Vogeley,  Astrophys.  J.  566 641  (2002)
+[arXiv:astro-ph/0109357]; Astrophys. J. 607 751 (2004) [arXiv:astro-ph/0312533].
+D. C. Pan, M. S. Vogeley, F. Hoyle, Y. Y. Choi, and C. Park, Mon. Not.
+R. Astron. Soc. 421 926 (2012) [arXiv:1103.4156].
+	M. Scrimgeour et al., Mon. Not. R. Astron. Soc. 425 116 (2012) [arXiv:1205.6812].
+D. W. Hogg,  D.  J. Eisenstein,  M.  R.  Blanton,  N. A. Bahcall,
+J. Brinkmann, J. E. Gunn and D. P. Schneider, Astrophys. J. 624 54 (2005) [arXiv:astro-ph/0411197].
+	T. Buchert et al., Class. Quant. Grav. 32 215021 (2015) [arXiv:1505.07800].
+[The LIGO Scientific Collaboration, the Virgo Collaboration] B. P. Abbott
+et al., Phys. Rev. Lett. 116 061102 (2016).
+[The LIGO Scientific Collaboration, the Virgo Collaboration] B. P. Abbott
+et al. Phys. Rev. Lett. 116 241102 & 241103 (2016), Phys. Rev. Lett. 118
+221101 (2017) & 119 141101 (2017); Astrophys. J. 851 L35 (2017); Phys.
+Rev. Lett. 123, 011102 (2019); “A Gravitational-Wave Transient Catalog of Compact Binary Mergers Observed by LIGO and virgo during the First and Second Observing Runs” [arXiv:1811.12907].
+	H. Yang, V. Paschalidis, K. Yagi, L. Lehner, F. Pretorius and N. Yunes, Phys. Rev. D 97 024049 (2018) [arXiv:1707.00207].
+	L. Barack et al., “Black holes, gravitational waves and fundamental physics: a roadmap” [arXiv:1806.05195].
+K. Bolejko, Phys. Rev. D 97 103529 (2018) [arXiv:1712.02967].
+K. Bolejko, J. Cosmol. Astropart. Phys. 02 025 (2011).
+	H. W. Hamber, Quantum Gravitation, Springer Tracts in Modern Physics (Springer Publishing, Berlin and New York, 2009) & [arXiv:1707.08188]];
+H. W. Hamber and L. H. Sunny Yu, “Gravitational Fluctuations as an Alternative to Inflation” [arXiv:1807.10704].
+J. Martin, ”The Theory of Inflation” [arXiv:1807.11075].
+	R. Brandenberger, L L. Graef, G. Marozzi and G. P. Vacca, “Back-Reaction of Super-Hubble Cosmological Perturbations Beyond Perturba-tion Theory” [arXiv:1807.07494]; R. H. Brandenberger, Backreaction of cosmological perturbations [hep-th/0004016].
+
+
+
+
+S. Weinberg, Ap. J. 208 L1 (1976).
+	N. Kaiser and J. A. Peacock, Mon. Not. R. Astron. Soc. 455 4518 (2015) [arXiv:1503.08506].
+	R. Durrer, The cosmic microwave background (Cambridge: Cambridge University Press, 2008).
+	C. Clarkson, T. Clifton, A. Coley and R. Sung, Phys. Rev. D 85 043506 (2012) [arXiv:1111.2214]; B. Santos, A. A. Coley, N. C. Devi and J. S. Al-caniz, J. Cosmol. Astropart. Phys. 1702 047 (2017) [arXiv:1611.01885]; A.
+A. Coley, B. Santos and V. A. A. Sanghai, J. Cosmol. Astropart. Phys. 05
+039 (2019) [arXiv:1808.07145].
+A. G. Riess et al., Astrophys. J. 861, 126 (2018) [arXiv:1804.10655].
+	E. Di Valentino, A. Melchiorri and J. Silk, Phys. Lett. B 761, 242 (2016) [arXiv:1606.00634]; E. Di Valentino, A. Melchiorri and O. Mena, Phys. Rev. D 96 043503 (2017) [arXiv:1704.08342]; E. Di Valentino, E. V. Lin-
+der and A. Melchiorri, Phys. Rev. D 97 043528 (2018) [arXiv:1710.02153];
+J. Sol, A. Gmez-Valent and J. de Cruz Prez, Phys. Lett. B 774 317 (2017) [arXiv:1705.06723].
+	W. East, R. Wojtak and T. Abel, Phys. Rev. D 97 043509 (2018); J. Adamek, M. Gosenca and S. Hotchkiss, Phys. Rev. D 93 023526 (2016).
+	G. F. R. Ellis, H. Van Elst, J. Murugan and J. P Uzan, Class. Quant. Grav. 28 225007 (2011); G. F. R. Ellis, Gen. Rel. Grav. 46 1619 (2014).
+	A. Ijjas, F. Pretorius and P. J. Steinhardt, “Stability and the Gauge Prob-lem in Non-Perturbative Cosmology” [arXiv:1809.07010]; see also F. Pre-torius. Class. Quant. Grav. 22 425 (2005) & D. Garfinkle, Phys. Rev., D 65 044029 (2002).
+H. Kodama and M. Sasaki, Prog. Theor. Phys. Suppl. 78 1166 (1984).
+	S. Carneiro, P. C. de Holanda, C. Pigozzo, F. Sobreira, “Is the H0 tension suggesting a 4th neutrino’s

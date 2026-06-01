@@ -1,0 +1,4597 @@
+tau, with electric charge —1, and their neutrinos with no electric charge. There are three generations of quarks: (u, d); (c, s); and (t, b). The (u, c, t) quarks have electric charge 2/3 while the (d, s, b) quarks have electric charge —1/3.
+
+
+/
+Second Generation
+
+
+ /	t
+Third Generation
+	b
+
+
+Bosons have quantum spin = 1: photon, quantum of the electromagnetic field; gluon, quantum of the strong field; and W and Z, weak field quanta, which we do not need.
+
+Review of Quantum Chromodynamics (QCD) DOI: http://dx.doi.org/10.5772/intechopen.91640
+
+Quantum chromodynamics (QCD): strong interaction field theory
+
+Strong interactions are produced by quarks exchanging gluons, as illustrated in the figure below.
+
+quark g
+
+
+gluon
+(quantum of strong interaction)
+
+
+
+g quark
+
+QCD (Quantum Chromodynamics): quark force via gluon exchange STRONG FORCE
+g 2~1~100 x e 2
+
+Nonperturbative. Diagrams do not converge− single diagram no good
+
+Color: Quarks have three colors.
+Color is to the strong interaction as electric charge is to the electromagnetic interaction.
+A quark and antiquark can form a gluon, which has color 8.
+
+q (quark)
+
+color (8=octet)
+
+q (anti−quark)	gluon
+
+Note that particles with color, like gluon and quarks, cannot move freely in space. Particles that can move freely are baryons, like the proton and neutron, and mesons, which have no total color.
+Note that in the figure above, the quark and antiquark have a different color, which is why the gluon has color = 8.
+Antiparticles: All fermions have antiparticles. The antiparticle of the electron e—is the positron e+, and a photon can create a e—e+ pair. Similarly, each quark q has an antiquark q.
+Standard mesons consist of a quark and an antiquark. A meson that is important for today’s discussion is the J/Ψ(1S).
+∣ J/Ψ(1S) > = ∣cc(1S) > .	(1)
+As we discuss below, the first excited cc state, the Ψ(2S) has a hybrid component with an active gluon: ∣ccg(2S) > .
+
+QCD sum rules and mixed heavy quark hybrid meson states
+The starting point of the method of QCD sum rules [4] is the correlator
+
+ΠA(x) = ⟨|T[ JA(x) JA(0)]|⟩,	(2)
+
+Accelerators and Colliders
+
+with ∣⟩ the vacuum state and the current JA(x) creates the states with quantum numbers A. For the charmonium states, Jc is
+Jc = f Jcc + qffi1ffiffiffi—ffiffiffiffiffifffiffi2ffiffiJccg ,	(3)
+
+where Jcc creates a normal charmonium state and Jccg creates a hybrid state with an active gluon. It was shown that f ≃ — ,ffi2ffiffi for the Ψ(2S) and ϒ(3S) and f ≃ 1.0 for
+the other charmonium and bottomonium states [5]. Therefore,
+∣ J/Ψ(1S) > ≃ ∣cc(1S) >
+∣Ψ(2S) > ≃ — ,ffi2ffiffi∣cc(1S) > + ,ffi2ffiffi∣ccg(2S) >
+∣ϒ(3S) > ≃ — ,ffi2ffiffi∣bb(3S) > + ,ffi2ffiffi∣bbg(3S) > ,
+That is J/Ψ(1S) is a standard charmonium meson and all of the ϒ(nS) mesons are standard bottominium mesons except for n = 3.
+
+Experimental verification that the Ψ(2S) and ϒ(3S) are mixed hybrid heavy quark mesons
+
+Ψ and ϒ production by Cu-Cu collisions for E = 200 GeV [6] are shown in Figures 1–4. The dashed curves are for the standard model.
+Tests of the mixed hybrid theory for Ψ(2S) and ϒ(3S) states using ratios
+of cross sections for Cu-Cu collisions at E = 200 GeV: Since the absolute magnitude of dσ/dy for production of Ψ(2S) states via Cu-Cu collisions is not
+certain, due to uncertainty in the normalization of the states, the tests of the theory
+[6] were carried out using ratios of cross sections, which can be compared to experiments.
+From Figures 1 and 2, the ratios of Ψ(2S) to J/Ψ(1S) for the standard model (st) and the mixed hybrid theory (hy) for A-A (including Cu-Cu) collisions are
+
+
+/	/ /
+
+−0.8	0
+y
+0.8
+
+
+Figure 1.
+dσ/dy for E = 200 GeV Cu-Cu collisions producing J/Ψ.
+
+Review of Quantum Chromodynamics (QCD) DOI: http://dx.doi.org/10.5772/intechopen.91640
+
+
+
+
+
+
+
+
+
+
+
+
+Figure \.
+dσ/dy for E = 200 GeV Cu-Cu collisions producing Ψ (\S).
+
+
+
+0.040
+
+
+
+
+0.035
+
+
+
+
+
+0.030
+−0.8
+0	0.8
+y
+
+
+Figure 3.
+dσ/dy for E = 200 GeV Cu-Cu collisions producing ϒ (1S).
+
+
+2.0
+ (2S)
+
+
+
+1.0
+ (3S)(hybrid)
+
+(3S)
+
+
+0.0
+−0.8	0
+y
+0.8
+
+
+Figure 4.
+dσ/dy for Cu-Cu collisions producing ϒ (\S), ϒ (çS).
+
+Accelerators and Colliders
+
+σ(Ψ(2S))/σ( J/Ψ(1S))|st—A—A ≃ 0.27
+(5)
+σ(Ψ(2S))/σ( J/Ψ(1S))|hy—A—A ≃ 0.52  0.05,
+while the experimental result [7] is
+σ(Ψ(2S))/σ(J/Ψ(1S) ≃ 0.59,	(6)
+which shows that the mixed hybrid theory for the Ψ(2S) state is consistent
+with experiment, while the standard ∣cc(2S) > is not. From studies of heavy quark state production in p-p collisions, theoretical results for the nature of ϒ(3S) state found [8]
+
+
+σ(ϒ(3S))/σ(ϒ(1S)) ≃ 0.04 standard
+σ(ϒ(3S))/σ(ϒ(1S)) ≃ 0.147 — 0.22 hybrid
+
+(7)
+
+compared to the experimental result of about 0.12–0.16 [9]. Therefore, the ϒ(3S) state, as well as the Ψ(2S) state, has been shown to be a heavy quark mixed hybrid state.
+
+The cosmological QCDPT and possible detection of the QGP
+In this section we first review the temperature of the universe based on the time when the cosmolical quantum chromodynamic phase transition (QCDPT) occured. At that time, the universe consisted of the quark-gluon plasma (QGP). Then we discuss the creation of the QGP via RHIC Au-Au collisions with the possible detection of the QGP.
+
+The quantum chromodynamic phase transition (QCDPT)
+
+From astrophysical studies, it is known that the QCDPT occured at a time
+t ≃ 10—5	10—4 s; one can estimate the temperature of the universe at time T(t) using the equations from Einstein’s General Theory of Relativity.
+A simpler form of Einstein’s equations are Friedman’s equations. From Friedman’s equations, one can find an approximation to T(t) [10].
+
+
+
+
+
+
+
+
+
+
+
+Figure 5.
+Hadron phase forming within the QGP during the QCDPT.
+
+Review of Quantum Chromodynamics (QCD) DOI: http://dx.doi.org/10.5772/intechopen.91640
+From this, one finds, using t ≃ 5 × 10—5 s, at the time of the QCDPT the critical temperature for the QCDPT TQCDPT ≃ 150 MeV. During the time that T = TQCDPT,
+c	c
+bubbles of our universe nucleated within the QGP, as shown in Figure 5.
+
+Theoretical studies and predictions for the detection of the QGP
+
+Theoretial studies of jet quenching due to the formation of the QGP were carried out.
+Theoretial studies of jet quenching due to the formation of the QGP in high-energy Pb-Pb collisions [11] help motivate experimental studies. The theoretical equation predicting jet quenching [11] is
+
+Θ
+jet
+QGP ≃ 1 — e Θc ,	(9)
+where ΔQGP is the magnitude of the jet quenching and Θjet and Θc are the aperature of the jet and emitted gluons, respectively.
+Motivated in part by the theoretical study, the CMS collaboration carried out a study [12] of jet quencing via jet+Z boson correlations in Pb-Pb collisions. The results are shown in Figure 6.
+As can be seen from the figure and Eq. (9), the theoretical prediction of jet quenching due to the QGP has been verified by experiments.
+
+Creation and detection of the QGP via RHIC
+
+A main goal of the study of heavy quark state production in relativistic heavy ion collisions (RHIC) is the detection of the quark-gluon plasma [13]. The energy of the atomic nuclei must be large enough so just after the nuclei collide, the temperature is that of the universe about 10—5 s after the Big Bang, when the universe was too hot for protons or neutrons and consisted of quarks and gluons (the constituents of proton and nucleons)—the quark-gluon plasma (QGP).
+As Figure 7 illustrates for Au-Au collisions with sufficient energy that the temperature T(t) ≥ 150 MeV where the Au-Au nuclei merge, the emission of mixed
+
+x
+
+
+
+
+
+
+
+
+
+40	50	60	70	80	90	100	110
+pz  (GeV/c)
+
+Figure 6.
+x = (jet/Z) momentum vs. pz = the momentum of the Z boson for p-p and Pb-Pb collisions.
+
+Accelerators and Colliders
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2S)
+Au	Au
+Quark Gluon Plasma
+
+
+(3S)
+
+
+Figure 7.
+Au-Au collisions producing Ψ (\S) and ϒ (çS) from the QGP.
+
+
+hybrid mesons, the Ψ(2S) and ϒ(3S) as discussed above, with active gluons, could be a signal of the formation of the QGP.
+
+
+Conclusions
+The results from comparison of the production of Ψ(2S) and ϒ(3S) differential cross sections with experiment confirm the theoretical prediction that the Ψ(2S) and ϒ(3S) states are mixed hybrid states.
+There are tests of the creation of the QGP from jet quenching via experiments using Z-jet correlations, as well as other tests suggested by theoretical studies.
+There are also possible tests of the creation and detection of the QGP by the production of Ψ(2S) and ϒ(3S) via relativistic heavy ion collisions as shown in Figure 7.
+From this, one can conclude that the production of these states via RHIC with sufficient energy that part of the matter during the collision has reached
+a temperature T ≥ TQCDPT ≃ 150 MeV, the temperature when the universe was a dense plasma (the QGP), can be a test of the creation of the quark-gluon plasma.
+This would be an important result for particle theory as well as astrophysics.
+
+
+Acknowledgements
+Leonard S. Kisslinger acknowledges support in part as a visitor at the Los Alamos National Laboratory,
+
+Review of Quantum Chromodynamics (QCD) DOI: http://dx.doi.org/10.5772/intechopen.91640
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Author details
+Leonard S. Kisslinger
+Department of Physics, Carnegie Mellon University, Pittsburgh, PA, USA
+
+*Address all correspondence to: kissling@andrew.cmu.edu
+
+© 2020 The Author(s). Licensee IntechOpen. This chapter is distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/ by/3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+Accelerators and Colliders
+
+References
+Cheng T-P, Li L-F. Gauge Theory of Elementary Particle Physics. New York:
+Oxford University Press; 1985
+
+Kronfeld AS. Annual Review of Nuclear and Particle Science. 2012;62: 265
+
+Callaway DJE, Rahman A. Physical Review D. 1983;28:1506
+
+Shifman MA, Vainstein AI, Zakharov VI. Nuclear Physics B. 1979; 147:385, 448
+
+Kisslinger LS. Physical Review D. 2009;79:114026
+
+Kisslinger LS, Liu MX,
+McGaughey P. Physical Review C. 2014;
+89:024914
+
+Adare A et al. Physical Review D. 2012;85:092004
+
+Kisslinger LS, Liu MX,
+McGaughey P. Physical Review D. 2011;
+84:114020
+
+Moreno G et al. Physical Review D. 1991;43:2815
+
+Kolb EW, Turner MS. The Early Universe. United States of America:
+Westview Press; 1990
+
+Casaiderry-Solana et al. Physical Letters B. 2013;725:357
+
+Sirunyan AM et al. Physical Review Letters. 2017;119:082301
+
+Kisslinger LS, Das D. International Journal of Modern Physics A. 2016;31: 1630010
+
+Scalar and tensor perturbations in loop quantum cosmology: High-order corrections
+Tao Zhu, Anzhong Wang∗
+Institute for Advanced Physics & Mathematics, Zhejiang University of Technology, Hangzhou, 310032, China GCAP-CASPER, Physics Department, Baylor University, Waco, TX 76798-7316, USA
+
+Gerald Cleaver
+EUCOS-CASPER, Physics Department, Baylor University, Waco, TX 76798-7316, USA
+
+Klaus Kirsten and Qin Sheng
+GCAP-CASPER, Mathematics Department, Baylor University, Waco, TX 76798-7328, USA
+
+Qiang Wu
+Institute for Advanced Physics & Mathematics, Zhejiang University of Technology, Hangzhou, 310032, China
+(Dated: October 8, 2015)
+Loop quantum cosmology (LQC) provides promising resolutions to the trans-Planckian issue and initial singularity arising in the inflationary models of general relativity. In general, due to different quantization approaches, LQC involves two types of quantum corrections, the holonomy and inverse-volume, to both of the cosmological background evolution and perturbations. In this paper, using the third-order uniform asymptotic approximations, we derive explicitly the observational quantities of the slow-roll inflation in the framework of LQC with these quantum corrections. We calculate the power spectra, spectral indices, and running of the spectral indices for both scalar and tensor perturbations, whereby the tensor-to-scalar ratio is obtained. We expand all the observables at the time when the inflationary mode crosses the Hubble horizon. As the upper error bounds for
+the uniform asymptotic approximation at the third-order are . 0.15%, these results represent the most accurate results obtained so far in the literature. It is also shown that with the inverse-
+volume corrections, both scalar and tensor spectra exhibit a deviation from the usual shape at large scales. Then, using the Planck, BAO and SN data we obtain new constraints on quantum gravitational effects from LQC corrections, and find that such effects could be within the detection of the forthcoming experiments.
+
+
+INTRODUCTION
+
+
+The inflationary cosmology provides the simplest and most elegant mechanism to produce the primordial den-sity perturbations and primordial gravitational waves (PGWs) [1, 2]. The former grows to produce the large-scale structure (LSS) seen today in the universe, and meanwhile creates the cosmic microwave background (CMB) temperature anisotropy, which has been exten-sively probed by WMAP [3], PLANCK [4], and other CMB experiments as well as galaxy surveys. PGWs, on the other hand, produce not only a temperature anisotropy, but also a distinguishable signature in CMB polarization–the B-mode, which was once thought to be already observed by BICEP2 [5], although subsequent analysis of multi-frequency data from BICEP2/Keck and Planck Collaborations showed that the signals could be due to galactic dust [6] (see also [7]), and further con-firmation is needed. These observations in the measure-ment of the power spectra and spectral indices, together with the forthcoming ones, provide unique opportunities for us to gain deep insight into the physics of the very early Universe. More importantly, they may provide a
+
+
+∗Corresponding author
+unique window to explore quantum gravitational effects, which otherwise cannot be studied in the near future by any man-made terrestrial experiments.
+Inflation is very sensitive to Planckian physics [8]. In particular, in most inflationary scenarios, the energy scale of the inflationary fluctuations, which relates to the present observations, was not far from the Planck scale at the beginning of inflation. As in such high energy regime the usual classical general relativity and effective field theory are known to be broken, and it is widely expected a quantum theory of gravity could provide a complete de-scription of the early Universe. However, such a theory of quantum gravity has not been established yet, and only a few candidates exist. One of the promising approaches is loop quantum gravity. On the basis of this theory, loop quantum cosmology (LQC) was proposed, which offers a natural framework to address the trans-Planckian issue and initial singularity, arising in the inflation scenarios. In fact, in LQC, because of the quantum gravitational ef-fects deep inside the Planck scale, the big bang singular-ity is replaced by a big bounce [9, 10]. This remarkable feature has motivated a lot of interest to consider the underlying quantum geometry effects in the standard in-flationary scenario and their detectability [11].
+In LQC, roughly speaking, there are two kinds of quantum gravitational corrections to the cosmological background and cosmological perturbations: the holon-
+
+2
+
+
+omy [12–18] and the inverse-volume [19–24]. The main consequence of holonomy corrections on the cosmolog-ical background is to replace the big bang singularity of the Friedmann-Lemaˆıtre-Robertson-Walker (FLRW) universe by a big bounce. The cosmological scalar [16], vector [15], and tensor perturbations [12–14] have been calculated explicitly with holonomy corrections (see also [17]). Due to these corrections, the modifications of the algebra of constraints generically leads to anomalies [15, 16]. Recently, it has been shown that these anoma-lies can be removed by adjusting the form of the quan-tum corrections to the Hamiltonian constraint. This is achieved by adding suitable counter terms that vanish in the classical limit [15–17]. With these anomaly-free cos-mological perturbations, the dispersion relation of the inflationary mode function µk(η) (of scalar and tensor perturbations) is modified by the quantum corrections to the form [17, 18],
+
+ω2(η) =  1 − 2 ρ(η)  k2,	(1.1)
+
+where ρc is the energy density at which the big bounce happens. In the classical limit ρ ρc, the above equa-tion reduces to the standard one of GR. From this equa-tion, one can see that when the energy density ρ ap-proaches ρc/2, the dynamics of cosmological perturba-tions is significantly modified by the holonomy correc-tions. With this modified dispersion relation, the power spectra for both scalar and gravitational wave pertur-bations were calculated up to the first-order approxima-tions of the slow-roll parameters, and the observability of these corresponding quantum gravitational effects were discussed in some detail [18, 25].
+The inverse-volume corrections are due to terms in the Hamiltonian constraint which cannot be quantized directly but only after being re-expressed as a Poisson bracket. It was demonstrated that the algebra of cos-mological scalar [19, 20], vector [21], and tensor per-turbations [22] with quantum corrections can be closed. Consequently, the cosmological perturbed equations for scalar and tensor perturbations are modified [23, 24]. For the scalar perturbations, the dispersion relation takes the form [23]
+the first-order approximations of the slow-roll parame-ters, were studied in [23], in which some constraints on some parameters of the model were obtained from obser-vational data [24]. The non-Gaussianities with inverse-volume corrections was also discussed in [26].
+Although a lot of effort has already been devoted to the inflationary models of LQC with both holonomy and inverse-volume quantum corrections, very accurate cal-culations of inflationary observables in LQC are still ab-sent, and with the arrival of the era of precision cosmol-ogy, such calculations are highly demanded. Recently, we have developed a powerful method, the uniform asymp-totic approximation method [27–30], to make precise ob-servational predictions from inflation models, after quan-tum gravitational effects are taken into account. We note here that such method was first applied to inflation-ary cosmology in [31], and then we have developed it to more general mult-turning points cases and more precise higher order approximations [27–30]. The main purpose of the present paper is to use this powerful method to de-rive the inflationary observables in LQC with holonomy and inverse-volume quantum corrections with high accu-racy. More specifically, we consider the slow-roll inflation with the quantum gravitational corrections, but ignore the pre-inflation dynamics. By using the general expres-sions of power spectra, spectral indices, and running of spectral indices obtained in [29], we calculate explicitly these quantities, up to the third-order approximations in terms of the uniform asymptotic approximation pa-
+rameter, for which the upper error bounds are . 0.15%.
+All the inflationary observables are expressed in terms of
+slow-roll parameters and parameters representing quan-tum corrections explicitly. In the present paper, we also provide the expansion of all these inflationary observables at the time when the inflationary mode crosses the Hub-ble horizon, and calculate the tensor-to-scalar ratio. It is interesting to note that the holonomy corrections do not contribute to the tensor-to-scalar ratio up to the third-order approximation. More interestingly, it is shown that with the inverse-volume corrections, both scalar and ten-sor spectra exhibit a deviation from the standard one at large scales, which could provide a smoking gun for further observations.
+The paper is organized as follows.  In Sec.  II, we
+
+2	 σϑ0  σ
+α0 
+σ 
+present all the background evolution and perturbation
+2
+
+ωk (η) =	1 +	3
+/ + 1 +
+6	2
+5 − 3
+δPl(η)
+k ,
+(1.2)
+equations with the holonomy corrections, and calculate
+explicitly the power spectra, spectral indices, and run-ning of spectral indices. Then, in Sec. III we turn to consider both background and perturbations with the
+
+where the constants α0, ϑ0, and σ encode the specific fea-
+tures of the model, and δPl(η) is time-dependent, which usually behaves like δPl ∼ a−σ. For tensor perturbations,
+k
+
+ω2(η) =  1 + 2α0δPl(η) k2.	(1.3)
+
+The power spectra of both scalar and tensor perturba-tions due to the inverse-volume corrections, again up to
+inverse-volume corrections, and calculate all the infla-tionary observables. Our main conclusions are summa-rized in Sec. IV. Three appendices are also included. In Appendix A, we give a brief introduction to the uniform asymptotic approximation method with high-order cor-rections, while in Appendices B and C, we present some quantities discussed in the content of the paper.
+Part of the results to be presented in this paper was reported recently in [32]. In this paper, we shall pro-
+
+3
+
+
+vide detailed derivations of these results, and meanwhile report our studies of other aspects of LQC inflationary cosmology.
+On the other hand, as the quantum holonomy correction is also small, it is convenient to introduce the parameter δH by,
+
+
+
+INFLATIONARY OBSERVABLES WITH
+ρ δH ≡ ρ
+≪ 1.	(2.6)
+
+HOLONOMY CORRECTIONS
+
+In this section, let us consider the inflationary cosmol-ogy with the holonomy corrections.
+
+Background equations and equations of motion
+Then we have Ω  1  2ρ/ρc = 1  2δH .
+Let us now consider cosmological perturbations. With the holonomy corrections, the equations for cosmological scalar perturbations can be cast in a modified Mukhanov equation for the gauge-invariant mode function µ(s)(η)
+/
+
+
+for scalar and tensor perturbations
+
+To begin with, let us first consider a flat FLRW back-
+d2µ(s)(η)
+dη2	+
+
+ω2(η) −
+zs′′(η)
+/
+zs(η)
+
+µ(s)(η) = 0,	(2.7)
+
+ground
+
+ds2 = a2(η)(−dη2 + dxidxi),	(2.1)
+where ω2(η) = Ω(η)k2, and zs aϕ˙/H. Similarly, the equation for the tensor perturbation can be cast in the form [17],
+
+where a(η) is the expansion factor and η the conformal
+time. With the holonomy corrections, the Friedmann equation is modified to the form [10]
+H2 = 8πGρ  1 −  ρ  ,	(2.2)
+d2µ(t)(η)
+dη2	+
+where zt ≡ a/√Ω.
+
+Ω(η)k2 −
+zt′′(η)
+/
+zt(η)
+
+(t)
+k
+
+(η) = 0,	(2.8)
+
+
+where H = a˙/a is the Hubble parameter with a dot
+
+representing derivative with respect to the cosmic time t (dt adη), ρ is the energy density of the matter content, and ρc is a characteristic energy scale of the holonomy corrections and usually is of the order of the Planck energy density: ρc ∼ m4 with the Planck mass mPl = 1.22 × 10  GeV. A general prediction associated
+Power spectra and spectral indices in the
+uniform asymptotic approximation
+
+To apply for the uniform asymptotic approximation, first we write the equations of motion for both scalar (Eq. (2.7)) and tensor (Eq. (2.8)) perturbations in the form
+
+with the above equation is that the holonomy corrections	(
+by introducing a new variable y = −kη. Then, we
+
+lead to a resolution of the big bang singularity, in which
+find that gˆ(y) and q(y) must be chosen as [27, 28],
+
+it is replaced by a non-singular big bounce occurring at ρ = ρc. For a scalar field ϕ with potential V (ϕ), the Klein-Gordon equation reads
+λ2gˆ(y) =	 1 
+k2
+ν2(η)
+
+Ω(η) −
+
+2
+z′′(η)	+  1 
+z(η)	4y2
+
+dV (ϕ)
+ϕ¨ + 3Hϕ˙ +	= 0.	(2.3)
+dϕ
+=	y2	− cs (η),	(2.9)
+1
+
+The energy density of the inflaton field is
+ϕ˙2
+
+/
+/
+
+q(y) = − 4y2 ,	(2.10)
+where c (η) = √Ω(η) and ν2(η) = η2z′′(η)/z(η) + 1/4.
+
+The above set of equations determines uniquely the evolution of the FLRW background. As shown in [33],
+ters defined in Eqs. (2.5) and (2.6), we find that
+
+“the standard slow-roll inflation” can be triggered by the
+zs′′(η)
+2  2 
+3ǫ2
+2	ǫ2ǫ3
+ǫ1ǫ2
+
+preceding phase of quantum bounce. In this paper, for
+z (η) ≃ a H
+2 − ǫ1 + 2 + 4 +  2  −  2
+
+the sake of simplification, we shall focus on the slow-roll inflation with the holonomy corrections, and ignore the pre-inflation dynamics. In this case, we are in a process such that the energy density of the cosmological fluid is supposed to be dominated by the potential of inflaton ϕ, i.e., ϕ˙2 V (ϕ). With this condition, it is convenient to define a hierarchy of Hubble flow parameters,
+2	2
+1	H
+(2.11)
+In the above, we used the subscript (or superscript) “s” to denote quantities associated with the scalar perturba-tions. Similarly, for the tensor perturbations, we find
+
+
+ǫ0 ≡
+Hini
+n+1
+d ln ǫn .	(2.5)
+d ln a
+zt′′(η)
+/
+zt(η)
+≃ a2H2 2 − ǫ1
+— 6δHǫ1
+— 18δHǫ1
+— 48δHǫ1
+
+
+
++ 6δ
+
+
+ǫ2 + 38δ2 ǫ2 − 2δ
+
+
+ǫ ǫ − 6δ2 ǫ ǫ  ,
+4
+
+  π2 − 12 ln2 2   c¯1	ν¯1 2
+
+/
+
+/	/	/
+π2	ln2 2  c¯2
+
+
+ties associated with the tensor perturbations.
+With the functions gˆ(y) and q(y) given above, we are in the position to calculate the power spectra and spectral indices from the general formulas Eq. (A.26) and Eq. (A.27). As we discussed in [28], in order to do so, first we
+ζ(3)
++
+4
+π2 ln 2
+—	24	+
+ln2 3
+6	−
+1 ln3
+6
+y y¯0
+
+ν¯2.
+(2.18)
+
+need to expand ν(η) and cs(η) around the turning point
+y¯0 of gˆ(y) (i.e., gˆ√(y¯0) = 0 with y¯0 = −kη0), then perform
+In the above, ζ(n) denotes the Riemann zeta function.
+Now, we turn to consider the error control function H ,
+
+/
+
+
+error control function H (+ ). In the slow-roll inflation, it is convenient to consider the following expansions,
+
+H (ξ) =  5
+(∫ y˜ √
+
+/
+gˆ(y′)dy′
+)−1 y
+
+y	1
+2  y
+36	y¯0
+ y¯0
+
+ν(η) ≃
+ν¯0 + ν¯1 ln y¯ + 2 ν¯2 ln
+,	(2.13)
+y¯0
+∫ y  q
+5gˆ′2
+gˆ′′  √
+
+cs(η) ≃
+c¯0 + c¯1 ln
+y y¯0
+
++ /c¯2 ln2 2
+y y¯0
+,	(2.14)
+— y¯0
+gˆ − 16gˆ3 + 4gˆ2
+gˆdy. (2.19)
+
+with
+In the limit y	0, after some lengthy calculations, the
+above expression can be cast in the form
+
+dν(η)
+d2ν(η)
+
+/
+
+H (+∞)	1
+
+/
+
+c¯1 
+
+/
+
+ν¯1(23 + 12 ln 2)
+
+/
+/
+
+
+
+c¯1 ≡
+dcs(η)
+
+/
+d ln(−η) η
+/
+
+
+,	c¯2 ≡
+d2cs(η) d ln2( η)
+η0
+
+.	(2.15)
+(2.20)
+As we only need to calculate the power spectra up to the second-order in slow-roll parameters, in the above
+
+In the above, η
+is the conformal time for mode k at
+we have ignored c¯2, c¯2, ν¯2, ν¯2, terms. Once we get the
+
+0	/	√	1	1
+
+/
+ν¯1	(ǫ2), ν¯2	(ǫ3), and c¯0	1 +	(δH ), c¯1
+(ǫδH ), c¯2	(ǫ δH ). The slow-roll expansions of all these quantities are presented in Appendix C.		
+With the above expansions, we notice that	g(y) =
+λ2gˆ(y) can be expanded as
+from Eq. (A.26) we can calculate the power spectra.
+To calculate the corresponding spectral indices, let us first consider the k-dependence of ν¯0(η0), ν¯1(η0) through η0 = η0(k). From the relation kη0 = ν¯0(η0)/c¯0(η0), we observe that
+
+√	√ν¯2 − c¯2y2	ν¯0ν¯1 − c¯0c¯1y2	y
+d ln(−η0)
+
+/
+
+≃ −1 +
+c¯1
+
+/
+ν¯1
+—
+—  c¯1
+/
+ν¯1 2
+
+/
+
+. (2.21)
+
+g(y) ≃	y	+  √ 2
+ln
+2 2	y¯
+d ln k
+c¯0
+ν¯0
+c¯0
+ν¯0
+
+ 	ν¯0ν¯2			c¯0c¯2y	
+Then, the spectral index is given by
+
++ 2y√ν¯2 − c¯2y2 − 2√ν¯2 − c¯2y2
+2c¯ ν¯	  1
+
+/	/
+
+
+(c¯0ν¯1 + ν¯0c¯1) y
+− 2(ν¯2 − c¯2y2)3/2
+ln2 y . (2.16)
+y¯
+2ν¯0
+/
+  1 	2ν¯0 ln 2 
+
+Therefore, the integral ∫ √gdy is divided into three parts,
+∫ y¯0 √
+
+/	/
+23 + 12 ln 2
++	72ν¯2
+π2	2
++ 12 − ln
+2  ν¯2.	(2.22)
+
+where
+g(yˆ)dy = I1 + I2 + I3,	(2.17)
+y
+Similarly, after some tedious calculations, we find that the running of the spectral index α dn/d ln k can be written in the form
+
+lim I1
+y→0
+= −ν¯0
+1 + ln  y	,
+2y¯0
+α(k) ≃
+2ν¯0c¯2
+c¯2	−
+4ν¯1c¯1 +
+c¯0
+1
+3ν¯3
+2
++ /
+ν¯0
+
+ν¯2
+
+lim I2 =
+y→0
+(1 − ln 2)c¯1ν¯0
+c¯0
+π2
+24 −
+ln2 2
++
+2
+1 ln2  y
+2	y¯0
+ν¯1,
++	2 ln 2ν¯0
+c¯0
++ 2ν¯0
+c¯0
+  1 
++
+6c¯0ν¯0
+c¯3 + 2ν¯1
+
+
+
++  ln 4 −  1   ν¯
+
+
+2c¯2ν¯0
+—
+5
++ 2π2 − 14D¯ n + 4∆¯ n1 − 39 ǫ¯2ǫ¯2	/
+
+6ν¯2	2	c¯0
+  7π2
+
+/
+
+1 2
+¯	¯ 2	¯	¯
+25	3
+
++  ln
+2 − 12 − 6ν¯2 − 72ν¯2
+ν¯3.	(2.23)
+
+/	/	/	/	/
+
+Scalar perturbations
+
+With the slow-roll expansions of ν¯0, ν¯1,
+
+
+ν¯2,
+
+
+ν¯3 and
+  7π2
+
+/
+
++3∆¯
+
+¯	¯ 2
+
++ 6∆¯	−	 ǫ¯ ǫ¯2ǫ¯71
+
+c¯1, c¯2, c¯3 presented in the above and after some tedious
+calculations, we obtain the scalar spectrum,
+(
+n1
+
+  7π2	¯
+n2	3
+¯ 2	¯
+1 2 3
+¯
+22	2
+/
+
+∆2(k) ≃ A¯
+1 + δ¯
+— 2 D¯
++ 1 ǫ¯ − ¯
+3 ¯2	12	3
+
+s	s	H
+
+— 2 2D¯
+p
+
++ 3 δ¯ ǫ¯
+1
+
+— D¯
+Dpǫ¯2 + 2 δH
+δ¯ ǫ¯
+2
++	2 + ∆¯ n1 − 5
+
+ǫ¯2ǫ¯2 +
+π2
+24 −
+D¯ 2
+n + ∆¯ n2
+2
+
+ǫ¯2ǫ¯3
+
+p	H 1
+2	π2
+p H 2
+  2
+7π2
++
+— 5D¯ n − D¯ 2 + ∆¯ n1 + 2∆¯ n2 −
+22 
+ǫ¯1ǫ¯2ǫ¯3ǫ¯4
+
++ 2D¯ p + 2D¯ p + 2 − 5 + ∆¯ 1
+ǫ¯1
+12	n	3
+
+7π2
+
+/
+
++ π + ∆¯ n1 − 8 ǫ¯2ǫ¯ ǫ¯
+
+  1	π2	3	∆
+
+/	/	/	/
+
+  π2
+
+/
+
+3D¯ 2	¯
+
+¯ !	)
+  π2
+D¯ 2	¯	¯	¯
+
+π2	D2
++	+ ∆
+24	2
+ǫ¯2ǫ¯3 ,
++
+24
+  π2
+/	/
+—	n + ∆n2
+D¯ 2
+
+/
+
+ǫ¯2ǫ¯3ǫ¯2 + 6
+2Dn + 3
+ 
+ǫ¯2ǫ¯2δH
+ 
+
+/
+
+
+¯	181H¯ 2	¯
+
+ 67 
+¯	183606
+−2 D¯ n + 2 ǫ¯1ǫ¯2ǫ¯3δ¯H + 16ǫ¯2δ¯2
+— 6ǫ¯1ǫ¯2δ¯2 .
+
+π2 , and ∆¯	589698 . Note that a letter with an over bar denotes a quantity evaluated at the turning point y¯0.
+Then, the scalar spectral index is
+ns ≃ 1 − 2ǫ¯1 − ǫ¯2 + 4δ¯H ǫ¯1 − 2ǫ¯2 − D¯ nǫ¯2ǫ¯3
+— 2Dn + 3 ǫ¯1ǫ¯2 + 12δ ǫ¯1 + 4DnδHǫ¯ − 2ǫ¯
+(2.26)
+
+Tensor perturbations
+
+Similar to the scalar perturbations, within the slow-
+
+/
+2 D¯ n	1 δ¯H ǫ¯1ǫ¯2
+— 6D¯ − 2∆¯	− π2 + 53  ǫ¯2ǫ¯
+1	1	roll approximations, we find that the power spectrum for the tensor perturbations reads
+∆2(k) ≃ A¯ n1 + δ¯ − 2(D¯ + 1)ǫ¯
+
+n	n1
+
+/ /
+
+7π2
+
+/
+
+
+/
+3	1 2
+
+/
+
+25 
+/
+t	t	H	p	1
+3δ¯2	¯	¯
+
+  ∆¯
+π2	8 
+
+/	/
+
+  ¯	π2
+¯	¯ 2  2
+
+7π2
+
+/	/
+
+22 
+
+/
+
+¯	¯	¯ 2
+π2	,
+
+/
+/
+
+
++ ∆¯ n2 −
+D¯ 2	2
++
+2	24
+(ǫ¯2ǫ¯2 + ǫ¯2ǫ¯3ǫ¯4),
+where A¯t
+181H¯ 2
+36e3 π2
+(2.27)
+. Also the tensor spectral index and
+
+¯	/	¯	2
+(2.25)
+¯
+its running are given by
+nt ≃ −2ǫ¯1 + 4δ¯H ǫ¯1 − 2ǫ¯2 − 2(D¯ n + 1)ǫ¯1ǫ¯2 + 12δ¯2 ǫ¯1
+
+where Dn ≡ 10 − ln 2, ∆n1 ≡ 454 − π  , and ∆n2 ≡  371  .	1	H
+
+27	81	2
+2916
++4D¯ nδ¯H ǫ¯2 − 2ǫ¯3 − 2(D¯ n − 1)δ¯H ǫ¯1ǫ¯2
+
+2 ¯	¯	2
++ π2 − 6D¯ + 2∆¯	− 50  ǫ¯2ǫ¯
+
+αs ≃ −2ǫ¯1ǫ¯2 − ǫ¯2ǫ¯3 + 4ǫ¯1δH − 2ǫ¯1ǫ¯2δH − 6ǫ¯1ǫ¯2
+— 3 + 2Dn ǫ¯1ǫ¯ − 2 Dn + 2 ǫ¯1ǫ¯2ǫ¯3 − Dnǫ¯2ǫ¯
+
+n
+  π2
+n1	3	1 2
+ 
+
+/	/ / /
+
+
+
+  π2
+
+
+¯	¯ 2	¯
+6
+
+obtains
+
++	12 − 2Dn − Dn + 2∆n2 − 2
+ǫ¯1ǫ¯2ǫ¯3,
+
+(2.28)
+
+2	⋆
+⋆1	n  ⋆1 ⋆2
+⋆	2
+
+−Dnǫ⋆2ǫ⋆3 + 4δ⋆Hǫ⋆1 + 12δ⋆Hǫ⋆1
+
+and
++	55	6D⋆ + π2 + 2∆⋆  ǫ2 ǫ
+
+— 2ǫ
+
+αt ≃ −2ǫ¯1ǫ¯2 + 4δ¯H ǫ¯2 − 2δ¯H ǫ¯1ǫ¯2 − 6ǫ¯2ǫ¯2 − 2(D¯ n + 1)ǫ¯1ǫ¯2
+
+— 3 −	n
+ 
+/	/
+n1	⋆1 ⋆2	⋆1
+/	 
+/	/	/	/
+
+−2(Dn + 2)δHǫ¯1ǫ¯2 − 2(Dn + 2)δHǫ¯1ǫ¯2ǫ¯3 − 12ǫ¯1ǫ¯2	2
+
++ 2π2 − 36 − 14D¯
++ 4∆¯
+ ǫ¯2ǫ¯2
++	7π  + ∆⋆
++ 2∆⋆
+4D⋆ − D⋆2
+ǫ ǫ ǫ
+
+  π2
+
+/
+
+n
+¯	¯ 2
+n1	1 2
+¯		3
+12
+  π2
+
+/
+
+n1
+
+∆⋆	7 
+
+/	/
+
+n2 − 3 −	n
+ 
+n	⋆1 ⋆2 ⋆3
+
++  π2 − 8D¯
++ 2∆¯	− / ǫ¯2ǫ¯ ǫ¯
+56
+  π2	D⋆2 
+
+n
+  π2	¯
+n1	3
+¯ 2	¯
+1 2 3
+	2
++	24	n2 −  2
+⋆	¯	 
+(ǫ⋆2ǫ2
++ ǫ⋆2ǫ⋆3ǫ⋆4)
+
+  π2
+¯	¯ 2	¯	2
+The running of the scalar spectral index reads
+
++	12 − 2Dn − Dn + 2∆n2 − 2
+π2	 
+ǫ¯1ǫ¯2ǫ¯3
+αs ≃ −2ǫ⋆1ǫ⋆2 − ǫ⋆2ǫ⋆3 − 2(D⋆ + 2)ǫ⋆1ǫ⋆2ǫ⋆3
+
++	− 2D¯
+— D¯ 2 + 2∆¯
+— 2 ǫ¯ ǫ¯ ǫ¯ ǫ¯ .	(2.29)
+−6ǫ ǫ⋆2 − D ǫ⋆2ǫ⋆3ǫ⋆4 − (3 + 2D )ǫ⋆1ǫ
+
+12	n	n	n2
+1 2 3 4
+⋆1	n
+⋆	2	2
+n	⋆2
+3
+
+−Dnǫ⋆2ǫ⋆3 + 4δ⋆Hǫ⋆1 − 2δ⋆Hǫ⋆1ǫ⋆2 − 12ǫ⋆1ǫ⋆2
++  2π2 + 4∆⋆ − 119 − 14D⋆  ǫ2 ǫ2
+
+Expansions at horizon crossing
+  7π2
+
+/
+
+n1	3
+⋆	⋆
+n	⋆1 ⋆2
+
+pressions of the power spectra, spectral indices, and run-
+23	⋆
+⋆2	3
+
+were evaluated at the turning point y¯0. However, in the
++  π2 + 2∆⋆
+67	8D⋆  ǫ2 ǫ ǫ
+
+usual treatments, all expressions were expanded at the horizon crossing a(η⋆)H(η⋆) =	Ω(η⋆)k. Thus, it is use-
+  7π2
+n1 − 3 −	n
+⋆	⋆
+⋆1 ⋆2 ⋆3
+
+ful to rewrite all the expressions given in the last section at the time when the scalar (or tensor) mode crosses the horizon. After some tedious calculations, for the scalar
++	4  + 3∆n1 + 6∆n2 − 23
+— 10D⋆ − 3D⋆2!ǫ⋆1ǫ2 ǫ⋆3 − 6δ2
+ǫ⋆1ǫ⋆2
+
+perturbations, we find the scalar spectrum can be ex-
+pressed as
+n
+  7π2	⋆
+n	⋆2	⋆H
+⋆	⋆	⋆2
+
+2	⋆h	⋆	⋆
++	12 + ∆n1 + 2∆n2 − 5Dn − Dn
+
++  2D⋆2 + 2D⋆ + π
+/
+
+— 5 + ∆	ǫ
+
+—	ǫ⋆1ǫ⋆2ǫ2
+
+p	p	2
+1	π2	∆⋆
+1	⋆1
++  ∆⋆
+π2	14
++	− /
+/
+
+ǫ2 ǫ2
+
++	D⋆2 +
+— 1 +	⋆2
+n1	2
+3	⋆2 ⋆3
+
+2	8	4
+3 2	⋆		⋆
+/
+
+
++	n2
+⋆2	2
+n +
+
+ǫ⋆2ǫ3
+
+7π2
+  7π2	⋆	⋆
+/
+
+p	p	12	1	2
+  π2	1	i
+12
+23	⋆
+/
+
+
+⋆2 
+
+24	2  p	2
+3
+  ∆⋆	π2	7 
+
+/	/	/	/
+
+
+crossing, A⋆ ≡
+
+/
+
+/	/
+3 2 ⋆  , D⋆ = 67
+— ln 3, ∆ =	−	/	2 
+/	/ /	/
+
+
+
+
+⋆	1  ⋆2
+π2	2
+/
+
+7
+
+Finally with both scalar and tensor spectra given
+
+/
+
+
+−2 (D + 3) δ⋆Hǫ⋆1ǫ
+— 2 (D + 2) δ⋆Hǫ⋆1ǫ⋆2ǫ⋆3
+horizon crossing time η⋆, and find that
+
+⋆	2	(	/	2
+−8D δ⋆Hǫ	+ 6 (2D + 3) δ⋆Hǫ ǫ⋆2.	(2.32)
+/	/	/
+
+
+consider the tensor perturbations, which yield
+  7	⋆	⋆2	D⋆2 !
+
+∆2(k) ≃ A⋆(1 − 2 1 + D⋆ ǫ⋆1 + δ⋆H + 3 δ2
++	6 − 4 +  2  +  2
+!
+ǫ⋆2
+)
+
+
++  2D⋆2 + 2D⋆ + π − 5 + ∆	ǫ
+/
++	2  − ∆2 − 24
+ǫ⋆2ǫ⋆3 .
+
+p	p	2
+⋆2	⋆	π2
+/
+
+1	⋆1
+
+⋆ 
+(2.36)
+
+
+— 2 2D⋆ + 3
+
+
+δ⋆Hǫ⋆1
+).	(2.33)
+parameter δ⋆H doesn’t contribute to the tensor-to-scalar ratio r, up to the third-order uniform asymptotic approx-imation.
+In addition, to the first-order of the slow-roll param-
+
+For the tensor spectral index, we find
+nt ≃ −2ǫ⋆1 − 2(1 + D⋆ )ǫ⋆1ǫ⋆2 − 2ǫ2
+
+
++ 4δ⋆Hǫ⋆1
+eters, it can be shown that our results given above are consistent with those presented in [25].
+
+/
+−2ǫ	+  π2 − 6D⋆ + 2∆⋆
+⋆1
+— 52	ǫ2 ǫ
+
+⋆1
+π2
+
+/
+12
+  π2
+
+/
+
+n	n1
+
+n2	n
+
+⋆	⋆
+3	⋆1 ⋆2
+
+
+n	⋆2
+
+⋆2 
+INFLATIONARY OBSERVABLES WITH
+INVERSE-VOLUME CORRECTIONS
+
+Now let us turn to consider another type of quantum gravitational correction, the inverse-volume, in LQC.
+
+
+
+
+/	/
++ 4D⋆ − 6D¯ n + 2 δ⋆Hǫ⋆1ǫ⋆2 + 12δ2
+
+ǫ⋆1.
+(2.34)
+
+/
+perturbations
+
+In the presence of the inverse-volume corrections, the
+
+Then, the running of the tensor spectral index reads
+effective Friedmann and Klein-Gordon equations read
+
+α  ≃ −2ǫ ǫ	− 2(1 + D )ǫ ǫ ǫ
+— 6ǫ ǫ
+
+2
+−12ǫ ǫ⋆2 − 2(1 + D )ǫ⋆1ǫ	+ 4δ⋆Hǫ
+8πG   ϕ˙2
+
+/
+
+−2δ⋆Hǫ⋆1ǫ⋆2 + 16δ⋆Hǫ⋆1 − 8Dnδ⋆Hǫ⋆1
+3	2ϑ
+
++  2π2 − 14D⋆ + 4∆⋆ − 80  ǫ2 ǫ2
+ϕ¨ + H 3 − 2 d ln ϑ  ϕ˙ + ϑdV (ϕ) = 0,	(3.2)
+
+
+  π2
+
+/
+
+n	n1	3
+⋆	⋆
+⋆1 ⋆2
+⋆2	3
+d ln p	dϕ
+
++  π2 − 8D⋆ + 2∆⋆
+— 58  ǫ2 ǫ ǫ
+α ≃ 1 + α0δPl, ϑ ≃ 1 + ϑ0δPl,	(3.3)
+
+  π2
+
+/
+
+n	n1	3
+⋆	⋆
+⋆1 ⋆2 ⋆3
+⋆2	2
+where δPl characterizes the inverse-volume corrections in
+
+/
+
+
+π2
++	− 2 + 2∆
+/
+
+— 2D − D
+
+ǫ⋆1ǫ⋆2ǫ2
+
+δPl ≡
+ aPl σ
+.	(3.4)
+
+12
+  π2
+
+/
+
+n2	n
+
+⋆	⋆
+n	⋆3
+
+⋆2 
+
+Note that here we only consider the inverse-volume cor-
+
+−6δ⋆Hǫ⋆1ǫ⋆2 + 2 (6Dn + 7) δ⋆Hǫ⋆1ǫ⋆2
+tent, through the whole paper, we shall expand all the quantities at the first-order of δPl.  In the above, α0,
+
+⋆	2	⋆
+
+−2 (Dn + 2) δ⋆Hǫ⋆1ǫ⋆2 − 2 (Dn + 2) δ⋆Hǫ⋆1ǫ⋆2ǫ⋆3.
+(2.35)
+ϑ0, and aPl are constants and depend on the specific models and parametrization of the loop quantization.
+
+8
+
+
+Specifically for the parameter σ, different parametriza-tion schemes shall provide different ranges of σ [23, 34]. Moreover, α0 and ϑ0 are related by the consistency con-dition
+ϑ0(σ − 3)(σ + 6) = 3α0(σ − 6),	(3.5)
+while σ takes values in the range 0 < σ  6.
+The evolution of the background, which can be deter-mined by the above set of equations, is usually differ-ent from the evolution given in the standard slow-roll
+Power spectra and spectral indices in the uniform asymptotic approximation
+
+Similar to the last section, to apply the uniform asymp-totic approximation, we first write the equations of mo-tion for both scalar (Eq. (3.6)) and tensor perturbations (Eq. (3.10)) into the standard form Eq. (A.1). Then, for the scalar perturbations, the functions gˆ(y) and q(y) must chosen as [27, 28],
+λ2gˆ(y) = −  1   s2(η)k2 − zs′′(η)  +  1  , (3.12)
+
+inflation, because of the purely geometric effects of the
+inverse-volume corrections. However, as indicated in [24],
+
+/
+k2	zs(η)
+1
+4y2
+
+in that regime, the constraint algebra has not been shown
+to be closed. One way to consider the slow-roll inflation with inverse-volume corrections is in the large-volume regime, where the quantum corrections are small and the constraint algebra is closed. In this paper, we will focus
+q(y) = − 4y2 ,	(3.13)
+while for tensor perturbations one chooses
+λ2gˆ(y) = −  1   α2(η)k2 − zt′′(η)  +  1  , (3.14)
+
+on the latter case. Similar to the case with the holon-
+omy corrections, we still adopt the slow-roll parameters
+/
+k2	zt(η)
+1
+4y2
+
+defined in Eq. (2.5).
+The inverse-volume corrections can be also introduced into equations governing the evolution of cosmologi-cal perturbations. In particular, it was found that, when inverse-volume corrections are present, the gauge-
+q(y) = − 4y2 .	(3.15)
+In the slow-roll approximation, zs′′/zs and zt′′/zt can be casted in the form,
+
+invariant comoving curvature perturbation R is con-
+zs′′(η)
+2  2h
+3ǫ2
+ǫ1ǫ2
+2	ǫ2ǫ3
+
+served at large scales. Such a feature of strongly sug-gests that one can write a simple Mukhanov equation in the variable µ(s)(η) ≡ zsR, which is [23, 35]
+z (η) ≃ a H
+2 − ǫ1 +
+
++ f (s)(ǫi)δ
+2 −
+Pli,
++ / +
+2	4	2
+
+
+(3.16)
+
+d2µ(s)(η)
+dη2	+
+where
+s2(η)k2 −
+zs(η)′′ zs(η)
+(s)
+k
+(η) = 0,	(3.6)
+
+and
+
+
+zt′′(η)
+/
+zt(η)
+
+
+≃ a2H2 h2 − ǫ1
+
+
+
+
++ f (t)(ǫi)δPl
+
+
+i ,	(3.17)
+
+z (η) ≡ aϕ˙ 1 + α0 − 2ϑ0 δ
+
+ ,	(3.7)
+
+where
+
+s	H	2	Pl
+
+
+(s)
+
+σ2(σ − 3)α0	 σ(σ − 3)(σ + 6)ϑ0
+
+/
+//
+
+
+σ2α0 
+
+/
+/
+
+
+s2(η) ≡ 1 + χδPl,	(3.8)
++ σ(σ − 3)α0 ǫ2 ,
+
+4	ǫ1
+
+with
+χ ≡ σϑ0 σ + 1 + α0 5 − σ .	(3.9) For the cosmological tensor perturbations hk, when the
+f (t)(ǫ ) ≡ σ(σ − 3) α .	(3.18)
+
+
+gˆ(y) in a simplified form
+
+inverse-volume corrections are present, the corresponding
+Mukhanov equation for the variable µ(t)(η) ≡ zthk is
+λ2gˆ(y) =
+ν2(η)
+y2	− 1 − χδPl +
+m(η)
+y2 δPl,	(3.19)
+
+written as [23]
+
+d2µ(t)(η)
+dη2	+
+
+
+α2(η)k2 −
+
+zt(η)′′
+
+/
+zt(η)
+
+
+
+(t)
+k
+
+
+(η) = 0, (3.10)
+where in a slow-roll background, ν(η) and m(η) are slow-rolling variables depending on the types of the pertur-bations. In particular, for the scalar perturbation, χ is given by Eq. (3.9), while for the tensor perturbation we
+
+with α(η) being given in Eq. (3.3) and
+z (η) ≡ a 1 − α0 δ  .	(3.11)
+shall replace χ by 2α0.
+With the functions gˆ(y) and q(y) given in the above, we are in the position to calculate the power spectra and
+
+/
+
+
+
+Eq. (A.27). However, unlike the case for the holonomy corrections, in which ν(η) and Ω(η) are slow-rolling quan-tities, δPl in Eq. (3.19) cannot be treated as a slow-rolling quantity  durin g inflation. Consequently, the expansion of  g(y) =  λ2gˆ(y) in Eq.(2.16) cannot be directly ap-
+
+
+
+
+
+and
+
+
+
+y	6
++ e	/	+ f
+y0
+
+  y  7 i
+
+/
+/
+
+9
+
+,	(3.24)
+
+In order to apply for the formulas Eq.(A.26) and Eq.(A.27) to calculate inflationary observables with the
+0	0
+= yσ+1
+ha + b
+0
+y	y	2	y	3
++ c	/	+ d	/
+
+inverse-volume corrections, let us first write δPl as
+0	y0	y0	y0
+
+
+
+δPl =
+
+ aPl σ
+/
+
+/
+
+
+H
+
+/
+−aηH
+
+σ
+yσ = ǫPlκ(η)yσ, (3.20)
+y	4
++ e	/	+ f
+y0
+  y  5 i
+
+/
+/
+
+
+,	(3.25)
+
+with ǫPl ≡
+
+ aPl σ
+/
+/
+≪ 1 and κ(η) ≡   H
+ σ , and assume
+where the relations between the values of σ and
+{a, b, c, d, e, f } is
+
+that σ is an integer within the range 0 < σ	6. With
+these conditions we can write the function g(y) in the following form
+σ = 6	⇔	{1, 1, 1, 1, 1, 1},
+σ = 5	⇔	{1, 1, 1, 1, 1, 0},
+
+g(y) = y0 − y h
+y
++ h1y + · · · + hσ
+yσ + h
+
+σ+1
+
+yσ+1  .
+
+(3.21)
+
+In the above y0 = y0(η) is assumed to be slow-rolling.
+Comparing the above form with Eq. (3.19) we find
+hσ+1 = χǫPlκ, hσ = χy0ǫPlκ,
+h	= (χy − my−1)y ǫ κ,
+(3.26)
+Note that when σ is an integer, one can al ways set a = 1. Now let us turn to the integral of	g(y). In order to carry out the integration, we need also to specify the form of all the slow-rolling quantities y0(η), m(η), and
+
+σ−1
+0
+. . . . . .
+0	0 Pl
+κ(η). To do so, similar to the case with the holonomy
+corrections, it is convenient to expand all these quantities
+
+hi = (χy0 − my0−1)yσ−iǫPlκ,	(σ > i ≥ 2),
+. . . . . .
+h2 = (χy0 − my0−1)yσ−2ǫPlκ,
+around the turning point y¯0 of g(y) (i.e., g(y¯0) = 0 with
+y¯0(η0) = −kη0) in the slow-roll inflation, i.e.,
+y
+
+0
+h1 = 1 + (χy0 − my0−1)yσ−1ǫPlκ,
+y0(η) ≃
+y¯0 + y¯1 ln
+
+/
+y¯0
+,	(3.27)
+y
+
+h0 = y0 + (χy0 − my−1)yσǫPlκ.	(3.22)
+m(η) ≃
+m¯ 0 + m¯ 1 ln
+/,	(3.28)
+
+0	0	y¯0
+
+Note that in the above we have assumed that m = m(η) and κ = κ(η) are slow-rolling quantities. Then, expand-
+κ(η) ≃
+κ¯0
++ κ¯1
+y
+ln	.	(3.29)
+y¯0
+
+ing √g(y) in terms of ǫPl to the order O(ǫPl), we find
+In general the quantities y¯ , y¯ , m¯
+, m¯
+, κ¯ , κ¯
+are of
+
+√g(y) ≃
+√y0 − y √
+
+/
+y
+
+/
+y0 + y
+order of
+0	1	0	1	0	1
+
+
+3	 ǫ 
+
+/	/
+
+
++ 2√y + y
+χ(y0	+ y0 y + · · · + y	)
+y¯1
+~ O(ǫi ) + O (ǫPl) ,
+
+— m (yσ+1 + yσy + · · · + yσ−1)i).
+1
+m¯	∼ O
+
+m¯ ∼ O(1),
+
+
+/
+2	0	0
+0
+
+(3.23)
+0
+κ¯0 ∼
+( / ),
+ǫi
+H¯ O(1),
+1
+κ¯1 ∼ H¯ O(ǫi).	(3.30)
+
+As we have assumed 0 < σ	6, the two sequences in the above expressions are finite and can be expressed as
+yσ+1 + yσy + · · · + yσ+1
+As shown in [24], when σ is in the range of 1  σ  6, the parameter of the inverse-volume corrections HσǫPl is constrained by the observations that HσǫPl should be
+. 10−2
+
+0	0
+= yσ+1
+
+1 + y + a y0
+
+y	2	y	3
+/	+ b	/
+y0	y0
+. As we shall show below, in our calculations, the constraint is tighter because of ǫ1−1 enhancement of the inverse-volume corrections. In this situation, as the slow-
+−2
+
+   y  4
+
+   y  5
+
+term Hσǫ	is expected to be . ǫ2, which usually is at
+/	/
+
+
+
+inverse-volume corrections HσǫPl as the second-order in
+
+
+  ¯	π2
+10
+
+¯	¯ 2  2
+
+/
+Then, with these expansions we can perform the inte-
+/
+
+
+¯	π2
+
+¯	¯ 2 
+
+/
+tion H (+ ). The results of the integral of  g(y) and the error control function H (+ ) are all presented in Appendix B. The slow-roll expansions of m¯ 0, m¯ 1, and
+
+
++ ǫPl
+σ
+/H¯ 2
+
+
+¯(t) 0
+),	(3.34)
+
+κ¯0, κ¯1
+etc are presented in Appendix C.
+
+nt ≃ −2ǫ¯1 − 2ǫ¯2 − 2
+
+D¯ n + 1
+
+ǫ¯1ǫ¯2 + ǫPl
+ 3H¯  σ
+
+/
+/
+
+
+K¯(t),
+
+Inflationary spectra for both scalar and tensor
+perturbations
+
+Let us first consider the scalar spectrum. With the slow-roll expansions of ν¯0, ν¯1, ν¯2, ν¯3, m¯ 0, m¯ 1, m¯ 2, etc, presented in Appendix C and the expression of y¯0 given in Eq. (B.7), we find that up to the second-order in the slow-roll parameters, the scalar spectrum can be cast in
+
+
+and
+
+
+
+
+αt ≃ −2ǫ¯1ǫ¯2 + ǫPl
+
+
+
+ 3H¯  σ
+
+/
+/
+
+(3.35)
+
+
+
+L¯(t),	(3.36)
+
+the form
+
+∆2(k) ≃
+A¯s(1 − 2(1 + D¯ p)ǫ¯1 − D¯ pǫ¯2
+where Q¯(t), K¯(t), and L¯(t) are given in Table II.
+
+
+2
++ 2D¯ p + 2D¯ 2 +
+2
+
+— 5 + ∆¯ 1
+
+ǫ¯2
+Evaluating at horizon crossing
+
++  D¯ 2 − D¯ p +
+7π2
+
+/
+12
+— 8 + ∆¯ 1 + 2∆¯ 2
+ǫ¯1ǫ¯2
+So far, we have obtained all the expressions of the
+power spectra, spectral indices, and running of spectral indices for both scalar and tensor perturbations with the
+
+  1 ¯ 2	π2	3	1	2
+inverse-volume corrections. However, to compare with
+
+/
+
+
+2
++	+ ∆¯ 2 −
+/
+1 D¯ 2
+ǫ¯2ǫ¯3
+slow-roll parameters which are evaluated at the time η⋆
+when the scalar or tensor modes cross the horizon, i.e.,
+
+24	2  p
+a(η )H(η ) = s(η )k for the scalar perturbations and
+
+ σ  ¯(s)
+(s)	! )	⋆	⋆	⋆
+/
+
+Pl	2
+
+/
+ǫ¯1	0
+ǫ¯1
+
+(3.31)
+cause in general the values of s(η⋆) and α(η⋆) are dif-
+ferent, for the scalar and tensor modes with the same wavenumber k, they cross the horizon at different times.
+
+Then, the corresponding scalar spectral index and run-ning read
+ns	1	2ǫ¯1	ǫ¯2	2ǫ¯2	2D¯ n + 3 ǫ¯1ǫ¯2	D¯ nǫ¯2ǫ¯3
+ 3H¯ σ  K¯(s)	K¯(s)ǫ¯ !
+When s(η⋆) > α(η⋆), the scalar mode leaves the hori-zon later than the tensor mode, and for s(η⋆) < α(η⋆), the scalar mode leaves the horizon earlier than the ten-sor. In this case, as we have pointed out in [30], caution must be taken for the evaluation time for all the infla-
+
+2	ǫ¯1	0
+
+αs ≃ −2ǫ¯1ǫ¯2 − ǫ¯2ǫ¯3
+  3H¯	L¯
+
+/	/
+/	/
+
+ǫ¯1
+
+L¯(s)ǫ¯ !
+crossing times, it is reasonable to re-write all expressions in terms of quantities evaluated at the later time, i.e., we should evaluate all expressions at scalar-mode hori-zon crossing a(η⋆)H(η⋆) = s(η⋆)k for s(η⋆) > α(η⋆) and
+
+/
+/
+
+
+where
+Q¯(s),
+Q¯(s),
+Q¯(s),
+K¯(s), K¯(s), K¯(s),	and
+such a difference only contributes to the high-order terms
+
+/
+
+¯(s), ¯(s), ¯(s) are given in Table II.
+Similar to the scalar perturbations, up to the second-order of the slow-roll parameters, the tensor spectrum, spectral index, and the running, are given, respectively, by
+∆2(k) ≃ A¯t(1 − 2 1 + D¯ p ǫ¯1
+approximation we consider here. Thus, in this paper, we will not distinguish these two different cases and only consider the expansions at the time when the scalar mode crosses the Hubble horizon.
+Then, we shall re-write all the expressions in terms of quantities evaluated at the time when the scalar mode leaves the Hubble horizon a(η⋆)H(η⋆) = s(η⋆)k. Skip-ping all the tedious calculations, we find that the scalar
+
+
+
+spectrum can be written in the form
+∆2(k) ≃ A⋆(1 − 2 1 + D⋆ ǫ⋆1 − D⋆ǫ⋆2
+
+	⋆2	⋆	π2	⋆  2
+/
+
+11
+
+⋆(s) = L¯(s) + L¯(s) For the tensor spectrum, we get
+∆2(k) ≃ A⋆(1 − 2 1 + D⋆ ǫ
+
+  D⋆2	π2	∆⋆ !
+⋆2	⋆	π2	⋆  2
+/
+
+
+
+2	⋆2
+⋆	π2	⋆ 
+/
+
+
+p	p	12
+1	2
+2	⋆2
+⋆1 ⋆2
+!
+  3H⋆  σ
+⋆(t))
+
+− 4D⋆ + 6 δ
+⋆Hǫ⋆1 +
+π	Dp
+24 −  2
++ ∆⋆
+ǫ⋆2ǫ⋆3
++ ǫPl	2
+Q0	,	(3.43)
+
+  3H
+
+
+ σ h Q⋆(s)
+
+/
+
+⋆(s)	i)
+/	/
+
+where Q⋆(t) = Q¯(t). For the tensor spectral index, we
+
+/
+
+
+(3.37)
+nt ≃ −2ǫ⋆1 − 2(1 + D⋆ )ǫ⋆1ǫ⋆2 − 2ǫ2
+
+  3H⋆  σ
+
+/
+
+n	⋆1
+⋆(t)
+
+⋆(s)
+−1
+⋆(s)
+/
+
+= Q¯(s),
+= Q¯(s) + (σ + 2)Q¯(s) ln	+
+
+
+σ2(3 − σ)α0
+
+/
+/
+where ⋆(t) = ¯(t). For the running of the tensor spectral index, we have
+
+
+
+Q1	= 2Q−1 ln 2 + Q1  +
+.	(3.38)
+18
+
+/
+/
+where L⋆(t) = L¯(t).
+
+which can be expressed as
+ns ≃ 1 − 2ǫ⋆1 − ǫ⋆2 − 2ǫ2
+
+
+— (3 + 2D )ǫ⋆1ǫ⋆2 − D ǫ⋆2ǫ⋆3
+Finally, with both scalar and tensor spectra given above, we can evaluate the tensor-to-scalar ratio at the horizon crossing η⋆, and we find that
+
+
++ǫPl
+3H⋆
+
+/
+2
+⋆1
+σ	⋆(s)
+−1
+/
+ǫ⋆1
+n
+
++ K⋆(s) +
+⋆(s) 1
+ǫ⋆1
+⋆2 ),
+
+r ≃ 16ǫ⋆1
+(1 + D⋆ǫ⋆2 + ǫPl
+
+3H⋆  σ
+
+/
+2
+
+⋆(s)
+−1	.
+ǫ⋆1
+
+
+where
+
+
+
+
+
+⋆(s)
+−1
+
+
+
+
+¯(s)
+−1
+(3.39)
+(3.46)
+Some remarks about the spectra with the inverse-volume corrections now are in order. First, similar to the discussions given in [23], as ǫPl ∝ k−σ, both scalar and
+
+⋆(s)
+= σK¯(s) ln 3 + K¯(s),
+tensor spectra exhibit a deviation from the usual shape
+
+0	−1	2	0
+when k is small enough, i.e., at large scales. Second, as
+
+⋆(s)
+/
+
+= K¯(s) + K¯(s)
+(3.40)
+a result of the above features in the spectra, the spectral
+
+/
+
+The running of the scalar spectral index reads
+αs ≃ −2ǫ⋆1ǫ⋆2 − ǫ⋆2ǫ⋆3
+could be dominated by the quantum gravitational correc-tions at large scales. Such an interesting feature signals a qualitative departure from the inflation given in general
+
+
++ǫPl
+3H⋆
+
+/
+2
+σ	⋆(s)
+−1
+/
+ǫ⋆1
+
++ L⋆(s) +
+⋆(s) 1
+ǫ⋆1
+⋆2 ) ,
+relativity, and could be crucially important for further observational tests of constraints on quantum gravita-tional corrections.
+
+
+
+where
+
+
+
+
+
+⋆(s)
+−1
+
+
+
+
+
+¯(s)
+−1
+(3.41)
+Note that in [23, 24] the observables ns, nt and r were calculated up to the first order of the slow-roll param-eters. Comparing their results with ours, we find that they are different. This is mainly due to the following:
+(a) In [23] the horizon crossing was taken as k = H.
+
+⋆(s)
+/
+= σL¯(s) ln 3 + L¯(s),
+However, due to the quantum gravitational effects, the
+
+/
+
+12
+
+
+and (Eq. (3.10)), so the horizon crossing should be at ωk = H. (b) In [23] the mode function was first obtained at two limits, k ≫ H and k ≪ H, and then matched to-
+
+
+where γ ≡ Γ(1+ν)/Γ(
+
+
+
+1+ν
+
+
+
++  i√a1
+(4.7)
+
+). Comparing the above
+
+gether at the horizon crossing where k ≃ H. This may lead to huge errors [36], as neither µk≫H nor µk≪H is a good approximation of the mode function µk at the hori-
+expressions with the initial condition and using the rela-tion,
+
+√   2
+2  ia1 
+ πa1 
+ a1 
+√ 2 2 2
+
+zon crossing. This is further supported by considering
+the exact solution for σ = 2, to be presented in the next
+(−i
+a2k η ) 4√a2 = e 8√a2 ei 4√a2 ln(
+
+/
+a k η ),	(4.8)
+
+section.
+
+INVERSE-VOLUME CORRECTION FOR
+σ = 2: EXACT SOLUTION
+
+When σ = 2, if we assume that all the slow-roll pa-rameters are constants, the equations of motion (3.6) and (3.10) for both the scalar and tensor perturbations can be casted into the form
+µ′k′(η) +  a0 + a k2 + a k4η2 µk(η) = 0,	(4.1)
+one gets c2 = 0, and
+ a1 π 
+e 8√a2
+c1 = √2ka1/4 .	(4.9)
+One also can use the Wronskian condition
+µk(η)µ′k∗(η) − µ∗k (η)µ′k (η) = i
+to determine the coefficient c1, which exactly gives the same result. Thus, with the initial condition (4.4) the solution reads
+
+
+a1 π	/ /	 
+
+a0 ≡
+4 − ν , a1 ≡ 1 − mǫPlκ, a2 ≡ χǫPlκ.	(4.2)
+−2ηka2
+2
+(4.10)
+
+With a0, a1, and a2 being constant, Eq. (4.1) can be solved exactly, whose solution reads
+Considering the asymptotic form in the limit η → 0−,
+
+
+µk(η) =
+ c1 
+√−η WW
+ ia
+4√a2
+, , −i√a2k2η2 
+WW  −  ia1  , ν ,
+−i√a2k2η2 
+
++  c2  WM  ia1 
+ν −i√a k2η2  ,(4.3)
+≃ 	Γ(ν)	(−i√a k2η2) 1−ν ,
+/	//
+
+
+where WW (b1, b2, z) and WM (b1, b2, z) are the Whit-takerW and WhittakerM functions, respectively. To de-termine the coefficients c1 and c2, let us consider the adiabatic initial condition,
+
+we find
+
+
+
+
+
+
+
+ a1 π 
+e 8√a2
+
+
+
+Γ(ν)
+(4.11)
+
+	1	i ,
+k
+
+ωk(η)dη
+µk(η) ≃
+√−2ηka1/4
+Γ  ν+1
++  i√a1 
+
+lim	µ (η) =
+−kη→+∞
+√2ω (η) e
+
+/
+
+/
+2
+ √	2
+2
+2 1−ν
+4 a2
+
+ka1/4
+−2η
+In the above we have ignored the irrelevant phase factor.
+
+The asymptotic forms of Whittaker functions WW (b1, b2, z) and WM (b1, b2, z) in the limit z  + , on the other hand, are,
+At this position, the power spectra can be computed in the limit η → 0− as
+
+k3  µk(η) 
+
+
+WM (b , b , z) ≃	Γ(1 + 2b2)
+
+/
+z−b1 e 2 .
+(4.6)
+
+For scalar perturbations, we find
+
+Then, one arrives at
+
+∆2(k) =
+H2
+16π3M
+
+Γ2(ν)(aηH)−2
+ǫ
+
+22ν
+
+(−kη)
+
+3−2ν
+
+a1−ν
+
+c	i √a k2 η2
+/
+
+√/ 2 2 ia1
+pl 1
+ 
+
+/	/
+
+
+c γ	i √a k2 η2
+/
+√	2 2
+ia1	3
+
++√−η
+e− 2	2
+(−i
+a2k η ) 4√a2 ,
+(4.14)
+
+13
+
+In the above, we have used the asymptotic formula of	this may not be the case for the inverse-volume correc-
+
+the Gamma function Γ  ν+1 + i√a1  . Then consider-
+tions [32]. Therefore, in this section we shall consider
+
+ing the slow-roll expansion of ν, m(η), and κ for scalar perturbation,
+In general, with the spectral index and running given in Eqs.(3.39) and (3.41), the scalar spectrum can be ex-
+
+νs ≃
+3
+2 + ǫ1 +
+α0
+ǫ2 ,	(4.15)
+2
+α0ǫ2
+panded about a pivot scale k0 as
+
+ln ∆2(k) ≃ ln ∆2(k0) + [ns(k0) − 1] ln
+
+   k 
+
+ms ≃
+ǫ + 3α0 −
+2ǫ1
+,	(4.16)
+
+α (k )
+
+/
+/
+
+  k	Σ
+
+/
+/
+k0
+α(n)(k )
+
+/
+/
+
+
+  k 
+
+/
+/
+
+one finds
+
+∆2(k) ≃ ∆2
+
+ 1 + α H2  3 1
+
+ 5 	1 ǫ2  ǫ  .
+(5.1)
+where up to the second-order approximations in terms of
+
+s	GR
+0	2 ǫ1 − 12 − 4 ǫ1
+Pl
+
+(4.18)
+the slow-roll parameters and the leading order contribu-tion from ǫPl we have
+
+It is easy to show that the coefficient of the leading order
+ns − 1 ≃ −2ǫ⋆1 − ǫ⋆2 − 2ǫ2
+— (3 + 2Dn) ǫ⋆1ǫ⋆2
+
+term ǫPl/ǫ1 is exactly consistent with the result obtained by the uniform asymptotic approximation, presented in the last section.
+
+−Dnǫ⋆2ǫ⋆3 + ǫPl
+  3H⋆  σ
+
+⋆(s) −1
+−1  ⋆1
+
+Let us turn to consider the tensor perturbations, for which we have
+H2
+αs ≃ −2ǫ⋆1ǫ⋆2 − ǫ⋆2ǫ⋆3 − σǫPl
+  3H⋆  σ
+
+
+⋆(s) −1
+−1  ⋆1
+(5.2)
+
+∆2(k) ≃
+
+/
+8π3
+ 
+
+/
+
+Γ2(νt)(aηH)−122ν (−kη)3−2ν
+4νt(ν2 − 1)
+
+/
+
+and
+
+/	/
+
+
+  3H  σ
+
+/	/
+
+(4.19)
+Considering the slow-roll expansions of ν (η), m (η), and
+Note that when σ = 3, one has to replace K⋆(s)ǫ−1 by
+
+κ,	K0	. Similar to [24], it is easy to find
+∞	(n)
+
+3
+ν ≃	+ ǫ ,	(4.20)
+Σ αs (k0) lnn  k
+
+
+
+we find
+mt(η) ≃ α0 + α0ǫ1,	(4.21)
+
+/
+= −ǫPl
+  3H⋆  σ
+
+/
+
+
+⋆(s) −1
+−1  ⋆1
+
+∆2(k) ≃ ∆2
+− α0H2ǫPl − 3α0H2ǫ1ǫPl
+. (4.22)
+k	σ	2 k
+ln k − 2 ln k
+e−σ ln k0
++
+σ
+— 1 (.5.4)
+
+One can check that the coefficient of the leading order term from the uniform asymptotic approximation ob-tained in the last section is − 183 ∼ −1.011, which is very
+In order to carry out the CMB likelihood analysis, it is convenient to introduce the following potential slow-roll parameters,
+
+close to the exact value −1, obtained from the above ex-
+M 2 V 2
+M 2 V
+M 4 V V
+
+act solution. Therefore, the results presented in the last
+ǫV ≡   Pl  ϕ ,  ηV ≡   Pl ϕϕ , ξ2
+  Pl ϕ ϕϕϕ
+
+section for σ = 2 are the same as these exact results ob-tained in this section within the errors allowed by our approximations.
+V 2
+V	V	V 2
+
+(5.5)
+
+with which the scalar spectrum can be cast in the form
+
+
+DETECTABILITY OF QUANTUM
+
+/
+∆2(k) ≃ ∆2(k ) exp " n (k ) − 1 ln k
++ αs(k0) ln2 k
+
+3σ  ⋆(s) ǫPlHσ
+
+With the slow-roll conditions, the holonomy correc-tions are normally much weaker than the inverse-volume ones, and their effects in the early universe are not ex-
++ 2σ
+ 
+K−1
+
+k
+	⋆ 
+ǫV
+σ	2 k
+
+
+e−σ ln k0
+
+— 1 #
+
+pected to be observed in the near future [11]. However,
+ln k − 2 ln k +	σ	,
+
+14
+
+
+(5.6)
+while the spectral index and its running can be written in the forms,
+ns . 1. In the forthcoming experiments, specially the Stage IV ones, the errors of the measurements on both ns and r are σ(ns), σ(r) 10−3 [39], which implies the error of the measurement of Γn(ns, r) is
+
+
+ns ≃ 1 − 6ǫV + 2ηV −
+  10 + 24D⋆  ǫ2
+σ(Γn) ≤ 10−3.	(5.14)
+Therefore, if any corrections to ns and r lead to
+
+
++(16D⋆ − 2)ǫV ηV +
+2η2
++  2
+— 2D⋆  2
+Γn(ns, r) & 10−3, they should be within the range of de-
+
+3	tection of the current and forthcoming observations [39].
+
+ǫPlHσ  3σ
+
+/	/
+
+
+⋆(s)
+σ2(σ − 3)α0
+
+/	/
+
+In particular, when the inverse-volume corrections are
+/ //	/ // // /
+
+(5.7)
+and r = r(ǫV , ǫPl), and Eq.(5.13) is modified to,
+δ(k)
+
+and
+
+αs ≃ −2ξ2 + 16ηV ǫV − 24ǫ2
+Γn(ns, r) = F(σ) ǫ	,	(5.15)
+where δ(k) ≡ α0ǫPlHσ and
+
+σǫPlHσ  3σ
+
+/	/
+/	/
+
+
+⋆(s)
+σ2(σ − 3)α0 
+
+/
+/
+
+3σ	σ2(σ − 3)α
+
+/
+
+
+Again remember that when σ = 3 one has to replace
+⋆(s)ǫ−1 by	⋆(s).
+Let us consider the power-law potential
+V (ϕ) = V0ϕn,	(5.9)
+(5.16)
+Clearly, the right-hand side of the above equation repre-sents the quantum gravitational effects from the inverse-volume corrections. If it is equal or greater than (10−3), these effects shall be within the detection of the current
+
+where V0
+and n are constants. In this case, it follows that
+or forthcoming experiments. It is interesting to note that the quantum gravitational effects are enhanced by a fac-
+
+M 2 n2
+ǫV =	Pl	,  ηV
+2  ϕ2
+= M 2 n(n − 1) ,
+Pl	ϕ2
+tor of ǫ−1, which is absent in [23].
+In the following, we run the Cosmological Monte Carlo (CosmoMC) code [40] with the Planck [41], BAO [42],
+
+2	4 n2(n − 1)(n − 2)
+and Supernova Legacy Survey [43] data for the power-
+
+ξV = MPl
+ϕ4	,	(5.10)
+law potential (5.9) for n = 1, 3 , 2 , 1 , respectively. It
+
+5	3	3
+
+from which one can reduce the potential slow-roll param-eters to one (i.e., ǫV ),
+is worthwhile to mention that all these potentials can
+be naturally realized in the axion monodromy inflation motivated by string/M theory [44]. In [32], by using
+
+2(n − 1)	2	4(n − 1)(n − 2) 2
+CosmoMC code [40], we already extracted constraints on
+
+ηV =
+n	ǫV , ξV =
+n2	ǫV . (5.11)
+loop quantum correction parameter δPl/ǫV and slow-roll
+parameter ǫV for σ = 1 and σ = 2 when n = 1. It was
+
+It is also convenient to parameterize the inverse-volume corrections as
+δ(k) = α0ǫPlHσ.	(5.12)
+Thus, in the scalar power spectrum, with the power-law potential there are only two independent free parameters, ǫV (k0) and δ(k0).
+Now let us turn to consider the observational effects of the inverse-volume corrections. When inverse-volume contributions vanish, we have ns = ns(ǫV ) and r = r(ǫV ). Thus it is easy to show that, up to the second-order of ǫV , the relation [37],
+(2 + n)r
+Γn(ns, r) ≡ (ns − 1) +	8n
+(3n2 + 18n − 4)(ns − 1)2
+noted that the constraint for σ = 2 is much more tighter than the case of σ = 1, and makes the quantum gravi-tational effects undetectable for models with σ  2. It is interesting to note that models with small σ are also favorable theoretically [23, 24]. Therefore, in the follow-ing we shall focus on the observational constraints for the case σ = 1.
+We assume the flat cold dark matter model with effec-tive number of neutrinos Neff = 3.046 and fix the total neutrino mass Σmν = 0.06eV . We vary the seven param-eters: (i) baryon density parameter, Ωbh2, (ii) dark mat-ter density parameter, Ωch2, (iii) the ratio of the sound horiozn to the angular diameter, θ, (iv) the reionization optical depth τ , (v) δ(k0)/ǫV , (vi) ǫV , (vii) ∆2(k0). We take the pivot wave number k0 = 0.05 Mpc−1 used in Planck to constrain δ(k0) and ǫV . In Fig.1, the con-straints on δ/ǫ and ǫ are given, respectively, for n = 1,
+
++	6(n + 2)2	= 0, (5.13)
+holds precisely. The results from Planck 2015 are ns = 0.968±0.006 and r0.002 < 0.11(95% CL) [38], which yields
+V	V
+n = 2 , n = 3 , and n = 1 . In particular, we find that at 68% C.L.,
+δ(k0) . 7.9 × 10−5,	with n = 1,	(5.17)
+
+15
+
+
+
+
+0. 0060
+
+0. 0045
+
+0. 0030
+
+0. 0015
+
+
+
+
+
+
+
+
+
+
+0. 0060
+
+0. 0045
+
+0. 0030
+
+0. 0015
+
+
+
+
+
+
+
+
+
+0. 0075 0. 0100 0. 0125
+ǫv
+n = 1
+0. 0060
+
+0. 0045
+
+0. 0030
+
+0. 0015
+
+
+
+
+
+
+
+
+
+0. 0060
+
+0. 0045
+
+0. 0030
+
+0. 0015
+
+
+
+
+
+
+
+
+
+
+
+
+0. 006 0. 008 0. 010
+ǫV
+n = 2
+
+
+
+0. 004	0. 006	0. 008
+ǫV
+n = 3
+0. 003 0. 004 0. 005 0. 006
+ǫV
+n = 1
+
+
+FIG. 1: Two-dimensional marginalized distribution for the parameters δ/ǫV and ǫV at the pivot k0 = 0.05Mpc−1 for the
+power-law potential with n = 1, n = 2 , n = 3 , and n = 1 , respectively. The internal and external lines correspond to the
+3	5	3
+confidence levels of 68% and 95%, respectively.
+
+δ(k ) . 5.7 × 10−5,	with n = 2 ,	(5.18)	range of the detection of the current and forthcoming
+3	cosmological experiments [39]. In addition, as we already
+δ(k ) . 5.4 × 10−5,	with n = 3 ,	(5.19)	pointed out in [32], the up bounds for δ(k0) increase dra-
+0	ǫV
+matically as σ decreases. Thus it is very promising to
+δ(k ) . 3.4 × 10−5,	with n = 1 ,	(5.20)	expect the detectability of gravitational quantum effects
+3	for σ . 1 in the forthcoming cosmological experiments.
+
+which are much tighter than those given in [24]. In the above, to get the the bounds on δ(k0), we have used the best-fit values of ǫV , respectively for different n. It is also easy to see that the upper bound for both δ(k0) and ǫV decrease slightly as n decreases. However, it is remarkable to note that the up bound on δ(k0)/ǫV is rather robust for different values of n, which is roughly
+δ(k0) ≃ O(1) × 10−3 (68% C.L.).	(5.21)
+
+With such bounds, the gravitational quantum effects, de-noted by F(σ) δ(k0) in Eq. (5.15), could be within the
+
+
+CONCLUSIONS
+
+The uniform asymptotic approximation method pro-vides a powerful, systematically improvable, and error-controlled approach to construct accurate analytical so-lutions of linear perturbations. Its effectiveness has been verified by applying it to the inflation models with non-linear dispersion relations [29] and k-inflation [30]. In this paper, we apply the high-order uniform asymptotic approximation to derive the inflationary observables for
+
+16
+
+
+scalar and tensor perturbations in LQC with holonomy and inverse-volume quantum corrections.	We obtain explicitly the analytical expressions of power spectra, spectral indices, and running of spectral indices up to the third-order approximation in terms of the parame-ters introduced in the uniform asymptotic approxima-tion method. To this order, the upper error bounds are 0.15%, accurate enough for the current and forthcom-ing experiments [39]. These expressions are all descibed in terms of the slow-roll parameters (up to the second-order) and the parameters which represent the holonomy
+and inverse-volume quantum gravitational corrections.
+the dispersion relation has only a single turning point. For details, we refer readers to our original papers [27–30].
+
+The approximate solution of the mode function
+
+In the uniform asymptotic approximation method [27, 28, 31, 45], one usually works with the second-order differential equation,
+d µk (y) = λ2gˆ(y) + q(y) µ (y).	(A.1)
+
+
+
+spectral indices, and running of spectral indices for both scalar and tensor perturbations in terms of quantities evaluated at the time when the inflationary scalar (or tensor mode) crosses the Hubble horizon. With the re-sulting expressions, the tensor-to-scalar ratio is also ob-tained, and it is shown that the holonomy corrections do not contribute to the tensor-to-scalar ratio up to the second-order approximations. More interestingly, with the inverse-volume corrections, we find that both scalar
+In the above the parameter λ is used to trace the order of the uniform approximations. Usually λ is supposed to be large, and it also can be absorbed into gˆ(y). Thus when we turn to determine the final results, we can set λ = 1 for the sake of simplicity. For convenience, we also use the notation g(y) = λ2gˆ(y). Specific to the cosmologi-cal applications, µk(y) represents the inflationary mode function for cosmological scalar or tensor perturbations, and one can identify
+
+and tensor spectra exhibit a deviation from the usual shape at large scales, which could be potentially impor-tant for the observational tests. As the uniform asymp-
+ 1 
+λ2gˆ(y) + q(y)
+k2
+
+ω2(η) −
+z′′(η)
+
+/
+z(η)
+
+,	(A.2)
+
+totic approximate solution at the third-order has error bounds . 0.15%, the inflationary observables obtained in the present paper represent the most accurate results obtained so far in the literature.
+Utilizing the most accurate CMB, BAO and SN data currently available publicly [41–43], we also carry out the CMB likelihood analysis, and find the tightest constraints on (δ(k0), ǫV ), obtained so far in the literature. Even with such tight constraints, the quantum gravitational effects due to the inverse-volume corrections of LQC can be within the range of the detection of the current and forthcoming cosmological experiments [39], provided that
+σ . 1.
+
+Acknowledgements
+
+Part of the work was done when A.W. was visiting the State University of Rio de Janeiro (UERJ), and
+A.W. expresses his gratitude to UERJ and the col-leagues there for their hospitality. This work is sup-ported in part by Ciˆencia Sem Fronteiras, No. 004/2013
+- DRI/CAPES, Brazil (A.W.); NSFC No.  11375153
+where ω2(η) is the associated dispersion relation for the inflationary mode function µk(y) and z(η) depends on the cosmological background evolution. In most of the cases, gˆ(y) and q(y) have two poles (singularities): one is at y = 0+ and the other is at y = + . As we discussed in [28] (see also [31, 45]), if these two poles are both second-order or higher, one needs to choose
+1
+q(y) = − 4y2 ,	(A.3)
+for ensuring the convergence of the error control func-tions. In this paper we shall restrict our investigations to this case. In addition, the function gˆ(y) can vanish at various points, which are called turning points or ze-ros, and the approximate solution of the mode function µk(y) depends on the behavior of gˆ(y) and q(y) near these turning points.
+To proceed further, let us first introduce the Liouville transformation with two new variables U (ξ) and ξ via the relations,
+U (ξ) = χ1/4µ (y),  ξ′2 =  |gˆ(y)|  ,	(A.4)
+
+(A.W.), No. 11173021 (A.W.), No. 11047008 (T.Z.), No. 11105120 (T.Z.), and No. 11205133 (T.Z.), China.
+
+
+
+k
+
+where χ ≡ ξ′2, ξ′ = dξ/dy, and
+∫ y √
+/
+
+f (1)(ξ)2
+
+
+
+df (ξ)
+
+/
+/
+
+
+In this section, we present a brief introduction of the uniform asymptotic approximation method and its appli-cations to the inflationary cosmology for the cases where
+Note that χ must be regular and not vanish in the in-tervals of interest. Consequently, f (ξ) must be chosen so that f (1)(ξ) has zeros and singularities of the same type
+
+17
+
+
+as that of gˆ(y). As shown below, such a requirement	as plays an essential role in determining the approximate solutions. In terms of U and ξ, Eq. (A.1) takes the form
+
+
+ ǫ(2n+1)
+,
+M (λ2/3ξ)
+
+
+ ∂ǫ(2n+1)/∂ξ
+λ2/3N (λ2/3ξ)
+
+d2U dξ2 =
+h±λ f
+(1)
+(ξ)2
++ ψ(ξ)i
+U,	(A.6)
+
+≤ 2E−1(λ2/3ξ) exp
+ 2κ0V
+
+α,ξ
+(|ξ1/2|B0)
+λ
+
+where
+
+
+ψ(ξ) =
+
+q(y)
+
+/
+
+
+
+— χ−3/4
+
+
+d2(χ−1/4)
+
+/
+
+
+,	(A.7)
+×
+(2n+1)
+Vα,ξ (|ξ1/2|Bn)
+/
+λ
+(2n+1)
+
+χ	dy2
+ǫ4
+/
+M (λ2/3ξ)
+,	∂ǫ4	/∂ξ
+λ2/3N (λ2/3ξ)
+
+and the signs “ ” correspond to gˆ(y) > 0 and gˆ(y) < 0,
+respectively. Considering ψ(ξ) = 0 as the first-order ap-proximation, one can choose f (1)(ξ) so that the first-order
+
+≤ 2E(λ	ξ) exp
+ 2κ0V
+
+ξ,β
+(|ξ1/2|B0)
+λ
+
+approximation can be as close to the exact solution as possible with the guidelines of the error functions con-structed below, and then solve it in terms of known func-tions. Clearly, such a choice sensitively depends on the behavior of the functions gˆ(y) and q(y) near the poles and turning points.
+In this paper, we consider only the case in which gˆ(y) has only one single turning point y¯0 (for gˆ(y) having several different turning points or one multiple-turning point, see [28]), i.e., gˆ(y¯0) = 0. In this case we can choose
+f (1)(ξ)2 = ±ξ,	(A.8)
+where ξ = ξ(y) is a monotone decreasing function, and correspond to gˆ(y)	0 and gˆ(y)	0, respectively. Following Olver [45], the general solution of Eq. (A.6)
+V	( ξ1/2 B )
+×	λ2n+1	,	(A.11)
+where the definitions of M (x), N (x), κ0, and Va,b(x) can be found in [28].
+
+Power spectra and spectral indices up to the third-order
+
+With the approximate solution given in the last sec-tion, now let us begin to calculate the inflationary power spectra and spectral indices from the approximate solu-tion. We assume that the universe was initially at the adiabatic vacuum,
+
+can be written as
+"	n
+lim
+y→+∞
+µk(y) =  lim
+y→+∞
+1
+√2ω (η) e
+−i , ωk(η)dη
+. (A.12)
+
+U (ξ) = α0
+Ai(λ2/3ξ)	As(ξ)
+λ2s
+s=0
+Ai′(λ2/3ξ) nΣ−1 B (ξ)
+Then, we need to match this initial state with the approx-imate solution (A.9). However, the approximate solution (A.9) involves many high-order terms, which are compli-
+
++	λ4/3
+"	n
+
+s=0
+s
+λ2s
++ ǫ(2n+1)
+/
+
+cated and not easy to handle. In order to simplify them, we first study their behavior in the limit y → +∞. Let us
+
++β0
+Bi(λ2/3ξ) Σ As(ξ)
+start with the B0(ξ) term in Eq. (A.10), which satisfies
+
+λ
+s=0
+  1	 ∫ ξ ψ(v)	H (ξ)
+
+Bi′(λ2/3ξ) n−1 B (ξ)
++
+/	/
++ ǫ(2n+1)#,
+B0(ξ) = − 2√−ξ	√−v dv = − 2√−ξ ,	(A.13)
+
+λ4/3
+s=0
+λ2s
+4
+
+(A.9)
+H		ξ	1/2 0
+control function of the approximate solution (A.9), and
+in the above we have used A0(ξ) = 1. The error control
+
+where Ai(x) and Bi(x) represent the Airy functions,
+ǫ(2n+1) and ǫ(2n+1) are errors of the approximate solu-
+function H (ξ) is well behaved around the turning point
+y¯ and converges when y → +∞. As a result, we have
+
+3	4
+tion, and
+0
+H (−∞)
+
+A0(ξ) = 1,
+	±1	 ∫ ξ
+
+  dv	
+lim
+y→+∞
+B0(ξ) = −
+2√−ξ
+.	(A.14)
+
+2( ξ)
+∫
+
+/	/ /	/
+
+(±v)
+
+
+1	1 ∫ ξ
+
+
+
+(A.10)
+where ± correspond to ξ ≥ 0 and ξ ≤ 0, respectively.
+In the limit y → +∞, B0′ (ξ) vanishes, and we find
+1 ∫ ξ ψ(v)  1 ∫ v ψ(u)
+
+The error bounds of ǫ(2n+1) and ǫ(2n+1) can be expressed
+lim
+y
+A1(ξ) = − 2
+√−v  2
+√−udu  dv
+
+
+
+1  H (−∞) 2
+
+
+18
+
+1  H (+∞) 2
+
+
+
+Note that in the above we have used the formula
+Thus up to the third order and considering the asymp-
+
+ξ
+n!	f (ξn)
+∫ ξn
+
+f (ξn−1) · · ·
+∫ ξ2
+
+f (ξ1)dξ1dξ2 · · · dξn
+totic forms of the Airy functions in the limit ξ	+  ,
+we find
+"
+
+= "∫
+ξ	n
+f (v)dv
+
+.	(A.17)
+lim µk(y) =
+y→0
+0
+λ1/6
+
+/
+3
+gˆ1/4
+
+π1/2
+1 + H (+∞)
+2λ
++ H (+∞)
+8λ2
+
+ξ0
+
+Thus, up to the third-order, we have
+
++ O(1/λ3)
+#.	(A.25)
+
+A1(ξ)
+ 1   H (−∞) 2
+   1  
+Then, the power spectra can be calculated, and is given
+
+/
+
+B0(ξ)
+
+/
+
+1	H (−∞)
+
+/
+
+  1 
+
+/
+/
+
+
+/
+k3  µk(y) 
+
+Using the asymptotic form of Airy functions in the
+k	−kη
+
+/
+
+∫ y¯0 √
+/	/
+
+
+the initial state, we obtain
+H (+∞)	H 2(+∞)	3
+
+r π	λ1/3
+× 1 +
+λ	+	2λ2	+ O(1/λ )  .
+
+α0 =
+β0 = i
+2k (A + A /λ2) − i√−ξB /λ,
+
+π	λ1/3		
+2k (A + A /λ2) − i√−ξB /λ,	(A.19)
+(A.26)
+From the power spectra presented above, one can get the general expression of the spectral indices, which now is
+
+0	1	0
+where we have
+(A0 + A1/λ2) − i√−ξB0/λ = (1 + O(1/λ3))eiθ.  (A.20)
+given by
+
+n − 1 ≡
+
+d ln ∆2(k)
+
+/
+d ln k
+d
+
+
+
+
+∫ y¯0 √
+
+
+
+
+1 dH (+∞)
+
+/
+
+
+
+ α0 
+=
+
+π ,	β0
+
+= ir
+
+π
+.	(A.21)
+/
++O  1  ,	(A.27)
+
+λ1/3
+2k	λ1/3	2k
+where the last term in the above expression represents
+
+After determining the coefficients α0 and β0, we can calculate the power spectra of the perturbations. As y
+0, only the growing mode is relevant. Thus we have
+the second- and third-order approximations. It should be noted that the above results represent the most gen-eral expressions of the power spectra and spectral indices of perturbations for the case that has only one-turning
+
+µk(y) ≃ β0
+ξ gˆ(y)
+ 1/4 "
+Bi(λ2/3ξ)
++∞
+
+/
+λ2s
+s=0
+point.
+
+λ2/3Bi′(λ2/3ξ) Σ+∞ B (ξ)#
+
+/	/
+
+. (A.22)
+Appendix B: Integral of √g(y) and the error control
+function H (+∞) with inverse-volume corrections
+
+λ2
+s=0
+λ2s
+
+In order to calculate the power spectra to higher order, let us first consider the B0(ξ) term, which satisfies
+∫ ξ
+
+/ /	/
+In general, the integral of √g can be divided into two
+parts,
+∫ y¯0 √
+/	/
+
+
+In the above we had used the relation ξ1/2dξ = −√gˆdy.
+where after some tedious calculations we find
+
+
+/	/	/	/
+
+1 ∫ ξ ψ(v) ∫ v ψ(u)
+
+/	/
+/ / / / / /
+y→0
+2y¯0
+1
+
+2
+	π 
+
+/
+/
+y¯0
+
+/
+
+
+
++  − 2 + π  A
+
+
++  2 − 3π  A
+
+
+1
+B	= −  (e − f )ǫ
+
+
+y¯σ−2 (κ¯ m¯
+19
+
++ κ¯ m¯ ) ,
+
+ 8 	3π 
+   8 
+5π 
+1
+B	= −  fǫ
+y¯σ−2 (κ¯ m¯
++ κ¯ m¯
+) .	(B.5)
+
++  − 16 + 5π  A i,	(B.2)
+
+The error control function H (+∞) can also be ob-
+
+
+/	/
+35	32	7
+tained by employing the expansions given in Eq. (3.27), and we find
+
+
+lim I2 =
+y→0
+π2
+— 24
+ln2 2
++
+2
+1 ln2  y
+2	y¯0
+
+y¯1
+H (+∞)
+λ
+ 1 
+≃ 6y¯0 −
+(23 + 12 ln 2)y¯1 72y¯2
+
+"   π2
+
+/
+
+ln2 2
+1	2  y
+
+/
+" πa	 2
+0
+ π 
+  15π	2
+
+— / B − B ln 2 +  − / +	 B
+π	π	π ln 2
+/	/	/	/
+
+  8	15π	 175π	8 
+
+/	/	/	/
+
+
+
++(1 − ln 4)B
++  − 5π + 3π ln 2  B
+  32	175π	1 #
+
+/	/	/
+
++  14 − 8 ln 2  B +  15π ln 2 − 47π  B
+
+148	16 ln 2	#
++ 12 −
+3 + 3 −
+3 − 16 + 16
+
++	75 −	5
+B8 ,	(B.3)
+15eπ
+— 32
+15fπ
++
+32
+
+m¯ 0ǫPlκ¯0y¯σ−3
+
+where A0, · · · , A7, B0, · · · , B8, and C0 are given by
+"  23	π	ln 2	1	π
+
+A	= 1 y¯−2+σ −am¯ + χy¯2 ǫ κ¯ ,
++	+ / +
+a −	/ + /	b
+
+A	= 1 y¯−2+σ −bm¯ + χy¯2 ǫ κ¯ ,
+   1 	7π	π ln 2 
+
+A	= 1 y−2+σ −cm¯ + aχy¯2 ǫ κ¯ ,
+/	/	/
+  7π	1	2 ln 2
+
+π ln 2 
+
+1		 
+A	=	κ¯ ǫ yσ−2 bχy2 − dm¯	,
+
+
+/
+3	2 0 Pl 0	0	0
+1	 
+
+/	/	/
+1
++	6 −
+41π
++
+64
+2 ln 2
++
+3
+15π ln 2
+e
+32
+
+1	σ−2	2	 
+A	=	κ¯ ǫ y¯	dχy¯ − f m¯	,
++	/ +	−	−	f
+
+1
+A6 =  2 eκ¯0χǫ
+
+Ply¯σ,
+× (κ¯0m¯ 1 + κ¯1m¯ 0) ǫPly¯σ−3.
+(B.6)
+
+1
+A	= /f κ¯ χǫ
+y¯σ,	(B.4)
+
+7	2	0
+Pl 0
+Once we get the integral of
+√g(y) in Eq. (B.2) and the
+
+and
+B
+
+a
+= −  ǫ
+
+y¯σ−2 (κ¯ m¯
+
++ κ¯ m¯ ) ,
+error control function in Eq. (B.6), from Eq. (A.26) we can easily calculate the power spectra.
+
+/
+
+
+1
+B	=	(a − b)ǫ
+y¯σ−2 (κ¯ m¯
++ κ¯ m¯ ) ,
+indices.	In order to do this, we first specify the k-
+
+/
+
+1
+B	=	ǫ
+y¯σ−2(a + b − c) (κ¯ m¯
++ κ¯ m¯ ) ,
+η0 = η0(k). From g(y0) = 0 we find
+
+2	2 Pl
+1
+
+/
+0
+
+σ−2
+0  1	1  0
+
+y¯ ≃
+1	 m¯ ν¯σ−1 − χν¯σ+1 κ¯ ,	(B.7)
+
+1
+B	= −  ǫ
+y¯σ−2 (κ¯ m¯
++ κ¯ m¯ ) (b − c − d + e),
+and noticing −kη
+= y¯ (η ) and ǫ	∼ k−σ, we obtain
+
+1
+B	= − / ǫ
+
+y¯σ−2 (κ¯ m¯
+
++ κ¯ m¯ ) (c − d − e + f ),
+d ln(−η0)
+
+/
+y¯1 h	σ	i
+
+/	/
+
+B6 = −
+/ǫPly¯σ−2(d − e − f ) (κ¯0m¯ 1 + κ¯1m¯ 0) ,
+d ln k
+y¯0	2
+0	0
+(B.8)
+
+
+
+Then, using the above relation, the spectral indices are given by
+20
+
++12ǫ2ǫ2δH − 2ǫ2ǫ1δH − 2ǫ2ǫ3ǫ1δH + 7ǫ2ǫ2
++4ǫ ǫ ǫ2 + 11 ǫ3ǫ + 17 ǫ ǫ2ǫ + 6ǫ2ǫ ǫ
+
+  1 
+2 3 1
+
+/
+6 2 1
+
+/
+6 2 3 1
+2 3 1
+
+n − 1 ≃ 3 − 2ν¯0 +	6ν¯2 − ln 4 ν¯1
+17
++ 6 ǫ2ǫ3ǫ4ǫ1 +
+ǫ2ǫ3
+3 +
+6
+ǫ2ǫ3ǫ2
+4 +
+6
+ǫ2ǫ2ǫ4
+
+/
+2
+
++ǫPl (m¯ 1κ¯0 + m¯ 0κ¯1) Σ1ν¯σ−3 + Σ2ν¯σ−1 
+ǫ2ǫ3ǫ4ǫ5
+
++ǫPlχκ¯0 Σ3ν¯σ−1 + Σ4ν¯σ+1 
++	,	(C.3)
+6
+
++ǫPlχκ¯1 Σ5ν¯σ−1 + Σ6ν¯σ+1 
+and
+
++ǫPlm¯ 0κ¯0 Σ7ν¯σ−3 + Σ8ν¯σ−1 ,	(B.9)
+ǫ3ǫ2
+
+/	/	/
+
+ǫ3ǫ2ǫ2
+
+/	/
+
+
+where Σi, i = 1, · · · 8 depend on the value of σ and are
+3 2
+ǫ ǫ ǫ
+ǫ ǫ ǫ ǫ
+1
+ǫ ǫ ǫ ǫ .	(C.4)
+
+given in the Table I. Then the corresponding spectral
+index reads
+2 3 4 2
+1 3 4 2
+2 3 4 5 2
+
+α ≃ 2ν¯1 − σǫPlm¯ 0κ¯0 ν¯σ−3Σ7 + ν¯σ−1Σ8
+−ǫ (m κ¯ + m¯ κ¯ )[ν¯σ−3 (σΣ + Σ )
+For the tensor perturbations, using Eq. (2.12), we find
+νt(η) ≃ 3 + ǫ + ǫ2 + 4ǫ1ǫ2 − 2δ ǫ − 6δ ǫ + ǫ3
+
+
+
+−σχǫ
+
+
+κ¯  ν¯σ−1Σ
++ ν¯σ−1 (σΣ2 + Σ8) i
++ ν¯σ+1Σ  .	(B.10)
+/
+— δHǫ2 −
+/
+2
+3 δHǫ1ǫ2 +
+34
+9 ǫ ǫ2 +
+
+ǫ1ǫ2 +
+3
+4
+3 ǫ1ǫ2ǫ3,
+
+/
+
+
+
+
+Appendix C: Slow-roll expansions of ν(η), cs(η), m(η),
+ν	≃ −ǫ ǫ
+— 4δ
+ǫ2 + 2δ ǫ ǫ − 3ǫ ǫ
+4	2
+—  ǫ ǫ
+
+κ(η), and their derivatives
+1	1 2
+4
+H 1	H 1 2
+2 2	16
+1 2	3 1 2
+3	2
+
+A.	Expansions with the holonomy corrections
+− 3 ǫ1ǫ2ǫ3 + 28δHǫ1 +
+3 δHǫ1 − 6δHǫ1ǫ2
+
+2	3	2	2	89 2 2
+
+Let us first consider the scalar perturbation with the
+−2δHǫ1ǫ2 + 6ǫ1ǫ2 − 3 δHǫ1ǫ2 + 9 ǫ1ǫ2
+
+holonomy corrections. Using the expression of z′′/z in Eq. (2.11), it is easy to find that ν(η) for scalar pertur-
++ 4 ǫ ǫ3 − 2 δ ǫ ǫ ǫ +
+46 ǫ2ǫ ǫ + 4ǫ ǫ2ǫ
+9 1 2 3	1 2 3
+
+bations reads
+3	ǫ2	11ǫ2ǫ1	ǫ2ǫ3
+νs(η) ≃	+ ǫ +	+ ǫ2 +	+	− 2ǫ δ
++ 4 ǫ ǫ ǫ2 + 4 ǫ ǫ ǫ ǫ ,	(C.6)
+3 1 2 3	3 1 2 3 4
+
+2	1	2	1	6
+2ǫ2δ	2ǫ ǫ δ
+6	1 H
+77
+
+ν	≃ ǫ1ǫ + ǫ1ǫ2ǫ3 − 8δHǫ + 12δHǫ ǫ2 − 2δHǫ1ǫ
+
+—	3	− 6ǫ1δH −
+3	+ ǫ1 + 18 ǫ2ǫ1
++7ǫ2ǫ2 + /ǫ1ǫ3 − 2δHǫ1ǫ2ǫ3 + 4ǫ2ǫ2ǫ3
+
+17
++ 9 ǫ ǫ1 +
+14	ǫ 2ǫ3
+/ǫ ǫ ǫ	.	(C.1)
+9	18
+1 2	3	2	1
+2	4	2	4
+
+
+Consideration of the derivatives of νs(η) with respect to ln (−η) yields
+
+and
++4ǫ1ǫ2ǫ3 + 3 ǫ1ǫ2ǫ3 + 3 ǫ1ǫ2ǫ3ǫ4,	(C.7)
+
+s	ǫ3ǫ2	2
+2	νt
+≃ −ǫ1ǫ − 3ǫ1ǫ3ǫ − ǫ1ǫ ǫ2 − ǫ1ǫ3ǫ4ǫ2.
+
+ν1 ≃ −ǫ1ǫ2 −
+2  − 4ǫ1δH + 2ǫ2ǫ1δH − 3ǫ2ǫ1
+3	2	2	3
+(C.8)
+
+11	7ǫ2ǫ3
+ǫ2ǫ2
+ǫ2ǫ3ǫ4
+
+  2				3		
+
+— 6 ǫ2ǫ1 −	3  ǫ1 −  6  −	6
+16 3	2 2	2	2 2
+Now we turn to consider cs(η). Expanding it in terms of δH , we observe that
+
+— 3 ǫ1δH − 28ǫ1δH + 2ǫ2ǫ1δH + 3 ǫ2ǫ1δH	3	2
+
+2	205
+
+/	/	/	/
+c (η) ≡ √1 − 2δ
+≃ 1 − δ
+δH	δH
+
+−	−	. (C.9)
+
+119
+2	17 3
+31	2
+35 2
+Similar to νs(η), the derivatives of cs(η) with respect to
+
+— 18 ǫ2ǫ3ǫ1 − 9 ǫ2ǫ1 − 18 ǫ2ǫ3ǫ1 −
+6 ǫ2ǫ3ǫ1
+ln (−η) are given by
+
+31	ǫ2ǫ2	ǫ2ǫ3ǫ4
+
+— / ǫ2ǫ3ǫ4ǫ1 +  2 3 +  2	 ,	(C.2)
+c1(η) ≃ −2ǫ1δH − 2ǫ2δH − 4ǫ1δ2 − 9ǫ1δ − 4ǫ δ
+
+18	9	18
+1	H	H	1 H
+2	3
+
+
+
+ǫ2ǫ2
+
+
+ǫ3ǫ4ǫ2
+−2ǫ1ǫ2δH − 2ǫ1δH,	(C.10)
+
+ν	≃ ǫ1ǫ +	+ ǫ1ǫ3ǫ2 +	− 8ǫ δH
+2	3	2 2
+
+
+/
+2	2	2	2	1
+c2(η) ≃ −4ǫ1δH + 2ǫ2ǫ1δH − 8ǫ1δH − 20ǫ1δH
+
+21
+
+
+TABLE I: Values of Coefficients Σi(i = 1, . . . , 8) for different values of σ.
+σ	1	2	3	4	5	6
+
+—  π 
+48
+1	(8−3 ln 2)π
+6	16
+4+8 ln 2
+3
+5(47−30 ln 2)π
+64
+16 ln 2
+
+Σ2	(ln 2−1)π
+1 − 2 ln 2	(6 ln 2−5)π
+14−24 ln 2
+9
+(60 ln 2−47)π
+64
+4(37−60 ln 2)
+75
+
+—  π 
+16
+Σ4	π
+Σ5	−  π  −  23  − ln 2
+— 4
+3
+4
+3
+— 71 − ln 2
+— 45π 32
+9π 16
+— 15π − 23 − ln 2
+— 32
+3
+32
+15
+— 119 − ln 2
+— 875π 128
+25π 32
+— 175π − 115 − 5 ln 2
+— 192
+5
+96
+35
+— 883 − ln 2
+
+16	144	12
+72	6
+32	48	4
+36	3
+128
+144	12
+120	2
+
+Σ6	−  π  −  23  − ln 2
+— 71 − ln 2
+— 15π − 23 − ln 2
+— 119 − ln 2
+— 175π − 115 − 5 ln 2
+— 883 − ln 2
+
+16	144	12
+72	6
+32	48	4
+36	3
+128
+144	12
+120	2
+
+Σ7	0	0	3π	8
+75π 32
+
+Σ8	− π
+−2	− 3π	− 8
+4	3
+— 15π 16
+— 16
+5
+
++6ǫ2ǫ2δH + 4ǫ2ǫ1δ2 ,	(C.11)
++ σα0(σ − 3)ǫ2 + σα0ǫ2ǫ3 .	(C.13)
+
+1	H
+and
+4ǫ1
+4ǫ1
+
+c3(η) ≃ −8ǫ3δH + 12ǫ2ǫ2δH − 2ǫ2ǫ1δH − 2ǫ2ǫ3ǫ1δH.
+Note that at the turning point we write m(η0) = m¯ 0. Now consideration of the derivatives of m(η) with respect
+
+1	1	2
+(C.12)
+to ln(−η) yields
+
+Note that for both scalar and tensor perturbations, the effective sound speed cs(η) takes the same form. Thus in the following, we are not going to distinguish them.
+ms =
+σ2α0(3 − σ)ǫ2
+4ǫ1
+.	(C.14)
+
+Similarly, for tensor perturbations, we have
+
+B.	Expansions with inverse-volume corrections
+Now let us turn to consider the slow-roll expansions
+mt(η) ≃
+3σα0
+2	−
+
+σ2α0
+,	(C.15)
+2
+
+of ν, m(η) and κ(η). For ν(η) and its derivatives, it is worth to note that when one considers the inverse-volume corrections, ν(η) and its derivatives with respect to ln( η), i.e., ν0, ν1, ν2, and ν3 all take the same form as those given in general relativity. Thus, they can be directly obtained from Eqs. (C.1)-(C.4) for the scalar perturbations and from Eqs. (C.5)-(C.8) for the tensor perturbations by taking the holonomy parameter δH =
+0. For the scalar perturbations, on the other hand, the function m(η) reads
+σ2 (3 − σ) α
+while up to the second-order in the slow-roll parameters
+we have mt	0 and m3	0. Note that we also write
+mt(η0) as m¯ 0.
+To get the slow-roll expansions of the inflationary ob-servables, we also need the slow-roll expansions of κ(η) and its derivatives, which are given by
+
+κ(η) = Hσ 1 − σǫ1 ,	(C.16)
+
+
+κ1 = σHσǫ1.
+
+ms(η) =
+0
+/
+4ǫ1
+  3σ	σ2
+
+/
+
+
+σ3 
+
+/
+
+
+  5σ2
+
+/
+
+
+σ3 
+
+/
+/
+
+(C.17)
+
+
+/
+
+
+
+
+
+
+A. Guth, Phys. Rev. D23, 347 (1981); A.A. Starobin-sky, Phys. Lett. B 91, 99 (1980); K. Sato, Mon. Not. R. Astron. Soc. 195, 467 (1981).
+D. Baumann, arXiv:0907.5424.
+E. Komatsu et al. (WMAP Collaboration), Astrophys.
+J. Suppl. Ser. 192, 18 (2011); D. Larson et al. (WMAP
+Collaboration), ibid., 192, 16 (2011).
+P. Ade et al. (PLANCK Collaboration), arXiv:1303.5082.
+P.A.R. Ade et al. (BICEP2 Collaboration), Phys. Rev. Lett.112, 241101 (2014).
+P.A.R. Ade, et al. (BICEP2/Keck and Planck Collabo-rations), arXiv:1502.00612; R. Adam, et al. (Planck Col-
+
+22
+
+
+TABLE II: Values of Coefficients Q¯(s,t), K¯(s,t), L¯(s,t)(i = −1, 0, 1) for different values of σ.
+i	i	i
+σ	1	2	3	4	5	6
+
+Q¯(s)
+  −1	π
+α0	6
+2	− 1616
+3	1629
+475π
+2896
+10512
+905
+
+Q¯(s)
+— 2 − 45401π
+π ln 2
+8 ln 2
+14647
+513π
+82702
+3232 ln 2
+50	743995π
+1425π ln 2
+84096 ln 2
+715864
+
+ 0 	/		 +	−
+—	/ +	−	−
+
+α0	9
+52128	6
+3	3258
+11584
+8145
+543
+9	139008
+2896
+905
+31675
+
+¯(s)
+  1 
+176π − 1
+/	/
+4 ln 2 − 985	0
+/	/
+5732 − 3232 ln 2
+/	/
+25 +
+/
+17165π
+/
+58418 +
+/
+21024 ln 2
+/
+
+α0
+K¯(s)
+  −1
+α0
+1629	9
+— π
+6
+3	1629
+— 4
+3
+4887
+
+320
+/
+81
+1629
+9	34752
+— 125π 144
+4525
+
+— 352
+5
+905
+
+¯(s)
+  0 
+α0
+20π 81
+π ln 2
+/
+6
+251 −
+81
+8 ln 2
+/
+3
+— 9π 64
+1280 ln 2 −
+81
+22696
+/
+1215
+625π ln 2 −
+144
+104075π
+/
+3456
+— 26888 −
+525
+2112 ln 2
+/
+5
+
+¯(s)
+  1 
+π ln 2 − 109π
+— 32 − 4 ln 2	0
+320 +
+320 ln 2
+/
+125π ln 2 − 5225π
+— 5944 − 352 ln 2
+
+α0	6
+324
+81	3
+243	81
+144
+1728
+75	5
+
+K¯(s)
+10165π − π ln 2
+524 − 2 ln 2	27π ln 2 − 197π
+/
+58976 ln 2 − 101072
+— 13175π − 95875π ln 2
+4432 ln 2 − 913732
+
+α0
+L(s)
+15552	12
+π
+243
+8
+64	256
+1215
+
+1280
+2025
+2592
+
+625π
+3456
+35
+2112
+3675
+
+  −1
+α0	6
+3	0	− 81
+144	5
+
+(s)
+  0 
+— 13π − π ln 2
+/	/
+16 ln 2 − 286
+/	/
+27π
+/
+71584 − 5120 ln 2
+/	/
+535375π − 3125π ln 2
+/	/
+127696 +
+/
+12672 ln 2
+/
+
+α0	162	6
+3	81	64
+1215	81
+3456
+144
+175	5
+
+(s)
+  1 
+163π − π ln 2
+/	/
+172 +
+/
+8 ln 2
+/
+0	− 2240 −
+/
+1280 ln 2
+/
+27625π
+/
+— 625π ln 2
+/
+13648 +
+/
+2112 ln 2
+/
+
+α0
+¯(t)
+  0 
+α0
+324	6
+— 725π 2172
+81	3
+— 244
+543
+243
+81
+11728
+8145
+1728
+
+8165π
+/
+5792
+144
+25	5
+13920
+1267
+
+¯(t)
+ 0 	π
+/
+
+  0 
+/
+
+8	0	−
+0
+2368
+— 1025π
+— 6976
+
+
+
+
+laborations), arXiv:1502.01582.
+M.J. Mortonson and U. Seljak, J. Cosmol. Astropart. Phys.10 (2014) 035; R. Flauger, J.C. Hill and D.N. Spergel, J. Cosmol. Astropart. Phys. 1408 (2014) 039.
+C.P. Burgess, M. Cicoli, and F. Quevedo, JCAP 11 (2013) 003; R.H. Brandenberger and J. Martin, Class. Quantum. Grav. 30 (2013) 113001.
+M. Bojowald, Phys. Rev. Lett. 86, 5227 (2001).
+A. Ashtekar, T. Pawlowski, and P. Singh, Phys. Rev. Lett. 96, 141301 (2006); Phys. Rev. D73, 124038 (2006);
+Phys. Rev. D74, 084003 (2006); A. Ashtekar, A. Corichi, and P. Singh, Phys. Rev. D77, 024046 (2008).
+M. Bojowald, Rep. Prog. Phys. 78 (2015) 023901; A. Ashtekar and A. Barrau, arXiv:1504.07559.
+J. Mielczarek, J. Cosmol. Astropart. Phys. 11 (2008) 011; Phys. Rev. D79, 123520 (2009); J. Mielczarek, T. Cail-leteau, J. Grain, and A. Barrau, Phys. Rev. D81, 104049 (2010).
+J. Grain and A. Barrau, Phys. Rev. Lett. 102, 081301 (2009).
+J. Grain, A. Barrau, T. Cailleteau, and J. Mielczarek, Phys. Rev. D82, 123520 (2010).
+Y. Li and J.-Y Zhu, Class. Quantum Grav. 28, 045007 (2011); J. Mielczarek, T. Cailleteau, A. Barrau and J. Grain, Class. Quantum Grav. 29, 085009 (2012).
+T. Cailleteau, J. Mielczarek, A. Barrau and J. Grain, Class. Quantum Grav. 29, 095010 (2012).
+T. Cailleteau, A. Barrau, F. Vidotto, and J, Grain, Phys. Rev. D86, 087301 (2012).
+A. Barrau, T. Cailleteau, J. Grain, and J. Mielczarek, arXiv: 1309.6896.
+M. Bojowald and G.M. Hossain, Phys. Rev. D78, 063547 (2008).
+M. Bojowald, G.M. Hossain, M. Kagan, and S. Shankara-narayanan, Phys. Rev. D79, 043505 (2009); D82, 109903
+(E) (2010).
+M. Bojowald and G.M. Hossain, Classical Quantum Gravity 24, 4801 (2007).
+M. Bojowald and G.M. Hossain, Phys. Rev. D77, 023508 (2008).
+M. Bojowald and G. Calcagni, JCAP 03 (2011) 032.
+M. Bojowald, G. Calcagni, and S. Tsujikawa, Phys. Rev. Lett. 107, 211302 (2011); M. Bojowald, G. Calcagni, and
+S. Tsujikawa, J. Cosmol. Astropart. Phys.11 (2011) 046.
+J. Mielczarek, JCAP 03 (2014) 048.
+L.-F. Li, R.-G. Cai, Z.-K. Guo, and B. Hu, Phys. Rev. D86, 044020 (2012).
+T. Zhu, A. Wang, G. Cleaver, K. Kirsten, and Q. Sheng, Int. J. Mod. Phys. A29, 1450142 (2014).
+T. Zhu, A. Wang, G. Cleaver, K. Kirsten, and Q. Sheng, Phys. Rev. D89, 043507 (2014); T. Zhu and A. Wang, Phys. Rev. D90, 027304 (2014).
+T. Zhu, A. Wang, G. Cleaver, K. Kirsten, and Q. Sheng, Phys. Rev. D90, 063503 (2014).
+T. Zhu, A. Wang, G. Cleaver, K. Kirsten, and Q. Sheng, Phys. Rev. D90, 103517 (2014).
+S. Habib, K. Heitmann, G. Jungman, and C. Molina-Paris, Phys. Rev. Lett. 89, 281301 (2002); S. Habib, A. Heinen, K. Heitmann, G. Jungman, and C. Molina-Paris, Phys. Rev. D70, 083507 (2004); S. Habib, A.Heinen, K. Heitmann, and G. Jungman, Phys. Rev. D71, 043518 (2005).
+T. Zhu, A. Wang, G. Cleaver, K. Kirsten, and Q. Sheng, Astrophys. J. Lett. 807, L17 (2015).
+J. Mielczarek, Phys. Rev. D81, 063501 (2010).
+G. Calcagni and G.M. Hossain, Adv. Sci. Lett. 2, 184 (2009); A. Ashtekar, T. Pawlowshi, and P. Singh, Phys. Rev. D74, 084003 (2006).
+M. Bojowald, G.M. Hossain, M. Kagan, and S. Shankara-narayanan, Phys. Rev. D79, 043505 (2009).
+S.E. Joras and G. Marozzi, Phys. Rev. D79, 023514 (2009); A. Ashoorioon, D. Chialva and U. Danielsson,
+
+23
+
+
+JCAP 06, 034 (2011).
+P. Creminelli, D.L. Nacir, M. Simonovic, G. Trevisan, and M. Zaldarriaga, Phys. Rev. Lett. 112, 241303 (2014).
+E. Komatsu et al. (WMAP Collaboration), Astro-phys. J. Suppl. 192, 18 (2011); D. Larson et al. (WMAP Collaboration), ibid., 192, 16 (2011); P.A.R. Ade et al. (PLANCK Collaboration), A&A, 571, A16 (2014); P.A.R. Ade, et al. (Planck Collaborations),
+.
+K.N. Abazajian et al., Astropart. Phys. 63, 55 (2015)
+].
+P. A. R. Ade (Planck Collaboration), Astron. Astrophys.
+571 (2014) A16.
+L. Anderson et al., Mon. Not. R. Astron. Soc. 427, 3435 (2013).
+A. Conley, J. Guy, M. Sullivan, N. Regnault, P. Astier,
+C. Balland, S. Basa and R. G. Carlberg et al., Astrophys.
+J. Suppl. 192, 1 (2011).
+E. Silverstein and A. Westphal, Phys. Rev. D78, 106003 (2008); L. McAllister, E. Silverstein, and A. Westphal, Phys. Rev. D82, 046003 (2010).
+F.W.J. Olver, Asymptotics and Special functions, (AKP Classics, Wellesley, MA 1997).
+
+; Y.-G. Gong, Q. Wu,
+and A. Wang, Astrophys. J. 681, 27 (2008).
+
+Published for SISSA by	Springer
+Received: December 27, 2019
+Revised: August 3, 2020
+Accepted: August 25, 2020
+Published: September 21, 2020
+
+
+
+
+
+Shining light on the scotogenic model: interplay of colliders and cosmology
+
+
+Sven Baumholzer,a Vedran Brdar,b Pedro Schwallera and Alexander Segnera
+aPRISMA+ Cluster of Excellence and Mainz Institute for Theoretical Physics,
+Johannes Gutenberg-Universita¨t Mainz, 55099 Mainz, Germany
+bMax-Planck-Institut fu¨r Kernphysik, Saupfercheckweg 1, 69117 Heidelberg, Germany
+E-mail: baumholz@uni-mainz.de, vbrdar@mpi-hd.mpg.de, pedro.schwaller@uni-mainz.de, asegner@students.uni-mainz.de
+Abstract: In the framework of the scotogenic model, which features radiative generation of neutrino masses, we explore light dark matter scenario. Throughout the paper we chiefly focus on keV-scale dark matter which can be produced either via freeze-in through the decays of the new scalars, or from the decays of next-to-lightest fermionic particle in the spectrum, which is produced through freeze-out. The latter mechanism is required to be suppressed as it typically produces a hot dark matter component. Constraints from BBN are also considered and in combination with the former production mechanism they impose the dark matter to be light. For this scenario we consider signatures at High Luminosity LHC and proposed future hadron and lepton colliders, namely FCC-hh and CLIC, focusing on searches with two leptons and missing energy as a final state. While a potential discovery at High Luminosity LHC is in tension with limits from cosmology, the situation greatly improves for future colliders.
+
+Keywords: Beyond Standard Model, Cosmology of Theories beyond the SM, Neutrino Physics
+
+ArXiv ePrint: 1912.08215
+
+
+
+
+
+
+
+
+
+Open Access, ⃝c The Authors.
+Article funded by SCOAP3.	https://doi.org/10.1007/JHEP09(2020)136
+
+/
+Contents
+Introduction	1
+The model and neutrino masses	2
+Dark matter and cosmology	4
+Production mechanisms	5
+Constraints from structure formation	7
+Constraints from Neff	11
+BBN constraints	12
+HL-LHC projections	14
+Di-tau+✚E✚	16
+Di-lepton+✚E✚	19
+Future colliders	21
+FCC-hh	21
+CLIC	22
+Summary of collider searches	25
+Summary and conclusions	26
+
+
+
+Introduction
+While more than two decades have passed since the groundbreaking discovery of neutrino oscillations, which unambiguously established that the most elusive Standard Model (SM) particles are massive, the origin of neutrino mass still remains unknown. In spite of the viable scenario in which, by supplementing SM left-handed neutrino fields with right-handed components, neutrino masses are generated in the same way as for all the other fermions, the smallness of Yukawa couplings required for generating eV-scale masses has led to a much greater interest in Majorana mass models. The famous realization of the latter possiblity is the type-I seesaw model [1–4] in which neutrino masses are generated at tree-level in the presence of at least two generations of heavy neutral leptons. For “natural” O(1) values of Yukawa couplings, this model suggests that the mass scale of heavy leptons is around 1013 GeV, clearly unreachable at any terrestrial experiment. In contrast, radiative neutrino mass models can lower the scale of new physics by several orders of magnitude.
+Among radiative neutrino models, one of the simplest realizations is the so called “scotogenic” model [5]. Since a Z2 symmetry needs to be imposed in order to forbid the tree-level neutrino mass generation, the lightest among the newly introduced particles can
+
+be a viable dark matter (DM) candidate [6–11]. The success of thermal leptogenesis in this model has also been demonstrated [12–18] and, in addition, the authors of this work have recently shown that light DM and ARS leptogenesis [19] can be embedded simultaneously in the framework of the ννMSM model [20]. It was found that one can have the spectrum of new particles below the TeV-scale, while bounds from cosmology require the mass of the light DM to be below O(10 keV). This raises the question whether one can test this model setup at present and future colliders, where the accessible energy range exceeds the masses of all newly introduced particles. Moreover, the light DM candidate can lead to interesting consequences for the early Universe and in this paper we put a special emphasis on a synergy between collider searches and cosmological probes for testing the scotogenic model.
+The paper is organized as follows. In section 2 we introduce the particle content of the model and discuss the mechanism for the generation of neutrino masses. In section 3 we discuss the production of light fermionic DM and derive respective limits from cosmol-ogy. In section 4, for such a scenario with light DM and hierarchical spectrum in Z2-odd sector, we present the calculated projections for High Luminosity LHC (HL-LHC) search with two tau leptons or electrons/muons and missing transverse energy in the final state. Cosmological bounds put the parameter space testable at HL-LHC in tension, which mo-tivates us to go beyond and consider future colliders. In section 5 we therefore present the discovery potential at FCC-hh [21] and CLIC [22] by considering di-lepton +/ET channel. We conclude in section 6.
+
+The model and neutrino masses
+We consider the scotogenic model which, in addition to the SM field content, contains one scalar doublet Σ = (σ+, σ0)T as well as three generations of heavy neutral leptons (HNLs) Ni (i = 1, 2, 3). In addition to these novel fields, the model requires a discrete Z2 symmetry under which new degrees of freedom have an odd charge. The part of the Lagrangian containing newly introduced fields is
+
+L ⊃  i N¯
+
+∂/ N − 
+
+¯ ˜†
+1	¯	c
+
+†	µ	− V (Φ, Σ) ,	(2.1)
+
+
+where yiα is the Yukawa coupling between i-th HNL, Σ and SM lepton doublet Lα = (να, α−)T (α = e, u, τ ), mN is the mass of i-th HNL, Dµ is the covariant derivative, Φ = (φ+, φ0)T is the SM Higgs doublet, and V (Φ, Σ) represents the scalar potential
+V (Φ, Σ) = µ2 Φ†Φ + µ2 Σ†Σ + 1 λ (Φ†Φ)2 + 1 λ (Σ†Σ)2 + λ (Φ†Φ)(Σ†Σ)
+1	2	2  1	2  2	3
+
++ λ4
+(Φ†Σ)(Σ†Φ) + λ5
+2
+ (Φ†Σ)2 + h.c.  .	(2.2)
+
+The couplings in the scalar sector are constrained from the vacuum stability requirement [7, 23]
+λ3 > −√λ1λ2 ,	λ3 + λ4 − |λ5| > −√λ1λ2 ,	λ1,2 > 0 .	(2.3)
+
+From eq. (2.2), we can directly infer the masses of novel scalar degrees of freedom after electroweak symmetry breaking (EWSB)
+m2 = µ2 + λ3v2,
+m2 = µ2 + (λ3 + λ4 + λ5) v2,
+S	2
+2 = µ2 + (λ3 + λ4 − λ5) v2 ,	(2.4)
+where v = 246/√2 is the vacuum expectation value of the Higgs field. In the first line of
+eq. (2.4) the mass of charged scalars is given, whereas the latter two masses correspond to the CP-even (S) and CP-odd (A) neutral scalars, defined as σ0 = (S + iA)/√2.
+Since the exact Z2 symmetry forbids tree-level neutrino masses, they are realized ra-diatively with the following expression obtained by calculating self-energy corrections to the neutrino propagator from the exchange of neutral spin-zero S and A fields [5, 24, 25]
+
+
+(mν )αβ =
+yiαyiβmNi
+
+/
+32π2
+2
+S	ln
+m2 − m2
+2
+m2	− m2
+2	2
+A	ln
+— m2	m2
+
+≡	yiαyiβ Λi .	(2.5)
+i
+Here, the summation index runs over HNL generations and in the last equality we abbrevi-ated this formula, modulo Yukawa couplings, with Λi. In the present work, the mass of the lightest HNL is O(keV) with y1α ≃ O(10−8) and this state effectively does not participate in the neutrino mass generation (2.5). This makes the lightest active neutrino effectively massless, which is a viable scenario, consistent with the data from neutrino oscillation ex-periments that are probing only mass squared differences. In this case, N1 is decoupled from the mass generation and, hence, only the elements of 2 × 3 submatrix of y, y23, enter in eq. (2.5).
+In order to properly account for low-energy neutrino data in the analysis, we employ the Casas-Ibarra parametrization [26] which imposes the following expression for the Yukawa
+submatrix
+y	= i  √Λdiαg  −1 R qmdiαg U †	,	(2.6)
+where Λdiαg = diag(Λ2, Λ3), and R is an orthogonal matrix parametrized with a complex angle ϑ = ω − i η
+
+
+R(z) = 
+sin ϑ cos ϑ
+
+(2.7)
+
+  sin ϑ cos ϑ	0
+
+/
+
+diag 0 , qm2
+
+/
+2
+αtm
+  ,	for NO ,
+
+mdiαg =		
+(2.8)
+
+	 √ 2	q  2	2
+
+where m2
+and m2
+are solar and atmospheric mass squared differences, and the leptonic
+
+mixing matrix, UPMNS, which is parameterized as in ref. [27]. The relevant parameters for us are one Dirac (δ) and two Majorana CP phases (α1, α2). While the mixing angles are relatively precisely determined (see [28] for recent NuFIT results that we employ in this work), the value of the Dirac CP phase is practically unconstrained, and Majorana phases are not testable at neutrino oscillation facilities.
+The elements of Yukawa couplings in y23 are constrained from above due to non-observation of LFV processes such as α → α′γ and α → 3α′ where α and α′ denote different species of charged leptons. The upper bounds on the branching ratios (BR) for these types of decays are given in [27] and also compiled in table 1 in [20]. While we have implemented all available constraints from LFV decays it is worthwhile pointing out that the dominant effect arises from the lack of observation of µ → eγ process. The upper bound on the BR for this process is 4.2 × 10−13 which converts to [24]
+
+
+
+
+for mN2,3 ≃ 0.1 TeV.
+ iΣ=2,3
+yiµ yi∗e . 4.3 × 10−3
+m±
+
+/
+TeV
+2
+,	(2.9)
+
+Finally, the neutrino mass matrix in eq. (2.5) depends on λ5 which enters in the expression for mS and mA (see again eq. (2.4)). This formula actually features a linear dependence of neutrino masses on λ5 for small values of λ5 [5]. Parameters λ5 and entries of
+y23 depend on each other, and jointly set the scale for neutrino mass ∼ 0.1 eV. This means that there is a lower bound λ5 & O(10−7), calculated for m± = O(1) TeV. Constraints arising from electroweak precision data [29] are not competitive to the above discussed ones.
+
+Dark matter and cosmology
+Since the lightest of the newly introduced particles is stable, it is natural to consider whether it can account for the DM in the Universe. In the scotogenic model there are neutral particles both in the fermionic and scalar sector, making them potential candidates. Motivated by our previous work [20] we stick to fermionic DM and keep the scalars heavier than HNLs. It was shown in refs. [6, 20] that in the scotogenic setup with fermionic O(100) GeV DM, the relic abundance from freeze-out generally strongly overshoots the measured values. There are, however, options how to remedy this problem:
+If additional processes, namely coannihilations of DM with new scalars, are involved, DM can stay longer in the thermal equilibrium and freeze-out with much smaller abundance (see for instance figure 2 in [20]). The coannihilations are only effective if the splitting between the DM and scalar mass is tiny. Such a scenario would yield soft final-state leptons which are hard to reconstruct when considering di-lepton and di-tau searches (see sections 4 and 5) and hence freeze-out of O(100) GeV DM is not compatible with the signatures at hadron colliders that are studied in this paper. This conclusion changes for the case of the future lepton collider CLIC, for which we will show in section 5 that such regime can be probed as well.1
+1Let us note that the realization with a very compressed spectrum of Z2-odd particles [30–33] is also testable using astrophysical observations [34–39]. This would in particular require small splitting in Z2-odd fermion sector, scenario which will not be further explored in this work.
+
+The overproduction problem can be solved by considering light, non-thermally pro-duced DM. As we have shown in [20], such DM can be produced either via freeze-in [40, 41] from the decays of neutral and charged scalars in the Σ doublet or from the decays of frozen-out next-to-lightest HNL, i.e. N2.2 However, the latter mechanism is also constrained by requiring N2 to decay before the time of big bang nucleosyn-thesis (BBN). Namely, if N2 is too long lived, the abundances of light nuclei will be altered. This production mechanism also leads to too hot momentum distributions and therefore needs to be subdominant with respect to scalar decay contribution. We elaborate on this in the present section.
+Generally, in the freeze-in scenario there is some freedom to choose a DM mass. On the contrary, in this model there is an upper bound from demanding that the DM production has stopped before BBN takes place, as will be discussed in the last part of this section. We would like to point out, that one can live with DM masses up to few MeV and in that case limits from structure formation, discussed in the second part of this section, are weakened. However, in the following we will consider the DM mass to be O(10 keV). This particular choice is motivated by our findings in [20] where we identified an interesting open window in parameter space to successfully incorporate leptogenesis.
+Production mechanisms
+The processes through which keV-scale N1 is frozen-in are
+A, S → N1 να ,	σ± → N1 lα± .	(3.1)
+The corresponding Boltzmann equation for the DM yield, YFI, which is the ratio of DM number density and entropy density, reads [20, 40]
+ 
+dYFI	135 MPl |y1|	3	3	3
+dx = 1.66 · 64 π5g3/2m x	2 K1(x) + rA K1(rA x) + rS K1(rS x)  .	(3.2)
+Here, MPl = 1.22 × 1019 GeV is the Planck mass, and the number of relativistic degrees of freedom across relevant temperatures is fixed to g∗ = 114.25, taking new particles into account. In eq. (3.2) it is assumed for simplicity that the Yukawa couplings of N1 are flavor universal, i.e. y1α ≡ y1. Furthermore, the following abbreviations rA = mA/m± and rS = mS/m± are introduced to account for all three production channels. K1 is the modified Bessel function of the second kind and the redefined temperature x = m±/T is employed. In the computation, we adopted Maxwell-Boltzmann distributions for phase space densities of all thermalized species involving Σ. Finally, we assumed the initial DM number density to vanish and this simplifies the computation of DM abundance. Namely, instead of solving differential equation, a straightforward integration suffices.
+We can obtain the expression for YFI by simply integrating eq. (3.2) between the temperature at the end of inflation and the present one, where the former is associated to the reheating temperature which is assumed to be larger than all particle masses in the
+
+2Such a scenario was already considered in [6].
+
+model. Practically, this allows us to use x = 0 and x = ∞ as the respective integration boundaries. We obtain
+
+405MPl |y1|2
+2rArS + rS + rA
+
+YFI =
+128π4 · 1.66 · g∗ m±
+rArS
+.	(3.3)
+
+By taking λ4 = λ5 = 0 which renders rS = rA = 1 and by using the relation between yield and relic abundance, Ωh2 = 2.742 · 102 (mN1 /keV) YFI, we arrive at the analytical estimate for DM relic abundance
+Ωh2 ≈ 0.12 	|y1|	 2   mN    1 TeV  ,	(3.4)
+
+2.36 · 10−8
+1 keV	m±
+
+from which one infers that in order to have scalar decays as a dominant DM production mechanism, the required DM Yukawa couplings need to be O(10−8) for O(TeV) masses of new scalars and keV-scale N1.
+In addition to the described freeze-in mechanism, DM in this model can be produced from the decays of next-to-lightest Z2-odd particle, N2. The Yukawa couplings y2α, that are required for the successful generation of neutrino masses via mechanism described in section 2, are sufficiently strong to put this particle in thermal equilibrium with the SM
+bath. Hence, N2 will freeze-out at y = mN2 /T . 15 . Note that the Z2-odd scalars are also
+in thermal equilibrium due to gauge interactions. Still, all such particles eventually decay to N2 and hence one effectively needs to solve a single Boltzmann equation for N2
+dY = r πg∗ MPl mN2 ⟨σ v⟩ (Y 2 − Y 2) ,	(3.5)
+
+where ⟨σeffv⟩ accounts for the annihilations and coannihilations in the Z2-odd sector. The multitude of relevant processes enforces the evaluation of eq. (3.5) with numerical tools and to this end we employed micrOMEGAs 5.1 [42]. For a detailed description of our imple-mentation as well as the procedure to derive eq. (3.5) we refer the reader to our previous publication [20] where we also demonstrated the strong effect of coannihilations to the freeze-out abundance of N2.
+After freeze-out, N2 decays into N1 and a pair of charged or neutral leptons with the rate [6]
+
+
+Γ(N2 → lαlβN1) =
+5
+N2
+/
+6144 π3M 4
+
+|y1β| |y2α| + |y1α| |y2β|
+
+,	(3.6)
+
+where M stands for the mass of the scalar particle that is exchanged in the process and α
+and β denote the flavor of final state leptons.
+The decay of N2 gives a contribution to the total DM abundance of the form
+Ωh2	= mN1 Ωh2 ,	(3.7)
+N2→N1	mN2	N
+where Ωh2	is the freeze-out abundance of N2 that can be related to the corresponding
+yield, Y , calculated by solving eq. (3.5). Even though N2 decays give an extra source of DM, this production mechanism actually yields two “problems”:
+
+N2 decays occur after freeze-out, at temperatures much lower than mN1 and this leads to the production of DM particles with a hot momentum distribution [43]. This is not a generic property of the model but it does occur for the parameter choices under our consideration. This can drastically suppress the structure at small scales and may not be compatible with observations.
+The decays of N2 should be fast enough in order not to violate BBN predictions. For N2 decays to τ leptons, which dominantly decay hadronically, the decay time needs to be τN2→N1 . 1 sec, whereas decays into leptons of first and second generation do not lead to such stringent limits, yielding τN2→N1 . 100 sec [44].
+Constraints from structure formation
+In this section we consider the compatibility of structure formation with the two previ-ously described DM production mechanisms. The structure formation limits on keV-scale sterile neutrino DM are commonly derived for non-resonant production, dubbed Dodelson-Widrow [45], for which non-zero mixing between active and sterile states is required. Cur-rently, the most stringent structure formation limit on the mass of non-resonantly produced particles (mNRP) arises from Lyman-α forest data [46] and yields mNRP & 28.8 keV. This limit should be taken with a grain of salt because the Lyman-α forest absorption spectra can be dominated by the effects stemming from the gas dynamics in the Inter-Galactic Medium [47]. More robust constraints arise from Milky Way satellite counts [48] and give mNRP & 10 keV. In order to derive constraints from these observations for our model, we evaluate the DM momentum distribution function fN1 (z, r) which is calculated as a func-tion of the dimensionless variables z ≡ p/T and r ≡ mP /T . Here, mP stands for the mass of a parent particle, which are either heavy scalars in the case of freeze-in or N2 in late time next-to-lightest particle decays. For scalar decays we are following the discussion in ref. [43], whereas for the case of N2 decays we employ the procedure outlined in ref. [49].
+The total distribution function is hence given as a sum of the two contributions
+fN (z, r) = f Σ (z, r) + f N2 (z, r) ,	(3.8)
+1	N1	N1
+where with superscripts we indicated the production mechanisms of N1. In what follows we discuss the calculation of both components.
+The general expression for f Σ (z, r) assuming a Maxwell-Boltzmann distribution is
+
+given by [43, 49]:
+ e−z√π Erf h √r i
+
+
+
+
+  r2
+
+  r 	r π
+
+f Σ (z, r) = 4 CΣ 
+4z	− e−z
+/ /
+4z2 +1
+ −→ 4 CΣ
+/e−z,	(3.9)
+
+
+where CΣ = M0 ΓΣ/m2 is the effective decay width, originating from rescaled 2-body
+decays of the Σ particles
+Σ	 M0  6|y1|2m±	3|y1|2mS	3|y1|2mA 
+
+CΓ = m2
+±
+with M0 ≈ 7.35 g−1/2 × 1018 GeV.
++
+16π
++
+16π
+16π
+,	(3.10)
+
+From f Σ (z, r) we find the average DM momentum ⟨z⟩prod ≈ 2.5, in agreement with
+eq. (19) in [43]. This result, together with the information that the production dominantly occurs at temperatures T ∼ mΣ/3 (see for instance figure 1 in [20]), allows us to estimate the limit on mN1 by using [43]
+
+
+mN1 =
+⟨p/T ⟩
+3.15
+  10.75  1/3
+g∗(T prod)
+mNRP ,	(3.11)
+
+and assuming that the freeze-in DM production dominates. Here, the entropy dilution factor (10.75/g∗(T prod))1/3 takes into account that the DM production happens at early times. Taking the aforementioned limit mNRP & 10 keV we obtain mN1 > 3.7 keV. The combination of this limit and eq. (3.4) sets the upper bound on the values of y1α. If decays of Z2-odd scalars were the only source of DM production, our structure formation analysis would end here. However, decays of N2 significantly complicate the picture. To calculate the DM distribution function for the production via N2 decays, we apply the master equation3 from [49] and evaluate it numerically
+
+N	∫ r
+
+′	N2
+r′2 ∫ ∞
+	zˆ		′
+
+fN1 (z, r) =
+dr CΓ
+rFO
+
+/
+z2	|z−r′2
+
+/(4z)|
+dzˆ√zˆ2 + r′2 fN2 (zˆ, r ) .	(3.12)
+
+Here, rFO ∈ (8, 16) is evaluated at the freeze-out temperature and CN2 is the effective
+decay width given by CN2 = M0 Γ/m2 , where Γ is the decay width of N2 into N1 and a
+Γ	N2
+pair of leptons given in eq. (3.6). The expression for the distribution function of N2 after
+freeze-out is [49]
+	√	CN2 z2/2
+
+2	2   	r +
+r2 + z2
+
+
+fN2 (z, r) = Exp − z + rFO	q 2
+× Exp −CN2 /2  r√z2 + r2 − rFOqz2 + r2    ,	(3.13)
+
+where a Maxwell-Boltzmann distribution for N2 is assumed.
+In figure 1 we show fN1 (z, r) z2 as a function of z for two masses of N2, namely mN2 = 100 GeV and 400 GeV, with scalar mass set to m± = 600 GeV. The red curves represent f N2 (z, r) z2, obtained by solving eq. (3.12) and fixing r to sufficiently large values in order to capture the effect of decaying N2. For comparison, we also show the distribution function corresponding to the production via freeze-in (blue), taking r → ∞. Clearly, the peak of f N2 (z, r) z2 is shifted to very large values of z indicating that N2 decays yield a hot DM component. However, we also see from the figure that its amplitude is greatly suppressed with respect to f Σ (z, r) z2, implying that this component is subdominant for the selected benchmark point. Quantitatively, the distribution shown in the left panel
+yields Ωh2 →N1 = 0.03 × 0.12, whereas for mN2 = 400 GeV it follows that less than 1 per
+mille of the observed DM abundance is produced in N2 decays.
+
+3This equation was derived for 2-body decays, while N2 decays into three particles, including N1. The derivation of such a general expression for 3-body decays is beyond the scope of the present work. However, note that by considering formula for 2-body decays we are actually being conservative because in such case DM is typically emitted with larger momentum with respect to the realistic 3-body case.
+
+0.100	0.100
+
+0.001	0.001
+
+10-5	10-5
+
+10-7	10-7
+
+10-9	10-9
+
+
+10-11	10-11
+
+
+0.1	1	10	100	1000	104	105
+z=  p T
+0.1	1	10	100	1000	104	105
+z=  p T
+
+Figure 1. In the left (right) panel we show the momentum distribution function fN1 (z, r) z2 for both DM production mechanisms, taking m± = 600 GeV and mN2 = 100 GeV (mN2 = 400 GeV). Blue and red curves correspond to freeze-in and N2 late-time decays, respectively.
+
+The simplest method for inferring the structure formation limit is to calculate free-streaming length by employing ⟨z⟩. However, this method is not applicable for our scenario since the spectrum consists of two components with two distinct peaks. Therefore we apply a more robust analysis and evaluate the transfer function T (k), given by the power spectrum ratio
+
+T 2(k) =	P (k)
+P (k)ΛCDM
+
+,	(3.14)
+
+where P (k) is the power spectrum calculated from fN1 (z, r) using CLASS [50, 51] and P (k)ΛCDM is the spectrum for cold DM only. The transfer function indicates at which scales non-cold DM will lead to deviations in comparison to cosmological observations.
+The temperature of the DM species, TN1 , relative to the photon temperature, Tγ , is relevant for the analysis and an input for CLASS: since we have two different mechanisms for DM production in the model, we are left with two independent dark sector temperatures:
+
+One of these temperatures is set by the time when N1 is produced via freeze-in mechanism from the decays of heavy scalars. These processes occur when the heavy scalars are still in thermal equilibrium implying that DM particles are produced with temperatures identical to those of SM sector. After production, N1 is decoupled and does not experience reheating when SM degrees of freedom drop out of equilibrium. The temperature ratio, governed by the entropy dilution factor, yields
+
+
+freeze-in
+N1
+ g∗(Tν )   1/3
+g∗(T prod)
+
+Tγ ≈
+ 10.75  1/3
+114.25
+
+Tγ = 0.45 Tγ ,	(3.15)
+
+where T prod roughly corresponds to Z2-odd scalar masses.
+To evaluate the temperature of DM produced from out-of-equilibrium N2 decays we estimate the temperature when these decays are taking place. We assume an
+
+instantaneous decay at τ = 1/Γ and make use of the time-temperature relation for a radiation-dominated Universe
+
+t = 2.42 √g (T )	T	s ,	(3.16)
+which allows us to obtain the expression for the temperature at which N2 particles decay
+
+
+
+TΓ = (g∗)−1/4
+	Γ	 1/2
+2.72 × 10−25 GeV
+
+MeV .	(3.17)
+
+
+For the benchmark point, employed already for presenting momentum distributions in the right panel of figure 1, we obtain
+Γ = 1.52 × 10−22 GeV,	Ωh2	= 5.61 × 103,	TΓ = 13 MeV.	(3.18)
+
+At T ∼ TΓ, HNLs are at rest and each decay product has an energy E ≈ mN2 /3 ≈ O(100) GeV. Note that by dividing this energy with TΓ in eq. (3.18) one obtains z ≃ 104 and this explains the position of the N2 decay peak in the momentum distribution (see figure 1). In principle, the DM temperature is incorporated in the momentum distribution. However, we still have to take into account that, unlike DM, SM bath is reheated when electron-positron annihilation occurs. In summary, the temperature of this DM contribution is given by
+
+T decαy ≃	N 		≈ 7300 T ,	(3.19)
+m	 4   1/3
+/
+N1	3TΓ	11	γ	γ
+where the expression is evaluated for the aforementioned benchmark point.
+
+In order to assess the cosmological viability of particular benchmark points, we compare the calculated T 2(k) against the function corresponding to the constraint stemming from Lyman-α forests. For the latter, we adopt an analytical fit for the transfer function [52], taking mNRP ≃ 10 keV.4 In figure 2 we show in red (green) the calculated transfer function for fN1 (z, r) with m± = 600 GeV and mN2 = 100 GeV (mN2 = 400 GeV); these are identical benchmark points as those from figure 1. If a given curve lies below the Lyman-α limit (blue curve) the corresponding parameter point is disfavored. We observe that the scenario with lighter mass of N2 is excluded since the abundance of hot DM is too large in this case and hence larger cosmological scales than observed are affected. On the other hand, the green curve is in agreement with observational data. One should note that curves drop to zero at roughly the same point; this scale is set by the temperature of the dominant, frozen-in, DM component. If N1 would freeze-in at later times the curves would shift to the left.
+
+4We fixed the mass of thermal relic mTR = 2 keV, and the relation with the mass of non-resonantly produced particle is given by mNRP = 4.35 (mTR/ keV)4/3 [43].
+
+1.0
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+
+0.0
+0.1	1	10	100
+k [h/Mpc]
+
+Figure 2. Transfer function for the same benchmark points as in figure 1. The constraint from structure formation, using mTR = 2 keV is shown in blue. HNL masses of around 100 GeV clearly violate this constraint while the green line (corresponding to mN2 = 400 GeV) is consistent with the data. The black dashed line represents ΛCDM.
+
+Constraints from Neff
+When discussing possible implications on the formation of structures in the early Universe, one should also take into account that keV-scale DM could change the number of relativistic species Neff. The effective number of relativistic non-photonic species, Neff, after electron-positron annihilation, enters in the expression for the radiation density
+"	7  4  4/3	#
+/	/
+/
+where ργ represents the energy density of photons. In the SM, Neff = 3.046 and thus we denote contributions from additional relativistic species as ∆Neff = Neff − 3.046. The contribution to ∆Neff from N1 can be estimated by comparing its energy density against the one corresponding to a fully relativistic neutrino with temperature Tν [49]:
+
+
+∆N  (T
+) =  60 mN1
+/
+
+∫ ∞ s1 +
+
+/
+
+2
+— 1 z2f
+
+(z, T
+
+) dz
+
+×   
+ 11 4/3 ,	if Tν < 1 MeV
+
+.	(3.21)
+
+Using as an example the benchmark points employed in figure 1, we can derive the following values:
+mN2 = 100 GeV → ∆Neff ∼ 220 ,	mN2 = 400 GeV → ∆Neff ∼ 0.02 .	(3.22)
+Clearly, large mass gaps between N2 and σ± are disfavored; the reason is that such cases would lead to larger abundances of N2 and therefore the hot DM component becomes more prominent in the spectrum.
+
+500
+
+
+400
+
+
+300
+
+
+200
+
+
+100
+200	400	600	800	1000	1200
+Mass of σ± [GeV]
+
+Figure 3. Constraints from structure formation (red

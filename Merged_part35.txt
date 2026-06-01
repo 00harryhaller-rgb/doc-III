@@ -1,0 +1,1107 @@
+where the Yukawa coupling yf is related to the topological complexity of the fermion knot:
+yf ∝ exp(−α · C(Kf ))	(420)
+with α determined by the resonance coupling γ.
+CKM Matrix: The CKM matrix elements are determined by the overlaps between different quark knot configurations:
+Vij = ⟨Ki|Kj⟩	(421)
+These overlaps are determined by the topological properties of the knots, which depend on the resonance coupling γ.
+Higgs Potential: From Theorem 11.13, the Higgs potential parameters are:
+µ2 = κ − ηk2	(422)
+λ = λw	(423)
+where κ is related to the resonance coupling γ and k is a characteristic wave number.
+QCD Vacuum Angle: The QCD vacuum angle θQCD is related to the topological properties of the LQT substrate:
+θQCD = 2π · Lk(KQCD)	(424)
+where Lk(KQCD) is the linking number of the QCD vacuum configuration, determined by the resonance coupling γ.
+Cosmological Parameters: Cosmology has approximately 11 free parameters: - Hubble constant H0 - Matter density Ωm - Dark energy density ΩΛ - Baryon density Ωb - Radiation density Ωr - Spectral index ns - Amplitude of fluctuations As - Tensor-to-scalar ratio r - Neutrino masses  mν - Dark matter cross-section σDM - Cosmological constant Λ
+In GUHCT, these parameters emerge as follows:
+Hubble Constant: The Hubble constant is determined by the current expansion rate of the universe, which depends on the cosmological constant:
+
+
+H2 =
+Λc2
+(425)
+3
+
+where Λ is related to the vacuum energy of the LQT substrate (Theorem 12.13).
+Density Parameters: The density parameters Ωm, ΩΛ, Ωb, and Ωr are determined by the relative abundances of different LQT configurations in the universe. These abundances are determined by the stability of different configurations, which depends on the collapse parameter η and the self-interaction coupling λw.
+Inflation Parameters: From Theorem 12.11, the inflation parameters are:
+8
+ns = 1 − w	(426)
+16
+r =	(427)
+w
+where w is the weight parameter during inflation, determined by the collapse parameter η.
+The amplitude of fluctuations As is determined by the energy scale of inflation, which depends on the self-interaction coupling λw.
+Neutrino Masses: From Theorem 11.15, neutrino masses emerge from the seesaw mech-
+anism:
+
+ m2
+MR
+(428)
+
+where mD is the Dirac mass (determined as for other fermions) and MR is the Majorana mass, related to the scale at which SU(2w) symmetry is restored.
+
+Dark Matter Properties: From Theorem 12.12, the dark matter cross-section is:
+
+
+ G2 m2
+4π
+
+−αd(KDM
+
+,KSM)
+(429)
+
+where d(KDM, KSM) is the topological distance between dark matter and SM knots, determined by the resonance coupling γ.
+Cosmological Constant: From Theorem 12.13, the cosmological constant is:
+Λ = 8πGρvac = 8πGρPlanck · 10−wvac	(430) where wvac ≈ 120 is determined by the collapse parameter η.
+Summary of Parameter Reduction: All approximately 30 free parameters of the Stan-dard Model plus cosmology emerge from just 4 fundamental parameters of GUHCT: - The collapse parameter η determines the scale of quantum effects and the cosmological constant - The self-interaction coupling λw determines the strength of interactions and the energy scale of symmetry breaking - The resonance coupling γ determines the topological properties of stable LQT configurations, including particle masses and mixing angles - The geometric coupling β determines the strength of gravity and its coupling to matter
+This represents a dramatic reduction in the number of free parameters, making GUHCT a more economical and predictive theory than the Standard Model plus cosmology.
+Theorem 14.4 (Prediction of Standard Model Parameters). GUHCT predicts specific relation-ships between Standard Model parameters that can be tested experimentally.
+Proof. We derive specific relationships between Standard Model parameters that follow from the GUHCT framework.
+Gauge Coupling Unification: From Theorem 11.9, the gauge coupling constants are related to the fundamental coupling constant g of SU(2w):
+gs = g	(431)
+gw = g	(432)
+
+g	=	3 g	(433)
+Y	5
+This leads to the prediction that at the unification scale ΛGUT ≈ 1016 GeV, the running coupling constants satisfy:
+5
+αs(ΛGUT) = αw(ΛGUT) = 3 αY (ΛGUT)	(434)
+This relationship can be tested by extrapolating the measured coupling constants to high energies.
+Fermion Mass Ratios: From Theorem 11.15, the fermion mass ratios are related to the topological complexity of the corresponding knots:
+mf  ≈ exp −α · (C(K ) − C(Kf′ ))	(435)
+
+For fermions within the same generation, the crossing number differences are small, leading to mass ratios of order 1. For fermions in different generations, the crossing number differences are larger, leading to mass hierarchies.
+This predicts specific relationships between fermion masses, such as:
+
+
+mµ	mτ me · mµ ≈
+ms	m	1/3
+md · ms
+
+(436)
+
+This relationship can be tested with precise measurements of fermion masses.
+CKM Matrix Structure: The CKM matrix elements are determined by the overlaps between different quark knot configurations. The topological properties of knots predict a specific structure for the CKM matrix:
+|Vij| ≈ exp(−β · d(Ki, Kj))	(437) where d(Ki, Kj) is the topological distance between quark knots.
+This predicts that the CKM matrix elements should follow a pattern where:
+|Vus| · |Vcb| ≈ |Vub|	(438)
+This relationship can be tested with precise measurements of CKM matrix elements.
+Neutrino Mixing Angles: Similar to the CKM matrix, the PMNS matrix for neutrino mixing is determined by the overlaps between different neutrino knot configurations. The topological properties of knots predict specific relationships between mixing angles:
+sin2 θ12 · sin2 θ23 ≈ sin2 θ13	(439) This relationship can be tested with precise measurements of neutrino mixing angles.
+Higgs Boson Couplings: The couplings of the Higgs boson to fermions and gauge bosons
+are determined by the topological properties of the corresponding LQT configurations. This predicts specific relationships between Higgs couplings:
+
+ghW W
+ghZZ
+
+	g2
+=
+g2 + g2
+
+(440)
+
+w	Y
+This relationship can be tested with precise measurements of Higgs boson couplings. These predictions provide specific tests of the GUHCT framework that go beyond the Stan-
+dard Model. If confirmed by experiments, they would provide strong evidence for the validity of GUHCT as a Theory of Everything.
+
+Unique Testable Predictions
+We now identify specific predictions where GUHCT differs from SM+GR in a testable way.
+Theorem 14.5 (Unique Testable Predictions of GUHCT). GUHCT makes the following unique testable predictions that differ from the Standard Model plus General Relativity:
+Lorentz invariance violations at high energies
+Modifications to black hole thermodynamics
+Quantum gravitational effects in the CMB
+Novel topological phases of matter
+Computational capabilities beyond quantum computing
+Proof. We derive specific testable predictions of GUHCT and explain how they differ from the predictions of the Standard Model plus General Relativity.
+Lorentz Invariance Violations: From Theorem 11.6, GUHCT predicts specific violations of Lorentz invariance at high energies. The dispersion relation for particles is modified to:
+ω2 = k2c2 + m2c4 + ηk4c2 + O(k6)	(441)
+where η ∼ ℓ2 is related to the collapse parameter.
+
+This leads to an energy-dependent speed of light:
+v(E) = ∂ω = c 1 + ηk2 +	(k4)	(442)
+∂k
+For photons with energy E = ℏω = ℏkc, this gives:
+
+
+v(E) = c
+′ E2
+/
+P
+  E4 
+
+/
+/
+
+(443)
+
+
+/
+where EP =  ℏc5/G is the Planck energy and η′ is a dimensionless coefficient of order 1.
+This prediction can be tested by observing the arrival times of photons with different energies from distant astrophysical sources like gamma-ray bursts. Current constraints from the Fermi Gamma-ray Space Telescope give |η′| < 0.1.
+Modifications to Black Hole Thermodynamics: From the GUHCT corrections to General Relativity (Theorem 12.6), black hole thermodynamics is modified. The Bekenstein-Hawking entropy receives corrections:
+S	=  A  + α ln  A   + O(1)	(444)
+
+where A is the black hole horizon area and α is a coefficient determined by the GUHCT pa-rameters.
+This leads to modifications in the black hole evaporation rate and the final stages of evap-oration. Instead of evaporating completely, black holes reach a stable remnant state with a minimum mass of order the Planck mass.
+This prediction could be tested by observing the gamma-ray background from evaporating primordial black holes or by creating micro black holes in future high-energy colliders.
+Quantum Gravitational Effects in the CMB: From Theorem 12.11, GUHCT predicts specific signatures of quantum gravity in the cosmic microwave background (CMB). The power spectrum of tensor perturbations is modified:
+
+
+Ph(k) = P (0)(k)
+
+k2
+1 + β 2
+P
+  k4 
+
+/
+/
+
+(445)
+
+where P (0)(k) is the standard prediction, kP = 1/ℓP is the Planck wave number, and β is a coefficient determined by the GUHCT parameters.
+This leads to a slight blue tilt in the tensor power spectrum at small scales, which could be detected by future CMB experiments like CMB-S4 or space-based gravitational wave detectors like LISA.
+Novel Topological Phases of Matter: From the topological nature of LQTs (Theorem 8.3), GUHCT predicts the existence of novel topological phases of matter that are not described by the Standard Model.
+These phases are characterized by non-trivial topological invariants and exhibit exotic prop-erties like: - Anyonic excitations with fractional statistics - Protected edge states that are robust against perturbations - Topological degeneracy that depends on the genus of the manifold
+Specific examples include: - Three-dimensional topological insulators with surface states protected by time-reversal symmetry - Topological superconductors with Majorana zero modes
+- Fractional quantum Hall states with anyonic excitations
+These predictions can be tested in condensed matter experiments using materials like topo-logical insulators, Weyl semimetals, and quantum spin liquids.
+Computational Capabilities Beyond Quantum Computing: From Theorem 13.13, GUHCT predicts that physical systems implementing MCL could solve NP-complete problems efficiently, exceeding the capabilities of both classical and quantum computers.
+
+This prediction can be tested by: - Designing and building physical systems that imple-ment MCL - Testing their performance on NP-complete problems like Boolean satisfiability - Comparing their scaling behavior with classical and quantum algorithms
+If successful, such systems would demonstrate computational capabilities beyond what is be-lieved possible with quantum computing, providing strong evidence for the validity of GUHCT. These unique testable predictions distinguish GUHCT from the Standard Model plus Gen-eral Relativity and provide specific ways to experimentally validate or falsify the theory.	/
+
+Falsifiability
+Finally, we establish clear conditions under which GUHCT would be considered falsified.
+Theorem 14.6 (Falsifiability of GUHCT). GUHCT is a falsifiable theory that would be con-sidered invalidated under the following conditions:
+Observation of Lorentz invariance at energies where GUHCT predicts violations
+Detection of fundamental point-like particles inconsistent with the string-like nature of LQTs
+Experimental confirmation of continuous symmetries that cannot be embedded in SU(2w)
+Observation of processes that violate topological charge conservation
+Demonstration that NP-complete problems cannot be solved efficiently by any physical system
+Proof. We establish clear falsifiability criteria for GUHCT and explain why each would invali-date the theory.
+Lorentz Invariance at High Energies: GUHCT predicts specific violations of Lorentz invariance at high energies (Theorem 11.6). If experiments at energies approaching the Planck scale show exact Lorentz invariance with precision exceeding the predicted violations, GUHCT would be falsified.
+Specifically, if observations of high-energy cosmic rays or gamma-ray bursts constrain the Lorentz-violating parameter to |η′| < 10−5, this would be inconsistent with the natural value predicted by GUHCT.
+Fundamental Point-Like Particles: GUHCT predicts that all particles are ultimately string-like entities (LQTs) with non-zero spatial extent (Theorem 8.3). If experiments defini-tively establish that certain particles are truly point-like down to scales much smaller than the predicted LQT size, GUHCT would be falsified.
+Specifically, if electron scattering experiments at energies of 1015 GeV show no evidence of internal structure down to distances of 10−30 m, this would contradict the string-like nature of LQTs.
+Incompatible Continuous Symmetries: GUHCT predicts that all continuous symmetries of nature must be embeddable in SU(2w) for some value of w (Theorem 11.7). If experiments discover a new force with a gauge group that cannot be embedded in SU(2w) for any w, GUHCT would be falsified.
+For example, if a new force with gauge group E8 were discovered, it would be difficult to accommodate within the GUHCT framework, as E8 has dimension 248 and would require w ¿ 11, which is problematically large for the theory.
+Violation of Topological Charge Conservation: GUHCT predicts that topological charge is conserved in all physical processes (Theorem 8.10). If experiments observe processes that violate topological charge conservation, GUHCT would be falsified.
+Specifically, if baryon number violation were observed at rates inconsistent with the topo-logical constraints of GUHCT, or if processes that change the topology of field configurations
+
+without corresponding energy costs were detected, this would contradict the fundamental prin-ciples of the theory.
+Computational Complexity Barriers: GUHCT predicts that physical systems implement-ing MCL could solve NP-complete problems efficiently (Theorem 13.13). If it were mathe-matically proven that no physical system can solve NP-complete problems in polynomial time, regardless of its physical implementation, GUHCT would be falsified.
+This could occur through advances in computational complexity theory that establish abso-lute lower bounds on the physical resources required to solve NP-complete problems, showing that they necessarily scale exponentially with problem size for any conceivable physical system.
+Inconsistent Cosmological Observations: GUHCT makes specific predictions about cos-mological phenomena (Section 12). If observations of the early universe, dark matter, or dark energy are fundamentally inconsistent with these predictions, GUHCT would be falsified.
+For example, if the CMB power spectrum showed features that cannot be accommodated within the GUHCT framework, or if dark matter were observed to have properties incompatible with the topological nature of LQTs, this would provide evidence against the theory.
+Failure of Parameter Reduction: GUHCT predicts specific relationships between Stan-dard Model parameters (Theorem 14.4). If precision measurements of these parameters show values that are inconsistent with the predicted relationships, GUHCT would be falsified.
+For example, if the pattern of fermion masses or mixing angles were found to deviate sig-nificantly from the predictions based on topological complexity, this would undermine the ex-planatory power of the theory.
+These falsifiability criteria establish GUHCT as a scientific theory in the Popperian sense, capable of being tested and potentially refuted by empirical observations. The specificity of these criteria allows for clear experimental tests that could definitively rule out the theory.  /
+
+Intuitive Summary
+This section addressed the internal consistency, parameter reduction capabilities, unique testable predictions, and falsifiability criteria of GUHCT, establishing it as a scientifically rigorous Theory of Everything. Key results include:
+GUHCT forms a consistent theoretical framework, with all components (LQTs, HCL, MCL, emergence mechanisms) working together without contradictions.
+The mathematical formulation of GUHCT is internally consistent, free from para-doxes, and well-defined at all energy scales, resolving issues like renormalizability, anomalies, and singularities.
+GUHCT reduces the approximately 30 free parameters of the Standard Model plus cosmology to just 4 fundamental parameters: the collapse parameter η, the self-interaction coupling λw, the resonance coupling γ, and the geometric coupling β.
+GUHCT predicts specific relationships between Standard Model parameters, such as gauge coupling unification, fermion mass ratios, and patterns in mixing matrices, that can be tested experimentally.
+GUHCT makes unique testable predictions that differ from the Standard Model plus General Relativity, including Lorentz invariance violations at high energies, modifications to black hole thermodynamics, quantum gravitational effects in the CMB, novel topological phases of matter, and computational capabilities beyond quantum computing.
+GUHCT is a falsifiable theory that would be invalidated by observations of exact Lorentz invariance at high energies, detection of truly point-like particles, discovery of incompatible symmetries, violation of topological charge conservation, or proof of computational complexity barriers.
+These results establish GUHCT as a comprehensive, predictive, and falsifiable Theory of Everything that unifies all known physical phenomena within a single mathematical framework.
+
+Conclusion
+In this paper, we have presented a complete mathematical formulation of Grand Unified Har-monic Collapse Theory (GUHCT), a comprehensive framework that unifies quantum mechan-ics, quantum field theory, the Standard Model, and General Relativity within a single coherent mathematical structure.
+We began by establishing the formal mathematical foundations of GUHCT, including pre-cise definitions of Light-Quanta-Tokens (LQTs), the symbolic Lagrangian formulation, collapse dynamics for arbitrary weight w, and field quantization. We then developed the gauge-theoretic aspects of the theory, demonstrating the emergence of SU(2w) as the fundamental symmetry group and providing a formal proof of the weight-complexity correspondence.
+Building on these foundations, we showed how GUHCT gives rise to quantum mechan-ics, quantum field theory, and the Standard Model as emergent phenomena. We derived the Schr¨odinger equation, Dirac equation, and quantum field operators from the more fundamental GUHCT framework. We demonstrated how the gauge groups of the Standard Model (SU(3) × SU(2) × U(1)) emerge from the fundamental SU(2w) symmetry through symmetry breaking, and how the Higgs mechanism naturally arises within this context.
+
+We then extended the theory to show how General Relativity and cosmological phenomena emerge from the collective behavior of the LQT substrate. We derived the Einstein Field Equa-tions, explained the emergence of gravity as a geometric effect, and developed a comprehensive cosmological model that accounts for the Big Bang, inflation, dark matter, and dark energy.
+Beyond fundamental physics, we explored the broader implications of GUHCT for ther-modynamics, chemistry, materials science, computation, and complexity theory. We showed how the laws of thermodynamics and the arrow of time emerge from MCL collapse dynam-ics, how atomic and molecular structures emerge as stable LQT resonance patterns, and how MCL provides a computational model capable of efficiently solving problems in the polynomial hierarchy.
+Finally, we addressed the internal consistency of GUHCT, its parameter reduction capa-bilities, unique testable predictions, and falsifiability criteria. We demonstrated that GUHCT reduces the approximately 30 free parameters of the Standard Model plus cosmology to just 4 fundamental parameters, makes specific predictions that differ from the Standard Model plus General Relativity, and establishes clear conditions under which it would be considered falsified. The comprehensive nature of GUHCT, its mathematical rigor, and its explanatory power across multiple domains of physics make it a promising candidate for a Theory of Everything. By providing a unified framework that naturally accommodates all known physical phenomena while making new testable predictions, GUHCT represents a significant step forward in our
+understanding of the fundamental nature of reality.
+Future work will focus on refining the mathematical formalism, developing computational tools for numerical simulations of GUHCT dynamics, and designing experiments to test its unique predictions. The rich mathematical structure of GUHCT also suggests potential appli-cations in fields beyond physics, including computer science, materials engineering, and infor-mation theory.
+
+Manus AI was used in the production of this article, while human creativity drove the original theoretical ideas and dynamics.
+Acknowledgments
+We would like to thank All of the science community
+
+References
+Jordon,  Anthony. Everything, Everywhere, All at Once – The Funda-mental Computational Structure of The Universe. Figshare, 2025. Thesis. https://doi.org/10.6084/m9.figshare.28881194.v1
+Jordon, Anthony. Resonant Collapse Simulation Systems: Unifying Mo¨bius Col-lapse Logic, Photon Dynamics, and Computational Optics. Figshare, 2025. Preprint. https://doi.org/10.6084/m9.figshare.28908494.v1
+Jordon,  Anthony.  Unified  Mo¨bius  Collapse  Logic  (MCL)  and  Light-based  Operator  Quanta  Harmonic  Computational  Language  (LOQ-HCL): A Topological Photonic Computing Framework. Figshare, 2025. Preprint. https://doi.org/10.6084/m9.figshare.28926740.v2
+Jordon, Anthony. Grand Unified Harmonic Collapse Theory: Re-deriving the Theoretical Harmonic Resonance Field Model through M¨obius Collapse Logic and LOQ-HCL. Figshare, 2025.  Preprint.  https://doi.org/10.6084/m9.figshare.28926755.v2
+
+Jordon, Anthony. The General Emergence of Physics: A Theory of Everything Encapsulated Within Standard Models of Physics and M¨obius Collapse Logic. Figshare, 2025. Preprint. https://doi.org/10.6084/m9.figshare.28937552.v4
+Kauffman, L. (1991). Knots and Physics. World Scientific.
+Nakahara, M. (2003). Geometry, Topology and Physics. Institute of Physics Publishing.
+Peskin, M. & Schroeder, D. (1995). An Introduction to Quantum Field Theory. Westview Press.
+Wald, R. (1984). General Relativity. University of Chicago Press.
+Cottingham, W. & Greenwood, D. (2007). An Introduction to the Standard Model of Par-ticle Physics. Cambridge University Press.
+Arora, S. & Barak, B. (2009). Computational Complexity: A Modern Approach. Cambridge University Press.
+Callen, H. (1985). Thermodynamics and an Introduction to Thermostatistics. Wiley.
+Nielsen, M. & Chuang, I. (2010). Quantum Computation and Quantum Information. Cam-bridge University Press.
+Weinberg, S. (2008). Cosmology. Oxford University Press.
+Polchinski, J. (1998). String Theory. Cambridge University Press.
+Rovelli, C. (2004). Quantum Gravity. Cambridge University Press.
+Sorkin, R. (2005). ”Causal Sets: Discrete Gravity.” In Lectures on Quantum Gravity, Springer.
+Connes, A. (1994). Noncommutative Geometry. Academic Press.
+Penrose, R. & MacCallum, M. (1972). ”Twistor Theory: An Approach to the Quantization of Fields and Space-Time.” Physics Reports, 6(4), 241-316.
+Preskill, J. (2018). ”Quantum Computing in the NISQ Era and Beyond.” Quantum, 2, 79.
+Hardy, L. (2001). ”Quantum Theory From Five Reasonable Axioms.” arXiv:quant-ph/0101012.
+Sakurai, J. J. and Napolitano, Jim. Modern Quantum Mechanics. Addison–Wesley, 1994. 2nd ed.
+Shankar, Ramamurti. Principles of Quantum Mechanics. Plenum Press, 1994. 2nd ed.
+Cohen-Tannoudji, Claude; Diu, Bernard; Lalo¨e, Franck. Quantum Mechanics, Vol. 1 & 2. Wiley-VCH, 1977.
+Ryder, Lewis H. Quantum Field Theory. Cambridge University Press, 1996. 2nd ed.
+Srednicki, Mark. Quantum Field Theory. Cambridge University Press, 2007.
+Zee, A. Quantum Field Theory in a Nutshell. Princeton University Press, 2010. 2nd ed.
+Griffiths, David J. Introduction to Elementary Particles. Wiley-VCH, 2008. 2nd ed.
+
+Halzen, Francis; Martin, Alan D. Quarks and Leptons: An Introductory Course in Modern Particle Physics. Wiley, 1984.
+Misner, Charles W.; Thorne, Kip S.; Wheeler, John Archibald. Gravitation. W. H. Freeman, 1973.
+Carroll, Sean M. Spacetime and Geometry: An Introduction to General Relativity. Addison Wesley, 2004.
+Kauffman, Louis H. Knots and Physics. World Scientific, 1991. 1st ed.
+Adams, Colin C. The Knot Book: An Elementary Introduction to the Mathematical Theory of Knots. American Mathematical Society, 2004.
+Dodelson, Scott. Modern Cosmology. Academic Press, 2003.
+Liddle, Andrew. An Introduction to Modern Cosmology. Wiley, 2015. 3rd ed.
+Green, Michael B.; Schwarz, John H.; Witten, Edward. Superstring Theory, Vol. 1 & 2. Cambridge University Press, 1987.
+Rovelli, Carlo. Quantum Gravity. Cambridge University Press, 2004.
+Thiemann, Thomas. Modern Canonical Quantum General Relativity. Cambridge University Press, 2007.
+Shannon, C. E. “A Mathematical Theory of Communication.” Bell System Technical Jour-nal 27(3): 379–423, 1948.
+Cover, Thomas M.; Thomas, Joy A. Elements of Information Theory. Wiley-Interscience, 2006. 2nd ed.
+Einstein, A.; Podolsky, B.; Rosen, N. “Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?” Physical Review 47(10): 777–780, 1935. doi:10.1103/PhysRev.47.777
+Bell, J. S. “On the Einstein Podolsky Rosen Paradox.” Physics Physique Fizika 1(3): 195–200, 1964.
+Guth, Alan H. “Inflationary universe: A possible solution to the horizon and flatness problems.” Physical Review D 23(2): 347–356, 1981. doi:10.1103/PhysRevD.23.347
+
+License & Attribution Statement
+Grand Unified Harmonic Collapse Theory: Formal Mathematical Foundations and the Emer-gence of Physical Laws (hereafter “the Paper”) is released under the Creative Commons At-tribution 4.0 International License (CC BY 4.0). This license grants anyone the freedom to share, adapt, and build upon the material—even for commercial purposes—provided that proper credit is given and any modifications are clearly identified.
+
+Credit & Attribution
+Cite the work as: A. Jordon or A.A. Jordon, “Grand Unified Harmonic Collapse Theory: Formal Mathematical Foundations and the Emergence of Physical Laws,” 2025. Include the DOI or permanent repository link.
+Derivative works must state “Adapted from A. Jordon (2025)” and list all substantive changes.
+
+Open Access Intent
+CC BY 4.0 guarantees perpetual, barrier-free access. By keeping the full text, figures, sim-ulations, and code snippets openly available, the author encourages independent verification, replication, and extension of GUHCT across physics, mathematics, computer science, and en-gineering.
+
+Conditions of Use
+Attribution — Credit the author, provide the CC BY 4.0 link, and indicate changes.
+No Additional Restrictions — Do not impose DRM, proprietary terms, or other le-gal/technological barriers that would limit the freedoms granted by CC BY 4.0.
+The use of public-domain equations (e.g. classical GR field equations, Standard-Model param-eters) or reliance on statutory exceptions is unaffected. Material is provided “as is,” with no implied warranties.
+
+Scope of Licensed Contributions
+The following elements are original to this Paper and fall under CC BY 4.0:
+Formal integration of the Theoretical Harmonic Resonance Field Model (THRFM)
+with Mo¨bius Collapse Logic (MCL) into the GUHCT framework.
+Definitions and rigorous proofs for Light-Quanta Tokens (LQT), the Harmonic Computa-tional Language (HCL), the Weight Hierarchy, and the Jones–Weight Correspondence.
+Derivation of the fundamental Lagrangian LGUHCT[Ξ], emergent field equations, and col-lapse dynamics.
+Classical-source material (e.g Existing knot-theory identities, or publicly available experimental constants) remains under its original public-domain or third-party licenses.
+
+Addendum (Recommended Ethical Use)
+Although not legally binding, the author requests that GUHCT-derived work not be employed for:
+Lethal autonomous weaponry or indiscriminate surveillance systems.
+Purposes that violate fundamental human rights or international law.
+
+For full license terms see:  https://creativecommons.org/licenses/by/4.0/
+
+GFAVITATION AND COSMOLOGY
+Proceedings of the
+Third Internotionol Meeting
+Morelio. Michoocon. Mexico	2d — 30 May £008
+
+
+
+
+
+
+EDIfOPS
+Francisco S. Guzmón Murillo Alfredo Herrera-Aguilar Ulises Nucamendi
+Israel @uiros
+
+
+
+
+/
+
+
+
+ISBN 978-0-7354-0óì4-8 ISSN 0094-243X
+AM€RICAN INSTITUTE O PHYSICS
+
+
+
+AIP CONFERENCE PROCEEDINGS B 1083
+
+
+
+
+
+Downloaded 28 Jun 2011 to 189.195.60.94. Redistribution subject to AIP license or copyright; see http://proceedings.aip.org/about/rights_permissions
+
+GRAVITATION AND COSMOLOGY
+
+
+
+
+
+
+
+
+
+
+
+Downloaded 28 Jun 2011 to 189.195.60.94. Redistribution subject to AIP license or copyright; see http://proceedings.aip.org/about/rights_permissions
+
+To learn more about AIP Conference Proceedings, including the Conference Proceedings Series, please visit the webpage
+http://proceedings.aip.org/proceedings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Downloaded 28 Jun 2011 to 189.195.60.94. Redistribution subject to AIP license or copyright; see http://proceedings.aip.org/about/rights_permissions
+
+GRAVITATION AND COSMOLOGY
+Proceedings of the
+Third International Meeting
+Morelia, Michoacan, Mexico	26 – 30 May 2008
+
+
+
+EDITORS
+Francisco S. Guzmán Murillo Alfredo Herrera-Aguilar Ulises Nucamendi
+Institute of Physics and Mathematics,UMSNH
+Michoacan, Mexico
+Israel Quiros Physics Department, UCLV Santa Clara, Cuba
+
+SPONSORING ORGANIZATIONS
+Michoacan Center for Research and Development (CIDEM) Michoacan Council for Science and Technology(COECYT) Mexican Council for Science and Technology (CONACYT) Universidad Michoacana de San Nicolás de Hidalgo through the
+Coordinating Office of ScientificResearch, the General Secretariat,as well as the Academic Groups CA22 “Gravity, Cosmology and Astrophysics” and
+CA 23 “Field Theory and High Energy Physics” of the Institute of Physics and Mathematics
+
+All papers have been peer reviewed.
+
+
+Melville, New York, 2008
+AIP CONFERENCE PROCEEDINGS / 1083
+
+Editors
+Francisco S. Guzmán Murillo Alfredo Herrera-Aguilar Ulises Nucamendi
+Institute of Physics and Mathematics, UMSNH Building C-3, University Campus
+58040 Morelia, Michoacan, Mexico E-mail: herrera@ifm.umich.mx
+guzman@ifm.umich.mx
+ulises@ifm.umich.mx
+
+Israel Quiros
+Physics Department, UCLV 54830 Santaclara, Cuba
+E-mail: israel@uclv.edu.cu
+
+
+
+
+
+
+Authorization to photocopy items for internal or personal use, beyond the free copy-ing permitted under the 1978 U.S. Copyright Law (see statement below), is granted by the American Institute of Physics for users registered with the Copyright Clearance Center (CCC) Transactional Reporting Service, provided that the base fee of $23.00 per copy is paid directly to CCC, 222 Rosewood Drive, Danvers, MA 01923, USA. For those organizations that have been granted a photocopy license by CCC, a sepa-rate system of payment has been arranged. The fee code for users of the Transactional Reporting Services is: 978-0-7354-0614-8/08/$23.00
+© 2008 American Institute of Physics
+Permission is granted to quote from the AIP Conference Proceedings with the custom-ary acknowledgment of the source. Republication of an article or portions thereof (e.g., extensive excerpts, figures, tables, etc.) in original form or in translation, as well as other types of reuse (e.g., in course packs) require formal permission from AIP and may be subject to fees. As a courtesy, the author of the original proceedings article should be informed of any request for republication/reuse. Permission may be obtained online using Rightslink. Locate the article online at http://proceedings.aip.org, then simply click on the Rightslink icon/”Permission for Reuse” link found in the article abstract. You may also address requests to: AIP Office of Rights and Permissions, Suite 1NO1, 2 Huntington Quadrangle, Melville, NY 11747-4502, USA; Fax: 516-576-2450; Tel.: 516-576-2268; E-mail: rights@aip.org.
+
+L.C. Catalog Card No. 2008941200 ISBN 978-0-7354-0614-8
+ISSN 0094-243X
+
+Printed in the United States of America
+
+CONTENTS
+Preface	vii
+Constraining a Matter-dominated Cosmological Model with Bulk
+Viscosity Proportional to the Hubble Parameter	1
+A. Avelino and U. Nucamendi
+Mass Gap for Gravity Localized on Thick Branes	5
+N. Barbosa-Cendejas, A. Herrera-Aguilar, U. Nucamendi, I. Quiros,
+M. A. Reyes Santos, and C. Schubert
+Quantized Scalar Field as DM: The Axion’s Case	13
+J. Barranco and A. Bernal
+Multi-state Boson Star as a Dark Matter Halo	20
+A. Bernal
+Gravitational Lensing in the Metric Theory Proposed by Sobouti	28
+T. Bernal and S. Mendoza
+Scalar-tensor Theories of Gravity: Some Personal History	34
+C. H. Brans
+Sources for Conformally Flat Stationary Cyclic Circular Space-time	47
+C. Campuzano and C. E. Vargas
+Cosmological Phase Space of Rn Gravity	57
+A. Aviles-Cervantes and J. L. Cervantes-Cota
+General Relativistic Tilt and Dark Energy	65
+A. A. Coley, S. Hervik, and W. C. Lim
+A Dark Energy Primer	74
+R. Crittenden
+On Weyl Wormholes Supported by Massless K-Essence	96
+J. Estevez-Delgado and T. Zannias
+Numerical Simulations of Black-hole Binaries	108
+J. A. Gonza´lez Cervera
+Exact Models with Non-minimal Interaction between Dark Matter
+and Dark Energy	113
+T. Gonza´lez Cruz
+Collision of Bose Condensate Dark Matter Structures	122
+F. S. Guzma´n Murillo
+Halting Eternal Acceleration with a Negative Cosmological Constant	128
+Y. Leyva Nodal, V. F. Cardone, and R. P. Cardenas
+Leptogenesis in Complex Hybrid Inflation	136
+C. Mart´ınez-Prieto
+Study of Several Potentials as Scalar Field Dark Matter Candidates	144
+T. Matos, A. Va´zquez-Gonza´lez, and J. Maga˜na
+Modeling Massive Dark Objects by a Wormhole Throat	171
+N. Montelongo Garc´ıa and T. Zannias
+Thick DGP Braneworlds: Geometrical Origin of Inflation and of
+Present Acceleration of the Expansion	182
+I. Quiros
+v
+
+Cosmological Simulations of the Santa Barbara Cluster:
+The Influence of Scalar Fields	190
+M. A. Rodr´ıguez-Meza
+Non Commutativity and ▲	201
+M. Sabido, O. Obrego´n, and E. Mena
+On the Instability of Static, Spherically Symmetric Wormholes
+Supported by a Ghost Scalar Field	208
+J. A. Gonza´lez, F. S. Guzma´n Murillo, and O. Sarbach
+The Seeds of Cosmic Structure: A Phenomenological Approach	217
+D. Sudarsky and A. De Una´nue T.
+Quasi-local Variables and Inhomogeneous Cosmological Sources with
+Spherical Symmetry	228
+R. A. Sussman
+Aspects of Wormhole Physics	236
+N. Montelongo Garc´ıa and T. Zannias
+List of Contributors	245
+Author Index	249
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vi
+
+PREFACE
+
+The International Meeting on Gravitation and Cosmology, the third in this series, was held from May 26th to May 30th, 2008, at the Cultural Center of the University of Mi-choacan in the beautiful colonial city of Morelia, Mexico. The first and second meetings took place in Santa Clara, Cuba. The present edition was jointly organized by the In-stitute of Physics and Mathematics of the "Universidad Michoacana de San Nicolás de Hidalgo", in Morelia, Mexico, and the Physics Department of the "Universidad Central de Las Villas" in Santa Clara, Cuba. The meeting constitutes a crucial part of an incipient effort to strengthen academic and scientific collaboration not only between Cuban and Mexican researchers, but among the community of the whole North American region which is actively working on Gravitation and Cosmology.
+During this edition of the meeting we reviewed and explored numerous topics related mainly to the issue of dark energy. About eighty participants actively took part in the meeting. They discussed topics of current interest in Modern Cosmology, Astrophysics and Gravity.
+The core of the program, aimed to advanced graduate students and young researchers in physics, was formed by a dozen of extended talks delivered by recognized experts in their fields. The written versions of these talks became the main substance of this book. Three review talks were devoted to the scalar tensor theories of gravity, scalar fields as dark matter and dark energy, and a primer on dark energy.
+This volume includes also twenty two active research contributions, presented as single talks and posters, examples of theoretical research work presently conducted by the participants.
+It is worth mentioning that in spite of being the third meeting in a series, this is the first time the Proceedings are being published as an effort to concentrate and disseminate most of the information of the delivered talks and discussions that took place during the meeting.
+As organizers of the conference we are grateful to the sponsor institutions: Michoacan Center for Research and Development (CIDEM), Michoacan Council for Science and Technology (COECYT), Mexican Council for Science and Technology (CONACYT), Universidad Michoacana de San Nicolás de Hidalgo through the Coordinating Office of Scientific Research, the General Secretariat, as well as the Academic Groups CA22 “Gravity, Cosmology and Astrophysics” and CA23 “Field Theory and High Energy Physics” of the Institute of Physics and Mathematics.
+Special thanks are due to the logistic support team: Arturo Avelino Huerta, Catalina Bedolla Arellano, Laura Godínez Reyes, Paulina González Cázares, Dagoberto Malagón Morejón y Pedro Alfredo Morales Ochoa.
+Finally, the organizing committee included Ulises Nucamendi Gómez (IFM-UMSNH) and Tamé González (UCLV) who strongly supported the organization of the meeting.
+A. Herrera-Aguilar, F. S. Guzmán, I. Quiros.
+
+
+
+
+
+vii
+
+
+Downloaded 28 Jun 2011 to 189.195.60.94. Redistribution subject to AIP license or copyright; see http://proceedings.aip.org/about/rights_permissions
+
+/
+
+
+
+Gravitation And the Universe from large Scale-Structures
+The GAUSS mission concept
+Mapping the cosmic web up to the reionization era
+
+Alain Blanchard · Aubourg E´ric · Philippe Brax · Francisco J. Castender · Sandrine Codis · St´ephanie Escoffier · Fabien Dournac · Agn`es Fert´e · Fabio Finelli · Pablo Fosalba · Emmanuel Gangler · A Gontcho Satya Gontcho · Adam Hawken · St´ephane Ili´c ·
+Jean-Paul Kneib · Martin Kunz · Guilhem Lavaux · Olivier Le F`evre · Julien Lesgourgues · Yannick Mellier · J´er´emy Neveu · Yann Rasera · C´ecile Renault · Marina Ricci · Ziad Sakr · Norma G. Sanchez · Isaac Tutusaus · Safir Yahia-Cherif
+Received: date / Accepted: date
+
+Alain Blanchard
+IRAP, CNRS, Toulouse, France
+E-mail: alain.blanchard@irap.omp.eu E´ric Aubourg
+APC, CNRS, Paris, France
+
+Philippe Brax
+IPhT, CEA, Saclay, France
+
+Francisco J. Castender
+ICE-CSIC, IEEC, Barcelona, Spain
+
+Sandrine Codis
+IAP, CNRS, Paris, France
+
+St´ephanie Escoffier
+CPPM, CNRS, Marseille, France
+
+Fabien Dournac
+IRAP, CNRS, Toulouse, France
+
+Alain Blanchard et al.
+
+
+Agn`es Fert´e
+JPL, Pasadena, USA
+
+Fabio Finelli
+INAF, Bologne, Italy
+
+Pablo Fosalba
+ICE-CSIC, IEEC, Barcelona, Spain
+
+Emmanuel Gangler
+LPC, CNRS, Clermont-Ferrand, France
+
+A Gontcho Satya Gontcho University of Rochester, USA
+
+Adam Hawken
+CPPM, CNRS, Marseille, France
+
+St´ephane Ili´c
+LERMA, CNRS, Paris, France
+
+Jean-Paul Kneib
+EPFL, Lausanne, Switzerland
+
+Martin Kunz
+University of Geneva, Switzerland
+
+Guilhem Lavaux
+IAP, CNRS, Paris, France
+
+Olivier Le F`evre
+LAM, CNRS, Marseille, France
+
+Julien Lesgourgues
+TTK, RWTH Aachen University, Germany
+
+Yannick Mellier
+IAP, CNRS, Paris, France
+
+J´er´emy Neveu
+LAL, CNRS, Orsay, France
+
+Yann Rasera
+LUTH, CNRS, Meudon, France
+
+C´ecile Renault
+LPSC, CNRS, Grenoble, France
+
+Gravitation And the Universe from large Scale-Structures	3
+
+
+Abstract Today, thanks in particular to the results of the ESA Planck mis-sion, the concordance cosmological model appears to be the most robust to describe the evolution and content of the Universe from its early to late times. It summarizes the evolution of matter, made mainly of dark matter, from the primordial fluctuations generated by inflation around 10−30 second after the Big-Bang to galaxies and clusters of galaxies, 13.8 billion years later, and the evolution of the expansion of space, with a relative slowdown in the matter-dominated era and, since a few billion years, an acceleration powered by dark energy. But we are far from knowing the pillars of this model which are infla-tion, dark matter and dark energy. Comprehending these fundamental ques-tions requires a detailed mapping of our observable Universe over the whole of cosmic time. The relic radiation provides the starting point and galaxies draw the cosmic web. JAXA’s LiteBIRD mission will map the beginning of our Universe with a crucial test for inflation (its primordial gravity waves), and the ESA Euclid mission will map the most recent half part, crucial for dark energy. The mission concept, described in this White Paper, GAUSS, aims at being a mission to fully map the cosmic web up to the reionization era, linking early and late evolution, to tackle and disentangle the crucial de-generacies persisting after the Euclid era between dark matter and inflation properties, dark energy, structure growth and gravitation at large scale.
+
+Keywords Cosmology · Dark Energy · Early Universe physics
+
+
+1 Science motivations
+
+The questions regarding very high energy physics (far beyond the energies ac-cessible to terrestrial accelerators), and the origin of the acceleration of the expansion of the Universe are very important and timely questions of both fundamental physics and cosmology. Cosmological and astronomical observa-tions will provide the essential information, if not all the information needed
+
+Marina Ricci
+LAPP, CNRS, Annecy, France
+
+Ziad Sakr
+USJ, Beirut, Lebanon
+
+Norma G. Sanchez
+LERMA, CNRS, Paris, France
+
+Isaac Tutusaus
+ICE-CSIC, IEEC, Barcelona, Spain
+
+Safir Yahia-Cherif
+IRAP, CNRS, Toulouse, France
+
+4	Alain Blanchard et al.
+
+
+to answer these questions. The study of the distribution of matter at very large scales, allowed by large surveys of galaxies, complemented by the observation of the properties of the cosmic microwave background (CMB) radiation, are the primary probes of this new physics, which remains to be discovered and understood.
+
+The most direct and simplest explanation of the origin of dark energy which is compatible with all the available data is the cosmological constant. However, it needs fine-tuning and as a vacuum energy suffers from the so called ”cosmo-logical constant problem”, i.e. the theoretical vacuum energy value estimated from quantum particle physics is about 10122 times the observed value [40]. Such a huge difference between the two values could physically correspond to two different vacuum states of the universe, namely at two different epochs of its evolution: one being the classical very large universe today, the other being the very early quantum cosmological vacuum. The low value of Λ or vacuum energy density today corresponds to a large-scale low-energy diluted universe essentially dominated by voids and supervoids as the set of large-scale obser-vations concordantly and independently shows. On the other hand, the high quantum value of Λ could correspond to the high energy and highly dense, small-scale very early quantum vacuum.
+
+A different proposal for the origin of the present acceleration supposes a modification of the General Relativity theory (GR) of gravity by break-ing one of the assumptions of Lovelock’s theorem [26], which states that the only possible equations of motion which contain only second derivatives in 4-dimensional space-time from a scalar Lagrangian density satisfying Lorentz invariance are the Einstein field equations. One common modification is to include a scalar field coupled to the curvature tensor terms in these equations through the Horndeski Lagrangian [16]. This includes all possible introductions of scalar, vector, and tensor degrees of freedom. Among these theories, most of the additional tensor degrees of freedom have been significantly constrained by the discovery of a gravitational wave source and its optical counterpart [24]. Moreover, recent analyses of Integrated Sachs-Wolfe effect (ISW)-galaxy cross-correlation data [32] have also disfavored other derivative couplings of the cubic order as well as beyond Horndeski [25] higher order additional theo-ries. Theories yet to be excluded are those with linear scalar self-interactions and minimal/derivative couplings to gravity, such as dark energy models based on a scalar field with a potential (quintessence) [31] or with a non canonical kinetic term (k-essence) [3]. Other modifications of gravity are still also viable, modifying the remaining assumptions such as models with extra dimensions (e.g. Kaluza-Klein type [20, 21]), or those that relax the Lorentz invariance (e.g. Horava-Lifshitz gravity [21]). But these can all be distinguished from each other by either a different evolution of the background expansion and/or a dif-ferent cosmic growth history. Some of these models of modified gravity could be used to incorporate both late time acceleration and inflation at early times. All these models could be tested with CMB cross-correlation observations,
+
+Gravitation And the Universe from large Scale-Structures	5
+
+
+however the latter probe, unlike the distribution of large scale structure, only growth and expansion at the time of recombination. Next generation CMB ex-periments exploring high multipole modes at small scales will need to account for the foreground distribution of large-scale structure.
+
+At the moment, no favoured model of dark energy seems to emerge im-plying that an effective description of this phenomenon using a finite and well-chosen set of parameters should be employed.
+
+Among these phenomenological tools, the measure of the expansion H(z), and growth rate of structure will provide probes for dark energy over cosmic times and will indirectly probe very high energy cosmic origins. Moreover, the distribution of matter, traced by galaxies and dark matter through the effects of gravitational lensing and cross correlations between the former and latter distribution, offers an even more powerful tool to better understand the char-acteristics of cosmic expansion and the growth rate of structure. The reason comes from the fact that the lensing distribution measurements are sensitive to the sum of the two gravitational potentials Φ + Ψ [4] while galaxy clus-tering, being non-relativistic, is sensitive to the Newtonian potential Ψ only. Within GR, the two are equal, while in modified gravity models there can be a shift called the slip parameter. Therefore, the combination of the two observ-ables probes the relation between the two gravitational potentials. Moreover, the precise estimation of weak lensing and galaxy clustering statistics will help disentangle degenerate effects from the aforementioned extensions to the current concordance model (or Λ-CDM, named from its main components, dark energy and cold dark matter), i.e., the slip, growth, and expansion of the universe, through the determination of the Eg factor [27] which encapsu-lates three related observables: the Hubble parameter, the galaxy-velocity and galaxy-lensing cross spectrum.
+
+This distribution of matter is also a diagnostic test of the physics of the early universe: thus the presence of massive neutrinos could be highlighted for a range of masses inaccessible to experiments in accelerators and potentially better constrained than from CMB experiments of the same calibre [14]. This is due to the fact that the dominant effect of massive neutrinos is the sup-pression of the growth of structure on relatively small scales, while neutrino masses of a few tenths of eV are still relativistic at the time of photon de-coupling and affect the CMB at the background level. There are two effects that massive neutrinos could have on CMB anisotropies [15, 23]: one through the early ISW, which is roughly ten times smaller than the depletion in the small-scale matter power spectrum; and the other through the late ISW effect which is difficult to measure due to cosmic variance. Moreover, the fact that the suppression of the growth by massive neutrinos is time-dependent leads to increasingly better constraints from the extension of the redshift coverage of large scale structure surveys.
+
+6	Alain Blanchard et al.
+
+
+The distribution of galaxies and large-scale structures is also a diagnostic tool of the physics of inflation. In these scenarios this distribution is indeed generated via the fluctuations of the metric produced during a high energy phase transition in the early universe, perhaps at energies on the order of 1015 GeV. A favoured path of testing inflation would be the detection of B modes of the polarization of the cosmological background. The amplitude of these modes, from the tensor to scalar ratio r, is mandated to be non zero what-ever the inflation model, with the most recent CMB data having provided r < 0.04 − 0.07 [36]. Besides just improving such constraints, a detection, if any, would require - and justify - a dedicated mission.
+
+The possible presence of a very weak non-gaussian signal is another predic-tion of inflation, for which a minimal level is expected and would be accessible to surveys that cover a large enough volume of the Universe. Untill now, the different sets of robust and independent cosmological data clearly favor min-imal inflationary models for which the amount of non-gaussianity indicated by the parameter fNL is very small. e.g., the most recent data provides a constraint of fNL < 6 [28]. Non-minimal single field models, and especially multi-field models, produce large non-gaussianity fNL > 1 [10] , which may be considered the threshold to detect and constrain. Theoretically, the predic-tive minimal models, providing the whole set of inflationary observables like (ns, r, fNL) and adiabaticity, indicate fNL to be of the order 10−2, more pre-cisely fNL ∼ (1/Ne) ∼ 0.02, Ne being the inflation number of e-folds [6, 10]. Overall, the direction in which both the combined robust observational data and predictive theory are pointing is towards a very small amount of primor-dial non-gaussianity.
+
+Within the horizon at 2035, it is important to keep in mind that in the pri-mordial phases of the Universe, besides inflation and its GUT energy scale at time scales of 10−32 sec, there is room for higher energy scales at earlier times which are of the order of the Planck fundamental scale 1019 GeV at 10−44 sec and beyond, i.e., the so-called trans-Planckian regime. This quantum phase and its late imprints is a targeted field of study in quantum unification the-ories, gravitation and cosmology. The understanding of dark energy, whether within or outside of a standard concordance model description, (namely the cosmological vacuum energy, cosmological constant, or dynamical dark ener-gies for instance), is at the center of these studies. Deviations from the clas-sical Λ-CDM model description if measured in the expansion rate and/or the growth of structures would thus impact both the cosmological community and the wider context of fundamental physics, including string theory.
+
+
+2 Probes
+
+Different probes are used to study primordial inflation, cosmic acceleration and the growth of structures. We propose to make precise measurements of
+
+Gravitation And the Universe from large Scale-Structures	7
+
+
+the cosmic web, up to unprecedented redshift, with a high density of sources, to encompass at once matter and space evolutions.
+
+The design of the GAUSS mission concept is optimized for the combina-tion of probes called “3 × 2pt”. The combination of weak lensing (WL) and galaxy clustering (GC) is particularly powerful at simultaneously constraining the expansion of the universe, by measuring distances thanks to standardized objects or typical features (like the baryonic acoustic oscillation (BAO) scale), and probing the matter power spectrum, especially its time evolution thanks to measurements in redshift bins, referred to as tomography. Such a survey, if deep and dense enough, should allow us to safely separate the dark energy equation of state, modified gravity effects (if any), and the total mass of neutri-nos. Proper access to large and small scales, in time and in space, will permit us to break the degeneracies from which the experiments of the Cosmic Vision generation will suffer.
+
+Current galaxy surveys, e.g. DES [1] or KIDS [18], already combine WL with GC measurements to constrain cosmological parameters and cosmological models. This combination increases the constraining power and is especially powerful at breaking the degeneracy between cosmology and galaxy bias as well as the impact of intrinsic alignments. We describe these probes in the following and also introduce related probes and statistics that are only rarely used in current cosmological analysis but which we will be able to measure precisely with a deep spectro-imager like GAUSS, thus allowing a greater ex-ploration of the universe’s evolution and contents.
+
+The clustering is the measure of the 2-point correlation function - even if higher order may also be computed - between the position of tracers of the underlying dark matter structures as compared to the one of a random field. It therefore tells us how clustered is the universe, thus giving us information on the universe evolution and contents. The GAUSS mission concept aims at using galaxies and galaxy clusters as tracers.
+
+Gravitational lensing is the deformation of light paths by the presence of a mass acting as a lens by curving space-time. In the regime of diffuse massive structures being the lens, this effect is referred to as ’weak’ lensing as it can be detected only through statistical measurements. Indeed the induced ellip-ticity is at most one order of magnitude lower than the intrinsic ellipticity of the galaxy shapes. Weak lensing affects light of sources or diffuse background. Here we focus on the WL of background galaxies, the ’sources’, which requires mapping the sky with a galaxy survey.
+
+WL changes the shape of background galaxies, referred to as cosmic shear, and the size of source galaxies, an effect called magnification. For the past two decades, cosmic shear has been the main measurement of WL, e.g. [19] or [37]. It is estimated by measuring shapes, and in particular ellipticities of source
+
+8	Alain Blanchard et al.
+
+
+galaxies. The main derived statistics is then the 2-point correlation function of the ellipticities in redshift bins. This shear statistic is directly linked to the matter power spectrum. Measuring shear in tomography is therefore a great probe of the growth of structure and used in current and forthcoming cosmological surveys to constrain Λ-CDM model parameters and test beyond Λ-CDM models. The magnification modifies size and magnitude of galaxies be-cause it changes size while conserving surface brightness. It also changes the number density of galaxies as some background galaxies become detectable thanks to the flux enhancement. WL measurements using magnification have been done, e.g. with DES [12], through these different effects. Magnification and shear probe the same underlying dark matter distribution but are prone to different systematics, so they will help constrain cosmology better.
+
+3 × 2pt refers to the combining of three 2-point correlation functions: the clustering, the cosmic shear and the correlation of galaxies and the shear (re-ferred to as galaxy-galaxy lensing). In the end, combining 3 × 2pt and mag-nification in tomography will enable a precise measurement of the growth of structure and improving our understanding of the origin of the current cosmic acceleration.
+
+Also, other statistics than the 2-point correlation functions can add valu-able information. For instance, cosmology can be constrained using peaks in the convergence maps [38] which gives access to non-Gaussian information or by measuring 3-dimensional WL; its relation with constraints on modified gravity have been shown in [29].
+
+Ultimately, precise WL measurements rely on exquisitely imaging galax-ies and on the correct estimation of redshift, both of which are enabled by a spectro-imager. The expected increase of galaxy densities provided by GAUSS, with respect to Euclid, will allow us to measure the matter power spectrum in detail along the whole of cosmic time, from large scales (thanks to a very large sky coverage), down to the galaxy cluster scale (thanks to a high galaxy density). This, in turn, should allow us to disentangle most of the degeneracies between the growth of structure, gravitation at large scales, and the total mass of neutrinos.
+
+Naturally, some astrophysical systematic effects will complicate the work. For instance, galaxy peculiar velocities give rise to distortion in the redshift space distribution of galaxies relative to their real space distribution. Further-more, the intrinsic alignment of galaxies, observed even if not yet understood, affects the measurement of cosmic shear. Once again, the tremendous statis-tics should allow the study of these interesting effects as well and to smooth them for cosmology.
+
+While the 3 × 2pt and the 3D matter power spectrum are the most promis-ing probes for cosmology with such a survey, galaxy clusters, quasars, and
+
+Gravitation And the Universe from large Scale-Structures	9
+
+
+strong lensing could also be powerful probes. Dedicated studies of these probes can be made from the same raw data. In addition to providing meaningful astrophysical results, by providing an internal check on the coherence of all cosmological probes in the same survey, these studies will permit us to con-trol systematic effects. The use of type Ia supernovae would require a specific observational strategy as light curves are mandatory. This probe may suffer from many astrophysical systematic effects at very high redshift and will be largely exploited at low and intermediate redshift by the Rubin Observatory (previously known as the LSST) in conjunction with spectra measured by the ATLAS project [39]. Therefore the GAUSS mission concept has not been en-visioned to include this probe.
+
+Note that the other quantities, Eg especially designed to separate modified gravity from expansion and growth behaviors (cf. section I), and fNL aiming to follow the primordial fluctuations properties will be highly relevant to a GAUSS-like survey. These quantities are emerging for galaxy surveys [13], [7],
+[8] and no precise predictions regarding their constraints are presented in this White Paper.
+
+Eg is an observable aimed at being a model independent gravitational con-sistency check [42]. It can be performed by using the same set of galaxies that serve to trace non-relativistic gravitationally-driven motion, and as foreground lenses for probing the relativistic deflection of light from background sources. In this way, it could be ascertained whether the relative amplitude of these two effects, driven by the same underlying density perturbations traced by the lenses, assuming an expansion for a given set of cosmological parameters, is consistent with the prediction of GR. It is carried out by cross-correlating lens galaxies to both the surrounding velocity field using redshift spectral distor-tion and to the shear of background galaxies using galaxy-galaxy lensing [5]. While galaxy-galaxy lensing, galaxy clustering, and galaxy redshift distortions are strongly sensitive to the galaxy bias and to the amplitude of the matter perturbations, however, the combination of these quantities in Eg is such that both nuisance parameters cancel out. Also, CMB lensing has been proposed as a more robust tracer of the lensing field for constructing Eg at higher redshifts and at large scales while avoiding intrinsic alignments. Few constraints have been put on Eg using these two methods and on several datasets for sparse redshift ranges [30] with different results as to whether GR is preserved or discrepancies found. The goal of our future mission will be to use new, sig-nificantly deeper, spectroscopic and imaging survey datasets to extend these tests to higher source densities and more distant redshifts and to deliver the best dataset to constrain this ultimate test of gravity.
+
+In addition to the cosmological probes, GAUSS will provide a legacy cat-alog to the community containing a significant fraction of the galaxies of our observable universe, about ten times more galaxies than the output of the imminent projects which are DESI, Vera Rubin observatory and Euclid, in
+
+10	Alain Blanchard et al.
+
+
+spectrometry or in photometry. This catalog will be a unique database for multi-wavelength, multi-messenger studies. Different tracers of matter have different biases, which means different relation between the tracer and the underlying dark matter, and their combination can help lowering the cosmic variance, e.g. [2]. So the GAUSS catalog will have to be correlated with ex-ternal probes, like weak lensing of CMB or neutral hydrogen intensity maps, among others, for consistency checks on one hand and to get still more robust and tighter constraints on cosmology on the other hand.
+
+
+
+Making progresses on matter distribution on large-scale in the Universe
+
+From the observational point of view, although the origin of dark energy is unknown, its presence is effective in the recent universe (at redshift smaller than 5) and dominant in the very recent universe (at redshift smaller than typically 0.5). The presence of dark energy modifies the expansion rate, the growth rate of structure in the linear regime but also leads to subtle differences in the dynamics in the mildly nonlinear regime of structure formation. Given our lack of understanding on the origin of the cosmic acceleration, it is vital to obtain measurements of observational quantities that are sensitive to its presence and properties: the history of the expansion rate H(z), the angular distance DA(z), the growth rate of cosmic structure fg(z), and diagnostics of gravity in the mildly nonlinear regime, like the Eg quantity.
+
+Several ground and space experiments are already scheduled for these types of studies that will deliver their ultimate constraints at the 2030-2035 horizon. A metric of their performance for intercomparison has been proposed some years ago through the figure of merit (FoM), that is the inverse of the area of the constraint contours in the two parameters dark energy model Cheval-lier–Polarski–Linder (CPL). Although the full performance of a project is not reduced to a single number, the FoM is still a very useful number for compari-son. Here we used as much as possible the FoM computed in a flat cosmological model. We have performed a forecast study and establish a number of results that serve as a guideline for the present White Paper: individual probes like WL (from shear measurement) and the 3D power spectrum (from spectroscopic samples) when combined between them provide a FoM much higher than that obtained on each probe individually, i.e. one plus one is (much) more than two. For instance, we have considered a fiducial survey with 30 gal/arcmin2 for the photometric/WL part, and 1 gal/arcmin2 for the spectroscopic part covering the redshift range 0.6 − 2 over a sky area of 20,000 sq deg. With this setting one gets from the photometric clustering of galaxies (GCp) a FoM of 120, from the WL probe a FoM of 60 and from the spectroscopic probe a FoM of 300. A remarkable improvement is obtained by the addition of the cross-correlation between WL and GCp denoted by XC: the combination of WL, GCp, GCs
+
+Gravitation And the Universe from large Scale-Structures	11
+
+
+and XC boosts the FoM above 1000. This is already above foreseen surveys (like Euclid or Rubin observatory) for which FoM is anticipated to be around 500, but might correspond to what the combination of these various surveys can provide by 2035. This also illustrates that the critical ingredient for the ultimate constraint on dark energy properties resides in the cross-correlation between the WL probe and the photometric sample GCp. The role of cross correlation between GCs and other probes has not yet been investigated in detail but preliminary investigation that we performed shows that an increase of 50% on the FoM is realistic. This additional gain is however not taken into account in the following.
+
+Let us now examine what improvement can be expected. In order to gain over existing or foreseen surveys, the main avenue is to increase the total num-ber of objects that are observed. The gain anticipated compared to our fiducial survey is presented in Figure 1 in which the FoM is computed when the density of objects is increased by some factor compared to the fiducial one. The Rubin observatory targets a density number of 40 galaxies/arcmin2, targeting a FoM of 600 (in flat models) similar to the 30 galaxies/arcmin2 Euclid photomet-ric survey targeting a FoM of 400 (in non-flat models using the combination with Euclid spectroscopic data). For the spectroscopic sample, Euclid targets around 50 million galaxies, a number comparable to what is anticipated from the DESI sample (with noticeably different selection rules allowing DESI to achieve a higher FoM ∼ 150 for the spectroscopic probe alone). For our fiducial model, the spectroscopic sample will be around 700 milions spectra. Improv-ing the density of galaxies in the spectroscopic sample allows us to improve the FoM by taking into account more small-scale data for the spectroscopic sample, a strategy of less interest at fainter density.
+
+As shown in Figure 1, the final FoM, resulting from the combination of the main probes, increases by a factor of more than ten relative to foreseen surveys if the number of targets in both the photometric and the spectroscopic samples are increased by a factor of 10. Increasing the number of targets by a further factor of ten would however not produce the same gain, instead the gain would be closer to a factor 3. Thus, this is a good indication that there is a significant gain to be achieved by increasing the number of targets by 10, but that the gain tends to weaken beyond that and would be extremely challenging as it would require deeper imaging than the Hubble ultra deep field.
+
+The primary gain anticipated from a given telescope is proportional to the square of its diameter multiplied by the field of view. However, with a density of 300 objects per arcmin2, for a ground-based telescope, a significant fraction of galaxies in the field will overlap due to the blurring produced by the at-mosphere. This would make the weak lensing analysis extremely complex and challenging. Thus, only a space mission could provide accurate images of the quality necessary for weak lensing analyses if the number of objects has to be increased significantly. The limitations of ground-based image quality are
+
+12	Alain Blanchard et al.
+
+Fig. 1 An estimation of the gain compared to a fiducial survey (having 30 gal/arcmin2 for the photometric part and 1 gal/arcmin2 for the spectroscopic part, covering the redshift range 0.6 − 2). Such a survey would achieve a FoM ∼ 2000 higher than existing or foreseen surveys. This is also illustrative of what could be achieved by the combination of these various surveys (DESI, Euclid, Rubin Observatory, the Roman Space Telescope). With this strategy, as the density of objects being increased by some given factor (abscissa) one can monitor the gain in term of the FoM. Actually, GAUSS will have a larger redshift coverage, likely to lead to a higher FoM. Inclusion of more small-scale data for the spectroscopic sample (kmax = 1 compared to kmax = 0.3), using the cross-correlation between photo metric samples and spectroscopic samples improves the FoM by a factor 2-3. As one can see spectroscopic galaxy clustering (GCs) and and photometric galaxy clustering (GCp) alone do not gain much from an increase of the density of targets (with kmax = 0.3). However, when combined with weak lensing and using XC the FoM increases by a factor nearly 10 reaching a value close to 10 000. Additional combination with the CMB might raise this number even more.
+
+Gravitation And the Universe from large Scale-Structures	13
+
+
+compounded by the further limit on the availability of color information from the ground. Broad optical as well infra-red photometry is necessary nowadays to estimate photometric redshifts and thereby optimally perform weak lensing analysis. Indeed, contamination by unresolved sources is a dominant limita-tion of weak lensing analysis that exquisite image quality has the potential to circumvent. In order to reach the foreseen density of objects, it is necessary to go 2.5 magnitudes deeper than the depth of typical working density of Euclid or the Rubin Observatory for photometry and 4.5 magnitudes deeper for the spectroscopic survey. Compared to the Euclid space telescope this needs an increase in efficiency of around 60.
+
+Spectroscopic surveys of galaxies from the ground are limited by telluric lines. Slitless spectroscopy is limited by the systematics intrinsic to this method. In order to achieve a dense high-redshift (in the range 1-4) spectroscopic galaxy sample the most efficient approach is infrared-space-based slit spectroscopy in the range 0.5-5 µm.
+
+For dark energy studies, the final FoM is severely dependant on the com-bination of WL and GC data. A survey focussed on the imaging part, with an exquisite quality will therefore achieve a remarkable progress on the FoM even without the combination of the spectroscopic part. This conclusion is however limited by the fact that we do not have yet a full quantitative investigation of the role of the cross-correlation between spectroscopic data and weak lensing data, and by the fact that on mildly non-linear scales the test of modified grav-ity theories needs information coming from spectroscopic data. Identically, a large off-axis telescope is a technology that has not yet been implemented in space. A more classical solution could be adopted.
+
+
+
+The scientific landscape on the 2035 horizon
+
+The currently known landscape is summarized in Figure 2. It gathers the main space missions from Europe (mainly ESA but also DLR for eROSITA), NASA and Asia (which stands for JAXA and CSA projects). Most of these NASA, JAXA and CSA missions are also ESA Missions of Opportunity (MoOs). The black boxes outline missions that have cosmology among their main goals. The unique European mission, Euclid, should end around 2028. The current proposal concerns the next generation, after Euclid, Spherex and the Roman Space Telescope (previously known as WFIRST), eventually completed by the spectroscopic ATLAS follow-up.
+
+While Euclid should explore up to a few billion galaxies, with photometric redshifts, typically up to a redshift of 2 with spectroscopic measurements for a few percent of them; the Roman Space Telescope should perform a fairly similar survey but deeper. In the meantime, Spherex will map the entire sky
+
+14	Alain Blanchard et al.
+
+
+Fig. 2 Main Space missions connected to cosmic web dark energy or gravitation
+
+
+at low spatial resolution with a mid-spectral resolution in infrared. The goal of the GAUSS project is to obtain spectroscopic redshifts as well as the shapes of tens of billions of galaxies up to a redshift of 5.
+
+Observational cosmology takes place on the ground too. Here we summa-rize some of the main ground-based galaxy surveys. The Dark Energy Spec-troscopic Instrument (DESI) is installed at the focal plane of a 4-meter tele-scope in Arizona to measure the spectra of more than 30 million galaxies and quasars covering 14,000 square degrees with the survey expected to start in 2020 [11], now stopped because of the epidemic. The ESO cosmology redshift survey with the 4-meter Multi-Object Spectroscopic Telescope (4MOST) in Chile will start in 2022 [33], providing high resolution spectra of 8 million ob-jects covering 15,000 square degrees up to z = 3.5. The LSST (Large Synoptic Survey Telescope), recently renamed the Vera C. Rubin Observatory, will con-duct a photometric survey, starting at the end of 2022, of ∼ 20, 000 square degrees with an 8-meter telescope in six bands based in Chile over ten years with a cadence suited to detect about 500 supernovae per night [17]. While they have many advantages and will undoubtedly produce high quality science, none of these surveys is able to recover the shapes of galaxies with the same accuracy as space-based instruments, owing to the presence of the atmosphere.
+
+The entire cosmic web, from the end of the epoch reionization until now, should be ultimately mapped in the visible/infrared domains. It would pro-
+
+Gravitation And the Universe from large Scale-Structures	15
+
+
+vide legacy data, thanks to the accuracy and the completeness of the survey, which can be correlated with CMB lensing, Sunyaev-Zeldovich or HI maps for instance.
+
+Cosmological use of probes like WL and GC is more efficient when com-bined with cosmic microwave background (CMB) observations which directly map the first billion years. Some degeneracies are broken, for instance between the amplitude of primordial energy fluctuations and the optical depth linked to the reionization period, which currently prevent better constraints on the total mass of the neutrinos. The GAUSS project is perfectly timed to take advantage of the results of LiteBIRD and the S4 ground-based efforts. The cosmological parameters derived by these S4 experiments should be obtained with errors two times lower than current experiments and a significantly more precise map of the CMB lensing, obtained by the large ground-based telescopes, should be available for correlation with the huge GAUSS galaxy catalogue.
+
+The cosmological landscape will soon contain the Square Kilometre Array (SKA) which will conduct a huge spectroscopic galaxy survey, by detecting the 21 cm emission line of neutral hydrogen (HI) from around a billion galaxies over 3/4 of the sky, out to a redshift of z ∼ 2 [41]. The survey should start by the end of the 2020s, ideally complementing the GAUSS galaxy survey. Moreover, gravitational-wave astronomy, with the Einstein Telescope having succeeded LIGO/Virgo on the ground and LISA in the sky, should be flourish-ing. The main synergies are the test of the law of gravitation at large scales or in the strong field regime, the possibility of testing the weak and strong equiv-alence principle, and also the measurement of the Hubble parameter today by using standard rulers or standard sirens, from telescopic and interferomet-ric observations respectively. Additionally, thanks to the Athena mission, the baryonic part of the cosmic web in the form of hot gas should be much better understood than now. Furthermore, the evolution of massive black holes and their role in galaxy evolution should be properly comprehended. So the knowl-edge of the baryonic ingredients of the cosmic web, as well as gas in galaxies, will be much more detailed than today, leading to a significant decrease of the systematic errors due to astrophysics.
+
+So, even if we cannot presume our knowledge of the dark energy after the Euclid era, we can be confident in the fact that our ability to measure the properties of dark energy and the neutrino mass will significantly increase in the era of Voyage 2050.
+
+
+Technological challenges
+
+The proposed imaging survey should have color images in several bands. Al-though one could envision having single detectors allowing spectral information per pixel, here we consider a strategy where 8 bands per field are necessary,
+
+16	Alain Blanchard et al.
+
+h!
+/
+Fig. 3 Number of spectroscopic redshifts in surveys as a function of the year, extracted from the White Paper proposing MegaMapper, an answer to the Decadal Survey on Astronomy and Astrophysics Astro2020 call [34]. The Euclid space mission and the present GAUSS concept mission have been added for comparison.
+
+
+
+with a dichroic that would mean two focal planes with 4 bands each from 0.5 µm to 5 µm, those bands being achieved through filters on the detectors. This is aimed at avoiding the use of mechanical systems as much as possible.
+
+The primary limitation will come from the total number of pixels of the camera: an appropriate sampling to fully benefit from the space image quality is to have a pixel size of 0.05 arcsec (although a pixel size of 0.1 arcsec would be acceptable). The field of view would be 2 degrees in size, to get an area of around 4 square degrees, 8 times wider than Euclid and slightly less than half the field of view of the Rubin Observatory. Assuming a pixel size of 5 µm and a ten Giga-pixels camera, the physical size will be around 70 cm. Assum-ing half of the field is used by the imaging system with 8k×8k detectors, this needs 160 detectors in the focal plane. An extra factor of efficiency of 8 is needed which implies the need to have a 3-4 meter class telescope. In order to get the highest image quality for the images, an off-axis mirror will be the preferred solution. Such solutions have been investigated and their advantages have been quantified [22, 35].
+
+Gravitation And the Universe from large Scale-Structures	17
+
+
+In order to achieve a massive spectroscopic sample we propose to use Dig-ital Micro-mirror Devices as slit selectors [9]. Although this technology has not yet been demonstrated in space, it has been used in astronomy [27] and we anticipate that this or some equivalent technology will allow massive slit spectroscopy on selected targets. A significant fraction (50% as a guideline) of the focal plane should be used for this. Sharing the focal plane in this way will avoid having moving mechanical systems for dealing with both spectroscopic and photometric channels. Spectroscopic devices will be located in the outer part of the field as the spatial resolution is less critical for spectroscopy. 16 4k×4k detectors with 10µm pixels can achieve a mutiplex factor greater than 20 000. Using slit spectroscopy will suppress the sky background inherent in the slitless-grism spectroscopy usually used in space missions (HST and Euclid for example) thus enabling a significant gain in sensitivity.
+
+
+
+Conclusion
+
+The statistical distribution of matter over a very large volume of the universe will remain the primary tool to investigate the source of the accelerated ex-pansion of the universe as well as the physics of the very early universe. Large photometric and spectroscopic surveys of galaxies over the same sky area are particularly efficient for these objectives. A space mission like GAUSS will surpass by more than an order of magnitude all currently foreseen projects (Euclid, Rubin Observatory, DESI, Roamn Space Telescope, . . . ) thanks to a very deep flux limit (including in the infrared domain up to ∼ 5µm), a very high multiplexing capability allowing to map the distribution of a unique tracer from redshift 0.5 to 5, with limited systematics, and the power of probe combinations and their cross-correlation within a single experiment, a unique advantage of GAUSS over most existing projects (with the exception of Eu-clid). This would allow, for instance, a definitive measurement of the total mass of neutrinos from a single experiment, and provide major progress in our understanding of Dark Energy and Inflation, two major problems of both cosmology and fundamental physics. Thus, a mission like GAUSS linking the early and late phases of cosmic evolution, with their hugely different energy scales, provides unique clues for cosmology, gravitation, and inflation physics, without any equivalent tool for investigating these topics.
+
+
+References
+T. M. C. Abbott, F. B. Abdalla, A. Alarcon, J. Aleksi´c, S. Allam, S. Allen,
+A. Amara, J. Annis, J. Asorey, S. Avila, D. Bacon, E. Balbinot, M. Banerji,
+N. Banik, W. Barkhouse, M. Baumer, E. Baxter, K. Bechtol, M. R. Becker,
+A. Benoit-L´evy, B. A. Benson, G. M. Bernstein, E. Bertin, J. Blazek, S. L. Bridle, D. Brooks, D. Brout, E. Buckley-Geer, D. L. Burke, M. T. Busha,
+
+18	Alain Blanchard et al.
+
+
+A. Campos, D. Capozzi, A. Carnero Rosell, M. Carrasco Kind, J. Car-retero, F. J. Castander, R. Cawthon, C. Chang, N. Chen, M. Childress,
+A. Choi, C. Conselice, R. Crittenden, M. Crocce, C. E. Cunha, C. B. D’Andrea, L. N. da Costa, R. Das, T. M. Davis, C. Davis, J. De Vicente,
+D. L. DePoy, J. DeRose, S. Desai, H. T. Diehl, J. P. Dietrich, S. Dodelson,
+P. Doel, A. Drlica-Wagner, T. F. Eifler, A. E. Elliott, F. Elsner, J. Elvin-Poole, J. Estrada, A. E. Evrard, Y. Fang, E. Fernandez, A. Fert´e, D. A. Finley, B. Flaugher, P. Fosalba, O. Friedrich, J. Frieman, J. Garc´ıa-Bellido,
+M. Garcia-Fernandez, M. Gatti, E. Gaztanaga, D. W. Gerdes, T. Giannan-tonio, M. S. S. Gill, K. Glazebrook, D. A. Goldstein, D. Gruen, R. A. Gru-endl, J. Gschwend, G. Gutierrez, S. Hamilton, W. G. Hartley, S. R. Hinton,
+K. Honscheid, B. Hoyle, D. Huterer, B. Jain, D. J. James, M. Jarvis, T. Jel-tema, M. D. Johnson, M. W. G. Johnson, T. Kacprzak, S. Kent, A. G. Kim, A. King, D. Kirk, N. Kokron, A. Kovacs, E. Krause, C. Krawiec,
+A. Kremin, K. Kuehn, S. Kuhlmann, N. Kuropatkin, F. Lacasa, O. La-hav, T. S. Li, A. R. Liddle, C. Lidman, M. Lima, H. Lin, N. MacCrann,
+M. A. G. Maia, M. Makler, M. Manera, M. March, J. L. Marshall, P. Mar-tini, R. G. McMahon, P. Melchior, F. Menanteau, R. Miquel, V. Miranda,
+D. Mudd, J. Muir, A. M¨oller, E. Neilsen, R. C. Nichol, B. Nord, P. Nu-gent, R. L. C. Ogando, A. Palmese, J. Peacock, H. V. Peiris, J. Peoples,
+W. J. Percival, D. Petravick, A. A. Plazas, A. Porredon, J. Prat, A. Pu-jol, M. M. Rau, A. Refregier, P. M. Ricker, N. Roe, R. P. Rollins, A. K. Romer, A. Roodman, R. Rosenfeld, A. J. Ross, E. Rozo, E. S. Rykoff,
+M. Sako, A. I. Salvador, S. Samuroff, C. Sa´nchez, E. Sanchez, B. Santiago,
+V. Scarpine, R. Schindler, D. Scolnic, L. F. Secco, S. Serrano, I. Sevilla-Noarbe, E. Sheldon, R. C. Smith, M. Smith, J. Smith, M. Soares-Santos,
+F. Sobreira, E. Suchyta, G. Tarle, D. Thomas, M. A. Troxel, D. L. Tucker,
+B. E. Tucker, S. A. Uddin, T. N. Varga, P. Vielzeuf, V. Vikram, A. K. Vi-vas, A. R. Walker, M. Wang, R. H. Wechsler, J. Weller, W. Wester, R. C. Wolf, B. Yanny, F. Yuan, A. Zenteno, B. Zhang, Y. Zhang, J. Zuntz, and Dark Energy Survey Collaboration. Dark Energy Survey year 1 re-sults: Cosmological constraints from galaxy clustering and weak lensing. Phys. Rev. D, 98(4):043526, August 2018.
+L. Raul Abramo and Katie E. Leonard. Why multitracer surveys beat cosmic variance. MNRAS, 432(1):318–326, June 2013.
+C. Armenda´riz-Pico´n, T. Damour, and V. Mukhanov. k-Inflation. Physics Letters B, 458:209–218, July 1999.
+J. M. Bardeen. Gauge-invariant cosmological perturbations. Phys. Rev. D, 22:1882–1905, October 1980.
+Chris Blake, Shahab Joudaki, Catherine Heymans, Ami Choi, Thomas Er-ben, Joachim Harnois-Deraps, Hendrik Hildebrandt, Benjamin Joachimi, Reiko Nakajima, Ludovic van Waerbeke, and Massimo Viola. RCSLenS: testing gravitational physics through the cross-correlation of weak lensing and large-scale structure. MNRAS, 456(3):2806–2828, March 2016.
+D. Boyanovsky, H. J. de Vega, and N. G. Sanchez. Clarifying inflation models: Slow roll as an expansion in 1/Nefolds. Phys. Rev. D, 73(2):023008,
+
+Gravitation And the Universe from large Scale-Structures	19
+
+
+January 2006.
+Emanuele Castorina, Yu Feng, Uroˇs Seljak, and Francisco Villaescusa-Navarro. Primordial Non-Gaussianities and Zero-Bias Tracers of the Large-Scale Structure. Phys. Rev. Lett., 121(10):101301, September 2018.
+Emanuele Castorina, Nick Hand, Uroˇs Seljak, Florian Beutler, Chia-Hsun Chuang, Cheng Zhao, H´ector Gil-Mar´ın, Will J. Percival, Ashley J. Ross, Peter Doohyun Choi, Kyle Dawson, Axel de la Macorra, Graziano Rossi, Rossana Ruggeri, Donald Schneider, and Gong-Bo Zhao. Redshift-weighted constraints on primordial non-Gaussianity from the clustering of the eBOSS DR14 quasars in Fourier space. JCAP, 2019(9):010, September 2019.
+A. Cimatti, M. Robberto, C. Baugh, S. V. W. Beckwith, R. Content,
+E. Daddi, G. De Lucia, B. Garilli, L. Guzzo, G. Kauffmann, M. Lehn-ert, D. Maccagni, A. Mart´ınez-Sansigre, F. Pasian, I. N. Reid, P. Rosati,
+R. Salvaterra, M. Stiavelli, Y. Wang, M. Zapatero Osorio, M. Balcells,
+M. Bersanelli, F. Bertoldi, J. Blaizot, D. Bottini, R. Bower, A. Bulgar-elli, A. Burgasser, C. Burigana, R. C. Butler, S. Casertano, B. Ciardi,
+M. Cirasuolo, M. Clampin, S. Cole, A. Comastri, S. Cristiani, J. G. Cuby,
+F. Cuttaia, A. de Rosa, A. Diaz Sanchez, M. di Capua, J. Dunlop, X. Fan,
+A. Ferrara, F. Finelli, A. Franceschini, M. Franx, P. Franzetti, C. Frenk, Jonathan P. Gardner, F. Gianotti, R. Grange, C. Gruppioni, A. Gruppuso,
+F. Hammer, L. Hillenbrand, A. Jacobsen, M. Jarvis, R. Kennicutt, R. Kim-ble, M. Kriek, J. Kurk, J. P. Kneib, O. Le Fevre, D. Macchetto, J. MacK-enty, P. Madau, M. Magliocchetti, D. Maino, N. Mandolesi, N. Masetti,
+R. McLure, A. Mennella, M. Meyer, M. Mignoli, B. Mobasher, E. Moli-nari, G. Morgante, S. Morris, L. Nicastro, E. Oliva, P. Padovani, E. Palazzi,
+F. Paresce, A. Perez Garrido, E. Pian, L. Popa, M. Postman, L. Pozzetti,
+J. Rayner, R. Rebolo, A. Renzini, H. R¨ottgering, E. Schinnerer, M. Scodeg-gio, M. Saisse, T. Shanks, A. Shapley, R. Sharples, H. Shea, J. Silk,
+I. Smail, P. Span´o, J. Steinacker, L. Stringhetti, A. Szalay, L. Tresse,
+M. Trifoglio, M. Urry, L. Valenziano, F. Villa, I. Villo Perez, F. Walter,
+M. Ward, R. White, S. White, E. Wright, R. Wyse, G. Zamorani, A. Za-cchei, W. W. Zeilinger, and F. Zerbi. SPACE: the spectroscopic all-sky cosmic explorer. Experimental Astronomy, 23(1):39–66, March 2009.
+Roland de Putter, J´eroˆme Gleyzes, and Olivier Dor´e. Next non-Gaussianity frontier: What can a measurement with σ (fNL < 1 tell us about multifield inflation? Phys. Rev. D, 95(12):123507, June 2017.
+DESI Collaboration, Amir Aghamousa, Jessica Aguilar, Steve Ahlen, Shadab Alam, Lori E. Allen, Carlos Allende Prieto, James Annis, Stephen Bailey, Christophe Balland, Otger Ballester, Charles Baltay, Lucas Beau-fore, Chris Bebek, Timothy C. Beers, Eric F. Bell, Jos´e Luis Bernal, Robert Besuner, Florian Beutler, Chris Blake, Hannes Bleuler, Michael Blomqvist, Robert Blum, Adam S. Bolton, Cesar Briceno, David Brooks, Joel R. Brownstein, Elizabeth Buckley-Geer, Angela Burden, Etienne Burtin, Nicolas G. Busca, Robert N. Cahn, Yan-Chuan Cai, Laia Cardiel-Sas, Raymond G. Carlberg, Pierre-Henri Carton, Ricard Casas, Francisco J.
+
+20	Alain Blanchard et al.
+
+
+Castand er, Jorge L. Cervantes-Cota, Todd M. Claybaugh, Madeline Close, Carl T. Coker, Shaun Cole, Johan Comparat, Andrew P. Cooper, M. C. Cousinou, Martin Crocce, Jean-Gabriel Cuby, Daniel P. Cunningham, Tamara M. Davis, Kyle S. Dawson, Axel de la Macorra, Juan De Vi-cente, Timoth´ee Delubac, Mark Derwent, Arjun Dey, Govinda Dhungana, Zhejie Ding, Peter Doel, Yutong T. Duan, Anne Ealet, Jerry Edelstein, Sarah Eftekharzadeh, Daniel J. Eisenstein, Ann Elliott, St´ephanie Es-coffier, Matthew Evatt, Parker Fagrelius, Xiaohui Fan, Kevin Fanning, Arya Farahi, Jay Farihi, Ginevra Favole, Yu Feng, Enrique Fernandez, Joseph R. Findlay, Douglas P. Finkbeiner, Michael J. Fitzpatrick, Brenna Flaugher, Samuel Flender, Andreu Font-Ribera, Jaime E. Forero-Romero, Pablo Fosalba, Carlos S. Frenk, Michele Fumagalli, Boris T. Gaensicke, Giuseppe Gallo, Juan Garcia-Bellido, Enrique Gaztanaga, Nicola Pietro Gentile Fusillo, Terry Gerard, Irena Gershkovich, Tommaso Giannanto-nio, Denis Gillet, Guillermo Gonzalez-de-Rivera, Violeta Gonzalez-Perez, Shelby Gott, Or Graur, Gaston Gutierrez, Julien Guy, Salman Habib, Henry Heetderks, Ian Heetderks, Katrin Heitmann, Wojciech A. Hell-wing, David A. Herrera, Shirley Ho, Stephen Holland, Klaus Honscheid, Eric Huff, Timothy A. Hutchinson, Dragan Huterer, Ho Seong Hwang, Joseph Maria Illa Laguna, Yuzo Ishikawa, Dianna Jacobs, Niall Jeffrey, Patrick Jelinsky, Elise Jennings, Linhua Jiang, Jorge Jimenez, Jennifer Johnson, Richard Joyce, Eric Jullo, St´ephanie Juneau, Sami Kama, Armin Karcher, Sonia Karkar, Robert Kehoe, Noble Kennamer, Stephen Kent, Martin Kilbinger, Alex G. Kim, David Kirkby, Theodore Kisner, Ellie Ki-tanidis, Jean-Paul Kneib, Sergey Koposov, Eve Kovacs, Kazuya Koyama, Anthony Kremin, Richard Kron, Luzius Kronig, Andrea Kueter-Young, Cedric G. Lacey, Robin Lafever, Ofer Lahav, Andrew Lambert, Michael Lampton, Martin Land riau, Dustin Lang, Tod R. Lauer, Jean-Marc Le Goff, Laurent Le Guillou, Auguste Le Van Suu, Jae Hyeon Lee, Su-Jeong Lee, Daniela Leitner, Michael Lesser, Michael E. Levi, Benjamin L’Huillier, Baojiu Li, Ming Liang, Huan Lin, Eric Linder, Sarah R. Loeb-man, Zarija Luki´c, Jun Ma, Niall MacCrann, Christophe Magneville, Laleh Makarem, Marc Manera, Christopher J. Manser, Robert Marshall, Paul Martini, Richard Massey, Thomas Matheson, Jeremy McCauley, Patrick McDonald, Ian D. McGreer, Aaron Meisner, Nigel Metcalfe, Tim-othy N. Miller, Ramon Miquel, John Moustakas, Adam Myers, Milind Naik, Jeffrey A. Newman, Robert C. Nichol, Andrina Nicola, Luiz Nico-lati da Costa, Jundan Nie, Gustavo Niz, Peder Norberg, Brian Nord, Dara Norman, Peter Nugent, Thomas O’Brien, Minji Oh, Knut A. G. Olsen, Cristobal Padilla, Hamsa Padmanabhan, Nikhil Padmanabhan, Nathalie Palanque-Delabrouille, Antonella Palmese, Daniel Pappalardo, Isabelle Paˆris, Changbom Park, Anna Patej, John A. Peacock, Hiranya V. Peiris, Xiyan Peng, Will J. Percival, Sandrine Perruchot, Matthew M. Pieri, Richard Pogge, Jennifer E. Pollack, Claire Poppett, Francisco Prada, Abhishek Prakash, Ronald G. Probst, David Rabinowitz, Anand Rai-choor, Chang Hee Ree, Alexandre Refregier, Xavier Regal, Beth Reid,
+
+Gravitation And the Universe from large Scale-Structures	21
+
+
+Kevin Reil, Mehdi Rezaie, Constance M. Rockosi, Natalie Roe, Samuel Ronayette, Aaron Roodman, Ashley J. Ross, Nicholas P. Ross, Graziano Rossi, Eduardo Rozo, Vanina Ruhlmann-Kleider, Eli S. Rykoff, Cris-tiano Sabiu, Lado Samushia, Eusebio Sanchez, Javier Sanchez, David J. Schlegel, Michael Schneider, Michael Schubnell, Aur´elia Secroun, Uros Sel-jak, Hee-Jong Seo, Santiago Serrano, Arman Shafieloo, Huanyuan Shan, Ray Sharples, Michael J. Sholl, William V. Shourt, Joseph H. Silber, David R. Silva, Martin M. Sirk, Anze Slosar, Alex Smith, George F. Smoot, Debopam Som, Yong-Seon Song, David Sprayberry, Ryan Staten, Andy Stefanik, Gregory Tarle, Suk Sien Tie, Jeremy L. Tinker, Rita Tojeiro, Francisco Valdes, Octavio Valenzuela, Monica Valluri, Mariana Vargas-Magana, Licia Verde, Alistair R. Walker, Jiali Wang, Yuting Wang, Ben-jamin A. Weaver, Curtis Weaverdyck, Risa H. Wechsler, David H. Wein-berg, Martin White, Qian Yang, Christophe Yeche, Tianmeng Zhang, Gong-Bo Zhao, Yi Zheng, Xu Zhou, Zhimin Zhou, Yaling Zhu, Hu Zou, and Ying Zu. The DESI Experiment Part I: Science,Targeting, and Survey Design. arXiv e-prints, page arXiv:1611.00036, October 2016.
+M. Garcia-Fernandez, E. Sanchez, I. Sevilla-Noarbe, E. Suchyta, E. M. Huff, E. Gaztanaga, Aleksi´c, J. , R. Ponce, F. J. Castander, B. Hoyle,
+T. M. C. Abbott, F. B. Abdalla, S. Allam, J. Annis, A. Benoit-L´evy,
+G. M. Bernstein, E. Bertin, D. Brooks, E. Buckley-Geer, D. L. Burke,
+A. Carnero Rosell, M. Carrasco Kind, J. Carretero, M. Crocce, C. E. Cunha, C. B. D’Andrea, L. N. da Costa, D. L. DePoy, S. Desai, H. T. Diehl, T. F. Eifler, A. E. Evrard, E. Fernandez, B. Flaugher, P. Fosalba,
+J. Frieman, J. Garc´ıa-Bellido, D. W. Gerdes, T. Giannantonio, D. Gruen,
+R. A. Gruendl, J. Gschwend, G. Gutierrez, D. J. James, M. Jarvis, D. Kirk,
+E. Krause, K. Kuehn, N. Kuropatkin, O. Lahav, M. Lima, N. MacCrann,
+M. A. G. Maia, M. March, J. L. Marshall, P. Melchior, R. Miquel, J. J. Mohr, A. A. Plazas, A. K. Romer, A. Roodman, E. S. Rykoff, V. Scarpine,
+M. Schubnell, R. C. Smith, M. Soares-Santos, F. Sobreira, G. Tarle,
+D. Thomas, A. R. Walker, W. Wester, and DES Collaboration. Weak lensing magnification in the Dark Energy Survey Science Verification data. MNRAS, 476(1):1071–1085, May 2018.
+Basundhara Ghosh and Ruth Durrer. The observable Eg statistics. JCAP, 1906(06):010, 2019.
+Elena Giusarma, Martina Gerbino, Olga Mena, Sunny Vagnozzi, Shirley Ho, and Katherine Freese. Improvement of cosmological neutrino mass bounds. Phys. Rev. D, 94(8):083522, October 2016.
+Steen Hannestad. Neutrino mass bounds from cosmology. Nuclear Physics B Proceedings Supplements, 145:313–318, August 2005.
+G. W. Horndeski. Second-Order Scalar-Tensor Field Equations in a Four-Dimensional Space. International Journal of Theoretical Physics, 10:363–384, September 1974.
+Zˇ. Ivezi´c, S. M. Kahn, J. A. Tyson, B. Abel, E. Acosta, R. Allsman,
+D. Alonso, Y. AlSayyad, S. F. Anderson, J. Andrew, and et al. LSST: From Science Drivers to Reference Design and Anticipated Data Products.
+
+22	Alain Blanchard et al.
+
+
+Ap.J., 873:111, March 2019.
+Shahab Joudaki, Chris Blake, Andrew Johnson, Alexandra Amon, Marika Asgari, Ami Choi, Thomas Erben, Karl Glazebrook, Joachim Harnois-D´eraps, Catherine Heymans, Hendrik Hildebrandt, Henk Hoekstra, Do-minik Klaes, Konrad Kuijken, Chris Lidman, Alexander Mead, Lance Miller, David Parkinson, Gregory B. Poole, Peter Schneider, Massimo Vi-ola, and Christian Wolf. KiDS-450 + 2dFLenS: Cosmological parameter constraints from weak gravitational lensing tomography and overlapping redshift-space galaxy clustering. MNRAS, 474(4):4894–4924, March 2018.
+Nick Kaiser, Gillian Wilson, and Gerard A. Luppino. Large-Scale Cos-mic Shear Measurements. arXiv e-prints, pages astro–ph/0003338, March 2000.
+T. Kaluza. Zum Unita¨tsproblem der Physik. Sitzungsberichte der K¨oniglich Preuftischen Akademie der Wissenschaften (Berlin), Seite
+p. 966-972, pages 966–972, 1921.
+E. Kiritsis and G. Kofinas. Hoˇrava-Lifshitz cosmology. Nuclear Physics B, 821:467–480, November 2009.
+Michael L. Lampton, Michael J. Sholl, and Michael E. Levi. Off-axis telescopes for dark energy investigations. In Jr. Oschmann, Jacobus M., Mark C. Clampin, and Howard A. MacEwen, editors, Space Telescopes and Instrumentation 2010: Optical, Infrared, and Millimeter Wave, vol-ume 7731 of Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, page 77311G, July 2010.
+Julien Lesgourgues and Sergio Pastor. Massive neutrinos and cosmology. Phys. Rep., 429(6):307–379, July 2006.
+LIGO Scientific Collaboration, Virgo Collaboration, B. P. Abbott, and et al. GW170817: Observation of Gravitational Waves from a Binary Neutron Star Inspiral. Phys. Rev. Lett., 119(16):161101, October 2017.
+C. Lin, S. Mukohyama, R. Namba, and R. Saitou. Hamiltonian structure of scalar-tensor theories beyond Horndeski. J. Cosmology Astropart. Phys., 10:071, October 2014.
+D. Lovelock. The Einstein Tensor and Its Generalizations. Journal of Mathematical Physics, 12:498–501, March 1971.
+John W. MacKenty, IV Ohl, Raymond G., Matthew A. Greenhouse, and Richard F. Green. Commissioning of the IRMOS MEMS spectrometer. In Ian S. McLean and Masanori Iye, editors, Society of Photo-Optical Instru-mentation Engineers (SPIE) Conference Series, volume 6269 of Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, page 626915, June 2006.
+Planck Collaboration, Y. Akrami, F. Arroja, M. Ashdown, J. Aumont,
+C. Baccigalupi, M. Ballardini, A. J. Banday, R. B. Barreiro, N. Bar-tolo, S. Basak, K. Benabed, J. P. Bernard, M. Bersanelli, P. Bielewicz,
+J. R. Bond, J. Borrill, F. R. Bouchet, M. Bucher, C. Burigana, R. C. Butler, E. Calabrese, J. F. Cardoso, B. Casaponsa, A. Challinor, H. C. Chiang, L. P. L. Colombo, C. Combet, B. P. Crill, F. Cuttaia, P. de Bernardis, A. de Rosa, G. de Zotti, J. Delabrouille, J. M. Delouis,
+
+Gravitation And the Universe from large Scale-Structures	23
+
+
+E. Di Valentino, J. M. Diego, O. Dor´e, M. Douspis, A. Ducout, X. Du-pac, S. Dusini, G. Efstathiou, F. Elsner, T. A. Enßlin, H. K. Eriksen,
+Y. Fantaye, J. Fergusson, R. Fernand ez-Cobos, F. Finelli, M. Frailis,
+A. A. Fraisse, E. Franceschi, A. Frolov, S. Galeotta, K. Ganga, R. T. G´enova-Santos, M. Gerbino, J. Gonz´alez-Nuevo, K. M. Go´rski, S. Grat-ton, A. Gruppuso, J. E. Gudmundsson, J. Hamann, W. Hand ley, F. K. Hansen, D. Herranz, E. Hivon, Z. Huang, A. H. Jaffe, W. C. Jones,
+G. Jung, E. Keih¨anen, R. Keskitalo, K. Kiiveri, J. Kim, N. Krachmalni-coff, M. Kunz, H. Kurki-Suonio, J. M. Lamarre, A. Lasenby, M. Lattanzi,
+C. R. Lawrence, M. Le Jeune, F. Levrier, A. Lewis, M. Liguori, P. B. Lilje,
+V. Lindholm, M. Lo´pez-Caniego, Y. Z. Ma, J. F. Mac´ıas-P´erez, G. Mag-gio, D. Maino, N. Mand olesi, A. Marcos-Caballero, M. Maris, P. G. Mar-tin, E. Mart´ınez-Gonz´alez, S. Matarrese, N. Mauri, J. D. McEwen, P. D. Meerburg, P. R. Meinhold, A. Melchiorri, A. Mennella, M. Migliaccio,
+M. A. Miville-Deschˆenes, D. Molinari, A. Moneti, L. Montier, G. Mor-gante, A. Moss, M. Mu¨nchmeyer, P. Natoli, F. Oppizzi, L. Pagano, D. Pao-letti, B. Partridge, G. Patanchon, F. Perrotta, V. Pettorino, F. Piacentini,
+G. Polenta, J. L. Puget, J. P. Rachen, B. Racine, M. Reinecke, M. Re-mazeilles, A. Renzi, G. Rocha, J. A. Rubin˜o-Mart´ın, B. Ruiz-Granados,
+L. Salvati, M. Savelainen, D. Scott, E. P. S. Shellard, M. Shiraishi, C. Sirig-nano, G. Sirri, K. Smith, L. D. Spencer, L. Stanco, R. Sunyaev, A. S. Suur-Uski, J. A. Tauber, D. Tavagnacco, M. Tenti, L. Toffolatti, M. Tomasi,
+T. Trombetti, J. Valiviita, B. Van Tent, P. Vielva, F. Villa, N. Vittorio,
+B. D. Wandelt, I. K. Wehus, A. Zacchei, and A. Zonca. Planck 2018 re-sults. IX. Constraints on primordial non-Gaussianity. arXiv e-prints, page arXiv:1905.05697, May 2019.
+Geraint Pratten, Dipak Munshi, Patrick Valageas, and Philippe Brax. 3D weak lensing: Modified theories of gravity. Phys. Rev. D, 93(10):103524, May 2016.
+Anthony R. Pullen, Shadab Alam, Siyu He, and Shirley Ho. Constraining gravity at the largest scales through CMB lensing and galaxy velocities. Mon. Not. Roy. Astron. Soc., 460(4):4098–4108, August 2016.
+B. Ratra and P. J. E. Peebles. Cosmological consequences of a rolling homogeneous scalar field. Phys. Rev. D, 37:3406–3427, June 1988.
+J. Renk, M. Zumalac´arregui, F. Montanari, and A. Barreira. Galileon gravity in light of ISW, CMB, BAO and H0 data. J. Cosmology Astropart. Phys., 10:020, October 2017.
+J. Richard, J. P. Kneib, C. Blake, A. Raichoor, J. Comparat, T. Shanks,
+J. Sorce, M. Sahl´en, C. Howlett, E. Tempel, R. McMahon, M. Bilicki,
+B. Roukema, J. Loveday, D. Pryer, T. Buchert, C. Zhao, and CRS Team. 4MOST Consortium Survey 8: Cosmology Redshift Survey (CRS). The Messenger, 175:50–53, March 2019.
+David Schlegel, Juna A. Kollmeier, and Simone Ferraro. The MegaMap-per: a z¿2 spectroscopic instrument for the study of Inflation and Dark Energy. In Bulletin of the American Astronomical Society, volume 51, page 229, September 2019.
+
+24	Alain Blanchard et al.
+
+
+Balasubramanian Singaravelu and Remi A. Cabanac. Obstructed Tele-scopes Versus Unobstructed Telescopes for Wide Field Survey—A Quan-titative Analysis. PASP, 126(938):386, April 2014.
+M. Tristram, A. J. Banday, K. M. Go´rski, R. Keskitalo, C. R. Lawrence,
+K. J. Andersen, R. B. Barreiro, J. Borrill, H. K. Eriksen, R. Fernandez-Cobos, T. S. Kisner, E. Mart´ınez-Gonz´alez, B. Partridge, D. Scott, T. L. Svalheim, H. Thommesen, and I. K. Wehus. Planck constraints on the tensor-to-scalar ratio. arXiv e-prints, page arXiv:2010.01139, October 2020.
+L. Van Waerbeke, Y. Mellier, T. Erben, J. C. Cuillandre, F. Bernardeau,
+R. Maoli, E. Bertin, H. J. McCracken, O. Le F`evre, B. Fort, M. Dantel-Fort, B. Jain, and P. Schneider. Detection of correlated galaxy ellipticities from CFHT data: first evidence for gravitational lensing by large-scale structures. A&A, 358:30–44, June 2000.
+Martina Vicinanza, Vincenzo F. Cardone, Roberto Maoli, Roberto Scaramella, Xinzhong Er, and Ismael Tereno. Minkowski functionals of convergence maps and the lensing figure of merit. Phys. Rev. D, 99(4):043534, February 2019.
+Yun Wang, Rachel Bean, Peter Behroozi, Chia-Hsun Chuang, Ian Dell’antonio, Mark Dickinson, Olivier Dore, Daniel Eisenstein, Ryan Foley, Karl Glazebrook, Luigi Guzzo, Christopher Hirata, Shirley Ho, Michael Hudson, Bhuvnesh Jain, Priyamvada Natarajan, Jeff Newman, Alvaro Orsi, Nikhil Padmanabhan, John Peacock, Will Percival, Jason Rhodes, Eduardo Rozo, Lado Samushia, Dan Scolnic, Hee-Jong Seo, David Spergel, Michael Strauss, Risa Wechsler, and David Weinberg. Illuminating the dark universe with a very high density galaxy redshift survey over a wide area. BAAS, 51(3):508, May 2019.
+S. Weinberg. The cosmological constant problem. Reviews of Modern Physics, 61:1–23, January 1989.
+S. Yahya, P. Bull, M. G. Santos, M. Silva, R. Maartens, P. Okouma, and
+B. Bassett. Cosmological performance of SKA H I galaxy surveys. MN-RAS, 450(3):2251–2260, July 2015.
+Pengjie Zhang, Michele Liguori, Rachel Bean, and Scott Dodelson. Prob-ing Gravity at Cosmological Scales by Measurements which Test the Relationship between Gravitational Lensing and Matter Overdensity. Phys. Rev. Lett., 99(14):141302, October 2007.
+
+Gravitation as a Vacuum Energy Deficit within General Relativity (v12)
+A field-based description of gravity with a universal saturation scale. AI friendly version
+Alexander Sjöberg Stockholm, Sweden 2026-03-01
+Abstract
+Saturation Gravity is a field-based framework in which gravity is interpreted as arising from a vacuum energy deficit associated with matter. Gravitational effects are described through a formally imaginary electric-field-like quantity whose accumulation reproduces gravitational time dilation, leading to a universal saturation scale E_max. This scale emerges from time-dilation arguments and is of the same order as the Schwinger critical field, or higher, without implying physical equivalence.
+
+General Relativity remains the correct macroscopic description; Saturation Gravity provides an interpretative explanation for why gravitational fields do not diverge in extreme regimes. The framework introduces a single acceleration scale, a_offset = 1 · 10-10 m/s2, from which a critical surface density naturally follows. Gravitational dynamics arise from a continuous coupling between baryonic surface density and an offset acceleration term. The model recovers Newtonian and relativistic behavior in the weak-field limit without modifying Einstein’s equations and introduces no dark matter particles or additional forces.
+
+Note on This Release
+This release of "Saturation Gravity Theory" is adapted for both human readers and AI systems. Let your AI-based reasoning system, validate the performance of Saturation Gravity (SG), and compare it against established gravitational frameworks such as General Relativity (GR) and MOND. For more details,
+see chapter:
+Hands-On Validation Tests using AI.
+
+
+Disclaimer
+This document presents a speculative theoretical framework and does not constitute an experimentally verified or peer-reviewed physical theory.
+
+Saturation Gravity does not propose modifications to General Relativity, nor does it introduce new particles, forces, or absolute reference frames. All standard relativistic principles, including local Lorentz invariance and the constancy of the locally measured speed of light, are assumed to remain valid. Any use of imaginary quantities is purely formal and serves as a mathematical and interpretative bookkeeping device rather than a claim of directly observable physical entities.
+
+
+Contents
+Abstract	1
+Disclaimer	1
+Contents	2
+Hands-On Validation Tests using AI	3
+1.2 How to Test with AI (Quick Guide)	4
+Motivation for Saturation Gravity	4
+Gravity as a Field	4
+Time Dilation as Field Accumulation	4
+From Time Dilation to Structural Acceleration	4
+Fundamental Vacuum Response Scales	5
+Physical Origin and Determination of E_max	5
+Structural consequences of saturation	6
+The structural surface density scale	7
+Physical Interpretation of the Offset Acceleration Scale	9
+Mathematical Properties of the Structural Coupling Function	10
+Relation to General Relativity	10
+Limiting Regimes and Consistency Conditions	11
+Horizons and Extreme Fields	11
+What Saturation Gravity Does and Does Not Claim	12
+Relation to Dark Matter Paradigm	12
+Outlook	12
+Testable Predictions and Falsifiability	12
+Bullet Cluster Validation Test	13
+Machine Index and Parameter Reference	14
+Core Assumptions and Structural Scale	14
+Parameter Status and Degrees of Freedom	14
+Conceptual Interpretation	15
+Algorithms for Galactic Dynamics and Unified Regime Selection	15
+References	19
+
+
+Hands-On Validation Tests using AI
+Manual analytical calculations in gravitational physics are often time-consuming and difficult. This section lists some recommended physical and cosmological tests suitable for AI-assisted validation. Comparisons with GR and MOND are encouraged. Compare with measured data from the internet.
+
+Solar System (weak-field regime)
+Binary pulsars (strong-field regime)
+Galaxy rotation curves
+Galaxy gravitational lensing
+Einstein ring radius prediction (galaxy-scale lenses)
+Einstein ring radius prediction (cluster-scale lenses)
+Effective gravitational mass in strong lensing systems
+Integrated Sachs–Wolfe (ISW) effect
+Cosmic voids — acceleration
+Cosmic voids — lensing
+Ultra-diffuse galaxies (e.g. Dragonfly 44)
+Intrinsic acceleration scale
+Structural continuity across gravitational mass scales
+E-max, from several GPS time dilation measurements
+σ_los for various galaxies
+
+
+AI Capability Requirements
+The algorithms defined in Chapter 10 are deterministic and require only standard arithmetic operations and consistent unit handling. They do not depend on any specific AI system. AI tools may be used as convenient computational assistants to automate unit conversion, parameter handling, and numerical evaluation. However, the correctness of the results depends solely on the algorithm itself, not on the particular AI implementation.
+
+Any system capable of executing structured mathematical instructions or equivalent code (including standard programming environments or AI systems) can reproduce the results.
+
+Higher-reliability computational systems may reduce the risk of implementation errors, but no system-specific tuning, training, or optimization is required.
+
+1.2 How to Test with AI (Quick Guide)
+Upload this document to an AI system capable of structured reasoning.
+For example, find the name of a Galaxy you want to verify SG with.
+Instruct AI to compare the SG calculated data from this Galaxy, with the observed results from internet.
+Do not modify parameters unless explicitly justified.
+
+
+Motivation for Saturation Gravity
+General Relativity provides an exceptionally successful geometric description of gravity, yet leaves open the question of why gravitational fields remain finite in extreme regimes.
+Saturation Gravity proposes that this finiteness arises from a universal vacuum saturation mechanism. It also includes a structural reinterpretation of large-scale gravitational phenomena based on a universal surface-density coupling scale. The framework does not modify General Relativity, but offers an interpretative explanation for the robustness of its predictions.
+
+Gravity as a Field
+Gravitational effects are represented using a formally imaginary, electric-field–like quantity E_g. This representation functions as a bookkeeping description of a vacuum energy deficit associated with mass–energy. It does not correspond to a radiative electromagnetic field, and the imaginary character enforces a strict separation between gravitational and electromagnetic sectors.
+
+Time Dilation as Field Accumulation
+Gravitational time dilation is interpreted as a cumulative field effect arising from the integrated gravitational influence between a reference point at infinity and a given radius r:
+
+dτ/dt = exp[ − (1/𝓔_max) ∫∞^r |E_g(r′)| dr′ ]
+
+In the weak-field limit, this expression reduces to the Schwarzschild result dτ/dt ≈ 1 − GM/(r c²).
+
+From Time Dilation to Structural Acceleration
+The Saturation Gravity framework originates from the interpretation of gravitational time dilation as a cumulative vacuum response to mass–energy. In this formulation, proper time is expressed as an exponential function of the integrated gravitational bookkeeping field.
+The existence of a universal saturation scale ensures that this accumulation remains finite.
+
+This saturation scale implies that the vacuum response to gravitational influence cannot
+
+grow without bound. As a result, gravitational dynamics must transition from a purely local Newtonian regime to a structurally coupled regime governed by vacuum response limits.
+This leads naturally to the emergence of a universal structural acceleration scale, a_offset, which represents the minimum persistent vacuum curvature response associated with baryonic mass distributions.
+
+The effective gravitational acceleration therefore arises from two components: the classical Newtonian acceleration and a structural vacuum response contribution. This unified formulation ensures continuity across all gravitational regimes while preserving consistency with General Relativity in the weak-field limit.
+
+
+
+Fundamental Vacuum Response Scales
+This section introduces the fundamental structural scales of the Saturation Gravity framework, including the universal saturation scale E_max, the emergent acceleration scale a_offset, and the derived surface density scale Σ_crit. These scales define the finite vacuum response and govern gravitational dynamics across all regimes.
+
+Physical Origin and Determination of E_max
+A central assumption of the Saturation Gravity framework is the existence of a finite vacuum response scale E_max. This scale limits cumulative gravitational vacuum response and prevents unbounded growth of field accumulation.
+dτ/dt = exp[ - (1/E_max) ∫_∞^r |E_g(r')| dr' ]
+A finite E_max ensures bounded exponential suppression and connects horizon formation to vacuum saturation rather than divergent curvature.
+Comparison with Known Physical Scales
+The saturation scale can be placed in context by comparing it with well-known physical field scales.
+
+Scale
+	Approximate Magnitude (V/m)
+	Physical Interpretation
+	
+	Schwinger limit
+	1.3 × 1018
+	QED vacuum pair-production threshold
+	
+	SG inferred saturation scale
+	~1019 – 1020

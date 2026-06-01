@@ -1,0 +1,1243 @@
+vanish.
+A configuration under consideration can be the universe. Then, according to this theory, the motion of a subsystem, approximated as a point particle, obeys the law of motion (23). Besides the usual 4-dimensional gravity, there are extra forces. They come from the generalized metric, i.e., the metric of configuration space. Since the inertial mass of a given particle depends on momenta of other particles and their states of motion (their momenta), the Mach principle is automatically incorporated in this theory. Such approach opens a Pandora’s box of possibilities to revise our current views on the universe. Persisting problems, such as the horizon problem, dark matter, dark energy, the Pioneer effect, etc., can be examined afresh within this theoretical framework based on the concept of configuration space.
+Locality, as we know it in the usual 4-dimensional relativity, no longer holds in this new theory, at least not in general. But in particular, when the metric of C assumes the block diagonal form (5), we recover the ordinary relativity (special and general), together with locality. However, it is reasonable to expect that metric (5) may not be a solution of the Einstein equations in C. Then the ordinary relativity, i.e., the relativity in M4, could be recovered as an approximation only. Even before going into the intricate work of solving the equations of general relativity in C, we already have a crucial prediction, namely that locality in spacetime holds only approximately. When considering the universe within
+
+this theory, we have to bear in mind that the concept of spacetime has to be replaced by the concept of configuration space C. Locality in M4 has thus to be replaced by locality in C. More technically this means that, instead of differential equations in M4 (e.g., the Einstein equations), we have differential equations in C: a given configuration (a point in C) can only influence a nearby configuration (a nearby point in C). Only in certain special cases this translates into the usual notion of locality in M4 (a subspace of C). The so called ‘horizon problem’ does not arise in this theory.
+
+Configuration spaces associated with strings and branes
+Instead of a system of point particles we can consider extended objects such as strings and, in general, branes. A brane configuration is described by the set of functions Xµ(ξa), where ξa, a = 1, 2, ..., n is a set of parameters on the brane. We will consider a brane configuration as a point in an infinite dimensional configuration space, called brane space
+M. Following refs. [4, 5, 3], we will therefore use a condensed notation
+Xµ(ξa) ≡ Xµ(ξ) ≡ XM	(26)
+We assume that the branes within classes of tangentially deformed branes are in principle physically distinct objects. All such objects are represented by different points of M-space.
+Instead of one brane we can take a 1-parameter family of branes Xµ(τ, ξa) ≡ Xµ(ξ)(τ ) ≡ XM (τ ), i.e., a curve (trajectory) in M. In principle every trajectory is kinematically possible. A particular dynamical theory then selects which amongst those kinematically possible branes and trajectories are dynamically possible. We assume that dynamically possible trajectories are geodesics in M determined by the minimal length
+action [4, 5]:
+I[XM ] = ∫ dτ (ρMN X˙ M X˙ N )(1/2)	(27)
+Here ρMN is the metric of M. In particular, if metric is
+
+
+
+/
+|f (ξ′)|
+ρMN ≡ ρµ(ξ′ )ν(ξ′′) = κ
+X˙ 2 (ξ′)
+δ(ξ′
+
+— ξ′′
+) ηµν	(28)
+
+where fab ≡ ∂aXµ∂bXνηµν is the induced metric on the brane, f ≡ det fab, X˙ 2 ≡
+X˙ µX˙ νgµν, (ηµν being the Minkowski metric of the embedding spacetime), then the equa-tions of motion derived from (30) are precisely those of a Dirac-Nambu-Goto brane [4, 5]. Although we started from a brane configuration space in which tangetially deformed
+branes are considered as distinct objects, the dynamical theory based on the action (27) and the particular choice of metric (28) has for solutions the branes which satisfy such constraints which imply that only the transversal excitations are physical, whereas the
+
+tangential excitations are nothing but reparametrizations of ξa and τ . For more details see ref. [4].
+In this theory we assume that metric (28) is just one particular choice amongst many other possible metrics of M. But dynamically possible metrics are not arbitrary. We assume that they must be solutions of the Einstein equations in M [4, 5].
+We take the brane space M as an arena for physics. The arena itself is a part of the dynamical system, it is not prescribed in advance. The theory is thus background independent. It is based on the geometric principle which has its roots in the brane space M.
+To sum up, the infinite dimensional brane space M has in principle any metric that is a solution to the Einstein’s equations in M. For the particular diagonal metric (28) we obtain the ordinary branes, including strings. But it remains to be checked whether such particular metric is a solution of this generalized dynamical system at all. If not, then this would mean that the ordinary string and brane theory is not exactly embedded into the theory based on dynamical M-space. The proposed theory goes beyond that of the usual strings and branes. It resolves the problem of background independence and the geometric principle behind the string theory . Geometric principle behind the string theory is based on the concept of brane space M, i.e., the configuration space for branes. Occurrence of gauge and gravitational fields in string theories is also elucidated. Such fields are due to string configurations. They occur in the expansion of a string state functional in terms of the Fock space basis. A novel insight is that they occur even within the classical string theory based on the action (27) with M-space metric ρMN , which is dynamical and satisfies the Einstein equations in M. Multidimensionality of ρMN allows for extra gauge interactions, besides gravity. In the following we will discuss how in the infinite dimensional space M one can factor out a finite dimensional subspace.
+
+Finite dimensional description of extended objects
+As an example let us consider a closed string. It has infinitely many degrees of freedom encoded in Xµ(ξa). But in first approximation we can describe it by four coodinates Xµ of the center of mass only. In the next approximation we can describe it in terms of the coordinates Xµ1 µ2 of the oriented area enclosed by the string. If the string has finite thickness, and thus it actually is not a string but a 2-brane, then we can also consider the corresponding volume degrees of freedom Xµ1 µ2 µ3 .
+In general, an extended object in 4-dimensional spacetime can be described by 16 coordinates
+XM ≡ Xµ1 ...µr ,	r = 0, 1, 2, 3, 4	(29)
+They denote a point in a 16-dimensional space C, which is a subspace of the full infinite dimensional space M, the configuration space of the considered extended object. The oriented r-volumes can be elegantly described [7]–[9] by Clifford algebra [6]. We thus consider a space C as a manifold whose tangent space at any point is Clifford algebra. The line element in C is
+dS2 = GMN dxM dxN	(30)
+
+where GMN now denotes the metric of C. The latter space is called ‘Clifford space’.
+A worldine xM = XM (τ ) in C is associated with the motion of the extended object, e.g., a brane. Let the action be
+I = ∫ dτ (GMN X˙ M X˙ N )1/2	(31)
+
+If GMN = ηMN is Minkowski metric, then the equations of motion are
+
+
+X¨ M ≡
+d2XM
+dτ 2	=  0	(32)
+
+They hold for tensionless branes. For the branes with tension one has to replace ηMN with a generic metric GMN with non vanishing curvature. Eq. (32) then generalizes to the corresponding geodesic equation
+
+
+  1	
+√X˙ 2
+X˙ M
+√X˙ 2
+X˙ J X˙ K
+M	= 0	(33)
+JK	X˙ 2
+
+Such higher dimensional configuration space, associated with branes, enables unification of fundamental interactions `a la Kaluza-Klein [10, 8].
+Functions XM (τ ) are just like functions describing the worldline of a point particle. The four values of the index M = µ = 0, 1, 2, 3 in fact correspond to the motion of a point particle in 4-dimensional spacetime M4. The other values of the index M = µ1...µr for r = 0 (a scalar), r = 2 (bivector), r = 3 (3-vector) and r = 4 (4-vector) are associated with the particle’s ‘thickness’. From the point of view of spacetime M4 we have thus a thick particle, and not a point particle. The thickness is encoded in 16 coordinates XM . The elegance of this approach is in the fact that a thick particle in 4-dimensional spacetime M4 can be described as a point particle in 16-dimensional Clifford space C.
+Besides a point particle in Clifford space C that sweeps a wordline XM (τ ) in C, we can envisage a string in C that sweeps a worldsheet XM (τ, σ) in C. The four values of the index M = µ = 0, 1, 2, 3 correspond to a string in spacetime M4. The rest of the indices M = µ1...µr, r = 0, 2, 3, 4 label those coordinates which encode the object’s thickness. From the point of view of spacetime M4 the object is a thick string. Usual strings are infinitely thin objects. Despite being called ‘extended objects’, they are in fact not fully extended. Instead of infinitely thin strings we thus consider thick strings. Their thickness is encoded in coordinates XM ≡ Xµ1 ...µr .
+We thus have objects which are strings in a 16-dimensional space C. They are de-scribed by the Nambu-Goto action, or, equivalently, by the Polyakov action which, in the conformal gauge, takes the form
+
+
+
+
+
+where X˙ M ≡ dXM
+dτ
+I = κ	dτ dσ(X˙ M X˙ N − X′M X′N )G
+2	MN
+
+and X′M ≡ dXM .
+dσ
+(34)
+
+If the signature of the underlying space time is +−−−, i.e., (1, 3), then the signature of
+C is (8, 8) [11]. By taking the Jackiw-Kim-Noz definition of vacuum [12, 14], one finds [11]
+
+that there are no central terms in the Virasoro algebra, if the D-dimensional space in which the string lives has signature (D/2, D/2).
+Instead of adding extra dimensions to spacetime, we can thus start from 4-dimensional spacetime M4 with signature (+−−−) and consider the Clifford space C whose dimension is 16, and signature (8, 8). The necessary extra dimensions for consistency of string theory are in C-space. This also automatically brings spinors into the game. It is an old observation that spinors are the elements of left or right ideals of Clifford algebras [15]–
+[17] (see also, e.g, refs. [18]–[20]). In other words, spinors are particular sort of Clifford numbers [4]. With the string coordinates XM = (X, Xµ, Xµν, ...) we can associate the basis of Clifford algebra γM = (1, γµ, γµν, ...), and consider the Clifford numbers XM γM that we call ‘polyvectors’2. Therefore, the string coordinate polyvectors XM γM contain spinors. This is an alternative way of introducing spinors into the string theory [4, 11]. Attempts to achieve a deeper understanding of the structure of supersymmetry within the context of Clifford algebras have been undertaken in refs. [20, 21].
+
+Conclusion
+In this paper we have considered the concept of the space of all possible matter config-urations. If one assumes that positions of all particles are fixed and only the position of one particle is variable, then one has the space of all possible positions of the single particle. This is just the 4-dimensional spacetime. But the latter space is not the whole story, since it is only a subspace of a more general configuration space. What we have missed so far is to employ this more general space in our theoretical considerations. It is true that certain researchers have considered configuration spaces, but the idea has not yet been generally accepted. So far we have been stuck by the fact that we as observers, when moving around, explore only four dimensional spacetime. Such, intuitively reason-able notion, that physical space is associated with the degrees of freedom of a single point particle, has to be revised. There are many particles around, and all their degrees of freedom count; moreover, the particles are actually not point-like, but extended. Thus we have a multidimensional space with the prospect for the unification of gravity with other interactions.
+
+Acknowledgement
+This work was supported by the Ministry of High Education, Science, and Technology of Slovenia.
+
+2 It custummary to describe position in a flat space by vectors. If the space is a“curved” D-dimensional manifold, then its points can be described in terms of vectors belonging to a vector space RD which, in particular can be the tangent space at a chosen point of the manifold. In the case of a curved Clifford space C its points are described in terms of ‘polyvectors’ which are the elements of a Clifford algebra Cl(8,8), a tangent space at a chosen point— “an origin”—of C.
+
+References
+Barbour J B 1994 Class. Quant. Grav. 11 2853
+Barbour J B 1994 Class. Quant. Grav. 11 2875
+Barbour J B 2002 Class. Quant. Grav. 19 3217
+Barbour J B 2000 The End Of Time: The Next Revolution In Physics (Oxford, UK: Univ. Pr.)
+Barbour J B and B. Z. Foster B Z 2008 Constraints and gauge transformations: Dirac’s theorem is not always valid Preprint 0808.1223 [gr-qc]
+Anderson E 2007 Class. Quant. Grav. 24 5317
+Anderson E 2008 Triangleland. I. Classical dynamics with exchange of relative angular momentum Preprint 0809.1168 [gr-qc]]
+Anderson E Triangleland. II. Quantum Mechanics of Pure Shape Preprint 0809.3523 [gr-qc]
+Pavˇsiˇc M 2007 Towards a New Paradigm: Relativity in Configuration Space Preprint 0712.3660 [gr-qc], published in Proceedings of the 2nd International Confeerence on Time and Matter, 26–31 August 2007, Bled Slovenia (Eds. O’Loughlin M, Staniˇc S, Veberiˇc D)
+Pavˇsiˇc M 2001 The Landscape of Theoretical Physics: A Global View; From Point Particle to the Brane World and Beyond, in Search of Unifying Principle (Dordrecht: Kluwer)
+Pavˇsiˇc M 2003 General Principles of Brane Kinematics and Dynamics Preprint hep-th/0311060, published in Proceedings of the EURESCO conference ‘What comes be-yond the Standard Model’, 12-17 July 2003, Portoroˇz, Slovenia (Eds. Mankoˇc Borˇstnik N, Nielsen H B, Froggatt C D, Lukman D)
+Hestenes D 1966 Space-Time Algebra ( New York: Gordon and Breach)
+Hestenes D and Sobcyk G 1984 Clifford Algebra to Geometric Calculus (Dordrecht: D. Reidel)
+Pavˇsiˇc M 2003 Found. Phys. 33 1277 (Preprint gr-qc/0211085)
+Pavˇsiˇc M 2007 Found. Phys. 37 1197 (Preprint hep-th/0605126)
+Castro C and Pavˇsiˇc M 2005 Prog. Phys. 1 31
+Pavˇsiˇc M 2005 Phys. Lett. B 614 85 (Preprint	)
+Pavˇsiˇc M 2006 Int. J. Mod. Phys. A 21 5905 (Preprint gr-qc/0507053)
+Pavˇsiˇc M 2005 Found. Phys. 35 1617 (Preprint hep-th/0501222)
+Cangemi D, Jackiw R and Zwiebach B 1996 Annals of Physics 245 408 Benedict E, Jackiw R and Lee H J 1996 Phys. Rev. D 54 6213
+Kim Y S and Noz M E 1973 Phys. Rev. D 8 3521 Kim Y S and Noz M E 1975 Phys. Rev. D 12 122
+Pavˇsiˇc M 1999 Phys. Lett. A 254 119 (Preprint hep-th/9812123)
+Teitler S 1965 Supplemento al Nuovo Cimento III 1 Teitler S 1965 Supplemento al Nuovo Cimento III 15
+
+Budinich P and Trautman A 1989 Journal of Mathematical Physics 30 2125
+Lounesto P 2001 Cifford Algebras and Spinors (Cambridge: University Press)
+Mankoˇc Borˇstnik N and Nielsen H B 2003 J. Math. Phys. 44 4817 (Preprint
+Winnberg J O 1977 J. Math. Phys. 18 625
+de Traubenberg M R 2005 Clifford Algebras in Physics Preprint
+Gates S, Jr., Linch W D and Phillips J 2003 When Superspace Is Not Enough Preprint
+Corwin L 1975 Rev. Mod. Phys. 47 573
+
+Apeiron, Vol. 14, No. 4, October 2007	320
+
+
+
+Unified Field Theory – Paper I
+Gravitational, Electromagnetic, Weak & the Strong Force.
+
+Golden Gadzirayi Nyambuya
+North-West University -Potchefstroom Campus, School of Physics - Unit for Space Research, Potchefstroom, Republic of South Africa.
+Email: gadzirai@gmail.com
+
+I propose a Unified Field Theory of the Gravitational, Elec-tromagnetic, Weak & the Strong force. A new force that obeys S U(4) symmetry emerges and this new force con-stitutes the testable prediction of the theory. The theory rests on a new spacetime geometry with tensorial affine connections and this geometry is a fussion of Reimann and Hilbert spacetimes thus making it possible to bring quan-tum and classical physics and the task of doing this is left for Paper II. Further work to put the theory on a strong footing will be presented in Papers II, III, IV and VI and other works that may emerge from these investigations.
+
+Keywords: Principle of Equivalence, Law of Equivalence, Frame of Reference, System of Coordinates, Coordinate Transformation, Frame Transformation, Force, Field
+
+Apeiron, Vol. 14, No. 4, October 2007	321
+Introduction
+“I am not interested in the spectrum of this and that atom	I
+want to know whether God had a choice in building the Universe	”
+– Albert Einstein (1879-1955)
+ROM a philosophical level, unification of all the forces of Na-ture imply beauty and simplicity.  The dream of unification
+of all the forces of nature probably began in 1849 in the Royal Academy of Sciences in London with Michael Faraday (1791-1867) soon-after his great works in Electrodynamics when he tried to ex-perimentally find a relationship between the Electromagnetic and Gravitational force - for obvious reasons he failed (see e.g [29]). However despite the failure, Michael Faraday believed that all the forces of nature were but manifestations of a single Universal Force and ought therefore to be inter-convertible into one another in much the same way as Electricity and Magnetism. Inspired by Albert Ein-stein, the pursuit to achieve this seemingly elusive dream of unifica-tion of the forces of Nature remains much alive to the present day and is the theme of the present reading. If what is presented in this reading is a correct description of natural reality as I would like to believe, then this paper is a significant contribution toward the at-tainment of this dream.
+Regarding the forces of Nature as described above, a Unified Field Theory (UFT) in the physics literature is a theory that proposes to bring any of the four interactions or forces into one coherent and consistent theoretical framework that conforms with experience. A Grand Unified Theory (GUT) is a theory that proposes to bring all the forces with the exception of the Gravitational force into one co-herent and consistent theoretical framework and a Theory Of Every-
+
+Apeiron, Vol. 14, No. 4, October 2007	322
+thing (TOE) is a theory that proposes to bring all the four forces into one “giant”, coherent and consistent theoretical framework which is consistent with natural reality. The present attempt is the ambitious attempt on the so-called “TOE”. The title of the paper clearly sug-gests that this paper is about a UFT instead of a TOE. I have chosen this modest title for philosophical reasons that are not necessary to clarify here. I thus persuade the reader to accept this rather modest title.
+Since the renaissance of the dream of a unified theory of the all the the known forces of nature was setforth in 1925 by Albert Einstein (1879-1955) after the emergence of his General Theory of Relativity (GTR) and this being a result of Herman Weyl’s failed attempt, which was the first such, on a unification of Electromag-netism and Gravitation ([30]), great progress has been made in the effort of achieving a better understanding of the natural World on this footing. Herman Weyl embarked on his 1918 work after inspi-ration from Einstein’s great works in GTR – an elegant and beautiful but incomplete unification theory of spacetime and matter. This he achieved by pure mathematical reasoning which brought into being the powerful Gauge Concept without which the current efforts of unification could not be. To this day the two forces theoretically stand side-by-side independent of each other and the attempts to bring them together has since been abandoned if not forgotten as a historical footnote.
+The GTR is one of the pillars of Modern Physics and has not only revolutionalized our way of viewing space, time and matter but has also greatly advanced our knowledge insofar as unity of Nature is concerned. The search for a unified theory of all the forces of na-ture has largely continued on a theoretical front and as already men-tioned, beginning with Herman Weyl ([30], [31], [32]) and thereafter
+
+Apeiron, Vol. 14, No. 4, October 2007	323
+followed by Theodore Kaluza ([14]), Albert Einstein ([6], [7], [8],
+, [10], [11]), Oscar Klein ([15]), Erwin Schro¨dinger ([26]), Au-thor S. Eddington ([12]) and many others. These authors sought a unified theory of the Gravitational and Electromagnetic force be-cause Gravitation and Electromagnetism, then, were the only forces known to humankind. Latter, with the discovery of the nuclear and sub-nuclear forces, the attempts to unify Gravitation with Electro-magnetism were abandoned by the mainstream physicists with the simple remark that this was a fruitless adventure for the reason that the subatomic forces needed to be taken into account.
+The emergence of, or the discovery of the existence of sub-atomic forces marked a new era in the history of Physics bringing forth an-other pillar of Modern Physics – Quantum Field Theory. The effort of unification now largely depended on both observations and theo-retical insight because the Quantum phenomena must be taken into account and this requires counter-intuitive pondering & delicate ob-servations of the Quantum phenomena since it is alien to our every-day experience in that it defies common sense. Despite the fact that we don’t understand the deeper meaning of the Quantum phenom-ena 80 years after the emergence of Quantum Theory, unremitting and unwavering attempts on the unification of all the known forces of Nature has proceeded undaunted and unabated. This is despite the fact that most if not all efforts to apply the rules the Quantum phenomena to the Gravitational phenomena that apply well to the other forces has brought nothing frustration to the physicist.
+In the effort of unification, it is believed or supposed that the two key pillars of Modern Physics – Quantum and the Relativity – behold the secrets to the “final unification program” and these must fuse into one consistent theory but much to the chagrin of the esoteric and curious practitioners in this field, these two bodies of knowl-
+
+Apeiron, Vol. 14, No. 4, October 2007	324
+edge appear to be fragmently disjoint in that they seem little adapted to fussion into one harmonious, coherent and consistent unified the-oretical system. They do not directly contradict though they have taken physics to the terrains of philosophy because of their adamant refusal to come to the alter and marry. Their marriage is thought to be absolutely essential because it is generally agreed that a com-plete, unified, and deeper understanding of the Natural World lies in bringing the two theoretical systems together into one coherent and consistent unified structure since each describe a different world – for there to be unity, it is logical that there must be one world. It is thus the dream of every practicing “Theoretical Physicist” to find such a system, if it is exist to begin with. The belief and faith is that such a system ought to exist in order to preserve beauty, simplicity, an independent reality and harmony in the Natural World.
+The first ever successful UFT was that by the Scottish Physicist James Clerk Maxwell (1831-1879) – he brought the Electric and Magnetic forces into one theoretical framework ([23]). Amongst others, Maxwell’s theory showed that light is part and parcel of Elec-tricity and Magnetism. Maxwell’s theory was however not consis-tent with Newtonian Mechanics – a very successful theory at that time. The inconsistency between Maxwellian and Newtonian world views lead Einstein to ponder deeper into the intimate relationship between space and time and by so doing he [Einstein] arrived at a new theory now known as the Special Theory of Relativity (STR) ([2]). Preserving the Maxwellian world view, the STR asymptoti-cally overturned the Newtonian doctrine of absolute space and time by proposing that time and space were not absolute as Newton had wanted or postulated, but relative – different observers measure dif-ferent time lapses and length depending on their relative states of motion. I will elaborate further on the section on the STR. The STR
+
+Apeiron, Vol. 14, No. 4, October 2007	325
+applies to inertial observers and Einstein did not stop there but pro-ceeded to generalize the STR to include non-inertial observers thus arriving at the simple, elegant and all-time beautiful GTR which as presently understood is essentially is a theory of the Gravitational phenomena.
+Naturally, after the achievement of the GTR, the next task is to bring the other forces within the framework of the GTR or the GTR into the framework of the other forces, which is to bring the GTR into Quantum Theory or Quantum Theory into the GTR. To achiev-ing this, the main thrust amongst the majority of present day physi-cist is to seek a GUT, where upon it is thought that ideas to finding a “TOE” will dawn and shade light on the way forward (see e.g [25]). Currently, the only successful unification of forces in the micro-world is the 1967-68 theory by Sheldon Lee Glashow, Steven Wein-berg & Abdus Salam. They succeeded in showing that the Weak & Electromagnetic force can be brought together into one theoretical framework. Since then, no satisfactory attempts (that is, experience and theory are in harmony) have come forth. The promising Stan-dard Model (SM) of Particle Physics is also a good unification of the Weak, the Strong and the Electromagnetic force but many questions, largely theoretical ones, remain unanswered.
+According to the popular science media, the most promising the-oretical attempts made to date that bring the sub-nuclear forces to-gether including the Gravitational force are the theories that embrace the notion of extra dimensions beyond the known four of space and time such as String Theory. It is said by String Theory’s foremost proponents that this theory offers the best yet clues about a unified theory that en-campuses all the forces of nature and at the sametime it is not understood (e.g [33]). It is my view and the view shared by many that the draw-back of theories that employ extra-dimensions is
+
+Apeiron, Vol. 14, No. 4, October 2007	326
+that they do not submit themselves to experience hence there is lit-tle room if any at all, to know whether these theories conform with natural reality. I am of the opinion that no matter how beautiful, elegant and appealing or seductive a theory may be or may appear to be, it ought only to be accepted as a truly physical theory if and only if it successfully submits itself to experience, otherwise it re-mains but an elegant piece of mathematics probably best left to be admired by mathematicians and mathematically minded Poets and Philosophers. From the physical view-point, there is not much one can say if anything at all about ideas based on the notion of higher dimensions since they do not naturally submit themselves to expe-rience the reason of which is that “our technology has not reached that level where we can submit these theories to experience” or that “the conditions of experience to test these ideas are only found at the unique moment of birth of space and time.” As someone that wishes to fathom the mysteries of the natural world, I so much would love that String Theory be the right theory given its exquisite beauty, el-egance and far reaching imagination but at the sametime, I find it hard to forever keep my heard stuck in the sands thereof knowing that there is no way to verifying the theory.
+Adding further to highlight the discontentness and or frustration
+with String Theory, Smolin ([27]) a leading theoretical physicist, who is a founding member and researcher at the Perimeter Institute for Theoretical Physics is of the opinion that String Theory is at a dead end and openly encourages young physicists to investigate new alternatives because there is not much chance that String Theory will be verified in the foreseeable future. In fact, he and others argue con-vincingly that String Theory is not even a fully formed theory in the true sense and spirit of a scientific theory but is just but a conjecture because the theory has not been able to prove any of the exotic ideas
+
+Apeiron, Vol. 14, No. 4, October 2007	327
+posited by it. The discovery of “Dark Energy/Matter” he says is not even explained by String Theory and is proving troublesome for the theory’s foremost advocates. Further, Smolin ([27]) writes in his book “The Trouble with Physics”, that he believes that physicists are making the mistake of searching for a theory that is “beautiful” and “elegant” like String Theory but instead they should seek falsifyable theories that can be backed up by experiments. Seeking beauty and elegance in a theory is a philosophy developed by Paul Dirac (see e.g [16]) – this is a philosophy which I follow with the important difference that I believe that all ideas that purport to describe the true Physical World, no matter how elegant and beautiful they may appear, they must naturally submit themself to experience.
+In the spirit of or on the advice of Smolin ([27]), I seek a new avenue of thought through a probably overlooked inconsistence in physics and I hope this paves the way for the attainment of the much sort and long awaited unified theory of all the forces of Nature. Through the aforementioned inconsistency which is our “flawed” treatment of inertial references frames and system of coordinates – something that I will elucidate in section IV, I bring the Electromag-netic force into the metric of spacetime whereafter the other forces are explained by the metric by required that the field energy be in-variant under different space and time rotations. Before this is so, I demand of all the Laws of Physics to absolutely remain invariant and/or covariant under both the change of the system of coordinates and frame of reference and more importantly that the physics under a change of the system of coordinates remains absolutely invariant. In this way, I seek to realize fully the Principle of Equivalence by extending it to include the physical description of events in any given system of coordinates and frame of reference. In the deliverance of ideas in this reading, I will take the snail pace – developing and nur-
+
+Apeiron, Vol. 14, No. 4, October 2007	328
+turing these ideas as we go from the section on STR, to the section the GTR till about section V where these ideas blossom to the full light of the day.
+
+Keynote Because of the length of the original paper, this paper has been cut into two parts and the second part of this paper will appear issue succeeding the present.
+
+
+Special & General Relativity
+
+The STR was developed by Einstein in an effort to iron-out the in-consistencies between Newtonian Mechanics and Maxwellian Elec-trodynamics. The problem at hand was as follows;
+After a careful study of the great works of Galileo Galilee (1542-1642), Isaac Newton (1642-1727) founded a body of knowl-edge that beheld that in moving from one inertial system of reference to another time preserved its nature absolutely. That is to say, given the three space dimensions and also that of time – suppose we have two inertial observers (the primed and unprimed) whose space-time coordinates are (x, y, z, t) and (x′, y′, z′, t′) respectively, with one moving along the x – axis relative to the other at a speed v, then, the two observers’ coordinates intervals are related
+△x′ = △x + v △ t
+
+△y′ = △y
+△z′ = △z
+△t′ = △t
+,	(1)
+
+declared Galileo in his great-works. Essentially this is the entire con-
+
+Apeiron, Vol. 14, No. 4, October 2007	329
+ceptual constitution of Newtonian spacetime and the above transfor-mation laws are known as the Galilean Transformation Law (GTL). What the law implies is that (assuming that the law is fundamentally true) all objects in the Universe move relative to one another – there is no such thing as an absolute motion. On the other hand, the GTL predicts that, like time (t′ = t), acceleration (a = d2 x/dt2 : a′ = a) is an absolute quantity. This means that motion is both absolute and relative. This apparent contradiction bothered Newton and lead to many philosophical debates between him and some of his contem-poraries – How can motion be relative while acceleration is absolute, is acceleration not some kind of motion or is it a special kind of mo-tion? Newton proposed that accelerations be measured relative to the immovable absolute space which he identified with the background of the “fixed” stars. We shall not go into this difficult analysis.
+Maxwell’s theory however predicted that light was a wave and its speed was universally constant in fragment contradiction with the Newtonian doctrine and at the sametime solving another prob-lem, that of the existence of absolute space/frame of reference. That is, if the speed of light were absolute it [light] ought to move relative to some universal frame of reference that is at absolute rest. Also light being a wave means it ought to move through some medium – this medium would then naturally explain Newton’s doctrine of ab-solute space and time, so it was thought. This hypothetical medium was then postulated to exist and it was coined the Aether. Attempts to detect this Aether by measuring the speed of the Earth through its passage suggested that there is no such thing as an Aether. With the Aether having escaped detection by one the finest and most beautiful experiment ever carried out by humankind – the Michelson-Mosley Experiment (MM Experiment) ([21], [22]), theoretical attempts to save the Aether paradigm were made by notable figures such as Hen-
+
+Apeiron, Vol. 14, No. 4, October 2007	330
+drick Lorentz (1853-1928) amongst others. Lorentz’s theory ([19]) preserved the Aether hypothesis by proposing that the lengths of ob-jects underwent physical length contraction relative to the stationery Aether (Lorentz-Fitzgerald contraction) and a change in the tem-poral rate (time dilation). At that time, this appeared to reconcile Electrodynamics and Newtonian Physics by replacing the GTL with a new set of transformation laws which came to be known as the Lorentz Transformation Law (LTL). If △t, △x, △y, △z are the time and space separation relative to the Aether and △t′, △x′, △y′, △z′ the time and space separations in the moving frame (speed v), then
+△t′ = Γ △t + v △ x/c2 
+
+
+
+
+where
+△x′ = Γ (△x + v △ t)
+△y′ = △y
+△z′ = △z
+(2)
+
+
+
+v2 –1/2
+Γ = 1 – c2
+
+
+
+are the LTL. Indirectly, after much careful pondering on the negative result of the MM Experiment by considering the apparent contradic-tions between Newtonian and Maxwellian Electrodynamics, with a leap of faith and boldness, Einstein cut the Gordian knot and then untied it thereafter by the following reasoning; If we accept the Laws of Electromagnetism as fundamental and also Newtonian Laws of motion as fundamental, then there ought not to be a contradiction when Newtonian Laws of motion are applied to inertia frames of reference in which the Electrodynamic Laws hold good and these Laws are transformed to an equivalent reference frame within the
+
+Apeiron, Vol. 14, No. 4, October 2007	331
+framework of Newtonian Mechanics. Either of the two must be at fault or both. Newtonian Mechanics, then had stood the test of time – for nearly 250 years it passed all the experimental tests to which it was submitted and was almost taken for granted as a self evident truth. The celebrated physicist and philosopher Lord Kelvin was amongst other prominent and highly esteemed thinkers of his time, so confident of Newtonian Mechanics that he proclaimed before the turn of the past century that “There is nothing new to be discovered in physics now. All that remains is more and more precise measure-ment.” – we know now, he was not right, Einstein was to soon show this.
+On the other hand Electrodynamics was a new field where more elaborate experiments to confirm it where yet to be carried out. It is here that Einstein boldly & faithfully cut sharply though the thick dark clouds hovering over the horizon of science, chopping and un-tieing the Gordian knot by upholding Electrodynamics as more fun-damental than Newtonian Mechanics and thus went on to replace it with a new Mechanics by putting forward the following two postu-lates:
+The Laws of Physics are the same for all inertial frames of reference in uniform relative motion.
+
+The speed of light in free space is the same for all inertial observers. The first postulate, known also as the Principle of Relativity, dis-pels the notion that there is such a thing as a preferred or absolute frame of reference. The Laws of Physics must be the same in equiv-alent frames of reference. Inertial frames of reference have the same status of motion in that Newton’s first Law holds good in them. If the first postulate were true and Maxwells theory were a fundamen-tal theory of nature, then the second postulate follows immediately
+
+Apeiron, Vol. 14, No. 4, October 2007	332
+since Maxwell’s theory predicts explicitly that the speed of light has a definite numerical value. The constancy of the speed of light pre-dicted here lead us via Einstein’s great insight to rethink our view of space and time. Time for different frames of reference runs at dif-ferent rates and lengths are not absolute but depend on the observers state of motion. The LTL follow immediately from these two postu-lates but with the important difference that the Aether hypothesis is not any longer necessary.
+This is the entire conceptual content of the STR. Einstein was not satisfied with the STR because it only dealt with observers in uniform relative motion and he wanted to know how the Laws of Nature manifest themselves in the case of non-inertial observers and the quest for answer to this question culminated in the GTR ([4]). The problem with non-inertial observers is that Gravitation becomes a problem since it is an all pervading “non-vanishing force”. By an-alyzing the motion of a body in free-fall in a Gravitational field, Einstein was able to overcome the problem of Gravitation by not-ing that if Gravitational mass (mg) and inertia mass (mi) were equal or equivalent, then Gravitation and acceleration are equivalent too ([3]). Because of the importance of this, it came to be known as the Principle of Equivalence. This meant that the effect(s) of ac-celeration and Gravitation are the same – one can introduce or get rid of the Gravitational force by introducing acceleration. The deep rooted meaning of the Principle of Equivalence is that Physical Laws should remain the same in a local frame of reference in the presence of a Gravitational field as they do in an inertial frame of reference in the absence of Gravitation. In Einstein’s own words:
+
+Apeiron, Vol. 14, No. 4, October 2007	333
+Principle of Equivalence: “We shall therefore assume the complete phys-ical equivalence of a Gravitational field and the corresponding acceleration of the reference frame. This assumption extends the Principle of Relativity to the case of uniformly accelerated motion of the reference frame.”
+
+A consequence of this is that no mechanical or optical experiment can locally distinguish between a uniform Gravitational field and uniform acceleration. It is here that I would like to point out that the Principle of Equivalence as used in the formulation of the GTR does not demand that the physics must remain invariant. By “the physics” I mean that the description of a physical event ought to remain in-variant unlike for example in black-hole physics – depending on the system of coordinates employed (and not the frame of reference – this is important), a particle can be seen to pass or not pass through the Schwarzschild sphere for the same observer supposedly under the same conditions of motion. Also the chronological ordering of events is violated – that is, the Law of Causality is not upheld. For example, in a rotating Universe as first pointed-out by Kant Go¨del ([13]) it is possible to travel back in time meaning to say it is pos-sible to violate the Second Law of Thermodynamics. Though the idea of time travel is very fascinating and appealing to the mind, it is difficult to visualize by means of binary logical reasoning how it can work in the Physical World as we know it. The Laws of Nature must somehow have it deeply embedded in them the non-permissibility of time travel.
+Therefore, we must demand that the physics, that to say, the physical state and chronological ordering of events, must remain in-variant that is, extend the Principle of Equivalence to include the physical state/physical description of events and the Law of Causal-ity. Because this must be universal and important, let us call the
+
+Apeiron, Vol. 14, No. 4, October 2007	334
+extended Principle of Equivalence the Law of Equivalence:
+
+Law of Equivalence: Physical Laws are the same in all equivalent frames of reference independently of the system of coordinates used to express them and the complete physical state or physical description of an event emerging from these laws in the respective frames of reference must remain absolutely and independently unaltered or invariant by the transition to a new or change of the system of coordinates.
+
+This forms the basic guiding principle of the present theory. The deeper meaning of the Law of Equivalence is that it should not be permissable to transform a singularity by employing a different set of coordinates. If the singularity exists, it exists independently of the system of coordinates and frame of reference used – it is permanant. Therefore if we are to have no singularities, the theory itself must be free of these. If a particle is seen not to pass through the event horizon, it will not be seen to pass the event horizon no matter the system of coordinates employed and the frame of reference to which the current situation is transformed into.
+Back to the main vein, the Principle of Equivalence is in the con-text of Riemann geometry, mathematically embodied in the mathe-matical expression
+gµν;σ = gµν,σ + Γλ gλν + Γλ gµλ = 0,	(4)
+where gµν is the metric tensor describing the geometry of space-time and
+λ	1 λα n	}
+are the affine connections or the Christoffel symbols. The affine con-
+
+Apeiron, Vol. 14, No. 4, October 2007	335
+nections play an important role in that they relate tensors between different frames of reference and systems of coordinates. Its draw back insofar as Physical Laws are concerned is that it is not a tensor. It transforms as:
+
+λ′	∂xµ
+∂xν ∂xλ′  λ
+∂xλ′
+∂2 xλ
+
+Γµ′ν′ = ∂xµ′ ∂xν′ ∂xλ Γµν + ∂xλ ∂xµ′ ∂xν′ .	(6)
+The extra term on the right makes it a non-tensor. Most of the prob-lems facing the GTR can be traced back to the non-tensorial nature of the affine connections – some of the problems will be highlighted in the section following.
+The invariance of Physical Laws under a change of the system of coordinates is in Riemann geometry encoded and expressed through the invariance of the line element
+ds2 = gµνdxµdxν.	(7)
+The line element is a measure of the distance between points in space-time and remains invariant under any kind of transformation of the frame of reference and or the system of coordinates. This is the essence of the GTR. From this Einstein was able to deduce that Gravitation is and or can be described by the metric tensor, thus, according to the Einstein doctrine of Gravitation, it [Gravitation] manifests itself as the curvature of space-time. Through his [Ein-stein] own intuition & imagination, he was able to deduce that the curvature of space-time ought to be proportional to the amount of matter-energy present - a fact that has been verified by numerous experiments. The resulting law emerging from Einstein’s thesis is
+1
+Rµν – 2 Rgµν = κTµν + Λgµν,	(8)
+
+Apeiron, Vol. 14, No. 4, October 2007	336
+which is the well known Einstein’s field equation of Gravitation where
+
+Rµν = Γλ
+– Γµλ,ν
+λ	σ
+µσ λν
+– Γνσ
+Γσ ,	(9)
+
+is the contracted Riemann curvature tensor and
+Tµν = ρ0vµvν + pgµν,	(10)
+is the stress and energy tensor where ρ0 is the density of matter, p is the pressure and vµ the four velocity, κ = 8πG/c4 is the Einstein constant of Gravitation with G being Newton’s Universal Constant of Gravitation, c the speed of light and Λ is the controversial and so-called Cosmological Constant term added by Einstein so as to stop the Universe from expanding ([5]). Einstein was motivated to include the Cosmological Constant because of the strong influence from the astronomical wisdom of his day that the Universe appeared to be static and thus was assumed to be so. Besides this, the Cosmo-logical Constant fullfiled Mach’s Principle ([20]), a principle that had inspired Einstein to search for the GTR and thus thought that the GTR will have this naturally embedded in it. Mach’s principle forbids the existence of a truly empty space and at the sametime sup-poses that the inertia of an object is due to the induction effect(s) of the totality of all-matter in the Universe.
+
+
+Problem & Quest
+
+In my view, the major problem that the GTR faces is that it is based on pure Riemann geometry – a geometry that is well known to vio-late the Principle of Equivalence at the affine level because the affine
+
+Apeiron, Vol. 14, No. 4, October 2007	337
+connections are not tensors. If pure Riemannian geometry is to be the true geometry to describe the Natural World, then, no Laws of Physics should exist at the affine level of Riemann geometry. How-ever, this is not so, since the Geodesic Law
+
+d2 xµ
+µ dxα dxν
+
+ds2  + Γαν ds
+= 0,	(11)
+ds
+
+that describes the path and motion of particles in spacetime emerges at the affine level. Thus accepting Riemann geometry as a true ge-ometry of nature means we must accept contrary to the Principle of Relativity that there exists in Nature preferred frames of reference and systems of coordinates because the above Geodesic Law leads us to formulating the equation of motion in prefaced frames of refer-ence and system of coordinates, namely, geodesic frames or system of coordinates. It can be shown for example that given a flat space-time in which say the rectangular system of coordinates are used to begin with where the affine vanish identically in this system and changing the system of coordinates to spherical, the affine do not vanish. This is a serious desideratum, akin to the Newton-Maxwell conundrum prior to Einstein’s STR.
+Given for example, that the affinities represent forces as is the
+case in the GTR, this means a particle could be made to pass from existence into non-existence (or vise-versa) by simply changing the system of coordinates. This on its own violates the Laws of Logic and the need for Nature to preserve an independent reality devoid of magic. For this reason, there is a need to ask what exactly do we mean by a system of coordinates and frame of reference and what relationship should these have to Physical Laws so that the Law of Equivalence is upheld? This shall constitute the subject of the next section.
+
+Apeiron, Vol. 14, No. 4, October 2007	338
+The only way out of this conundrum is to seek a theory in which the affinities have a tensor form hence in the present approach, the first and most important guide is to seek tensorial affinities. Einstein, Schro¨dinger etc have made attempts along these lines only to fail. The reason for their failure may stem from the fact that theirs was an exercise to try to find a set of tensorial affinities from within the framework of the classical spacetime of Riemannian geometry.
+Nature of Time
+“Absolute, true, and mathematical time, of itself, and from its own nature, flows equable without relation to anything external ”
+– Sir Isaac Newton (1642-1727)
+We already know from the STR that time does not transform abso-lutely when dealing with different frames of reference. The question I wish to answer in this section is whether or not the time coordi-nate is invariant under a change of the system of coordinates – that is t′ = t. In the process we shall answer the question paused in the previous section. In conclusion, I establish that time – vis-a-vis when transforming between different systems of coordinates – is a scalar quantity and this is a “self-evident-truth” provided the Law of Equivalence holds true. In order to do this, it is necessary that we define succinctly what we mean by frame of reference and system of coordinates. These two are used interchangeably in most text books of physics.
+For example Stephani ([28]) in his effort of trying to describe events near and at the event horizon of in blackhole - starting with the Schwarzschild metric, goes on to say “We seek coordinate sys-tems which are better adapted to the description of physical pro-
+
+Apeiron, Vol. 14, No. 4, October 2007	339
+cesses ...”. This is nothing more than an admission that physics in different coordinate systems will be different – there exist systems of coordinates that are unsuitable for the the description of physical events. Why should this be so? Physics and or physical processes should never be dependent on the choice of coordinates. Let us de-vote some little time to understanding what is a coordinate system and a reference frame/system.
+
+System of Coordinates: When thinking about space, it is extremely useful to think of it as constituting of points, each labeled so that one can distinguish one point from another – each point is and must be unique. These labels are called coordinates. One must choose these labels in such a way that it is easy to manipulate. In practice, num-bers are used because we understand and can manipulate them. To manipulate these labels, a universal and well defined rule must be set out so as to label and manipulate the labels and this is what is called the system of coordinates. One ought to be free to choose any co-ordinate system of their choice provided the labeling scheme makes each point to be unique because any space exists independent of the system of coordinates used. Examples of system of coordinates are the spherical coordinates (r, θ, φ), rectangular (x, y, z), cylindrical (r, θ, z) and curvilinear (x1, x2, x3) to mention but a few. The coordinate itself has no physical significance but only its relative distance from other coordinates is what is of physical significance.
+Frame of Reference: After having chosen a system of coordinates of our liking, suppose we station an observer at every-point of space. For any given system of coordinates there exists a point that one can call the point of origin, this point can be any-point, there ought not to be a preferred point. In the usual three dimensions of space,
+
+Apeiron, Vol. 14, No. 4, October 2007	340
+this point is the point (0, 0, 0) – this choice gives the easiest way to manipulate the coordinates. Once the observer has set the (0, 0, 0) point, they will set up about this point (0, 0, 0), their axis and the set of axis then constitutes the frame of reference. The observer that has declared their point of origin and has set their frame of reference “sees” every other point relative to the (0, 0, 0) point thus this point is their point of reference which together with the set of axis is in the usual language of STR is the Frame of Reference. The frame of reference thus provides one with a reference point (0, 0, 0) and a set of axes relative to which the observer can measure the position and motion of all other points in spacetime as seen in other frames of reference.
+The above defines a frame of reference and I hope the reader is able to make a clear distinction between the two – that is a sys-tem of coordinates and frame of reference. It follows that the STR is concerned with nature of Physical Laws under a change of the frame of reference, that is, from one-point of spacetime to another depending on these points’s state of motion while the GTR is con-cerned with nature of Physical Laws under both a change of the sys-tem of coordinates and frame of reference. The STR posits that the Laws of Physics remain the same for observers in uniform relative motion with the GTR positing through the Principle of Equivalence that even for observers in uniform relative acceleration the Laws of Physics remain the same and these are the same as for those ob-servers in uniform relative motion. The GTR goes further and ex-tends this to encamps different system of coordinates by maintaining that the Laws of Physics remain invariant under a change of system of coordinates. I will point out here a logical flew in the GTR in its endeavors. This is deeply rooted in its treatment of time under a change of the system of coordinates. The logical flew lies in the
+
+Apeiron, Vol. 14, No. 4, October 2007	341
+equal-footing treatment of the space and time coordinates applica-ble to the STR or transformation between different but equivalent frames of reference being unconsciously extended to describe nat-ural processes under a change of the system of coordinates. Let us look closely at the coordinate transformation law
+µ′	∂xµ′  µ
+x	= ∂xµ x .	(12)
+Lets pluck out the time coordinate, that is µ′ = µ = 0. It follows that a time difference of △t′ in the primed system of coordinates is related to the time lapse △t in the unprimed system of coordinates by
+
+△t′ =
+∂x0′
+∂x0 △t.	(13)
+
+In a nutshell, if ∂x0′ /∂x0 ≠ 1 (identically not equal to zero) or is a function of position or anything for that matter that has a numerical value other than unity, then this means that for different system of coordinates time moves at different rates – time dilation. Herein lies the problem – what have we just said! This means a photon can be blue or red-shifted by just changing the system of coordinates! Red or blue shifting is a physical process but changing of the system of coordinates is not a physical process at all! Here we have it - this is the source of our problems in our endeavors to completely un-derstand nature from the current GTR view-point. The only way in which a photon’s physical state will remain invariant is if time pre-served its nature under a change of the system of coordinates. This could mean time is not a vector but a scalar when it comes to co-ordinate transformations. If time behaved as predicted by equation 13 with ∂x0′ /∂x0 ≠ 1, it could mean all physical events in space and
+
+Apeiron, Vol. 14, No. 4, October 2007	342
+time are affected by a change of the system of coordinates and as already stated it means the way in which we label points does has a physical significance?! This own its own makes no physical or logi-cal sense at all and constitute a serious desideratum. A priori to this analysis, is that, it is absolutely necessary that we put forward the following Protection Postulate so as to uphold the Law of Equiva-lence:
+
+Postulate I: In order to preserve the physical state and the chronological evolution of a physical system in the transition from one system of coordinates to another, of itself and from its own nature time must flow equable with-out relation to anything external – It must remain invariant under any kind of transformation of the system of coordinates.
+
+It is not difficult to show that if the spatial coordinate transforma-tions where to be non-linear with respect to the corresponding co-ordinate, events and or points in spacetime will cease to be unique and also the physics is altered just by changing the system of coordi-nates! Inorder to strictly preserve the physics and second to preserve the uniqueness of events when a transition to a new system of coor-dinates is made, it is necessary to put forward another protection postulate:
+Postulate II: In order to preserve the physics when a transition to a new coordinate system is made e′µ · e′ν = eµ · eν and for the same transition to preserve the uniqueness of physical events in spacetime, the points in the new coordinate system for a non-periodic coordinate system, must be linear and have a one-to-one relation with the old one and in the case of a periodic coor-dinate system the periodicity must be ignored.
+
+Apeiron, Vol. 14, No. 4, October 2007	343
+Linearity has a two-fold meaning here: (1) Suppose in a transfor-mation of the coordinate system from A to B a point in the coor-dinate system A has more than one corresponding coordinate for a non periodic coordinate system like spherical coordinate system (this periodicity can be ignored because it does not physically place the point to another point in the same space), then in such a coor-dinate transformation, events cease to be unique. (2) The geometry of the new coordinate system upon transformation must remain un-altered otherwise this changes the physics – by the geometry it is meant that e′µ · e′ν = eµ · eν. Simple said, the angles between the unit vectors must remain unchanged otherwise we could have a situation as in current blackhole physics where one can alter the system of coordinates to obtain a completely different kind of physics. If one comes to think of it really seriously, it is not difficult to come to the conclusion that changing the system of coordinates in such a manner that the new system of coordinates has different angles for the corre-sponding angles for the unit vectors, changes the physics altogether. Changing the angles between the unit vectors is without doubt an in-troduction of some curvature or a new geometry altogether and this by itself is a physical process. As already said before, changing the system of coordinate is nothing more than a change of the labeling of the points akin to renaming a street. A name change of a street does not in any way physically change the street just as changing one’s name does not change the physical person that they are. So, to preserve the physics upon a change of the system of coordinates, we should not temper or change the angles between the unit vectors.
+Mathematically speaking, the first postulate means that time is a scalar quantity and thus
+
+Apeiron, Vol. 14, No. 4, October 2007	344
+
+∂x0′
+∂x0 = 1.	(14)
+We have established here that time must behave as a scalar when transforming from one system of spacetime coordinates to another and this is not so when transforming from one frame of reference to another. Because of this, let us adopt the terminology coordinate scalar or coordinate vector to mean a quantity behaves as a scalar under a coordinate transformation and likewise we will have a frame scalar and frame vector to mean a quantity that transforms as a scalar or vector when transforming from one frame of reference to the other.
+Now, from equation 14, an Abelian coordinate vector field emerges naturally from the metric tensor, that is to say, given that the metric transforms as
+∂xµ′ ∂xν′
+gµν = ∂xµ ∂xν gµν,	(15)
+and from the first postulate, it follows that
+∂xi′
+gi0 = ∂xi gi0,	(16)
+which is an Abelian vector field. If the metric is thought of as repre-senting force fields and given that there is only one known Abelian vector field, the Magnetic force, we shall without loss identify this vector with the Magnetic vector potential. The g00 component is ac-cording to the postulate a coordinate scalar. It is clear that all 00 components in spacetime according to the current new understand-ing will all be coordinate scalars and all 0i components will be co-ordinate vectors. Putting the Gravitational force aside for the time
+
+Apeiron, Vol. 14, No. 4, October 2007	345
+being, the only scalar force known is the Electric force, likewise, we shall identify the g00 component with the Electric force hence gµ0 represents the Electromagnetic four vector potential. At this present moment, the natural question to ask is what force fields do the other components (gi j) represent? This object transforms as
+∂xi  ∂xj	!
+
+which clearly shows that this quantity is a product of a three and two component vector for the case µ = 1, ν = 1, 2, 3 and µ = 2, ν = 2, 3, and some one vector component and for the case ν = 3. It is tempting (as I initially did) to think of these components as the vector fields of the Strong and the Weak force since these are represented by three and two component vectors respectively. When one comes to think of it in the simplistic manner, the metric must be symmetric and it is a product of the same vector, that is for example if eµ are the unit vectors, then the metric of this spacetime is gµν = eµeν – this is the present understanding of the metric tensor that it is a product of the unit vectors. With the new proposal that the g0µ be a the Electromagnetic four vector potential, the suggestion to me is that we must write
+
+gµν = AµAν,	(18)
+where for now, the vector Aµ is to be understood as the Electromag-netic vector potential but as shall be seen in due course, this vec-tor will be able to represent the other forces and this depending on the choice we make for the quantity ∂µAν and the rotational state of spacetime. A suitable choice of this quantity, ∂µAν, will allow us to recover not only the Electromagnetic force but the Strong and Weak
+
+Apeiron, Vol. 14, No. 4, October 2007	346
+force fields as-well.
+
+
+Theory
+
+We have seen that it is possible to incooperate the Electromagnetic force into the metric and also it has been suggested that the other forces of nature can be brought into the metric as well – this is the subject of the sections following the present. Now what I shall do here is to seek a geometry that gives tensorial affinities in such a way that one can obtain both the respective geometries on which Quan-tum and Classical Physics are founded. Quantum Physics is defined on a Hilbert space or Hilbert geometry while Classical Physics is de-fined on the classical spacetime of Riemannian geometry. The main idea is to find a geometry that fuses these two geometries in a natural way. Let us begin by defining these two geometries and fuse them in such a manner as described above – that is, the resulting affine must be tensors.
+
+Hilbert Space: Every inner product (, ) on a real or complex vec-tor space  gives rise to a norm
+
+ds2 = (x, x) ,	(19)
+and the space H is said to be a Hilbert space if it is complete with respect to this norm. Completeness in this context means that any cauchy sequence of elements of the space converges to an element in the space, in the sense that the norm of differences approaches zero. On the other hand we define a Riemannian space:
+
+Apeiron, Vol. 14, No. 4, October 2007	347
+
+Riemann Spacetime: A space is said to be Riemannian if the norm is invariant under a coordinate transformation such that the metric of the space satisfies the fundamental theorem of Reimann geometry, that is the covariant derivative equation (4) resulting in the definition of the affine connection as given by equation 5.
+
+From these spaces as defined above, one can by a closer inspec-tion of the Riemann Geometry imagine a union of both the Rie-mann and Hilbert space. Let us coin this space the Riemann-Hilbert Space (RHS). This space is some-kind of a Reimann Space in its for-mulation with it embedded the Hilbert objects that gives the space the necessary machinery to overcome the criticism leveled earlier against pure Riemann geometry that of the affinities being non ten-sorial.
+
+Riemann-Hilbert Spacetime: In ordinary spacetime geometry the unit vectors are represented by the four objects:
+ i 		
+e = 	 , e = 	 ,
+
+0
+ 0 
+	
+1
+ 0 
+	
+
+
+.	(20)
+
+e = 	 ,	e = 	
+
+2
+ 0 
+3
+ 1 
+
+Notice that the components or length of the axis unit vectors are all constants – why is this so? Is it really necessary that they be-
+
+Apeiron, Vol. 14, No. 4, October 2007	348
+come constants and at the sametime is it really necessary that the significant component of these unit vectors be equal? Suppose we set up a 3D system of coordinates in the usual space that we inhabit with three orthogonal axis. Let each of these axes have an observer, say X monitors the x – axis and Y monitors the y – axis and like wise Z monitors the z – axis. Along each of these axis the observer can define a unit length and it need not be equal to that of the oth-ers. Having defined their unit length to compare it with that of the others, they will have to measure the resultant vector which is the magnitude of the vector sum of the three “unit” vectors along their respective axis. This setting does not affect anything in the physical world for as long as one commits to mind that the unit vectors along each of the axis are different and they have in mind the length of the resultant unit vector. This little picture tells us we can have variable unit vectors along each of the axis that is,
+ψ0 	 0 
+e = 	 , e = 	 ,
+
+0
+ 0 
+ 0 
+1
+ 0 
+ 0 
+
+
+,	(21)
+
+e = 	 ,	e = 	
+2	3
+	
+ 0 	 ψ3 
+where ψα = ψα(xµ) for α = 0, 1, 2, 3 variable. If as usual the position vector in this space is given by Xµ = xµeµ where xµ is the usual spacetime coordinate in Riemann geometry, then, it is not difficult for one to see that the resulting metric from the above set of unit vectors will be diagonal, meaning that all the off-diagonal terms will
+
+Apeiron, Vol. 14, No. 4, October 2007	349
+equal zero. We must in general be able to obtain a metric with non-zero components and not only diagonal as is the case if the unit vectors are as given in equation 21. For this to be so, that is, obtain a metric with non-zero components, we will need to have
+
+
+
+
+
+
+where
+
+
+eµ = γ¯
+
+ψ0 ψ1
+µ	ψ2
+ ψ3
+ ,	(22)
+
+
+γ¯ =  I	0 ! ,  γ¯ =	I	i ,2σi ! ,	(23)
+
+0	0  –I
+i	i ,2σ	I
+
+are what I shall call the gamma-bar matrices where I is the 2 × 2 identity matrix and σi are the usual Pauli matrices. The term gamma-bar matrix for these matrices has been coined in my earlier paper ([24]). From this we can write the line element of the space in the Dirac bra-ket notion
+2	= (dXµ / dXµ) = ρgµνdxµdxν,	(24)
+where ρ = ψ†αψα, α = 0, 1, 2, 3. This line element is similar to that for the Scalar-Tensor theories of gravity in which ρ is a pure scalar quantity ([1]). Scalar-Tensor theories are an alternative the-ory to Einstein’s GTR whose endeavor is similar to the present, that is, incorporate or unify Quantum phenomena with the Gravitational phenomena.
+Unlike Scalar-Tensor theories, the object ρ shall here be chosen such that it is not a scalar as in Brans-Dicke Theory. This choice of ρ affords us the opportunity and the economy to un-chain ourself from
+
+Apeiron, Vol. 14, No. 4, October 2007	350
+the bondage of non-tensorial affinities as will be seen shortly be-cause we can forcefully choose this object in such a way that the re-sultant affine connections are tensors. Comparing this with Reimann geometry and demanding that in the limiting case, that is ρ = 1, RHS reduces to the well known Reimann space would require that we make the substitution gµν –→ ρgµν into equation 4, that is
+DgµνE;σ = ρ gµν,σ + Γ¯ λ gλν + Γ¯ λ gµλ + Jσgµν = 0,	(25)
+where
+
+and
+¯ λ	λ
+µν	µν
++ Mλ ,	(26)
+
+λ	1 λα n	}
+which for reasons that will become clear in due course, we shall call this the matter-connection where
+
+J = 1 ∂ρ
+µ	ρ ∂xµ
+= ∂ ln ρ.	(28)
+∂xµ
+
+Now, taking advantage of the fact that the liberty is ours to make a proper choice of ψ, let us demand as set out in section 3 that the affine Γ¯ λ , be a tensor by making a suitable or proper choice of ρ. Also our choice would be to have the objects ψα defined on the Hilbert space, the subtle aim being to identify this object with the material field that in QM is the wavefunction. In light of the afore-said, it is clear that if we envisage the material field to be defined by the Dirac wavefunction, then ρ can not be a scalar. It is clear that
+
+Apeiron, Vol. 14, No. 4, October 2007	351
+making this object a scalar reduces the theory to a theory much akin to Weyl’s un-successful unified theory ([30], [31], [32]).
+Now supposing we have this suitable choice of ρ as given and knowing that for any affine connection that is symmetric in the lower indices, there is always a frame of reference and system of coordi-nates in which they vanish identically (see for example [17]), it fol-lows that the affine connection will vanish identically in all system of coordinates and frame of reference, that is
+¯ λ = 0.	(29)
+This is an important equation from which the definition of Jµ in-terms of the metric follows hence that of ψ as-well. The space just described is what we shall define as the Riemann-Hilbert spacetime and the condition equation 29 leads to a linear and exactly soluble theory. This spacetime is the normal spacetime with the exception that it is endowed with variable unit vectors that will later in Paper II be clearly identified with the normal wavefunction of QM. The meaning therefore of the existence of ponderable matter according to the foregoing is to ensure that the Laws of Nature/Physics in space-time remain invariant under a change of the system of coordinates at the affine level.
+Proceeding further, from equation 29 it follows that if this con-dition is to hold identically, then
+gµν,σ + Jσgµν = 0,	(30)
+which in a more natural way defines Jµ in terms of the metric, that is : Jµ = –∂gµλ/∂xλ. This leads to the transformation
+
+
+∂xµ
+∂2 xλ
+
+Jµ′ = ∂xµ′ Jµ – 2 ∂xλ∂xµ′	(31)
+
+Apeiron, Vol. 14, No. 4, October 2007	352
+and in-turn leading to the matter-connection transforming as
+
+λ′	∂xµ
+∂xν ∂xλ′	λ
+∂xλ′
+∂2 xλ
+
+Mµ′ν′ = ∂xµ′ ∂xν′ ∂xλ Mµν – ∂xλ ∂xµ′ ∂xν′ .	(32)
+The above transformation law clearly and immediately verifies the fact that the affine connection, Γ¯ λ , is indeed a tensor. At this point, we have achieved with relative ease to obtain tensorial affinities and thus the task now is to obtain physically meaningful field equations that conform with natural reality. Equation 30 can be written
+
+∇σgµν = 0,	(33)
+where ∇µ = ∂µ + Jµ which in comparison to Quantum Mechanics is the Gauge Covariant Derivative. Before leaving this section, it is for latter purposes a good exercise to define the transformation properties of the object ρ. If ψ′ = S′ψ where S′ is some 4 × 4 transformation matrix, then transformation equation 31 requires that ρ′ = χ′ρ where χ′ = χ′(xµ). For ρ′ = χ′ρ would require that
+S′†S′ = φ′I	(34)
+where here I is the 4  4 identity matrix. As will be seen in Paper IV, the above transformation law will prove vital. It is not difficult to check or see that
+
+
+χ′ = exp –2
+
+∂2 xλ
+
+/
+∂xλ∂xµ′
+! dxµ!
+
+.	(35)
+
+Klein-Gordon & the Higgs Field
+
+We obtain the Klein-Gordon equation and introduce a scalar field
+
+Apeiron, Vol. 14, No. 4, October 2007	353
+into the theory. To derive the Klein-Gordon equation, let us begin by taking the derivative of equation 30 with respect to xσ, that is
+
+□gµν – V (ρ) gµν = 0,	(36)
+where V (ρ) = ∂λ Jλ – Jλ Jλ and □ = ∂λ∂λ. This equation has the same form as the Klein-Gordon equation and thus shall be taken as such, the meaning of which is that we have to set V (ρ) = m2c2/k2 where m0 is the rest mass of the particle and k is Planck’s normalized constant. Now if we raise and contract the indices of the metric, that
+is gµ, it is clear that V (ρ) ≡ 0 because gµ = –4, thus this means
+particles will have to a zero mass contrary to the fact that particles do have mass. To avert this problem and thus endow particles with mass, it is necessary to introduce a scalar field into the theory, that is gµν –→ g¯µν where
+
+g¯µν = Φgµν,	(37)
+this means g¯µ = –4Φ. The introduction of this scalar field is con-
+sistent with the Reimann-Hilbert geometry. Since this field endows particles with mass and we know that in the Standard Model of Par-ticle Physics, particles acquire their mass via a scalar field known as the Higgs field or Higgs Particle, it is most natural here to iden-tify the scalar field Φ with the Higgs field and this field satisfies the Klein-Gordon equation
+□Φ – V (ρ) Φ = 0.	(38)
+With the metric replacement equation 37 into equation 36 can be now written as □gµν – V(ρ, Φ)gµν = 0 where V(ρ, Φ) = (□Φ) /Φ – 2∂λΦ∂λgµν – V(ρ) and now this means V(ρ, Φ) = 0, and if the setting
+
+Apeiron, Vol. 14, No. 4, October 2007	354
+∂λΦ∂λgµν = 0 is made, this means V(ρ) = (□Φ) /Φ = m2c2/k2 and hence m0 is not identically equal to zero. I will not explore further the meaning of the above equation vis-a-vis its meaning regarding particle solutions but leave this for Paper VI where the full meaning field is sought.
+
+Source Coupled Field Equations
+
+Just a reminder, the introduction of the Higgs field or the scalar field Φ now requires us to write the metric as g¯µν and not as gµν, thus the Reimann tensor on the RHS is defined
+
+R¯	= 1  ∇ ∇ g¯	– ∇ ∇ g¯	+ ∇ ∇ g¯	– ∇ ∇ g¯  ,	(39)
+and this can be split into two, that is R¯σµαν = Rσµαν + Tσµαν where
+
+R	= 1 ∂ ∂ g¯	– ∂ ∂ g¯	+ ∂ ∂ g¯	– ∂ ∂ g¯  ,	(40)
+σµαν	2	µ α σν	µ ν σα	σ ν µα	σ α µν
+
+and
+
+
+Tσµαν = 1 ∂µ Jαgσν – ∂µ Jνgσα + ∂σ Jνgµα – ∂σ Jαgµν –1 Jµ Jαgσν – Jµ Jνgσα + Jσ Jνgµα – Jσ Jαgµν 
+
+
+.	(41)
+
+This tensor must identically equal zero since Γ¯ λ = 0 and ∇σg¯µν = 0
+thus this means the Ricci tensor on this spacetime must equal zero, that is R¯µν = 0. Using equation 30 to substitute for the derivatives, it
+
+Apeiron, Vol. 14, No. 4, October 2007	355
+is easy to show that R¯µν = –□g¯µν/2 + 2ΦJµ Jν and further remember-ing equation 37 and using equation 36 and 38 this reduces to give
+
+□gµν + V (ρ) gµν – 4Jµ Jν = 0.	(42)
+The above equation 42 constitutes the source coupled field equation in much the same-way as Maxwells source coupled equation of mo-
+tion. Even if R¯σµαν ≠ 0 because Γ¯ λ ≠ 0, one would use the second
+Bianchi identity ∇νR¯αβµρ +∇ρR¯αβνµ +∇µR¯αβρν = 0 and derive the Ein-stein tensor equation for this spacetime, that is G¯µν = R¯µν – Rg¯µν/2 =
+0 where R is the Ricci scalar for this spacetime, to arrive at the same equation. Equation 42 can be re-written as
+□Aµ + V (ρ) Aµ – ǫ Jµ = 0,	(43)
+where ǫ = 4Aµ Jµ. This equation is the well known Maxwells-Proca source field equations and its is clear that the gauge condition ∂µAµ is in-built. Raising and contracting the indices of equation 42, we obtain
+J Jµ = –V (ρ) = – m0c 2 ,	(44)
+and from this equation, one is able to obtain the equation governing the field ψ and to deduce the conservation equation ∂µ Jµ = 0.
+
+Source Free Field Equations
+
+Without much loss let us proceed to derive the source free field equa-tions from the first Bianchi identity. Since R¯σµρν = 0, it follows that Rσµρν = Tσµρν and the first Bianchi identity gives
+
+Apeiron, Vol. 14, No. 4, October 2007	356
+
+Rσµρν + Rσνµρ + Rσρνµ = 0,	(45)
+hence Tσµρν + Tσνµρ + Tσρνµ = 0. Now from this equation, we will be able to generate the second group of Maxwell’s equations. We will obtain the source free field equation from the Bianchi identity equation 45. Given the definition equation 48 we have
+Rσµρν = ∂ν FµρAσ + ∂σ FνρAµ ,	(46)
+where FµρAσ = ∂µ, ΦAρ Aσ + Aµ, ∂ρ (ΦAσ) = ∂µg¯σρ ∂ρg¯σµ and where [, ] is the usual commutator bracket and the commutation here and hereafter is in the indices (µ, ν). The quantity Fµν is a operator acting on Aσ and when this operator acts on Aσ, we shall write the resultant equation as FµνAσ = ΦFµνAσ where
+
+Fµν = ∂µAν – ∂νAµ + g∗µν AµAν,	(47)
+is the well known Yang-Mills Tensor ([34]) where g∗µν = g∗µ – gν∗ and this tensor equation 47 is only possible if the choice
+
+∂µAν = g∗µ AµAν,	(48)
+is made where g∗µ are generally non-zero constants is necessary. This choice leads directly to the Proca equation. To obtain the Proca equation, we take the partial derivative ∂µ of equation 48 and this results in the Proca equation
+
+
+
+□Aµ –
+1 2
+ℓc
+Aµ = 0,	(49)
+
+where 1/ℓ2 = g∗∂µAµ +(g∗ Aµ)(g∗µAµ) can be a constant or a variable.
+c	µ	µ
+Equation 49 is exactly soluble and this means the dreams of exactly
+
+Apeiron, Vol. 14, No. 4, October 2007	357
+solubility of Yang-Mills Theory as outlined by Antony Zee ([35]) are realizable. Before going to the next section, for latter purposes (in Paper II), it is important to note the following, that the four vector quantity g∗µ Aµ is a tanget to Aµ, thus
+Aµg∗µ Aµ ≡ 0,	(50)
+and this condition automatically imposes the Lorentz gauge condi-tion
+
+∂µAµ ≡ 0,	(51)
+and further, if Aµ = 1/Aµ, this means .3 g∗ ≡ 0. In Paper IV, where
+the Reimann-Hilbert geometry is clearly laid down, the condition Aµ = 1/Aµ will be laid down as one of the axioms of the geome-try. Thanks to the imposition equation 48 without which there is no forseeable way to obtain the Yang-Mills Theory. Note that because
+∂µΦ = Aν∂ν ΦAµ =→ [∂µΦ, Aν] ≡ 0. Since FµνAσ = ∂µgσν – ∂νgσµ
+it is easy to check that
+
+FµνAσ + FσµAν + FνσAµ ≡ 0,	(52)
+and this implies AσFµν + AνFσµ + AµFνσ ≡ 0. It can also be shown that JσFµν + JνFσµ + JµFνσ ≡  0 and with this we will have Rσµρν =
+substituting all the above into the Bianchi identity equation 45, we
+will have after some cleaning-up
+
+DρFµν + DνFρµ + DµFνρ = 0.	(53)
+There we have it again! In summary, we have arrived at the desired field equations, that is, equations 42 and 53. As for equation 53, not
+
+Apeiron, Vol. 14, No. 4, October 2007	358
+only does it give us the second group of Maxwell’s equations but also the source free non-Abelian Gauge field equations that describe nuclear forces and this depending on the values of g∗µν – basically the nuclear forces are governed by the same Maxwell’s equations as will be seen soon!
+In the following sections I will proceed to show that the compo-nents of the metric have the capability to explain the known natural forces, that is, the Electromagnetic force, the Weak and the Strong and this depends on the values that g∗µ takes and as will be seen, the already rich library of the worked out mathematics of the these forces makes the task of showing this a relatively easy task.
+
+Acknowledgments:I would like to thank, in alphabetic order of the surname, my friends for the support and encouragement; Rita Augustinho, Jotham Dondo, Christina Eddington, Eugene Engelbrecht, Daniel Moeketsi, Anna Neff, Donald Ngobeni and Jasper Snyman. I dedicate this paper to my Professor, D. J. van der Walt for his contributions to my-career and my-life. It is a pleasure to thank C. Roy Keys for valuable comments and the anonymous referee(s).
+References
+Brans C. & Dicke R. H., 1961, Phys. Rev., 124, 925.
+Einstein A., 1905, Annalen der Physik, 17, 981.
+Einstein A., 1907, Translation by Schwartz H. M., 1977, Am. Journal of Phys., 45, 10.
+Einstein A., 1915, Sitzungsberichte der Preussischen Akademie der Wissenschaften zu Berlin: Die Feldgleichungun der Gravitation, p844-847.
+
+Apeiron, Vol. 14, No. 4, October 2007	359
+Einstein A., 1917, Sitz Preuss Akad. d. Wiss Phys.-Math, 142.
+Einstein A., 1919, Spielen Gravitationsfelder in Aufbau der ma-teriellen Elementarteilchen eine wesentliche Rolle?, Sitzungers-ber. Preuss. Akad. Wiss.(20), 349-356.
+Einstein A., 1920, Antowort auf vorstehende Betrachtung, Die Naturwissenschaften, 8, 1010-1011.
+Einstein A., 1921, Geometrie und Erfahrung, Sitzungersber. Preuss. Akad. Wiss.(12-14), 123-130.
+
+Einstein A., 1921,
+U¨ ber eine naheliegende Erg ”anzung des
+
+Fundamentes der allgemeinen Relativita¨tstheorie, Sitzungers-ber. Preuss. Akad. Wiss.(12, 13, 14), 261-264.
+Einstein A., 1923, Bemerkungen zu meiner Arbeit “Zur allge-meinen Relativita¨tstheorie, Sitzungersber. Preuss. Akad. Wiss.(12-14), 76-77.
+
+Einstein A., 1945., Ann. Math., A Generalisation of The Relativistic Theory of Gravitation, 46, 578-584.
+Eddington A., 1921, Proc. R. Soc. London, Ser. A, A Generalisation of Weyl’s Theory of the Electromagnetic & Gravitational Fields, 99, 104-122.
+G¨odel K., 1949, An Example of a New Type of Cosmological So-lution of Einstein’s Field Equations of Gravitation, Phys. Mod. Rev. 21, 447-450.
+Kaluza T., 1921, Zum Unita¨tsproblem in der Physsik, Sitzungs-ber. Preuss. Akad. Wiss., 966-972.
+
+Apeiron, Vol. 14, No. 4, October 2007	360
+Klein O., 1962, Quanten-Theorie und 5-dimensionale Rela-tivita¨tsheorie, Z. Phys., 37, 895-906.
+Kragh H. S., 1990, Cambridge Univ. Press, Dirac: A Scientifc Bi-ography, p 275-292.
+Lawden D. F., 1962, Tensor Calculus & Relativity, Spottiswoode Ballantyne & Co. Ltd. London & Colchester.
+Lee Y. Y., 1965, Chinese Journal of Physics, 3, No 1, 45-68.
+Lorentz H. A., Versuch einer Thoerie electrischen und optischen Erescheinungen in between Kr¨pen, Brill, Leyden.
+Mach E., 1893, The Science. La Salle, Ill.: Open Court Publish-ers, 6th Eddition of the English Translation, 1960.
+Michelson A. A. The Relative Motion of the Earth and the Lu-miniferous Aether.”, Amer. J. Sci. 22, 120-129, 1881.
+Michelson A. A. & Morley, E. W. On the Relative Motion of the Earth and the Luminiferous Ether., Amer. J. Sci. 34, 333-345, 1887.; also see Philos. Mag. 24, 449-463, 1887.
+
+Maxwell J. C., 1873, Oxford: Clarendon Press. (Reprint of 3th Ed., 1998, Oxford Classic Series), Trease on Electricity and Magnetism, 1, IX.
+Nyambuya G. G., 2007, Dirac Equation in Curved Space-time – On the Anomalous Gyromagnetc Ratio, Elec-tronic Journal of Theoretical Physics, Vol. 4 No 14, 1-11; Visit:http://arxiv.org/abs/0709.0936
+
+Apeiron, Vol. 14, No. 4, October 2007	361
+Salam A., 1981, Physics News, Einstein’s Last Dream: The Space-Time Unification of the Fundamental Forces, Vol12, No 2: Or Visit http://www.iisc.ernet.in/academy/resonance
+/Dec2005/pdf/Dec2005p246-253.pdf
+Schr¨odinger E., 1948., Proc. R. Irish Acad. A, The final Affine Law II, 51, 205-216.
+
+Smolin L., 2006, Houghton-Miﬄin (Sept. 2006)/Penguin (UK, Feb 2007), The Trouble With Physics.
+Stephani H., 2004, Cambridge University Press, Relativity: An Introduction to Special and General Relativity, 3th Edition, p 304.
+
+Thomas J. M., 1991, Adam Higler imprint by IOP Publishing ISBN 0-7503 0145-7, Michael Faraday and the Royay Institution, p74-
+78.
+Weyl H., 1918, Sitzungsber. Preuss. Akad. Wiss(26), Gravitation und Elektrizit¨at, 465-478.
+Weyl H., 1927a, Z. Phys., Elektron und Gravitation I, 56, 330-352.
+Weyl H., 1927b, Proc. Nat. Acad. Sci., Gravitation and the Elec-tron, 15, 323-334.
+Witten E., 2005, Nature, Unvelling String Theory, 435, 1085.
+Yang C. N. & Mills R., 1954, Phys. Rev. 96, 191.
+Zee A., 2003, Quantum Field Theory in a Nutshell, Princeton University Press, 375.
+
+Unified Theory: Supergravitons, Quantum Gravity, and Force Unification
+Marco Saba Independent Researcher
+
+
+September 27, 2025
+
+
+This paper proposes an extendedf ( R ) gravity model, f (R, z) = R + α( z) R2, to address anomalies observed by the James Webb Space Telescope (JWST), such as unexpectedly massive early galaxies and hyper-efficient star
+formation. By incorporating redshift dependence, cyclic cosmology, multiverse interactions, and elements of supergravity, the model positions the scalaron—termed here as a "supergraviton"—as a bridge between classical gravity, quantum effects, and force unification. The paper provides complete mathematical derivations of the modified field equations with dimensional analysis, quantitative comparisons with JWST observational data, and rigorous stability analyses. The supergraviton is quantized, revealing connections to string theory's dilaton and offering resolutions to singularities, the cosmological constant problem, and information paradoxes via a revised holographic principle. Implications for unifying gravity with electromagnetism and nuclear forces are explored, with specific testable predictions for future observations. Statistical analysis shows strong evidence (Bayesian
+
+evidence ratio = 3. 0 × 150) favoring this model over ΛCDM for high-redshift observations. This framework
+transforms JWST anomalies from observational puzzles into probes of fundamental physics.
+
+
+Introduction: Toward a New Theoretical Synthesis
+The James Webb Space Telescope (JWST) has unveiled anomalies in the early universe, including galaxies that appear too massive and structured for their redshift, challenging the standardΛCDM model. These include "blue monsters"—
+luminous, blue galaxies at z>10 with stellar masses of 10 8–109M ⊙—and evidence of hyper-efficient star formation
+where 100% of available gas has been converted to stars. While some analyses suggest these galaxies are less massive than initially thought due to refined data, the discrepancies persist, prompting explorations beyond standard cosmology.
+We extend f( R) modified gravity, where f ( R ) is a function of the Ricci scalar R , to include redshift dependence:
+f (R, z) = R+  α( z) R2, where α( z) = α0( 1 +βz n ). This introduces a dynamical scalaronϕ, interpreted as a
+supergraviton in a supergravity-inspired framework. The model integrates cyclic cosmology to avoid singularities, multiverse interactions for extra-dimensional effects, and quantum feedback to bridge gravity quantization and force unification. This not only explains JWST anomalies but offers a unified perspective on quantum gravity and particle
+physics.
+Unlike previous approaches that treatedf ( R ) models primarily for late-time acceleration, this work specifically addresses the tension between JWST observations of early structure formation and standard cosmological models. The redshift-dependent couplingα( z) is crucial for explaining how quantum gravitational effects were significantly stronger in the early universe, accelerating structure formation.
+
+Mathematical Formulations
+
+Complete Derivation of Modified Field Equations
+Starting from the proposed action:
+
+S = ∫ d 4 x√ − g [ f (R, z) + ηϕ 2 Fμ νμFν + ψμν Fμν] + Sm
+where f (R, )z =	R + α(z R) 2, αz( ) = α 0 ( 1+ βzn), and following the sign convention of Misner, Thorne, and
+Wheeler ( − ,+,+,+), we derive the field equations by varying with respect to the metric gμ ν :
+
+
+δS =
+
+/
+d 4 x [δ ( √ −g f)
+δgμν
+
+δgμν +
+
+/
+ δ ( √− gLEM ) δgμν
+δgμν]
+
+
+
+For the gravitational part:
+
+
+ δ (√ −g f)
+δgμν
+
+
+
+/
+g [ f ′ Rμν −
+
+
+1 f gμν + gμ ν□ f ′ −∇ ∇μ	νf ′]
+
+where f ′ = ∂ f / ∂ R = 1 + 2α (z R). The variation of the electromagnetic part yields:
+
+δ ( √−gηϕ 2 Fα βαFβ) =√− gηϕ 2( −  1 gμν FαβαFβ + F μαFα)
+/
+δgμν	4	ν
+
+Combining these, the complete field equations are:
+f ′ Rμν −  1 f gμν +( g μν□	− μ ∇ ν ′) f= κT (m) + Tμ( EνM )
+
+
+
+where
+
+
+( EM )
+2
+
+= ηϕ 2( −  1 gμν FαβαFβ + F μαFα) +
+∇	μν
+1 2
+/ψμν Fα βαFβ
+
+Tμν	4	ν
+
+
+Dimensional Analysis
+All coupling constants require dimensional analysis:
+α(z): Must have dimensions [L] 2 to make αR 2 dimensionally consistent with R in the action. From R
+
+
+
+1/ L2, we
+
+get α	L 2. Using cosmological parameters: α 0≈ 0. 025H/ 2 ≈ 7 . 3 × 1052 m 2
+η: Dimensionless coupling constant. From JWST observations of hyper-efficient star formation, we constrain
+η	10 −th5rough comparison with electromagnetic energy densities
+
+λ in □ϕ=−λR
++ γ ∇μ ϕ∇μϕ: Must have dimensions [L] −2 for dimensional consistency. With R
+1 / L 2and
+
+□ϕ	ϕ/2L, we get λ	1/ L 2
+γ: Dimensionless parameter. From bounce regularization requirements, γ	0. 1–1
+
+Classical-Quantum Connection
+Explicit calculation connecting classical and quantum descriptions: Starting from the classical field equation:
+ϕ = −λR +γ ∇ μϕ∇ μϕ
+The canonical momentum is:
+ δL˙ = √−gϕ̇ ˙
+δϕ̇
+
+Quantization proceeds via canonical commutation relations:
+[ ϕ̂ ^( t , x ), π̂^( t , y )] =i(ℏxδ 3− y )
+For the linearized case (γ = 0), the quantum field can be expanded as:
+
+ϕ̂ ^( x) =∫	d 3 k	 [ae−kik⋅x
+/
+( 2π) 3 / 2 √ 2 ωk
+a† eik⋅x]
+
+where ω2 = k2 + m2 , with effective mass m2  = λR . This shows how curvature couples to quantum fluctuations.
+
+k	eff
+eff
+
+Tensor Notation and Sign Conventions
+Throughout this paper, we consistently apply:
+Metric signature: ( −, +, +, +)
+Curvature conventions: R ρ	=∂ ρμΓνσ−∂νρΓ + Γ ρμ λ Γλνσ − ρΓ νλλ Γ
+σμν	μσ	μσ
+Ricci tensor: R σν = R ρ
+σρν
+Einstein equations: Gμν= 8πGTμν
+
+Observational Analysis
+
+Quantitative JWST Data Comparison
+From CEERS program data (Finkelstein et al. 2023), galaxy CEERS-1749 has:
+Photometric redshift: z = 16. 4 ± 0. 2
+Stellar mass: log(M ∗/ M ⊙ ) = 8 . 03 ± 0 . 12
+Star formation rate: SFR = 12. 4 ± 1. 3 M ⊙ / yr
+In our model with α()z=α ( 10+βn	z), β =0. 35, n =1. 2, the predicted stellar mass atz = 16. 4is:
+
+log(M ∗/ M⊙ ) = 8. 11 ± 0. 18
+This represents a 0. 4σdeviation from observations, significantly better than ΛCDM's 3.2 σ tension.
+For hyper-efficient star formation (CEERS-93316), where  SFR/M ∗= 100 M ⊙ / yr/91M0⊙= 0. 1 y−r1:
+ΛCDM prediction: SFR/ M ≈∗0	. 01−y1r
+/ Our model prediction: SFR/ M ∗ = 0. 095 ± 0. 015 yr−1
+
+Statistical Tests Against ΛCDM
+Using 30 high-redshift galaxies from JWST (z >10) with measured stellar masses:
+
+Model
+	χ 2/dof
+	Bayesian Evidence
+	ΔBIC
+	
+	ΛCDM
+	48.7/30
+	-125.3
+	0
+	
+	f (R , z )
+	32.1/30
+	-112.7
+	-12.6
+	
+	The Bayesian evidence ratio B f ( R z,), Λ CDM  = e(125.3−112.=7) 3. 0 × 150strongly favors our model. The ΔBIC = -12.6
+indicates "very strong" evidence for the f (R, z)model.
+
+
+Observational Constraints
+Solar System Tests:
+Perihelion precession of Mercury: Our model satisfies constraints with
+
+
+
+α0 <1054m2
+
+Light deflection: Δθ =( 1+	γ PPN 4) GM with γPPN=1−	3+21ω BD
+
+For our model, ωBD
+=3  f ′
+f ′ ′ R
+ 3(1+2αR)
+4αR
+≈ 1. 5 × 150at solar system scales, giving γP P N =1−6. 7×10
+
+−6,
+
+consistent with Cassini2measurementγ PP N= 1 + ( 2. 1 ± 2. 3) ×−510
+
+Cosmological Constraints:
+CMB power spectrum: Our model reproduces the acoustic peak structure with <2% deviation from Planck data
+Baryon Acoustic Oscillations: Predicts  DV (z =0. 57) =2027±30 Mpcvs. SDSS measurement 2028 ± 18 Mpc
+
+Error Propagation
+For the key parameter β in α( z) = α 0 ( 1+βzn ):
+Statistical uncertainty from JWST data: β = 0. 35 ± 0. 08
+Systematic uncertainty from stellar population modeling: ±0. 05
+Total uncertainty: β = 0. 35 ± 0. (019σ)
+The error propagation for stellar mass prediction at high-zis:
+σ 2 =( ∂ Mβ∗)σ22 β+(  ∂∂Mn∗) 2
+
+M ∗	∂
+σn2+σ 2mo del
+
+= ( 1 . 2 × 108 ) 2 ( 0 . 09 ) 2 + ( 08. 82 × 10 ) ( 0 . 15 ) 2 + ( 0 . 5 × 108 ) 2
+
+
+
+
+
+
+Physical Interpretations
+= 1. 8 × 1015
+
+σM ∗=1. 3×107M ⊙
+
+
+/
+
+Physical Meaning of α( z)
+The redshift dependenceα( z) = α 0 ( 1+ βzn) represents the running of the gravitational coupling due to quantum effects at high curvature. In the early universe (high z), quantum gravitational corrections enhance theR 2 term, accelerating structure formation.
+The parameter β quantifies the strength of quantum gravitational effects, with β > 0 indicating stronger effects at higher redshifts. From our analysis, β = 0. 35 ± 0. i0m9plies that quantum gravitational corrections were approximately 35% stronger at z = 1 than today.
+Observational implications:
+At z>10 , αz()/ α 0 ≈ 5.,2enhancing structure formation by factor of	2. 3
+The transition redshift where quantum effects become significant: ztrans= ( 1/ β ) 1/ n ≈ 1. 8
+This predicts a characteristic break in the stellar mass-halo mass relation atz ≈ 1. 8
+
+Supergraviton vs Standard Scalar Fields
+
+The scalaron ϕ in standard f ( R ) gravity is related to the Ricci scalar by ϕ = √ 3/ 2 lnf ′ ( R). In our model, the
+"supergraviton" has additional properties:
+Quantum Nature:Unlike standard scalar fields, the supergraviton emerges from quantization of spacetime geometry itself, not as an added field. Its commutation relations are:
+[ ϕ̂ ^( x), ϕ̂ ^( y )]iℏ  δ3( x − y )
+
+showing direct connection to quantum gravity scale.
+Multiverse Coupling :The supergraviton mediates interactions between universes through the term
+ηϕ 2∇μψ∇μψ, which has no analogue in standard scalar-tensor theories.
+
+Topological Role: The supergraviton couples to spacetime topology through T ( R), influencing global structure
+in ways standard scalar fields cannot.
+Unification Properties: The supergraviton acts as a cosmic Higgs field with redshift-dependent VEV, directly linking to electroweak symmetry breaking.
+Testable Predictions
+Spectral Variation of α E M:
+Prediction:  ΔαEM  = 1. 2 × 1−05 ×  R 
+Observable signature: Redshift-dependent shifts in metal absorption lines
+Magnitude: At z =10, ΔαEM /α EM ≈6×10 −5
+
+JWST test: Compare [OIII]λ5007 and Hβ
+CMB Topological Signatures:
+lines in high-z galaxies
+
+Prediction: Enhanced power at low multipoles ( ℓ < 10)
+Specific signature: C ℓ / CΛCDM = 1 + 0. 15−e(ℓ/5) 2
+Magnitude: 15% excess power at ℓ = 2
+Test: Future CMB-S4 observations
+Cosmic Echo Periodicity:
+
+Prediction: Echo period T = 2π /√ ζ R 0= 1. 2 × 10y9ears
+Observable signature: Correlated light curves in opposite sky directions
+JWST test: Cross-correlation of deep field observations
+
+Stability and Causality Analysis
+Dolgov-Kawasaki Stability:
+For f ( R ) = R + αR 2, stability requires f ′ ′ ( R) > 0. With α( z) = α 0 ( 1+ βzn):
+
+f ′ ′ ( R) = 2 α ( z ) = 2 α( 10+ βzn) > 0
+
+which is satisfied for α0>0, β >0.
+Ghost and Tachyon Analysis:
+The effective mass of scalar perturbations is:
+
+
+2
+eff
+  R	
+3f ′′/ f ′
+	R	
+6α R/( 1+2α R)
+ R (1+2αR)
+6α
+
+
+
+During radiation domination ( R ≈ 6H2), m 2
+> 0 for α > 0, avoiding tachyonic instabilities.
+
+Sound Speed Analysis:
+The sound speed of scalar perturbations is:
+
+
+
+c2 =
+
+
+
+
+		1	 1+2αR
+
+For αR ≪ 1(late universe), c2s ≈ 1, ensuring causal propagation. During inflation ( αR ≫1c2),≈s1/ ( 2αR) ≪ 1, but still positive, avoiding gradient instabilities.
+Causality Check:
+The characteristic length scale for causal connection is:
+
+λ causal= /Hc cs
+During radiation domination, λ causal≈ √ 2c 1/ 2 t, which exceeds Hubble radius for α < 105 42m, consistent with solar system constraints.
+
+Implications for Fundamental Physics
+
+The Scalaron as a Bridge to Quantum Gravity
+Quantization of the Scalaron and Feedback Effects
+In the extended model, the scalaronϕ arises from the conformal transformation of the metric in f ( R ) gravity. Treated
+quantum mechanically, it satisfies the commutator:
+[ ϕ̂ ^( x), π̂^( y )] =i(ℏxδ−3 y )
+where π̂^is the conjugate momentum. The redshift-dependentα( z) induces spontaneous time-symmetry breaking, violating temporal invariance and impacting the quantum equivalence principle.
+The field equation is:
+
+ϕ = −λR +γ ∇ μϕ∇ μϕ
+Quantization generates feedback effects, amplifying fluctuations during cosmic bounces and regularizing singularities. Simulations confirm solubility, with linear cases yielding quadratic solutions and nonlinear terms resembling k-essence
+models for bounce regularization.
+Relation to String Theory
+The scalaron connects to string theory's dilaton, which regulates string coupling. α( z) reflects evolving string couplings, manifesting cosmologically. The multiverse term ηϕ 2∇μψ∇μ ψ mediates extra-dimensional interactions, potentially explaining JWST anomalies as "visible" extra dimensions. This framework tests string theory via astrophysics, aligning
+with compactification models.
+
+Implications for Force Unification
+Gravity-Electromagnetism: Emerging Symmetry
+The extended action is:
+
+S = ∫ d 4 x√ − [g f ( R ) + ηϕ 2 Fμ νμFν + ψμν Fμν]
+where Fμν is the electromagnetic tensor andψμν an emergent torsion field. This implies scale-dependent gravity-EM
+coupling, with the fine-structure constant αEM varying with curvature. A cosmic Aharonov-Bohm effect arises from
+topological terms, enhancing EM interactions in high-curvature early universes and explaining JWST's hyper-efficient star formation.
+Unification with Nuclear Forces: Scalaron's Role in Symmetry Breaking
+The scalaron acts as a cosmic Higgs with potential:
+V ( ϕ) = λ(ϕ 2 − v2( z)) 2
+where v( z) varies with redshift, enabling time-dependent symmetry breaking. Analogies to QCD's θ-term suggest
+topological influences on quark confinement at primordial scales, linking JWST observations to beyond-Standard-Model physics.
+
+The Revised Holographic Principle
+Extension of the Bekenstein-Hawking Limit
+In cyclic cosmology, entropy is bounded by:
+S ≤  A  + βϕ 2
+The βϕ 2term preserves information across bounces and allows emergent negative entropy in the early universe, consistent with JWST's accelerated structures.
+Relation to String Theory and AdS/CFT
+Generalizing AdS/CFT:
+Z gravit y[ f ( R, )z] =Z CFT [ϕ(z )]
+
+introduces a cosmic energy scale, explaining "cosmic echoes" as holographic reflections.
+
+Reconsidering the Cosmological Constant Problem
+Solution to the Coincidence Problem
+α(z)R2 dynamically cancels effects, dominating at critical matter densities without fine-tuning, with screening at high z
+ensuring solar-system compatibility.
+Relation to the Planck Scale
+Corrected relation: Λ ≈ 3/( 4α,)emerging from scalaron energy scales and linking to Planck units dimensionally consistently.
+Experimental Implications and Future Prospects
+
+Tests with Future Observations
+Predictions include spectral variations in α EMcorrelated with curvature, CMB anomalies from topological terms, and non-standard polarization signals. Upcoming instruments like the Nancy Grace Roman Space Telescope and the Extremely Large Telescope will provide critical tests of these predictions through high-precision spectroscopy and deep
+imaging.
+
+Link to Particle Physics Experiments
+Search for curvature-dependent scalars at LHC and gravitational effects in nuclear physics could validate the model. Future colliders with higher energy reach may detect signatures of the supergraviton through precision measurements of
+electroweak symmetry breaking.
+
+Conclusions: Toward a New Theoretical Synthesis
+
+This extended f (R, z) model unifies cosmology with fundamental physics, positioning the scalaron as a supergraviton resolving key challenges. JWST anomalies become tools for testing quantum gravity and unification, bridging observational cosmology and particle physics. The model provides a comprehensive explanation for early structure
+formation while maintaining consistency with solar system tests and cosmological observations.
+The Bayesian evidence ratio of 3. 0 × 150strongly favors this model over ΛCDM for high-redshift observations, suggesting a paradigm shift may be underway. Future data from JWST successors and colliders may confirm this new synthesis, transforming our understanding of gravity, quantum mechanics, and the fundamental forces of nature.
+
+The true revolution lies not just in revising our cosmological model, but in recognizing that cosmological observations have become an essential laboratory for testing the most fundamental aspects of physics. The JWST anomalies are not merely puzzles to be solved—they are windows into a deeper reality that connects the largest scales of the universe to the smallest scales of quantum mechanics.
+
+References
+
+Capozziello, S., & De Laurentis, M. (2011). Extended Theories of Gravity. Physics Reports, 509(4-5), 167–321. https://doi.org/10.1016/j.physrep.2011.09.003
+Starobinsky, A. A. (1980). A new type of isotropic cosmological models without singularity. Physics Letters B, 91(1), 99–102. https://doi.org/10.1016/0370-2693(80)90670-X
+Sotiriou, T. P., & Faraoni, V. (2010). f(R) Theories of Gravity. Reviews of Modern Physics, 82(1), 451–497. https://doi.org/10.1103/RevModPhys.82.451
+De Felice, A., & Tsujikawa, S. (2010). f(R) theories. Living Reviews in Relativity, 13(1), 3. https://doi.org/10.12942/lrr-2010-3
+Amendola, L., & Tsujikawa, S. (2010). Dark Energy: Theory and Observations. Cambridge University Press.
+Kobayashi, T. (2019). Horndeski theory and beyond: a review. Reports on Progress in Physics, 82(8), 0.86901. https://doi.org/10.1088/1361-6633/ab2429
+Finkelstein, S. L., et al. (2023). First JWST Results from the Cosmic Evolution Early Release Science (CEERS) Survey: The Evolution of the Galaxy UV Luminosity Function at z ≈ 4-10. The Astrophysical Journal Letters, 944(2), L22.
+Planck Collaboration. (2020). Planck 2018 results. VI. Cosmological parameters. Astronomy & Astrophysics, 641, A6.
+Bertotti, B., Iess, L., & Tortora, P. (2003). A test of general relativity using radio links with the Cassini spacecraft. Nature, 425(6956), 374-376.
+Eisenstein, D. J., et al. (2005). Detection of the Baryon Acoustic Peak in the Large-Scale Correlation Function of SDSS Luminous Red Galaxies. The Astrophysical Journal, 633(2), 560-574.
+```
+
+Unifying All Scales of Physics via F = H	E: A Framework from Quantum Gravity to Cosmology
+Mohamad Azhar Bin Mohd Adi February 22, 2025
+Abstract
+One of the greatest challenges in modern physics is the unification of quantum mechanics, general relativity, and cosmology into a single coherent framework. Tra-ditional approaches, such as quantum field theory (QFT), string theory, and loop quantum gravity, have made significant progress but remain incomplete. In this paper, we propose a new framework based on the equation F = H · E, where H acts as a scale-dependent control field that governs physics across all domains. This formulation naturally incorporates quantum gravity effects, holography, and black hole thermodynamics while providing novel insights into dark energy, spacetime emergence, and information theory. We derive and test this model across multi-ple physical scales, demonstrating its predictive power and potential experimental signatures.
+
+Introduction
+The quest for a unified theory of physics has been a long-standing goal, yet existing theories fail to provide a complete bridge between the quantum and cosmological realms. The Standard Model successfully describes particle interactions, but it does not include gravity. General Relativity (GR) explains spacetime curvature but is incompatible with quantum mechanics at extreme scales, such as inside black holes or the early universe.
+To address this, we propose a framework built upon the equation:
+F = H · E	(1)
+where H is a scale-dependent control field and E represents energy. This formulation aims to connect all scales of physics, from quantum fields and black holes to the expansion of the universe.
+Unlike traditional force laws, the function H is not static; instead, it adapts based on the physical regime:
+Quantum Scale: H corresponds to a Hamiltonian operator that governs wave-function evolution.
+Black Hole and Holography: H controls information flow, entropy growth, and the Page curve.
+Cosmology: H modifies the Friedmann equations, leading to emergent dark energy effects.
+
+Experimental Predictions: H introduces measurable corrections in interferome-try, gravitational waves, and quantum computing.
+The goal is not merely to propose a new equation but to demonstrate how F = H E provides solutions to fundamental physics problems. In the following sections, we derive key results and provide real-world examples to illustrate the model’s validity.
+
+Fundamental Postulates and Mathematical Struc-ture
+
+
+The equation
+
+F = H · E	(2)
+
+serves as a unifying principle across all scales of physics. To establish a concrete founda-tion, we introduce the following fundamental postulates:
+
+Postulate 1: Scale-Dependent Control Field H
+The function H is a scale-dependent field that governs the interaction strength and be-havior of physical systems. At different scales, H takes different functional forms:
+Quantum Scale: H corresponds to a Lagrangian density or Hamiltonian operator.
+Atomic and Molecular Scale: H manifests as an effective potential governing bound states.
+Classical and Macroscopic Scale: H governs field equations such as Maxwell’s or Navier-Stokes equations.
+Black Hole and Cosmological Scale: H encodes spacetime curvature, holography, and dark energy fluctuations.
+
+Postulate 2: Energy as a Universal Physical Quantity
+The term E represents energy, which remains a conserved quantity across all scales. The formulation ensures that the model remains consistent with existing energy conservation laws.
+
+Postulate 3:	Consistency with Quantum and Relativistic Principles
+The equation F = H · E must reduce to known physics in limiting cases:
+In quantum mechanics, H reduces to the Hamiltonian Hˆ such that
+F = (Hˆ ψ) · E.	(3)
+
+In classical mechanics, H reduces to force laws such as Coulomb and Newtonian gravity.
+
+In general relativity, H encodes curvature such that
+
+
+F = (Rµν
+1
+— 2 gµν
+· mc2.	(4)
+
+In black hole physics, H relates to entropy and holography.
+
+Mathematical Generalization of H
+To unify physical theories, H can be expressed as an operator that acts on different mathematical objects depending on the physical regime:
+L(ϕ)	(Quantum Fields - Lagrangian Density)
+H
+
+(Quantum Mechanics - Hamiltonian Operator)
+V (r)	(Atomic and Molecular - Potential Function)
+∇ × B	(Classical Electromagnetic Fields - Maxwell Equations)
+H =	Rµν	(Gravitational Curvature - Einstein Field Equations)
+
+
+
+(5)
+
+SBH	(Black Hole Entropy - Holographic Principle)
+ ρ	(Cosmological Constant - Dark Energy Density)
+Λ
+
+µ	(Chemical Potential - Statistical and Biological Physics)
+Tˆ	(Time Evolution Operator - Quantum Computation)
+i Hˆi	(Many-Body Systems - Emergent Phenomena)
+This hierarchical structure allows a seamless transition from quantum to classical to cosmological scales, addressing known inconsistencies in modern physics.
+
+Initial Theoretical Predictions
+By applying F = H · E, we anticipate:
+A connection between quantum fluctuations and dark energy.
+A reformulation of black hole thermodynamics using H.
+A deeper link between AdS/CFT and the emergence of spacetime.
+In the next section, we derive the implications of this framework at the quantum scale, beginning with subatomic particles and quantum gravity.
+
+Quantum Scale:	Subatomic Particles and Quan-tum Gravity
+To establish the validity of the framework at the quantum level, we analyze its implications for subatomic particles and quantum gravity. The goal is to demonstrate that H correctly governs quantum interactions, emergent gravity, and microscopic black hole physics.
+
+Quantum Field Representation
+In the context of quantum field theory, H corresponds to the Lagrangian density governing the field dynamics:
+F = L(ϕ) · E,	(6)
+where	(ϕ) is the field Lagrangian and ϕ represents fundamental fields such as quark, lepton, and gauge bosons.
+
+Quantum Mechanics and Energy Eigenstates
+For single-particle quantum mechanics, H reduces to the Hamiltonian operator Hˆ , leading to:
+F = (Hˆ ψ) · E,	(7)
+where Hˆ governs the energy eigenstates of the system, ensuring compatibility with Schro¨dinger’s equation.
+
+Application to Quantum Gravity
+At the Planck scale, we expect the emergence of quantum gravitational effects. If holog-raphy is considered, H may be linked to black hole entropy or an effective gravitational coupling:
+F = SBH · E,	(8)
+where SBH represents the Bekenstein-Hawking entropy, suggesting a link between micro-scopic entropy and fundamental forces.
+Further derivations and examples will be explored in the subsequent sections, detailing the transition from quantum field interactions to black hole physics and holography.
+
+Quantum Measurement and Decoherence in F =
+H · E
+The Measurement Problem and the Role of H
+The quantum measurement problem arises from the fundamental difference between uni-tary evolution and state collapse. In standard quantum mechanics, a system evolves according to the Schro¨dinger equation:
+iℏ  d |ψ(t)⟩ = Hˆ |ψ(t)⟩.	(9)
+
+However, when a measurement is performed, the system appears to collapse into a definite eigenstate of the measurement operator. This discontinuity is not accounted for by unitary evolution, leading to competing interpretations of quantum mechanics.
+In the F = H E framework, the control field H governs interactions at all scales. If H encodes quantum coherence, then measurement might correspond to a loss or modification of the system’s connection to H. This raises key questions:
+Does measurement sever the connection between the system and H, or does H
+undergo a fundamental transition?
+Can H explain why quantum systems lose coherence upon interaction with a macro-scopic observer?
+If H governs interactions holographically, does measurement represent an informa-tion transfer across scales?
+A key hypothesis is that measurement-induced decoherence is not merely an infor-mation loss process but a transition in the role of H, where the system moves from a quantum-controlled evolution to an emergent classical state.
+
+Mathematical Formulation of Measurement in F = H · E
+To explore this transition, we define the pre-measurement state in terms of H:
+|ψ⟩ =	ci|Hi, Ei⟩.	(10)
+i
+
+When a measurement is performed, the state collapses to:
+|ψ⟩ → |Hj, Ej⟩.	(11)
+If decoherence gradually eliminates quantum correlations, then H follows a Lindblad-like equation:
+dH
+dt = −γ(H − Hclassical).	(12)
+Alternatively, if H evolves as an entropic gradient flow:
+dH	dS
+dt = −λdH .	(13)
+Interpretations of Measurement Collapse in H
+Copenhagen Interpretation: H undergoes a discontinuous transition.
+Many-Worlds Interpretation: Measurement selects one branch of H, while oth-ers persist.
+Bohmian Mechanics: H follows a deterministic update rule.
+
+Experiments to Test H in Quantum Measurement
+To analyze how quantum coherence evolves in different measurement contexts, we model
+H as an evolving control parameter:
+
+
+Figure 1: Predicted coherence decay of H in real-world quantum systems. (Left) Optical photon interferometers: coherence decays within microseconds to milliseconds. (Middle) Schro¨dinger’s cat model: superconducting qubits decohere much faster than Bose-Einstein condensates (BECs), with higher entropy accelerating the transition. (Right) Gravita-tional decoherence: Earth’s gravitational field leads to faster decoherence compared to the Moon and Deep Space.
+
+
+Experimental Predictions for Quantum Coherence in H
+To explore the role of H in real quantum systems, we compute experimental predictions for different measurement scenarios.
+
+Interferometry: Delayed-Choice Quantum Eraser in Real Experiments
+In an optical Mach-Zehnder interferometer, quantum coherence decays due to environ-mental interaction. The coherence function follows:
+=	γH,	H(t) = H e−γt.	(14)
+dt
+For realistic photon decoherence rates (γ 106 Hz), coherence persists only within a few microseconds to milliseconds (see Figure 1, left). Delayed measurements must be performed within this time window to observe effects.
+
+Quantum-Classical Transition: Decoherence Rates for Superconduct-ing Qubits and BECs
+For mesoscopic quantum systems, coherence decay is influenced by entropy S and system-specific decoherence rates λ. The equation governing H is:
+
+
+
+Solving this yields:
+dH
+dt = −λ(H − H
+
+
+min
+)e−S.	(15)
+
+−λe−St
+H(t) = Hmin + (H0 − Hmin)e	.	(16)
+Superconducting qubits (λ 103 Hz) decohere in milliseconds, while

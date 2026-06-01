@@ -1,0 +1,442 @@
+intentionally simple and readable, providing a clear computational confirmation of the model’s descriptive power.
+
+Final Verdict and Recommendations
+Verdict
+Based on the demonstrations achieved throughout this manuscript, we reach a clear and irrefutable conclusion:
+The Hijolum´ınico Equation stands as a legitimate, foundational candidate for
+a unifying description of physical reality.
+It is not merely a reformulation or abstraction—it is a geometrically grounded field equa-tion from which the entirety of known quantum, relativistic, and gauge dynamics naturally emerge. The consistency of its limits with Dirac, Schro¨dinger, and Klein–Gordon equations, along with its ability to geometrically encode vibrational mass and fundamental interactions, confirms its structural superiority.
+The Hijolum´ınico framework redefines our understanding of matter, force, and space-time—not as fundamental entities, but as emergent results of internal vibrational curvature and phase collapse.
+
+Recommendations for Future Development
+While this work establishes a strong theoretical basis for the Hijolum´ınico field equation, several directions remain essential for completing its scientific and empirical validation:
+Develop a full quantum field theoretic formulation, with renormalization properties and Feynman rules derived from the Hijolum´ınico Lagrangian.
+Compare numerical predictions of masses, cross sections, and decay rates with experi-mental data from particle physics (e.g., LHC).
+Explore cosmological models of early universe inflation and singularity resolution based on vibrational collapse.
+Investigate the emergence of entanglement and nonlocality from thread interactions and topologies.
+Design experimental proposals to test predictions unique to the Hijolum´ınico model not explained by Standard Model extensions.
+These steps will help strengthen the empirical legitimacy of the Hijolum´ınico paradigm and potentially reveal new physics beyond current frameworks.
+
+Conclusions
+The development of the Hijolum´ınico model has led to a unified framework in which the known fundamental interactions gravitational, electromagnetic, weak, and strong emerge naturally from intrinsic vibrational and geometric principles. This approach not only recovers well established physics as limiting cases, but also redefines them as emergent phenomena from a deeper vibrational substratum.
+The results suggest a profound conceptual shift: the fundamental components of nature mass, interaction, and spacetime are not primary constructs, but consequences of internal phase dynamics. This insight opens the door to reinterpret the universe not as a static stage for particles and forces, but as a resonant, living structure shaped by geometric har-mony. This view echoes some of the geometric intuitions proposed in broader cosmological treatments [14].
+This work contributes to the ongoing search for a unified theory by offering both math-ematical rigor and philosophical depth, grounded in a coherent and predictive model.
+
+Python code for the graphical reproduction
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+
+
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+
+Listing 1: Python code to fit Hijoluminic model
+
+References
+Yruretagoyena Conde, R. (2025). The Hijolum´ınic Theory: Collapse of Light, Curvature, and the Vibrational Genesis of Reality. Zenodo. urlhttps://doi.org/10.5281/zenodo.15770629
+Peskin, M.E., and Schroeder, D.V. (1995). An Introduction to Quantum Field Theory. Addison-Wesley.
+Dirac, P.A.M. (1928). The Quantum Theory of the Electron. Proceedings of the Royal Society A, 117, 610–624.
+Klein, O. (1926). Quantentheorie und fu¨nfdimensionale Relativit¨atstheorie. Zeitschrift fu¨r Physik, 37(12), 895–906.
+
+Schr¨odinger, E. (1926). An Undulatory Theory of the Mechanics of Atoms and Molecules. Physical Review, 28(6), 1049–1070.
+Weinberg, S. (1995). The Quantum Theory of Fields, Vol. I-III. Cambridge University Press.
+Zee, A. (2010). Quantum Field Theory in a Nutshell. Princeton University Press.
+Misner, C.W., Thorne, K.S., and Wheeler, J.A. (1973). Gravitation. W. H. Freeman.
+Carroll, S.M. (2004). Spacetime and Geometry: An Introduction to General Relativity. Addison-Wesley.
+Higgs, P.W. (1964). Broken Symmetries and the Masses of Gauge Bosons. Physical Review Letters, 13(16), 508–509.
+’t Hooft, G. (1971). Renormalizable Lagrangians for Massive Yang-Mills Fields. Nuclear Physics B, 35, 167–188.
+Eichten, E., Gottfried, K., Kinoshita, T., Kogut, J., Lane, K.D., and Yan, T.M. (1975). Spectrum of charmed quark–antiquark bound states. Physical Review Letters, 34(6), 369–372.
+Feynman, R.P., and Hibbs, A.R. (1965). Quantum Mechanics and Path Integrals. McGraw-Hill.
+Penrose, R. (2004). The Road to Reality. Jonathan Cape.
+
+/
+Weaknesses in the Formation and Evolution Processes of Mainstream Gravity and Cos-mology Theories, and their Consequences
+Thierry De Mees
+
+e-mail: thierrydemees@telenet.be
+
+In this paper, I draw the list of weaknesses of the mainstream gravity and cosmology theories. First, the special and general relativity theory are discussed, where the emphasis is on the physical meaning of length contraction, the time expansion and the time delay. Then, the hypothesis of dark matter inside disk galaxies is treated. Since my paper of 2004 [10], this hypothesis has fainted, and I explain the reasons of it. The hypotheses of dark energy, the expanding and the accelerating universe are historically edified upon the big bang hypothe-sis and I criticize it by using physical objections which lead to obvious alternatives. Also the weakness of the planetary system’s creation theory is physically analyzed. Finally, I explain the evolution process of the modern gravity and cosmology theories and the possible reasons and causes for the increasing alienation from rational thinking.
+
+WEAKNESSES IN THE THEORIES
+Einstein added another set of obvious consequences. Since light is a wave, its wave velocity c in the aether can be ex-
+
+Special Relativity’s historical background
+pressed as c 
+wherein E is the energy density of the
+
+and its weaknesses in a nutshell
+The facts and the critics [4]
+At the end of the 1800’s and the beginning of the 1900’s, it was common knowledge that the universe would lay in an uni-versal luminiferous aether. That aether had a certain universal velocity, independently from the Earth’s motion. Light travel at a certain velocity in that aether, and that velocity should be larger in some directions than others.
+When Michelson and Morley tried to find the aether’s relative
+medium and  its density. It was known since long time that E   c2 , or expressed in the more usual way (absolute values instead of densities): E  mc2 . Einstein assumed that the ve-locity of light was invariable in its medium. Since energy is vari-able with speed by adding kinetic energy, he found the obvious consequences that not only length contracted with the factor
+, but consequently, mass and time had to increase
+
+velocity to the Earth, they always found no result at all.
+Lorentz, a leading professor, suggested that light would be
+with the factor 1 v2
+c2 1 .
+
+contracted in the direction of its relative velocity, exactly the in-verse of the presumed value of the Michelson and Morley expe-riment. So, it was a inevitable trivial consequence that the expe-riment had to give a null result.
+The Lorentz contraction was the answer to the following se-tup: to produce an experiment with an expected a priori result A , and since the result of the experiment was status quo (say, a result 1), to construct a theory 1 A so that the combination
+Einstein concluded that he didn’t need the aether for his theory, which is of course an intellectual aberration, since every-thing of the reasoning is based upon the assumption of an uni-versal aether at a velocity v. This brought Einstein to add a second fundamental weakness in his theory.
+A third weakness, caused by the physical consequence of the denial of aether is the relativistic definition of ‘the observer’, which has nothing to do with the interaction of light in an aether.
+This means that there doesn’t exist any physical explanation of
+
+A  1/ A  1
+A 
+er.)
+i.e. the status quo result itself. (In the above, wherein v is the assumed velocity of the aeth-
+the length contraction but only a metaphysical state of an observ-er.
+The support for the special relativity theory is found in the correctness of the Doppler effect for light and in the invariance of
+
+This is the first fundamental and critical weakness where the special relativity theory is based upon.
+the factor
+in the Maxwell Equations for electro-
+
+Weaknesses in the Formation and Evolution Processes of Mainstream Gravity and Cosmology Theories, and their Consequences - 2011	T. De Mees
+
+
+magnetism. In the next chapter however, it will appear that the general relativity theory alienates from this point of view.
+The traverse Doppler effect, which is ruled by the inverse fac-
+Post-Special Relativity Theories’ historical background and its weaknesses in a nutshell
+
+tor 1 v2
+c2 1
+, shows that the special relativity theory for-
+The facts and the critics [ 4 ] [ 3 ]
+The Minkowski space-time is the expansion of special relativi-
+
+got to consider the perpendicular effects of light. Indeed, the theory only considers a one-dimensional process. Einstein’s theory covers the Doppler effect of light in one direction, nothing more.
+Another weakness , the fourth one, is the intrinsic assumption that time can only be measured through light, which on its turn is affected by distortions. It is not considered that other means would exist to deduce local time correctly, or that a pre-calculation can rectify the measurements. Einstein wanted the measured results to concord directly with the theoretical solu-tion, without much more considerations.
+The fifth weakness of the theory is that the assumed proper-ties of light waves were plainly transferred to matter. The appar-ent concordance of the Doppler equations of light into a wide spectrum of applications was an amazing gambling windfall.
+Finally, the sixth weakness is the assumption that the speed of light is a constant for every observer. Physically speaking, the speed of light is only measurable when a light wave hits the eye or a detector. But if the light speed could be measured from a distance, when the wave departs from one object and finally reaches a second object that moves at a different speed, it is ob-vious that the light speed can’t be identical during the whole path.
+1.2 The alternatives
+Let us see if there are alternatives. The Michelson and Morley experiment gave a status quo result. Strictly speaking, that means that the velocity of the aether is zero to the Earth and that no theory at all can be found through the experiment. There was an excellent reason to maintain the hypothesis of an aether, but an aether that was locally bound with masses. This track would have been a much more valid alternative.
+Hence, it is clear that special relativity is, in a physical reality, nothing more but a part of the Doppler effect in a physical aether. So, there is no new theory to be found at this stage of the analysis. An utmost interesting theory was already found by Oliver Heaviside at the end of the 19th century, the transposition of the Maxwell equations of electromagnetism into gravity, wherein the Coulomb law became the Newton law and the Lo-rentz force an equivalent Lorentz force for gravitation, where the magnetic field was transposed into a ‘gyrotation’ field: the
+transmission of motion (or rotation) by gravity into space.
+Below, it will be clear that the only fact that Heaviside’s theory couldn’t yet explain the double bending of light and the full perihelion advance of Mercury was a fatal handicap at that time. Let us now look at the second mainstream theory, the Min-kowski space, which is fully based upon the failing special rela-tivity theory.
+ty and was created in an attempt to generalize it in the three di-mensions of place and one dimension of time. This approach was only applicable for a space without gravity, where light follows straight paths.
+The alternatives
+Strictly speaking, when interpreting the Minkowski space-time as a Doppler effect, it could have been of some use, at the condition of include the transverse Doppler effect, perpendicu-larly on the light’s path, which is an inverse Doppler factor. It would then be clear as well that, by interpreting both Doppler effects, a length shortening of a wave in one direction would si-multaneously engender a length increase in the perpendicular direction, which agrees with the Heaviside theory (Gravitomag-netism) for elementary particles [4]. Moreover, the Heaviside theory makes a difference between ‘mass’ and ‘gravity field of a mass’. Where special relativity speaks of an infinite mass at ve-locity c , Heaviside’s theory will speak of an infinite gravity field in the perpendicular direction to motion but a zero gravity field in the direction of motion.
+General Relativity’s historical background and its weaknesses in a nutshell
+The facts and the critics [3]
+General Relativity is based upon the idea that Gravity deflects not only light, but also any electromagnetic wave. Moreover, it is now assumed that the whole universe is made of these waves, including mass.
+In the 1910’s, the bending of light was measured several times, and the remaining perihelion advance of Mercury still was unexplained.
+There was a peer pressure of competition between several scientists of that time, Poincaré and Lorentz being the most im-portant ones. But instead of finding a theory that would have the bending of light and the perihelion advance of Mercury as appli-cations of the theory, Einstein, with the help of Marcel Grossman, fabricated an integrated gravity model with both solutions in-cluded and integrated.
+I consider that the first weakness. The best theories should not include solutions within themselves, but explain phenomena by the theory’s applications. Einstein wanted the measurements being directly confirmed within the theory. Indeed, Einstein rea-lized later that this wasn’t possible. When, from an object, a light ray departs (known time and place) and it arrives at another ob-
+ject (known time and place) after a gravitational bending, it is obvious that the speed of light isn’t experienced as c . The same
+occurs when the two objects are relatively moving. Though very locally the speed may be always very close to c , the overall
+speed isn’t.
+
+Weaknesses in the Formation and Evolution Processes of Mainstream Gravity and Cosmology Theories, and their Consequences - 2011	T. De Mees
+
+
+The true Gravitomagnetism (the Heaviside theory, and not the linearised GRT, see below in this paragraph) works the other way around: the theory provides the data in every point of space and the measurements have to be understood within that framework. Though this can be seen as a weakness, almost all the actual theories work that way. The theory can be confirmed by testing and measuring, while having the theory in mind.
+A theory should be as simple as possible. It appears that this is not the case with the actual mainstream theory, which is only able to get general solutions but no detailed ones. That is the second weakness. Exact solutions such as the Schwarzschild and the Kerr metric are very rare, and moreover, revealing little.
+The appropriation of the Equivalence Principle by Einstein is a third weakness because Einstein’s reasoning makes a turna-round. Moreover, he reasons in Newtonian gravity only which has nothing to do with the specificities of GRT.
+himself much later, that inertia would depend from the rest of the universe and that inertia of a mass would be zero in the ab-sence of other masses. I proved [19] with a few considerations (see the next paragraph) that inertia is caused by the own created fields about the particle, which have an immense impact upon the surroundings (electromagnetism and gravity) but also upon itself, when a displacement causes a Doppler effect and so, a strong local field increase causing an counteracting response.
+During the 20th century, several ‘improvements’ have been made on the theory and alternative theories have been used, as the post-Newtonian theory, the trendy MOND theory, the ‘linea-rised GRT’ and so on. These adaptations confirm the need of simpler solutions to the highly nonlinear general relativity theory.
+The alternative
+
+a  F1	mi
+
+/
+m
+g
+
+
+
+
+
+Fig.1
+Here as well, the Heaviside theory or (true) Gravitomagnet-
+ism is instead able to deduce, as simple applications :
+The swiveling of orbits (of planets), about a spinning ob-ject (the sun), to its equatorial plane. The orbits become prograde [12].
+The origin of Saturn’s tiny rings [16].
+
+F
+2
+g
+Indeed, if we compare
+
+
+F1  mi a
+
+
+
+and
+
+
+F2  mg g
+
+
+
+in one
+The origin of the planetary system [17].
+The light and mass horizons of black holes [14].
+The prediction of torus-like black holes [12].
+The prediction of non-exploding fast spinning stars [12].
+
+single experiment, where both setups are connected with each-other, so that F1  F2 , as in fig.1, we get mg /mi  g / a . This equation gives an infinite number of solutions. However, the single fact that Newton defined
+g  G M	R2
+(wherein we can write Mg  N mg , with N a real number) makes that G has been defined in relation to mg .
+When eliminating g , one gets:
+The full explanation of the explosion of hourglass super-novae [21].
+The double deflection of light by gravity [22].
+The prograde, equal velocity of stars in disk galaxies [23].
+The full Mercury perihelion advance [13].
+The general motions of asteroids [20].
+The lifetime increase of fast moving unstable particles [24].
+A gravitational repulsion mechanism [12].
+A second theory, very close to the Heaviside theory is able to
+
+G  a mg  R	 a mg
+R	 a R
+define the main components of gravitomagnetism, based upon the hypothesis that the forces between particles are caused by a
+
+mi Mg	mi N mg	N mi
+which denotes an equation with an inertial mass only! So, we can write
+a  G M / R2 .
+The form is exactly the same as the gravity form, but with two gravity components, G and R . Hence, mg  mi .
+The Equivalence Principe was already implicitly included in Newton’s gravity and it was nothing more but a choice to reduce an infinite number of solutions into one single solution. This equivalence doesn’t mean that both physical processes, the iner-tial and the gravitational acceleration are identical. While gravity depends from the rest of the universe, inertia might be only due to itself.
+So we come to the fourth weakness, which is the assumption of Mach’s Principle. It is very unlikely, and Einstein corrected
+Coriolis effect between a spinning particle of trapped ‘light’, and some escaping ‘light’ from another particle [15]. The word ‘light’ stands for ‘electromagnetic waves’.
+The effect applies to the sun, where there is an amazing link between its mass, radius and spin velocity: the ‘universal’ gravi-tational constant is the glue of that relationship [15].
+Dark Matter’s historical background and its weaknesses in a nutshell
+The facts and the critics
+One of the mysteries of the cosmos is the discovery that in disk galaxies, the velocity of the stars of the disk is almost con-stant. The Milky way characteristics are shown in Fig. 2 (from Burton 1976 Ann. Rev. 14, 275, shown from the ADS).
+The linear velocity of the stars is given by the curve  (R)
+and is fairly constant from the distance of 1 kpc from the centre
+
+Weaknesses in the Formation and Evolution Processes of Mainstream Gravity and Cosmology Theories, and their Consequences - 2011	T. De Mees
+
+on. The curve  (R) represents the observed mass density. This curve is smooth and resemble a hyperbolic function.
+Fig. 4. Schematic view of a spherical galaxy with a spin-ning  central  zone  with
+
+mass M 0
+and a division into
+
+fictive spherical shells with each a mass M 0 . An orbiting star about the centre is shown.
+
+
+Let us start from a spherical galaxy with a spinning centre, due to fast spinning stars and black holes. Let the fast spinning stars essentially be active in a central zone with a radius R0 . Let
+
+the total radius of the galaxy be a multiple of
+R0 . A schematic
+
+
+
+In Fig. 3. some other velocities are shown of several other disc galaxies (from Rubin, Ford, and Thonnard 1978 ApJL 225, L107, reproduced courtesy of the AAS). In general, we can say that the velocity of the stars is fairly constant, beginning at a dis-tance of 2 kpc.
+The centre of the bulge has no specific (average) velocity, which result in a zero velocity in the figure. The first part of the disk outside the bulge, at nearly 2,5 kpc has often got a some higher velocity. And over 4 kpc, the velocity is almost linear.
+Since the stars’ orbits don’t follow the Kepler velocities, the Swiss, Fritz Zwicky wrongly assumed in 1934 that there would be a corrective invisible dark mass in and around the galaxies.
+view of a spherical galaxy is given in fig.3. It has a spinning cen-tral zone with mass M0 . Let us divide it into fictive spherical
+shells with each a mass M0 .
+According to Kepler, a star’s orbit with a radius R obeys to
+a velocity according the equation v2	 GM	R .	(1)
+Due to that central rotation, all the stellar orbits get influ-enced. Through the gravitational transmission of angular mo-mentum, all the orbits will swivel down to a prograde disk. The original orbits’ radii are almost not affected by this process. This follows from Gravitomagnetism.
+Let fig.5 be a schematic side view of the final disk galaxy hav-ing a central bulge with a radius R0 .
+
+
+/
+Fig. 5. Schematic view of a disk galaxy having a set of concentric circle-rings with a mass M 0 .
+Since the swivelled orbits create a very dense disk, the divi-
+
+sions into masses M 0
+will have to be taken in account for the
+
+calculus of the Kepler equation. In other words, the attraction at the radius R is not ruled by only M 0 , but by 3M 0 (in fig. 4).
+The radius R can also be expressed as a multiple of R0 .
+In general, it can be (roughly) said that :
+
+
+Mainstream followed the idea as sheep. However, the correct
+2
+R,disk
+ G n M 0 
+k R0
+
+(2)
+
+answer is simple and is given below.
+The alternative
+We have to consider some other facts before we go for an analysis of the stars' velocities in the disk galaxy: we need a re-construction of the original spherical galaxy where it came from. And we analyse the disk part of the disk galaxy as well.
+with n and k the geometrical quasi-constant functions that
+depend upon the mass distribution of the original spherical gal-axy. The right hand only consists of constants, whereof  n and
+k are strongly covariant, which proves the principle of the con-stancy of the velocity of the stellar orbits in a disk galaxy.
+Since the publication of my paper in 2004, there occurs a steadily fainting of the dark matter idea, but still there is a halo of secrecy within mainstream, allowing doubt on the issue.
+
+Weaknesses in the Formation and Evolution Processes of Mainstream Gravity and Cosmology Theories, and their Consequences - 2011	T. De Mees
+
+
+The Hubble constant and the expanding un-iverse, historical background and its weak-nesses in a nutshell
+The facts and the critics [11]
+Light from stars is red-shifted. The colors tend to the red side of the light spectrum. Edwin Hubble interpreted this as a Dopp-ler-shift, standing for a velocity. Since all the stars, pulsars and quasars are red-shifted, Hubble decided that the red-shift was the evidence for an expanding universe, since the Jesuit Georges Lemaître just had invented the idea of an expanding universe, becoming later the Big Bang theory.
+Definition of the expanding universe.
+H is the Hubble constant according to the Zwicky definition
+z  exp H d /c 1 (herein z is the measured red-shift fac-tor, d the known distance of a star by its luminosity analysis and
+c the speed of light). With well-known stars, one can find H
+and with the known H , one can extrapolate the distance for other stars.
+The time-dependent scale factor a , related to the Hubble
+constant is defined by r  a t  x , where x is the static, non-
+expanded length and r is the real radius of the universe due to expansion. The universe then expands with the scale factor a ,
+I also described a way to define the real distance of stars by the light fatigue, which is frequency-dependent in the second power [25], while other red-shifts are linearly frequency-dependent (first power). However, it is unknown at what rate light fatigue occurs nor if sufficient precise tools exist to measure it.
+The accelerating universe, historical back-ground and its weaknesses in a nutshell
+The facts and the critics [7] [1] [2]
+Since the universe has been observed with steadily more pre-cise telescopes, some deficiencies to the linearity of the Hubble constant have been remarked. For instance in 1998, observations of Type Ia supernovae suggested that the expansion of the un-iverse has been accelerating since around red-shift of z~0.5. Also, some quasars are supposed to lay close to galaxies, because they probably are jets, projected by the black hole inside the galaxy. However, the quasars’ red-shift is much higher. In some cases, five quasars in different stages of their development are seen together near a galaxy and their red-shifts follow a curiously sequence of values. By misinterpreting the Hubble constant as a scale factor, no better solution has been found then an accelerat-ing universe.
+Meanwhile, the discovery of the Karlsson peaks might bring
+some change in it.
+
+and the Hubble constant is given by H  aɺ
+a . This means that
+
+the red-shift is supposed to be linear with an increasing distance, but the expansion velocity is supposed to be linear with an in-creasing distance as well. Since H has the inverse dimension of time, is supposed to represent the age of the universe, which is the distance that light has traveled since the origin of time.
+One important weakness is the limitation of the red-shift is-sue to the idea of expansion, while it is clear that several other possible origins for red-shift exist.
+The Big Bang concept is only one possibility among others, and the attribution of the whole red-shift to universe expansion is a hazardous gamble.
+The alternatives
+Several alternative origins of red-shift exist, such as the gravi-tational red-shift, and the most important, the energy losses oc-curred when hitting a hydrogen atom or molecule in space.
+When quasars near galaxies are described with high to very high red-shifts, while the galaxies themselves show low red-shifts, it is clear that large amounts of hydrogen around these quasars cause it by absorbing and re-emitting light, resulting in successive energy losses. It has been described by Lyndon E Ashmore as a double Mössbauer effect, resulting in the equation H  2 ne h re /me , wherein H is the Hubble constant, h is
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig.6 : Distribution of x = log(1+z) for the quasars and other compact sources. The lower solid line and the broken line corresponds to the dis-tribution of objects with redshifts z measured at two different surveys, and the upper solid line corresponds to the total sample.
+Karlsson found five equidistant peaks and the beginning of a sixth one. On the fig.6 we see multiple quasars with different redshifts that follow periodicities according Karlsson and that
+
+the Plank constant,
+re and me
+the radius and mass of an elec-
+show the location of our galaxy in the universe.
+
+tron, and ne the number of electrons hit by the light between the source and the observer.
+The alternatives [9] [18]
+It is found that the Ashmore redshift, which is the loss of energy by light when hitting a hydrogen particle in space, com-
+
+Weaknesses in the Formation and Evolution Processes of Mainstream Gravity and Cosmology Theories, and their Consequences - 2011	T. De Mees
+
+
+bined with the circling light theory (which states that light circles the universe due to its large mass) are particularly useful to ex-plain the redshift of quasars and the quasar peaks' distribution. The end of the fifth circling of light about our universe means that the same quasars or galaxies can be seen up to five times, in different stages of their development. If follows that our universe has a center.
+From where our galaxy is situated, we can see most of the universe's past because of the circling of light about the universe. The radius where our galaxy is situated, seen from the universe's centre, is five times smaller than the theoretical (mainstream) radius of our universe between its center and our galaxy.
+The creation of the planets, historical back-ground and its weaknesses in a nutshell
+The facts and the critics
+In the 20th century, it was supposed that during the formation of our Milky Way a star grazed our sun and that some matter from both stars formed a hot cloud that became our planets.
+Later, the protoplanetary disk (accretion disk) theory came up, that uses the nebular hypothesis for explaining the creation of the planets.
+The first weakness is that a protoplanetary disk would consist of molecular hydrogen. It is totally unexplainable that such a cloud would form all the elements we know on Earth and else-where in the planetary system.
+A second weakness is that there only exist one planet for each planet’s orbit, while the Trojan asteroids near Jupiter show us that such asteroids (if not: planets) should be found everywhere in the solar system.
+The alternatives
+The solar internal electromagnetic energy is gigantic. When simulating an electromagnetic eruption (or protuberance) be-tween sunspots, it appears that the mass of the erupted electrons from the sun coincide with the mass of the core planets, while the mass of the same amount of corresponding protons coincide with the mass of the gas planets. Moreover, when the ejection energy is associated with the solar inner temperature, the energies cor-respond. Finally, when calculating the electromagnetic repulsion between the four distinct electromagnetic loops that formed the four gas planets, a 99%probability can be found between such a formation hypothesis and the Titius-Bode sequence.
+Hence, there is a very tangible evidence that the planets came out of the sun.
+WEAKNESSES IN THE THEORIES’ EVOLU-TION PROCESSES
+When looking at the gravity and cosmological theories, we see an important difference compared with other theories (medi-cines, biology, technology, etc). For ‘other’ theories:
+Other theories’ evolution is made through new laborato-ry tests (or discoveries);
+Other theories’ evolution is partly based on published papers and partly on inside information of companies;
+Other theories’ extrapolation of facts can be tested by a trial and error scheme on the short and medium term;
+With other theories, any valuable input from any source is accepted;
+Other theories’ motivation is the commercialization of products and services;
+Projects are funded by companies (stockholders);
+Therefore, a high commitment is requested by a proven methodology;
+Therefore, the budgets are in accord with the research and with the expected return;
+Unproductive other theories are quickly rejected;
+Therefore, the level of effective productivity and evolu-tionary progress is high.
+Mainstream gravity and cosmology (M G&C) theories’ evolu-tion processes work differently.
+M G&C theories’ evolution is made through reflection, observation and interpretation;
+M G&C theories’ evolution is only based upon published papers;
+M G&C theories’ extrapolation of facts can be tested by a theoretical and a practical trial and error scheme on the medium and long term;
+With M G&C theories, no valuable input from non-mainstream source is accepted (journals’ renown, rejec-tion of papers);
+M G&C theories’ motivation is based upon classes (uni-versities, journals’ renown), power and prestige;
+Projects (universities, NASA, ESA, …) are funded by pol-iticians;
+Therefore, a high commitment is requested between pres-tigious organizations or scientists and the politicians (lobbies). Faith in the constancy of intellectual values and reliability is requested;
+The budgets are very high (CERN, NASA, …);
+Unproductive M G&C theories’ from prestigious scien-tists are maintained and adapted very gradually and very slowly; new theories from non-prestigious scientists are neglected or refused by definition;
+Therefore, the level of effective productivity and progress of the global community is minimal.
+Mainstream gravity and cosmology theories’ evolution processes are dramatically ineffective because only the presti-gious scientists and organizations can take the initiative to modi-fy or to change it. The budgets are very high and the need for effectivity is low.
+Even then, the caution of a pope is used for the change of theories and the timing is very slow. When non-mainstream scientists’ ideas have to be introduced, mainstream community try to find a turn-around (see the dark matter issue) in order to not commit plagiarism. Indeed, they refuse to refer to non-mainstream academicians’ or researchers’ papers. How many
+
+Weaknesses in the Formation and Evolution Processes of Mainstream Gravity and Cosmology Theories, and their Consequences - 2011	T. De Mees
+
+
+mainstream scientists calculate gravity problems by gravitomag-netism, and then try to prove it with general relativity, which hardly occurs successfully?
+The slow evolution process of the gravity and cosmology theories can be regarded as an implicit benefit for the prestigious organizations and the politicians for the following reasons:
+A large level of employment in universities and in pres-tigious organizations in physics and astronomy;
+A long-lasting use of very expensive equipment such as super computers and structures that are constantly re-newed and updated (CERN, NASA, …);
+A positive return of the prestigious aura to the politicians (J.F. Kennedy, Nixon, …).
+Therefore, the hope for a faster theoretical progress is hypo-thecated in these domains. It is undeniable that thousands of students and scientists follow the mainstream like sheep, because by opposing other theories to the existing ones, they risk their factual exclusion.
+The more there is a need for larger budgets, the more cau-tiously and thus slowly the progress is made. Numerous valua-ble contributions are neglected.
+However, it has to be said that the practical information ser-vices, such as those from NASA/ESA, since the introduction of the Hubble telescope, have brought some important progress in the observation of many new areas of the universe, and have opened a new world to many young students.
+And a very new development, the Internet, allows for all kinds of non-mainstream publications that are free or nearly free of charge and accessible to all. Especially larger ‘dissident’ web-sites are regularly hacked and denigrated by some opponents, which proves (in a sad way) the dissident’s growing success. The true gravitomagnetism of Heaviside has been hijacked by main-stream’s linearised GRT on Wikipedia. Probably the best exam-ple of the permanent sapping by mainstream.
+Conclusion
+The evolution processes of theories are restricted to two main directions: firstly, the renown and power of scientists, universi-ties and journals, and very little effort is done to broaden it downwards; secondly, the progress of physical confirmation or denial of the current theories by observation and testing.
+For instance, although I showed fundamental weaknesses, even defects in GRT, and even if GRT is a clumsy theory, as long as the testing don’t prove GRT is wrong, the mainstream com-munity isn’t switching over to the (true) Gravitomagnetism. The same happened with ‘dark matter’, (which is nothing more than a not-understood effect of the (true) gravitomagnetism (or in GRT: the Kerr Metric), which I call gyrotation, the magnetic part of gravitomagnstism) where hundreds of scientists are searching after in the sky, but don’t even know what is it. Now, the fa-shionable ‘dark energy’, another phantasm for ‘the unknown’, but finally denoting aether and gyrotation forces in space is re-placing ‘dark matter’.
+Agreed, who cares about the sky if humanity can’t even properly master the events on earth. But the actual mainstream gravity’s and cosmology’s processes seem to be nothing more but the continuation of political (and military) power and fame.
+The hope for change lays in the Internet. It is very probable that the actual system will not remain tenable and that dissidents will enter the play, but not without defining their own rules: an open, effective interaction with large governmental and para-governmental organizations.
+References
+[ 1 ] Arp, H.: “Origins of Quasars and Galaxy Clusters”, arXiv:astro-ph/0105325v1, 2001.
+[ 2 ] Arp, H., Fulton, C.: “A Cluster of High Redshift Quasars with Ap-parent Diameter 2.3 Degrees”, arXiv:0802.1587v1, 2008.
+[ 3 ] Eddington, A.S.: (French translation) Espace, Temps et Gravita-tion), Librairie Scientifique J. Hermann, 1921.
+[ 4 ] Einstein, A., , Über die spezielle und die allgemeine Relativitäts-theorie, 1916.
+[ 5 ]  Jefimenko, O.: Gravitation and Cogravitation, 2006, Electret.
+[ 6 ] Heaviside, O.: A Gravitational and Electromagnetic Analogy, The Electrician, 31, 281-282 and 359, 1893.
+[ 7 ] Karlsson, K. G. : “On the existence of significant peaks in the quasar redshift distribution”, Astronomy and Astrophysics, vol. 58, no. 1-2, p. 237-240, June 1977.
+[ 8 ] Feynman, Leighton, Sands, Feynman Lectures on Physics V.2., 1963.
+[ 9 ] Lyndon Ashmore : “Recoil Interaction Between Photons and The Electrons In The Plasma Of Intergalactic Space Leading To The Hubble Constant And CMB”, March 2003. http://www.lyndonashmore.com/
+[ 10 ] Negut, E., 1990, On intrinsic properties of relativistic motions. [ 11 ] Zwicky, F. 1929 Proc. Nat. Acad. Sci., 773 – 785.
+[ 12 ] De Mees T., “Analytic Description of Cosmic Phenomena Using the Heaviside Field”, Physics Essays, Vol. 18, No. 3 (2005).
+[ 13 ] De Mees T., “Mercury's Perihelion Advance is Caused by Our Milky Way”, General Science Journal (2007).
+[ 14 ] De Mees T., “Mass- and light-horizons, black holes' radii, the Schwartzschild metric and the Kerr metric”, General Science Jour-nal (2006, upd. 2010).
+[ 15 ] De Mees T., “Is the Differential Rotation of the Sun Caused by a Graviton Engine”, General Science Journal (2010).
+[ 16 ] De Mees T., “Why does Saturn have many tiny rings ?”, General Science Journal (2004).
+[ 17 ] De Mees T., “The Titius-Bode Law Shows a Modified Proto-Gas-Planets' Sequence”, General Science Journal (2010).
+[ 18 ] De Mees T., “The Karlsson Peaks in the Quasar's Redshift Distribu-tion as an Indication for Circling Light in a non-expanding Un-iverse.
+[ 19 ] De Mees T., “Motion is Relative to the Universe but Inertia is not”, General Science Journal (2011).
+[ 20 ] De Mees T., “Cyclic Tilt Spin Vector Variations of Main Belt Astero-ids Due to the Solar Gyro-Gravitation”, General Science Journal (2008).
+
+Weaknesses in the Formation and Evolution Processes of Mainstream Gravity and Cosmology Theories, and their Consequences - 2011	T. De Mees
+
+
+[ 21 ] De Mees T., “On the geometry of rotary stars and black holes”, Gen-eral Science Journal (2005).
+[ 22 ] De Mees T., “The Calculation of the Bending of Starlight Grazing the Sun”, General Science Journal (2010).
+[ 23 ] De Mees T., “Deduction of Orbital Velocities in Disk Galaxies: Dark Matter a Myth?”, General Science Journal (2008).
+[ 24 ] De Mees T., “On the Origin of the Lifetime Dilation of High Veloci-ty Mesons”, General Science Journal (2010).
+[ 25 ] De Mees T., “Towards an Absolute Cosmic Distance Guage by using Redshift Spectra from Light Fatigue”, General Science Jour-nal (2009).

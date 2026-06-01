@@ -1,0 +1,1546 @@
+https://doi.org/10.3844/pisp.2014.15.20
+Valev, D. (2019). Evidence of Dirac large numbers hypothesis. Proceedings of the Romanian Academy Series A, 4(2019).
+Vilenkin, A. (1982). Creation of universes from nothing.
+Physics Letters B, 117(1-2), 25-28. https://doi.org/10.1016/0370-2693(82)90866-8
+
+Higher Order Curvature Theories of Gravity Matched with Observations: a Bridge Between Dark Energy and Dark Matter Problems
+S. Capozziello1∗, V.F. Cardone1, S. Carloni2, A. Troisi1
+1 Dipartimento di Fisica ”E.R. Caianiello”, Universit´a di Salerno and INFN Sez. di Napoli
+2Department of Mathematics and Applied Mathematics, University of Cape Town, South Africa.
+Higher order curvature gravity has recently received a lot of attention due to the fact that it gives rise to cosmological models which seem capable of solving dark energy and quintessence issues without using ”ad hoc” scalar fields. Such an approach is naturally related to fundamental theories of quantum gravity which predict higher order terms for loop expansions of quantum fields in curved spacetimes. In this framework, we obtain a class of cosmological solutions which are fitted against cosmological data. We reproduce reliable models able to fit high redshift supernovae and WMAP observations. The age of the universe and other cosmological parameters are recovered in this context. Furthermore, in the weak field limit, we obtain gravitational potentials which differ from the Newtonian one because of repulsive corrections increasing with distance. We evaluate the rotation curve of our Galaxy and compare it with the observed data in order to test the viability of these theories and to estimate the scale-length of the correction. It is remarkable that the Milky Way rotation curve is well fitted without the need of any dark matter halo and similar results hold also for other galaxies.
+
+
+INTRODUCTION
+
+The Hubble diagram of type Ia supernovae (hereafter SNeIa) [1], the anisotropy spectrum of the cosmic microwave background radiation (hereafter CMBR) [2], the matter power spectrum determined by the large scale distribution of galaxies [3] and by the data on the Lyα clouds [4] are evidences in favor of a new picture of the universe, which is spatially flat and undergoing an accelerated expansion driven by a negative pressure fluid nearly homogeneously distributed and constituting up to 70% of the energy content. This is called dark energy, while the model is usually referred to as the concordance model. Even if supported by the available astrophysical data, this new picture is not free of problems. Actually, while it is clear how dark energy works, its nature remains an unsolved problem. The simplest explanation claims for the cosmological constant Λ thus leading to the so called ΛCDM model [5]. Although being the best fit to most of the available astrophysical data [2], the ΛCDM model is also plagued by many problems on different scales. If interpreted as vacuum energy, Λ is up to 120 orders of magnitudes smaller than the predicted value. Furthermore, one should also solve the coincidence problem, i.e. the nearly equivalence, in magnitude orders, of matter and Λ contributions to the total energy density. In order to address these issues, much interest has been devoted to models with dynamical vacuum energy, the so called quintessence. These models typically involve a scalar field rolling down its self interaction potential thus allowing the vacuum energy to become dominant at present epoch. Although quintessence by a scalar field is the most studied candidate for dark energy, it generally does not avoid ad hoc fine tuning to solve the coincidence problem. Moreover, it is not clear where this scalar field arises and how to choose the self interaction potential. Actually, there is a different way to face the problem of cosmic acceleration. It is possible that the observed acceleration is not the manifestation of another ingredient in the cosmic pie, but rather the first signal of a breakdown of our understanding of the laws of gravitation. From this point of view, it is thus tempting to modify the Friedmann equations to see whether it is possible to fit the astrophysical data with a model comprising only the standard matter. In this framework, there is the attractive possibility to consider the Einstein gravity as a particular case of a more general theory. This is the underlying philosophy of what are referred to as f (R) theories [6–8]. In this case, the Friedmann equations have to be given away in favor of a modified set of cosmological equations that are obtained by varying a generalized gravity Lagrangian where the scalar curvature R has been replaced by a generic function f (R). The standard general relativity is recovered in the limit f (R) = R, while different results may be obtained for other choices of f (R). With this paradigm in mind, the problems of dark energy and dark matter could be geometrically interpreted giving rise to a completely new picture of gravitational interaction. From a cosmological point of view, the key point of f (R) theories is the presence of modified Friedmann equations, obtained by varying the generalized Lagrangian. However, here lies also the main problem of this approach
+
+
+∗Proceedings of XVI SIGRAV Conference, 13-16 September 2004, Vietri (Italy)
+
+since it is not clear how the variation has to be performed. Actually, once the Friedmann - Robertson - Walker (FRW) metric has been assumed, the equations governing the dynamics of the universe are different depending on whether one varies with respect to the metric only or with respect to the metric components and the connections. It is usual to refer to these two possibilities as the metric approach and the Palatini approach respectively. The two methods give the same results only in the case f (R) = R, while they lead to significantly different dynamical equations for every other choice of f (R) (see [8] and references therein). The debate on what is the true physical approach is still open [9], nevertheless several positive results have been achieved in both of them. In [6] and then in [7,8], it has been showed that it is possible to obtain the observed accelerating dynamics of the universe expansion by taking into account higher order curvature terms into the gravitational Lagrangian. Furthermore, in [6], a successful test with SNeIa data has been performed. Having tested such a scheme on cosmological scales, it is straightforward to try to complement the approach by analyzing the low energy limit of these theories in order to see whether this approach is consistent with the local physics, i.e. on galactic scale. In [10], it has been found that, in the weak field limit, the Newtonian potential is modified by an additive term which scales with the distance r as a power law. Having obtained the corrected gravitational potential, the theoretical rotation curve of our Galaxy has been evaluated and compared with the observational data. This test shows that the correction term allows to well fit the Milky Way rotation curve without the need of dark matter. These results suggest that considering f (R) theories of gravity can provide both an explanation to dark energy and dark matter issues. In this lecture, we outline the basic features of the f (R)-theories in the metric approach regarding the dark energy and the dark matter problems, stressing, in particular, the matching with astrophysical and cosmological data. Far from being exhaustive on the whole argument, we want to point out that these families of extended theories of gravity have to be seriously taken into account since they give rise to viable and reliable pictures of the observed universe.
+
+CURVATURE QUINTESSENCE
+
+A generic fourth–order theory of gravity, in four dimensions, is given by the action [6],
+A = ∫ d4x√−g f (R) + L(matter) ,	(1)
+
+where f (R) is a function of Ricci scalar R and L(matter) is the standard matter Lagrangian density. We are using physical units 8πGN = c = h¯ = 1. The field equations are
+(curv)	(matter)
+G	= R	−  g	R = T	+ T	,	(2)
+
+where the stress-energy tensor has been defined for the curvature contributes
+T (curv) =   1   1 g	[f (R) − Rf ′(R)] + f ′(R);µν (g	g	− g	g )	(3)
+
+αβ
+
+and the matter contributes
+f ′(R)
+αβ
+αµ βν
+αβ µν
+
+T (matter) =	1	T˜(matter) .	(4)
+/
+αβ	f ′(R) αβ
+We have taken into account the nontrivial coupling to geometry; prime means the derivative with respect to R. If f (R) = R + 2Λ, we recover the standard second–order Einstein gravity (plus a cosmological constant term). In a FRW metric, the action (1) reduces to the point-like one:
+A(curv) = ∫ dt hL(a, a˙; R, R˙ ) + L(matter)i	(5) where the dot means the derivative with respect to the cosmic time. In this case the scale factor a and the Ricci scalar
+R are the canonical variables. It has to be stressed that the definition of R in terms of a, a˙, a¨ introduces a constraint
+in the action (5) [6], by which we obtain
+L = a3 [f (R) − Rf ′(R)] + 6aa˙ 2f ′(R) + 6a2a˙R˙ f ′′(R) − 6kaf ′(R) + a3p(matter) ,	(6)
+(the standard fluid matter contribution acts essentially as a pressure term). The Euler-Lagrange equations coming from (6) give the system:
+
+2  a¨  +
+ a˙  2
+
+
+k 
++ a2 = −p(tot) ,	(7)
+
+and
+
+
+f ′′(R)
+
+(R + 6
+
+
+a¨	a˙ 2	 k  a2
+
+
+= 0 ,	(8)
+
+constrained by the energy condition
+ a˙  2	 k 	1
+
+Using Eq.(9), it is possible to write down Eq.(7) as
+  a¨  = − 1 ρ	+ 3p	 .	(10)
+
+The accelerated behavior of the scale factor is achieved for
+ρ(tot) + 3p(tot) < 0 .	(11)
+To understand the actual effect of these terms, we can distinguish between the matter and the geometrical contributions
+p(tot) = p(curv) + p(matter)	ρ(tot) = ρ(curv) + ρ(matter) .	(12) Assuming that all matter components have non-negative pressure, Eq.(11) becomes:
+1
+ρ(curv) > 3 ρ(tot) .	(13)
+The curvature contributions come from the stress-energy tensor (3) and then the curvature pressure is
+p	=  1  2  a˙  R˙ f ′′(R) + R¨f ′′(R) + R˙ 2f ′′′(R) − 1 [f (R) − Rf ′(R)]  ,	(14)
+
+and the curvature energy-density is
+ρ	=   1   1 [f (R) − Rf ′(R)] − 3  a˙  R˙ f ′′(R)  ,	(15)
+
+which account for the geometrical contributions into the thermodynamical variables. It is clear that the form of f (R) plays an essential role for this model. For the sake of simplicity, we choose the f (R) function as a generic power law of the scalar curvature and we ask also for power law solutions of the scale factor, that is
+   t   α
+
+The interesting cases are for α	1 which give rise to accelerated expansion. For ρ(matter) = 0 and for spatially flat space-time (k = 0), we get the algebraic relations n and α
+α[α(n − 2) + 2n2 − 3n + 1] = 0 ,	α[n2 + α(n − 2 − n − 1)] = n(n − 1)(2n − 1)	(17)
+from which the allowed solutions are
+
+
+α = 0 → n = 0, 1/2, 1 ,	α =
+2n2	3n + 1
+2 − n	, ∀n but n /= 2 .	(18)
+
+The solutions for α = 0 are not interesting since they provide static cosmologies with a non evolving scale factor. On the other hand, the cases with generic α and n furnish an entire family of significative cosmological models. We see
+
+that such a family of solutions admits negative and positive values of α which give rise to accelerated behaviors (see also [11] for a detailed discussion). The curvature-state equation is given by
+
+w(curv) = −	6n2 − 9n + 3	,	(19)
+which clearly is w(curv) → −1 for n → ∞. This fact shows that the approach is compatible with the recovering of a cosmological constant. The accelerated behavior is allowed only for w(curv) < 0 as requested for a cosmological fluid with negative pressure. From these straightforward considerations, the accelerated phase of the universe expansion can be described as an effect of higher order curvature terms which provide an effective negative pressure contribution. In order to see if such behavior is possible for today epoch, we have to match the model with observational data. The presence of standard fluid matter (ρ(matter) = 0) does not affect greatly this overall behavior as widely discussed in [11].
+
+MATCHING WITH DARK ENERGY OBSERVATIONS
+
+To verify if the curvature quintessence approach is an interesting perspective, we have to match the model with the observational data. In this way, we can constrain the parameters of the theory to significant values. First we compare our theoretical setting with the SNeIa results. As a further analysis, we check also the capability of the model with the universe age predictions. It is worth noticing that the SNeIa observations have represented a cornerstone in the recent cosmology, pointing out that we live in an expanding accelerating universe. This result has been possible in relation to the main feature of supernovae which can be considered reliable standard candles via thanks to the Phillips amplitude-luminosity relation. To test our cosmological model, we have taken into account the supernovae observations reported in [1] and compiled a combined sample of these data. Starting from these data, it is possible to perform a comparison between the theoretical expression of the distance modulus and its experimental value for SNeIa. The best fit is performed minimizing the χ2 calculated between the theoretical and the observational value of distance modulus. In our case, the luminosity distance is
+d (z, H , n) =  c   α   (1 + z) (1 + z)   α  − 1 ,	(20)
+L	0	H0	α − 1
+where c is the light speed and z is the red-shift. The range of n can be divided into intervals taking into account the existence of singularities in (20). In order to define a limit for H0, we have to note that the Hubble parameter, being a function of n, has the same trend of α. We find that for n lower than –100, the trend is strictly increasing while for n positive, greater than 100, it is strictly decreasing. The results of the fit are showed in Table 1.
+
+
+
+Range
+	best	−1	−1
+H0	(kms  Mpc  )
+	best
+n
+	χ2
+	
+	−100 < n√< 1/2(1 − √3)
+	65
+	−0.73
+	1.003
+	
+	1/2(1 −  3) < n < 1/2
+	63
+	−0.36
+	1.160
+	
+	1/2 < n < 1
+√
+	100
+	0.78
+	348.97
+	
+	1 < n < 1/2(1 +  3)
+√
+	62
+	1.36
+	1.182
+	
+	1/2(1 +  3) < n < 3
+	65
+	1.45
+	1.003
+	
+	3 < n < 100
+	70
+	100
+	1.418
+	
+	
+/
+TABLE I. Results obtained by fitting the curvature quintessence models against SNeIa data. First column indicates the range of n, column two gives the relative best fit value of H0, column three nbest, column four the χ2 index.
+
+The age of the universe can be obtained, from a theoretical point of view, if one knows the today value of the Hubble parameter. In our case, it is
+
+2n2	3n + 1
+t =
+2 − n
+
+H−1.	(21)
+
+We evaluate the age taking into account the intervals of n and the 3σ-range of variability of the Hubble parameter deduced from the SNeIa fit. We have considered, as good predictions, age estimates included between 10Gyr and 18Gyr. By this test, we are able of refine the allowed values of n. The results are shown in Table 2. First of all, we discard the intervals of n which give negative values of t. Conversely, the other ranges, tested by SNIa fit (Tab.1), become narrower, strongly constraining n.
+
+
+Range
+	−1	−1
+∆H(kms  Mpc  )
+	∆n
+	best
+t(n	)(Gyr)
+	
+	−100 < n√< 1/2(1 − √3)
+	50 − 80
+	−0.67 ≤ n < −0.37
+	23.4
+	
+	1/2(1 −  3) < n <√1/2
+	57 − 69
+	−0.37 < n ≤ −0.07
+	15.6
+	
+	1 < n < 1/2(1 +  3)
+√
+	56 − 70
+	1.28 ≤ n < 1.36
+	15.3
+	
+	1/2(1 +  3) < n < 2
+	54 − 78
+	1.37 < n ≤ 1.43
+	24.6
+	
+	
+/
+TABLE II. The results of the age test. In the first column is presented the tested range. Second column shows the 3σ-range for H0 obtained by SNeIa test, while in the third we give the n intervals, i.e. the values of n which allow to obtain ages of the universe ranging between 10Gyr and 18 Gyr. In the last column, the best fit age values of each interval are reported.
+
+Another check for the allowed values of n is to verify if the interesting ranges of n provide also accelerated expansion rates. This test can be easily performed considering the definition of the deceleration parameter q0 = (a¨a)/(a˙ 2)0, using the relation (16) and the definition of α in term of n. To obtain an accelerated expanding behaviour, the scale factor a(t) = a0tα has to get negative (pole-like) or positive values of α greater than one. We obtain that only the intervals −0.67 ≤ n ≤ 0.37 and 1.37 ≤ n ≤ 1.43 provide a negative deceleration parameter with α > 1. Conversely the other two intervals of Tab.2 do not give interesting cosmological dynamics, being q0 > 0 and 0 < α < 1 (standard Friedmann behaviour).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+z
+FIG. 1. Best fit curve to the SNeIa Hubble diagram for the power law Lagrangian model.
+
+A further test of the model can be performed by the age estimate obtained by the WMAP campaign [2]. Using these data, we can improve the constraints on n in relation to the very low error (1%) of WMAP age estimator which range between 13.5Gyr and 13.9Gyr [6].
+
+MATCHING WITH DARK MATTER: THE MILKY WAY ROTATION CURVE
+
+Beside cosmology, the consistency of f (R) gravity may be verified also at shorter astrophysical scales, e.g. at galactic scales, in order to check the full viability of the theory. In the low energy limit, assuming as above f (R) = f0Rn, we obtain the gravitational potential [10]
+c2 "   r  −1	  r  β(n)#
+
+/	/
+
+
+where c is the light speed,
+
+
+/
+β(n) =		4n − 1 2(n − 1)
+
+
+
+× [P(n) + Q(n)] ,	(23)
+
+
+and ξ1,2 are scale-lengths. A first estimate of ξ1 may be obtained observing that, for r << ξ2, Eq.(22) reduces to
+c2   r  −1
+
+/
+Since we have to recover the Newtonian potential at these scales, we have to fix :
+2GM	 M 	−17
+ξ1 =	c2	≃ 9.6 × M⊙ × 10	kpc ,
+with M⊙ the mass of the Sun. The value of ξ2 is a free parameter of the theory. Up to now, we can only say that ξ2
+should be much larger than the Solar System scale in order not to violate the constraints coming from local gravity
+
+experiments. Eq.(22) gives the gravitational potential of a pointlike source. Since real galaxies are not pointlike, we have to generalize Eq.(22) to an extended source. To this aim, we may suppose to divide the Milky Way in infinitesimal mass elements, to evaluate the contribution to the potential of each mass element and then to sum up these terms to get the final potential. In order to test whether the theory is in agreement with observations and to determine the parameter ξ2, we have computed the Milky Way rotation curve modelling our Galaxy as a two components system, a spheroidal bulge and a thin disk. In particular, we assume :
+
+
+  m  −1.8
+m2 
+ Σ0
+R	  z  
+
+ρbulge = ρ0
+0
+exp
+r2
+,	ρdisk = 2z
+exp
+Rd − zd
+(24)
+
+where m2 = R2 + z2/q2, R is the radial coordinate and z is the height coordinate. The central densities ρ0 and Σ0 are conveniently related to the bulge total mass Mbulge and the local surface density Σ⊙ by the following two relations :
+
+
+	Mbulge	
+ρ0 =	, Σ0
+4πq × 1.60851
+= Σ⊙
+exp	R0	,
+Rd
+
+being R0 = 8.5 kpc the distance of the Sun to the Galactic Centre. We fix the Galactic parameters as follows :
+Mbulge = 1.3 × 1010 M⊙ , r0 = 1.0 kpc , rt = 1.9 kpc ,
+
+Σ⊙ = 48 M⊙ pc−2 , Rd = 0.3R0 , zd = 0.18 kpc .
+The Milky Way rotation curve vc(R) can be reconstructed starting from the data on the observed radial velocities vr of test particles. We have used the data coming from the H II regions, molecular clouds and those coming from classical Cepheids in the outer disc obtained by Pont et al. [13].
+
+
+vc Hkm sL
+280
+
+
+260
+
+
+240
+
+
+220
+
+
+200
+
+
+180
+
+
+R H
+
+FIG. 2. Observed data and theoretical Milky Way rotation curve computed using the modified gravitational potential with
+n = 0.35 and ξ2 = 14.88 kpc. Note that the points with R between 15.5 and 17.5 kpc are likely affected by systematic errors.
+
+For a given n, we perform a χ2 test to see whether the modified gravitational potential is able to fit the observed rotation curve and to constrain the value of ξ2. Since a priori we do not know what is the range for ξ2, we get a first estimate of ξ2 by a simple approach. For a given R, we compute ξ2 imposing that the theoretical rotation curve is equal to the observed one. Then, we study the distribution of the ξ2 values thus obtained and evaluate both the median ξmed and the median deviation δξ2. The usual χ2 test is then performed with the prior that ξ2 lies in the range (ξmed − 5 δξ2, ξmed + 5 δξ2). As a first test, we arbitrarily fix n = 0.35. We get ξ2 = 14.88 kpc , χ2 = 0.96. In Fig. 2,
+we show both the theoretical rotation curve for (n, ξ2) = (0.35, 14.88) and the observed data. The agreement is quite good even if we have not added any dark matter component to the Milky Way model. This result seems to suggest that our modified theory of gravitation is able to fit galaxy rotation curves without the need of dark matter. As a final remark, we note that ξmed = 14.37 kpc that is quite similar to the best fit value. Actually, a quite good estimate is also obtained considering the value of ξ2 evaluated using the observed rotational velocity at R0. This suggest that a quick estimate of ξ2 for other values of n may be directly obtained imposing vc,theor(R0; n, ξ2) = vc,obs(R0).
+
+CONCLUSIONS
+
+In this lecture, we have considered f (R) theories of gravity to address the problems of dark energy and dark matter. Such an approach has a natural background in several attempts to quantize gravity, because higher-order curvature invariants come out in the renormalization process of quantum field theories on curved space times. We have obtained a family of cosmological solutions [6] which we have fitted against several classes of observational data. A straightforward test is a comparison with SNIa observations [1]. The model fits these data and provides a constrain on the family of possible cosmological solutions. To improve this result, we have performed a test with the age of the universe giving encouraging results in the range between 10Gyr and 18Gyr. In order to better refine these ranges, we have then considered a test based on WMAP age evaluation. In this case, the age ranges between 13.5Gyr and 13.9Gyr. In conclusion, we can say that a fourth order theory of gravity of the form f (R) = f0R1+ε with ε  0.6 or ε  0.4 can give rise to reliable cosmological models which well fit SNeIa and WMAP data. In this sense, we need only “small” corrections to the Einstein gravity in order to achieve quintessence issues. Indications in this sense can be found also in a detailed analysis of f (R) cosmological models performed against CMBR constraints, as shown in [12].
+Furthermore, it has been analyzed the low energy limit of f (R) = f0Rn theories of gravity considering stationary solutions. An exact solution of the field equations has been obtained. The resulting gravitational potential for a point-like source is the sum of a Newtonian term and a contribution whose rate depends on a function of the exponent n of Ricci scalar. The potential agrees with experimental data if n ranges into the interval (0.25, 1), so that the correction term scales as rβ with β > 0. The following step is the generalization of this result to an extended source as a galaxy. To this aim the experimental data and the theoretical prediction for the rotation curve of Milky Way have been compared. The final result has been that the modified potential is able to provide a rotation curve which fits data without adding any dark matter component. This result has to be tested further before drawing a definitive conclusion against the need for galactic dark matter. To this aim, one has to show that a potential like that predicted by our model is able to fit rotation curves of a homogeneous sample of external galaxies with both well measured rotation curves and detailed surface photometry. In particular, the exponent n coming out from the fit must be the same for all the galaxies, while ξ2 could be different being related to the scale where deviations from the Newtonian potential sets in.
+In conclusion, we have given indications that it is possible to reduce the dark energy and dark matter issues under the same standard of f (R) theories of gravity which could give rise to realistic models working at very large scales (cosmology) and astrophysical scales (galaxies).
+
+
+
+
+
+S. Perlmutter et al., ApJ, 517 (1999) 565; A.G. Riess et al., ApJ, 607 (2004) 665.
+P. de Bernardis et al., Nature, 404, 955 (2000); D.N. Spergel et al. ApJS, 148 (2003) 175.
+A.C. Pope et al., ApJ, 607 (2004) 655.
+R.A.C. Croft et al., ApJ, 495 (1998) 44.
+V. Sahni, A. Starobinski, Int. J. Mod. Phys. D, 9 (2000) 373.
+S. Capozziello, Int. J. Mod. Phys. D, 11 (2002) 483; S. Capozziello, V.F. Cardone, S. Carloni, A. Trosi, Int. J. Mod. Phys. D 12 (2003) 1969.
+S.M. Carroll, V. Duvvuri, M. Trodden, M. Turner, astro - ph/0306438 (2003); S. Nojiri and S.D. Odintsov, Phys. Rev. D, 68 (2003) 12352;.
+D.N. Vollick, Phys. Rev. 68 (2003) 063510; E.E. Flanagan, Phys. Rev. Lett. 92 (2004) 071101; G. Allemandi, A. Borowiec,
+M. Francaviglia, hep - th/0403264 (2004).
+G. Allemandi, M. Capone, S. Capozziello, M. Francaviglia, hep - th/0409198 (2004).
+S. Capozziello, V.F. Cardone, S. Carloni, A. Troisi, Phys. Lett. A 326 (2004) 292.
+S. Carloni, P.K.S. Dunsby, S. Capozziello, A. Troisi, gr - qc/0410046 (2004).
+J. Hwang, H. Noh, Phys. Lett. B 506 (2001) 13.
+Brand J., Blitz L., A&A, 275 (1993) 67; Pont F. et al., A&A, 318 (1997) 416.
+
+
+
+Improved cosmological constraints on the curvature and equation of state of dark energy
+Nana Pan
+College of Mathematics and Physics, Chongqing University of Posts and Telecommunications, Chongqing 400065, China
+E-mail:   pannn@cqupt.edu.cn
+
+Yungui Gong
+College of Mathematics and Physics, Chongqing University of Posts and Telecommunications, Chongqing 400065, China
+E-mail:   gongyg@cqupt.edu.cn
+
+Yun Chen
+Department of Astronomy, Beijing Normal University, Beijing 100875, China
+
+Zong-Hong Zhu
+Department of Astronomy, Beijing Normal University, Beijing 100875, China E-mail:  zhuzh@bnu.edu.cn
+Abstract. We apply the Constitution compilation of 397 supernova Ia, the baryon acoustic oscillation measurements including the A parameter, the distance ratio and the radial data, the five-year Wilkinson microwave anisotropy probe and the Hubble parameter data to study the geometry of the universe and the property of dark energy by using the popular Chevallier-Polarski-Linder and Jassal-Bagla-Padmanabhan parameterizations. We compare the simple χ2 method of joined contour estimation and the Monte Carlo Markov chain method, and find that it is necessary to make the marginalized analysis on the error estimation. The probabilities of Ωk and wa in the Chevallier-Polarski-Linder model are skew distributions, and the marginalized 1σ errors are Ωm = 0.279+0.015, Ωk = 0.005+0.006, w0 = −1.05+0.23,
+and wa = 0.5+0.3. For the Jassal-Bagla-Padmanabhan model, the marginalized 1σ errors are Ωm = 0.281+0.015, Ωk = 0.000+0.007, w0 = −0.96+0.25, and wa = −0.6+1.9.
+The equation of state parameter w(z) of dark energy is negative in the redshift range 0 ≤ z ≤ 2 at more than 3σ level. The flat ΛCDM model is consistent with the current observational data at the 1σ level.
+
+
+PACS numbers: 98.80.-k,98.80.Es
+
+Improved cosmological constraints on the curvature and equation of state of dark energy2
+Introduction
+The accelerating expansion of the universe was first discovered by the type Ia supernova (SN Ia) observations [1, 2]. The phenomena of acceleration could be explained straightforwardly by introducing an exotic source of matter with negative pressure, the so-called dark energy, which dominates the total matter content of the universe at the present epoch and causes the expansion to accelerate. During the past decade, in addition to the simple cosmological constant model, a lot of dynamical dark energy models, such as the quintessence [3], phantom [4], k-essence [5], tachyon [6], quintom
+[7], h-essence [8], Chaplygin gas [9], holographic dark energy [10], f (R) [11], Dvali-Gabadadze-Porrati [12] models, etc, have been proposed. Although a lot of efforts have been made to understand the driving force of the accelerating expansion and the property of dark energy, whether dark energy is dynamical or not is still an open question. Therefore, it is necessary to study the nature of dark energy such as the evolutions of its energy density and equation of state.
+Apart from phenomenological models, another effective approach to study dark energy is through the observational data. Recently, based on the popular Chevallier-Polarski-Linder (CPL) parametrization of dark energy [13], it was found that the flat ΛCDM model is inconsistent with the current data at more than 1σ level [14, 15]. In [14], it was suggested that the cosmic acceleration is slowing down from z ∼ 0.3. In [15], it was claimed that dark energy suddenly emerged at redshift z ∼ 0.3. Furthermore, possible oscillating behavior of dark energy was found in [16]. However, no evidence for dark energy dynamics was found in [17, 18, 19]. It was argued that the systematics in different data sets heavily affected the fitting results from observational data [18, 19]. To further study the dynamics of dark energy, it is necessary to apply more complimentary observational data. In this paper, we combine the Constitution sample of 397 SN Ia data [20], the model independent A parameter from the baryon acoustic oscillation (BAO) measurements [21], the two BAO distance ratios at z = 0.2 and z = 0.35 [22], the radial BAO measurements at z = 0.24 and z = 0.43 [23], the five-year Wilkinson microwave anisotropy probe data (WMAP5) [24], and the Hubble parameter H(z) data [25, 26] to probe the geometry of the universe and the nature of dark energy by using the CPL and Jassal-Bagla-Padmanabhan (JBP) [27] parameterizations. We first use the simple χ2 method of joined contour estimation to obtain the constraints on the model parameters. However, the simple χ2 method by fixing other parameters at their best fit values has some drawbacks because we neglect the correlation effects between the parameters and the degeneracy between parameters was not considered. When the parameters are strongly correlated, the errors of some parameters will be under-estimated if we fix the other parameters at their best fit values. So we also apply the Monte Carlo Markov chain (MCMC) method to obtain the marginalized errors of the model parameters. The advantage of the MCMC method is that it considers the correlations between the model parameters and the result is more reliable.
+The paper is organized as follows. In section 2, we present the SN Ia data [20], the
+
+Improved cosmological constraints on the curvature and equation of state of dark energy3
+BAO data [21, 22, 23], the WMAP5 data [24] and the H(z) data, and all the formulas related with these data. In section 3, We use the ΛCDM model as an example to show how to apply the data to constrain cosmological models. In section 4, we use the CPL model to study the geometry of the universe and the property of dark energy. The JBP model is used to probe the geometry of the universe and the evolution of dark energy in section 5. We conclude the paper in section 6.
+
+Fitting procedure
+To use the Constitution compilation of 397 SN Ia data [20], we minimize
+397	2
+χ2 =	[µ(zi) − µobs(zi)]  ,	(1)
+σ2
+i=1	i
+where the extinction-corrected distance modulus µ(z) = 5 log10[dL(z)/Mpc] + 25, σi is the total uncertainty in the SN Ia observation, the luminosity distance dL(z) is
+
+1 + z
+dL(z) =
+H	|Ω |
+sinn "q|Ωk
+| ∫ z
+/
+dz E(z)
+# ,	(2)
+
+the dimensionless Hubble parameter E(z) = H(z)/H0, and
+sinn(q|Ωk|x)	,,  sin(q|Ωk|x)/q|Ωk|,	if Ωk < 0,
+
+q|Ωk|
+,, sinh(
+q|Ωk|x)/q
+k
+
+/
+|Ωk|, if Ωk > 0.
+
+Due to the arbitrary normalization of the luminosity distance, the nuisance parameter h in the SN Ia data is not the observed Hubble constant. So we marginalize the nuisance parameter h with a flat prior, after the marginalization, we get [28],
+χ2 (p) = Σ  αi	(Σi αi/σ2 − ln 10/5)2 − 2 ln  ln 10 s	2π	! ,	(4)
+Σ
+where αi = µobs(zi) − 25 − 5 log10[H0dL(zi)], and p denotes the fitting parameters in the model. When using the SN Ia data, the radiation term can be neglected because its contribution is negligible.
+In addition to the Constitution SN Ia data, we use the BAO distance measurements from the oscillations in the distribution of galaxies. From the BAO observation of the galaxy power spectra, Percival et al measured the distance ratio
+
+ rs(zd)
+d =
+(5)
+
+DV (z)
+at two redshifts z = 0.2 and z = 0.35 to be dobs = 0.1905 ± 0.0061, and dobs	=
+0.1097 ± 0.0036, respectively [22]. Here the effective distance is
+DV (z) = " d2 (z)	z	#1/3 ,	(6)
+(1 + z)2 H(z)
+
+Improved cosmological constraints on the curvature and equation of state of dark energy4
+the drag redshift zd is fitted as [29]
+1291(Ωmh2)0.251	2 b
+
+zd =
+
+/
+1 + 0.659(Ωmh2)0.828
+[1 + b1(Ωbh ) 2 ],	(7)
+
+
+b = 0.313(Ω h2)−0.419[1 + 0.607(Ω h2)0.674],	b = 0.238(Ω h2)0.223, (8)
+the comoving sound horizon is
+∫ ∞ cs(z)dz
+
+
+/
+the sound speed cs(z) = 1/ 3[1 + R¯b/(1 + z)], and R¯b = 3Ωbh2/(4 × 2.469 × 10−5). To use these BAO data, we calculate
+χ2	(p, Ω h2, h) = ∆x Cov −1(x , x )∆x ,	(10)
+
+BAO2	b
+i	1	i	j	j
+
+where xi = (dz=0.2, dz=0.35), ∆xi = xi − xobs and Cov1(xi, xj) is the covariance matrix
+for the two parameters d0.2 and d0.35 [22]. Besides the model parameters p, we need to add two more parameters Ωbh2 and Ωmh2 when we use the BAO data. In [22], they used the priors of Ωbh2 = 0.02273 ± 0.00061 and Ωch2 = 0.1099 ± 0.0063.
+From the measurement of the radial (line-of-sight) BAO scale in the galaxy power spectra, the cosmological parameters were determined from the measured values of
+
+
+∆zBAO
+(z) = H(z)rs(zd)
+c
+(11)
+
+at two redshifts z = 0.24 and z = 0.43, which are ∆zBAO(z = 0.24) = 0.0407 ± 0.0011 and ∆zBAO(z = 0.43) = 0.0442 ± 0.0015, respectively [23]. Therefore, we add χ2 with
+
+
+2
+BAOz
+(p, Ωbh2, h) =
+  ∆zBAO
+(0.24) − 0.0407 2
+0.0011
++  ∆zBAO
+(0.43) − 0.0442 2
+0.0015
+
+.(12)
+
+When we add these BAO data to the fitting, we also need to use the parameters Ωbh2 and Ωmh2. The values Ωbh2 = 0.02273 ± 0.0066 and Ωmh2 = 0.1329 ± 0.0064 were used in [23].
+In addition to the above two BAO data sets, the BAO A parameter [30] is usually used. The BAO A parameter is defined as
+
+q	H D
+/
+(z = 0.35)
+√Ω	"	0.35	1
+
+ q	∫ 0.35
+/ / /
+dz !#1/3
+
+/
+
+/
+
+and it was measured to be A = 0.493 ± 0.017 [21], so we add χ2 with
+ A − 0.439 2
+
+Note that the BAO A parameter depends on the model parameters p only; it does not depend on the baryon density Ωbh2 and the Hubble constant h. Although the radiation density depends on h, the contribution to the Hubble parameter E(z) is negligible at the redshift z = 0.35, so we can neglect the radiation component when we use the BAO A data.
+
+Improved cosmological constraints on the curvature and equation of state of dark energy5
+Both the SN Ia and the BAO data measure the distance up to redshit z < 2; we need to consider the distance at hight redshift in order to determine the property of dark energy. Therefore, we implement the WMAP5 data. To use the full WMAP5 data, we need to add some more parameters which depend on inflationary models, and this will limit our ability to constrain dark energy models. So we only use the WMAP5 measurements of the derived quantities, such as the shift parameter R(z∗), the acoustic scale lA(z∗) and the decoupling redshift z∗, to obtain
+χ2	= ∆x Cov −1(x , x )∆x ,	(15)
+
+CMB
+i	2	i	j	j
+
+where the three parameters xi = (R(z∗), lA(z∗), z∗), ∆xi = xi − xobs and Cov2(xi, xj) is the covariance matrix for the three parameters [24]. The shift parameter R is expressed as
+
+∗	 √Ωm
+R(z ) =	sinn
+  q|Ω |	z	dz !
+= 1.710 ± 0.019.	(16)
+
+q|Ωk|
+
+/
+k	0	E(z)
+
+The acoustic scale lA is
+∗
+
+πdL(z∗)
+
+lA(z ) = (1 + z∗)r (z∗) = 302.1 ± 0.86,	(17)
+and the decoupling redshift z∗ is fitted by [31]
+z∗ = 1048[1 + 0.00124(Ω h2)−0.738][1 + g (Ω h2)g2 ] = 1090.04 ± 0.93, (18)
+
+g1 =
+0.0783(Ω h2)−0.238
+
+/
+1 + 39.5(Ωbh2)0.763
+,	g2 =
+0.560
+
+/
+1 + 21.1(Ωbh2)1.81
+.	(19)
+
+In [24], it was found that Ωbh2 = 0.02273 ± 0.00062 and h = 0.719+0.026.
+The SN Ia data, the BAO data and the WMAP5 data use the distance measurement to determine the cosmological parameters. To get the distance scale, we need to integrate the equation of state parameter w(z) twice, so the process of double integration smoothes out the variation of equation of state parameter w(z) of dark energy. To alleviate the problem, we add the Hubble parameter H(z) data. The Hubble parameter H(z) at nine different redshifts was obtained from the differential ages of passively evolving galaxies in [25], and three more Hubble parameter data H(z = 0.24) = 76.69 ± 2.32, H(z = 0.34) = 83.8 ± 2.96 and H(z = 0.43) = 86.45 ± 3.27 were determined recently in [26]. Therefore, we add these H(z) data to χ2:
+12	2
+χ2 (p, h) = Σ [H(zi) − Hobs(zi)]  ,	(20)
+where σhi is the 1σ uncertainty in the H(z) data. The model parameters p are determined by applying the maximum likelihood method of χ2 fit. We use the publicly available MINUIT code for minimization and contour calculation [32]. Basically, The model parameters are determined by minimizing
+
+χ2 = χ2
+2
+Baoa
+2
+Bao2
+2
+Baoz
+2
+CMB
++ χ2 .	(21)
+
+For the convenience of numerical fitting, we take Ωbh2 = 0.02273 determined from the WMAP5 data [24]. For the Hubble constant h, two different values were observed.
+
+Improved cosmological constraints on the curvature and equation of state of dark energy6
+The Hubble key project found that h = 0.72 ± 0.08, and recently Riess et al obtained h = 0.742 ± 0.036 by using a differential distance ladder method [34]. To account for the uncertainty of the Hubble constant, we treat it as a free parameter and then fix it at its best fit value.
+
+ΛCDM model with curvature
+For the cosmological constant, the equation of state parameter w = p/ρ = −1, and the energy density ρΛ is a constant. In a curved ΛCDM model, the curvature term k /= 0, ordinary pressureless dust matter, radiation and the cosmological constant contribute to the total energy. The Friedmann equation is
+
+H(z)
+E(z) =	= [Ω
+(1 + z)2 + Ω
+(1 + z)3 + Ω (1 + z)4 + Ω
+]1/2,	(22)
+
+k	m	r	Λ
+0
+where the Hubble constant H0 = 100hkms−1Mpc−1, Ωm = (8πGρm)/(3H2) is the current matter component, the current radiation component Ωr = (8πGρr)/(3H2) =
+4.1736 × 10−5h−2 [24], the current curvature component Ω	= −k/(a2H2) and Ω	=
+1 − Ωm − Ωk − Ωr. In this model, we have two parameters p = (Ωm, Ωk) and one nuisance parameter h. For the fitting to the SN Ia data, the contribution to the Hubble expansion from the radiation is negligible and we usually neglect the radiation term.
+
+
+
+0.015
+
+0.76
+
+
+0.75
+
+
+0.01
+
+
+0.74
+
+
+0.73
+
+
+0.005
+
+
+0.72
+
+0.71
+0
+
+0.7
+
+
+0.69
+
+
+−0.005
+
+
+0.68
+
+
+0.67
+0.25	0.26	0.27	0.28	0.29	0.3	0.31	0.32
+
+m
+−0.01
+0.25	0.26	0.27	0.28	0.29	0.3	0.31	0.32
+
+m
+
+Figure 1. The 1σ, 2σ and 3σ joint contour plots of Ωm and ΩΛ (Ωk) for the curved ΛCDM model. The straight line in the left panel denotes the flat ΛCDM model.
+By fitting the ΛCDM model to the above observational data, we get χ2 = 482.13, Ωm = 0.280+0.014 and Ωk = 0.001 ±0.005. By fixing the nuisance parameter h at its best fit value h = 0.702, we obtain the contours of Ωm and Ωk. The joint contour plots of Ωm and Ωk or ΩΛ are shown in figure 1. Compared with WMAP5 fitting results [24], we find that the current data make a little improvement on the constraints of Ωm and Ωk. The improvement is due to more SN Ia and BAO data in addition to the H(z) data. The result tells us that the flat ΛCDM model is consistent with current observational data at the 1σ level.
+
+Improved cosmological constraints on the curvature and equation of state of dark energy7
+
+Table 1. The marginalized estimates of the model parameters in CPL and JBP models.
+
+
+
+
+
+
+
+CPL parametrization with curvature
+In order to investigate the equation of state of dark energy for a curved universe by observational data, in this section we study the popular CPL parametrization [13]
+
+w(z) = w0
+ waz 
++	.	(23)
+1 + z
+
+The dimensionless Hubble parameter including the contributions from dark energy, ordinary pressureless dust matter and radiation is
+
+H(z)
+E(z) =	= (Ω
+(1 + z)2 + Ω
+(1 + z)3 + Ω (1 + z)4 + Ω
+)1/2,	(24)
+
+k	m	r	DE
+0
+where the dimensionless dark energy density is
+ΩDE(z) = (1 − Ωm − Ωk − Ωr) × (1 + z)3(1+w0 +wa) exp[−3waz/(1 + z)(]2. 5)
+In this model, we have four model parameters p = (Ωm, Ωk, w0, wa). By applying the observational data discussed in the previous section to the CPL model, we are able to get the observational constraint on the model parameters p = (Ωm, Ωk, w0, wa). The best fit is χ2 = 481.64, Ωm = 0.278, Ωk = 0.006, w0 = −1.04, wa = 0.42 and h = 0.70. By fixing the parameters Ωm, Ωk and h at their best fit values, we obtain the contours of w0 and wa and they are shown in figure 2(a). From figure 2(a), we see that the ΛCDM model is excluded by the observational data at more than 3σ level. As we discussed in the previous section, we see that the ΛCDM model is consistent with the observational data. The totally different conclusions suggest that the simple χ2 error estimation by fixing other parameters at their best fit values has some drawbacks because we neglect the correlation effects of the other parameters. The degeneracy between parameters was not considered in the above method. When the parameters are strongly correlated, the error of some parameters will be under-estimated if we fix the other parameters at their best fit values. To verify this point, we apply the MCMC method to constrain the parameter space p and the nuisance parameters h and Ωbh2. Our MCMC code [28] is based on the publicly available package COSMOMC [35]. By using the MCMC method,
+we get χ2 = 481.27; the marginalized 1σ errors are Ωm = 0.279+0.015, Ωk = 0.005+0.006,
+−0.008	−0.011
+w0 = −1.05+0.23 and wa = 0.5+0.3.	These results are summarized in table 1.	The
+marginalized 1σ, 2σ and 3σ contour plots of w0 and wa are shown in figure 2(b). From figure 2(a) and 2(b), we find that the marginalized 1σ contour obtained by using the MCMC method includes the 3σ contour in figure 2(a). From figure 2(b), we see that the ΛCDM model is consistent with the CPL model at 1σ level.
+
+Improved cosmological constraints on the curvature and equation of state of dark energy8
+
+
+
+
+1.2	1.5
+
+1
+1
+
+0.5
+0.8
+0
+
+
+0.6
+
+−0.5
+
+
+0.4	−1
+
+
+
+0.2
+
+−1.5
+
+
+
+0
+
+
+−0.2
+−2
+
+−2.5
+
+−3
+
+
+−0.4	−3.5
+
+
+
+−0.6
+−1.3	−1.2	−1.1	−1	−0.9	−0.8	−0.7	−0.6
+w
+0
+(a)
+
+−4
+−1.3  −1.2  −1.1  −1  −0.9  −0.8  −0.7  −0.6  −0.5  −0.4  −0.3
+w
+0
+(b)
+
+
+Figure 2. The 1σ, 2σ and 3σ contour plots of w0 and wa for the curved CPL parametrization. ’+’ denotes the point corresponding to the ΛCDM model. (a) Joint contours of w0 and wa by fixing the other parameters at their best fit values. (b) Marginalized contours of w0 and wa obtained from the MCMC method.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+0.26	0.28	0.3	0.32
+
+m0
+
+−0.01  0  0.01  0.02  0.03
+
+k
+
+−0.5
+
+
+
+−1
+
+
+
+
+−1.5
+
+
+
+−2
+
+
+
+−2.5
+
+
+
+−3
+
+
+−1.2  −1  −0.8  −0.6  −0.4
+w
+0
+
+(a)
+−4	−2	0
+w
+a
+
+−3.5
+0	0.2	0.4	0.6	0.8	1	1.2	1.4	1.6	1.8	2
+Redshift z
+(b)
+
+Figure 3. The marginalized distributions of the CPL model parameters p are shown in (a). The solid lines are marginalized probabilities and the dotted lines are mean likelihoods. (b) Reconstructed evolution of w(z) and the shaded areas are 1σ, 2σ and 3σ errors.
+The marginalized distributions of the model parameters are shown in figure 3(a). The solid lines are marginalized probabilities and the dotted lines represent mean likelihoods. From figure 3(a), we find that the likelihood of Ωk has a local maximum around Ωk ∼ 0.02. Even we take Ωk = 0.02, the value of χ2 is not far from the minimum value of χ2. Due to the degeneracy between model parameters, if we fix the other model parameters at their best fit values, then the joined contours of w0 and wa are under-estimated, and the conclusion drawn from the under-estimated contours is not reliable. The results in figure 2(b) and 3(a) verify this point. By using the marginalized contours of w0 and wa, we reconstruct the evolution of w(z) in figure 3(b). From figure 3(b), we
+
+Improved cosmological constraints on the curvature and equation of state of dark energy9
+find that w(z) < 0 at more than 3σ confidence level up to redshift z = 2, and the ΛCDM model is consistent with the CPL model at the 1σ level. To account for the correlations between model parameters, we need to use the marginalized probability. To see whether this happens only for the CPL model, we analyze the JBP model in the next section.
+
+JBP parametrization with curvature
+In this section, we consider the JBP parametrization [27] for dark energy with the equation of state in the form below
+
+w(z) = w0
+  waz	
++ (1 + z)2
+.	(26)
+
+The corresponding dimensionless dark energy density is then
+ΩDE(z) = (1 − Ωm − Ωk − Ωr) × (1 + z)3(1+w0 ) exp h3waz2/2(1 + z)2i (.27)
+In this model, we also have four parameters p = (Ωm, Ωk, w0, wa). We first use the simple χ2 method to fit the model. The best fit is χ2 = 481.84, Ωm = 0.281, Ωk = 0.0015, w0 = −0.97, wa = −0.03 and h = 0.70. By fixing the parameters Ωm, Ωk and h at their best fit values, we obtain the contours of w0 and wa and they are shown by the solid lines in figure 4(a). Unlike the CPL model, the ΛCDM model is consistent with the JBP model at the 1σ level. To verify this conclusion, we also apply the MCMC method to the JBP model. By using the MCMC method, we get χ2 = 481.46; the marginalized 1σ errors are Ωm = 0.281+0.015, Ωk = 0.000+0.007, w0 = −0.96+0.25 and wa = −0.6+1.9.
+These results are summarized in table 1. The marginalized 1σ, 2σ and 3σ contour plots of w0 and wa are shown in figure 4(b). From figure 4(a) and 4(b), we see that the contours of w0 and wa are consistent although the constraints from the MCMC method are a little larger because we consider the correlations among all the parameters in the MCMC method. The ΛCDM model is also consistent with the JBP model at the 1σ level.
+The marginalized distributions of the model parameters p are shown in figure
+5(a). The solid lines are marginalized probabilities and the dotted lines represent mean likelihoods. From figure 5(a), we find that the probability distributions of the parameters are more or less Gaussian. By using the marginalized contours of w0 and wa, we reconstruct the evolution of w(z) in figure 5(b). From figure 5(b), we find that w(z) < −0.2 at more than 3σ confidence level up to redshift z = 2, and the ΛCDM model is consistent with the JBP model at the 1σ level.
+
+Conclusions
+Applying the simple χ2 method, we fitted the CPL and JBP models to the combined SN Ia, BAO, WMAP5 and H(z) data, and obtained the constraint on the property of dark energy. In both CPL and JBP models, there are four parameters p = (Ωm, Ωk, w0, wa). When we apply the BAO and WMAP5 data, we need to add two more parameters Ωbh2 and h. If we make the joint error analysis, we have six parameters and it will
+
+Improved cosmological constraints on the curvature and equation of state of dark energy10
+
+
+
+
+3
+
+4
+
+2
+
+2
+
+1
+
+0
+
+0
+
+−2
+
+−1
+
+−4
+
+−2
+
+−6
+
+
+−3
+−1.4	−1.3	−1.2	−1.1	−1	−0.9	−0.8	−0.7	−0.6	−0.5
+w
+0
+(a)
+
+
+−1.6	−1.4	−1.2	−1	−0.8	−0.6	−0.4	−0.2
+w
+0
+(b)
+
+
+Figure 4. The 1σ, 2σ and 3σ contour plots of w0 and wa for the curved JBP parametrization. ’+’ denotes the point corresponding to the ΛCDM model. (a) Joint contours of w0 and wa by fixing the other parameters at their best fit values. (b) Marginalized contours of w0 and wa obtained from the MCMC method.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+−0.2
+
+
+
+
+0.26	0.28	0.3	0.32
+
+m0
+
+
+
+−0.01	0	0.01  0.02
+
+k
+
+
+−0.4
+
+
+−0.6
+
+
+−0.8
+
+
+−1
+
+
+−1.2
+
+
+−1.4
+
+
+−1.6
+
+
+−1.8
+
+
+−2
+
+
+−1.5	−1	−0.5
+w
+0
+
+(a)
+
+−6  −4  −2	0	2	4
+w
+a
+
+
+−2.2
+0	0.2	0.4	0.6	0.8	1	1.2	1.4	1.6	1.8	2
+Redshift z
+(b)
+
+Figure 5. The marginalized distributions of the JBP model parameters p are shown in (a). The solid lines are marginalized probabilities and the dotted lines are mean likelihoods. (b) Reconstructed evolution of w(z) and the shaded areas are 1σ, 2σ and 3σ errors.
+be hard to get a good joint constraint on all these parameters. Therefore, we take Ωbh2 = 0.02273, and find out the best fit values of the parameters p and h which minimize χ2; then we fix the parameters Ωm, Ωk and h at their best fit values to obtain the joint constraints on w0 and wa. For the CPL model, the contours of w0 and wa (see figure 2(a)) show that the ΛCDM model is excluded at more than 3σ level. The JBP model is consistent with the ΛCDM model at the 1σ level. Since we get the contours of w0 and wa by fixing the other parameters at their best fit values, we neglect the correlation effects of the parameters and the conclusion based on this method may not
+
+Improved cosmological constraints on the curvature and equation of state of dark energy11
+be reliable. To confirm this, we use the MCMC method to analyze the CPL and JBP models and obtain the marginalized probabilities of the parameters. For the CPL model, the probability distributions of Ωk and wa are skew distributions, and the marginalized 1σ errors are Ωm = 0.279+0.015, Ωk = 0.005+0.006, w0 = −1.05+0.23 and wa = 0.5+0.3. In
+the CPL model, the probability distributions of Ωk has a local maximum in addition to a global maximum. The uncertainties in Ωk and the degeneracies between Ωk, w0 and wa lead to under-estimation of the error contours of w0 and wa if we fix Ωk at its global best fit value, and the wrong conclusion that the ΛCDM model is excluded at more than 3σ level. However, this does not happen for the JBP model. For the JBP model, the parameters have Gaussian distributions, and the marginalized 1σ errors are Ωm = 0.281+0.015, Ωk = 0.000+0.007, w0 = −0.96+0.25 and wa = −0.6+1.9.
+In summary, in addition to use the usual SN Ia, BAO A or BAO distance ratio, and WMAP data, we also use the radial BAO measurements and the H(z) data to fit the CPL and JBP models. We find that the equation of state parameter of dark energy w(z) < 0 at more than 3σ level in the redshift range 0 ≤ z ≤ 2, and the flat ΛCDM model is consistent with the current observational data at the 1σ level. Furthermore, we find that we need to do the marginalized analysis to estimate the errors of the model parameters.
+
+Acknowledgments
+NP was partially supported by the project A2008-58 of the Scientific Research Foundation of Chongqing University of Posts and Telecommunications, and the NNSF of China under grant no 10947178. YG was partially supported by the NNSF key project of China under grant no 10935013, the National Basic Research Program of China under grant no 2010CB833004, and the Natural Science Foundation Project of CQ CSTC under grant no 2009BA4050. ZZ was partially supported by the NNSF Distinguished Young Scholar project under Grant no 10825313, and the National Basic Research Program of China under grant no 2007CB815401.
+
+References
+Riess A G et al 1998 Astron. J. 116 1009
+Perlmutter S et al 1999 Astrophy. J. 517 565
+Wetterich C 1988 Nucl. Phys. B 302 668
+Ratra B and Peebles P J E 1988 Phys. Rev. D 37 3406
+Caldwell R R, Dave R and Steinhardt P J 1998 Phys. Rev. Lett. 80 1582
+Caldwell R R 2002 Phys. Lett. B 545 23
+Armendariz-Picon C, Damour T and Mukhanov V 1999 Phys. Lett. B 458 209
+Padmanabhan T 2002 Phys. Rev. D 66 021301
+Bagla J S, Jassal H K, and Padmanabhan T 2003 Phys. Rev. D 67 063504
+Feng B, Wang X L and Zhang X M 2005 Phys. Lett. B 607 35
+Wei H, Cai R G, and Zeng D F 2005 Class. Quantum Grav. 22 3189 Wei H, Cai R G, and Zeng D F 2005 Phys. Rev. D 72 123507
+
+Improved cosmological constraints on the curvature and equation of state of dark energy12
+
+Kamenshchik A Y, Moschella U and Pasquier V 2001 Phys. Lett. B 511 265 Bento M C, Bertolami O and Sen A A 2002 Phys. Rev. D 66 043507
+Hsu S D H 2004 Phys. Lett. B 594 13
+Li M 2004 Phys. Lett. B 603 1
+Capozziello S 2002, Int. J. Mod. Phys. D 11 483
+Nojiri S and Odintsov S D 2003 Phys. Rev. D 68 123512 Hu W and Sawicki I 2007 Phys. Rev. D 76 064004
+Dvali G, Gabadadze G and Porrati M 2000 Phys. Lett. B 485 208
+Chevallier M and Polarski D 2001 Int. J. Mod. Phys. D 10 213 Linder E V 2003 Phys. Rev. Lett. 90 091301
+Shafieloo A, Sahni V and Starobinsky A A 2009 Phys. Rev. D 80 101301
+Huang Q G, Li M, Li X D and Wang S 2009 Phys. Rev. D 80 083515
+Cai R G, Su Q P and Zhang H-B 2010 J. Cosmol. Astropart. Phys. JCAP04(2010)012
+Serra P et al 2009 Phys. Rev. D 80 121302
+Gong Y G, Cai R G, Chen Y and Zhu Z-H 2010 J. Cosmol. Astropart. Phys. JCAP01(2010)019
+Gong Y G, Wang B and Cai R G 2010 J. Cosmol. Astropart. Phys. JCAP04(2010)019
+Hicken M et al 2009 Astrophys. J. 700 1097
+Reid B A et al 2010 Mon. Not. R. Astron. Soc. 404 60
+Percival W J et al 2010 Mon. Not. R. Astron. Soc. 401 2148
+Gaztan˜aga E, Miquel R and S´anchez E 2009 Phys. Rev. Lett. 103 091302
+Komatsu E et al 2009 Astrophys. J. Suppl. Ser. 180 330
+Simon J, Verde L and Jimenez R 2005 Phys. Rev. D 71 123001
+Gaztan˜aga E, Cabr´e A and Hui L 2009 Mon. Not. R. Astron. Soc. 399 1663
+Jassal H K, Bagla J S and Padmanabhan T 2005 Mon. Not. Roy. Astron. Soc. 356 L11
+Gong Y G, Wu Q and Wang A 2008 Astrophys. J. 681 27
+Eisenstein D J and Hu W 1998 Astrophys. J. 496 605
+Eisenstein D J et al 2005 Astrophys. J. 633 560
+Hu W and Sugiyama N 1996 Astrophys. J. 471 542
+James F and Roos M 1975 Comput. Phys. Commun. 10 343
+Freedman W L et al 2001 Astrophys. J. 553 47
+Riess A G et al 2009 Astrophys. J. 699 539
+Lewis A and Bridle S 2002 Phys. Rev. D 66 103511
+
+AJCE, 2011, 1(2)
+
+IN SEARCH OF A UNIFIED THEORY:
+AN ATTEMPT TO RECONCILE GRAVITY AND QUANTUM
+Mulugeta Assefa Damte1*, Gelana Amente2, Abdelila Andia3 and Tesfahun Kebede1 1*Department of Chemistry (retired), Haromaya University, Ethiopia, mulugetaassefadamte@yahoo.com
+2Department of Physics, Haramaya University, Ethiopia 3Department of Mathematics, Haramaya University, Ethiopia 1Department of Chemistry, Haramaya University, Ethiopia
+
+ABSTRACT
+Issues around geometry of the universe, density of the universe (Underweight), expansion of the universe and theories held-up by scientists such as Stephen Hawking, John Wheeler, Albert Einstein, etc have been looked into. The equations formulated by these people; that is E =mc2, E = hν and PV = nRT were treated to give meaning under the general truth that the universe has only two entities; MATTER and ENERGY and HEAT and COLD to manipulate them. The Energy x Time / Matter x Space relationships is suggested in this paper in place of, Energy.Matter = Space.Time, which was summarized by Albert Einstein. The three
+dimensionness of space were incorporated into E = mc2 to give E/N Ξ c3. E = hc// which had the notion of space divided by space is re-related to space per time and PV
+= nRT is revisited until it was modified to be in congruent with the above two fundamental formulations; that is PVΞ KT/N. These new relationships (THEORIES) are in agreement with each other and could be pronounced as “UNITED”. [AJCE, 1(2), July 2011]
+
+AJCE, 2011, 1(2)
+
+INTRODUCTION
+Issues of editing and then transferring knowledge in education have become increasingly important as new things unfold about concepts and outlooks of space/time. Chemistry textbooks currently used for education ought to take into account the need for tuning up with developments of contemporary science in general. My experiences in teaching chemistry to Ethiopian students consistently indicated that students, and teachers to a lesser extent, have always found learning chemistry difficult. To most of them, it is very frustrating to the extent of jeopardizing individual’s career in chemistry and in other natural (physical) science fields. Thus,
+looking into what core problem(s) could these be based on is a worthwhile effort.
+
+One could start picking three chemistry textbooks of the time, three theoretical physicists’, and astrophysicists’ deliberations on space/time, geometry of the universe and on other related concepts for comparisons and for points of departure from what is taken as accepted and absolute theories in the three chemistry books, and citing some of the issues here below.
+In his book Out of My Later Years, Einstein (1, p.48) gave hints about how he saw the future, and why he had been unable to develop a unified theory of everything. He wrote: The general theory of relativity is as yet incomplete in so far as it has been able to apply the general principle of relativity satisfactorily only to gravitational fields, but not to the total field. We do not yet know with certainty by what mathematical mechanism the total field in space is to be described and what the general invariant laws are to which this total field is subject. One thing, however, seems certain: namely, that the general principle of relativity will prove a necessary and effective tool for the solution of the problem of the total field.
+
+AJCE, 2011, 1(2)
+
+According to the standard model of particle physics (2) there are four forces that physics so far adhered to while some other scientists came to believe that there is a Fifth in the arena, unknown to physics to date, which is counteracting the four and pushing the universe into unprecedented accelerated expansion!!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In describing the structure of a crystal it is convenient to view it as being composed of a huge number of simple, basic units called unit cells. For example, the simplest and most symmetrical unit cell of all, called the simple cubic unit cell, shown in the diagram below (3), is derived using a plane (2D model). The question is: Why restrict space into two (Euclidean) when it is actually three dimensional?
+
+AJCE, 2011, 1(2)
+
+Virtually every scientist would agree that the most significant theoretical model of nature ever formulated is the atomic theory. The same theory that tells us of the energies of atomic orbitals also describes their shapes, the simplest and most symmetrical unit cell of all being called the simple cubic unit cell. The theory also provides a physical model for the behavior of gases that is in agreement with the gas
+
+laws as in
+
+ P 
+n2a 
+(V  nb)  nRT
+and offers a basis for the explanation of other
+
+	V 2 
+
+kinds of molecular behavior. The layers of closely packed particles in a crystal lattice constitute planes as demonstrated in 1848 by Bravais that 14 different geometrical systems could describe all space lattices (4).
+The velocity of a molecule of gas is resolved into components as in the diagrams below:
+/
+
+AJCE, 2011, 1(2)
+
+From “Kinetic Theory” Maxwell-Boltzmann distribution for a gas of non-interacting molecules,
+N  N g exp (   )	Ni
+/
+
+i	q	i
+i
+gives the number fraction	N
+of molecules in the gas (at
+
+
+equilibrium at temperature T) in the energy level i with energy I and degeneracy gi. In this regard, chemistry books have not given rooms for alternative explanations or for any other theories or views possibly to exist. In addition, disclose that such alternative theories or explanations do crop up from time to time. The big question is: Why is squaring the velocity of what you measure such an accurate way te describe what happens in nature? (5)
+/	/
+The Geometry of the Universe
+
+AJCE, 2011, 1(2)
+
+We know that locally, near a star or another massive object, space is curved. Space curves around the object spherically, as demonstrated by the eclipse experiments. But what is the overall shape of the universe? (6). The three constant-curvature models in two dimensions are shown below. In the four dimensions of space-time, the special metric of relativity theory is used to define distances. With this metric, the hyperbolic space of negative curvature is often approximated by a saddle.
+/
+The earth as seen from space (courtesy of Technology Application Center)
+
+
+
+The introduction in the last pages was intended to give background information about existing scientific theories and how they are limited in their attempts to do so particularly in an educational context. The basic issue in this paper is therefore what and how to do in the future when writers want to present chemistry books to their audiences and/or while learners should use these books in transferring science to their users.
+DISCUSSION
+Frome the atomic theory described above, the force of the interaction between charged particles is directly proportional to the sizes of the charges e and inversely proportional to the square of the distance r between them (7). The van der Waals
+	n 2 a 
+
+ P 
+Equation is also given as . 	V
+(V  nb)  nRT
+
+
+According to Einstein, E=mc2.
+
+The big question, though, is why is squaring the velocity of what you measure such an accurate way to describe what happens in nature?
+
+AJCE, 2011, 1(2)
+
+The interesting thing is that almost anything that steadily accumulates will turn out to grow in terms of simple squared numbers, as shown above. Over time, physicists became used to multiplying an object’s mass by the square of its velocity (mv2) to come up with such a useful indicator of its energy. It is almost as if the ultimate energy an object will contain reveals when you look at its mass times c squared, or its mc2. This is not a proof, of course, but it seemed so natural, so “fitting”, when the expression mc2 did suddenly appear. (For the reader interested in Einstein’s actual derivations, the Web site for this book, davidbodanis.com, goes through some of his reasoning.)” (5)
+The last century was a revolution in science that changed the modern perception of the natural world. Einstein’s theories of relativity and quantum theory are two of the most radical—and irreconcilable—breakthroughs that form the foundation of much of modern theoretical physics. Where once theoretical physics was an obscure subject, it is now a major focus of study, showing a change in the outlook of the scientific community. In all, twentieth century science was a change in outlook: in the nineteenth century, science was thought to be nearly complete; but that belief was shattered by discoveries of the twentieth century such as Gödel’s Incompleteness Theorem, atomic physics, and relativity. Once again, scientists are seeking to bring theories together into a coherent system. Quantum gravity is a theory that would combine Einstein’s relativity with quantum theory, which explains the subatomic world.
+It was in 1905 that Einstein published his special theory of relativity, famous as the equation E=mc2. Work by mathematician Hermann Minkowski several years later translating Einstein’s equations revealed a unity of space and time, a four-dimensional continuum (8). Shortly thereafter, Einstein began trying to find a general
+
+AJCE, 2011, 1(2)
+
+theory for non-uniform motion (special relativity only applied to uniform or linear motion). This work evolved into his general theory of relativity, which Cline (8) explains, “space and time are inseparable, and in the regions of the universe where matter is present the space-time unity possesses a curvature”.
+The search for unity between relativity and quantum mechanics might lead to an understanding of our universe’s creation: a singularity is a point of infinite density, the beginning or end of time (9). Hawking (10) points out that at such a point, space-time and quantum effects would become comparable because of scale. Thus, an understanding of these two things together would lead to the knowledge of the universe’s birth. In that sense, quantum gravity is not a very practical study in science, for it has few direct applications to daily life. Quantum gravity could explain life, though. It would answer such pure questions of human existence as how the universe was born. By studying this area of science, scientists are working to complete the human history.
+John Wheeler proposed in the 1960’s that the quantum world could be described as a swirling quantum foam, whereas space-time is smooth (Peterson “Loops”). A theory of quantum gravity, loop quantum gravity, does show this proposed quantum foam. It also says that space is divided into discrete units—quanta—and that the “physical measurement of an area or volume will necessarily yield quantized results” (Peterson “Loops”).
+ANALYSIS/ARGUMENT
+Any college physics book gives tables of the following sorts (2) and the way of understanding nature as we found them in many chemistry education materials base their initial point of argument around core- constants.
+
+AJCE, 2011, 1(2)
+
+Quantity
+	Symbol
+	Value
+	
+	Bohr radius
+	a0 =h2/42mee2 (ke)
+	0.529 177 249(24) X 10-10m
+	
+	Boltzmann’s constant
+	k B = R/NA
+	1.380 658(12) X 10-23 J/K
+	
+	Compton wavelength
+	C = h/mec
+	2.426 310 58(22) X 10-12m
+	
+	Gas constant
+	R
+	8.314 510(70) J/K.mol
+	
+	Gravitational constant
+	G
+	6.672 59(85) X 10-11 N.m2 /kg2
+	
+	Hydrogen ground state
+	2	2	2
+E0 = 42 mee4 ke / 2h = e ke /2a0
+	13.605 698(40) eV
+	
+	Magnetic flux quantum
+	0 = h/2e
+	2.067 834 61(61) X 10-15 Wb
+	
+	Permeability of free space
+	0
+	4 X 10-7 N/A2
+	
+	Permittivity of free space
+	єo(o ) = 1/0c2
+	8.854 187 817 X 10-12 C2 /N.m2
+	
+	Planck’s constant
+	h
+ħ = h/2
+	6.626 075(40) X 10-34 J.s
+1.054 572 66(63) X 10-34 J.s
+	
+	Rydberg constant
+	RH
+	1.097 373 153 4(13) X 107m-1
+	
+	Speed of light in vacuum
+	c
+	2.997 924 58 X 108 m/s
+	
+	
+From the table above we could bring up the following issues. Let us have a look into the different constants. Bohr radius-a0 =h2/42mee2 (ke) , m; Boltzmann’s constant-k B = R/NA, J/K; Compton wavelength-C = h/mec, m; Gas constant-R, J/K.mol, Gravitational constant-G, N.m2 /kg2; Hydrogen ground state-E0 = 42 mee4 k 2 / 2h2 = e2 k /2a , eV; Magnetic flux quantum- = h/2e, Wb; Permeability of free space-0, N/A2; Permittivity of free space-єo(o ) = 1/0c2, C2 /N.m2; Planck’s constant-h, ħ = h/2, J.s; Rydberg constant-RH, m-1; and Speed of light in vacuum, c, m/s. If one examines the relationships of each constant and its unit, he/she is bound to
+
+AJCE, 2011, 1(2)
+
+get to the following bottom line. That is, for example, a0-m; R-J/K.mol; G- N.m2 /kg2;
+
+0 -/A2; o - C2 /N.m2; h- J.s; c- m/s and on.
+
+These when summed up result in that either space alone appeared, m, in the case of Bohr radius, or one over space, m-1, in the case of Rydberg constant. In others, for example, in gas constant, energy per temperature per number of particles, that is, per matter appeared. In still others, energy per temperature, force per space squared, as in the case of permeability and charge squared per force per space squared did appear. In Planck constant, we find energy multiplied by time and in speed of light space divided by time is the relationship.
+As one, who has gone through this paper, could possibly conclude we took over two centuries in learning-teaching chemical sciences to understand nature through only a less than ten percent window of opportunity. That window more than any thing pictured by almost all to date authors of the science books, as the ultimate, absolute, and comprehensive avenues to help understand the universe. Moreover, that was not the easy way for many students and teachers particularly in Ethiopia to comprehend the sciences first. The information in the books apart from being very incomprehensive, the authors’ environments that helped them observe, gather data and arrive at generalizations were in many aspects foreign to Ethiopians. Secondly, as these books did not include other outlooks and findings of contrary to theirs, there were no chance for Ethiopians to dare contribute from their experiences. Hence, chemical education in Ethiopian universities using such books did not help the learners so far as much as it should have to.
+One could confidently say that the different authors of science books, all of them used matter-energy-space-time interrelated differently to describe phenomena in
+
+AJCE, 2011, 1(2)
+
+nature. We all followed suit to learn and some of us then after to teach science without any significant input of views that were similar or on the contrary.
+What has been so far tried was to bring up Aristotle’s, then Newtonians’ and then after to date the quantumeans’ (Planck, Bohr, de Broglie, Heisenberg, Einstein) stipulations that fellow humans were presented with to follow in absolute sense of acceptance during the period of dominance of each scientist. These people could be grouped as those who had been following ‘’the continuum” and the other bigger group up-holding “the discontinued-quantum” as central themes to understand nature. With the help of those and with the current efforts like “Quantum gravity of Wheeler, Black hole issues of Hawking and the search for the soul of God of Schroeder” (6, 11, 12, 13, 14)
+One could for example bring up, as here below, arguments like E = - k/n2. The integer n is the same integer as in the angular momentum assumption, mevr = n(h/2); k is a constant that depends only on Planck’s constant, h, the mass of an electron, me, and the charge on an electron, e: k = 22 me e4 /h2 = 1312 kJ.mol-1
+
+c = 1/
+0 0
+(Electromagnetic waves travel through empty space with the speed of
+
+Light.). The relative magnitudes of E and B in empty space are related by E/B = c. E = mc2 ; E = hν; E = kg. (m/s) (m/s) = kg. (m/s2) .
+mE = h. c/ = J. s/photon . m/s . m-1 = {kg . (m/s2 ) . m .s /photon } .m/s . m-1.
+
+Point One
+To arrive at the de Broglei’s relationship, the c in E = mc2 must cancel with the c in E = h c/, as we could infer into the details c in Einstein’s conservation equation is a constant and a variable in the second equation. We are as it seems canceling a variable with a constant.
+
+AJCE, 2011, 1(2)
+
+Point Two
+The squaring of a constant in the same equation closely links with the Euclidean principle of the shortest hypotenuse straight-line rule. For one the relationship between “Matter-Energy and Space-Time”, as we now understand from our earlier discussion, is not yet a settled business. On the other hand, squaring in old physics is a convenience in search of accuracy and precision thing rather than a well founded mathematical and physic-chemical derivation.
+
+RECOMMENDATIONS
+
+
+Universe  Space 
+
+Energy, EP.E  K.E 
+
+Time
+Matter,  N
+
+
+Geometry, Structure of Space Power  Force  Energy
+
+PV  k T
+N
+V
+
+
+E	Space 3D 
+
+T  E
+ NP
+k
+ hc 
+N  M  
+
+Time
+
+E  mc 3   E
+m
+ ccc 
+E  mc
+
+
+heat
+c
+
+
+const ,light
+c
+
+
+wind
+
+Thank God for the Enlightenment!!!
+
+REFERENCES
+Einstein, A. (1950). Out of My Later Years, New York: Philosophical Library.
+Serway, R. A. (1998). Principles of Physics, 2nd ed, Saunders College Publishing, Harcourt Brace and Company.
+Brady, J. E, Russell, J. W, Holum, J. R (2000). Chemistry: Matter and Its Changes, 3rd ed, John Wiley and Sons, Inc.
+
+AJCE, 2011, 1(2)
+
+Keenan, C. W, Kleinfelter, D. C, and Wood, J. H (1980). General College Chemistry, 6th ed, Harper and Row, Publishers, Inc.
+Bodanis, D. (2000). E = mc2. A Biography of the World’s Most Famous Equation, Walker Publishing Company, Inc.
+Aczel, A. D. (1999). God’s Equation: Einstein, Relativity, and the Expanding Universe, Four Walls Eight Windows.
+Huggert, S. A., et al. (1998). The Geometric Universe: Science, Geometry, and the Work of Roger Penrose, New York: Oxford University Press.
+Cline, B. L.(1987). Men Who Made a New Physics. Chicago: University of Chicago Press.
+Hawking, S. (1988). A Brief History of Time, New York: Bantam.
+Hawking, S. (2001). The Universe in a Nutshell. Bantam Books: New York.
+Bohm, D. (1979). The Special Theory of Relativity, Reading, MA: Addison-Wesley.
+Ebbing, D.l D. (1996), General Chemistry, 5th ed, Houghton Miffin Company.
+Halliday, D. and Resnick, R. (1988). Fundamentals of Physics, Vols. II, 3d ed., New York and I: Wiley.
+Mortimer, C. E (1975). Chemistry: A Conceptual Approach, 3rd ed, D. van Nostrand Company.
+
+268
+
+
+
+THE COLLOQUIUM
+Introduction to Unified Field Mechanics: Formalizing the Protocol
+
+
+RICHARD L. AMOROSO
+Noetic Advanced Studies Institute Escalante Desert, Beryl, UT 84714 USA amoroso@noeticadvancedstudies.us
+
+
+A brief introductory survey of Unified Field Mechanics (UFM) is given from the perspective of a Holographic Anthropic Multiverse cosmology in 12 continuous-state dimensions. The paradigm with many new parameters is cast in a scale-invariant conformal covariant Dirac polarized vacuum utilizing extended HD forms of the de Broglie-Bohm and Cramer interpretations of quantum theory. The model utilizes a unique form of M-Theory based in part on the original hadronic form of string theory that had a variable string tension, TS and included a tachyon. The model is experimentally testable, thus putatively able to demonstrate the existence of large-scale additional dimensionality (LSXD), test for QED violating tight-bound state spectral lines in hydrogen below the lowest Bohr orbit, and surmount the quantum uncertainty principle utilizing a hyperincursive Sagnac Effect resonance hierarchy.
+
+Keywords: Calabi-Yau mirror symmetry, Dirac vacuum, String tension, Tachyon, Tight-bound states, Unified field mechanics
+
+
+
+Part 1: Amoroso Keynote Address Transcription
+If [all physicists] follow the same current fashion in expressing and thinking about electrodynamics or field theory, then the variety of hypotheses being generated ... is limited. Perhaps rightly so, for possibly the chance is high that the truth lies in the fashionable direction. But, on the off chance that it is in another direction - a direction obvious from an unfashionable view of field theory - who will find it? Only someone who sacrifices himself ... from a peculiar and unusual point of view, one may have to invent for and himself - Richard Feynman, Nobel Prize lecture.
+
+Introduction
+(Delay because of trouble with computer) SABAH E. KARAM
+Anyway, you can blame me Richard.
+RICHARD L AMOROSO
+Ill try but I don't think theyll accept it (laughter).
+Anyway the culmination of today is the roundtable discussion after lunch to continue some work started by Vigier in 1999-2000 on tight-bound states in hydrogen describing new orbits below the lowest Bohr orbit [1,2] which at that time I thought was nonsense. How could there be additional Bohr orbits below the lowest orbit by definition. And in addition Vigier was using this scenario to try to explain cold fusion, which even today it is considered to be on the foolish fringe; but I won't go into that now. Something happened in 2012 that made me think the theory was well worth pursuing [3].
+So our challenge is that this problem is not just atomic/nuclear physics but also a form of higher dimensional M- theory. If youve delved into string / M-Theory one can see it is quite a menagerie. Proponents don't fully know what to do, theyre trying everything hoping to find out of a 10Googolplex or infinite number of possible string vacuums to try and find the one unique vacuum that makes correspondence to the standard model. I merely took all the pieces that were pertinent to my model off the shelf and used them to develop the framework for this new model of tight-bound states (TBS). We started 100s of years ago with Classical Newtonian Mechanics in a 3D Euclidean
+
+R.L. Amoroso et al.	269
+
+
+space. Einstein and his contemporaries developed a 4D Minkowski-Riemann space for quantum mechanics and relativity; comprising the 2nd regime. The 3rd regime is suggested to be the realm where unified field mechanics (UFM) exists. The model used here is 12 dimensional; adding an additional UFM control factor to the 11D currently in vogue in M-Theory. Just as the tools of quantum mechanics were invisible to the tools of Classical Mechanics, so until now the tools of UFM are putatively invisible to the contemporary tools of experimental physics. As generally known spacetime is considered a stochastic foam with a zero point field (ZPF) from which virtual particles restricted by the quantum uncertainty principle (to the Planck time) wink in and out of existence with Zitterbewegung explained as an interaction of a classical particle with the ZPF. Peter has extended this nicely with his space anti-space model [4].
+The de Broglie Bohm theory didn't work very well formulated in 4D. Our program extends this model along with Cramer's Transactional Interpretation into HD space where it seems to work better. As you may know in the de Broglie Bohm model there is said to be no collapse of the wave function as in the Copenhagen interpretation but a continuous evolution where space-time and matter are continuously created annihilated and re-created with this evolution governed by a pilot wave or quantum potential.
+This back cloth in our model is considered to be a covariant polarized vacuum of the Dirac type. A Dirac vacuum because it's proponents have applied extended electromagnetic theory with photon mass, m and such;
+but because of the great success of gauge theory the physics community has marginalized it perceiving a conflict. The best evidence for a Dirac vacuum is the Casimir affect. Lesser indicia of a Dirac vacuum include the Zeeman Affect and the Aharanov-Bohm Affect.
+Regarding the putative Tight-Bound State (TBS) regimes in the hydrogen atom; what we are proposing in regards to these higher dimensions is to demonstrate their existence by observing new spectral lines in hydrogen. What this means as I will try to show is that the uncertainty principle is a manifold of finite radius (of 3 to 6 dimensions still to be determined). So we have a 3D asymptotically flat Euclidean space that we observe; then we have this manifold of the uncertainty blocking another realm of dimensionality that is infinite in size. Lisa Randall is a major proponent of infinite size extra dimensions [5]. This model does not work in a 4D Big Bang cosmology. But because of certain inherent parameters within the new continuous-state HAM cosmology it seems to work fine therein. This could be a good thing, suggesting that we are on
+
+the correct track to new physics that might putt another nail in the coffin of Big Bang cosmology. The main reason HAM cosmology is perceived to have this success is that the continuous-state process allows the highest package of dimensions to be causally free of Euclidean space - crucial for surmounting uncertainty.
+If one dabbles in string theory one knows that the Planck constant is not considered fundamental. String tension, TS is a factor added to the Planck constant. I was nonplussed for a while because the HAM model conflicts with the current incarnation of string theory in several ways. But this changed about a year or so ago when I uncovered the original hadronic form of string theory. String tension in the current model is fixed, one tension, TS fixed for all strings. In the original hadronic model TS fluctuated which is much more compatible with my multiverse cosmology. Another reason that the original hadronic form was rejected was that it contained a tachyon considered to be nonphysical. But the tachyon in terms of the Cramer model where the
+present is a standing-wave of the future-past is a key element also deemed compatible with Calabi-Yau mirror symmetry. The tachyon may generally be virtual along with the tardyon as an interesting component allowed by the new set of UFM transformations beyond the Galilean-Lorentz-Poincairé; but that's an issue for later [6].
+Following below is a brief outline of some of the things I will try to cover.
+
+Outline of Salient Premises Introduced
+NEW HOLOGRAPHIC ANTHROPIC MULTIVERSE (HAM) COSMOLOGY
+Derivation of Continuous-State Hypothesis
+Unique String Vacuum
+Derivation of Variable String Tension,
+1T / e / l /2/ '/
+The Least Cosmological Unit (LCU) and relation to the Space-Antispace Quaternion Vertex
+Quantum Mechanical Uncertainty as a Manifold of Finite Radius
+Simplistic Calculation of New Spectral Lines Utilizing Common Hypervolume Formula
+
+12D M-THEORETIC CALABI-YAU MIRROR SYMMETRY
+The Conformal Covariant Dirac Polarized Vacuum With Continuous-State HD Copies of the Quaternionic or 4D Quantum Particle in a Box.
+
+TBS EXPERIMENTAL DESIGN
+Utility of Complex Quaternion Clifford Algebra for Protocol Design
+
+270	Unified Field Mechanics – Colloquium
+
+
+Sagnac Effect Incursive oscillator Resonance Hierarchy
+Refined TBS Spectral line prediction utilizing Bessel Function parameters with corrections from string tension, Ts and the Fine Structure Constant.
+
+TABLE 1. Mandatory Key Elements
+Multiverse Cosmology
+Continuous-State Hypothesis
+Least Cosmological Unit (LCU)
+Closed-Packed Spacetime Tessellation
+Surmounting Quantum Uncertainty
+– A new transformation beyond the Galilean-Lorentz-Poincairé Transform
+
+Indicia of Our TBS Model
+SEARCH FOR LARGE-SCALE ADDITIONAL DIMENSIONS (LSXD)
+
+CERN has begun a new program to find evidence of another host of particles that can only exist if there are more dimensions than found in the Standard Model of particle physics; Proposed, but not yet performed.
+THE CONTINUOUS-STATE HYPOTHESIS
+
+Derivation of continuous-state multiverse postulates led to a unique string vacuum with as I've mentioned contains a variable string tension and a virtual tachyon [6,7]. I will do my best to define this continuous-state process which is still very difficult for me to do. The Planck scale is currently called the basement of reality starting from an essentially infinite size Hubble radius cosmology that reduces to a rigid microscopic Planck scale. In the holographic multiverse model, built partly by the way on an extension of Elizabeth's complex 8-space, where she added a 4D complex space, C4 to standard 4D Minkowski space, M4 which didn't quite work for me because her 4D complex space still reduced to a fixed rigid Planck barrier (Figure 2).
+
+Figure 3. 12D HAM cosmology with the addition of a 2nd
+
+complex 4-space resulting in M 4
+C 4 . The
+C 4 spacetime
+
+packages must become involute (Fig. 5) before the continuous-state process can occur.
+
+
+
+
+
+
+
+
+
+Figure 1. CERN high energy collision cross section particle spray of the type that uncovered the Higgs mechanism.
+What I needed to develop the continuous-state model was to have a fundamental basis of reality that acted as if it was in a self-contained inherent freefall. So I added another set of complex dimensions to allow reality to cycle continuously at the fundamental level. However Elizabeth's complex 8-space also included superluminal Lorenz transformations that boosted a spatial dimension, s into a temporal dimension, t enhancing	my	process	for	conceptualizing	the continuous-state scenario [7]. I then applied a second set of superluminal Lawrence transformations boosting a temporal dimension, t to dimension of energy, e. The energy dimension becomes compatible with a super-quantum potential eventually becoming synonymous with the ontological force of coherence of the unified field. This addition along with the second complex 4-
+
+space, /C 4 dimensions completed geometrically at least
+
+
+
+
+
+
+
+Figure 2. Conceptual view of the Rauscher HD Complex C4 space added to Minkowski space.
+the necessary components for continuous-state cyclicality providing a key framework for one of the most key elements of the model within which we propose new spectral lines in hydrogen [8].
+The other key element is that it is mandatory to surmount the uncertainty principle [7,9], which as you
+
+R.L. Amoroso et al.	271
+
+all know has been sacrosanctly demonstrated by Copenhagen interpretation. We'll get into that in a little bit; the track or whatever you want to call it is simplistically to do something else!
+Also in terms of the Dirac vacuum for some of you, if you've read a blurb on Calabi-Yau mirror symmetry which is a 6D or 9D manifold like a dual 3-torus with a left-right symmetry. String theorists are searching for
+
+this today because it is off the topic of formulating Unified Field Mechanics (UFM).
+(Amoroso fires a BBC Dr. Who time lord sonic screwdriver at the presentation screen)
+Concerning the importance of the original hadronic form of variable string tension; the main reason I was able to discover a unique string vacuum was by finding an alternative derivation of string tension; for which
+
+one unique compactification which will provide correspondence to the 4-space of the standard model.
+1
+the traditional formula is, Ts / e / l	2/'	. The
+
+In physics generally a new theory must make satisfactory correspondence to existing theory.
+In the continuous-state paradigm compactification is different than in M-theory; rather than one unique
+HAM UFM formula in unexpanded form became,
+
+F( N ) /
+
+(1)
+
+compactification making correspondence to the standard model, compactification is a continuous-state spin-exchange dimensional reduction process occurring from 12D to ~0D where Riemann sphere (Kahler-Calabi-Yau) properties of the Least Cosmological Unit (LCU) rotate from zero to infinity in the same continuous-state standing-wave hyper-spherical cycle such as left-right 11 / 10 / 9 etc. down to ~ zero with alternating Calabi-Yau dual mirror symmetry.
+Liz once told me she didnt like the idea of a standing-wave as it seemed too simplistic; yes when thought of as a 1D string on a musical instrument or even a 2D drum topology. But as a hyper-spherical hyperdimensional Calabi-Yau 6D or 9D brane conglomerate one should be able to see sufficient complexity to satisfy involute continuous-state process modeling.
+The other important issue for the Dirac polarized vacuum is that it is conformally scale-invariant. Because as we will see momentarily in terms of our 3D of 4D quantum particle in a box, that the continuous-state cycle has inherent HD formatted Calabi-Yau mirror symmetric brane copies of the resultant 3D quantum state. This becomes important for surmounting the Uncertainty Principle as it is postulated that at 12D the copy is causally free of the 3D resultant all of which is nilpotent. The 12D mirror image of the mirror image is the minimum dimensionality required for this to occur.
+This is a boon for quantum theory because the quantum uncertainty principle in terms of decoherence is the last main hurdle for the implementation of universal bulk quantum computing [10]. Whatever action is performed on the 12D copy has no effect on the 3D quantum particle in a box. There is in addition the other ontological properties associated with topological switching that may affect the dimensionality required for the process. Not only decoherence itself but the aspects of time related to being able to maintain coherence. We won't get into
+where instead of energy, e over the length of the string, l topological charge or brane energy, / was put over the brane topological radius, / of the relativistically
+rotating Riemann sphere LCU hyperstructure. F(N) is the noetic force of coherence of the unified field [7].
+Of interest to note, which we will not get into here is that the fine structure constant is part of these parameters also. If any of you have delved into any of the fundamental constants you know that the fine structure constant and many other fundamental constants are derived in terms of themselves and therefore not fully fundamental. When we get into UFM further we will probably find that the regime of unified field mechanics will be where light is shed on the origin of the nature of the fine structure constant.
+In Peter's new book [10] we find a brief discussion of the abilities of complex quaternion Clifford algebra which we will need to design the experimental protocol to search for new HD spectral lines in hydrogen. There are indicia for this model. One of the main indicia put forward by people like Nima Arkani-Hamad at the Princeton IAS and Lisa Randall [5] at CERN are to search for artifacts that will be indicative of additional dimensions in particle sprays. Such experiments have been suggested but not performed.
+
+Building	the	UFM	TBS	Experimental Protocol
+The best indicia for our model experimentally is suggested by work done by Chantler [11,12]. The data from his experiments over the last 10 years or so on hydrogen showed only a minute artifact proposed to violate QED; but more recently in 2012 for work on Titanium the QED violation effect was much larger. The beauty of this is that they stripped all the electrons off the Titanium atom except one creating a large hydrogen-like atom [12]. One wants to maintain the simplicity of the hydrogen atom to perform the
+
+272	Unified Field Mechanics – Colloquium
+
+
+experiment. You can find Chantlers paper in your Vigier memory stick.
+Vigiers seminal papers in 1999/2003 [1,2] (also on your memory stick handout) are similar theoretically in some ways to Chantlers model. Vigier describes the first exploration made by Corben in an unpublished paper. Corben noticed that motion of a point charge in the field of magnetic dipole at rest, is highly relativistic and that the orbits are of nuclear dimensions. Further investigation has been undertaken by Schild [13], but the most systematic treatment of this problem is given by Barut (see for example [14]) A 2-body system where magnetic interactions play the most significant role is in positronium. Both electron and positron have large magnetic moments which contribute to the second potential well in an effective potential, at distances much smaller than the Bohr radius. Barut and his coworkers predicted that this second potential well can support resonances. A 2-body model, suitable for non-perturbative treatment of magnetic interactions is presented by Barut [14] and Vigier [l,2].
+state postulate. We continue to mention in terms of the complex quaternion Clifford algebra required to describe the continuous state process; that the cyclicality has an inherent commutativity anti-commutativity that the algebra can handle with a 3D or 4D Euclidean/Minkowski space resultant with 8D or 9D complex cycling dimensions built on top of it. In the initial case of a single space anti-space dualing, the manifold of uncertainty represents a 4th 5th and 6th additional hyperspherical dimensionality.
+Recall our use of the Rauscher superluminal Lorentz transformation that boosts a spatial dimension into a temporal dimension wherein noetic HAM cosmology has added a second boost of dimensionality from temporal to that of energy as the exchange mechanism for topological charge in unified field theory. What I am trying to say is that behind or within the veil of uncertainty these additional dimensions open and close volumetrically from zero i.e. the usual 3D Euclidean QED cavity to the added volumetric structure of the 4th 5th and 6th dimensions yielding:
+
+Our approach doesn't fully correlate with Vigiers
+r1V3D , r2V4D , r3V5D , r4V6D
+enabling us to calculate the
+
+because at that time he had no consideration of additional dimensionality which is a dominant element in our multiverse model. For the first 10 years of Chantlers work the artifact said to violate QED was so small that it was essentially ignored by the physics community. But in the 2012 experiment [12] the QED violation was great enough that some elements in the news media suggested Nobel Prize; but as yet the majority of the physics community said the artifact is insufficient.
+Now the reason I think the continuous-state model will work is for example if you take the Bohr model of the hydrogen atom spectroscopic measurements are taken as a 3D volume measurement from the space between the nucleus and the electrons orbit. For hydrogen the first Bohr orbit has a radius of a .5 Angstrom, and the second or orbit a radius of ~2 Å. This is the hundred year history of spectroscopic measurements taken from within the fixed regime of the 4D standard model. A spectroscopic cavity is going to have different properties in a 12D holographic multi-verse regime.
+Firstly we must make a postulate regarding the volume of additional dimensionality both within the finite radius manifold of uncertainty and beyond into the regime of LSXD. It's not clear to me how to make this assumption in a manner that you will adore. It is only necessary to make it in a manner in which you can understand the conditions sufficiently metaphorically that we are attempting to apply. Remember that we have elevated wave particle duality to a principle of cosmology as it applies especially to the continuous-
+wavelength of three additional spectral lines in hydrogen based on the volume of these respective hyperspherical cavities.
+I haven't given it enough thought to consider whether it's a viable addition, but Von Neumann postulated a speed for collapse of the wave function, suggesting that if we also used a hydrogen-like Titanium atom there might be an additional helpful time delay factor. In any case the success of this experiment would provide the first indicia that something exists beyond the regime of QED.
+I believe applying the resonance hierarchy to open the 4D cavity will be relatively easy, but to open the 5th and 6D cavities probably requires the addition of some kind of Bessel function to the resonance hierarchy that because of additional artifacts like found in the refinements of the Born-Sommerfeld model; it will be a little tricky to master the protocol to measure these additional spectral lines. I do not means this in calculating the wavelength, but the tiniest property we do not sufficiently understand will probably keep the uncertainty principle sufficiently active to keep the 5D cavity closed!
+We haven't finished the calculation but at the moment we preliminarily predict that these additional spectral lines will be between the .5 Angstrom first Bohr orbit and the 2 Å second Bohr orbit.
+I mentioned that this model only works within the continuous-state holographic multiverse scenario simply because without that utility physics would not go beyond the Kaluza-Klein and remain a curled up at the Planck scale model of additional dimensionality.
+
+R.L. Amoroso et al.	273
+
+It is only the continuous-state process of open-closed cyclicality that allows access (by violating the uncertainty principle) to the additional infinite size dimensions. This restriction is not a negative aspect of this proposed multiverse cosmology but we feel rather that it is suggestive of the correct path to take as it is the actuality of reality.
+The key element in this cosmology is the Least Cosmological Unit (LCU). I did not fully invent this concept; but extended the idea found within a chapter called The size of the least unit in a collection edited by Kafatos [15]. But Stevens of course utilizing only the 4D of the standard model attempted to describe a Planck scale least unit. But hopefully you have realized by now that our LCU oscillates from virtual Planck,
+higher dimensionally we can elevate wave-particle duality to a principle of cosmology and by building on Elizabeth's work as I mentioned one then has a central 3D or 4D Minkowski spacetime package coupled to an advanced-retarded future-past complex as a 4D pair as shown in Fig. 3.
+
+/TS /  to the Larmor radius of the hydrogen atom
+
+relative to the nature of its close-packing tiling the spacetime foam.
+Since the Planck scale is no longer considered the basement of reality the 12D continuous-state process changes the size of the LCU in the process of Riemann sphere rotation from zero back to infinity continuously.
+My choice of the upper limit of the Larmor radius is somewhat arbitrary. I have not defined this rigorously yet; but I assume it is in this ballpark. So just to make a note we have this oscillating Planck unit, / at the microscopic level in conjunction with an oscillating / lambda or cosmological constant at the macroscopic level.
+As an aside this gives us the ability to describe dark
+matter/energy as an artifact of the rest of the multiverse outside our ~ 14.7 bly radius Hubble sphere. The multiverse has room for an infinite number of nested Hubble spheres each with their own fine-tuned laws of physics. That scenario provides our model of dark energy. These nested Hubble spheres are closed and finite in time and causally separate in the dimensionality where gravity would take effect, so it's not like there is an infinite mass acting on us but something more subtle. As you should know the postulate of dark energy and dark matter comes from the knowledge that galactic rotation occurs like a phonograph record not a vortex.
+If we think of these nested Hubble spheres like a bunch of grapes they are currently invisible to us because of the nature of the stalk holding the grapes, however it will soon be possible to design what we have called a Q-telescope to visualize them utilizing UFM [7]. Also see the Drake equation therein.
+One of the main conditions of the continuous-state hypothesis comes from an HD extension of Cramers Transactional Interpretation with future-past conditions resulting in a present moment [6]. This is considered by Cramer as a standing-wave of the future-past so
+Figure 4. View of 8 3D cubes comprising a 4D hypercube. See continuous-state involution metaphor in Fig. 5
+
+
+Figure 5. A Klein bottle trefoil. A 6D Calabi-Yau 3-torus could also be used. A primitive metaphor to show rotation of continuous-state components. Does not really work in 4D. But I wanted to try to illustrate the cycling of dimensional parameters if the eight cubes of the hypercube put into motion not just exploded as an the figure.
+What I have poorly tried to illustrate in Figs. 4,5,6 is some of the underlying topology of continuous-state topology. Figure 4 shows the dramatic increase in the number of cubes comprising HD space as we travel rectilinearly up the dimensional ladder. Figure 5 shows a key condition of involution allowing the continuous-state process to cycle continuously when set in motion by the nature of HD reality. Figure 6 is also an attempt to speak to the rotational properties of cyclicality. Out 12D model must cycle through nodes of commutativity and anti-commutativity where one mode is degenerate and the other closed.
+Figure 6 came to me serendipitously in Tehachapi when my car broke down and I had to wait three hours
+
+274	Unified Field Mechanics – Colloquium
+
+
+for a tow truck to come because it was in the middle of nowhere in the Mohave Desert. There were literally about 1000 wind generators covering the Mojave Mountain. The rotating propellers (quaternion vertices) and reality were represented by the configuration of the blades of the propellers on the wind generators. When I looked up on the hill I noticed that the propellers of two wind generators in close proximity periodically came into phase, with the blades forming the face of a cube perhaps suggesting something about the nature of reality in terms of fermion vertices.
+
+Figure 6. Relativistically rotating quaternion fermionic vertices. In multiverse cosmology the line element, in this case a quaternion Fermionic vertex least cosmological unit, (LCU) undergoes continuous-state evolution where as in the figure symmetry periodically arises from the stochastic quantum foam of spacetime possibly indicative of the emergence of observed 3D reality.
+
+Back to Elizabeth's model of superluminal Lorentz boosts where a spatial dimension at one moment is a temporal dimension at another. Although this helps facilitate the continuous-state process when an additional 4D are added, it doesn't give us what we want because it is still fixed. We need another complex 4D to allow in the involute continuous process that doesn't seem possible in the correct manner in a fixed 8-space. There are not enough degrees of freedom to periodically break the closure of the quaternion algebra. So I boosted her model again to include dimensions of energy also synonymous with the unified field acting as a force of coherence or super quantum potential guiding this Nilpotent continuous-state evolution through the dimensional reduction compactification process which to me is part of the beauty of this model. This also relies on as hinted a HD completion of the de Broglie-Bohm-Vigier models of quantum theory.
+Peter has spoken earlier today about a seemingly inherent necessity of 3D for reality, so here we have a doubling of the 1st 3D into another triplet of HD space. This might suggest indicia for the necessity of the 12D
+where I want to lead us kicking and screaming if necessary (Im that confident of the path).
+
+Figure 7. Suggestive of 3D-HD space anti-space corresp-ondence in a 12D multiverse leading to the regime of UFM beyond the observed 3D tip of the iceberg..
+
+I meant to show a demonstration of a 3-blade ceiling fan symbolic of a quaternion fermion vertex of course. If one puts one of these fans in front of a mirror (real space) rotating clockwise the mirror image (anti-space) rotates counterclockwise with the blades coming occasionally into phase as in the Tehachapi wind generator figure. Now I give you a key insight into the TBS experiment that Fig. 6 doesnt have. If there is a light on by the fan in real space, i.e. the rf-pulse of our TBS experiment. Periodically when the blades come into phase (Fig. 6 again) meaning when a blade from real space comes into phase with a blade in the mirror antispace the light is reflected off each blade (the mirror image of the mirror image) and a pulsating reflected flash of light occurs in the direction back towards the source/detector! This is representative of how we will find the new spectral lines in hydrogen; that we would expect to see a flashing back like a rotating lighthouse beacon when the resonance hierarchy is aligned properly!
+
+
+Figure 8. Manifold of Uncertainty. Quantum Mechanical Uncertainty is predicted to be a Manifold of Finite Radius, r. Beyond the manifold LSXD are postulated.
+You've heard Peter say these additional space anti-space dimensions are redundant (no new information); but that's fine. That's actually what we want from an infinite  potentia  that is  nilpotent and  redundant.
+
+R.L. Amoroso et al.	275
+
+Surmounting the quantum mechanical uncertainty principle occurs by this same process that gives us a beat frequency inherent in the space-time backcloth.
+G* / G*
+X * / m
+/ Z *;
+emission
+Z * / m / X *
+Z * or G*
+(2)
+
+X * / m / Z * or G*
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 9. Fixed string tension in M-Theory (left) and variable (right) as in the original hadronic form of string theory and HAM cosmology that also reverts to the original
+Stoney, / rather that Plancks constant, / .
+
+The left-hand part of Fig. 9 shows the current thinking of string tension but. On the right we see a multiverse version with a variable string tension that oscillates from virtual plank to the Larmor radius of the hydrogen. Notice that the symbol for the Planck constant is different, we use the original Stony [7] that preceded Planck because it is electromagnetic and correlates better with the Dirac polarized vacuum which we want available for our resonance hierarchy component of the experimental protocol. Virtual plank is the asymptotic zero point on the Riemann sphere that flips back to infinity in the continuous-state cycle.
+
+/
+Figure 10. Exciplex Properties of Spacetime. Exciplex complex and conformal scale-invariant properties related to TBS in the hydrogen atom as it pertains to LSXD and an oscillating form of Plancks constant fluctuating from asymptotic virtual Planck to the Larmor radius of the hydrogen atom.
+The general equations for a putative experimental spacetime exciplex C-QED TBS emission cavity are (see Fig. 10):
+If you know what an exiplex or excited complex is in chemistry you know that an exiplex never goes back to zero or the ground state. This is in contrast to what is used currently in quantum mechanics where virtual ZPF particles wink in and out of existence at the Planck scale for the Planck time. The space-time exiplex model is one that correlates with the additional parameters of UNF. This again is inherent part of the continuous-state LCU process tessellating space. In terms of cosmology this exiplex provides a mechanism for kicking out a proton [18] where it is said only one proton is needed per 100 cubic kilometers according to Eddington. I mention it of course to lend support to the possible veracity of this multiverse cosmology.
+In order to demonstrate existence of new spectral lines the experiment itself requires surmounting the quantum uncertainty principle. I hope when we apply the complex quaternion Clifford algebra it will tell us whether one or two additional doublings of Peter's original space anti-space model are required and then let us know if there's two or three or more consecutive doubling needed to find four or five additional spectral lines which of course tells us the complete size of the manifold of uncertainty.
+A couple of months ago I thought the challenge of this colloquium would be to find the required algebra but was wondrously surprised when I looked at Peter's new book and was struck by the ability of complex quaternion Clifford algebra to do the task [10].
+
+Figure 11. Example of a Bessel Function that may be necessary to couple synchronization with the Dubois incursive oscillator in order access additional TBS beyond the first. Even though we think we know how, surmounting uncertainty will probably not be trivial.
+
+Common example of a Bessel function:
+
+276	Unified Field Mechanics – Colloquium
+
+
+d 2 y	dy
+x		x		(x dx2		dx
+
+) y / 0
+
+(3)
+algebra again so that it could cycle between modes of commutativity and anti-commutativity. Peter was very gracious and allowed me to visit him for a week in
+
+This isn't the correct Bessel function but I just wanted to put one up as a signpost to illustrate our process because as I mentioned I believe the first spectral line will be relatively easy to find in comparison, and that the next will be more challenging as there will be some unexpected complexity that must be overcome that hasn't revealed itself to us as yet that will require some kind of a Bessel function addition to adjust the spin-spin coupling parameters of the algebra.
+
+Issues of Experimental Design
+In the simplistic model of doing the TBS experiment we put hydrogen in a sample tube (Fig. 15) and apply a series of resonant pulses in conjunction with the beat-frequency of space-time to open the HD QED-UFM cavity, send the signal in and allow the new spectral line signal to be emitted back to the detector.
+Remember we postulated that the HD continuous-state cycle must incorporate cycles of commutativity and anti-commutativity. This can be shown metaphorically in terms of logarithmic spirals applied to what is called perfect rolling motion (Figs 13,14).
+
+Figure 12. Conceptual model of the Sagnac Effect standing-wave resonance hierarchy couplings for the TBS experiment.
+
+I've been arguing with Lou and Peter for the last couple of years about aspects of quaternion algebra. I'm thankful especially to Peter for helping me learn some of the properties of quaternions. As many of you know Hamilton wanted to extend the complex number system algebraically by adding an additional j term to the i series; but the algebra didn't work. It was only when Hamilton added the 3rd k term that quaternion algebra became complete by closing the algebra and in the process sacrificing commutativity. Is it any wonder that Peter resisted when I told him I wanted to open the
+Liverpool. We did find something interesting (see [19]) that is not yet a complete study, but this was not yet the cycle I've been looking for which with all profundity to me is going to be possible with the complex quaternion Clifford algebra [10].
+How can we find this cycle in HD Calabi-Yau mirror symmetry? The logarithmic spirals in Fig. 13A are not free to rotate. If we take pieces of the curve as in Fig. 13B and paste them together as shown; the three cycloids can cycle continuously. Perfect rolling motion in this case means a mechanical process where there is no slippage if this is applied to the mechanics of gears.
+If you're not a mechanical engineer you may not have guessed already that after a certain number of cycles the set of three cycloids returns to the precise original position.
+Now in terms of the next figure (14) let's apply this to a second doubling or duality of Peter's space anti-space quaternion model which of course is going to have to include Calabi-Yau mirror symmetry. What I'm proposing metaphorically here is that with the utility of the complex quaternion Clifford algebra we can break the closure inherent in one of the mirror symmetric partners and describe cycles relative to both mirror symmetric partners that additionally pass through cycles of commutativity and anti-commutativity with each other. We cannot surmount the uncertainty principle utilizing a closed algebra. I'm talking about the mathematical description of course.
+
+Figure 13. Logarithmic spirals and Perfect Rolling Motion. Segments of the logarithmic spiral are put together into the three spheroids on the right, A,B,C. Like the 320o - 720o spinor rotation of the Dirac electron; the speroids will only return to the same configuration after a number of 360o rotations.
+
+As an aside comment in terms of complex self-organized living systems (SOLS) this commutative anti-commutative 2-cycle when it opens and closes the
+
+R.L. Amoroso et al.	277
+
+
+gate to the HD volumes will ultimately when we pass through the whole manifold of uncertainty, and have access to the unified field, is the gate where the Cartesian form of life principle enters a living system. We do not observe this; we are embedded in and made out of the matter around us (tapping on table). This is a surface of electrons oscillating relativistically. Our minds don't incorporate a phase controller that would allow us to pass through this configuration that
+is 90% empty space.
+
+Figure 14. Perfect rolling motion of logarithmic spiral components applied to left-right symmetry transformations of Calabi-Yau brane topology such that while the A,B,C tower represents the usual closed quaternionic algebra a space-antispace; the A,B,C and A B C towers together will be able to cyclically commute and anti-commute (Probably requires additional doublings and parameters of parallel transport to finally cyclically break closure of the algebra.
+
+This is similar to the property revealed in Fig. 6 with the rotating of the wind generator propellers cycling from Chaos to Order; and also similar to passing by a fruit orchard, rows of chairs in an auditorium or the tombstones in a graveyard where one's line

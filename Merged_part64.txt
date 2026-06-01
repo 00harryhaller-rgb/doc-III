@@ -1,0 +1,1246 @@
+events consist of two hemispheres with a jet and missing energy in each hemisphere. Hence, supersymmetry searches for jets and missing energy can be sensitive to dark shower production.
+Simulation details. Having implemented our model with the FeynRules package [61], we generate parton-level events at leading order for the dark quark production process pp → qdqd with MadGraph5/aMC@NLO [62] using the NN23LO1 PDF set [63]. We perform MLM matching of samples with up to one hard jet setting xqcut = 100 GeV. The Z′ width is calculated self-consistently by MadGraph at each parameter point. The parton-level events are then showered and hadronised, both in QCD and in the dark sector, with Pythia 8 [64].
+The simulation of the dark shower and of dark meson production relies on Pythia’s Hidden Valley module [57]. The hidden valley meson states pivUp, pivDn, pivDiag, rhovUp, rhovDn and rhovDiag provided by Pythia8 are equivalent to the dark mesons π+, π−, π0, ρ+, ρ− and ρ0, respectively. Out of these, only ρ0 (rhoDiag) decays into SM quarks while the others are stable. We adjust the Hidden Valley variable probVector ap-propriately to implement the expected ratio of invisible mesons rinv = 0.75. Furthermore, we turn on the running of the dark coupling αd determined by the confinement scale Λd.
+We scan over a range of Z′ masses between 500 GeV and 5000 GeV, generating 105 events for each Z′ mass. The other relevant parameters are set to the benchmark values mq = 500 MeV, mπ = 4 GeV, and mρ = Λd = 5 GeV. Larger meson masses would reduce the average meson multiplicity, while different values of mq and Λd would not significantly change our results.
+Recasting and analysis details. We recast existing experimental analyses with Check-MATE 2 [65, 66], and MadAnalysis 5 [67, 68] in conjunction with its Public Analysis Database (PAD) [69]. Both these codes first pass the hadron-level events from Pythia8 to Delphes3 [70], which simulates the appropriate detector for the respective analysis. Delphes3 internally calls the FastJet [71, 72] package for jet clustering. Subsequently, the analysis cuts are applied to the signal events and 95%-exclusion limits S95 on the num-ber of signal events are calculated based on the number of observed background events. To incorporate the signal uncertainty without the time-consuming computation of CLs values [73], CheckMATE calculates the ratio r defined as
+r = S − 1.64∆S ,	(4.5)
+S95
+where S denotes the predicted number of signal events and ∆S the corresponding Monte Carlo uncertainty.
+First we consider the most recent ATLAS search for mono-jet events at √s = 13 TeV
+and with an integrated luminosity of 36.1 fb−1 [59, 74] as implemented in CheckMATE. Jets are clustered using the anti-kT algorithm [75] with R = 0.4. The search requires E/ T > 250 GeV, and pT > 250 GeV for the leading jet. Events are allowed to have at most
+
+/ /
+
+Figure 5. Summary of existing LHC constraints on the dark sector model considered in this work. Above the green dashed line it is a good approximation to treat ρ0 decays as prompt, whereas below the line one expects displaced decays.
+
+four jets with pT > 30 GeV. For the angular distance between the missing energy and the leading jets the search requires that ∆φ > 0.4, with ∆φ as in eq. (4.4). A range of inclusive and exclusive signal regions are defined in terms of the amount of missing transverse energy.
+Among SUSY searches available for recasting we find the most recent CMS squark
+and gluino search [76] to have the highest sensitivity to dark shower signal in the Z′ mass range we consider. This search uses 35.9 fb−1 of data at √s = 13 TeV and is implemented
+in the MadAnalysis5 PAD [77]. In contrast to the mono-jet analysis, here at least 2 jets are required. Events need to fulfil E/ T > 300 GeV and HT > 300 GeV, where HT denotes the scalar sum of transverse momenta of all jets. Moreover, ∆φ(j, E/ T ) > 0.5 is imposed on the two leading jets, and ∆φ(j, E/ T ) > 0.3 on the third and fourth jet. Each signal region is defined by the combination of an E/ T range and an HT range.
+For each Z′ mass, we conservatively approximate the exclusion bound from a given search by the limit from the most sensitive signal region, based on observed event numbers. Since ΓZ′ /mZ′ , as given in eqs. (4.1) and (4.2), is well below 10% in the relevant parameter space, we translate bounds on the number of signal events S into bounds on couplings and masses using the narrow width approximation, i.e.
+σ (pp → qdqd) ≈ σ pp → Z′ × BR(Z′ → qdqd) ,	(4.6) with the branching ratio given in (4.3).
+We present our results in figure 5, which shows the parameter regions excluded by searches for di-jet resonances and searches for missing energy in the gq–mZ′ parameter plane for different values of ed. Larger values of ed suppress the branching ratio of the Z′ into SM quarks and therefore the impact of di-jet constraints while enhancing the sensitivity of searches for missing energy. For mZ′ . 2 TeV the combined constraints imply gq . 0.1, while for mZ′ > 4 TeV values of gq as large as 0.3 are allowed.
+We also indicate the combination of parameters corresponding to γcτρ0 = 1 mm for
+γ ≈ 10. As discussed above, ρ0 decays can be treated as prompt above this line, so that
+
+the analyses discussed above can be safely applied. The search for di-jet resonances, on the other hand, does not involve any dark mesons and is therefore not affected by the ρ0 lifetime. Below the green dashed line, one would generically expect displaced vertices. We emphasise that the number of such events can potentially be quite large. For concreteness, we show the combinations of gq and mZ′ that correspond to σpp→Z′ = 10 fb, which would correspond to more than 103 such events having been produced to date at ATLAS and CMS. To conclude this discussion, we emphasise that the analyses considered above have not been optimised to search for dark showers. The mono-jet search, for example, is intended to search for Z′ bosons that decay fully invisibly. In this case, signal events are expected to have large ∆φ (see figure 4), so that a cut on ∆φ substantially improves the signal-to-background ratio. In our case the situation is quite different, as events with Nj > 1 and small ∆φ contribute substantially to the signal cross section. This makes it important to reassess whether the requirement ∆φ > 0.4 is strictly necessary to suppress backgrounds.
+Conversely, it may be interesting to reject events with Nj > 1 and ∆φ > 2, which are more likely to arise from background than from our model.
+Prospective searches for semi-visible jets
+Having reinterpreted existing generic searches for jets and missing energy, let us now discuss dedicated searches for the dark showers produced in the decay of the Z′ boson. If the dark showers were completely visible, one would obtain a peak in the total invariant mass of the resulting jets, which would be centred at the Z′ mass and could be used to distinguish
+signal from background. However, for semi-visible jets the peak in M 2 = (pj + pj )2 is
+1
+washed out to a considerable extent by the fact that the fraction of visible energy in the jets differs from event to event.
+We therefore consider an analysis proposed in refs. [22, 23], which is based on the transverse jet mass
+
+2	 q	2	2	/
+→/  1/2
+
+where p→T jj is the vector sum of the p→T of the two jets. It was shown in ref. [23] that this variable maintains the ability to distinguish signal from background up to rather large values of rinv and can be competitive with ordinary missing energy searches for rinv ≈ 0.75. To apply this analysis to our model we pass the events generated by the tool chain described in section 4.1 to Delphes3 with CMS settings and use the anti-kT algorithm with R = 0.5 for jet clustering. We then apply the same cuts as in ref. [23]. At the preselection level, these require E/ T > 200 GeV and at least two jets with pT > 100 GeV and |η| < 2.4. Subsequently, jets are re-clustered with the Cambridge-Aachen algorithm and R = 1.1. We then compute the transverse mass of the two leading re-clustered jets and require E/ T /MT > 0.15. Moreover, we impose |ηj1 −ηj2 | < 1.1. Electrons with pT > 10 GeV and |η| < 2.4 as well as muons with pT > 20 GeV and |η| < 2.4 are vetoed. Finally, the analysis imposes an angular separation cut that is inverted compared to the mono-jet case
+and requires ∆φ < 0.4 between the missing energy vector and at least one jet.
+We show in figure 6 the MT spectrum expected for a Z′ boson with mZ′ = 2 TeV decaying into two dark showers with rinv = 0.75. We have furthermore set ed = 0.6 and
+
+/
+
+Figure 6. Differential cross section with respect to the transverse jet mass MT for semi-visible jets
+′
+obtained from the dark showers produced by the decays of a Z boson with mZ′ = 2 TeV and for
+the SM backgrounds simulated in ref. [23].
+
+gq = 0.1, compatible with current di-jet constraints (see figure 5). For comparison, we also show the background estimate obtained in ref. [23] rescaled to L = 300 fb−1. One can clearly see the difference in shape between signal and background arising from the fact that MT ≤ mZ′ for the decay of an on-shell Z′.
+We estimate the sensitivity of this search by calculating the likelihood ratio L of signal+background and background-only and requiring −2 log L > 3.84 in order for a given parameter point to be testable. The resulting sensitivity estimate is shown in figure 7 in comparison to the combined bounds from existing searches (see figure 5). We find that the MT search has the power to probe larger Z′ masses than the missing energy searches discussed above and can be competitive with searches for resonances in visible decays for sufficiently large ed.5
+The MT search that we have implemented is not optimised for mZ′ < 1 TeV and hence we do not show sensitivity projections in this mass range. Searches for low-mass resonances decaying into jets are notoriously difficult to observe because of large QCD backgrounds. While the missing energy requirement is expected to improve the situation, reliable estimates of backgrounds with fake missing energy due to misreconstructed jets are difficult to obtain. To suppress these backgrounds it may be necessary to require additional particles in the event, for example a high-pT photon from ISR (in analogy to the recent ATLAS search presented in ref. [78]). We leave a detailed study of this mass range to future work.
+We finally note that, following ref. [23], the sensitivity estimate shown in figure 7 assumes no systematic uncertainties. However, as shown in figure 6, backgrounds are
+
+5The projected sensitivity of the MT analysis extends into the parameter region where not all ρ0 decays can be treated as prompt. Jets originating from displaced vertices would likely be rejected in such an analysis, which would reduce the sensitivity slightly compared to what is shown in figure 7.
+
+/ /
+
+Figure 7. Expected sensitivity of the MT -based analysis proposed in ref. [23] compared to the direct detection constraints from figure 2 and the LHC exclusion bounds from figure 5 for different assumptions on systematic uncertainties.
+
+large and the signal is rather broad. Hence, even small uncertainties in the shape of the background may render a potential signal unobservable. We find that, in order to achieve a sensitivity close to the one shown in figure 7, systematic uncertainties must be smaller than 1%. For the more realistic assumption of 5% systematic uncertainties, the sensitivity of the MT offers no improvement over the searches discussed in section 4.1.6 Detailed studies of systematic uncertainties will therefore be essential to obtain realistic sensitivity estimates.
+
+Conclusions
+In this work we have investigated how the phenomenology of strongly interacting dark sectors depends on their internal structure and on their interactions with the Standard Model. For simplicity, we have considered portal interactions arising from a Z′ mediator with vector couplings to both dark and visible quarks, but many of our results are insen-sitive to the details of this interaction. Below the confinement scale the dark quarks form π and ρ mesons, such that the dark sector can be characterised in terms of the masses mπ and mρ and the coupling strength g of their interactions.
+The case of two dark quarks with opposite U(1)′ charges turns out to be particularly interesting as all dark pions are then stable, allowing for a non-zero DM relic density as well as avoiding constraints from late decays of DM particles. The ρ0 on the other hand has a sizeable decay width into SM particles, which is sufficient to establish thermal equilibrium between the dark sector and the visible sector in the early Universe. Dark sector freeze-out then proceeds via the forbidden annihilation process ππ → ρρ. The observed relic abundance can hence be reproduced independently of the strength of the
+
+6We have also implemented an analysis in which the background shape is obtained from a fit to data, similar to what is commonly done when searching for a peak in mjj distributions. The sensitivity estimate obtained in this case is similar to the one for 5% systematic uncertainties, i.e. it does not probe presently unexplored parameter space.
+
+portal interactions, provided mπ and mρ are sufficiently close. For example, for mπ = 4 GeV and g = 1 we require mρ ≈ 5 GeV. The observation that the cosmological properties of the dark sector and the relic abundance of dark mesons are largely independent of the interactions between the dark sector and the Standard Model justifies our simplified description. Additionally, the details of our dark sector have been chosen in a way to allow for a fully consistent cosmological picture to emerge, allowing us to consider LHC phenomenology from a dark sector that can realistically account for the observed DM in our universe.
+Experimental predictions, on the other hand, depend more sensitively on the assumed portal interactions. For the Z′ mediator we consider, charged dark pions interact with SM nuclei via vector boson exchange, which gives rise to spin-independent scattering in direct detection experiments. By combining results from a number of different direct detection experiments, we obtain strong constraints on the coupling strength of the Z′. Based on these constraints we have identified dark pion masses of the order of a few GeV as particularly interesting. Even for dark pions in this mass range, direct detection constraints require the Z′ mediator to be either heavy or weakly coupled. In the present work, we have explored the former possibility, which leads to interesting implications for LHC physics.
+LHC phenomenology for this model is dominated by the on-shell production of the mediator (possibly in association with SM particles) and its subsequent decays into either visible or dark quarks. While the former case leads to di-jet resonances, that can be easily reconstructed, the latter case gives rise to dark showers. We emphasise that for a strongly-interacting dark sector the branching ratio into dark quarks is enhanced by colour and flavour factors, making the latter signature particularly important. Since most of the mesons in the dark shower are stable, one obtains so-called semi-visible jets, in which only a small fraction of the initial energy of the dark quarks can be detected.
+We find that various existing LHC searches for missing energy can be sensitive to such a scenario. Nevertheless, these searches are not optimised for the case of dark showers, where the missing energy tends to be aligned with one or more visible jets, which is difficult to disentangle from QCD backgrounds from mis-reconstructed jets. We therefore consider an alternative approach, in which the information from all visible final states is combined to calculate the transverse mass MT to achieve better discrimination between signal and background. The expected sensitivity of such a search depends however sensitively on the assumed systematic uncertainties for the background distribution. We find that systematic uncertainties as low as 1% will be necessary in order to improve upon existing searches.
+At the same time we identify a number of exciting directions for future research. First of all, a generic prediction of the model that we study is that the ρ0 can be long-lived, which would give rise to displaced vertices at the LHC. The corresponding production cross sections can be quite large, and it is conceivable that thousands of such events have already gone unnoticed at ATLAS and CMS. Ongoing detector upgrades as well as new analysis strategies make these signatures a promising target for future LHC runs. But even for prompt decays there is room for substantial improvements. The jets obtained from our model differ quite substantially from ordinary QCD jets, for example because heavy quarks
+
+are absent in the shower. It will therefore be very interesting to study whether a neural network trained to identify dark showers can help to suppress QCD backgrounds.
+
+Acknowledgments
+We thank Alexander Mu¨ck, Pedro Schwaller and Susanne Westhoff for discussions. This work is funded by the Deutsche Forschungsgemeinschaft (DFG) through the Collaborative Research Center TRR 257 “Particle Physics Phenomenology after the Higgs Discovery”, the Emmy Noether Grant No. KA 4662/1-1 and the Research Unit FOR 2239 “New Physics at the Large Hadron Collider”.
+
+Full Lagrangian
+The Lagrangian of the underlying dark SU(3) gauge theory coupled to a Z′ vector mediator reads
+
+1  a	µν,a
+L = −	F	F	+ q
+iD/ q
+
+/
+— q M q
+
+— 1 Z′ Z′µν	1	2 ′  ′	′µ − g Z′ Σ q	γµq	,
+
+where qd = (qd,1, qd,2) and Mq = diag(mq, mq). The dark quark covariant derivative has the form
+Dµqd = ∂µ + igdAdµ + iedZµ′ Q qd ,
+where Aµ denotes the dark gluon field and Q = diag(1, −1) is the dark quark charge matrix.
+The chiral EFT Lagrangian (up to fourth order in the pion fields) is given by
+
+
+LEFT
+
+= Tr (Dµ
+ 2 
+πD π)	Tr π Dµ
+3f 2
+
+πDµπ − πDµ
+
+ππDµπ 
+
+
++ m2 Tr π2
+m2	π6
++	π Tr π4 +
+3f 2	f 4
+
+—	Tr (V	V	) + m Tr V  − ed Z	Tr (QV	) .	(A.1)
+1	µν	2	2	′	µν
+4	µν	ρ	g	µν
+
+Here π denotes the pion matrix
+ 1   π0	π+ !
+
+π = π T  = √2
+√2	,
+π− − √π
+
+with the SU(2) generators Ta = σa . In a similar fashion, we have introduced
+
+
+a  a	1
+ρ	+
+√2	µ
+
+Vµ = Vµ T
+= √2 ρ−
+ρ0
+— √2
+
+and
+
+
+Vµν = ∂µVν − ∂ν Vµ − ig [Vµ, Vν ] .
+
+The pion covariant derivative is given by
+Dµπ = ∂µπ + ig [π, Vµ] + ied [π, Q] Zµ′ .
+Eq. (A.1) gives rise to kinetic mixing between the Z′ and the ρ0. To recover canonical kinetic terms, while at the same time keeping the mass term diagonal, the interaction
+eigenstates Z˜′ and ρ˜0 can be expressed in terms of the physical fields Zµ′ and ρ0 as
+
+  Z˜′!	
+
+m2
+sec ǫ	sin ǫ	ρ
+Z
+ Z′!
+
+ρ˜0
+= − tan ǫ +
+m2
+2 sin 2ǫ
+Z
+2
+1	sin	m2
+Z
+,	(A.2)
+ρ0
+
+where ǫ = arcsin(2 ed/g) and we have only kept terms up to second order in mρ/mZ′ . Note that the diagonalisation can only be performed if the matrix of kinetic terms is positive definite, which requires ed/g < 1/2.
+Because of the mixing, the ρ0 obtains couplings to SM quarks, which can be written as
+L	⊃ 2 ed gq mρ  ρ0 Σ q	γµq	.	(A.3)
+At the same time, the mixing modifies the interactions between the Z′, the ρ0 and dark pions. For example, the trilinear interactions become
+	s	4 e2 m2	 
+
+	d	ρ   ′	0 	+
+LEFT ⊂ −2 ed	1 −	Z + g ρ	π
+
+/
+∂µπ−
+— ∂µπ+ π−
+.	(A.4)
+
+
+Interestingly, the mixing does not modify the interactions between the ρ0 and π± but strongly suppresses the interactions between the Z′ and dark pions. Thus, for mρ ≪ mZ′ the ρ0 replaces the Z′ as the primary mediator between the dark and the visible sector at low energies.
+
+Sensitivity of DarkSide-50 to low-mass dark matter
+In this appendix we take a closer look at the sensitivity of the DarkSide-50 experiment to low DM masses. Ref. [49] claims to provide the world-leading bound on the spin-independent DM-nucleon scattering cross section of DM particles with masses between
+1.8 GeV and 5 GeV. To derive this bound ref. [49] adopts the Bezrukov model [79] for the ionisation yield Qy in liquid noble gases, which uses Lindhard theory [80] to predict the electronic stopping power of liquid argon and a model of recombination proposed by Thomas and Imel [81]. This model is then fitted to calibration data to obtain the detector response for low recoil energies. However, as discussed in ref. [79] the use of Lindhard theory for very low energies is highly doubtful and deviations from the simple model are
+
+expected. Ref. [79] proposes to vary the functional form of the electronic stopping power by multiplying it with a correction factor F (v/v0). It has been shown in ref. [82] that such variations can substantially affect the sensitivity of direct detection experiments to light DM particles. Indeed, we will demonstrate that the sensitivity of DarkSide-50 relies heavily on the assumed extrapolation for Qy.
+We implement the DarkSide-50 analysis as follows. The expected number of electrons produced at the interaction point is calculated via ⟨Ne⟩ = Qy(ER) ER. We assume the fluctuations in Ne to follow a Poisson distribution convoluted with a Gaussian distribution that accounts for the detector resolution. The width of the Gaussian distribution is de-termined as σN = 0.33 by fitting the detector response for Ne = 2.7 An overall detector acceptance of 0.43 is already accounted in the total exposure of 6786 kg days.
+We then calculate the predicted number of events in three different Ne-bins: [4, 7], [7, 10], [10, 22]. In the first two bins, one finds a clear discrepancy between the background model (predicting ∼ 390 and ∼ 550 events, respectively) and observation (∼ 680 and ∼ 630 events), which suggests an unknown background component. In these bins we therefore do not perform any background subtraction and only include them in the total likelihood if the predicted number of DM events exceeds the number of observed events. In the third bin, on the other hand, background prediction (∼ 4080 events) and observation (∼ 4130 events) are in good agreement, so that one can use the standard Poisson likelihood to perform a background subtraction.
+In spite of the rather crude implementation our analysis approximately reproduces the exclusion limit published by DarkSide-50 when making the same assumption on the ionisation yield Qy. We can therefore use our implementation to study the impact of varying Qy on the exclusion limit. The impact of such variations are shown in figure 8. The solid black line corresponds to the official DarkSide-50 bound, the various blue lines correspond to the bounds obtained when adopting different functional forms for the ionisation yield Qy as illustrated in the inset. We emphasise that all the variations that we consider differ only
+for ER . 5 keV, i.e. in an energy range for which no direct measurements of the ionisation
+yield are available.8
+Figure 8 clearly illustrates the strong dependence of the claimed exclusion limit on the assumed functional form of the ionisation yield used for the extrapolation to lower recoil energies. Indeed, the bound from DarkSide-50 for DM masses of a few GeV can be suppressed by more than an order of magnitude, such that the strongest constraints in this mass range arise from CDMSLite [48] and PICO-60 [83] (also shown in figure 8). We conclude that the DarkSide-50 exclusion limit is not robust unless theoretical calculations or experimental measurements can provide further evidence in support of the assumed functional form of Qy. We therefore do not include the exclusion limit from DarkSide-50 in our analysis.
+
+7This approach neglects a possible dependence of σNe on Ne, which cannot be inferred from the available information.
+8The ionisation yield in this energy range may still be constrained using calibration data from DarkSide-
+50. However, to obtain robust constraints at very low recoil energies, the fit to calibration data should include variations in the functional form of Qy like the ones considered here.
+
+100
+10-1
+10-2
+10-3
+10-4
+10-5
+10-6
+10-7
+
+
+
+
+
+
+
+
+
+
+
+
+
+2	3	4	5	6	7  8  9 101
+mDM [GeV]
+
+
+
+
+
+/ DarkSide-50 (official) / DarkSide-50 (our result) / CDMSLite
+/ PICO-60
+
+
+Figure 8. Direct detection constraints on low-mass DM. For our reanalysis of DarkSide-50 we consider variations in the functional form of the ionisation yield Qy as shown in the inset.
+
+Open Access. This article is distributed under the terms of the Creative Commons Attribution License (CC-BY 4.0), which permits any use, distribution and reproduction in any medium, provided the original author(s) and source are credited.
+
+References
+M.J. Strassler and K.M. Zurek, Echoes of a hidden valley at hadron colliders, Phys. Lett. B 651 (2007) 374 [hep-ph/0604261] [INSPIRE].
+Y. Hochberg, E. Kuflik, H. Murayama, T. Volansky and J.G. Wacker, Model for Thermal Relic Dark Matter of Strongly Interacting Massive Particles, Phys. Rev. Lett. 115 (2015) 021301 [arXiv:1411.3727] [INSPIRE].
+M. Hansen, K. Langæble and F. Sannino, SIMP model at NNLO in chiral perturbation theory, Phys. Rev. D 92 (2015) 075036 [arXiv:1507.01590] [INSPIRE].
+G.D. Kribs and E.T. Neil, Review of strongly-coupled composite dark matter models and lattice simulations, Int. J. Mod. Phys. A 31 (2016) 1643004 [arXiv:1604.04627] [INSPIRE].
+S.-M. Choi, H.M. Lee, P. Ko and A. Natale, Resolving phenomenological problems with strongly-interacting-massive-particle models with dark vector resonances, Phys. Rev. D 98 (2018) 015034 [arXiv:1801.07726] [INSPIRE].
+G.D. Kribs, A. Martin and T. Tong, Effective Theories of Dark Mesons with Custodial Symmetry, JHEP 08 (2019) 020 [arXiv:1809.10183] [INSPIRE].
+S.-M. Choi, H.M. Lee, Y. Mambrini and M. Pierre, Vector SIMP dark matter with approximate custodial symmetry, JHEP 07 (2019) 049 [arXiv:1904.04109] [INSPIRE].
+P. Brax, S. Fichet and P. Tanedo, The Warped Dark Sector, Phys. Lett. B 798 (2019) 135012 [arXiv:1906.02199] [INSPIRE].
+Y. Hochberg, E. Kuflik, T. Volansky and J.G. Wacker, Mechanism for Thermal Relic Dark Matter of Strongly Interacting Massive Particles, Phys. Rev. Lett. 113 (2014) 171301 [arXiv:1402.5143] [INSPIRE].
+K.R. Dienes, F. Huang, S. Su and B. Thomas, Dynamical Dark Matter from Strongly-Coupled Dark Sectors, Phys. Rev. D 95 (2017) 043526 [arXiv:1610.04112] [INSPIRE].
+
+S.-M. Choi, H.M. Lee and M.-S. Seo, Cosmic abundances of SIMP dark matter, JHEP 04
+(2017) 154 [arXiv:1702.07860] [INSPIRE].
+M. Heikinheimo, K. Tuominen and K. Langæble, Hidden strongly interacting massive particles, Phys. Rev. D 97 (2018) 095040 [arXiv:1803.07518] [INSPIRE].
+H. Beauchesne, E. Bertuzzo and G. Grilli Di Cortona, Dark matter in Hidden Valley models with stable and unstable light dark mesons, JHEP 04 (2019) 118 [arXiv:1809.10152] [INSPIRE].
+Y. Hochberg, E. Kuflik and H. Murayama, SIMP Spectroscopy, JHEP 05 (2016) 090 [arXiv:1512.07917] [INSPIRE].
+C. Englert, K. Nordstr¨om and M. Spannowsky, Towards resolving strongly-interacting dark sectors at colliders, Phys. Rev. D 94 (2016) 055028 [arXiv:1606.05359] [INSPIRE].
+A. Berlin, N. Blinov, S. Gori, P. Schuster and N. Toro, Cosmology and Accelerator Tests of Strongly Interacting Dark Matter, Phys. Rev. D 97 (2018) 055033 [arXiv:1801.05805] [INSPIRE].
+S. Renner and P. Schwaller, A flavoured dark sector, JHEP 08 (2018) 052 [arXiv:1803.08080] [INSPIRE].
+Y. Hochberg, E. Kuflik, R. Mcgehee, H. Murayama and K. Schutz, Strongly interacting massive particles through the axion portal, Phys. Rev. D 98 (2018) 115031 [arXiv:1806.10139] [INSPIRE].
+G.D. Kribs, A. Martin, B. Ostdiek and T. Tong, Dark Mesons at the LHC, JHEP 07 (2019) 133 [arXiv:1809.10184] [INSPIRE].
+S. Tulin and H.-B. Yu, Dark Matter Self-interactions and Small Scale Structure, Phys. Rept.
+730 (2018) 1 [arXiv:1705.02358] [INSPIRE].
+R.T. D’Agnolo and J.T. Ruderman, Light Dark Matter from Forbidden Channels, Phys. Rev. Lett. 115 (2015) 061301 [arXiv:1505.07107] [INSPIRE].
+T. Cohen, M. Lisanti and H.K. Lou, Semivisible Jets: Dark Matter Undercover at the LHC, Phys. Rev. Lett. 115 (2015) 171804 [arXiv:1503.00009] [INSPIRE].
+T. Cohen, M. Lisanti, H.K. Lou and S. Mishra-Sharma, LHC Searches for Dark Sector Showers, JHEP 11 (2017) 196 [arXiv:1707.05326] [INSPIRE].
+A. Pierce, B. Shakya, Y. Tsai and Y. Zhao, Searching for confining hidden valleys at LHCb, ATLAS and CMS, Phys. Rev. D 97 (2018) 095033 [arXiv:1708.05389] [INSPIRE].
+H. Beauchesne, E. Bertuzzo, G. Grilli Di Cortona and Z. Tabrizi, Collider phenomenology of Hidden Valley mediators of spin 0 or 1/2 with semivisible jets, JHEP 08 (2018) 030 [arXiv:1712.07160] [INSPIRE].
+P. Schwaller, D. Stolarski and A. Weiler, Emerging Jets, JHEP 05 (2015) 059 [arXiv:1502.05409] [INSPIRE].
+J. Abdallah et al., Simplified Models for Dark Matter and Missing Energy Searches at the LHC, arXiv:1409.2893 [INSPIRE].
+J. Abdallah et al., Simplified Models for Dark Matter Searches at the LHC, Phys. Dark Univ.
+9–10 (2015) 8 [arXiv:1506.03116] [INSPIRE].
+M. Chala, F. Kahlhoefer, M. McCullough, G. Nardini and K. Schmidt-Hoberg, Constraining Dark Sectors with Monojets and Dijets, JHEP 07 (2015) 089 [arXiv:1503.05916] [INSPIRE].
+
+G. Busoni et al., Recommendations on presenting LHC searches for missing transverse energy signals using simplified s-channel models of dark matter, in press [Phys. Dark Univ. (2019)] [arXiv:1603.04156] [INSPIRE].
+N. Daci, I. De Bruyn, S. Lowette, M.H.G. Tytgat and B. Zaldivar, Simplified SIMPs and the LHC, JHEP 11 (2015) 108 [arXiv:1503.05505] [INSPIRE].
+H.M. Lee and M.-S. Seo, Communication with SIMP dark mesons via Z′-portal, Phys. Lett.
+B 748 (2015) 316 [arXiv:1504.00745] [INSPIRE].
+J. Alimena et al., Searching for Long-Lived Particles beyond the Standard Model at the Large Hadron Collider, arXiv:1903.04497 [INSPIRE].
+M. Battaglieri et al., U.S. Cosmic Visions: New Ideas in Dark Matter 2017: Community Report, FERMILAB-CONF-17-282-AE-PPD-T (2017) [arXiv:1707.04591] [INSPIRE] and
+online pdf version at
+http://lss.fnal.gov/archive/2017/conf/fermilab-conf-17-282-ae-ppd-t.pdf.
+P. Adshead, Y. Cui and J. Shelton, Chilly Dark Sectors and Asymmetric Reheating, JHEP
+06 (2016) 016 [arXiv:1604.02458] [INSPIRE].
+E. Hardy and J. Unwin, Symmetric and Asymmetric Reheating, JHEP 09 (2017) 113 [arXiv:1703.07642] [INSPIRE].
+F. Klingl, N. Kaiser and W. Weise, Effective Lagrangian approach to vector mesons, their structure and decays, Z. Phys. A 356 (1996) 193 [hep-ph/9607431] [INSPIRE].
+K. Kawarabayashi and M. Suzuki, Partially conserved axial vector current and the decays of vector mesons, Phys. Rev. Lett. 16 (1966) 255 [INSPIRE].
+Riazuddin and Fayyazuddin, Algebra of current components and decay widths of ρ and K∗
+mesons, Phys. Rev. 147 (1966) 1071 [INSPIRE].
+Y. Hochberg, E. Kuflik, H. Murayama, T. Volansky and J.G. Wacker, Model for Thermal Relic Dark Matter of Strongly Interacting Massive Particles, Phys. Rev. Lett. 115 (2015) 021301 [arXiv:1411.3727] [INSPIRE].
+E. Witten, Global Aspects of Current Algebra, Nucl. Phys. B 223 (1983) 422 [INSPIRE].
+J. Wess and B. Zumino, Consequences of anomalous Ward identities, Phys. Lett. B 37
+(1971) 95 [INSPIRE].
+J. Bijnens, A. Bramon and F. Cornet, Pseudoscalar Decays Into Photon-photon in Chiral Perturbation Theory, Phys. Rev. Lett. 61 (1988) 1453 [INSPIRE].
+L. Li and Y. Tsai, Detector-size Upper Bounds on Dark Hadron Lifetime from Cosmology, JHEP 05 (2019) 072 [arXiv:1901.09936] [INSPIRE].
+Planck collaboration, Planck 2018 results. VI. Cosmological parameters,
+arXiv:1807.06209 [INSPIRE].
+G. B´elanger, F. Boudjema, A. Goudelis, A. Pukhov and B. Zaldivar, MicrOMEGAs5.0: Freeze-in, Comput. Phys. Commun. 231 (2018) 173 [arXiv:1801.03509] [INSPIRE].
+CRESST collaboration, First results from the CRESST-III low-mass dark matter program, Phys. Rev. D 100 (2019) 102002 [arXiv:1904.00498] [INSPIRE].
+SuperCDMS collaboration, Low-mass dark matter search with CDMSlite, Phys. Rev. D 97
+(2018) 022002 [arXiv:1707.01632] [INSPIRE].
+
+DarkSide collaboration, Low-Mass Dark Matter Search with the DarkSide-50 Experiment, Phys. Rev. Lett. 121 (2018) 081307 [arXiv:1802.06994] [INSPIRE].
+PICO collaboration, Dark Matter Search Results from the Complete Exposure of the PICO-60 C3F8 Bubble Chamber, Phys. Rev. D 100 (2019) 022001 [arXiv:1902.04031] [INSPIRE].
+PandaX-II collaboration, Dark Matter Results From 54-Ton-Day Exposure of PandaX-II Experiment, Phys. Rev. Lett. 119 (2017) 181302 [arXiv:1708.06917] [INSPIRE].
+XENON collaboration, Dark Matter Search Results from a One Ton-Year Exposure of XENON1T, Phys. Rev. Lett. 121 (2018) 111302 [arXiv:1805.12562] [INSPIRE].
+GAMBIT collaboration, Global analyses of Higgs portal singlet dark matter models using GAMBIT, Eur. Phys. J. C 79 (2019) 38 [arXiv:1808.10465] [INSPIRE].
+SuperCDMS collaboration, Projected Sensitivity of the SuperCDMS SNOLAB experiment, Phys. Rev. D 95 (2017) 082002 [arXiv:1610.00006] [INSPIRE].
+ATLAS collaboration, Search for New Phenomena in Dijet Events using 139 fb−1 of pp
+collisions at √s = 13 TeV collected with the ATLAS Detector, ATLAS-CONF-2019-007
+(2019) [INSPIRE].
+J. Ellis, M. Fairbairn and P. Tunney, Phenomenological Constraints on Anomaly-Free Dark Matter Models, arXiv:1807.02503 [INSPIRE].
+L. Carloni and T. Sj¨ostrand, Visible Effects of Invisible Hidden Valley Radiation, JHEP 09
+(2010) 105 [arXiv:1006.2911] [INSPIRE].
+L. Carloni, J. Rathsman and T. Sj¨ostrand, Discerning Secluded Sector gauge structures, JHEP 04 (2011) 091 [arXiv:1102.3795] [INSPIRE].
+ATLAS collaboration, Search for dark matter and other new phenomena in events with an energetic jet and large missing transverse momentum using the ATLAS detector, JHEP 01 (2018) 126 [arXiv:1711.03301] [INSPIRE].
+CMS collaboration, Search for new physics in final states with an energetic jet or a hadronically decaying W or Z boson and transverse momentum imbalance at √s = 13 TeV,
+Phys. Rev. D 97 (2018) 092005 [arXiv:1712.02345] [INSPIRE].
+A. Alloul, N.D. Christensen, C. Degrande, C. Duhr and B. Fuks, FeynRules 2.0 — A complete toolbox for tree-level phenomenology, Comput. Phys. Commun. 185 (2014) 2250 [arXiv:1310.1921] [INSPIRE].
+J. Alwall et al., The automated computation of tree-level and next-to-leading order differential cross sections and their matching to parton shower simulations, JHEP 07 (2014) 079 [arXiv:1405.0301] [INSPIRE].
+NNPDF collaboration, Parton distributions with QED corrections, Nucl. Phys. B 877
+(2013) 290 [arXiv:1308.0598] [INSPIRE].
+T. Sj¨ostrand et al., An Introduction to PYTHIA 8.2, Comput. Phys. Commun. 191 (2015) 159 [arXiv:1410.3012] [INSPIRE].
+D. Dercks, N. Desai, J.S. Kim, K. Rolbiecki, J. Tattersall and T. Weber, CheckMATE 2: From the model to the limit, Comput. Phys. Commun. 221 (2017) 383 [arXiv:1611.09856] [INSPIRE].
+
+M. Drees, H. Dreiner, D. Schmeier, J. Tattersall and J.S. Kim, CheckMATE: Confronting your Favourite New Physics Model with LHC Data, Comput. Phys. Commun. 187 (2015) 227 [arXiv:1312.2591] [INSPIRE].
+E. Conte, B. Fuks and G. Serret, MadAnalysis 5, A User-Friendly Framework for Collider Phenomenology, Comput. Phys. Commun. 184 (2013) 222 [arXiv:1206.1599] [INSPIRE].
+E. Conte, B. Dumont, B. Fuks and C. Wymant, Designing and recasting LHC analyses with MadAnalysis 5, Eur. Phys. J. C 74 (2014) 3103 [arXiv:1405.3982] [INSPIRE].
+B. Dumont et al., Toward a public analysis database for LHC new physics searches using MADANALYSIS 5, Eur. Phys. J. C 75 (2015) 56 [arXiv:1407.3278] [INSPIRE].
+DELPHES 3 collaboration, DELPHES 3, A modular framework for fast simulation of a generic collider experiment, JHEP 02 (2014) 057 [arXiv:1307.6346] [INSPIRE].
+M. Cacciari, G.P. Salam and G. Soyez, FastJet User Manual, Eur. Phys. J. C 72 (2012) 1896 [arXiv:1111.6097] [INSPIRE].
+M. Cacciari and G.P. Salam, Dispelling the N 3 myth for the kt jet-finder, Phys. Lett. B 641
+(2006) 57 [hep-ph/0512210] [INSPIRE].
+A.L. Read, Presentation of search results: The CLs technique, J. Phys. G 28 (2002) 2693 [INSPIRE].
+ATLAS collaboration, Search for dark matter and other new phenomena in events with an energetic jet and large missing transverse momentum using the ATLAS detector,
+ATLAS-CONF-2017-060 (2017) [INSPIRE].
+M. Cacciari, G.P. Salam and G. Soyez, The anti-kt jet clustering algorithm, JHEP 04 (2008) 063 [arXiv:0802.1189] [INSPIRE].
+CMS collaboration, Search for supersymmetry in multijet events with missing transverse momentum in proton-proton collisions at 13 TeV, Phys. Rev. D 96 (2017) 032003 [arXiv:1704.07781] [INSPIRE].
+F. Ambrogi and J. Sonneveld, MadAnalysis5 recast of CMS-SUS-16-033, (2018) [INSPIRE].
+ATLAS collaboration, Search for low-mass resonances decaying into two jets and produced in association with a photon using pp collisions at √s = 13 TeV with the ATLAS detector,
+Phys. Lett. B 795 (2019) 56 [arXiv:1901.10917] [INSPIRE].
+F. Bezrukov, F. Kahlhoefer and M. Lindner, Interplay between scintillation and ionization in liquid xenon Dark Matter searches, Astropart. Phys. 35 (2011) 119 [arXiv:1011.3990] [INSPIRE].
+J. Lindhard and M. Scharff, Energy Dissipation by Ions in the kev Region, Phys. Rev. 124
+(1961) 128 [INSPIRE].
+J. Thomas and D.A. Imel, Recombination of electron-ion pairs in liquid argon and liquid xenon, Phys. Rev. A 36 (1987) 614 [INSPIRE].
+M.T. Frandsen, F. Kahlhoefer, C. McCabe, S. Sarkar and K. Schmidt-Hoberg, The unbearable lightness of being: CDMS versus XENON, JCAP 07 (2013) 023 [arXiv:1304.6066] [INSPIRE].
+PICO collaboration, Dark Matter Search Results from the PICO-60 C3F8 Bubble Chamber, Phys. Rev. Lett. 118 (2017) 251301 [arXiv:1702.07666] [INSPIRE].
+
+
+The Concept of Dark Energy is not Based on the Principles of Physics: Cosmological Data Can be clearly Explained Without this Concept
+Felix M Lev
+
+Independent Researcher, San Diego, 92010 CA USA Email: felixlev314@gmail.com
+Abstract
+The physics community has adopted the principle that when new experimental data appears, physicists should first try to explain it based on existing science. Only if all such attempts fail can new exotic explanations be brought in. However, in the case of cosmological acceleration, the opposite approach was taken: without serious attempts to explain this phenomenon from existing science, physicists attracted dark energy and other exotic concepts whose physical meaning is a mystery. As shown in our publications, the cosmological acceleration can be clearly explained without uncertainties. The derivation of this explanation requires significant technical efforts described in our publications. The purpose of this article for the 2nd Inter-national Conference on Gravitation, Astrophysics and Cosmol-ogy (ICGAC 2026) is to explain our approach at the simplest possible level so that the basic ideas of our approach would be understandable to many physicists and astrophysicists.
+
+Keywords: irreducible representations; cosmological acceleration; de Sitter symmetry
+
+	Statement of the problem of cosmo-logical acceleration
+Let’s consider a system of macroscopic bodies that are located at large distances from each other so that all interactions between the bodies (gravitational, electromagnetic and others) can be neglected. Let us also assume that the sizes of these bodies are much smaller than the
+
+
+
+distances between them. Then, the problem of describing such a sys-tem of bodies seems obvious: since all bodies are at large distances from each other, the motion of each body as a whole does not depend on other bodies and each body can only move at some constant speed with zero acceleration.
+However, physicists were surprised when in 1998 observations [1] showed that the bodies move relative to each other with the relative acceleration
+a = rc2/R2	(1)
+where r is the relative radius-vector and R is a quantity with the di-mension of length. Usually this quantity is expressed in terms of the cosmological constant Λ as Λ = 3/R2 and the recent observational data of the Planck collaboration [2] show that Λ = 1.3 · 10−52/m2 with the accuracy 5%. Therefore R is a quantity of the order of 1026m. Thus, observations have shown that bodies repel each other, and the repulsive force is proportional (not inversely proportional) to the dis-tance between them. The formula (1) also shows that in our daily life and even in the Solar System, this repulsive force is negligible. However, it becomes significant for bodies located at cosmological dis-tances from each other.
+The first impression might be that the result (1) follows from Gen-eral Relativity (GR) if we assume that we live in de Sitter (dS) space with the radius of curvature R and then, as is well known, Λ is treated as the curvature of dS space. However, the following questions arise:
+a) why nature preferred dS space and not some other space; b) why the value of R is as observed and not some other value; c) why physi-cists have decided that the real background space should be flat (that is, that in nature there should be Λ = 0). In Sec. 2 we describe the history of this problem and explain why the mainstream literature de-scribes cosmological acceleration in terms of exotic mechanisms (dark energy or quintessence and others). In Sec. 3 we explain why the cos-mological constant problem should be treated not from GR or other field theories but from the point of view of quantum theory in semi-classical approximation.
+
+
+Why physicists decided to describe cos-mological data with dark energy
+It is well known that Einstein originally thought that our universe was stationary. Then, as follows from his equations, this can only be if Λ /= 0 [3]. However, when Einstein visited Hubble at his Mount Wilson Observatory and Hubble showed him the results of observa-tions [4], then, according to Gamov’s recollections, Einstein said that his statement that Λ /= 0 was the biggest blunder of his life. After that, the mainstream literature (including textbooks) began to claim that Λ = 0 is a necessary condition. The main argument in favor of this statement was that curvature of space-time is created by matter and so, the empty space-time should be the flat Minkowski space.
+Let us discuss this argument from the point of view of the prin-ciples of physics. According to these principles, the definition of any physical quantity is a description of the way of measuring this quan-tity. From this point of view, the question arises what physical mean-ing the background space-time has and why many physicists believe that we live in some kind of background space. When there are many particles in the world, it may seem that they are in some kind of space-time background. However, coordinates of background space are not directly measurable physical quantities, only particle coordinates are such quantities (in the approximation when well-defined operators of such coordinates exist).
+Therefore, the question arises whether the concept of background space itself is fundamental and whether fundamental physical theory needs this concept at all. In classical field theories, the coordinates of background space do not have a direct physical meaning since they are not directly measured but indirectly they have a physical meaning: they are built into the mathematical technique that allows to calculate the coordinates of real particles.
+From a mathematical point of view, one can also consider the case of empty spaces, that is, spaces in which there are no particles. How-ever, these cases have no physical meaning since it is impossible to carry out measurements in spaces that exist only in our imagination. Therefore, discussions about whether empty space can be curved or flat also have no physical meaning.
+Let us also make the following remarks. At present, there are no universal theories in physics that work for all values of the parameters
+
+
+
+included in such theories. For example, nonrelativistic theory cannot be extrapolated to cases when speeds are comparable to c and classi-cal physics cannot be extrapolated for describing energy levels of the hydrogen atom. GR is a successful classical (non-quantum) theory for describing macroscopic phenomena where large masses (stars and planets) are present, but the extrapolation of GR to the case of empty space is not physical.
+The claim that Λ must be zero has also been criticized by sev-eral authors (e.g. the authors of [5] titled “Why All These Prejudices Against a Constant?”) on the following grounds: GR without the con-tribution of Λ has been confirmed with a good accuracy in experiments in the Solar System. If Λ is as small as it has been observed then it can have a significant effect only at cosmological distances while for experiments in the Solar System the role of such a small value is neg-ligible. That is why it is not clear why we should think that only a special case Λ = 0 is allowed. If we accept the theory containing a gravitational constant G which cannot be calculated and is taken from the outside then why can’t we accept a theory containing two independent constants?
+Despite these obvious facts, the question of the curvature of empty space is discussed in the physics literature and, even in textbooks, it is stated that empty space can only be flat. That is why, the fact that the results [1, 2] could be described only with Λ /= 0 was first perceived as a shock of something fundamental.
+However, the following way out of this situation was proposed: the terms with Λ in the Einstein equations have been moved from the
+l.h.s. to the r.h.s. and were interpreted not as the curvature of empty space-time (which was supposed to be zero), but as a manifestation of hypothetical fields called dark energy or quintessence. Although their physical nature remains a mystery (see e.g., [6] and references therein), and, as noted in [7], there are an almost endless number of explanations for dark energy, mainstream publications on the problem of cosmological acceleration (PCA) involve those concepts. However, these approaches have not solved PCA without uncertainties.
+While in most publications, only proposals about future discov-ery of dark energy are considered, the authors of [6] stated that dark energy had already been discovered by the XENON1T collaboration. In June 2020, it reported an excess of electron recoils: 285 events, 53 more than expected 232 with a statistical significance of 3.5σ. How-
+
+
+
+ever, in July 2022, a new analysis by the XENONnT collaboration [8] discarded the excess.
+As noted below, at the current stage of the universe (when semi-classical approximation is valid), PCA can be explained without uncer-tainties and without involving models and/or assumptions containing ambiguities.
+
+Problem of hierarchy of physical theo-ries
+From a theoretical point of view, quantum theory is more general than classical theory: the latter is a special case of the former in the formal
+limit h¯ → 0.	Therefore, any result of the classical theory can be
+derived in quantum theory in the semiclassical approximation in the limit h¯ → 0. Analogously, since relativistic theory is more general than nonrelativistic one, any result of the latter can be derived in the former in the nonrelativistic approximation c → ∞. However, these facts do not mean that in all cases we should use only more general theories. For example, if we apply relativistic theory to describe everyday life phenomena in which all speeds are much less than c, then such a description will turn out to be technically quite complex. Similarly, it is believed that to describe the kinematics of large macroscopic bodies in the universe it is sufficient to use classical theory, since the use of quantum theory would lead to large unjustified complications.
+However, as we saw in the preceding section, the application of classical theory to describe PCA faces the following problems:
+a) Is it necessary to require that Λ must be zero?
+b) If Λ /= 0 then GR does not tell us why nature chose this value of Λ and not another.
+c) If, for some reason, Λ /= 0 then is Λ a fundamental constant that has the same value at all stages of the evolution of the universe?
+Quantum theory is more preferable than classical theory even from a purely logical point of view: quantum theory describes particles and there is no situation where the background space is empty. We will
+
+
+
+see below that quantum theory gives clear answers to the questions a)-c). For example, as already noted, nonrelativistic theory is a special degenerate case of relativistic theory in the limit c → ∞ and classical theory is a special degenerate case of quantum theory in the limit h¯ →
+0. These cases are discussed in the literature using many examples. However, a question arises: is it possible to give a general criterion when theory A is more general than theory B, and theory B is a special degenerate case of theory A? In [9] and our other publications, we proposed the following criterion:
+Definition: Let theory A contain a finite nonzero parameter and theory B be obtained from theory A in the formal limit when the param-eter goes to zero or infinity. Suppose that with any desired accuracy theory A can reproduce any result of theory B by choosing a value of the parameter. On the contrary, when the limit is already taken, one cannot return back to theory A and theory B cannot reproduce all re-sults of theory A. Then theory A is more general than theory B and theory B is a special degenerate case of theory A.
+In particular, as shown e.g., in [9] this means that:
+Any result of nonrelativistic theory can be obtained with any desired accuracy from relativistic theory with some choice of c. On the other hand, in nonrelativistic theory it is not possible to obtain those results of relativistic theory where it is crucial that c if finite and not infinitely large.
+Any result of classical (non-quantum) theory can be obtained with any desired accuracy from quantum theory with some choice of h¯. On the other hand, in classical theory it is not possible to obtain those results of quantum theory where it is crucial that h¯ if finite and not infinitely small.
+In the literature, symmetry in quantum field theory (QFT) is usu-ally explained as follows. Since Poincare group is the group of mo-tions of Minkowski space, the system under consideration should be described by unitary representations of this group. This implies that the representation generators are selfadjoined and commute according to the commutation relations of the Poincare group Lie algebra:
+[Pµ, Pν] = 0,	[Pµ, Mνρ] = −i(ηµρPν − ηµνPρ),
+[Mµν, Mρσ] = −i(ηµρMνσ + ηνσMµρ − ηµσMνρ − ηνρMµσ)	(2)
+
+
+
+where µ, ν = 0, 1, 2, 3, ηµν = 0 if µ /= ν, η00 = −η11 = −η22 =
+−η33 = 1, Pµ are the operators of the four-momentum and Mµν are the operators of Lorentz angular momenta. This approach is in the spirit of the Erlangen Program proposed by Felix Klein in 1872 when quantum theory did not yet exist. However, although the Poincare group is the group of motions of Minkowski space, the description (2) does not involve this group and this space.
+As indicated above, background space is only a mathematical con-cept: in quantum theory, each physical quantity should be described by an operator but there are no operators for the coordinates of back-ground space. There is no law that every physical theory must con-tain background space. For example, it is not used in nonrelativistic quantum mechanics and in irreducible representations (IRs) describ-ing elementary particles. In particle theory, transformations from the Poincare group are not used because, according to the Heisenberg S-matrix program, it is possible to describe only transitions of states from the infinite past when t → −∞ to the distant future when t → +∞. In this theory, systems are described by observable physical quantities — momenta and angular momenta. So, symmetry at the quantum level is defined not by a background space and its group of motions but by the condition that the commutators of the operators describing the system under consideration are determined by the sym-metry algebra of this system. In particular, Eqs. (2) can be treated as the definition of relativistic (Poincare) invariance at the quantum level.
+Then each elementary particle is described by a selfadjoint IR of a real Lie algebra A and a system of N noninteracting particles is de-scribed by the tensor product of the corresponding IRs. This implies that, for the system as a whole, each momentum operator is a sum of the corresponding single-particle momenta, each angular momen-tum operator is a sum of the corresponding single-particle angular momenta, and this is the most complete possible description of this system. In particular, nonrelativistic symmetry implies that A is the Galilei algebra, relativistic (Poincare) symmetry implies that A is the Poincare algebra, de Sitter (dS) symmetry implies that A is the dS algebra so(1,4) and anti-de Sitter (AdS) symmetry implies that A is the AdS algebra so(2,3).
+In his famous paper ”Missed Opportunities” [10] Dyson notes that:
+a) Relativistic quantum theories are more general than nonrela-
+
+
+
+tivistic quantum theories even from purely mathematical consid-erations because Poincare group is more symmetric than Galilei one: the latter can be obtained from the former by contraction c → ∞.
+b) dS and AdS quantum theories are more general than relativis-tic quantum theories even from purely mathematical consider-ations because dS and AdS groups are more symmetric than Poincare one: the latter can be obtained from the former by contraction R → ∞ where R is a parameter with the dimension length, and the meaning of this parameter will be explained below.
+c) At the same time, since dS and AdS groups are semisim-ple, they have a maximum possible symmetry and cannot be obtained from more symmetric groups by contraction.
+As noted above, symmetry at the quantum level should be defined by a symmetry algebra for the system under consideration. In [9], the statements a)-c) have been reformulated in terms of the corresponding Lie algebras and it has also been shown that quantum theory is more general than classical theory because the classical symmetry algebra can be obtained from the symmetry algebra in quantum theory by contraction h¯ → 0. For these reasons, the most general description in terms of ten-dimensional Lie algebras should be carried out in terms of quantum dS or AdS symmetry.
+The definition of those symmetries is as follows. If Mab (a, b = 0, 1, 2, 3, 4, Mab = −Mba) are the angular momentum operators for the system under consideration, they should satisfy the commutation relations:
+[Mab, Mcd] = −i(ηacMbd + ηbdMac − ηadMbc − ηbcMad)	(3)
+where ηab = 0 if a /= b, η00 = −η11 = −η22 = −η33 = 1 and η44 = ∓1 for the dS and AdS symmetries, respectively.
+Although the dS and AdS groups are the groups of motions of dS and AdS spaces, respectively, the description in terms of (3) does not involve those groups and spaces, and it is the definition of dS and AdS symmetries at the quantum level (see the discussion in [9, 11]). In QFT, interacting particles are described by field functions defined on Minkowski, dS and AdS spaces. However, as described in Sec. 1, the
+
+
+
+problem statement for PCA involves only noninteracting bodies and therefore for PCA we don’t need background fields and spaces.
+The contraction of the Poincare algebra into the Galilean algebra and the contraction of the quantum algebra into the classical one are widely described in the literature (see, for example, Section 1.3 in [9]). If c is much greater than all velocities in a given system, then Galilean symmetry is a good approximation for describing this system. Similarly, if all angular momenta in a given system are much greater than h¯, then classical physics is a good approximation for describing this system.
+In particle theory, the quantities (c, h¯) are usually not involved
+and this is characterized such that the system of units c = h¯ = 1
+is used (although the concept of a system of units makes sense only in macroscopic physics). Then all velocities are dimensionless and
+≤ 1 (if tachyons are not taken into account). However, if people want to describe velocities in m/s then c also has the dimension m/s. Physicists usually understand that physics cannot (and should not) derive that c ≈ 3 · 108m/s. This value is purely kinematical (i.e., it does not depend on gravity and other interactions) and is as is simply because people want to describe velocities in m/s. Since the quantities (m, s) have a physical meaning only at the macroscopic level, one can expect that the values of c in m/s are different at different stages of the universe.
+Analogously, physicists usually understand that physics cannot
+(and should not) derive that h¯ ≈ 1.054 · 10−34kg · m2/s. This value
+is purely kinematical and is as is simply because people want to de-scribe angular momenta in kg · m2/s. Since the quantities (kg, m, s) have a physical meaning only at the macroscopic level, one can expect that the values of h¯ in kg · m2/s are different at different stages of the universe.
+Now consider the contraction from dS or AdS symmetry to Poincare one. If the momentum operators Pν (ν = 0, 1, 2, 3) are defined as Pν = M 4ν/R then in the limit when R → ∞, M 4ν → ∞ but the quantities Pν are finite, Eqs. (3) become Eqs. (2). Here R is a pa-rameter which has nothing to do with the dS and AdS spaces. As seen from Eqs. (3), quantum dS and AdS theories do not involve the di-mensional parameters (c, h¯, R) because (kg, m, s) are meaningful only at the macroscopic level.
+At the quantum level, Eqs. (3) are the most general description of
+
+
+
+dS and AdS symmetries and all the operators in Eqs. (3) are dimen-sionless. At this level, the theory does not need the quantity R and, by analogy with the choice (c = h¯ = 1) in particle theory, R = 1 is a possible choice. The dimensional quantity R arises if physicists want to deal with the 4-momenta Pµ defined such that M 4µ = RPµ. By analogy with the quantities c and h¯, physics cannot (and should not) derive the value of R. It is as is simply because people want to mea-sure distances in meters. This value is purely kinematical, i.e., it does not depend on gravity and other interactions. As noted in Sec. 1, at the present stage of the universe, R is of the order of 1026m but, since the concept of meter has a physical meaning only at the macroscopic level, one can expect that the values of R in meters are different at different stages of the universe.
+Although, at the level of contraction parameters, R has nothing to do with the radius of the background space and is fundamental to the same extent as c and h¯, physicists usually want to treat R as the radius of the background space. In GR which is the non-quantum theory, Λ = ±3/R2 for the dS and AdS symmetries, respectively. Physicists usually believe that physics should derive the value of Λ and that the solution to the dark energy problem depends on this value. They also believe that QFT of gravity should confirm the experimental result
+
+that, in units c = h¯
+= 1, Λ is of the order of 10−122/G where G
+
+is the gravitational constant. This theory can be criticized on several grounds, but the main one is that it is non-renormalizable and contains irremovable divergences.
+In any case, the fundamental quantum theory must not contain the quantities (kg, m, s) taken from macroscopic theory. In particular, quantum theory should not contain the quantities (c, h¯, R) expressed in terms of (kg, m, s). As noted above, the quantities (c, h¯, R) can be present in fundamental quantum theory only as contraction param-eters for transitions from more general theories to less general ones and the question of why these parameters are the way they are and not others does not arise. However, in QFT, G is not a contraction parameter for transition from a more general theory to a less general one. In [9] we considered a possibility that gravity is a consequence of the fact that finite quantum theory (FQT) based on a finite ring with characteristic p is more general than standard quantum theory (SQT). In that case, G depends on p as 1/ln(p) and can be considered as a contraction parameter from FQT to SQT when p → ∞.
+
+
+
+As noted in Sec. 1, in PCA, it is assumed that the bodies are located at large (cosmological) distances from each other and sizes of the bodies are much less than distances between them. Therefore, interactions between the bodies can be neglected and, from the for-mal point of view, the description of our system is the same as the description of N free spinless elementary particles.
+However, in literature, PCA is usually considered in the framework of dark energy and other exotic concepts. In Sec. 2 we argue that such considerations are not based on rigorous physical principles. In the present section we have explained how symmetry should be defined at the quantum level and in Sec. 4 we briefly sketch how PCA is described the framework of our approach.
+
+Results for cosmological acceleration
+As explained above, the most general approach to PCA is to consider this problem within the framework of semiclassical approximation to dS or AdS quantum theory. We first consider the dS case and the results about the AdS one will be mentioned later. As described in Sec. 1, in PCA, the motion of each body can be considered indepen-dently of the motion of other bodies. Therefore, the representation of the dS algebra describing our system is the tensor product of IRs for each body. Since the observed quantities correspond to self-adjoint operators, we must consider selfadjoint IRs of the dS algebra.
+Unitary IRs of the dS group have been considered by several au-thors. By using the results of the excellent Mensky’s book [12], we described selfadjoint IRs of the dS algebra in [13, 14, 15]. We will consider the operators M 4µ not only in Poincare approximation but also taking into account dS corrections. If those corrections are small, then, as explained in [16], IRs under consideration can be described by Eqs. (2.2) in that reference.
+These equations describe IRs in momentum representation and at this stage, we have no spatial coordinates yet. However, in the semi-classical approximation it is necessary to know how the momentum representation is related to the coordinate one. These representations are usually considered to be related by the Fourier transform. As shown in [9], such a connection is not universal, for example it does not work for photons from distant stars. However, since bodies in
+
+
+
+PCA can be described in the nonrelativistic approximation, the po-sition operator in momentum representation can be defined as usual, i.e., as r = ih¯∂/∂p.
+In semiclassical approximation, we can treat p and r as usual vec-tors. Then as follows from Eqs. (2.2) in [16]
+P = p + mcr/R,	H = p2/2m + cpr/R,	N = −mr	(4) where H = E − mc2 is the classical nonrelativistic Hamiltonian and
+N = (M 01, M 02, M 03) is the operator of Lorentz boosts. As follows
+from these expressions and Eqs. (2.2) in [16]
+
+
+P2
+H(P, r) =	−
+2m
+mc2r2
+2R2	(5)
+
+where the last term is the dS correction to the non-relativistic Hamil-tonian. A shown in [16], now it follows from the Hamilton equations that a free particle is moving with the acceleration
+a = rc2/R2 = 1 c2Λr	(6)
+3
+where r is the radius vector of the particle and Λ = 3/R2.
+To describe a system of N bodies, it is necessary to take into account that it is described by the tensor product of single-body rep-resentations. Therefore, each operator Mab for the N -body system is the sum of the corresponding single-body operators Mab. Then, as shown in [16], the relative acceleration also is given by Eq. (6) but now a is the relative acceleration and r is the relative radius vector, i.e., Eq. (1) is indeed valid.
+As noted in [16], dS symmetry is more general than AdS one. Formally, an analogous calculation using the results of Chap. 8 of [9] on IRs of the AdS algebra gives that, in the AdS case, a = −rc2/R2, i.e., we have attraction instead of repulsion. The experimental facts that the bodies repel each other confirm that dS symmetry is indeed more general than AdS one.
+The relative accelerations given by (1) are formally the same as those derived from GR if the curvature of dS space equals Λ = 3/R2, where R is the radius of this space. However, the crucial difference between our results and the results of GR is as follows. While in GR, R is the radius of the dS space and can be arbitrary, as explained in
+
+
+
+detail in Sec. 3, in quantum theory, R has nothing to do with the radius of the dS space, it is the coefficient of proportionality between M 4µ and Pµ, it is fundamental to the same extent as c and h¯, and a question why R is as is does not arise. Therefore, our approach gives a clear explanation why Λ is as is.
+In literature, it is often stated that quantum theory of gravity should become GR in classical approximation. In Sec. 3 we argue that this is probably not the case because at the quantum level the concept of space-time background does not have a physical meaning. Our results for the cosmological acceleration obtained from semiclassical approximation to quantum theory are compatible with GR but in our approach, space-time background is absent from the very beginning.
+Conclusion: The problem of cosmological acceleration has a unique solution which has nothing to do with dark energy or other artificial reasons: cosmological acceleration is an inevitable kinematical con-sequence of quantum theory in semiclassical approximation.
+Acknowledgments. I am grateful to Vladimir Karmanov, Dmitri Kazakov, Michel Planat and Ethan Vishniac for important useful com-ments.
+
+References
+S. Perlmutter, G. Aldering, G. Goldhaber, R.A. Knop, P. Nug S. Fabbro, A. Goobar, D.E. Groom et al., Measurement of o high-redshift supernovae. Astrophys. J. 517, 565–586 (1999).
+Planck 2015 results. Astronomy&Astrophysics 594, A13 (2016).
+A. Einstein, Kosmologische Betrachtungen zur allgemeinen Rela-tivita¨tstheorie. Sitzungsb. Ko¨nig. Preuss. Akad. 142–152 (1917). https://articles.adsabs.harvard.edu/pdf/1917SPAW  142E
+(1917). Accessed on 15 February 1917.
+E. Hubble, A relation between distance and radial velocity among extra-galactic nebulae. Proc. Natl. Acad. Sci. USA 15, 168–173 (1929).
+E. Bianchi and C. Rovelli. Why all these prejudices against a constant? arXiv:1002.3966v3 (2010).
+
+
+
+S. Vagnozzi, L. Visinelli, P. Brax, A-Ch. Davis and J. Sakstein, Direct detection of dark energy: the XENON1T excess and future prospects. Phys. Rev. D104, 063023 (2021).
+T. Karwal and M. Kamionkowski, Early dark energy, the Hubble-parameter tension, and the string axiverse. Phys. Rev. D94, 103523 (2016).
+E. Aprile, K. Abe, F. Agostini et. al., Search for New Physics in Electronic Recoil Data from XENONnT. Phys. Rev. Lett. 129, 161805 (2022).
+F. Lev, Finite Mathematics as the Foundation of Classical Math-ematics and Quantum Theory. With Application to Gravity and Particle theory. Springer, 2020. doi:10.1007/978-3-030-61101-9.
+F. G. Dyson, Missed Opportunities. Bull. Amer. Math. Soc. 78, 635-652 (1972).
+F. Lev, de Sitter Symmetry and Quantum Theory. Phys. Rev.
+D85, 065003 (2012). doi:10.1103/physrevd.85.065003.
+M.B. Mensky, Method of Induced Representations. Space-time and Concept of Particles. Nauka, Moscow (1976).
+F.M. Lev, Could Only Fermions Be Elementary? J. Phys. A37, 3287-3304 (2004). doi:10.1088/0305-4470/37/9/016
+F.M. Lev, Finiteness of Physics and its Possible Consequences.
+J. Math. Phys. 34, 490-527 (1993). doi:10.1063/1.530257
+F.M.  Lev,  Symmetries  in  Foundation  of  Quantum  The-ory and Mathematics. Symmetry, 12, 409 (2020). doi:10.3390/sym12030409
+F.M. Lev, Solving particle-antiparticle and cosmological constant problems. Axioms, 13, 138 (2024). doi:10.3390/axioms13030138
+
+/
+
+The cosmological nature of the dark Universe
+Christian Henkea
+Department of Mathematics, University of Technology at Clausthal, Erzstrasse 1, 38678 Clausthal-Zellerfeld, Germany
+
+
+
+Received: 20 April 2018 / Accepted: 14 May 2018 / Published online: 23 May 2018
+© The Author(s) 2018
+
+
+Abstract  This paper deals with the cancellation mech-
+ 1  ∫ 1 	dx		9
+
+anism, which identifies the energy density of space-time expansion in an empty universe with the zero-point energy
+H0  0
+	= 10.6×10 years, 0.05/x + 0.69x 2 + 0.26/xr −2
+
+density and avoids the scale discrepancy with the observed energy density (cosmological constant problem). Using an intrinsic degree of freedom which describes the coupling of a variable cosmological term Λ with non-relativistic mat-ter and radiation, the following consequences are demon-strated by coupling only a small contribution of Λ with non-relativistic matter. First, the standard model of cosmology with a positive cosmological constant can be generalised such that the missing mass problem of dark matter is solved by an overall negative variable cosmological term. Second, the model under consideration is compatible with constraints from the standard model of particle physics. Third, an equa-tion of state parameter of dark matter is derived which agrees with observations of rotational curves of galaxies. Moreover, the creation and annihilation process of dark matter is pre-sented.
+
+
+
+1 Introduction
+
+In the recent paper [1], the author has demonstrated that the variable cosmological term Λ(a) = Λ0 + Λ1a−r , r = 4 − ǫ, ǫ = 9.151 × 10−122 solves the fine-tuning of the cosmolog-ical constant problem (see [2–6]) and generates the missing mass of dark matter which constitutes 26% of the matter-energy density. The remaining matter-energy constraints of the universe such as 69% dark energy and 5% ordinary mat-ter as well as the initial singularity are also satisfied by the theory.
+Unfortunately, the age of the universe without contribu-tions from radiation which is given by
+
+
+a e-mail: henke@math.tu-clausthal.de
+disagrees with the accepted value of 13.80 × 109 years. Here, H0 = 67.74 km/(s Mpc) denotes the present-day Hubble constant. The age of 13.80 billion years can be obtained in the case r ≈ 3. In order to retain the accepted age of the universe, provided that the fine-tuning property of the cosmological constant problem and the generation of the missing mass of dark matter are preserved, an intrinsic degree of freedom for a parameterised coupling of the cosmological term with non-relativistic matter and radiation is used. It turns out that in our universe, only a very small fraction of the cosmological term couples with non-relativistic matter. Interestingly, this is the same result as derived from the observational constraints for the baryon and antibaryon pair annihilation [7]. As another consequence, an equation of state parameter of dark matter is found which agrees with observations of rotational curves of galaxies [8].
+The remainder of the paper is organised as follows. In section 2 we review the Friedmann equations where the cos-mological term Λ is a function of the scale factor a. Section 3 is devoted to the dark sector and states the basic ideas behind the derivation of the cancellation mechanism of the cosmo-logical constant problem from [1]. Then, it is demonstrated that the attractive force of dark matter is a consequence of a positive energy density of the cosmological term. Finally, we show that our solution of the cosmological constant problem explains the already mentioned cosmological observations and how dark matter is created/destroyed by the interaction of non-relativistic matter/radiation.
+
+
+2 A time-dependent cosmological term
+
+Let us start by recalling the Robertson–Walker space-time line element (see [9] for notational conventions)
+
+1 3
+
+406  Page 2 of 5	Eur. Phys. J. C (2018) 78:406
+
+
+
+ds2 = −c2dt 2 + a(t)2		1	 dr 2 + r 2dΩ2  ,
+1 − kr 2
+
+which reduces Einstein’s field equations to the Friedmann equations for the scaling factor a(t)
+3 The dark sector
+In this section we review the basic ideas of the cancellation mechanism between the quantum zero-point energy and the energy density of the cosmological constant in an empty uni-verse (cf. [1]). First, using a metric which is independent
+
+a˙2	1
+k	κc2
+of the scale factor, the second Friedmann equation can be
+
+a2 − 3 Λ + a2 =
+ρ,	(1)
+3
+identified with an Euler-Lagrange equation. Therefore, the
+
+a¨	κ
+3 / − Λ =− 
+a	2
+(ρc2
++ 3 p).	(2)
+related Lagrangian and the first Friedmann equation leads to the cancellation mechanism between the energy density
+
+Here, dΩ2 = dθ 2 + sin2 θdφ2 and k denotes the curvature parameter of unit length−2. Moreover, the variable cosmo-logical term is defined by
+of space-time expansion and the energy density of the cos-mological term. Identifying the energy density of space-time expansion with the quantum zero-point energy, we get
+4 . a Λ(α)α3 dα
+
+Λ(a) = Λ0 + Λ1a−r ,  Λ0, r > 0.	(3)
+It is convenient to include the Λ-term in the energy-mo-mentum tensor of the right-hand side. Therefore, we define
+ρΛ = ρzpe +
+
+where
+ Λ1	r 
+κc2a
+4	,	(10)
+
+
+r − 4
+
+an effective density and pressure field which includes non-relativistic matter and radiation
+ρzpe =
+κc2 r − 4
+a−r ,  Λ1 =
+
+/
+2πrl2
+, r /= 4,	(11)
+
+
+ρeff = ρm + ρr + ρΛ,	peff = pm + pr + pΛ,
+
+where ρΛ = Λ(a)/κc2 and pΛ = −Λ(a)/κ denote the background fields.
+The zero covariant divergence of the energy-momentum tensor gives
+and l p denotes the Planck length. As the consequence, there is no scale discrepancy between the total energy densities and the fine-tuning problem of the cosmological constant problem is solved.
+Now, we investigate the parameter range for r such that an initial singularity is guaranteed. Using the settings
+
+
+peff
+(ρeffa3) + 3	a2 = 0,	p′
+
+= 0,	(4)
+ρΛ1
+=  Λ1 a−r , κc2
+
+
+/	/
+da	c2
+eff
+ρmΛ
+= αΛ1	r a−r , r /= 3, κc2 3 − r
+
+and leads with pm = 0 and pr = c2ρr /3 to
+ρ	= (1 − α)Λ1	r a−r , r /= 4,
+
+r Λ	κc2
+4 − r
+
+1 d (ρ a3) + 1
+d (ρ a4) =− 1
+d
+Λ(a),	(5)
+we have to discuss the inequality
+
+a3 da	m
+a4 da	r
+
+/
+κc2 da
+
+
+which is satisfied by the parametrised coupling
+ρ	+ρ	+ρ
+=  Λ1  1 +  αr  + (1 − α)r  a−r ≥ 0.
+
+
+1 d (ρ a3) = −α 1
+
+d
+Λ(a),	(6)
+Λ1	mΛ	r Λ
+κc2
+3 − r
+4 − r
+
+a3 da	m
+
+/
+κc2 da
+By considering the equation
+
+1 d	1  d
+/(ρr a ) = −(1 − α) / Λ(a),  α ∈ R.	(7)
+
+/
+ 12  
+
+/
+
+Integrating both equations lead to
+r	3 − r
+4 − r
+r(3 − r)
+
+
+ρ  = ρ
+a−3 + αr Λ1	1  a−r , r /= 3,	(8)
+we find that the inequality is satisfied if
+
+m	m,0
+κc2  3 − r
+
+ρr = ρr,0
+a−4 + (1 − α)r Λ1
+κc2
+1
+4 − r
+a−r , r /= 4.	(9)
+12
+3 < r <
+4 − α
+.	(12)
+
+Hence, depending on the exponent r, the presence of the vari-able cosmological term can completely change the dynamical behavior of ρm and ρr .
+In order to analyse the gravitational nature of the Λ-depending components of ρeff, the acceleration behaviour is discussed by the term
+
+1 3
+
+Eur. Phys. J. C (2018) 78:406	Page 3 of 5  406
+
+
+
+κc2	 p
+—	ρ + 3	+ Λ
+2	c2
+κc2	−3
+
+
+
+
+−4 
+where x = a/a0 and τ = H0t. This leads to the present-day constraint
+
+
+/
+−Λ  −1 +   αr	 + (1 − α)r  a−r , 3 /= r /= 4,
+
+1	2(3 − r)
+4 − r
+
+(13)
+To relate the last equation with observations (cf. [10]), we
+consider
+
+
+from Eq. (2). As usual, the Λ0-depending term acts repulsive and is labeled with dark energy. Since
+r − 4	  αr		(1 − α)r 
+(Ωk, Ωm, Ωr , ΩΛ , Ωdm) = (0, 0.05, 5 × 10−5, 0.69, 0.26)
+and H0 = 67.74  km  . The setting ΩΛ = 0.69 leads to a cancellation mechanism (10) which automatically cancel 121
+
+−1 +	+
+r	2(3 − r)
+4 − r
+decimal places without fine-tuning. Moreover, using Ωdm =
+0.26 and
+
+(4 − α) r −  12  (r − 2) 2r(3 − r)
+
+
+2	2
+ǫ = 	p  0		= 2.29 × 10−122,
+c2
+
+it follows from the considered parameter range (12) that the Λ1-depending term has an attractive effect and can be iden-tified as dark matter. Notice that the attractive nature of dark matter is a direct consequence of a positive Λ1-depending density.
+From (8) and (9) we can conclude that dark matter doesn’t interact with ordinary matter and radiation (ρm,0 and ρr,0 are independent of Λ1). The interaction takes place between the three components of dark matter (self-interacting dark matter) which can be classified by their equation of state
+parameter w = −1,w = 0 and w = 1/3.
+it follows
+3ǫr(3 − r) = r(4 − α) − 12,	(18)
+which is a singular perturbed equation and can be solved by an uniform asymptotic expansion
+r(ǫ) = r0 + r1ǫ + O(ǫ2),	(19)
+where r0 and r1 are independent of ǫ. By substituting the decomposition (19) in (18), a hierarchy of equations for the terms multiplied by the same power of ǫ follows and yields the solution to the unknowns r0 and r1. Namely, we obtain
+
+4 Cosmological constraints
+
+It remains to consider some observational constraints for the
+
+r = 3 +
+3α 4 − α
+108αǫ
+— (4 − α)3
+
++ O(ǫ2).	(20)
+
+present-day composition of the universe. Using the usual set-tings ρcrit = 3H 2/κc4,
+As already mentioned in the introduction a small coupling between the non-relativistic matter and the dynamical part of the cosmological term is necessary for an universe which is
+
+kc2
+Ωk =− 2
+2 ,  Ωm =
+ρm,0
+
+/
+ρ
+a−3,
+13.80 billion years old.
+−5
+
+a0 H0
+crit
+Namely, using (20) with 0 < α < 10
+we get by numer-
+
+Ω = ρr,0 r	ρcrit
+a−4,  ΩΛ =
+Λ0c2
+3H 2 ,	(14)
+ical integration
+
+ 1 	1 	dx	
+	 = 13.80 × 10 years.
+
+where a0 = a(t0) denotes the present-day scale factor, the
+H0  0
+, Ωm + Ωr + ΩΛ x 2 +  Ωdm
+
+dark matter contribution is taken into account by
+x 2
+0	xr −2
+
+
+Ω	=  ρΛ1 + ρmΛ + ρr Λ .	(15)
+dm	ρcrit
+
+Multiply (1) by c2a2/H 2a2, we get
+Therefore, the remaining parameter of the cosmological term is Λ1 = −2.03 × 1068. Hence, the overall cosmological term Λ(a) is negative! (cf. [11] and Fig. 1).
+Now, some consequences of the value 0 < α < 10−5 are investigated. The low production (ρmΛ > 0) with respect to
+
+
+
+dx  2
+= Ωk +
+dτ
+0 0
+
+
+Ωm + Ωr + Ω	x  x	x 2	Λ0
+
+
+2 + Ωdm ,	(16)
+xr −2
+α of non-relativistic (dark) matter particles by the coupling
+process between non-relativistic matter and the cosmologi-cal term is in agreement to the results of [7]: the limitation of baryon/antibaryon pair annihilations, the isotropy of the
+
+1 3
+
+406  Page 4 of 5	Eur. Phys. J. C (2018) 78:406
+
+
+
+13.7960
+
+
+13.7955
+
+
+13.7950
+
+
+13.7945
+
+
+13.7940 −6
+10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10−5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10−4
+3.00005
+
+3.00004
+
+3.00003
+
+3.00002
+
+3.00001
+
+3.00000
+10−3
+to the ΛwDM model from [11]. The above constraint for wdm increases the Hubble constant by a maximum of 0.007% and decreases Ωdm by a maximum of 0.02% (cf. [11, Figure 7]) which is within the specified accuracies of the parameters. Moreover, the derived equation of state parameter wdm meets the constraint −0.000896 < wdm < 0.00238 from cosmic microwave background observations [11].
+The structure formation of the universe for the ΛwDM model was investigated in [12]. The main result is that the clustering scale of the large-scale structure is independent of the equation of state parameter.
+
+
+
+Fig. 1 The age of the universe T0 and the dark matter exponent r with respect to the coupling parameter α
+
+×1064 − 2.0313×1068
+0.000020
+−0.5
+0.000015
+
+−1.0
+0.000010
+5 Concluding remarks
+
+In this paper, the variable cosmological term Λ(a) = Λ0 + Λ1a−r , r > 0 has been applied and it has been confirmed that the total energy density of an empty Friedmann universe is related to the cosmological term such that the fine-tuning problem was avoided by setting Λ1 = r − 4/2πrl2 , r /= 4. As a consequence, the dynamical part of the cosmological term generates the attractive force of dark matter.
+
+−1.5
+
+
+−2.0
+10−7
+
+
+
+
+
+10−6
+
+
+
+
+
+
+10−5
+0.000005
+
+
+0.000000
+10−4
+Moreover, it has been demonstrated that the accepted age of our universe requires that only a small fraction of the cos-mological term couples with non-relativistic matter. More precisely, the cosmological term creates/destroys dark mat-ter with the interaction of non-relativistic matter/radiation. Similar to black holes, the decrease of the density by radia-
+
+Fig. 2 The cosmological parameter Λ1 and the equation of state parameter wdm with respect to the coupling parameter α
+
+microwave background and Eq. (5) lead to a scale factor which is nearly indistinguishable to the scale factor in the matter dominated epoch. Hence, the term  d  (ρma3) is only a small perturbation of Eq. (5), which is equivalent to the case 0 < α ≪ 1.
+Interestingly, the amount of annihilation of dark matter corresponds to the amount of the zero-point energy (cf. [1])
+ρrΛ = −(1 − α)ρzpe ≈ −ρzpe.
+Finally, the total equation of state parameter of dark matter is given by
+1 ρr Λ − ρΛ	r
+tion is caused by the vacuum energy density. This could be a further argument that dark matter consists of black holes and that ρdm represents the spatially averaged densities of black holes. On the other hand, the results of this paper can-not exclude that dark matter is made of particles. The range
+3 < r < 3.0000075 is compatible with constraints from baryon/antibaryon pair annihilation [7].
+Furthermore, the parameter range of r produces a non-zero equation of state parameter of dark matter wdm ≤ 2.5× 10−6 which agrees with observational data of rotational curves
+of galaxies [8], generates the missing mass of dark matter, describes the present-day composition of the universe and realises a negative cosmological term. Living in an universe with a negative cosmological term will completely change our understanding of cosmology. This could have impor-tant consequences for holographic correspondence-theories which are mainly formulated on space-times with a negative
+
+wdm = c2 ρ
++ ρmΛ
++ ρrΛ
+  = 3 − 1
+cosmological constant (cf. [13]).
+
+α
+=
+4 − α
++ O(ǫ) ≤ 2.5 × 10−6,
+
+Open Access This article is distributed under the terms of the Creative
+
+which agrees with the equation of state parameter wdm ∈
+(1.3 × 10−8, 1.5 × 10−7) from observed rotational curves of
+galaxies (see [8]) (Fig. 2).
+In contrast to the standard ΛCDM model with 6 parame-ters, the equation of state parameter wdm extends this model
+Commons Attribution 4.0 International License (http://creativecomm ons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.
+Funded by SCOAP3.
+
+1 3
+
+Eur. Phys. J. C (2018) 78:406	Page 5 of 5  406
+
+
+
+References
+
+C. Henke, Quantum vacuum energy in general relativitity. Eur. Phys. J. C 78, 126 (2018)
+S.M. Carroll, W.H. Press, The cosmological constant. Annu. Rev. Astron. Astrophys. 30, 499–542 (1992)
+S.M. Carroll, The cosmological constant. Living Rev. Relat. 4, 1–56 (2001)
+V. Sahni, A. Starobinsky, The case for a positive cosmological lambda-term. Int. J. Mod. Phys. D 9, 373–444 (2000)
+S. Weinberg, The cosmological constant problem. Rev. Mod. Phys.
+61(1), 1–23 (1989)
+A.D. Dolgov. The problem of vacuum energy and cosmology. In: A lecture Presented at the 4th Colloque Cosmologie, Paris (1997). arXiv:astro-ph/9708045
+K. Freese, F.C. Adams, J.A. Frieman, E. Mottola, Cosmology with decaying vacuum energy. Nucl. Phys. B 287, 797–814 (1987)
+J. Barranco, A. Bernal, D. Núñez, Dark matter equation of state from rotational curves of galaxies. Mon. Not. R. Astron. Soc. 449, 403–413 (2015)
+R.M. Wald, General Relativity (The University of Chicago Press, Chicago, 1984)
+P.A.R. Ade et al., Planck 2015 results. XIII. Cosmological param-eters. Astron. Astrophys. 594, A13 (2016)
+D.B. Thomas, M. Kopp, C. Skordis, Constraining the properties of dark matter with observations of the cosmic microwave back-ground. Astrophys. J. 830, 155 (2016)
+W. Hu, Structure formation with generalized dark matter. Astro-phys. J. 506, 485 (1998)
+O. Aharony, S.S. Gubser, J. Maldacena, H. Ooguri, Y. Oz, Large n field theories, string theory and gravity. Phys. Rep. 323(3), 183–386 (2000)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 3
+
+
+
+The Cosmological Quark-Hadron Transition and Massive Compact Halo Objects
+Shibaji Banerjeea, Abhijit Bhattacharyyab, Sanjay K. Ghoshc, Sibaji Rahaa,d and
+Bikash Sinhab,e
+
+
+
+a Physics Department, Bose Institute, 93/1, A.P.C. Road, Calcutta 700 009, INDIA
+
+b Variable Energy Cyclotron Centre, 1/AF, Bidhannagar, Calcutta 700 064, INDIA
+
+c Theory Group, TRIUMF, 4004 Wesbrook Mall, Vancouver, B.C. V6T 2A3, CANADA
+
+d Nuclear Theory Group, Brookhaven National Laboratory, Bldg. 510A, Upton, Long Island,
+
+New York 11973-5000, USA
+
+e Saha Institute of Nuclear Physics, 1/AF, Bidhannagar, Calcutta 700 064, INDIA
+
+
+One of the abiding mysteries in the so-called standard cosmological model is the nature of the dark matter. It is universally accepted that there is an abun-dance of matter in the universe which is non-luminous, due to their very weak interaction, if at all, with the other forms of matter, excepting of course the grav-itational attraction. Speculations as to the nature of dark matter are numerous, often bordering on exotics, and searches for such exotic matter is a very active field of astroparticle physics at the dawn of the new century. Nevertheless, in recent years, there has been experimental evidence [1, 2] for at least one form of dark matter - the massive compact halo objects detected through gravitational
+microlensing effects proposed by Paczynski some years ago [3]. To date, no clear
+
+
+
+
+consensus as to what these objects, referred to in the literature as well as in the following by the acronym MACHO, are made of; for a brief discussion of some of the suggestions, see below. In this work, we show that they find a natural explanation as leftover relics from the putative first order cosmic quark - hadron phase transition that is predicted by the standard model of particle interactions to have occurred during the microsecond epoch of the early universe.
+Since the first discovery of MACHO only a few years ago, a lot of effort has been spent in studying them observationally, as well as theoretically. It is beyond the scope of the present work to cite them adequately; see, for example, Sutherland [4]. Based on about 14 Milky way halo MACHOs detected in the direction of the Large Magellanic Cloud (we are not addressing the events found toward the galactic bulge), the most probable mass estimate [4] for MACHOs is in the vicinity of 0.5M⊙, substantially higher than the fusion threshold of 0.08M⊙. Assuming that MACHOs are subject to the limit on total baryon number imposed by the Big Bang Nucleosyntheis (BBN), there have been suggestions that they could be white dwarfs [5]. It is difficult to reconcile this with the absence of sufficient active progenitors of appropriate masses in the galactic halo. On the other hand, there have been suggestions [6, 7] that they could be primordial black holes (PBHs) (∼ 1M⊙), arising from horizon scale fluctuations triggered by pre-existing density fluctuations during the cosmic quark - hadron phase transition. While this would not violate the BBN limits on baryon number, the Hawking radiation from such primordial black holes would interfere with the observed γ background, which is thought to be reasonably well understood. It is thus safe to conclude that the nature of MACHOs continues to be dark, in the sense of begging elucidation.
+We propose that the MACHOs are not subject to the BBN limit on baryon number,
+
+
+
+
+insofar as they do not participate in the BBN process, just like the PBHs. On the other hand, they do not radiate, via the Hawking process or otherwise, having evolved out of the quark nuggets which could have been formed in the cosmic quark - hadron phase transition, at a temperature of ∼ 100 MeV during the microsecond era in the history of the early universe. In a seminal work in 1984, Witten [8] argued that strange quark matter could be the true ground state of Quantum Chromodynamics (QCD), the underlying field theory of strong interactions and that in a first order phase transition from quark - gluon matter to hadronic matter, a substantial amount of baryon number could be trapped in the quark phase which could evolve into strange quark nuggets (SQNs) through weak interactions. QCD - motivated studies of baryon evaporation from SQN-s have established [9, 10] that primordial SQN-s with baryon numbers above ∼ 1040−42 would indeed be cosmologically stable. More recently, some of the present authors have shown that without much fine tuning, these stable SQNs could provide the entire closure density (Ω ∼ 1) [11] and in a subsequent work, some of us have calculated the distribution of SQN-s produced in the (first order) cosmic QCD transition [12, 13] for various nucleation models, with the result that for a reasonable set of parameters, the distribution is rather sharply peaked at values of baryon number (∼ 1042−44), evidently in the stable sector. It was also seen that there were almost no SQNs with baryon number exceeding 1046−47, comfortably lower than the horizon limit of 1049 baryons at that time.
+It is therefore most relevant to investigate the fate of these SQNs and their implications on the later evolution of the universe. While they have enormous appetite for neutrons, becoming more and more strongly bound in the process, the total surface area of these
+large SQNs is not big enough to absorb so many neutrons as to interfere with BBN [14].
+
+
+
+
+They remain in equilibrium upto the neutrino decoupling temperature Tν ∼ 1 MeV beyond which they freeze out. From then on, they are subject only to the gravitational interaction. Unlike the usual baryons which are bound by the photon pressure till the recombination era, SQNs become free to collapse at temperatures below ∼ 1 MeV. Let us thus roughly estimate the number of SQNs contained within the Jeans length at a temperature of 1 MeV. For our present purpose, we take the SQNs to have the same common mass of 1044 with an abundance of 107 at T ∼ 100 MeV [11].
+A measure of the Jeans length for the present purpose may be obtained without having recourse to the usual hydrodynamic prescription, just by demanding that the total gravita-tional energy in the Jeans volume should be greater than or equal to the pressure energy
+
+:
+G( 4 πR3 ρ )2/R = v2ρ 4 πR3
+
+
+(1)
+
+
+/	/
+3	J r	J	s r 3	J
+
+where the subscript r to ρ indicates that the universe is still radiation dominated and vs
+
+stands for the velocity of sound (=√3 ). We then have :
+
+
+mpl RJ = √4πρ
+~ 1.633t	(2)
+
+
+which is just less than the distance to the horizon dH(∼ 2t in the radiation era [15]). It thus seems that a general relativistic treatment is not strictly required, as was to be somewhat expected at least for the SQNs, given their enormous mass.
+The number of SQNs within the horizon as a function of temperature is given by NN =
+107 100MeV  3 so that the density of SQNs is n	= N /V	= N / 4 π(2t)3 .  One can
+
+readily see that the total number of SQNs in RJ at T = 1 MeV turns out to be ∼ 0.58 X
+
+
+
+
+them ideal MACHO candidates.
+
+It is obvious that there can be no further clumping of these already clumped SQNs; at subsequent times, the density of such objects would be so low that it would be hard to find more than one or two of them within one Jeans radius. A very crude estimate of the collapse time of all the SQNs within RJ can be carried out to ascertain that indeed such a timescale is comparable to the lifetime of the universe at that temperature.
+We conclude that gravitational clumping of the primordial SQNs formed in a first order cosmic quark - hadron phase transition appears to be a plausible explanation for the observed halo MACHOs. Needless to say, the estimates presented here should serve only as guidelines and a detailed simulation would of course be needed before any firm conclusions can be drawn. Whether the spatial as well as the size distributions of the SQNs can serve as the necesary initial fluctuations need also to be carefully looked into. Such a study is on our present agenda and we hope to present the results in due course.
+The work of S.B. was supported in part by the Council of Scientific & Industrial Research (CSIR), New Delhi. SR would like to thank the Nuclear Theory group at Brrokhaven National Laboratory for their warm hospitality where part of this work was carried out.
+
+References
+
+Alcock, C. et al. (MACHO Collaboration) 1993, Nature (London) 365 621
+
+Aubourg, E. et al. (EROS Collaboration) 1993, Nature (London) 365 623
+
+Paczynski, B., 1986 Astrophys. J. 304 1
+
+
+
+
+Sutherland, W., 1998 astro - ph / 9811185
+
+Fields, B. D., Freese, K. and Graff, D. S., 1998 New Astron. 3 347
+
+Schramm, D. N., 1998 in : Physics and Astrophysics of Quark - Gluon Plasma (ICPA-QGP’97) (Eds. Sinha, B., Viyogi, Y. P. and Srivastava, D. K.), 29, Narosa Publishing, New Delhi.
+Jedamzik, K., 1998 Phys. Rep. 307 155
+
+Witten, E., 1984 Phys. Rev. D30 272
+
+Bhattacharjee, P., Alam, J., Sinha, B. and Raha, S., 1993 Phys. Rev. D48 4630
+
+Sumiyoshi, K. and Kajino, T, 1991 Nucl. Phys. (Proc. Suppl.) 24 80
+
+Alam, J., Raha, S. and Sinha, B., 1999 Astrophys. J. 513 572
+
+Bhattacharyya, A. et al. 1999 Nucl. Phys. A661 629c
+
+Bhattacharyya, A. et al. 2000 Phys. Rev. D (in press)
+
+Madsen, J. and Riisager, K., 1985 Phys. Lett. B158 208
+
+Kolb, E. W. and Turner, M. S., 1990 The Early Universe, Addison-Wesley Publishing Co., Redwood City.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Viiew publliicatiion stats
+
+The Dark Matter Enigma
+Jean-Pierre Luminet
+Aix-Marseille Université, CNRS, Laboratoire d'Astrophysique de Marseille (LAM) UMR 7326 & Centre de Physique Théorique de Marseille (CPT) UMR 7332
+& Observatoire de Paris (LUTH) UMR 8102 France
+E-mail: jean-pierre.luminet@lam.fr
+
+
+Abstract
+In this pedestrian approach I give my personal point of view on the various problems posed by dark matter in the universe. After a brief historical overview I discuss the various solutions stemming from high energy particle physics, and the current status of experimental research on candidate particles (WIMPS). In the absence of direct evidence, the theories can still be evaluated by comparing their implications for the formation of galaxies, clusters and superclusters of galaxies against astronomical observations. I conclude briefly with the attempts to circumvent the dark matter problem by modifying the laws of gravity.
+
+Keywords: dark matter, cosmology, standard model
+
+
+A cosmological conundrum
+
+The existence of dark matter was first suspected in the early 1930s. While measuring the velocities of galaxies grouped together in clusters, the Swiss astronomer Fritz Zwicky deduced the presence of an invisible mass. His calculations showed that if only the visible mass of the galaxies was taken into account, they should have separated due to their high proper velocities [1]. Yet the galaxies remained grouped together and the clusters were stable. The most plausible explanation was the presence of an invisible mass that gravitationally bound the galaxies but that did not emit electromagnetic radiation. Subsequent measurements have shown that there must be at least ten times more dark matter than luminous matter in galaxy clusters [2].
+Further indirect evidence for the existence of dark matter came from the rotational velocities of spiral galaxies. These systems usually rotate at higher velocities near their centers than at their edges. In the late 1960s, Vera Rubin, W. Kent Ford, and Norbert Thonnard found that the rotational velocity remains more or less constant beyond a certain distance from the center, even in far flung regions containing few stars [3]. This implied that dark matter was present well beyond the limits of the galactic disc, perhaps forming an extended halo.
+The notion of dark matter has since become ubiquitous in astronomy and cosmology. Dark matter plays an important role in galaxy formation models, its presence ensuring
+
+that the first structures condensed over the short timeframes reflected in observations [4]. From studying gravitational mirages, physicists can dispatch the distribution of visible and invisible matter; and they have concluded that at least ten times more dark matter than luminous matter is needed to account for observations [5]. A significant proportion of dark matter is also needed in the initial composition of the universe to explain the anisotropy spectrum of the cosmic diffuse background — that is, the distribution of temperature irregularities in the first radiation emitted by the universe when it was only 380,000 years old [6].
+Recent surveys make possible a precise estimation of the composition of the observable universe [7]. Luminous matter represents only 0.5% of the total; dark energy, a form of non-material and antigravitational energy, 68%. The remaining 32% is attributed to dark matter—a contribution that is almost entirely invisible to telescopes.
+The true nature of dark matter is one of the most significant challenges in modern astrophysics, especially since its distribution is far from uniform. Consider the galaxies Dragonfly 44 and NGC1052-DF2. Discovered in 2015, Dragonfly 44 has a mass comparable to the Milky Way, but appears to be almost exclusively dark matter (99.99%) [8]. By contrast, NGC1052-DF2, which was discovered in March 2018, appears to be devoid of dark matter [9].
+It might seem reasonable to imagine that dark matter is composed from all the celestial bodies too faint to be observed. Interstellar dust would be included, along with clouds of cold molecular hydrogen, and the dark stars in the halos of galaxies known as MACHOS (Massive Compact Halo Objects). This grouping includes black dwarfs, neutron stars, black holes, and brown dwarfs—stars too small to emit a glow from their nuclear reactions. Observations of the Large Magellanic Cloud have found that MACHOS amount to less than 8% of the black mass of the galactic halo. The projects involved include EROS (Experiment in Search of Dark Objects) and OGLE (Optical Gravitational Lensing Experiment). Above one thousandth of a solar mass, MACHOS are massive enough to act as gravitational microlenses. This effect can be used to obtain an upper bound to their presence in the halo of galaxies [10].
+These celestial bodies are composed of protons and neutrons, collectively known as baryons. Big bang cosmological models have successfully explained the observed abundance of light chemical elements—deuterium, helium and lithium—that were produced in a brief primordial nucleosynthesis. The proportions of these elements can be used to determine the density of baryonic matter in the young cosmos. A value for its current density, both visible and black, can be determined using Hubble-Lemaître’s law. These results agree with observations. Primordial nucleosynthesis imposes an upper limit on the current density of baryonic matter: it cannot exceed 5% [11].
+If 32% of the universe is dark matter and baryonic matter is only 5%, that leaves 27% unaccounted for. There are two ways to solve this problem. The first is to abandon the very idea of dark matter—astronomers must have made a mistake and Newton’s law of universal attraction requires modification. A second approach originates in particle physics and involves the introduction of non-baryonic dark matter.
+
+A Solution from Particle Physics
+
+Recent observational evidence has shown that, aside from gravitational force, dark matter interacts only barely, if at all, with ordinary matter. This suggests that dark matter is predominantly non-baryonic in nature, even if it produces gravitational effects similar to those associated with mass.
+The theoretical candidates for non-baryonic dark matter fall into three classes.
+Hot Dark Matter (HDM) does not refer to a specific temperature, but to low-mass particles with velocities close to the speed of light. Obvious candidates are the three types of neutrinos in the standard model. Neutrinos have been detected experimentally, even though their limited interactions with the electromagnetic field renders them elusive. On average, there are 400 neutrinos per cubic centimeter of space throughout the universe. Neutrinos would only need a tiny mass to account for all dark matter [12]. Indeed the first cosmology article I published in 1981 was precisely about the possibility that neutrinos, about which little was known yet, would have sufficient mass to close the universe, i.e. give it a density higher than the critical density [13]. Experiments to measure neutrino mass began in 1988 at the Super-Kamiokande detector in Japan and continue today at the Karlsruhe Tritium Neutrino Experiment (KATRIN) in Germany. These studies have yielded a series of gradually decreasing mass values [14]. Neutrino mass is now thought not to exceed 10–34 grams—a billionth the mass of a proton. Although negligible, the contribution of neutrinos to the energy density of the universe is on the same order as that of light matter (0.5%).
+Warm Dark Matter (WDM) is composed of a hypothetical particle, the sterile neutrino [15]. In contrast to the neutrinos of the standard model, sterile neutrinos do not interact with the weak and strong electromagnetic interactions, making them even more difficult to detect. Due to their mass, sterile neutrinos interact via gravity, meaning that, given a sufficient mass, they could account for dark matter. The researcher who provided the first tools to understand them was the Italian physicist Ettore Majorana, one of the great figures in twentieth century physics. In 1938, Majorana disappeared under mysterious circumstances when he was not yet 32 years old. Like Isaac Newton, he preferred not to make his ideas public and the importance of Majorana’s work was not properly understood for decades; for a brief biography of Ettore Majorana, see [16]. The existence of sterile neutrinos is due to an anomaly in the helicity of ordinary neutrinos. Particles in the standard model have an intrinsic kinetic moment termed spin—as if they were tiny rotors with an axis of rotation parallel to their velocity vector. A particle’s helicity is said to be either left or right-handed depending on the direction of rotation. Although the other particles in the standard model—leptons and quarks—can be both left and right-handed, no right-handed neutrinos have ever been observed.
+The minimum standard model predicted incorrectly that ordinary neutrinos would have a strictly zero rest mass. In 1998, the discovery of their oscillations forced physicists to assign neutrinos mass, after all. Sterile neutrinos were introduced to account for these masses and oscillations, following on from hypotheses previously made by Majorana [17]. Models that make use of sterile neutrinos have several
+
+advantages. Their presence helps explain, for example, the predominance of matter over antimatter, a process known as baryogenesis. If the mass of sterile neutrinos is found to be greater than 10–29 grams, they would be potential dark matter particles. Several experiments have sought to detect sterile neutrinos, but their results are contradictory. In 2016, researchers at the IceCube Neutrino Observatory in Antarctica found no evidence for the existence of sterile neutrinos. Yet two years later, researchers at the MiniBooNE collaboration found a much larger than expected oscillation for neutrinos, an indication in their favour [18].
+Cold Dark Matter (CDM) is composed of larger and slower moving particles than HDM or WDM. These exotic particles only appear in high-energy physics theories beyond the standard model. The two main candidates are axions and neutralinos. The former are hypothetical particles assumed to be stable, electrically neutral, and extremely light, with a mass between 10–39 and 10–36 grams. They were introduced by theorists to help explain charge-parity symmetry (CP) in strong interactions. Frank Wilczek adopted the name Axion from a brand of detergent to reflect that the problem plaguing quantum chromodynamics (the theory of strong interaction), namely the violation of CP symmetry, had been resolved [19]. It has been theorized that the Big Bang created sufficient axions to account for the missing dark matter [20]. Experiments such as CAST and ADMX have been unable to detect axions, which only interact weakly with other matter [21].
+The existence of the neutralino is predicted by the theory of supersymmetry (SUSY), an attempt to unify the three fundamental interactions of the standard model [22]. Under SUSY, all known fundamental particles have heavier supersymmetric counterparts, known as superpartners or sparticles. The theory has considerable appeal for researchers because it may offer solutions to several enduring problems, such as the disparity in the calculated mass of the Higgs boson under quantum field theory. SUSY could also account for non-baryonic dark matter using the neutralino [23], an electrically neutral combination of the photino (superpartner of the photon), the zino (Z0 boson), and the higgsino (Higgs boson). Neutralinos only form at very high energy levels, such as those found during the Big Bang. As a result of their assumed stability, neutralinos should be abundant; and with a mass a hundred times greater than protons (10–22 grams), the neutralino may be the missing dark matter particle.
+
+The Search for WIMPS
+
+Neutralinos can be detected either directly, from interactions in a detector and collisions in a particle accelerator, or indirectly, by means of the particles created by their disintegration or annihilation—photons, neutrinos, positrons, and antiprotons.
+The insensitivity of neutralinos to electromagnetic interaction hampers any attempt at direct detection. Neutralinos belong to a vast family of particles known as WIMPS (Weakly Interacting Massive Particles). Despite the extremely low probability of their interaction, it should be possible, with a large enough detector and considerable patience, to observe a WIMP come in contact with a particle of baryonic matter. A
+
+number of experiments are currently underway. These experiments include EDELWEISS in France, XENON in Italy, LUX in the US, and PandaX in China. Nothing has been found so far.
+Another solution to the problem of detecting WIMPS involves producing them artificially from the collisions of particle beams in accelerators. A funny anectdote is the following. In 1994, Kenneth Lane and David Gross made a bet on SUSY during a dinner at the summer school of theoretical physics in Erice, Sicily. At the time, the predicted sparticle had not been detected, but plans for the LHC had been drawn up. Lane proposed that if the new collider proved the theory, he would pay for a meal at Girardet, a restaurant in Lausanne widely considered among the world’s best. If the theory was not proven, Gross would pick up the check. Written on a tablecloth, the terms of the bet stipulated that it would be payable as soon as the LHC produced sufficent high-energy collisions to be certain of the outcome. The minimum number was estimated at 5. 1024. A quarter of a century later, Girardet no longer exists. Since 2010, the LHC has collected more than 15. 1024 pieces of data without finding any trace of a spark, even when the energy range should have allowed for it. Lane claims that the bet is now payable, if not at Girardet’s, then at another restaurant of a similar calibre. But Gross is not about to concede. The data has been gathered, but the analysis is not yet complete (the amount of data produced by a particle accelerator is measured in a dark unit known as a reverse femtobarn, that corresponds to about 1023 collisions).
+Attempts to detect WIMPS in this manner are the focus of ongoing research at CERN’s Large Hadron Collider (LHC) [24]. To date, researchers at the LHC have not found anything either. Despite these disappointing results, SUSY can never really be completely overturned. The theory contains numerous free parameters and can be adjusted so that its predicted particles only appear at energy levels beyond the reach of current colliders. Such arbitrary adjustments inevitably detract from the elegance of the theory, compromising the attribute that made it attractive in the first place.
+
+Antimatter
+
+Another potential indirect means of detecting WIMPS involves antimatter. In theory, each particle has an associated antiparticle with the same mass but the opposite electrical charge: the positron for electrons, antiquark for quarks, antiproton for protons, and so on. Antimatter is composed of these antiparticles. Antihydrogen, for example, has a positron in orbit around an antiproton. When antimatter comes into contact with matter, the two annihilate each other, creating radiative energy. When mass is created from energy, as occurs in particle accelerators, it is equally distributed between particle pairs and antiparticles. Antihydrogen was produced for the first time at CERN in 1996. The Alpha collaboration at CERN has recently managed to confine a thousand antihydrogens for several hours by using a magnetic trap.
+Following the Big Bang, the universe was in a hot plasma state, behaving like a vast natural particle accelerator. Although it should have generated just as much matter as antimatter, the composition of the current universe suggests otherwise. On average,
+
+there seems to be only one antiparticle for every billion particles. As a result, there would be no stars or galaxies made of antimatter [25]. High-energy physics models have been developed to explain this asymmetry. As none of the models are completely convincing, some authors have attempted in various ways to attribute a repulsive gravitational mass to antimatter [26]. Although it seems unlikely, this hypothesis has the advantage of being easy to test in the laboratory. CERN’s Alpha experiment will attempt to find out what happens when artificially produced antiatoms are dropped in a gravitational field [27]. A result that contradicts standard theories would be truly revolutionary, but the chances seem remote. The most likely finding is that antimatter does not contribute at all to dark matter density.
+Despite the lack of results, dark matter researchers are keenly interested in the positron and antiproton fluxes observed in some cosmic rays. Both antiparticles are produced by conventional astrophysical sources such as pulsars, but they might also emerge from the disintegration of exotic dark matter. In 2011, the

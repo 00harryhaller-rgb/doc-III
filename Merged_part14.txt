@@ -1,0 +1,1688 @@
+means unphysical. The separation of coloured TFVDs occurs at the temperature Tc, when the effective string tension is zero, so that there does not exist any long range force. By the time the TFVDs have evolved into colour neutral configurations, releasing the few orphan coloured quarks in their immediate vicinity, the spatial separation between these quarks is already too large to allow strings to develop between them; see below. (It should be emphasized here that such a situation could not occur in the laboratory searches for quark-gluon plasma through ener-getic heavy ion collisions. There the spatial extent of the system is of the order of a few fermi and the reaction takes place on strong interaction time scales.) Therefore, the orphan quarks must remain in isolation. In terms of the quantum entanglement and decoherence of the colour wave function, this would then mean that their colour wave functions must still remain entan-gled and a corresponding amount of the perturbative vacuum energy would persist in the universe. In this sense, the orphan quarks are definitely not in asymptotic states and no violation of colour confinement is involved. If we naively assume that the entanglement among these orphan quarks imply collective behaviour like a plasma, then one can estimate the corresponding Debye screening length for this very dilute system of quarks, which would still be governed primarily by the temperature. At temperatures of ∼ 100 MeV, the scale would be a few fm, much smaller than the mutual separation between the orphan quarks; thus the formation of bound states of orphan quarks would be impossible.
+There does not exist any way to calculate this persisting, or even the
+full, perturbative vacuum energy, from first principles in QCD. For the latter quantity, one may adopt the phenomenological Bag model [16] of confine-ment, where the Bag parameter B (∼ (145MeV )4) is the measure of the difference between the perturbative and the non-perturbative vacua. Thus we can assume that at the beginning of the phase transition, the universe starts out with a vacuum energy density B, which gradually decreases with increasing decoherence of the entangled colour wave function. A natural thermodynamic measure of the amount of entanglement during the phase
+
+
+
+transition could be the volume fraction (fq ≡ Vcolour/Vtotal) of the coloured degrees of freedom; at the beginning, fq is unity, indicating complete entan-glement, while at the end, very small but finite entanglement corresponds to a tiny but non-zero fq due to the coloured quarks. Accordingly, the amount of perturbative vacuum energy density in the universe at any time is the energy density B times the instantaneous value of fq; within the scenario discussed above, the remnant perturbative vacuum energy at the end of the QCD transition would just be B ×fq,O, where fq,O is due solely to the orphan quarks. An order of magnitude estimate for fq,O can be carried out in the following straightforward manner. On the average, each TFVD is associ-ated with 1 orphan quark so that the number Nq,O of orphan quarks within the horizon volume at any time is about the same as the number NT F V D of TFVDs therein. It is well known from the study of percolating systems [17] that percolation is characterized by a critical volume fraction fc ∼ 0.3 of the high temperature phase. In the present case, this would require fq in the form of TFVD-s to be ∼ 0.3. Following the ansatz of Witten [9] that the most likely length scale for a TFVD is a few cm, one can estimate NT F V D (and hence Nq,O) within the horizon at the percolation time of about 100 µsec [8] to be about 1018−20. The inter-TFVD separation comes out to be
+~ 0.01 cm at that time. (It is obvious that the orphan quarks, separated
+by distances of 0.01 cm, cannot develop colour strings between them, even if there is some non-zero string tension generated at temperatures slightly lower than Tc.) Then, if we naively associate an effective radius of ∼ 10−14cm (es-timated from σqq = 1 σpp ; σpp ∼ 20mb ) with each orphan quark, we obtain fq,O ∼ Nq,O ×(vq,O/Vtotal) ∼ 10−42 − 10−44 (where vq,O is the effective volume of an orphan quark), so that the residual pQCD vacuum energy comes out to be in the range 10−46 to 10−48GeV 4, just the amount of DE.
+Admittedly, the preceding estimate is somewhat crude; nevertheless, the simple and natural assumptions that have led to this value ensure that it cannot be very wrong. An alternate treatment within a slightly more micro-scopic model also leads to the same estimate, as we show now.
+The problem of finding an effective inter-quark potential at large r from QCD is well known. In the spirit of the phenomenological string model for a quark-antiquark system (mesons), one expects a linear potential. It was shown by Richardson [18] some time ago that one can postulate an effective coupling constant of QCD which gives the usual leading order form at high Q2 (small r) but can be carried over to small Q2 (large r) limit without going through the singularity. The potential derived from such prescription
+
+
+
+yields a linear potential in the large r limit. This ”standard” form of inter-action is, unfortunately, not applicable in the context of the present analysis since here we are interested in the dynamics of interaction in a dilute many body quark system, where there may not be any antiquarks and certainly no mesons. It may however be recalled that a phenomenological prescription for incorporating the effect of confinement in such systems was proposed many years ago [19], through the use of a density dependent effective quark mass mq ∼ 1/nq in the low density sector. This prescription has been used ex-tensively by a number of authors to study the properties of quark matter. In addition, Plu¨mer and Raha [20] showed quite some years ago that such a behaviour of the effective mass was consistent with a running coupling con-stant which behaved like αs ∼ 1/log(1 + Q4/Λ4). Note that this expression agrees with the familiar perturbative form (leading order) for large Q2, just like the Richardson case but has a very different large r behaviour. Using this αs, one can find the effective inter-quark potential by taking the Fourier transform of V (q) = αs(q2)/q2 a la Richardson [18]. This gives
+V (r) ∼ Λ  (Λr)3 −  12	(1)
+Λr
+For large r, only the cubic term needs to be retained. This (cubic) potential, rather than the linear one, is the most natural form of the potential to use in the case of a dilute many body system of quarks.
+The inter-quark separation r can be estimated as follows:
+
+
+nq,O ≡ Nq,O/VH = (3/4π)Nq,O/R3
+(2)
+
+ 3 
+r =	4π q,O
+ 1/3
+= RH /N 1/3	(3)
+
+Then, the potential energy density for this inter-quark interaction is
+1	3
+ρ	= / n	V (r) ∼	Λ4	(4)
+V	2 q,O	8π
+Note that this is independent of density and hence, time; once it comes into being, it will retain the same value through the subsequent evolution of the universe and can indeed be the ideal candidate for dark energy. All we need to do is to fix the value of Λ, which would be appropriate for this dilute system of quarks. A natural measure of Λ would be the inverse of the length scale characterising this dilute system of quarks. For hadronic bags or hard
+
+
+
+QCD processes, the length scale is of the order of Fermi, which gives Λ ∼ 100 MeV. In our case, the appropriate length scale should be the size of the smallest TFVDs, as Kodama, Sasaki and Sato [21] argued many years ago. For the stable SQNs, with baryon density ∼ 1038cm−3, we had calculated the length scale for smallest TFVD [22] to be several cm. Now the baryon number density in the universe during the microsecond epoch is ∼ 1030cm−3. So, for smaller TFVDs, whose baryon density at the time of formation would be ∼ 1030cm−3 (corresponding to Tc ∼ 100 MeV), the appropriate length scale must be smaller by about two orders of magnitude, ∼ 0.01 cm. (It is no surprise that the inter-TFVD separation, the other possible length scale in the problem, as estimated above comes out to be of the same order of magnitude.) Then, the corresponding Λ would be ∼ 10−12 GeV, so that ρV ∼ 10−48GeV 4, just the value required for dark energy.
+Even though the DE component appears during the microsecond era in the history of the universe, it remains negligible in comparison to the matter density for most of the history. Since matter density decreases as R−3 (R being the scale size), while DE density remains constant, the latter can be-come dominant only at very late times (z ∼ 0.17) and thus would not affect the galaxy formation scenarios to any extent.
+The density of the orphan quarks in the present universe is exceedingly small; compared to ∼ 1077 baryons which took part in BBN, there would be 1044−45 orphan quarks. Their flux in the cosmic rays would be negligibly small; non-observance of fractionally charged objects is thus not a detractor. A definitive detection of fractional electric charge would certainly clinch the issue, but as mentioned above, the flux of orphan quarks seems to make it highly urealistic. A conclusive detection of strange quark matter in the cosmic ray flux, however, would go a long way in providing support to the idea. Many such experiments are currently under way.
+The picture presented here relies on a putative first order transition, al-though any transition resulting in finite size fluctuations may suffice. This issue requires further investigation.
+A posteriori, it is tempting to mention that it should perhaps have been anticipated that if the cosmological constant does arise from a vacuum en-ergy, then the QCD vacuum is the most natural candidate. It is a known (and accepted) lore of (renormalisable) quantum field theories that the di-vergent vacuum energy density is renormalised to the physical parameters of the theory. Within all the field theories now in vogue, it is only the QCD which has a distinct perturbative and a non-perturbative vacuum, which are
+
+
+
+separated by a finite energy density, irrespective of the renormalisation pre-scription. (That we are unable to estimate this as yet from first principles in QCD is a technical shortcoming, not a conceptual one.) It is thus most plau-sible that even if suitable renormalisation prescriptions remove all vacuum energy densities, the finite part of the perturbative vacuum energy density of QCD should survive and play the role of the cosmological constant.
+We therefore conclude by reiterating that the emergence of both CDM and DE from the same mechanism entirely within the standard model of particle interactions, and that too in quantitatively correct amounts without any fine-tuning of parameters, is nothing short of remarkable. The picture presented here satisfies, in our opinion, the most stringent criterion of a scientific theory, that of naturalness. The strangest property of the universe, as it is said, is how simple it is.
+The authors are indebted to Prof. Anthony J. Leggett for his critical comments on an earlier version of the manuscript. SR would also like to thank the Research Center for Nuclear Physics, Osaka University for their warm hospitality during his sojourn there.
+
+References
+T. Tegmark, Science 296, 1427-1433 (2002).
+S. Sarkar, Proc. EPS Int.Conf. on High Energy Physics, Budapest, 2001 (Horvath, D., Levai, P. and Patkos, A., eds.) JHEP Proceedings Section, PrHEP-hep2001/299.
+B. Leibundgut, Ann. Rev. Astron. Astrophys. 39, 67-98 (2001).
+C. J. Copi, D. N. Schramn, and M. S. Turner, Science 267, 192-199 (1995).
+R. P. Kirshner, Science 300, 1914-1918 (2003).
+H. V. Peiris et al., astro-ph/0302225.
+H. J. De Vega, I. M. Khalatnikov and N. G. S´anchez, Phase Transitions in the Early Universe: Theory and Observations (Kluwer Academic Publishers, 2003).
+J. Alam, S. Raha and B. Sinha, Astrophys. J. 513, 572-575 (1999).
+
+
+
+E. Witten, Phys. Rev. D30, 272-285 (1984).
+J. Alam, S. Raha, and B. Sinha, Phys. Rep. 273, 243-362 (1996).
+P. Bhattacharjee, J. Alam, B. Sinha, and S. Raha, Phys. Rev. D48, 4630-4638 (1993).
+S. Banerjee et al., Mon. Not. R. Astron. Soc. 340, 284-288 (2003).
+C. Alcock et al., Nature 365, 621-623 (1993).
+E. Aubuorg, et al., Nature 365, 623-625 (1993).
+W. K. Wootters, Phil. Trans. R. Soc. Lond. A356, 1717-1731 (1998).
+A. Chodos, R. L Jaffe, K. Johnson, C. B. Thorn and V. F. Weisskopf,
+Phys. Rev. D9, 3471-3495 (1974).
+D. Stauffer, Phys. Rep. 54, 1-74 (1979).
+J. L. Richardson, Phys. Lett. B82, 272-276 (1976).
+G. N. Fowler, S. Raha and R. M. Weiner, Zeit. f. Physik C9, 271-273 (1981).
+M. Plu¨mer and S. Raha, J. Phys. G13, L7-L12 (1987).
+H. Kodama, M. Sasaki and K. Sato, Prog. Theo. Phys. 68, 1979-1998 (1982).
+A. Bhattacharyya et al., Phys. Rev. D61, 083509:1-8 (2000).
+
+Cosmology in f(Q) gravity: A unified dynamical system analysis at background and perturbation levels
+Wompherdeiki Khyllep,1 Jibitesh Dutta,2, 3 Emmanuel N. Saridakis,4, 5, 6 and Kuralay Yesmakhanova7, 8
+1Department of Mathematics, St. Anthony’s College, Shillong, Meghalaya 793001, India
+2Mathematics Division, Department of Basic Sciences and Social Sciences, North-Eastern Hill University, Shillong, Meghalaya 793022, India
+3Inter University Centre for Astronomy and Astrophysics, Pune 411007, India
+4National Observatory of Athens, Lofos Nymfon, 11852 Athens, Greece
+5CAS Key Laboratory for Researches in Galaxies and Cosmology, Department of Astronomy, University of Science and Technology of China, Hefei, Anhui 230026, P.R. China
+6School of Astronomy, School of Physical Sciences,
+University of Science and Technology of China, Hefei 230026, P.R. China
+7Ratbay Myrzakulov Eurasian International Centre for Theoretical Physics, Nur-Sultan 010009, Kazakhstan
+8Eurasian National University, Nur-Sultan Astana 010008, Kazakhstan
+Motivated by the fact that cosmological models based on f (Q) gravity are very efficient in fit-ting observational datasets at both background and perturbation levels, we perform a combined dynamical system analysis of both background and perturbation equations in order to examine the validity of this result through an independent method. We examine two studied f (Q) models of the literature, namely the power-law and the exponential ones. For both cases, we obtain a matter-dominated saddle point characterized by the correct growth rate of matter perturbations, followed by the transition to a stable dark-energy dominated accelerated universe in which matter pertur-bations remain constant. Furthermore, analyzing the behavior of fσ8, we find that the models fit observational data successfully, obtaining a behavior similar to that of ΛCDM scenario, although the exponential model does not possess the latter as a particular limit. Hence, through the independent approach of dynamical systems, we do verify the results of observational confrontation, namely that f (Q) gravity can be considered as a very promising alternative to the ΛCDM concordance model.
+
+
+INTRODUCTION
+
+Einstein’s theory of General Relativity (GR) is the most successful theory to describe the gravitational in-teraction, and based on that, the Lambda Cold Dark Matter (ΛCDM) scenario is the concordance cosmologi-cal model. However, this standard gravitational and cos-mological paradigm faces theoretical and observational problems such as the non-renormalizability of GR, the cosmological constant problem, the coincidence problem, the Hubble tension, the σ8 tension, etc [1–7]. Hence, in the literature, one may find various modified theories of gravity [8–11] and several GR-based models beyond the ΛCDM one [12–14], that aim to alleviate a part of or all the above issues.
+The usual way to construct gravitational modifications is to add extra terms in the Einstein-Hilbert Lagrangian, resulting to f (R) gravity [15–17], Gauss-Bonnet and f (G) gravity [18–20], cubic and f (P ) gravity [21–23], Horndeski/Galileon scalar-tensor theories [24, 25], etc. Alternatively, one can add new terms to the equivalent formulation of gravity based on torsion, resulting to f (T ) gravity [11, 26], f (T, TG) gravity [27–29], f (T, B) grav-ity [30, 31], scalar-torsion gravity [32], etc. Nevertheless, there is a third way to construct new classes of modified gravity, starting from the “symmetric teleparallel grav-ity”, which is based on the non-metricity scalar Q [33], and extend it to a function f (Q) in the Lagrangian.
+The modified theory of f (Q) gravity leads to interest-ing cosmological phenomenology at the background level
+[34–56]. Additionally, it has been successfully confronted with various background and perturbation observational data, such as the Cosmic Microwave Background (CMB), Supernovae type Ia (SNIa), Baryonic Acoustic Oscilla-tions (BAO), Redshift Space Distortion (RSD), growth data, etc, [57–64], and this confrontation reveals that f (Q) gravity may challenge the standard ΛCDM sce-nario. Finally, f (Q) gravity comfortably passes the Big Bang Nucleosynthesis (BBN) constraints too [65].
+Motivated by the exciting features of f (Q) gravity, in this work, we employ the powerful mathematical tool of dynamical system analysis in order to investigate for the first time the cosmological dynamics of f (Q) cosmology at both background and perturbation levels. Such inves-tigation can be used to further confirm the results ob-tained from the observational analysis. We mention that usually, the dynamical system approach is applied at the background level [66–83], however relatively recently it was realized that the analysis can be applied at the per-turbation level too [84–87]. Hence, with this combined analysis, we can determine both the background stable late-time solutions, as well as the growth of the structure formation, independent of the specific initial conditions. Moreover, we can examine how the matter perturbations back-react to the background solutions, too.
+The work is organized as follows: In Sec. II, we present the field equations of f (Q) gravity, from which one can arrive at the background and perturbed cosmological equations. Sec. III deals with the dynamical analysis of the combined system for the power-law and exponen-
+
+
+
+tial models. Finally, the obtained results are summarized
+
+
+with F
+
+
+≡	, F
+2
+
+2
+≡	. In the above equations ρ
+
+in Sec. IV.
+
+
+
+f (Q) COSMOLOGY
+and p are the energy density and pressure of the matter fluid, which for no interaction satisfy the conservation equation
+
+
+In this section we briefly review f (Q) cosmology. The action of f (Q) gravity is given by [33, 34]
+ρ˙ + 3H(1 + w)ρ = 0 ,	(7)
+with w	p/ρ the matter equation-of-state parameter. We can now introduce the effective, total, energy den-
+
+S = ∫  −
+ 1  16πG
+
+f (Q) + Lm
+ 	
+−g d x,	(1)
+sity ρeff and pressure peff , respectively as
+F
+ρeff ≡ ρ + 2 − QFQ ,	(8)
+
+where g is the determinant of the metric gµν and Lm
+	ρ(1 + w)		Q
+p	≡	−	,	(9)
+
+is the matter Lagrangian density. f (Q) is an arbitrary function of the non-metricity scalar [33]
+eff
+2QFQQ + FQ + 1	2
+
+1
+Q = −  Q
+Qαβγ	1
+Qγβα	1
+Qα − 1 Q
+Q˜α ,
+and thus the corresponding total equation of state weff is
+given by
+
+4 αβγ
+2 αβγ
+4  α	2  α
+p	Ω  (1 + w)
+
+where Qα ≡ Q µ
+and Q˜α ≡ Qµµα
+(2)
+are acquired from
+w	 eff
+ρeff
+=	1 + 		m	 .	(10) 2QFQQ + FQ + 1
+
+contractions of the non-metricity tensor Qαµν   αgµν .
+Thus, Symmetric Teleparallel Equivalent of General Rel-ativity, and therefore General Relativity, is recovered for f (Q) = Q.
+We mention that for an accelerated Universe one requires weff < 1 . Finally, it proves convenient to introduce the energy density parameters as
+
+Variation of action (1), and setting 8πG = 1 for sim-plicity, leads to the field equations [34, 35]:
+ρ
+Ωm = 3H2
+,	ΩQ =
+2 − QFQ
+3H2
+,	(11)
+
+  2 
+√−g ∇α
+ 	
+−ggβν fQ
+1
+− 2 L
+αµβ
++ 1 gµβ  Qα
+4
+— Q˜α 
+and thus the first Friedman equation (5) becomes simply
+Ωm + ΩQ = 1 .	(12)
+
+− 1 gαµQβ + gαβ Qµ 
++f  − 1 Lµαβ − 1 gµαQβ + gµβ Qα 
+Let us proceed to the investigation of the linear per-turbation level, focusing on the matter density contrast δ = δρ , where δρ is the perturbation of the matter en-
+
+Q	2	8
+1 αβ   µ
+˜µ 
+1 µ	µ
+ρ
+ergy density. In particular, the evolution equation of the
+matter overdensity at the quasi-static limit is given by
+
+/
+
+
+where Lα	= 1 Qα  − Q	is the disformation tensor,
+¨	˙	ρδ
+
+Tµν is the matter energy-momentum tensor, and fQ
+∂f/∂Q.
+At the background level, we assume a homoge-neous, isotropic and spatially flat Friedmann-Lemaˆıtre-Robertson-Walker (FLRW) spacetime, whose metric is of the form
+ds2 = −dt2 + a2(t)(dx2 + dy2 + dz2) ,	(4) where t is the cosmic time, a(t) is the scale factor and
+x, y, z are the Cartesian coordinates. Note that in FLRW metric, for the non-metricity scalar we obtain Q = 6H2, where H = a˙ is the Hubble function and the upper dot denotes derivative with respect to t. Imposing the split-ting f (Q) = Q + F (Q), and applying the FLRW metric, the corresponding Friedman equations are [33, 34]
+2(1 + FQ)
+where the denominator of the last term accounts for the appearance of an effective Newton’s constant. We men-tion that in the quasi-static limit the terms involving time derivatives in the perturbed equations are neglected, and only spatial derivative terms remain. It is worth men-tioning that such an approximation is sufficient at small scales, well within the cosmic horizon [88].
+
+DYNAMICAL SYSTEM ANALYSIS
+
+In this section we construct the dynamical system of the background and perturbed equations, for a general function F (Q). In this regard, we transform the equa-tions (5)-(7) and (13) into a first-order autonomous sys-
+
+3H2 = ρ + F − QF
+,	(5)
+tem, by considering the following dynamical variables:
+
+2	 F 
+1	x =	,	y = −2F
+d(ln δ)
+,	u =	.	(14)
+
+(2QFQQ + FQ + 1) H˙ +
+4 (Q + 2QFQ − F ) = −2p , (6)
+6H2
+Q	d(ln a)
+
+3
+
+
+Hence, while the variables x, y are associated with the background evolution of the Universe, the variable u quantifies the growth of matter perturbations. There-fore, u > 0 signifies the growth and u < 0 indicates the decay of matter perturbations, whenever the matter den-sity contrast δ is positive.
+The background cosmological parameters Ωm, ΩQ and
+weff can expressed as
+Ωm = 1 − x − y,
+ΩQ = x + y, 	
+QFQQ . In the following subsections we will consider two
+Q
+specific models, which are known to lead to interesting
+cosmological phenomenology.
+
+Model I: F (Q) = α  Q  n
+
+We start our analysis by considering a power-law model with [34, 58, 60]
+   Q  n
+
+weff
+(1 − x − y)(1 + w)
+2QFQQ − y + 1
+F (Q) = α
+Q0
+,	(21)
+
+2	with α and n two parameters and where Q
+= 6H2 is
+
+Now, in terms of variables (14), the cosmological equa-
+tions can be written as the following dynamical system:
+′	H˙
+x = − H2 (y + 2x) ,	(16)
+the present value of Q (note that applying the first Fried-mann equation at present, α can be eliminated in terms of n and the present value Ωm0). This model can de-scribe the late-time universe acceleration and it is also compatible with BBN constraints [65]. We mention that
+
+′	H˙
+y = 2y H2
+QFQQ
+FQ
+,	(17)
+for n = 0 this model is equivalent to the concordance ΛCDM scenario, while for n = 1 the model reduces to
+
+′	3(1 − x − y)	H˙
+the symmetric teleparallel equivalent of general relativ-
+(1−n)y
+
+u = −u(u + 2) +	(2 − y)	− H2 u ,	(18)
+ity [34, 58, 60]. In this case, we have QFQQ =	4
+and hence the system (16)-(18) closes.
+
+where a prime stands for differentiation with respect to ln a, and
+H˙	3 − 3(x + y)
+The corresponding dynamical system contains the fol-lowing four critical points:
+Point A1 (0, 0, 1):  This point corresponds to a
+
+H2 = − 4QF
+.	(19)
+— y + 2
+matter-dominated critical solution with the back-ground parameters Ωm = 1 and weff = 0. At the
+
+The physical system is a product space of the background
+phase space B, which includes the variables x, y, and the perturbed space P which consists of the variable u. Under the physical condition 0  Ωm  1, the phase space of the combined system is
+Ψ = B×P =  (x, y, u) ∈ R2 × R : 0 ≤ x + y ≤ 1} . (20)
+It is worth mentioning that the projection of orbits of the product space Ψ on space B reduces to the corresponding background orbits.
+As a next step we shall determine the dynamical evo-lution of the system by extracting its critical points and examining their stability. Physically, a stable point with u > 0 indicates an indefinite growth of matter perturba-tions and hence the system is not stable with respect to matter perturbations. However, a stable point with u < 0 indicates the decay of matter perturbations and therefore the system is asymptotically stable with respect to per-
+perturbation level we have u = 1, which implies that the matter overdensity δ varies as the scale factor a and hence increases with the universe ex-pansion. The corresponding Jacobian matrix has the eigenvalues 5 , 3 and 3 (1 n), therefore point A1 for any value of n is always a saddle one. Hence, the trajectories pass through this point and leave it as they are attracted by a late-time stable point. Thus, we conclude that this point could be the main candidate for describing the structure forma-tion during the matter domination era at both the background and perturbation levels.
+Point B1 0, 0, 3 : At the background level this point corresponds to matter domination, with Ωm = 1 and weff = 0. However, this point could not describe the formation of structures at the per-turbation level, since u =  3 , and hence the matter
+— 3
+
+overdensity δ varies as a 2 . The eigenvalues of the
+
+turbations. Finally, when u = 0 at a stable point implies
+Jacobian matrix are 5 , 3 and 3 (1 − n), and there-
+/	/
+
+that matter perturbations remain constant. In summary,	2	2
+
+for a viable model one desires to have an unstable or sad-dle point with u > 0, required for the description of the matter epoch of the universe, in which the matter pertur-bations grow but which does not hold eternally, followed by a stable late-time attractor corresponding to acceler-ation but with u = 0.
+In order to proceed to specific analysis, we need to specify the function F and hence determine the term
+fore this point is unstable for n < 1 and saddle for
+n > 1.
+The curve of critical points C1 (1 y, y, 0): Each point on this curve corresponds to a solution dom-inated by the effective dark-energy component, i.e. ΩQ = 1, in which the universe is accelerated with a cosmological-constant-like behavior, namely with weff = −1. Furthermore, at the perturbation level
+
+4
+
+
+we have u = 0, which implies that the matter perturbation remains constant. The corresponding eigenvalues are 2, 3 and 0, and since the curve is one-dimensional with one vanishing eigenvalue, it is normally hyperbolic [67], and one can determine its stability by examining the signature of the re-maining non-vanishing eigenvalues [67]. Therefore, we conclude that it is always stable. In summary, the curve C1 describes the late time dark-energy dominated Universe, at both background and per-turbation levels.
+Curve of critical points D1 (1 y, y, 2): Simi-larly to C1, this curve of critical points also corre-sponds to a cosmological-constant-like solution, i.e with weff = 1, dominated by the effective dark-energy component. Additionally, it is characterized by the decay of matter perturbations, since u = 2. However, it is saddle with eigenvalues 2, 3 and 0. Hence, unlike C1, curve D1 cannot describe a late-time dark-energy dominated Universe at the per-turbation level.
+ever, only curve C1 is physically and observationally in-teresting at the perturbation level, since it is stable and exhibits constant matter perturbations. Lastly, examin-ing for completeness whether there are critical points at infinity, we find that no such physical points exist.
+In order to give the above information in a more trans-parent way, we display the phase portrait of the system (16)-(18) in Fig. 1. As we see, the system follows the orbit B1  A1  C1. Furthermore, in Fig. 2 we present the evolution of the background parameters and the matter growth rate variable u, in terms of the redshift z = a0  1 with a0 = 1 the current scale factor. As we see, the model describes the transition from matter dom-ination towards an accelerated dark-energy dominated epoch.
+
+
+/
+
+FIG. 1. The phase portrait of the system (16)-(18), for the power-law model I of (21) with n = 0.5. This particular ex-ample exhibits the evolution B1 → A1 → C1.
+
+
+Our analysis reveals that different critical points de-scribe different modes of matter perturbations. Addition-ally, we mention that identical background critical points behave differently at the perturbation level. For instance, we showed that points A1 and B1 describe the deceler-ated matter-dominated era at the background level, but only point A1 has the correct growth of matter structure. Interestingly, point A1 is saddle and thus it provides the natural exit towards a late-time accelerated epoch. On the other hand, at late times the curves of critical points C1 and D1 are identical at the background level, describ-ing the accelerated dark-energy dominated epoch. How-
+FIG. 2. Upper graph: Evolution of the density parameters of matter Ωm and of non-metricity (dark-energy) ΩQ, as well as of the total, effective equation-of-state parameter weff , as functions of the redshift, for the power-law model I of (21) with n = 0.5. Lower graph: Evolution of the perturbation variable u = d(ln δ) .
+
+In summary, the present power-law model can describe the desired thermal history of the Universe, both at the background and perturbation levels. Our analysis indi-cates that in principle the above hold for any value of n. Nevertheless, we should mention that a tuning of initial
+
+5
+
+
+conditions is required in order to have a sufficiently long matter-dominated era.
+Finally, in order to test the predictions on the mat-ter growth with observational data, in Fig. 3 we provide the evolution of fσ8. This quantity is defined as the product of the growth rate factor, f = u = d ln δ , and the root-mean-square normalization of the matter power spectrum σ8. The value of σ8 usually depends on the model, however here we have taken σ8 = 0.8 which could alleviate the present σ8 tension between the RSD and Planck data [2]. We mention here that we have checked that for n > 0 the evolution of fσ8 coincides with that of ΛCDM scenario, namely with the case n = 0. From Fig.
+[61]. Note that applying the first Friedmann equation at present, β can be eliminated in terms of Ωm0 [61]. Additionally, since at early times Q Q0, the model tends to GR limit and hence it trivially passes the BBN constraints [61, 65].
+(x+1)2+x(y−2)+ y2 −1
+In this case we have QFQQ = 	4    , and
+therefore the dynamical system (16)-(18) has four curves of critical points. In what follows, we shall describe the properties of each curve.
+Curve of critical points A2	y , y, 1 : This curve corresponds to a matter scaling solution with Ωm =
+
+3, we observe that models with n < 0 have smaller value
+1 − y
+and weff = 0. The corresponding Jacobian
+5
+
+of fσ8, however, the data prefer comparatively larger val-ues. Hence, models with n < 0 are not favored by the data. Additionally, it is worth noting that observational data still favour n < 1 [58–60, 63]. Thus, from our anal-ysis we can conclude that the condition 0 < n < 1 is required in order to acquire consistency with observa-
+matrix has the eigenvalues 2 , 3 and 0, and thus the corresponding points are always saddle. Fur-
+thermore, since u = 1, it is implied that the matter perturbations grow, and hence the solution is of in-terest from the structure formation point of view.
+Curve of critical points B2 − y , y, − 3 : Similarly
+
+
+/ /
+
+
+FIG. 3. The evolution of fσ8 as a function of the redshift, for the power-law model I of (21), for various values of n. The data are taken from [89, 90].
+
+
+
+Model II: F (Q) = Qeβ Q0 − Q
+
+In this subsection we consider the exponential model [61]
+Q0
+F (Q) = Qe Q − Q,	(22)
+with β the only dimensionless parameter. For β = 0 the model is equivalent to GR without a cosmological constant, however the interesting feature is that for β = 0 this model can fit observations in a very satisfactory way, although it does not include a cosmological constant
+to A2, this curve corresponds to a matter scaling solution. However, since u < 0, we deduce that the matter perturbations decay and therefore it can-not describe the growth of structures during the matter-dominated epoch. It corresponds to an un-stable node with eigenvalues 5 , 3 and 0.
+
+
+FIG. 4. The phase portrait of the system (16)-(18), for the exponential model II of (22). This particular example exhibits the evolution B2 → A2 → C2.
+
+Curves of critical points C2 (1 y, y, 0) and D2 (1 y, y, 2): Both these curves correspond to ac-celerated solutions, dominated by the non-metricity component. The stability and cosmological proper-ties of curves C2 and D2 are exactly the same with the curves C1 and D1. Finally, we find that only C2 is interesting for the late-time universe at the perturbation level.
+
+6
+
+‘	not possess a ΛCDM limit for any parameter choice, the
+corresponding dynamics is qualitatively similar with that of ΛCDM (see Fig. 5). Hence, since the model is free from the cosmological constant problem, it may be con-sidered as slightly preferred over the ΛCDM scenario, constituting an interesting alternative.
+Finally, in Fig. 6 we investigate the evolution of fσ8, using σ8 = 0.7. As we observe, the behavior is compa-rable with that of ΛCDM paradigm. In summary, the unified dynamical system analysis confirms the observa-tional investigation at background and perturbation lev-els performed in [61, 63].
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/
+
+
+FIG. 5. Upper graph: Evolution of the density parame-ters of matter Ωm and of non-metricity (dark-energy) ΩQ, as well as of the total, effective equation-of-state parameter weff , as functions of the redshift, for the exponential model II of (22). Lower graph: Evolution of the perturbation variable
+d(ln δ)
+d(ln a)
+
+
+Similarly to Model I of the previous subsection, we see that the inclusion of perturbations distinguishes crit-ical points that are equivalent at the background level. Hence, from the combined background and perturbation analysis we find that only curve A2 is physically inter-esting to describe the matter-dominated epoch, where matter perturbations are generated. On the other hand, curve C2 corresponds to late-time dark-energy domina-tion, with a fixed evolution of matter perturbations, as observations require. Lastly, for this model we also find no critical points at infinity.
+In Fig. 4 we present the phase-space evolution, describ-ing the transition B2  A2  C2. Furthermore, in Fig. 5 we depict the evolution of the background cosmological parameters and the growth rate u, where we observe the transition from matter domination towards a late-time dark-energy dominated epoch. As we mentioned above, it is interesting that even though the present model does
+FIG. 6. The evolution of fσ8 as a function of the redshift, for the exponential model II of (22). The data are taken from [89, 90].
+
+
+
+CONCLUSIONS
+
+Motivated by the fact that cosmological models based on f (Q) gravity are very efficient in fitting observa-tional datasets at both background and perturbation lev-els [61, 63], in the present work we performed a combined dynamical system analysis of both background and per-turbation equations in order to examine the validity of this result through an independent method.
+After transforming the background and perturbation equations into an autonomous system, we focused on two studied f (Q) models of the literature, namely the power-law and the exponential ones. Due to the extra variable related to matter perturbations, each background criti-cal point split into two points, characterized by different behavior of matter perturbations and stability.
+Concerning the power-law model, we obtained a matter-dominated saddle point characterized by the cor-rect growth rate of matter perturbations, followed by the transition to a stable dark-energy dominated accelerated
+
+7
+
+
+universe in which matter perturbations remain constant. Furthermore, we studied the growth of matter perturba-tions by analyzing the behavior of fσ8, and we found that the model fits observational data successfully if the ex-ponent lies within 0 < n < 1, in which case we obtained a behavior similar to that of ΛCDM scenario.
+Concerning the exponential model, we also found curves of points corresponding to matter domination and matter perturbation growth, and the fact that they are saddle provides a successful transition to the stable late-time dark-energy dominated solution with constant mat-ter perturbations. The interesting feature of this model is that this desired behavior is obtained although the model does not possess ΛCDM scenario as a particular limit, namely, it arises solely from the non-metricity structure. Additionally, we found that while the power-law model resembles ΛCDM cosmology for n < 1, the exponential model resembles the latter for any choice of the model parameter.
+In summary, the combined dynamical analysis at the background and perturbation levels do verify the results of observational confrontation, showing through an in-dependent way that f (Q) gravity, and specifically, the exponential model can be considered as a very promising alternative to ΛCDM concordance model.
+
+ACKNOWLEDGMENTS
+
+JD was supported by the Core Research Grant of SERB, Department of Science and Technology India (File No. CRG /2018/001035) and the Associate program of IUCAA. This work is partially supported by the Ministry of Education and Science of the Republic of Kazakhstan, Grant AP08856912. ENS also acknowledge participation in the COST Association Action CA18108 “Quantum Gravity Phenomenology in the Multimessenger Approach (QG-MM)”.
+
+
+/
+
+
+A. Addazi et al., “Quantum gravity phenomenology at the dawn of the multi-messenger era—A review,” Prog. Part. Nucl. Phys. 125, 103948 (2022), arXiv:2111.05659
+[hep-ph].
+Elcio Abdalla et al., “Cosmology intertwined: A re-view of the particle physics, astrophysics, and cosmology associated with the cosmological tensions and anoma-lies,” JHEAp 34, 49–211 (2022), arXiv:2203.06142 [astro-ph.CO].
+Jerome Martin, “Everything You Always Wanted To Know About The Cosmological Constant Problem (But Were Afraid To Ask),” Comptes Rendus Physique 13, 566–665 (2012), arXiv:1205.3365 [astro-ph.CO].
+Wendy L. Freedman, “Cosmology at a Crossroads,” Na-ture Astron. 1, 0121 (2017), arXiv:1706.02739 [astro-ph.CO].
+E. Lusso, E. Piedipalumbo, G. Risaliti, M. Paolillo,
+S. Bisogni, E. Nardini, and L. Amati, “Tension with the flat ΛCDM model from a high-redshift Hubble dia-gram of supernovae, quasars, and gamma-ray bursts,” Astron. Astrophys. 628, L4 (2019), arXiv:1907.07692 [astro-ph.CO].
+Weikang Lin, Katherine J. Mack, and Liqiang Hou, “In-vestigating the Hubble Constant Tension – Two Num-bers in the Standard Cosmological Model,” Astrophys. J. Lett. 904, L22 (2020), arXiv:1910.02978 [astro-ph.CO].
+Leandros Perivolaropoulos and Foteini Skara, “Chal-lenges for ΛCDM: An update,” (2021), arXiv:2105.05208 [astro-ph.CO].
+Emmanuel N. Saridakis et al. (CANTATA), “Modified Gravity and Cosmology: An Update by the CANTATA Network,” (2021), arXiv:2105.12582 [gr-qc].
+Salvatore Capozziello and Mariafelicia De Laurentis, “Extended Theories of Gravity,” Phys. Rept. 509, 167–321 (2011), arXiv:1108.6266 [gr-qc].
+Timothy Clifton, Pedro G. Ferreira, Antonio Padilla, and Constantinos Skordis, “Modified Gravity and Cos-mology,” Phys. Rept. 513, 1–189 (2012), arXiv:1106.2476 [astro-ph.CO].
+Yi-Fu Cai, Salvatore Capozziello, Mariafelicia De Lau-rentis, and Emmanuel N. Saridakis, “f(T) teleparallel gravity and cosmology,” Rept. Prog. Phys. 79, 106901 (2016), arXiv:1511.07586 [gr-qc].
+Edmund J. Copeland, M. Sami, and Shinji Tsujikawa, “Dynamics of dark energy,” Int. J. Mod. Phys. D 15, 1753–1936 (2006), arXiv:hep-th/0603057.
+Austin Joyce, Lucas Lombriser, and Fabian Schmidt, “Dark Energy Versus Modified Gravity,” Ann. Rev. Nucl. Part. Sci. 66, 95–122 (2016), arXiv:1601.06133 [astro-ph.CO].
+Yi-Fu Cai, Emmanuel N. Saridakis, Mohammad R. Setare, and Jun-Qing Xia, “Quintom Cosmology: Theo-retical implications and observations,” Phys. Rept. 493, 1–60 (2010), arXiv:0909.2776 [hep-th].
+Alexei A. Starobinsky, “A New Type of Isotropic Cosmo-logical Models Without Singularity,” Phys. Lett. B 91, 99–102 (1980).
+Salvatore Capozziello, “Curvature quintessence,” Int. J. Mod. Phys. D 11, 483–492 (2002), arXiv:gr-qc/0201033.
+Antonio De Felice and Shinji Tsujikawa, “f(R) theories,” Living Rev. Rel. 13, 3 (2010), arXiv:1002.4928 [gr-qc].
+Ignatios Antoniadis, J. Rizos, and K. Tamvakis, “Sin-gularity - free cosmological solutions of the superstring effective action,” Nucl. Phys. B 415, 497–514 (1994), arXiv:hep-th/9305025.
+Shin’ichi Nojiri and Sergei D. Odintsov, “Modified Gauss-Bonnet theory as gravitational alternative for dark energy,” Phys. Lett. B 631, 1–6 (2005), arXiv:hep-th/0508049.
+Antonio De Felice and Shinji Tsujikawa, “Construction of cosmologically viable f(G) dark energy models,” Phys. Lett. B 675, 1–8 (2009), arXiv:0810.5712 [hep-th].
+Cristian Erices, Eleftherios Papantonopoulos, and Em-manuel N. Saridakis, “Cosmology in cubic and f (P ) grav-ity,” Phys. Rev. D 99, 123527 (2019), arXiv:1903.11128
+[gr-qc].
+Mihai Marciu, “Note on the dynamical features for the extended f (P ) cubic gravity,” Phys. Rev. D 101, 103534
+
+8
+
+
+(2020), arXiv:2003.06403 [gr-qc].
+Jose Beltra´n Jim´enez and Alejandro Jim´enez-Cano, “On the strong coupling of Einsteinian Cubic Gravity and its generalisations,” JCAP 01, 069 (2021), arXiv:2009.08197 [gr-qc].
+Gregory Walter Horndeski, “Second-order scalar-tensor field equations in a four-dimensional space,” Int. J. Theor. Phys. 10, 363–384 (1974).
+C. Deffayet, Gilles Esposito-Farese, and A. Vikman, “Covariant Galileon,” Phys. Rev. D 79, 084003 (2009), arXiv:0901.1314 [hep-th].
+Gabriel R. Bengochea and Rafael Ferraro, “Dark torsion as the cosmic speed-up,” Phys. Rev. D 79, 124019 (2009), arXiv:0812.1205 [astro-ph].
+Georgios Kofinas and Emmanuel N. Saridakis, “Telepar-allel equivalent of Gauss-Bonnet gravity and its modifica-tions,” Phys. Rev. D 90, 084044 (2014), arXiv:1404.2249
+[gr-qc].
+Georgios Kofinas, Genly Leon, and Emmanuel N. Sari-dakis, “Dynamical behavior in f (T, TG) cosmology,” Class. Quant. Grav. 31, 175011 (2014), arXiv:1404.7100 [gr-qc].
+Georgios Kofinas and Emmanuel N. Saridakis, “Cosmo-logical applications of F (T, TG) gravity,” Phys. Rev. D 90, 084045 (2014), arXiv:1408.0107 [gr-qc].
+Sebastian Bahamonde, Christian G. Bo¨hmer, and Matthew Wright, “Modified teleparallel theories of grav-ity,” Phys. Rev. D 92, 104042 (2015), arXiv:1508.05120
+[gr-qc].
+Sebastian Bahamonde and Salvatore Capozziello, “Noether Symmetry Approach in f (T, B) telepar-allel cosmology,” Eur. Phys. J. C 77, 107 (2017), arXiv:1612.01299 [gr-qc].
+Chao-Qiang Geng, Chung-Chi Lee, Emmanuel N. Sari-dakis, and Yi-Peng Wu, ““Teleparallel” dark energy,” Phys. Lett. B 704, 384–387 (2011), arXiv:1109.1092 [hep-
+th].
+Jose Beltra´n Jim´enez, Lavinia Heisenberg, and Tomi Koivisto, “Coincident General Relativity,” Phys. Rev. D 98, 044048 (2018), arXiv:1710.03116 [gr-qc].
+Jose Beltra´n Jim´enez, Lavinia Heisenberg, Tomi Se-bastian Koivisto, and Simon Pekar, “Cosmology in f (Q) geometry,” Phys. Rev. D 101, 103507 (2020), arXiv:1906.10027 [gr-qc].
+Konstantinos F. Dialektopoulos, Tomi S. Koivisto, and Salvatore Capozziello, “Noether symmetries in Symmet-ric Teleparallel Cosmology,” Eur. Phys. J. C 79, 606 (2019), arXiv:1905.09019 [gr-qc].
+Francesco Bajardi, Daniele Vernieri, and Salvatore Capozziello, “Bouncing Cosmology in f(Q) Symmetric Teleparallel Gravity,” Eur. Phys. J. Plus 135, 912 (2020), arXiv:2011.01248 [gr-qc].
+Kai Flathmann and Manuel Hohmann, “Post-Newtonian limit of generalized symmetric teleparallel gravity,” Phys. Rev. D 103, 044030 (2021), arXiv:2012.12875 [gr-qc].
+Sanjay Mandal, Deng Wang, and P. K. Sahoo, “Cos-mography in f (Q) gravity,” Phys. Rev. D 102, 124029 (2020), arXiv:2011.00420 [gr-qc].
+Fabio D’Ambrosio, Mudit Garg, and Lavinia Heisen-berg, “Non-linear extension of non-metricity scalar for MOND,” Phys. Lett. B 811, 135970 (2020),
+arXiv:2004.00888 [gr-qc].
+Sanjay Mandal, P. K. Sahoo, and J. R. L. Santos, “En-ergy conditions in f (Q) gravity,” Phys. Rev. D 102,
+024057 (2020), arXiv:2008.01563 [gr-qc].
+N. Dimakis, A. Paliathanasis, and T. Christodoulakis, “Quantum cosmology in f(Q) theory,” Class. Quant. Grav. 38, 225003 (2021), arXiv:2108.01970 [gr-qc].
+Yu Nakayama, “Weyl transverse diffeomorphism invari-ant theory of symmetric teleparallel gravity,” Class. Quant. Grav. 39, 145006 (2022), arXiv:2108.10465 [gr-
+qc].
+Wompherdeiki Khyllep, Andronikos Paliathanasis, and Jibitesh Dutta, “Cosmological solutions and growth in-dex of matter perturbations in f (Q) gravity,” Phys. Rev. D 103, 103521 (2021), arXiv:2103.08372 [gr-qc].
+Manuel Hohmann, “General covariant symmetric telepar-allel cosmology,” Phys. Rev. D 104, 124077 (2021), arXiv:2109.01525 [gr-qc].
+Wenyi Wang, Hua Chen, and Taishi Katsuragawa, “Static and spherically symmetric solutions in f(Q) grav-ity,” Phys. Rev. D 105, 024060 (2022), arXiv:2110.13565
+[gr-qc].
+Israel Quiros, “Nonmetricity theories and aspects of gauge symmetry,” Phys. Rev. D 105, 104060 (2022), arXiv:2111.05490 [gr-qc].
+Jos´e Ferreira, Tiago Barreiro, Jos´e Mimoso, and Nelson J. Nunes, “Forecasting F (Q) cosmology with ΛCDM background using standard sirens,” (2022), arXiv:2203.13788 [astro-ph.CO].
+Raja Solanki, Avik De, and P. K. Sahoo, “Complete dark energy scenario in f (Q) gravity,” Phys. Dark Univ. 36, 100996 (2022), arXiv:2203.03370 [gr-qc].
+Avik De, Sanjay Mandal, J. T. Beh, Tee-How Loo, and
+P. K. Sahoo, “Isotropization of locally rotationally sym-metric Bianchi-I universe in f (Q)-gravity,” Eur. Phys. J. C 82, 72 (2022), arXiv:2201.05036 [gr-qc].
+Raja Solanki, S. K. J. Pacif, Abhishek Parida, and P. K. Sahoo, “Cosmic acceleration with bulk viscosity in mod-ified f(Q) gravity,” Phys. Dark Univ. 32, 100820 (2021), arXiv:2105.00876 [gr-qc].
+Salvatore Capozziello and Rocco D’Agostino, “Model-independent reconstruction of f(Q) non-metric gravity,” Phys. Lett. B 832, 137229 (2022), arXiv:2204.01015 [gr-
+qc].
+S. A. Narawade, Laxmipriya Pati, B. Mishra, and S. K. Tripathy, “Dynamical system analysis for accelerating models in non-metricity f(Q) gravity,” Phys. Dark Univ. 36, 101020 (2022), arXiv:2203.14121 [gr-qc].
+N. Dimakis, A. Paliathanasis, M. Roumeliotis, and
+T. Christodoulakis, “FLRW solutions in f (Q) the-ory: the effect of using different connections,” (2022), arXiv:2205.04680 [gr-qc].
+Inˆes S. Albuquerque and Noemi Frusciante, “A designer approach to f(Q) gravity and cosmological implications,” Phys. Dark Univ. 35, 100980 (2022), arXiv:2202.04637
+[astro-ph.CO].
+Simran Arora and P. K. Sahoo, “Crossing phantom di-vide in f (Q) gravity,” (2022), 10.1002/andp.202200233, arXiv:2206.05110 [gr-qc].
+Laxmipriya Pati, S. A. Narawade, S. K. Tripathy, and B. Mishra, “Scalar perturbations in a class of ex-tended symmetric teleparallel gravity models,” (2022), arXiv:2206.11928 [gr-qc].
+Ismail Soudi, Gabriel Farrugia, Viktor Gakis, Jackson Levi Said, and Emmanuel N. Saridakis, “Polarization of gravitational waves in symmetric teleparallel theories of gravity and their modifications,” Phys. Rev. D 100,
+
+9
+
+
+044008 (2019), arXiv:1810.08220 [gr-qc].
+Ruth Lazkoz, Francisco S. N. Lobo, Mar´ıa Ortiz-Ban˜os, and Vincenzo Salzano, “Observational con-straints of f (Q) gravity,” Phys. Rev. D 100, 104027 (2019), arXiv:1907.13219 [gr-qc].
+Bruno J. Barros, Tiago Barreiro, Tomi Koivisto, and Nelson J. Nunes, “Testing F (Q) gravity with redshift space distortions,” Phys. Dark Univ. 30, 100616 (2020), arXiv:2004.07867 [gr-qc].
+Ismael Ayuso, Ruth Lazkoz, and Vincenzo Salzano, “Observational constraints on cosmological solutions of f (Q) theories,” Phys. Rev. D 103, 063505 (2021), arXiv:2012.00046 [astro-ph.CO].
+Fotios K. Anagnostopoulos, Spyros Basilakos, and Em-manuel N. Saridakis, “First evidence that non-metricity f(Q) gravity could challenge ΛCDM,” Phys. Lett. B 822, 136634 (2021), arXiv:2104.15123 [gr-qc].
+Sanjay Mandal and P. K. Sahoo, “Constraint on the equation of state parameter (ω) in non-minimally cou-pled f (Q) gravity,” Phys. Lett. B 823, 136786 (2021), arXiv:2111.10511 [gr-qc].
+Lu´ıs Atayde and Noemi Frusciante, “Can f (Q) gravity challenge ΛCDM?” Phys. Rev. D 104, 064052 (2021), arXiv:2108.10832 [astro-ph.CO].
+Noemi Frusciante, “Signatures of f (Q)-gravity in cosmol-ogy,” Phys. Rev. D 103, 044021 (2021), arXiv:2101.09242
+[astro-ph.CO].
+Fotios K. Anagnostopoulos, Viktor Gakis, Emmanuel N. Saridakis, and Spyros Basilakos, “New models and Big Bang Nucleosynthesis constraints in f (Q) gravity,” (2022), arXiv:2205.11445 [gr-qc].
+John Wainwright and George F. R. Ellis, Dynamical Sys-tems in Cosmology (Cambridge University Press (Cam-bridge), 1997).
+A. A. Coley, Dynamical systems and cosmology (Kluwer, Dordrecht, Netherlands, 2003).
+Sebastian Bahamonde, Christian G. Bo¨hmer, Sante Car-loni, Edmund J. Copeland, Wei Fang, and Nicola Tamanini, “Dynamical systems applied to cosmology: dark energy and modified gravity,” Phys. Rept. 775-777, 1–122 (2018), arXiv:1712.03107 [gr-qc].
+Edmund J. Copeland, Andrew R Liddle, and David Wands, “Exponential potentials and cosmological scaling solutions,” Phys. Rev. D 57, 4686–4690 (1998), arXiv:gr-qc/9711068.
+Yungui Gong, Anzhong Wang, and Yuan-Zhong Zhang, “Exact scaling solutions and fixed points for gen-eral scalar field,” Phys. Lett. B 636, 286–292 (2006), arXiv:gr-qc/0603050.
+M. R. Setare and E. N. Saridakis, “Quintom dark energy models with nearly flat potentials,” Phys. Rev. D 79, 043005 (2009), arXiv:0810.4775 [astro-ph].
+Tonatiuh Matos, Jose-Ruben Luevano, Israel Quiros,
+L. Arturo Urena-Lopez, and Jose Alberto Vazquez, “Dynamics of Scalar Field Dark Matter With a Cosh-like Potential,” Phys. Rev. D 80, 123521 (2009), arXiv:0906.0396 [astro-ph.CO].
+Edmund J. Copeland, Shuntaro Mizuno, and Maryam Shaeri, “Dynamics of a scalar field in Robertson-Walker spacetimes,” Phys. Rev. D 79, 103515 (2009), arXiv:0904.0877 [astro-ph.CO].
+Yoelsy Leyva, Dania Gonzalez, Tame Gonzalez, Tonatiuh Matos, and Israel Quiros, “Dynamics of a self-interacting scalar field trapped in the braneworld for a wide variety
+of self-interaction potentials,” Phys. Rev. D 80, 044026 (2009), arXiv:0909.0281 [gr-qc].
+Genly Leon and Emmanuel N. Saridakis, “Dynam-ics of the anisotropic Kantowsky-Sachs geometries in Rn gravity,” Class. Quant. Grav. 28, 065008 (2011), arXiv:1007.3956 [gr-qc].
+L. Arturo Urena-Lopez, “Unified description of the dy-namics of quintessential scalar fields,” JCAP 03, 035 (2012), arXiv:1108.4712 [astro-ph.CO].
+Genly Leon, Joel Saavedra, and Emmanuel N. Sari-dakis, “Cosmological behavior in extended nonlinear massive gravity,” Class. Quant. Grav. 30, 135001 (2013), arXiv:1301.7419 [astro-ph.CO].
+Carlos R. Fadragas, Genly Leon, and Emmanuel N. Sari-dakis, “Dynamical analysis of anisotropic scalar-field cos-mologies for a wide range of potentials,” Class. Quant. Grav. 31, 075018 (2014), arXiv:1308.1658 [gr-qc].
+Maria A. Skugoreva, Emmanuel N. Saridakis, and Alexey V. Toporensky, “Dynamical features of scalar-torsion theories,” Phys. Rev. D 91, 044023 (2015), arXiv:1412.1502 [gr-qc].
+Jibitesh Dutta, Wompherdeiki Khyllep, and Nicola Tamanini, “Cosmological dynamics of scalar fields with kinetic corrections: Beyond the exponential potential,” Phys. Rev. D 93, 063004 (2016), arXiv:1602.06113 [gr-
+qc].
+Jibitesh Dutta, Wompherdeiki Khyllep, and Nicola Tamanini, “Scalar-Fluid interacting dark energy: cos-mological dynamics beyond the exponential potential,” Phys. Rev. D 95, 023515 (2017), arXiv:1701.00744 [gr-
+qc].
+Hmar Zonunmawia, Wompherdeiki Khyllep, Jibitesh Dutta, and Laur Ja¨rv, “Cosmological dynamics of brane gravity: A global dynamical system perspective,” Phys. Rev. D 98, 083532 (2018), arXiv:1810.03816 [gr-qc].
+Wompherdeiki Khyllep and Jibitesh Dutta, “Cosmologi-cal dynamics and bifurcation analysis of the general non-minimal coupled scalar field models,” Eur. Phys. J. C 81, 774 (2021), arXiv:2102.04744 [gr-qc].
+Spyros Basilakos, Genly Leon, G. Papagiannopoulos, and Emmanuel N. Saridakis, “Dynamical system analy-sis at background and perturbation levels: Quintessence in severe disadvantage comparing to ΛCDM,” Phys. Rev. D 100, 043524 (2019), arXiv:1904.01563 [gr-qc].
+Artur Alho, Claes Uggla, and John Wainwright, “Perturbations of the Lambda-CDM model in a dy-namical systems perspective,” JCAP 09, 045 (2019), arXiv:1904.02463 [gr-qc].
+Ricardo G. Landim, “Cosmological perturbations and dynamical analysis for interacting quintessence,” Eur. Phys. J. C 79, 889 (2019), arXiv:1908.03657 [gr-qc].
+Wompherdeiki Khyllep, Jibitesh Dutta, Spyros Basi-lakos, and Emmanuel N. Saridakis, “Background evolu-tion and growth of structures in interacting dark energy scenarios through dynamical system analysis,” Phys. Rev. D 105, 043511 (2022), arXiv:2111.01268 [gr-qc].
+Yong-Seon Song, Wayne Hu, and Ignacy Sawicki, “The Large Scale Structure of f(R) Gravity,” Phys. Rev. D 75, 044004 (2007), arXiv:astro-ph/0610532.
+Bryan Sagredo, Savvas Nesseris, and Domenico Sapone, “Internal Robustness of Growth Rate data,” Phys. Rev. D 98, 083543 (2018), arXiv:1806.10822 [astro-ph.CO].
+Lavrentios Kazantzidis and Leandros Perivolaropoulos, “Evolution of the fσ8 tension with the Planck15/ΛCDM
+
+10
+
+determination and implications for modified gravity the-	ories,” Phys. Rev. D 97, 103503 (2018), arXiv:1803.01337
+[astro-ph.CO].
+
+
+Cosmology, Physics, and Philosophy
+
+
+
+Cosmology, Physics, and Philosophy
+
+
+Benjamin Gal-Or
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Springer Science+Business Media, LLC
+
+
+
+
+
+
+
+
+
+First Printing 1981
+Second Printing 1983
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&njamin Gal-Or
+Technion — Israel Institute of Technology, Haifa, Israel
+
+o Benjamin Gal-Or 1981, 1983
+Softcover reprint of the hardcover 1st edition 1983
+
+All rights reserved. No part of this publication may be reproduced or transmitted, in any form or by any means, without permission.
+
+
+
+
+
+
+Library of Congress Cataloging in Publication Data
+
+Gal-Or, &njamin.
+Cosmology, physics, and philosophy.
+(Recent advances as a core curriculum course; v. 1) Includes index.
+Physics — Philosophy.	2. Cosmology.	I. Title.
+II. Series.
+
+QC6.2.G34
+
+With 61 illustrations.
+530‘.01	81-5257
+AACR2
+
+
+ISBN 978-1-4757-1151-6	ISBN 978-1-4757-1149-3 (eBook) DOI 10.1007/978-1-4757-1149-3
+
+
+
+
+
+
+
+
+
+To Leah, Amir, Gillad, David, Yelti and To-vi.
+
+
+
+
+
+
+
+
+
+
+TABLE OF CONTENTS
+
+Sir Karl Popper: Foreword Sir Alan Cottrell: Foreword Preface
+
+VOLUME I
+Relativistic cosmology vs. modified concepts in physics and philosophy • The problem of ordering o How did it all start? • The first seven stages •	2
+The Einsteinian methodology • The withdrawal of philosophy from physics e The greatest ambition of physics o Unified field theories • Physico-philo-sophical gains o The expanding universe • The 1977 “Aether drift” discovery
+Verification of physical laws by astronomy and astrophysics o Einstein's classification of physical theories •	11
+Economy of physical laws o Search for higher symmetries and asymmetries o Unified theories and quantum chromody namics o Gravitism • Cosmology and physics o Gravitation—structure—life • Gravitational selection • Grav-itation, life and evolution • Valid philosophies and Popper o Task of philos-
+ophy • The skeptic's outlook e	26
+PART I
+Preliminary Concepts
+Lecture I
+
+Fr‹an Terrestrial Gravitational Structures To Black Holes arm Neutrinos in Astro-
+
+/
+Terminology and a ‘word of caution • The hierarchy of structures • The main galactic structures • Gravitation, asymmetry and structure • Gravilationally — induced sedimentation, crystallisation, viruses, metamorphism, etc. •
+Stellar structures • Main—sequence, supergiant and neutron stars o Supernovae and pulsars o Gravitational clocks o X-ray astronomy and binary sources • Black holes and violently active galaxies o Gas, dust and formation of stars o Cosmic distances measurement • Cephei stars e Neutrino astronomy • Gamma-ray astronomy • Unmanned spacecrafts exploring the universe .
+
+74
+
+75
+
+88
+
+116
+
+Lecture II
+From “Conservation” in Classical Physics to Solitons in Particle Physics
+What is conservation? • Micro-vs. macro-analyses e Limitations of theory • The general macroscopic equation e Continuity and momentum equation • Energy equation and dissipation o Entropy balance equation
+Beyond classical physics: Solitons, Antisolitons and conservation • Solitons in biophysics •
+Conservation in subatomic processes • The discovery of the neutrino •
+
+Lecture III
+From General Relativity and Relativistic Cosmology io Gauge Theories Introduction • Einstein field equations o Principle of equivalence e Confirma-tions of Einstein's theory •
+Preliminary formulations in general relativity e Metric tensor and affine connec-tion • Newtonian limit • The Energy —momentum tensor • Weak static iields • Master arrow of time e Mathematical derivations o Cosmological models o Age
+
+136
+
+136
+160
+163
+
+
+166
+
+166
+
+and fate of the universe o Accelerated observers and principle of equivalence • . .	181 Unified field theories: Solitons, instanton and gauge fields • Spin-2 graviton and
+
+gauge fields o Supergravity and spin-3/ 2 gravitino o The skeptic's view •
+
+
+PART II
+From Physics To Philosophical Crossroads and Back
+
+Lecture IY
+The Arrows of Time
+Asymmetry—symmetry —space—time and the unification of the laws of physics o Confusing concepts of time and asymmetry • The entropic asymmetry • Causality and causation • Determinism in relativity o Light cones • Cosmological asym-metries o Time-reversal in variance • Subatomic asymmetries o Symmetry break-ing •
+The death of scale—based physics • Quantum geometrodynamics • Superspace
+Failure of time • Tachyons and macro—causality •
+Memory in classical physics e False entropy • Entropy—free thermodynam-ics o
+
+Lecture V
+The Crisis in Quantum Physics.
+Preliminary review o Gravitation and quantum physics e The three main schools of thought • Controversies over “uncertainty” and complementary “principles” o Recent physico—philosophical conclusions about the state of determinism and chance • The heresy of a few skeptics • M ythologized concepts in physics •
+The failure of quantum physics to deduce irreversibility and asymmetry • Differen-tial equations, initial and boundary conditions, and physical laws o
+Quantum chromodynamics and super-symmetry o Weinberg-Salam Theory • Renormalizable gauge theories and supergravity o Quarks, gluons, color, and the search for higher symmetry principles
+205
+
+
+
+
+
+
+
+
+214
+
+
+
+
+215
+242
+247
+
+
+254
+
+
+255
+267
+
+272
+
+
+
+
+
+Lecture VI
+PART III
+From Physics to Cosmological Crossroads and Back
+
+Comiology, Physics and Philosophy
+Reduc•lon of thermodynamics to gravitation • Gravitation as a super  asymmetry o The earliest asymmetry • Classification of expanding spaces • Gravitation — asymmetry principle of equivalence o Unsaturable spaces • Derivation ot’ the Master asymmetry from gravitation theories • I rreversibility in t he new t licor y • The origin of all dissipation • .
+Terrestrial thermophysics • Connections with classical and continu um t hermo-physics • Electromagnetic irreversibility and the Master asymmetry o
+
+Lecture VII
+Cosmological Origin of Time and Evolution .
+Time: the all-embracing concept • Newton's Laws revisited • Origin of structure and evolution • Biogravitism and cell division • Energy outflow into unsaturable space • Stellar and terrestial evolutions ...
+Some open questions • Time violations • Master asymmetry
+
+Lecture VIII
+Black Holes and the Unification of Asymmetries
+Introduction • Observational evidence • Sch warzchild solution of the field eg na-tions o Cygnus X-1 • Event horizons • Black —hole physics and entropy • “Evaporation” of black holes • Primordial black holes'? o Back to unified asym-metries
+
+
+
+PART IV
+Beyond Present Knowledge
+
+Lecture IX
+Havayism—The Science of the Whole
+The futile quest for final answers • An example in Rri i'‹i i i.vni o The intercon nected-ness of Hava yu u I mpossibility of biotic evolution o G ravitati on and geochemical evolution • Scale of biotic evolution • Generation of biomonomers o Gravita-tion and organisation o Biological clocks • Philosophy of biol ogy • Asymmetry and memory o
+Brain and ordering of space and time o Depth perception • The failure of cyber-netics and information theory o Innate depth perception and gravitation o Lan-guage, thinking and asymmetry • Thinking, structure and complexity • Spinozism
+From reason to Kant and back •  Fichte, Hegel, Kant and Spinoza e Positivism
+Mach, Popper and Einstein •  Dialectical gravitism
+Beyond present physics o Solitons and instantons in vacuum gauge fields o Pre-geomet ry o Quantum chromodynamics o Unified gauge field s o Skepticism and the skeptic outlook
+277
+
+
+
+277
+
+299
+
+
+
+308
+
+
+324
+326
+
+
+
+329
+
+
+
+330
+
+
+
+
+
+
+
+
+
+348
+
+
+
+
+349
+
+
+
+
+367
+
+
+406
+
+
+
+
+Introduction
+VOLUME II
+Critique of Western Thought
+
+
+
+
+420
+
+Crisis as constructive catalyst? o Our universities: Are they adequate? o A proper time to teasses priorities? o Militarism, pacifism and the Einsteinian ethics • Academe, power and survival • The political philosophy of Spinoza • Why higher education has failed • .
+The case for elitism and excellence o Politlcs in science • The need for philosophy in a time of crisis • H istoricism vs. theoretical ph ysics • .
+Appendix I	(Lecture  X)
+A Few Historical Remarks on Time, Mind and Symmetry
+Symmetry at the dawn of science • Time, mind and order in Hebrew and Greek antiquity • Subjective time and causality •
+Appendix I I	(Lecture XI)
+The Philosophy of Time & Change: Some Historical Notions
+Heraclitus and Plato • Macro-evolution and historicism • Spencer o Doomsday theones (Spengler and Toynbee) e Dialectical materialism and historicism e
+
+
+
+420
+
+430
+
+
+437
+
+438
+
+
+455
+
+Global interdependence e Global economics and low-entropy energy resources o	456
+
+
+Appendix II I	(Lecture  XII)
+Structuraliw and the Divided American Thought
+Chauncy Wright • Pragmatism o Operationalism e Logical positivism o Preoc-cupation with the analysis of language o Wittgenstein • Vienna Ct rcle • Struc-turali sm e
+Appendix IV	(Lecture XIll)
+
+
+467
+
+
+467
+
+
+Policy and Publicity: A Critique
+	
+	483
+	
+	Erosion of quality and abstract thinking • Scientists as laymen o Destruction selectivity o Decision-making o Words, deeds and critics • U nity and ideology Science and the media • A vested interest in publications? • Time and policy
+Unfunded discoveries •
+	of o
+•
+	
+
+
+484
+	
+	
+
+Appendix V
+Thought-Provoking and Thought-Depressing Quotations
+Appendix V1  (Lecture XIV)
+Critique of Western Methodology
+The decline of intelligentsia • The search for a methodology e The Einsteinian methodology vs. skepticism • Ecology and interconnected thinking •
+Index
+
+
+495
+
+
+502
+
+502
+508
+
+
+
+
+
+
+
+
+
+FOREW ORD I
+by
+Sir Karl Popper
+
+This is a great book, and an exciting book. I say so even though I happen to dis-agree with the author in many minor points and one or two major points. Some of the minor points are merely terminological, and therefore very minor. I dislike the term ‘dialectic’, because of its use since Hegel and Marx; and I dislike the term ‘gravitism’, perhaps without a good reason. Thus I dislike the name which Prot'essor Gal-Or has given to his theory. But the theory seems to me a great and a very beauti-ful theory, so far as I can judge. Other minor points of disagreement are connected with Gal-Or’s original and remarkable views of the great philosophers, including Spinoza and Kant. A major point of disagreement is that Gal-Or, following Einstein, is a scientific determinist, while I cannot but regard determinism as a modern super-stition. Of course, he may be right and I may be completely mistaken.
+I mention these critical points rather in order to emphasize how strongly I am impressed by Professor Gal-Or’s great book. Even in the very unlikely case that, wherever we disagree, he should be in the wrong and I right, even if that should be the case (which is improbable in the extreme), it would remain a great book: readable, worth reading and enlightening; with a most fascinating cosmological story of time, expansion, and gravitation.
+
+
+
+
+
+
+
+
+
+FOREWORD II
+
+Sir Alan Cottrell
+
+For several years Professor Gal-Or has devoted himself to the physics of time and especially to the question of time's arrow. This has taken him into many far-flung branches of science, such as cosmology, thermodynamics, elementary particle physics, physiology and psychology.
+He has now brought together in this fascinating and highly original book his considered views on these and related topics. His net is widely cast—it even reaches as far as science policy and political philosophy—but it is centred mainly round the Einsteinian view of space, time and matter, and the explanation of the directionality of time in terms of cosmological processes. The book thus provides a most stimulat-ing survey of a large area of modern physical science and the reader can study in it many subjects, such as astrophysics, fluid mechanics and general relativity, at the same time as he is beguiled into taking a universal view of things and provoked into thinking afresh about the foundations of physics.
+Science used to be called natural philosophy, a term still used in Scottish uni-versities. Yet, science and philosophy today stand rather far apart. To the laboratory scientist, the philosopher seems to be merely playing with words. Equally, to the philosopher, such a scientist seems to be merely playing with things. Yet, in the end, science and philosophy cannot do without each other. Without the scientific fountain of empirical facts, philosophy indeed becomes mere word-spinning. And equally, science without philosophy can descend into mere factgrubbing and technicality.
+Of course, some people have tried to hold the two together, have tried to sketch a grand system of the world in terms of modern science. Professor Gal-Or is one of them. This has necessarily led him to some of the hardest philosophical problems facing modern scientific theory—such as the role of the observer in quantum me-chanics, the nature of perception, above all the nature of time itself—but the chapters are stratified so as to be accessible, in part or whole, to a wide range of readers. Gal-Or’s general outlook is grounded securely in skeptical science and his bias is towards the more classical and objective forms of scientific theories. The reader can thus learn a lot of orthodox science at the same time as his vision of the world is expanded.
+
+
+
+
+
+
+
+
+
+
+
+PREFACE
+
+There are a number of useful sequences by which this book may be read. This is, of course, left to the reader's interests, discretion and background. However, readers whose main interests are in the 'humanities’, especially those interested in socio-political studies and in the potentials of education, philosophy and ideology in a time of crisis, may prefer to begin with Volume II. As to condensed courses, one alternative may be designed in the following order:
+
+Volume I Introduction Lecture I Lecture IV Lecture VI Lecture IX
+Volume II Introduction Lecture X Lecture XII Lecture XIII Lecture XIV
+
+Volume I contains a core of knowledge that, according to the latest trends in higher education, should be mastered by all advanced students in the natural sciences, or in philosophy. It departs from traditional texts in its emphasis on the intercon-nectedness of up-dated information in astronomy, astrophysics, cosmology, physics, and the theory of knowledge, as well as in its critique of present academic methodol-ogies. Hence, teachers and students in the natural sciences, or in philosophy, may find it useful as a textbook for a basic ’Core Curriculum Course’.
+Part of the text is an expanded version of three university courses entitled, 'Introduction to Astrophysics’, ’Thermodynamics’, and ’Philosophy of Science’, given at the Technion-Israel Institute of Technology, The Johns Hopkins University, the University of Pittsburgh, and the State University of New York, over a period of years.
+However, today the college student is not content with isolated courses on astro-physics, classical physics, relativity, quantum mechanics, thermodynamics, evolu-tion, and philosophy; he wants to know not only the physical laws that lie behind the observational data but also how to use these laws as tools to further discoveries,
+
+Preface
+or as guides to a better understanding of observational data in other disciplines; that is to say, to gain a better understanding of nature at large; an all-embracing view which so often results from a close cooperation between the various sciences. This, somewhat loosely, defines the aim of this book.
+For the sake of unification and simplicity the physical laws are first introduced in the main text in as simple a manner as possible. For the more advanced students I supply Accessory Sections that demand a greater degree of competence in astro-physics, philosophy of science, general relativity and classical physics. Consequently, two tracks through the subjects are supplied.
+The first track focuses on ‘interdisciplinary’ material of general interest. As such, it is suitable for a one-semester course at the junior or senior level or (combined with “track two” material) in graduate school. Much of “track one” material should prove fairly easy reading, though a few mathematical formulations of some diffi-culty had to be included in their turn.
+The second track is intended to provide a greater degree of competence in a few selected fields of study. Readers and teachers—especially those in need of enrich-ment material on physico-philosophical foundations, physico-mathematical formal-isms, or some observational data that have recently gained special importance—are invited to select these sections of ‘track two’ that interest them the most. With a few exceptions, “track two” material can be understood by readers who have studied only “Freshman” physics and mathematics, and, in addition, have read the earlier “track one” material. Both tracks combined may suffice—depending on the students’ background—for a basic two-semester course.
+All “track two” material is marked with °. It includes the more specific mathe-matical formulations and various technical details.
+It is believed that such an ordering will help those readers who are either unfamiliar with, or uninterested in detailed formulations and empirical data, and would rather consider the general arguments involved without interruption. Hence, a substantial part of this book is also suitable for the general educated reader.
+
+
+The subject matter of this book has never before been investigated or presented as a unified field of study, though some fragments of it may be found scattered throughout the literature on specific problems. As a result, different authors have approached the problems discussed from widely varying viewpoints, employing dis-jointed concepts to what should be a unified system.
+A few years ago, during a course of lectures (Weizmann Institute of Science, Yale, Princeton and Harvard) I found that the three combined subjects—cosmology, physics and philosophy—command the attention not only of astrophysicists, astronomers, physicists and philosophers of science, but of other disciplines as well. This trend has been reflected in recent years by the growing number of papers and books which refer to, or reflect on new theories which deal with these three subjects as well as with their wide implications in other fields of modern human thought.
+
+Preface	XV
+Because of this growing interest and because of the somewhat surprising rate at which a unified approach to these three disciplines has recently been gaining wide acceptance, a very definite need has been felt for an up-to-date book that gathers together separate though related strands of modern thought and research, combine them into an interdisciplinary field of study, with a uniform terminology and a careful attention to the elucidation of updated scientific concepts, and, then, offer critical and|or new viewpoints on the issues involved.
+
+Tuesday, 20 January 2026	O God, help us and our brothers in Gazza	Thank God
+بسم الله الرحمن الرحيم
+Cosmos’ Structure 64th Episode: A Comprehensive Derivation of Lagrange and Geodesic Motion Using my Theory then Applying in Cosmology
+
+Ali Yousif Hassan Edriss.
+Sudan University of Science and Technology, Physics Laboratories
+Collaborator: Gemini AI Tel. +249127428737
++249966205402
+aliyousif202264@gmail.com aliyousif202264@outlook.sa
+
+Field: Theoretical Physics / Gravitational Theory / General Relativity / Cosmology
+
+Tuesday, 20 January 2026	O God, help us and our brothers in Gazza	Thank God
+Abstract
+
+This paper introduces new concepts about various states of matter in different spaces based on the geodesic and Lagrangian equations for static, spherically symmetric vacuum solution to the field equations, characterized by a linear dependence on a space / time function (space velocity) like this:
+
+𝑑𝑟	𝑐
+𝑐6
+2𝐺𝑀
+
+𝑓(𝑟) =	= / (1 + ln (
+𝑑𝑡	2	16𝐺
+2𝑀
+2) −
+𝑐2𝑟 )
+
+This equation perceived as a velocity but related to the spacetime flowrates not for the matter so this concept gives us a new vision about the physics of conservation lows.
+It begin with (chapter 1), this paper treated the standard Schwarzschild geometry by incorporating a spacetime velocity term that modulates the temporal and radial components of the metric. The derivation leads to a gravitational acceleration law that accounts for mass-dependent geometric resistance (the struggle between the 2D space and the matter). It analyzed the impact of mass variance (M) on spacetime curvature and proved that this model provides a self-regulating mechanism against gravitational collapse. This spacetime velocity affect all measurable quantities including what we have known as conservatives.
+The second part of this paper extends these concepts in the theory to the regime of rotating mass
+𝐽
+systems. By incorporating the angular momentum parameter 𝑎 =	into the above spacetime
+𝑀𝑐
+velocity (STV) equation f(r) to derive a modified Kerr-like metric investigating the structural
+changes in the Ergosphere and the Event of Horizon under the influence of mass variance. The analysis reveals that the linear dependence on f(r) results in a persistent frame-dragging effect
+1
+that does not follow the classical 𝑟3 decay easily because of the logarithmic term in the
+equation, suggesting a large-scale rotational influence of the central mass on the vacuum which could be interpreted as a modification to contain all anomalies in cosmology behavior.
+The third part, proposes that the missing mass-energy components of the universe—traditionally labeled as Dark Matter and Dark Energy—are not independent physical substances but emergent properties of a logarithmic term of STV as spacetime geometry. By applying the equation f(r) to galactic and cosmological scales, it demonstrates that the "flat rotation curves" of galaxies and the accelerated expansion of the universe can be derived directly from the metric's inherent "Geometric Resistance." it provides a mathematical model that replaces the Lambda CDM paradigm with a single, self-regulating logarithmic framework.
+The fourth part explores the behavior of the STV at subatomic scales. It introduces the Scale-
+
+Dependent Mass Hypothesis (SDMH) 𝑀𝑒𝑓𝑓
+= 𝑀0
+) as a result of STV, which posits that the
+𝐿𝑟𝑒𝑓
+
+effective mass 𝑀𝑒𝑓𝑓 perceived by the spacetime geometry increases as the observation scale (𝐿𝑟𝑒𝑓) approaches the particle scale L as STV admitted. By substituting this dynamic mass into
+
+Tuesday, 20 January 2026	O God, help us and our brothers in Gazza	Thank God
+the STV equation f(r), I derived a model where elementary particles are not point-like masses but stable Logarithmic Spacetime dependent Spinors (De-Broglie and Schrodinger waves) not just particle with intrinsic features called spinor. I also demonstrated that the metric naturally produces a "Repulsive Barrier" at short distances affecting on the spin of the particles making it laying in superposition states, and providing a geometric alternative to the Pauli exclusion principle and explaining particle stability without singularities.
+
+Tuesday, 20 January 2026	O God, help us and our brothers in Gazza	Thank God
+Beginning from Schwarzschild-modified BH equation
+In this part we will deduces another spacetime element called modified Schwarzschild equation inferring the STV concepts to see how the spacetime interacts .
+The STV Function f(r)
+The foundational element of this theory is the STV function, which couples local mass M with universal constants:
+
+𝑑𝑟	𝑐
+𝑐6
+2𝐺𝑀
+
+𝑓(𝑟) =	= / (1 + ln (
+𝑑𝑡	2	16𝐺
+2𝑀
+2) −
+𝑐2𝑟 )
+
+Where:
+G: Universal Gravitational Constant.
+M: Mass of the central body.
+c: Speed of light.
+𝑐6
+The term ln (16𝐺2𝑀2) represents a background geometric bias that gives it a memory as we
+will see. This term represents a background geometric initial conditions that remains constant as r from singularity to infinity.
+r: the radius.
+t : the time.
+2𝐺𝑀
+The Newtonian Term: − 𝑐2𝑟 represents the classical influence of mass.
+Metric Tensor Construction
+I define the spacetime interval 𝑑𝑠2 such that the temporal and radial coefficients are direct linear functions of f(r):
+
+𝑑𝑠2 = −𝑓(𝑟)(𝑐𝑑𝑡2) +	1
+𝑓(𝑟)
+
+(𝑑𝑟)2 + 𝑟2(𝑑θ2 + sin2 𝜃(𝑑𝜙2)
+
+Following a rigorous iterative discussion, the metric is defined to be "Schwarzschild-like" but modified by a logarithmic term transformation. So the metric tensor matrix 𝑔𝑢𝑣 is thus:
+
+
+
+𝖩
+−𝑓 I
+𝑔	=
+(𝑟
+)𝑐2	0
+1
+ 
+0	0	I
+
+𝑢𝑣	I	0 I
+0	0	I
+𝑓(𝑟)	I
+
+0	0
+𝗁  0	0
+𝑟2	0
+0	𝑟2 sin2 𝜃𝘭
+
+Tuesday, 20 January 2026	O God, help us and our brothers in Gazza	Thank God
+Derivation of the Acceleration Law or geodesic equation:
+Using the geodesic equation:
+𝑑2𝑥𝑢
+𝑢	𝑎  𝑏
+𝑑𝑡2  + Γ	𝑢 𝑢	= 0
+The relevant Christoffel symbol is:
+
+
+
+𝑟
+𝑡𝑡
+1
+/ 𝑔𝑟𝑟𝜕𝑟(−𝑐2𝑔𝑡𝑡) = − 2
+1
+/ 𝑓(𝑟)𝜕𝑟(𝑐2𝑓(𝑟)) = − 2
+𝑐2𝑓(𝑟)𝑓′(𝑟) 2
+
+𝑮𝑴𝒄
+= 𝟐𝒓𝟐 (𝟏 + 𝐥𝐧 (
+𝒄𝟔
+𝟐
+𝟐) −
+𝟐𝑮𝑴
+𝟐	)
+
+𝟏𝟔𝑮 𝑴	𝒄 𝒓
+We see here some modifications on 𝑔𝑟𝑟 in order to add a physical reality on the results, but scientists can investigate about. All the rest of the Christoffel derivative are ignored because the most effect is on just 2D, so the geodesic equation is:
+
+𝒅𝟐𝒓
+𝒅𝒕𝟐 −
+𝑮𝑴𝒄
+𝟐𝒓𝟐 (𝟏 + 𝐥𝐧 (
+𝒄𝟔
+𝟐
+
+𝟐) −
+𝟐𝑮𝑴
+𝒄𝟐𝒓 ) = 𝟎
+
+𝟏𝟔𝑮 𝑴
+This equation contains the Newtonian gravitational equation as a limitation. Also it contains the Gr and QM implies.
+If we distributed the parentheses:
+
+
+𝑑2𝑟
+𝑑𝑡2 −
+𝐺𝑀𝑐 2𝑟2 −
+𝐺𝑀𝑐
+2𝑟2 ln (
+𝑐6
+2
+2) +
+2𝐺2𝑀2
+2𝑐𝑟3	= 0
+
+That gives us Christoffel multiplied by the velocities Γ𝑢 𝑢𝑎𝑢𝑏 distributed on the all terms which show us the geodesic behaviors of the objects in a various region in our universe.
+The geodesic – as general- has two kinds of velocities: object’s speed 𝑢𝑎 and space’s speed
+
+𝑢𝑏which we can find it here 𝑐 𝑜𝑟 𝑣 and (1 + ln (	𝑐6
+16𝐺2𝑀2
+) − 2𝐺𝑀), and the term that make a
+𝑐2𝑟
+
+differences is the space’s speed due to its relations to the spacetime flow rates. So I can demonstrate that the reason of the inconsistence of submerging the GR into QM is this kind of speed.
+Parametric Analysis of Mass (M) Variance
+Effect of Mass increasing (𝑴 𝖳)
+In standard gravity, increasing M always increases the acceleration. In this model, mass appears both in the numerator of the Newtonian term and the denominator of the logarithmic term.
+𝑐6
+
+As M increases, the term ln (
+16𝐺2
+𝑀2) decreases, we see the spacetime exhibits slightly
+
+"Geometric Resistance." Making the equation deviates from Newtonian gravity so as getting
+away in the galaxy toward the edges we see it doesn’t obey the newton’s law. But as M goes
+
+Tuesday, 20 January 2026	O God, help us and our brothers in Gazza	Thank God
+
+huge like in the galaxies 1040𝑘𝑔, this term ln (	𝑐6
+16𝐺2𝑀2
+) converts to minus to support the third
+
+2𝐺𝑀
+term − 𝑐2𝑟 misleading us to assume the Dark Matter existence.
+This behavior leads to singularity, but fortunately, the space ignites the self-defense mechanisms (not clear in the equation) and the force becomes repulsive instead of attractive. So we see the spacetime velocity STV slightly decreases with mass increases (not sensible because of the general increasing of the equation) then the third term overwhelms the equation leading to the self-defense of the space (here the velocity could exceed the light speed because to the third term).
+The Dark energy phenomenon comes from the response of the spacetime expansion as a result of matter increasing then the STV becomes bigger at the late expansion proving the Hubble
+𝑅̇
+constant / .
+𝑅
+
+Effect of Mass Depletion (𝑴 ↓)
+When the central mass decreases, the Newtonian pull
+𝑐6
+
+
+𝐺𝑀 2𝑟
+
+weakens. However, the logarithmic
+
+term ln (
+16𝐺
+2𝑀
+2) grows significantly leading to extra velocity due to space-time flow rate STV
+
+increasing. When the third term overwhelms due to distance r decreasing, leads to another extra
+increasing on the spacetime flow rates making the microscopic particles run at high speed until reach the Heisenberg Uncertainty Principle, so this principle is not result of as matter characteristics but space characteristics due to dimensions smallness.
+𝑐6
+
+At bigger dimensions, even with minimal mass, this term ln (
+16𝐺2
+𝑀2) significant affecting on
+
+the background and the spacetime geometry maintains a "structural floor or biased" so the
+acceleration does not vanish but stabilizes, explaining why low-mass systems (like dwarf galaxies) exhibit higher-than-expected gravitational cohesion.
+Boundary Conditions: Singularity and Horizon
+We can notice the Event of Horizon is a "hard" boundary where f(r) = 0. The linear dependence ensures an abrupt stop to coordinate time t relative to proper time tau.
+The Singularity (r goes to 0): the metric leads to a violent divergence in tidal forces, appearing that the resistance of space is ultimately overwhelmed by matter at the absolute center, but the reality is at opposite because the space inverse the equation and turning the force into repulsive one due to the action of the high velocities of the bodies at the center enough to eject themselves outside the BH as stated above and admitted by Heisenberg uncertainty equation.
+Constructing the Lagrangian
+The Lagrange (according to Gemini) is obtained by this equation:
+ℒ = gugv𝑥𝑢̇ 𝑥̇𝑣
+
+Tuesday, 20 January 2026	O God, help us and our brothers in Gazza	Thank God
+So:
+
+
+𝓛 =
+𝟏 𝒓̇𝟐 +
+𝟐
+𝑮𝑴𝒄
+
+/
+𝟐𝒓𝟐
+(𝟏 + 𝐥𝐧 (
+𝒄𝟔
+
+/
+𝟏𝟔𝑮𝟐𝑴𝟐
+)) −
+𝑮𝟐𝑴𝟐
+
+𝒄𝒓𝟑
+
+And the full Lagrangian with angular momentum is:
+
+
+𝓛 =
+𝟏 𝒓̇𝟐 + 𝒓𝟐𝝓̇𝟐 +
+𝑮𝑴𝒄
+
+/
+(𝟏 + 𝐥𝐧 (
+𝒄𝟔
+)) −
+𝑮𝟐𝑴𝟐
+
+/
+
+
+or
+
+𝓛 =
+𝟐
+
+
+𝟏 𝒓̇𝟐 + 𝐋
+𝟐𝒓𝟐
+
+
+𝑮𝑴𝒄
++	(𝟏 + 𝐥𝐧 (
+𝟏𝟔𝑮𝟐𝑴𝟐
+
+
+𝒄𝟔
+)) −
+𝒄𝒓𝟑
+
+
+𝑮𝟐𝑴𝟐
+
+/
+
+𝟐	𝒓𝟐
+𝟐𝒓𝟐
+𝟏𝟔𝑮𝟐𝑴𝟐
+𝒄𝒓𝟑
+
+Where: L is angular momentum 𝑟2𝜙̇
+
+Tuesday, 20 January 2026	O God, help us and our brothers in Gazza	Thank God
+Applying on Rotated BH
+
+Here we will see a significantly stronger gravitational acceleration compensated with more aggressive "geometric resistance" against mass increasing. These properties effect on event of horizon and singularity analyzing.
+Metric Construction: The Kerr Framework
+Utilizing the Boyer-Lindquist coordinate system (t, r, 𝜃, 𝜙). The metric is constructed by replacing the standard Schwarzschild mass term with the f(r). The fundamental functions are:
+Σ = 𝑟2 + 𝑎2 cos2(𝜃) Δ = 𝑟2𝑓(𝑟) + 𝑎2
+Where Σ & Δ represent the deformed spherical coordinates factor, a is rotation parameter and
+𝐽
+equals: =	, so we see that Σ & Δ: the first describes space shapes dynamics, and second
+𝑀𝑐
+describes the forces and Events of Horizon dynamics, f(r) is the linear potential:
+
+
+𝑐
+𝑓(𝑟) = / (1 + ln (
+2
+𝑐6
+2
+2) −
+2𝐺𝑀
+2	)
+
+16𝐺 𝑀	𝑐 𝑟
+The spacetime interval 𝑑𝑠2 is defined by the components:
+Σ
+𝑔𝑟𝑟 = Δ
+𝑔𝜃𝜃 = Σ
+
+
+𝑔𝑡𝑡 = −𝑐2 (1 −
+r2(1 − 𝑓(𝑟))
+Σ	)
+
+
+
+𝑔𝜙𝜙 = sin2(𝜃) (𝑟2 + 𝑎2 +
+𝑎2𝑟2 sin2(𝜃) (1 − 𝑓(𝑟))
+Σ	)
+
+
+
+
+𝑔𝑡𝜙 =
+𝑟2𝑎2 sin2(𝜃) (1 − 𝑓(𝑟)) Σ
+
+So the metric becomes:
+𝐫𝟐(𝟏 − 𝒇(𝒓))
+𝒅𝒔𝟐 = −𝒄𝟒 (𝟏 −
+𝚺
+
+
+) (𝒅𝒕)𝟐 −
+
+𝒓𝟐𝒂𝟐 𝐬𝐢𝐧𝟐(𝜽) (𝟏 − 𝒇(𝒓))
+
+/
+𝚺
+
+
+𝒅𝒕𝒅𝝓 +
+
+𝚺 𝒅𝒓𝟐 + 𝚺𝐝𝛉𝟐
+𝚫
+
++ 𝐬𝐢𝐧𝟐(𝜽) (𝒓𝟐 + 𝒂𝟐 +
+𝒂𝟐𝒓𝟐 𝐬𝐢𝐧𝟐(𝜽) (𝟏 − 𝒇(𝒓))
+) 𝒅𝝓𝟐
+𝚺
+
+We see here that – 𝑓(𝑟) has properties of velocity also, so the appearing with minus sign means it decreases with mass increases (after taking the meals) then increases after that with minus
+
+Tuesday, 20 January 2026	O God, help us and our brothers in Gazza	Thank God
+sign leading to increasing on 𝑔𝑡𝑡 , 𝑔𝜙𝜙 , 𝑔𝑡𝜙 , so it increases the velocity of the rotating BH in order to prevent the singularity or mass density increasing at volume decreasing. On the other
+𝑑𝑟
+hand, we see it increases 𝑔𝑟𝑟 at first then decreases it making the velocity 𝑑𝑡 < 𝑐 which
+facilitate the ejection of the matter from inside of the BH converting the forces into repulsive.
+Intense Frame-Dragging and Angular Velocity (𝑤)
+The "dragging" of the inertial frames is the most critical feature of this rotating model. The angular velocity of the spacetime itself is given by:
+
+
+𝑤(𝑟, 𝜃) =
+𝑔𝑡𝜙
+
+/
+𝑔𝜙𝜙
+𝑟2𝑎2 sin2(𝜃) (1 − 𝑓(𝑟))
+=	Σ
+
+÷ sin2(𝜃) (𝑟2 + 𝑎2 +
+𝑎2𝑟2 sin2(𝜃) (1 − 𝑓(𝑟))
+Σ	)
+
+𝑟2𝑎2 sin2(𝜃) (1 − 𝑓(𝑟))
+=	Σ
+𝑎2𝑟2 sin2(𝜃) (1 − 𝑓(𝑟))
+
+
+Σ(𝑟2 + 𝑎2)
+
+÷ sin2(𝜃)
+Σ
+𝑎2𝑟2(1 − 𝑓(𝑟))
+(𝑎2𝑟2 sin2(𝜃) (1 − 𝑓(𝑟))
+𝑎2𝑟2(1 − 𝑓(𝑟))
++ 1)
+
+= Σ(𝑟2 + 𝑎2) + 𝑎2𝑟2sin2(𝜃) (1 − 𝑓(𝑟)) ≈	Σ(𝑟2 + 𝑎2)
+𝑎2𝑟2(1 − 𝑓(𝑟))	𝒂𝟐𝒓𝟐(𝟏 − 𝒇(𝒓))
+= (𝑟2 + 𝑎2𝑐𝑜𝑠 𝜃)(𝑟2 + 𝑎2) = (𝒓𝟒 + 𝒂𝟒 + 𝟐𝒓𝟐𝒂𝟐𝒄𝒐𝒔 𝜃)
+We see here, 𝑤(𝑟, 𝜃) increases with mass increasing, so we see the most space dragging is at the equator so we see the matter dragged to the equator not all space around the BH. With r increasing, we see f(r) does not approach unity as rapidly as in the standard Kerr model. Instead, it retains a logarithmic bias, so the frame-dragging effect remains "stiff" or "sharp" even at significant distances. The central mass "locks" the surrounding spacetime into a rotational state that is far more expansive than predicted by Roy Kerr.
+Mass and Spin Parametric Analysis on Ergosphere and spin couplings
+The Role of Mass increasing (𝑴 𝖳)
+When the mass M increases: The Ergosphere or the boundary where 𝑔𝑡𝑡 = −𝑐4 (1 −
+r2(1−𝑓(𝑟))) = 0 expands . However, because ln (	𝑐6	) decreases, the "Geometric Resistance"
+Σ	16𝐺2𝑀2
+of the vacuum pushes back against the expansion of the Ergosphere, making it more
+equatorially flattened than a standard Kerr black hole.
+Spin Coupling: The interaction between high mass and high spin (a) creates a region of extreme frame-dragging that could theoretically accelerate particles to relativistic speeds much further from the horizon than in standard models leading to eject it easily from the BH attraction carrying some of its energy.
+
+Tuesday, 20 January 2026	O God, help us and our brothers in Gazza	Thank God
+The Role of Mass decreasing (𝑴 ↓)
+When the mass M decreases: the Stability of the Vortex: The Newtonian pull weakens, but the logarithmic potential f(r) increases. This means that even a low-mass rotating object creates a significant "Spacetime Vortex."
+Cosmic Scaling: This explains why small, fast-rotating galactic cores can influence the rotation of their entire host galaxies; the geometry provides the necessary "rotational bridge."
+The Structure of the Event of Horizon The horizons are found where Δ = 0:
+Δ = 𝑟2𝑓(𝑟) + 𝑎2 = 0
+Due to the nature of f(r), the solution for r leads to a "Sharp Horizon." This boundary is highly sensitive to the logarithmic term, meaning the size of the black hole is governed not just by its mass M and spin a, but by the "Cosmic Background Potential" embedded in the logarithm. Also we see at M changing we see (a) changes as well.
+Comparison: Roy Kerr vs. Modified Log-Kerr
+
+Feature	Roy Kerr standard	Modified Theory
+	
+	Potential 𝒇(𝒓)
+
+Asymptotic behavior
+	2𝐺𝑀
+1 − 𝑐2𝑟
+	1		𝑐6		2𝐺𝑀 (1 + ln (		) −		)
+2	16𝐺2𝑀2	𝑐2𝑟
+	
+	
+	Asymptotically flat
+	Non-flat (Background
+Tension)
+	
+	Horizontal function 𝚫
+
+Frame Dragging
+	𝑟2 − 2𝐺𝑀 + 𝑎2
+𝑐2
+	𝑟2𝑓(𝑟) + 𝑎2
+	
+	
+	Localized
+	Large-Scale influence
+	
+	Radial Metric 𝐠𝒓𝒓
+	Σ
+/
+Δ
+	Σ
+/
+𝑟2𝑓(𝑟) + 𝑎2
+	
+	
+Tuesday, 20 January 2026	O God, help us and our brothers in Gazza	Thank God
+Applying on the Cosmology: A Unified Geometric Origin for Dark Matter, Dark
+Energy, and Accelerated Expansion
+
+The Geometric Solution to Dark Matter
+In standard astrophysics, the "Dark Matter" problem arises because orbital velocities v(r) do not
+1
+
+decay as
+√𝑟
+𝑑2𝑟
+. In our model, the radial acceleration is:
+𝐺𝑀
+
+𝑑𝑡2 = −𝑓(𝑟) 𝑟2
+
+For a star in a circular orbit, 𝑣2 = 𝑓(𝑟)𝐺𝑀 , which leads to 𝑣 = √𝑓(𝑟)𝐺𝑀
+𝑟	𝑟
+Analysis of Mass Depletion (𝑀 ↓) (an observer moving away) and Galaxy Rotation As we move to the outside of a galaxy (where M of the central bulge is effectively lower relative to the vastness of space) we see:
+𝐺𝑀
+The classical term	weakens.
+𝑟2
+
+
+However, the term ln (	𝑐6
+16𝐺 𝑀
+) in f(r) increases as the appearing mass density drops.
+
+Result: This increase in the background potential f(r) provides the necessary "extra pull" to keep stars in stable, high-velocity orbits. Dark Matter is thus revealed as the "Geometric Tension" of the vacuum reacting to a decrease in mass density.
+The Geometric Solution to Dark Energy
+The expansion of the universe is traditionally explained by a constant 𝚲 (Dark Energy). In this model, expansion is a dynamic process driven by the f(r) equation accompanied with space self defense – as mentioned before- at which this equation flips it sign in order to turn into repulsive as mentioned on singularity subtitle. That means the expansion linked to mass density as a whole or as confined in a region, so the first explains the acceleration and the second explains the Hubble tension.
+The Mass-Density Expansion Law
+Consider the universe as a global system with a total mass-energy M within a Hubble volume.
+As the local mass density increases. The universe expands using its self defense mechanism.
+According to the potential f(r), the value of the logarithmic term increases when the mass M
+𝐺2𝑀2
+exceed certain value but the domination becomes in favor of the third term	in which the
+𝑐3𝑟2
+universe acts as a BH, but as my theory tells us that any BH must has certain value after that the mechanism will inverse so the outward velocity increases with the distances and mass accumulation as the Hubble constant admitted. Even the Hubble Tension is obeys this rule.
+
+Tuesday, 20 January 2026	O God, help us and our brothers in Gazza	Thank God
+Accelerated Expansion without Lambda
+The acceleration of the universe is obeys the above rules and the acceleration depends on the whole equation:
+
+𝐺𝑀
+2𝑐𝑟2 (1 + ln (
+𝑐6
+2
+
+2)) −
+2𝐺2𝑀2
+
+/
+3
+
+Remember, this equation represents a velocity of space feature so this velocity is not constant and varied with the region’s mass so the acceleration depends on this mass. But the question is where this mass comes from? And the answer is could be anticipated.
+Discussion: A Self-Correcting Universe
+This nature of the metric implies that the universe is a self-regulating system. It does not require the arbitrary addition of unknown particles (WIMPs) certainly or vacuum energy constants.
+Instead, the geometry of spacetime itself "opposes" the absolute depletion of matter by increasing its own internal tension (the Logarithm), ensuring the structural integrity of the cosmos across all scales.
+
+Tuesday, 20 January 2026	O God, help us and our brothers in Gazza	Thank God
+Studying the Quantum-Geometric Correspondence: Subatomic Spacetime Vortices and the Scale-Dependent Mass Hypothesis
+
+The Scale-Dependent Mass Hypothesis (SDMH)
+For the microscopic world I applying the same assumption of the macroscopic world - that crossed by- the mass appearing-amount changes with the dimension depending on the closeness or the far (an observer's perspective) which is linked to the spatial dimensions of the system.
+For an elementary particle at scale L:
+𝐿
+𝑀𝑒𝑓𝑓 = 𝑀(𝐿) ∝ 𝑀0 (	)
+𝐿𝑟𝑒𝑓
+Where: 𝐿𝑟𝑒𝑓 is the observer position and L is the particle dimensions, 𝑀0 is the real mass amount at closer distances usually it is huge , 𝑀𝑒𝑓𝑓 mass amount at observer’s reference distance.
+As 𝐿𝑟𝑒𝑓 goes to 𝐿, 𝑀𝑒𝑓𝑓 → 𝑀0 so we can see the quarks experience a high forces inside the proton and the neutron.
+But at far distances, the observer could not notice the variation of 𝑀𝑒𝑓𝑓 and deals with the microscopic world as the QM states it.
+According to this equation:
+
+
+𝑐
+𝑓(𝑟)𝑠𝑢𝑏 = 2 (1 + ln (
+𝑐6
+2𝑀𝑒𝑓𝑓
+2) −
+2𝐺𝑀𝑒𝑓𝑓
+𝑐2𝑟	)
+
+
+
+Or
+𝑣	𝑐6
+
+
+2𝐺𝑀𝑒𝑓𝑓
+
+𝑓(𝑟)𝑠𝑢𝑏 = 2 (1 + ln (	2𝑀	2) −	𝑐2𝑟	)
+𝑒𝑓𝑓
+We see the second velocity (space velocity STV) varies with the mass 𝑀𝑒𝑓𝑓 so we see this velocity increases with the logarithmic term, and then with dimensions decreasing, this term
+− 2𝐺𝑀𝑒𝑓𝑓 overwhelms igniting the Heisenberg Uncertainty Principle.
+𝑐2𝑟
+Particle’s Spin and Frame-Dragging Vortex (the spinor concept).
+In the rotating (Kerr) version of this metric, the high 𝑀𝑒𝑓𝑓 at small scales generates an intense frame-dragging effect 𝑤 as follow:
+𝑎2𝑟2(1 − 𝑓(𝑟))
+𝑤𝑠𝑢𝑏 = (𝑟4 + 𝑎4 + 2𝑟2𝑎2𝑐𝑜𝑠 𝜃)
+
+Tuesday, 20 January 2026	O God, help us and our brothers in Gazza	Thank God
+We see here not the Origin of Spin, but what can spin affect into, What quantum mechanics describes as "intrinsic spin", is revealed here as the spacetime flow rate f(r), high-frequency rotation of spacetime around the mass-vortex effect on the spacetime flow rate which regarded as De-Broglie wave function.
+We see here the mass M not increasing for a certain particle unless it goes into interactions, so the frame dragging is constant as a characteristic of the particle and so on for spacetime flowrate. And for various particles we see the same number of spin ½ for fermion and 1 for
+𝑐6
+
+boson, that result of the logarithmic term ln (16𝐺2𝑀
+
+𝑒𝑓𝑓
+2) in which, the mass must get huge
+
+amount to increase it spin so we see the bosons have bigger spins than fermion.
+References
+
+”اخر ماتوصلت اليه عن اشتقاق معادلة الجيوديسيك داخل نظريتي“ video My
+https://youtu.be/_jze377kZW8?si=e6XlsjORIrlXvARD
+
+Curvature dark energy reconstruction through different cosmographic distance definitions
+Salvatore Capozziello,1, 2, 3, ∗ Mariafelicia De Laurentis,1, 2, 4, † and Orlando Luongo1, 2, 5, ‡
+1Dipartimento di Fisica, Universit`a di Napoli ”Federico II”, Via Cinthia, I-80126 Napoli, Italy.
+2Istituto Nazionale di Fisica Nucleare (INFN), Sez. di Napoli, Via Cinthia, I-80126 Napoli, Italy.
+3Gran Sasso Science Institute (INFN), Viale F. Crispi 7, I-67100 L’Aquila, Italy.
+4Tomsk State Pedagogical University, 634061 Tomsk and National Research Tomsk State University, 634050 Tomsk, Russia.
+5Instituto de Ciencias Nucleares, Universidad Nacional Autonoma de M´exico (UNAM), Mexico.
+In the context of f (R) gravity, dark energy is a geometrical fluid with negative equation of state. Since the function f (R) is not known a priori, the need of a model independent reconstruction of its shape represents a relevant technique to determine which f (R) model is really favored with respect to others. To this aim, we relate cosmography to a generic f (R) and its derivatives in order to provide a model independent investigation at redshift z ∼ 0. Our analysis is based on the use of three different cosmological distance definitions, in order to alleviate the duality problem,
+i.e. the problem of which cosmological distance to use with specific cosmic data sets. We therefore consider the luminosity, dL, flux, dF , and angular, dA, distances and we find numerical constraints by the Union 2.1 supernovae compilation and measurement of baryonic acoustic oscillations, at zBAO = 0.35. We notice that all distances reduce to the same expression, i.e. dL;F ;A ∼  1  z, at
+0
+first order. Thus, to fix the cosmographic series of observables, we impose the initial value of H0
+by fitting H0 through supernovae only, in the redshift regime z < 0.4. We find that the pressure of curvature dark energy fluid is slightly lower than the one related to the cosmological constant. This indicates that a possible evolving curvature dark energy realistically fills the current universe. Moreover, the combined use of dL, dF and dA shows that the sign of the acceleration parameter agrees with theoretical bounds, while its variation, namely the jerk parameter, is compatible with j0 > 1. Finally, we infer the functional form of f (R) by means of a truncated polynomial approximation, in terms of fourth order scale factor a(t).
+
+PACS numbers: 98.80.-k, 98.80.Jk, 98.80.Es
+Keywords: alternative theories of gravity; dark energy; cosmography; observational cosmology.
+
+
+
+
+INTRODUCTION
+
+Modern cosmology is nowadays plagued by several shortcomings which jeopardize the current understanding of universe dynamics. Particularly, these problems may suggest to reconsider the standard approach of gravitation, based on Einstein’s gravity, in favor of alternative theories of gravity. Alternative gravity pictures have been extensively introduced in order to describe universe dynamics without the need of additional material ingredient as dark energy and dark matter described by new particles at fundamental level. On the other hand, the simple introduction of a cosmological constant vacuum energy seems inadequate to characterize the whole universe evolution at any epoch [1]. Thus, these alternative theories are viewed as a bid to reformulate in toto semi-classical schemes where General Relativity is only a particular case of a more extended theory. In particular, such theories are able to extend General Relativity predictions by means of higher order curvature invariants. Other pictures assume extensions based on minimally or non-minimally coupled scalar fields in the gravitational Lagrangians [2–6]. Furthermore, Einstein gravity can be extended by carrying out the full Mach principle: this fact leads to the introduction of a varying gravitational coupling. Under these hypotheses, the Brans-Dicke theory [7] represents the prototype of alternative schemes to General Relativity. It naturally includes a variable gravitational coupling, whose dynamics is governed by a single scalar field non-minimally coupled to geometry [7–9]. From one hand, extensions of General Relativity are therefore able to describe the above-mentioned theoretical aspects. On the other hand, it is also possible to account every unification scheme of fundamental interactions, such as superstring, supergravity, or grand unified theories and physically by low-energy effective actions containing non-minimal couplings or higher order curvature terms [10]. In fact, interactions between quantum scalar fields and background geometry, or gravitational self-interactions, naturally
+
+
+∗Electronic address:
+†Electronic address:
+‡Electronic address:
+
+2
+
+yield such corrections to the Einstein-Hilbert’s Lagrangian [11]. Hence, it is easy to show that several geometrical corrections are inescapable within quantum gravity effective actions and allow consistent pictures close to Planck scales [12]. These schemes represent working approaches towards a self consistent quantum picture, giving rise to interesting consequences once corrections like R2, Rµν , Rµν , Rµναβ Rµναβ , R R, or R kR are involved. A crucial fact is that alternative theories may provide analogies with the effective string or Kaluza-Klein Lagrangians, when compactification mechanisms of extra spatial dimensions are imposed [13].
+A consequence of such extended theories of gravity is the possibility to frame current universe dynamics in a self consistent way considering their infrared counterpart. In particular, such models may address the problem of current universe speed up [14] by considering further gravitational degrees of freedom. Indeed, General Relativity seems not capable of dealing with present cosmic acceleration, unless an unknown fluid dubbed dark energy is added to the standard matter fluid energy-momentum tensor. At late times, the fluid responsible for accelerating the universe dominates over all other contributions, driving the universe evolution. It should be able to reproduce current observations [15]. Consequently, the dark energy equation of state behaves anti-gravitationally by counterbalancing gravitational attraction [16]. Thus, in this concordance model, the universe dynamics is described through pressureless matter terms, i.e. the sum of baryons and cold dark matter, through a evolving barotropic dark energy contribution and a vanishing spatial curvature Ωk = 0 [17, 18, 20].
+A straightforward way to address geometrically the problem of dark energy is by the so called f (R) gravity, where f is a generic function of the Ricci scalar R [4–6]. In this paper, we fix constraints on geometrical dark energy fluid inferred in the context of f (R) gravity. To this end, we adopt cosmography to fix cosmological bounds on the f (R) function and its derivatives at low redshift regime where degeneracy of concurring dark energy models is more evident. Cosmography allows to determine cosmological constraints in a model-independent way, once scalar curvature is somehow fixed. The idea is to expand into Taylor series cosmological observables. These expansions can be compared with data to get the cosmographic series, i.e. the numerical bounds on scale factor derivatives [21–23]. One commonly-used technique is represented by expanding the luminosity distance and compare it with supernovae data. However, a degeneration problem (duality problem) occurs once different cosmological distances are involved. Hence, a non-definitive consensus exists on the adequate cosmological distance to use in the framework of cosmography. We therefore perform the experimental analysis by means of three cosmological distance rulers,
+i.e. luminosity, flux and angular distances. We check the viability of different cosmological distances and measure cosmological constraints on the cosmographic series, deriving bounds on f (R) curvature dark energy.
+The paper is organized as follows: in Sec. II, we highlight the main features of cosmography and its application to cosmology. In Sec. III, we describe the problems related to cosmography, pointing out the so called duality problem. In Sec. IV, the experimental procedures is described. In Sec. V, cosmography in view of f (R) is discussed . Finally, Sec. VI is devoted to conclusions and perspectives.
+
+BASICS OF COSMOGRAPHY
+
+Let us summarize the main aspects of cosmography and describe how it can be considered as a tool to fix constraints on cosmological observables. Firstly, let us assume that the cosmological principle holds and the equation of state is currently determined by a geometrical fluid, with pressure Pcurv. Under these hypotheses, we expand cosmological observables into Taylor series and match the derivatives of such expansions with cosmological data. Examples of expanded quantities are the Hubble parameter, the luminosity distance, the apparent magnitude modulus [24, 25], the net pressure, and so forth [26, 27]. The power series coefficients of the scale factor expansion are known in the literature as cosmographic series (CS), if calculated at present time, or alternatively at the redshift z = 0. Those coefficients are therefore expressed in terms of the cosmological scale factor a(t) and its derivatives [21]. It follows that the cosmographic approach does not need to assume a particular cosmological model.
+Thence, one of the main advantage of cosmography is alleviating degeneracy among cosmological models, i.e. cosmography allows, in principle, to understand which model better behaves than others. In case of f (R) gravity, for example, matter density degenerates with scalar curvature and cannot be constrained a priori. However, cosmography fixes model independent constraints on the cosmological equation of state and then results a technique to discriminate among competing f (R) models [21], removing the degeneracy between matter and scalar curvature [22]. This technique turns out to be useful to reconstruct the form of f (R) which better traces the universe expansion history. Thus, more precisely, cosmography represents a model independent method to infer cosmological bounds, once spatial curvature is somehow fixed.
+Recent observations point out that the scalar curvature is negligible, so we can easily impose Ωk = 0 [28]. Than one has
+
+1 − a(t)
+~  ∆t + q0 H ∆t2 + j0 H2∆t3 − s0 H3∆t4 + . . . ,	(1)
+
+
+/	/
+H0	2	0
+
+/	/
+6	0	24  0
+
+3
+
+which represents the Taylor series of the scale factor a(t), around ∆t = t − t0 = 0. The CS can be thus defined as
+
+
+H˙ 0
+/
+2
+0
+
+= −(1 + q) ,
+H¨0
+/
+3
+0
+
+= j + 3q + 2 ,
+ H(3)
+4
+0
+
+Here, dots represent derivatives with respect to the cosmic time t. Each term brings its own physical meaning. Particularly, the Hubble rate H(t) is intimately related to the variation of a(t) with time, the acceleration parameter q(t) measures how the universe is speeding up and the jerk parameter j(t) permits one to understand how the acceleration varied in the past. The coefficients are defined as
+
+1 da
+1  d2a
+1  d3a
+
+H(t) = a dt ,	q(t) = − aH2 dt2 ,	j(t) = aH3 dt3 ,	(3)
+and are considered at a given time t0. We may argue that such quantities are able to describe the kinematics of the universe [29] and we do not pose, at this stage, the problem of which model causes the universe acceleration. In analogy to the classical mechanics, we say that cosmography is a kinematic approach to trace the universe expansion today. From one hand, the advantages of cosmography consist on its model independent reconstructions of present-time cosmology. In other words, it can be considered like a snapshot of the today observed universe capable of giving initial conditions for reconstructing back the cosmic evolution. From the other hand, the disadvantages rely on the fact that current data are either not enough to guarantee significative and accurate constraints or do not fit significant intervals of convergence for z ≪ 1. In addition, the cosmological observable that one expands into Taylor series, i.e. a(t) is not known a priori. Consequently, there is no physical motivations to use a particular cosmological distance than others. This means that the use of a given luminosity distance to constrain CS is only motivated by ad hoc arguments. This fact constitutes the so-called duality problem that we discuss in the next section. To alleviate duality problem, we will compare three different cosmological distances to trace universe expansion history at late times, under the hypothesis of a f (R) geometrical dark energy fluid.
+
+THE DUALITY PROBLEM AND COSMOGRAPHIC CONVERGENCE
+
+By a cosmographic analysis, one can fix constraints on the geometrical dark fluid, alleviating the degeneracy problem. To this end, one needs a self-consistent definition of causal distance. Unfortunately, standard definitions implicitly postulate that the universe is accelerating [30, 31], i.e. to infer the distance expansion, we evaluate the
+
+distance r0 that a photon travels from a light source at r = r0 to our position at r = 0, defined as r0 =
+t0 dt′ a(t′).
+
+Consequently, one obtains as prototype the so called luminosity distance dL, while other definitions, e.g. the photon
+flux distance dF , angular diameter distance dA and so forth, can easily be derived from different considerations. As previously stressed, this leads to a severe duality problem on the choice of the particular cosmological ruler to use for fixing cosmological constraints on the CS.
+Here, we use three different cosmological distances as rulers, e.g. the luminosity, flux and angular distances, dL, dF
+and dA respectively. Below the definition of these distances is reported in terms of r0, that is
+dL = a0r0(1 + z) = r0 a(t)−1 ,	(4a)
+dL	− 1
+dF = (1 + z)1/2 = r0 a(t) 2 ,	(4b)
+
+  dL	
+d =	= r
+a(t) .	(4c)
+
+A	(1 + z)2	0
+These distances can be used to the fix causal constraints on the curvature fluid in order to alleviate the degeneracy problem. For the sake of clearness, it is important to stress that although dL is associated to the ratio of the apparent and absolute luminosity of astrophysical objects, the other distances, i.e. dF and dA, may be also used to fix bounds on the observable universe. All the different cosmological distances rely on the fundamental assumption that the total number of photons is conserved at cosmic scales. Hence, there is no reason to discard one distance with respect to another since all of them fulfill this condition. The duality problem represents a not well understood issue of observational cosmology [32]. In this work, we find differences in fitting Eqs. (4), showing that there is no reason to adopt dL only as the only cosmological distance.
+However a problem of convergence may occur, leading to possible misleading results for z > 1 in the cosmographic Taylor series. An immediate example is due to the most high supernova redshift in a typical data set. Usually, one
+
+4
+
+has that the furthest redshift at approximatively z ∼ 1.41, showing that a few number of supernovas spans in the range z > 1. It follows that numerical divergences and bad convergences may occur in the analysis, since Taylor expansions are carried out around z = 0. A plausible landscape deals with introducing alternative redshift definitions, re-parameterizing the cosmological distances in a tighter redshift range [33]. These possible re-parameterizations must fulfill the conditions that the distance curves should not behave too steeply in the interval z < 1. Moreover, the luminosity distance curve should not exhibit sudden flexes, being one-to-one invertible as discussed in [21]. In other words, it is easy to show that the new redshift re-parameterization, i.e. znew, provides znew = Z(z), with Z a generic function of the redshift z, with the property Z → 1, as z → ∞. In this work, we describe a technique to reduce the convergence problem, calibrating cosmological distance at first order in the Taylor series within a smaller range of redshift. Our strategy is to fix H0 with supernovae in the range z < 0.4. This turns out to be useful since a wide range of data is actually inside the sphere z < 1 and all cosmological distances at first order reduce to
+
+d ∼ z ,	(5)
+i	H0
+where di represents the generic distance, i.e. i = L; F ; A. Once H0 is fixed, the series naturally

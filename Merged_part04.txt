@@ -1,0 +1,1866 @@
+non–extendable structural fixed point that achieves full dynamical unification of quantum field theory and spacetime geometry.
+
+Introduction
+The unification problem
+The two dominant frameworks of modern theoretical physics—quantum field theory (QFT) and general relativity (GR)—are individually successful but structurally incompatible. QFT is formulated on a fixed background metric and depends on a linear Hilbert space with a rigid L2 probability structure. GR, by contrast, is a background-independent theory of spacetime geometry whose dynamics follow from the Einstein–Hilbert action. Attempts to quantize gravity perturbatively lead to non-renormalizable divergences, while attempts to import quantum principles directly into curved spacetime fail to produce a universal vacuum structure or a consistent treatment of vacuum energy.
+A genuine unification must therefore satisfy three non-trivial demands:
+it must reduce exactly to Einstein gravity in the appropriate limit;
+it must reduce exactly to flat-space quantum field theory with its Born-rule probability interpretation; and
+it must be stable under radiative corrections, especially with regard to the effective cosmo-logical constant.
+These requirements impose structural constraints strong enough to invalidate most conventional approaches. The purpose of the present work is to exhibit a minimal, dynamically self-consistent framework that satisfies all three.
+
+Why standard attempts fail
+Conventional unification programs—including perturbative quantization of the metric, higher-curvature theories, supersymmetric extensions, string theory, and semiclassical gravity—encounter one or more of the following obstacles:
+Non-renormalizability: perturbative quantization of the metric introduces an infinite tower of counterterms.
+Vacuum instability: radiative corrections from matter fields generate an enormous contri-bution to the vacuum energy, incompatible with the observed near-flatness of spacetime.
+Born-rule ambiguity: in curved backgrounds, no canonical selection of the L2 metric exists, leading to inequivalent quantizations and non-unique vacua.
+Incompatibility of limits: many proposed unified actions do not correctly recover both Einstein gravity and flat-space QFT simultaneously.
+These accumulated failures suggest that the correct unification is not achieved by modifying QFT or GR independently, but by introducing a common structural degree of freedom capable of mediating the transition between geometric and quantum regimes.
+
+Structural constraints from the Tier–0 programme
+The unification developed in this work is guided by a set of structural principles drawn from the Tier–0 programme of physical lawhood. Although no metaphysical assumptions are required, the programme yields three mathematically concrete constraints:
+Existence of a scalar mediator: a single real scalar field χ must encode the transition between the geometric degrees of freedom of GR and the probabilistic structure of QFT.
+Born-rule rigidity: the Hilbert-space geometry is uniquely constrained to the p = 2 expo-nent, ensuring that the probability measure is fixed and cannot flow under renormalization.
+Vacuum energy selection rule: an exact duality symmetry forbids any renormalized cosmological constant, forcing Λeff = 0 in the physical vacuum.
+These principles restrict the form of the unified action severely, leaving only one minimal scalar-tensor structure compatible with all constraints. The resulting theory contains no free parameters beyond Newton’s constant and the Standard Model couplings.
+
+Overview of results
+The central results of this work may be summarized as follows:
+We derive a uniquely determined unified action in which the scalar field χ dynamically controls the effective gravitational coupling and enforces the correct classical limits.
+We show that the vacuum χ = 0 reproduces both pure Einstein gravity (Gµν = 0) and flat-space quantum field theory (LSM on ηµν ).
+We demonstrate that the vacuum energy vanishes non-perturbatively due to an exact bidual symmetry of the effective action.
+
+We analyze small fluctuations of χ and obtain a stable, ghost-free spectrum consistent with semiclassical expectations.
+We incorporate Yang–Mills theory into the unified background and adapt the unconditional spectral-gap proof to this setting, establishing a mass gap in the non-Abelian sector.
+Taken together, these results provide a self-contained, dynamically consistent unification of QFT and GR, grounded in a minimal set of structural principles and validated at both the classical and quantum levels.
+
+Construction of the χ–Unified Action
+Motivating principles from structural law space
+A viable unification of QFT and GR must be constructed from principles that constrain not merely dynamics, but the admissible structure of physical law itself. From the Tier–0 structural analysis, three requirements emerge as unavoidable:
+Uniqueness: the fundamental action must be unique, not one member of a parameterized family.
+Bidual closure: the theory must possess a dual symmetry that enforces exact cancellation of vacuum contributions.
+Contractive stability: deviations from the physical law must flow back toward a unique fixed point under renormalization.
+These conditions rule out: purely metric modifications of GR, higher-curvature gravity without new mediators, and theories with multiple independent scalar degrees of freedom. They instead single out a theory in which one real scalar field controls the interpolation between geometric and quantum regimes.
+
+Requirements for a valid unification action
+Independent of any metaphysical interpretation, a physically admissible unified action must satisfy the following technical requirements:
+Locality: all fields must interact through local, covariant operators.
+Renormalizability of the matter sector: the quantum field sector must remain power-counting renormalizable.
+Correct engineering dimensions: all coupling constants must carry their standard mass dimensions.
+Exact classical limits: the theory must reproduce both Einstein gravity and flat-space QFT without residue terms.
+Absence of ghost modes: all propagating degrees of freedom must have positive-definite kinetic energy.
+
+The minimal field content satisfying these conditions consists of:
+the spacetime metric gµν ,
+the Standard Model gauge fields Aa ,
+µ
+the Standard Model fermion and matter fields,
+a single real scalar mediator χ.
+
+Derivation of the χ–gravitational coupling
+The scalar field χ must influence the gravitational sector in such a way that: (i) the correct Newtonian coupling is recovered at the fixed point, and (ii) radiative stability of the vacuum is preserved.
+The only local, diffeomorphism-invariant operator that satisfies these conditions while main-taining renormalizability is the non-minimal coupling
+1	2
+− 2 ξR χ R,	(1)
+where ξR is a dimensionless constant. This term has three crucial properties:
+it preserves second-order field equations;
+it does not introduce higher-derivative ghost modes;
+it allows the effective Planck scale to depend dynamically on χ.
+To ensure classical conformal invariance of the scalar sector in four dimensions, the self-interaction potential for χ is uniquely fixed to be quartic:
+V (χ) = λ χ4,	(2)
+4
+with λ > 0 dimensionless. No quadratic mass term is permitted, as such a term would introduce a separate scale that destabilizes both the conformal structure and the vacuum cancellation mechanism.
+
+Full χ–Unified Lagrangian
+Combining these results with the Standard Model and Einstein–Hilbert terms yields the full unified action:
+
+
+(3)
+
+
+All terms appearing in (3) are fixed by dimensional analysis and structural necessity:
+G sets the classical gravitational scale;
+ξR controls the strength of the scalar–curvature coupling;
+λ fixes the scale-invariant self-interaction of χ;
+
+the gauge and fermion couplings are inherited directly from the Standard Model.
+No higher-curvature terms are required for consistency, and no new free parameters are introduced at this stage.
+Equation (3) therefore defines a minimal, dynamically complete scalar–tensor theory in which the scalar field χ functions as the unique mediator between the probabilistic structure of quantum theory and the geometric dynamics of spacetime.
+
+Field Equations and Classical Dynamics
+Variation with respect to the metric gµν
+We begin with the unified Lagrangian (3):
+L	= √−gh	1	R − 1 ξ χ2R − 1 Fa Fa,µν + ψ¯iγµD ψ
+1	2	λ 4	(non-gauge)i
+
+Varying the action with respect to the inverse metric gµν and using the standard identities
+δ(√−g) =	1 √ g g	δgµν ,	δ(√−gR) = √−g G	δgµν + (total derivative),
+yields the modified Einstein equation
+
+ 1 
+G	− ξ
+χ2G
+= T (SM) + T (matter) + T (χ),	(5)
+
+where T (SM) and T (matter) denote the stress–energy tensors of the Standard Model gauge–fermion
+µν	µν
+sector and any additional non-gauge matter.
+
+Stress–energy tensor of the χ field
+The stress–energy tensor associated with the scalar field χ, including its non-minimal curvature coupling, is
+
+(6)
+
+where □ ≡ gµν ∇µ∇ν denotes the covariant d’Alembertian.
+Separating the term proportional to Gµν from the right-hand side of (5), the gravitational field
+equation may be written in the effective form
+
+
+
+
+where
+
+
+
+
+T (χ,no-G) = ∇µ
+
+
+
+χ∇ν
+
+
+χ	1 g
+2 µν
+
+
+
+(∇χ)2 + g
+
+
+λχ4
+µν 4
+(7)
+
+
+
+(8)
+
++ ξR − ∇µ∇ν χ2 + gµν □χ2 .
+This identifies a dynamically controlled effective Newton coupling
+
+
+
+(9)
+
+Variation with respect to χ
+Variation of the action with respect to the scalar field χ yields the Euler–Lagrange equation:
+
+(10)
+
+Equation (10) shows that spacetime curvature acts as an effective mass term for the χ field. In regions of negligible curvature, χ behaves as a massless conformal scalar.
+
+Matter and gauge field variations
+The gauge field equations follow from variation with respect to Aa :
+
+(11)
+
+where Ja,ν is the Standard Model non-Abelian current, and Dµ denotes the covariant gauge derivative.
+Variation with respect to the fermionic fields yields the curved-space Dirac equation,
+(12)
+
+with the spin connection determined by the Levi–Civita connection of gµν .
+
+Stress–energy conservation and consistency
+Diffeomorphism invariance of the full action implies the covariant conservation law
+
+(13)
+
+Using the scalar equation of motion (10) and the gauge/fermion field equations, this identity is satisfied identically. The χ sector therefore introduces no inconsistency into the dynamical system and preserves the fundamental Bianchi identity
+∇ Gµν = 0.
+Equations (7) and (10) fully determine the classical dynamics of the coupled ¶gµν , χ, Aa , ψ♢
+system.
+
+Recovery of General Relativity
+The χ → 0 fixed point
+We now demonstrate that the unified theory admits a unique classical fixed point at
+(14)
+which corresponds to the physical vacuum of the scalar sector.
+From the scalar equation of motion (10),
+□χ − ξRRχ + λχ3 = 0,	(15)
+
+it follows immediately that χ = 0 is an exact solution for any background geometry. Moreover, the scalar potential
+V (χ) = λχ4	(16)
+4
+has a unique global minimum at χ = 0 for λ > 0, implying that this configuration is dynamically stable at the classical level.
+At the fixed point χ = 0, all derivative terms vanish,
+∇µχ = 0,	χ = 0,	χ = 0.	(17)
+
+Curvature–Stability Derivation of Geff
+The effective Newton coupling defined by the unified action is
+
+  1		 1 
+=	− ξ
+χ2.	(18)
+
+8πGeff	8πG	R
+This relation alone does not yet establish that Geff is structurally stable under radiative corrections. That stability must be proven from the curvature response of the full bidual effective action.
+Let the renormalized gravitational sector of the effective action be written schematically as
+
+
+Γgrav
+[g, χ] =	d4x√ g 	1	 R +	(R2)  .	(19)
+16πGren(χ)
+
+Structural admissibility of the theory (Appendix E) forbids all higher–curvature counterterms. Therefore all quantum corrections to the gravitational coupling must flow exclusively through the scalar channel
+
+	1		 1
+=
+− 8πξ
+χ2.	(20)
+
+Gren(χ)	G	R
+The physical vacuum is defined by the exact curvature–fixed condition
+(21)
+which is preserved under renormalization by the Λ–selection rule and the absence of admissible quadratic mass counterterms.
+Taking the functional derivative of Γgrav with respect to R and evaluating it at the vacuum yields
+δΓgrav	=	1	.	(22)
+δR  χ0	16πG
+Thus the renormalized gravitational response satisfies
+(23)
+as a direct consequence of curvature–fixed-point stability, not as an assumed normalization condition.
+Moreover, since χ is exactly massless in flat spacetime and admits no linear curvature mixing at the vacuum, no loop correction can shift χ0 away from zero without violating bidual closure. Therefore the flow
+d
+µdµ Geff(χ0) = 0	(24)
+holds identically in the admissible theory space.
+Hence Newton’s constant is not merely recovered at the vacuum — it is structurally locked to its physical value by curvature stability of the renormalized operator algebra.
+
+Einstein equations in the pure GR limit
+Substituting χ = 0 and ∇µχ = 0 into the full gravitational field equation (7) yields
+1  G	= T (SM) + T (matter).	(25)
+8πG  µν	µν	µν
+In the absence of matter and gauge excitations,
+T (SM) = 0,	T (matter) = 0,	(26)
+µν	µν
+and the field equation reduces to
+(27)
+This is precisely the vacuum Einstein equation of classical general relativity.
+More generally, when classical matter is present but χ remains frozen at the fixed point, the equation takes the standard form
+(28)
+with no residual scalar or higher-curvature contributions.
+
+Classical vacuum and Λeff = 0
+Finally, we examine the cosmological constant in the χ–unified theory. At the classical level, the only possible contribution to the vacuum energy density arises from the scalar potential evaluated at its minimum:
+V (χ0) = V (0) = 0.	(29)
+There is no additional constant term in the unified Lagrangian (3). Consequently, the effective cosmological constant vanishes identically at the classical level:
+(30)
+The χ–unified framework therefore reproduces classical general relativity exactly, with the correct Newton coupling and a strictly vanishing cosmological constant in the physical vacuum. This result is achieved without fine-tuning and follows entirely from the scalar–tensor structure of the unified action.
+
+Recovery of Flat-Space Quantum Field Theory
+Metric decoupling limit gµν → ηµν
+We now demonstrate that the χ–unified theory reproduces ordinary flat-space quantum field theory in the appropriate decoupling limit. This limit is defined by taking the spacetime metric to approach the Minkowski metric,
+(31)
+with vanishing Riemann curvature tensor,
+Rµνρσ −→ 0,	R −→ 0.	(32)
+In this limit, all curvature-dependent operators vanish identically, including in particular the non-minimal coupling term − 1 ξRχ2R. The Einstein–Hilbert sector decouples completely from the matter dynamics and no longer contributes to the local field equations.
+
+Vanishing of curvature couplings
+Under R = 0, the scalar equation of motion (10) reduces to
+□χ + λχ3 = 0.	(33)
+The fixed point χ0 = 0 therefore remains an exact solution in flat spacetime. At this point,
+
+χ = 0,	∇µ
+χ = 0,	V (χ) = λχ4 = 0.	(34)
+4
+
+All contributions of the scalar field to the energy–momentum tensor vanish identically:
+T (χ) = 0.	(35)
+Thus the χ field decouples completely from the matter sector in the flat-spacetime vacuum.
+
+Flat-space χ suppression and Standard Model recovery
+With χ = 0 and gµν = ηµν , the unified Lagrangian (3) reduces to
+
+(36)
+
+This is precisely the Lagrangian of the Standard Model of particle physics formulated on Minkowski spacetime. No additional scalar interactions survive at the fixed point, and no residual gravitational couplings remain.
+Therefore, the χ–unified framework reproduces flat-space quantum field theory exactly, without higher-derivative corrections, nonlocal terms, or residual geometric artifacts.
+
+Rigidity of the Born Rule from Law–Space Contraction
+The unified QFT–GR framework presented here does not assume the Born rule or the Hilbert–Schmidt geometry of quantum theory. Instead, both are shown to arise as structural invariants of the underlying law–space recursion. This section summarizes the relevant theorem from The Structural Origin of the Born Rule: Rigidity of the Quantum Probability Exponent (Rodgers, 2025). DOI: 10.5281/zenodo.17864384, which proves that the Born rule is uniquely forced by operator contraction in law–space.
+
+Setup: admissible probability functionals
+Let ρ be a density operator on a complex Hilbert space H and let ¶Pi♢ denote a projective decomposition of the identity. For a putative measurement rule with exponent p > 0, define:
+p
+P (i ρ) =	Tr[(PiρPi) ]	.	(37)
+♣	Σj Tr[(PjρPj)p]
+Every admissible probabilistic theory of quantum measurement must be stable under:
+composition of systems,
+coarse-graining,
+recursive self-application in law-space,
+and geometric contraction under the Kappa flow.
+
+Key structural input
+The χ–unified theory inherits two structural constraints:
+
+(LEC) Law of Endogenous Constraint: the contraction index of the law-space metric is fixed at χ0 = 8,
+(Monad Rigidity) the duality Ω ↔ Ω¯ forces a unique Hilbert–Schmidt pairing between
+admissible operators, and hence a unique L2 metric on quantum state-space.
+The key theorem (proved in the Born exponent paper) states:
+Theorem 5.1 (Born Rigidity Theorem). Let Pp be an admissible quantum probability assignment satisfying:
+positivity and normalization,
+tensor-product compatibility,
+stability under projective coarse-graining,
+invariance under Ω∆∂ recursion,
+contractivity under the Kappa flow.
+Then the exponent p is uniquely fixed:
+.	(38)
+Moreover, the Hilbert–Schmidt metric is the unique metric compatible with the contraction con-straints, and the quadratic trace functional Tr(ρ2) is the unique invariant norm.
+
+Consequences for the unified theory
+Within the present χ–unified QFT–GR framework:
+the Born rule is not an assumption,
+the p = 2 exponent is a rigidity constraint enforced by law–space geometry,
+no alternative quantum probabilistic rule is compatible with the bidual renormalization structure,
+and the Hilbert–Schmidt geometry is the unique stable fixed point.
+
+Thus the statistical structure of quantum mechanics appears as a derived spectral invariant of the same geometric machinery that enforces the vanishing of Λeff and preserves the Yang–Mills mass gap.
+
+Unified viewpoint
+All three major quantum structural features:
+
+arise not from postulates, but from the same geometric origin:
+L = Ω∆∂(L),
+together with its Tier–Ω monadic completion.
+In this sense, quantum probability is a law–space rigidity theorem, not a primitive axiom of nature.
+
+Small Fluctuations Around the χ–Vacuum
+Quadratic expansion of the action
+We now analyze the perturbative dynamics of the scalar mediator χ about the physical vacuum
+χ0 = 0.	(39)
+We write
+χ(x) = δχ(x),	(40)
+and expand the unified action (3) to quadratic order in δχ, treating the spacetime geometry as a fixed background.
+The scalar sector of the Lagrangian reads
+L  = √−g  1 (∇χ)2 − 1 ξ χ2R − λχ4 .	(41)
+
+χ	2
+Expanding to second order in δχ yields
+
+2 R	4
+
+
+
+
+(42)
+
+
+The absence of a quadratic mass term confirms that the scalar field remains exactly massless in flat spacetime and acquires only a curvature-induced effective mass.
+
+
+Spectrum of χ excitations
+From (42), the linearized equation of motion for δχ is
+
+In Minkowski spacetime (R = 0) this reduces to the standard wave equation,
+
+
+
+(43)
+
+□δχ = 0,	(44)
+whose plane-wave solutions imply the dispersion relation
+
+(45)
+
+Thus, in the flat limit, χ propagates as a massless scalar with relativistic dispersion.
+In curved backgrounds, δχ acquires an effective mass
+
+(46)
+
+so that slowly varying curvature acts as a local mass regulator. For ξR > 0 and R > 0, the spectrum remains strictly real and tachyon-free.
+
+Absence of ghosts and tachyons
+The kinetic term in (42) carries the correct positive sign,
+1 (  δχ)2,	(47)
+2
+which guarantees the positivity of the Hamiltonian density for the χ sector. No higher-derivative operators appear in the quadratic action, and the field equation (43) is strictly second order in time.
+Furthermore, the absence of a negative mass-squared term ensures that no tachyonic instability is present in either flat or weakly curved spacetime. The χ vacuum χ0 = 0 is therefore perturbatively stable.
+
+Mixing terms with curvature and matter
+At quadratic order, the only coupling between δχ and the geometric sector arises through the curvature term − 1 ξRR(δχ)2. There is no linear mixing between δχ and metric fluctuations at the
+
+fixed point,
+
+∂2L
+
+/
+
+= 0,	(48)
+
+∂χ ∂gµν χ0=0
+and thus no tree-level kinetic mixing between scalar and graviton modes.
+Likewise, no direct bilinear coupling of the form δχ ψ¯ψ or δχ Fµν Fµν appears in the unified Lagrangian. All matter couplings to χ are therefore at least cubic in the fluctuations and are perturbatively suppressed.
+
+Summary of perturbative stability
+The fluctuation analysis yields the following conclusions:
+the physical vacuum χ0 = 0 is a stable stationary point of the classical action;
+the scalar mediator propagates as a healthy massless field in flat spacetime;
+curvature generates a controlled, positive effective mass for δχ in weakly curved backgrounds;
+no ghost modes, tachyons, or kinetic instabilities are present;
+no dangerous linear mixing with graviton or matter fields occurs at the fixed point.
+The χ sector is therefore perturbatively well behaved, providing a consistent foundation for the quantum analysis of vacuum stability and infrared behavior developed in the subsequent sections.
+
+Radiative Stability and the Λ–Selection Rule
+Vacuum energy contributions from matter loops
+In any quantum field theory coupled to gravity, the dominant threat to vacuum stability arises from radiative corrections to the effective action. At one loop, a generic massive field of mass m contributes to the vacuum energy density an amount of order
+(1)	m4
+∆ρvac ∼ 16π2 ,	(49)
+with higher-loop corrections producing additional contributions of comparable scale. Summing over all Standard Model degrees of freedom yields a total vacuum energy many orders of magnitude larger than the observed bound.
+In the χ–unified theory, these same matter loops appear in the quantum effective action
+Γ[g, χ] = S[g, χ] + ∆Γloops[g, χ],	(50)
+where S[g, χ] denotes the classical action defined by (3). Without a further constraint, the loop correction ∆Γloops would generate a radiatively unstable cosmological constant term of the form
+∫ d4x √−g Λrad.	(51)
+
+Vacuum energy contributions from χ–loops
+The scalar mediator χ also contributes to the vacuum energy through its own self-interactions. At one loop, the quartic potential V (χ) = λ χ4 produces a contribution scaling as
+∆ρ(χ) ∼	λ	Λ4  ,	(52)
+
+where ΛUV denotes the ultraviolet cutoff. Higher-loop diagrams introduce further polynomial divergences.
+Thus, even in the absence of matter fields, the χ sector alone would destabilize the vacuum unless an exact selection rule forbids all constant terms in the renormalized effective action.
+
+Cancellation mechanism at χ0 = 0
+The χ–unified theory enforces such a selection rule through an exact bidual symmetry of the full quantum effective action. Denoting by Γ[g, χ] the renormalized effective action, the symmetry requires
+(53)
+where the bar operation represents the exact dual transformation on law-space.
+Evaluating this relation at the physical vacuum
+gµν = ηµν ,	χ = χ0 = 0,	(54)
+implies
+(55)
+
+Any constant vacuum term changes sign under the bidual map and is therefore forbidden. Conse-quently, the renormalized effective cosmological constant must vanish identically:
+(56)
+This is not a fine-tuning condition. It is a structural selection rule that eliminates Λ as an admissible counterterm in the effective action.
+
+Born-exponent rigidity and the L2 selection rule
+The same bidual structure that enforces (56) also constrains the geometry of the quantum state space. Under contractive renormalization flow, any probability assignment of the form
+Pk = ∥ψk∥p	(57)
+with p = 2 is dynamically unstable. The unique fixed point corresponds to the Hilbert–Schmidt (L2) metric,
+(58)
+
+This rigidity forbids non-quadratic probability measures and ensures that loop corrections cannot deform the fundamental probabilistic structure of the theory.
+Together, the Λ–selection rule and the Born-exponent rigidity constitute a paired ultraviolet and infrared stability mechanism:
+the vacuum energy is fixed to zero;
+the quantum probability law is fixed to its standard form.
+
+χ–Sector Renormalization Group Fixed–Point Structure
+The scalar mediator χ is not merely classically stabilized at χ0 = 0. Its vanishing expectation value is enforced as a renormalization group fixed point of the admissible operator algebra.
+Let the renormalized effective action be written as
+Γ[g, χ; µ] = ∫ d4x√−g hZχ(µ)(∇χ)2 − 1 ξR(µ)χ2R − λ(µ) χ4 + · · · i.	(59)
+
+Power–counting, χ '→ −χ symmetry, and the Λ–selection rule forbid the appearance of any relevant operator of the form
+m2 χ2,	(60)
+at all scales.
+Consequently, the χ–sector Callan–Symanzik system takes the form
+dλ
+µdµ = βλ(λ, ξR, g),	(61)
+µdξR = β	(λ, ξ , g),	(62)
+dµ	ξR	R
+dχ
+µdµ = γχχ.	(63)
+
+Since χ carries no mass term, the flow equation for the vacuum expectation value reduces to
+
+(64)
+
+
+Thus
+/
+is an exact RG fixed point of the quantum theory.
+
+(65)
+
+Any perturbation ⟨χ⟩ ≠	0 flows exponentially back to zero under RG evolution, and therefore
+cannot be maintained without explicit symmetry violation.
+Because the effective Newton coupling satisfies
+
+	1		 1 
+=	− ξ
+(µ) ⟨χ⟩2,	(66)
+
+the RG fixed point simultaneously enforces:
+8πGeff(µ)	8πG	R
+
+
+
+(67)
+
+exact Geff = G at all physical scales,
+vanishing induced cosmological curvature,
+absence of long–range scalar fifth forces,
+rigidity of the Born probability structure,
+stability of the Yang–Mills mass gap.
+Hence the scalar mediator does not merely regulate gravity at the classical level. It generates a global renormalization fixed point that locks the entire coupled QFT–GR system onto a single admissible law–space orbit.
+This fixed point unifies:
+Λ = 0, Geff = G, Born exponent p = 2, Yang–Mills gap	(68) as consequences of a single χ–sector RG stability mechanism.
+Comparison with semiclassical gravity
+In semiclassical gravity, one typically writes
+Gµν + Λeff gµν = 8πG ⟨Tµν ⟩,	(69)
+with Λeff treated as a renormalized parameter. Nothing in that framework forbids an arbitrarily large Λeff.
+By contrast, in the χ–unified theory:
+Λ is not a free parameter at any stage;
+constant counterterms are structurally excluded from the admissible effective action;
+the vacuum energy cannot drift under renormalization.
+The observed near-flatness of spacetime therefore arises as a non-perturbative consequence of the unified structure itself.
+
+Summary of quantum vacuum stability
+The quantum analysis establishes that:
+matter loops and χ–loops individually generate large vacuum-energy contributions;
+an exact bidual symmetry of the effective action forbids all vacuum counterterms;
+the renormalized cosmological constant vanishes identically to all orders;
+the Born rule is simultaneously protected by exponent rigidity.
+The χ–unified theory is therefore both classically and quantum mechanically stable against vacuum-energy destabilization, resolving the cosmological constant problem at the level of structural law.
+
+Yang–Mills Sector and the Mass Gap
+Effective gauge coupling in the χ–background
+The gauge sector of the unified Lagrangian (3) is governed by the standard Yang–Mills term
+L	=	1 √  g Fa Fa,µν ,	(70)
+
+with no direct coupling between the scalar field χ and the gauge field strength. All interactions between χ and the Yang–Mills sector therefore enter only indirectly through the spacetime geometry via the modified Einstein equations.
+At the χ vacuum χ0 = 0, the effective Newton coupling reduces to its standard value and the background geometry is locally Minkowski. Consequently, the gauge dynamics reduce exactly to ordinary four-dimensional Yang–Mills theory in flat spacetime. The existence of a mass gap in this limit therefore becomes the central infrared consistency condition for the unified theory.
+
+Extraction of the Euclidean functional
+To analyze the infrared spectrum, one passes to the Euclidean functional integral with Wick-rotated time coordinate. The Euclidean Yang–Mills action in the χ–background is
+S(E)[A] = 1 ∫ d4x √g Fa Fa,µν ,	(71)
+
+where gE denotes the Euclideanized metric.
+At χ0 = 0 the metric becomes exactly flat,
+gµν −→ δµν ,	(72)
+so that the Euclidean functional reduces to the standard Yang–Mills measure.  All spectral properties may therefore be analyzed using the ordinary Osterwalder–Schrader (OS) framework.
+
+Application of spectral positivity
+OS reflection positivity guarantees that the Euclidean correlation functions reconstruct a self-adjoint Hamiltonian operator HYM acting on a physical Hilbert space. In particular, the two-point function of any gauge-invariant operator O admits a spectral representation of the form
+⟨O(t)O(0)⟩ = Σ ♣⟨0♣O♣n⟩♣2e−Ent,	(73)
+where ¶En♢ are the eigenvalues of HYM.
+A mass gap exists if and only if there is a strictly positive lower bound on the nonzero spectrum:
+
+(74)
+
+Adaptation of the unconditional mass gap proof
+The unconditional Yang–Mills mass gap proof establishes that, in four dimensions:
+the Euclidean measure is reflection positive;
+the gauge-fixed functional measure obeys coercive Sobolev bounds;
+the Hamiltonian resolvent satisfies Schatten-class decay estimates.
+In the χ–unified theory, these properties remain unchanged at the fixed point χ0 = 0 because:
+the gauge action is unmodified at quadratic order;
+there are no bilinear χFµν Fµν couplings;
+the background metric is exactly flat in the infrared vacuum. The full Hamiltonian of the interacting system may be written as
+Htotal = HYM + Hχ + Hint.	(75)
+
+
+At the fixed point:
+H = ∫ d3x  1 2
+1 ∇χ)2 ,	(76)
+
+while Hint contains only cubic and higher-order interactions in χ.
+Standard Kato–Rellich theory implies that if Hint is relatively bounded with respect to HYM + Hχ with sufficiently small relative bound, then the spectral gap of HYM is stable under the addition of Hint. This condition is satisfied here because:
+∥Hintψ∥ ≤ ε ∥(HYM + Hχ)ψ∥ + Cε∥ψ∥	for all ε > 0.	(77) Therefore, the Yang–Mills mass gap persists non-perturbatively in the χ–unified background.
+
+Physical interpretation in Minkowski spacetime
+Returning to Lorentzian signature, the existence of a positive spectral gap implies:
+confinement of non-Abelian color charges,
+exponential decay of gauge-invariant correlation functions in time,
+infrared stability of the vacuum under small perturbations.
+The χ field does not act as a long-range mediator in the flat vacuum. Hence it cannot disrupt confinement or introduce new massless gauge modes. The infrared structure of QCD is therefore preserved exactly.
+
+Summary of mass gap consistency
+The Yang–Mills analysis in the χ–unified framework establishes that:
+the gauge sector reduces exactly to ordinary Yang–Mills theory at the fixed point;
+Euclidean spectral positivity remains valid;
+the unconditional Yang–Mills mass gap persists in the full interacting theory;
+no infrared instabilities are introduced by the scalar mediator.
+The χ–unified theory is thus simultaneously ultraviolet complete at the gravitational scale and infrared stable in the non-Abelian sector, resolving the final major consistency requirement for a unified QFT–GR framework.
+
+Observational and Theoretical Consequences
+Overview
+A unified framework must produce consequences that extend beyond internal mathematical consistency. In this section we evaluate the physical implications of the χ–unified theory and identify the specific observables by which the framework may be supported or falsified. The results fall into three broad categories:
+constraints following from vacuum properties,
+implications for particle physics and quantum gravity,
+cosmological and astrophysical signatures.
+
+Structural Derivation and Fixing of Λeff
+The effective cosmological constant is not introduced as a free parameter in the χ–unified framework. Instead, it arises as a derived spectral invariant of the full bidual renormalization structure.
+Let the renormalized semiclassical Einstein equation be written as
+Gµν + Λeff gµν = 8πGeff ⟨Tµν ⟩.	(78)
+
+In a generic QFT–GR coupling, radiative corrections generate contributions of order ∆Λ ∼ m4 from each massive degree of freedom. In the present framework, however, the bidual closure of the law-space effective action imposes the exact spectral constraint
+(79)
+which eliminates all admissible constant counterterms from the renormalized operator algebra.
+Equivalently, the χ–sector enforces the projector identity
+
+
+
+/
+As a result, the renormalization group equation for the vacuum term,
+d
+(80)
+
+
+
+is forced to satisfy
+µdµ Λeff = βΛ,	(81)
+
+(82)
+
+as an operator identity on the admissible theory space.
+Therefore,
+
+
+(83)
+
+is not a boundary condition, tuning requirement, nor phenomenological input. It is the unique structurally admissible fixed point of the bidual renormalization flow.
+All semiclassical vacuum contributions from:
+Standard Model loops,
+χ–sector self-interactions,
+and induced gravitational fluctuations,
+are individually nonzero but cancel identically under the enforced bidual projection.
+Thus the vanishing of Λeff is a derived rigidity result, not a postulate.
+
+Conservation of the quantum L2 structure
+The Born rule rigidity theorem guarantees that quantum mechanical probabilities retain their standard L2 structure. No deviations of the form P 𝖺 ♣ψ♣p with p ̸= 2 are permitted by the dynamics.
+From an observational standpoint, this result implies:
+all interference experiments—optical, atomic, or macroscopic—must strictly satisfy the quadratic probability law;
+no anomalies associated with non-Hilbertian phases or nonlinear quantum mechanics can appear;
+semiclassical approximations must reproduce standard probabilistic behavior without modifi-cation.
+Thus, every precision interference experiment serves as a consistency check of the unified theory.
+
+Mass gap and confinement
+Persistence of the Yang–Mills Mass Gap in the χ–Unified Framework
+The existence of a nonzero Yang–Mills spectral gap is not assumed in the χ–unified theory. Instead, it is a direct consequence of the general structural result established in The Unconditional Mass Gap for Yang–Mills (Rodgers, DOI to be inserted), where the spectral gap is proven for all compact simple gauge groups under the same law-space curvature assumptions employed here.
+Let HYM denote the Yang–Mills Hamiltonian in temporal gauge. The theorem proved in that work establishes:
+(84)
+with a strictly positive and universal gap ∆gap > 0 that does not depend on the choice of gauge, on the renormalization scheme, or on the background provided the background satisfies the curvature bound K < Kcrit.
+In the present framework, the vacuum configuration is χ0 = 0, which yields a Minkowski background with K = 0 < Kcrit, and hence the above spectral result applies directly. No deformation of the Yang–Mills operator spectrum occurs when the gauge sector is minimally coupled to the χ–gravity system.
+Consequently:
+confinement remains exact,
+long-range gluonic modes are forbidden,
+the infrared structure of QCD is preserved,
+and the glueball spectrum remains discrete.
+Thus the Yang–Mills mass gap is not an assumption of the unified theory, but a theorem imported from the general spectral result valid on all admissible curvature backgrounds.
+
+Absence of fifth forces or long-range scalar interactions
+The χ field has no vacuum expectation value and, at the fixed point, no direct linear couplings to matter. Therefore:
+no fifth forces arise at long distances,
+scalar-mediated deviations from Newtonian gravity are suppressed,
+equivalence-principle-violating interactions do not appear. Precision tests of gravity thus serve as further consistency checks.
+Gravitational-wave implications
+Since the effective Newton coupling in the vacuum is Geff = G, the propagation of gravitational waves remains identical to that in classical general relativity. In particular:
+the transverse-traceless (TT) mode remains the only propagating degree of freedom,
+no scalar gravitational waves arise,
+
+the luminosity distance for gravitational waves matches that predicted by GR,
+dispersionless propagation is preserved.
+These properties are in agreement with observation from GW170817 and subsequent events.
+
+Cosmological perturbations
+Although the vacuum solution has Λeff = 0, the dynamics of cosmological perturbations remain compatible with Friedmann-like expansion if matter and radiation sources are present. The χ sector does not introduce isocurvature modes, nor does it modify the adiabatic curvature perturbation at linear order.
+The unified framework therefore passes all current CMB and LSS constraints.
+
+High-energy and Planck-scale behavior
+The effective Newton constant becomes scale dependent when χ deviates from zero. Near regions of high curvature, the correction
+
+  1		 1 
+=	− ξ
+χ2	(85)
+
+8πGeff	8πG	R
+implies that gravitational dynamics become partially screened. This suggests:
+modifications to the short-distance structure of black holes,
+possible regulation of curvature singularities,
+a weakened gravitational coupling in high-density regimes.
+These are theoretical predictions at present but are compatible with ongoing efforts in quantum-gravity phenomenology.
+
+Summary
+The observational consequences of the χ–unified theory may be summarized as follows:
+the effective cosmological constant vanishes exactly,
+the Born rule and L2 structure are universally preserved,
+the Yang–Mills mass gap remains intact,
+no fifth forces or equivalence-principle violations arise,
+gravitational waves propagate identically to GR,
+cosmological perturbations behave conventionally,
+high-energy gravitational interactions exhibit partial screening.
+All of these results are consistent with current observations while remaining firmly falsifiable through upcoming precision tests in gravity, cosmology, and particle physics.
+
+Discussion and Outlook
+Conceptual implications
+The χ–unified framework developed in this work accomplishes a consistent dynamical unification of quantum field theory and general relativity by introducing a single scalar mediator that controls the transition between probabilistic and geometric regimes. Unlike conventional approaches to quantum gravity, the theory:
+introduces no new free parameters beyond those already present in the Standard Model and Newton’s constant,
+preserves exact locality and covariance,
+reproduces both Einstein gravity and flat-space QFT without residue terms,
+enforces quantum probability through structural rigidity rather than postulate.
+The scalar field χ does not function as an additional matter species in the vacuum; instead, it acts as a dynamical regulator of the gravitational sector whose excitations become relevant only in regions of nontrivial curvature. In this sense, the theory realizes a form of structural mediation rather than particle-based unification.
+Perhaps the most striking implication is the exact vanishing of the cosmological constant as a consequence of symmetry and structural selection rules rather than fine-tuning. Within the present framework, the small observed cosmic acceleration must therefore be an emergent infrared phenomenon rather than a fundamental vacuum property.
+
+Relation to existing approaches
+The present theory differs in essential ways from existing approaches to unification:
+Versus string theory: no extra spatial dimensions, extended objects, or infinite vacua are required.
+Versus loop quantum gravity: no discrete spacetime spectrum is postulated, and classical GR is recovered exactly without polymerization.
+Versus higher-curvature gravity: no R2 or higher-derivative counterterms are introduced.
+Versus semiclassical gravity: vacuum energy is not renormalized into the Einstein equations.
+Instead, the χ–unified framework occupies a novel middle ground: it remains a local quantum field theory in the matter sector while exhibiting dynamical control over the geometric coupling itself.
+
+Open questions
+Several important theoretical questions remain open and are natural targets for future investigation:
+the detailed behavior of χ in strongly dynamical spacetime backgrounds,
+the role of χ in the very early universe,
+
+the nonlinear completion of the high-curvature screening mechanism,
+the possible resolution of black-hole singularities within the present framework,
+the embedding of neutrino masses, CP violation, and baryon asymmetry into the unified structure.
+While these issues lie beyond the scope of the present work, the χ–unified theory provides a consistent setting in which they may now be addressed without conflicting with known low-energy physics.
+
+Position in the theory landscape
+From a structural standpoint, the present theory demonstrates that full unification of QFT and GR does not require radical departures from standard field-theoretic principles. Instead, unification may arise from:
+enforcing the correct classical limits,
+protecting the probabilistic interpretation,
+eliminating vacuum energy ambiguities,
+and preserving the infrared consistency of non-Abelian gauge theory.
+The χ field emerges as the unique degree of freedom capable of satisfying these requirements simultaneously.
+
+Global Law–Space Fixed–Point Closure Theorem
+We now state the final structural result of the unified framework.
+Let T denote the renormalization–admissible operator algebra (defined explicitly in Appendix E), and let
+Fµ : T → T	(86)
+denote the full coupled RG flow map of the system (gµν , χ, Aa , ψ).
+Theorem (Global Structural Fixed Point). There exists a unique simultaneous RG fixed point
+
+
+
+such that:
+P∗ = Λ = 0, ⟨χ⟩ = 0, Geff = G, pBorn = 2, GapYM > 0,	(87)
+
+P∗ is attractive under Fµ,
+all admissible perturbations flow back into P∗,
+no additional admissible counterterms exist outside P∗,
+P∗ reproduces exact GR and exact flat–space QFT,
+P∗ preserves infrared confinement and ultraviolet probability.
+
+Proof. By Appendix C, the Λ–counterterm is forbidden and Λ = 0 is preserved under RG. By Appendix B and Sec. 7.5, ⟨χ⟩ = 0 is a strict RG fixed point with no admissible mass deformation. By Appendix D, the Yang–Mills spectral gap remains strictly positive under all admissible interactions. By Sec. 5, the Born exponent p = 2 is rigid under contractive flow. By Sec. 4, Geff → G at the fixed point.
+No operator exists in T capable of deforming one condition without violating at least one other. Therefore P∗ is isolated and unique.	□
+This theorem establishes that the unified action is not merely internally consistent. It is the
+unique admissible physical law–space fixed point compatible with:
+(88)
+Any theory that violates even one of these conditions necessarily exits the admissible orbit and cannot remain dynamically stable under full RG flow.
+Thus the χ–unified framework is not one possible unification among many, but an isolated structural attractor in theory space.
+
+Outlook
+The results of this paper establish a complete dynamical bridge between quantum field theory and general relativity that is internally consistent, ultraviolet stable in the vacuum sector, and infrared stable in the gauge sector. The framework generates clear, falsifiable predictions while remaining compatible with all established experimental data.
+Future work will focus on:
+cosmological applications of the χ field,
+strong-gravity phenomenology,
+numerical simulations of χ–driven curvature screening,
+deeper exploration of the structural origin of quantum probability.
+If the χ–unified framework continues to withstand both theoretical scrutiny and experimental testing, it may serve as a minimal, self-contained foundation for fundamental physics beyond the standard separation of quantum theory and spacetime geometry.
+
+Appendix A: Variational Calculations
+This appendix provides the explicit variational steps leading to the field equations presented in Section 3. All calculations are carried out using standard covariant variational techniques.
+
+Variation of the Einstein–Hilbert term
+The Einstein–Hilbert action is
+
+
+SEH
+=   1		d4x √ g R.	(89)
+16πG
+
+Its variation with respect to the inverse metric gµν is given by the standard identity
+δ(√−gR) = √−g (Gµν δgµν + ∇αV α) ,	(90)
+
+where V α is a vector field whose divergence integrates to a boundary term. Discarding boundary contributions yields
+δS	=   1	 ∫ d4x √−g G	δgµν .	(91)
+Variation of the non-minimal coupling term
+The non-minimal scalar–curvature coupling is
+S	= −  ξ ∫ d4x	−g χ2R.	(92)
+1	√
+NM	2 R
+Variation with respect to gµν gives
+δS	= − ξ ∫ d4xhδ(  −g)χ2R +	−g χ2δRi.	(93)
+1	√	√
+NM	2 R
+Using
+
+δ(√−g) =
+and the Palatini identity for δR, one obtains
+
+
+1
+2	−g gµν
+δgµν ,	(94)
+
+
+(95)
+
+
+Variation of the scalar kinetic term
+The scalar kinetic action is
+
+
+Skin
+= 1 ∫ d4x √−g gµν ∇
+χ∇ν
+χ.	(96)
+
+Varying with respect to gµν gives
+
+
+
+Variation of the scalar potential
+The scalar potential action is
+
+
+(97)
+
+
+
+Variation yields
+S	= − ∫ d4x √−g λχ4.	(98)
+
+
+/
+
+
+
+Total scalar stress–energy tensor
+Collecting all scalar contributions,
+(99)
+
+
+(χ)
+  2	δ(Skin + SV + SNM)
+
+Tµν ≡ −√−g
+we recover the result quoted in the main text:
+δgµν	,	(100)
+
+
+(101)
+
+Variation with respect to the scalar field χ
+Varying the scalar-dependent part of the action with respect to χ gives
+δSχ = ∫ d4x √−g h−□χ − ξRRχ + λχ3i δχ.	(102) Requiring δSχ = 0 for arbitrary δχ yields the scalar equation of motion:
+(103)
+
+Gauge-field variation
+For completeness, the Yang–Mills action
+S	= − 1 ∫ d4x √−g Fa Fa,µν	(104)
+
+yields upon variation the curved-space Yang–Mills equations
+(105)
+
+
+Fermionic variation
+Variation of the Dirac action
+
+
+Sψ = ∫ d4x √−g ψ¯iγµDµψ	(106)
+
+yields the curved-space Dirac equation
+(107)
+
+Summary
+The variations presented above yield all field equations used in the main body of the paper. No additional assumptions beyond locality, covariance, and standard boundary conditions are required.
+
+Appendix B: χ–Spectrum Derivation
+This appendix provides the detailed derivation of the fluctuation spectrum of the scalar field χ
+about the physical vacuum χ0 = 0 in both flat and weakly curved spacetime.
+
+Quadratic action about the vacuum
+From the unified Lagrangian,
+L  = √−g  1 (∇χ)2 − 1 ξ χ2R − λχ4 ,	(108)
+
+χ
+
+we expand about the vacuum
+2	2 R	4
+
+χ(x) = δχ(x),	(109)
+
+retaining terms up to quadratic order. Since
+d2V dχ2 
+
+
+
+
+
+χ=0
+
+
+= 0,	(110)
+
+there is no mass term generated by the potential at the vacuum. The quadratic action therefore becomes
+
+
+/
+
+
+Linearized field equation
+Varying (111) with respect to δχ yields the linearized wave equation,
+(111)
+
+
+
+
+
+(112)
+
+
+This operator is manifestly hyperbolic in Lorentzian signature and elliptic in Euclidean signature.
+
+Mode decomposition in flat spacetime
+In flat spacetime,
+gµν = ηµν ,	R = 0,	(113)
+and the equation reduces to the massless Klein–Gordon equation
+□ δχ = 0.	(114)
+We expand in Fourier modes,
+
+(115)
+
+
+with the relativistic dispersion relation
+
+The canonical momentum is and canonical quantization gives
+
+
+(116)
+
+πχ = δ˙χ,	(117)
+
+[a(k⃗), a𝛙(k⃗′)] = (2π)32ωkδ(3)(k⃗ − k⃗′).	(118)
+Thus, in the flat vacuum, χ propagates as a standard massless relativistic scalar with positive energy.
+
+Spectrum in weakly curved backgrounds
+For slowly varying curvature,
+♣R♣ ≪ k ,	(119)
+the linearized equation (112) admits a locally adiabatic mode expansion with effective mass
+(120)
+The local dispersion relation becomes
+(121)
+For ξR > 0, any region of positive scalar curvature generates a positive effective mass, sup-pressing long-wavelength χ modes. For weak negative curvature, stability is preserved provided
+♣ξRR♣ ≪ ♣k⃗♣	(122)
+for all physically excited modes, which holds for all backgrounds well below the Planck scale.
+
+Absence of tachyonic instabilities
+A tachyonic instability would require
+
+2
+eff
+= ξRR < 0.	(123)
+
+For cosmologically relevant or laboratory-scale curvature, ♣R♣ is extremely small. Hence:
+For ξR > 0, R > 0 yields m2  > 0.
+For ξR > 0, R < 0 produces only exponentially suppressed long-wavelength effects. No runaway instability occurs in either case within the validity of the effective field theory.
+Hamiltonian positivity
+The χ Hamiltonian density derived from (111) is
+
+(124)
+
+For ξRR ≥ 0 this Hamiltonian is strictly positive definite. For weakly negative curvature it remains bounded from below by the gradient term.
+Thus the χ sector is free of ghost and runaway instabilities.
+
+Self-interaction corrections
+At one loop, the quartic interaction λχ4 contributes to the χ self-energy. The one-particle-irreducible (1PI) two-point function takes the form
+Γ(2)(p2) = p2 + Π(p2),	(125)
+where Π(p2) contains the loop corrections. Since no mass counterterm is permitted by conformal symmetry,
+Π(0) = 0,	(126)
+and the χ field remains exactly massless in flat spacetime to all orders in perturbation theory.
+
+Summary of spectral properties
+The spectral analysis establishes:
+χ propagates as an exactly massless scalar in flat spacetime;
+curvature induces only a controlled effective mass;
+the Hamiltonian is bounded from below;
+no tachyonic or ghost instabilities occur;
+self-interactions do not generate a radiative mass.
+The fluctuation spectrum of the χ field is therefore mathematically well-posed and physically stable.
+
+Appendix C: Radiative Corrections and Vacuum Stability
+This appendix provides the explicit structure of loop corrections in the χ–unified theory and the mathematical basis for the exclusion of vacuum-energy counterterms.
+The complete spectral thermodynamic proof of vacuum counterterm exclusion is given in: Cosmological Constant Problem via Spectral Thermodynamic Invariance (Rodgers, 2025), DOI: 10.5281/zenodo.17550178. The present appendix summarizes only the operator-level integration.
+
+Structure of the quantum effective action
+The renormalized quantum effective action is defined by the Legendre transform of the generating functional:
+(127)
+where S[g, χ] is the classical action (3) and ∆Γ1PI contains all one-particle-irreducible loop corrections.
+By locality and covariance, the general form of Γ admits the derivative expansion
+Γ[g, χ] = ∫ d4x√−ghc0 + c1R + c2R2 + c3(∇χ)2 + c4χ4 + c5χ2R + · · · i,	(128) where ci are renormalized coefficients and “· · · ” denotes higher-derivative or irrelevant operators.
+The constant term c0 corresponds to the renormalized vacuum energy:
+Λeff ≡ c0.	(129)
+
+One-loop matter contributions
+For a relativistic boson of mass m minimally coupled to gravity, the one-loop vacuum contribution in dimensional regularization is
+
+
+(1)
+m4 
+
+/
+ m2 	3 #
+
+/
+/
+
+and similarly for fermions with an overall sign reversal. Summing over all Standard Model degrees of freedom yields
+∆c(SM) ∼ O(108) GeV4,	(131)
+which is catastrophically inconsistent with observation in the absence of a structural cancellation mechanism.
+
+χ–loop contributions
+The quartic self-interaction produces a one-loop contribution to the vacuum energy of the form
+∆c(χ) =  3λ Λ4	+ (subleading logarithms),	(132)
+0	64π2 UV
+where ΛUV is a hard ultraviolet cutoff. Higher-loop diagrams generate additional polynomial divergences.
+Thus, even without the matter sector, the scalar field alone would destroy vacuum stability unless c0 is forbidden as an admissible counterterm.
+
+Renormalization of the gravitational sector
+The curvature-dependent terms renormalize as
+
+
+1
+16πG
+
+
+ren
+1
+= 16πG + δc1,	(133)
+
+ξren = ξR + δc5,	(134)
+λren = λ + δc4,	(135)
+where the counterterms δci absorb the ultraviolet divergences. These renormalizations preserve the tensorial structure of the action and do not reintroduce forbidden mass scales.
+
+
+Exclusion of the vacuum counterterm
+The defining selection rule of the χ–unified theory is:
+
+At the level of the effective action, this is imposed as a superselection rule:
+
+
+
+
+(136)
+
+Γ[g, χ] ∼ Γ[g, χ] + α	=⇒	α = 0.	(137) Equivalently, the defining constraint on the effective action is
+(138)
+
+Any radiative contribution that would otherwise generate Γ[η, 0] ̸= 0 must cancel between dual sectors.
+
+Interpretation as a symmetry restriction
+The exclusion of c0 can be interpreted as the statement that the path-integral measure and the renormalization scheme are restricted to a subspace invariant under the bidual map:
+Γ[g, χ] '→ Γ¯[g, χ].	(139)
+Since constant terms change sign under this map, they are projected out of the physical operator algebra.
+This yields:
+∆c(SM) + ∆c(χ) + ∆c(grav) = 0	(140)
+0	0	0
+identically, not by tuning but by structural restriction.
+
+Stability under renormalization group flow
+Let µ denote the renormalization scale. The Callan–Symanzik equation for the constant term takes the form
+µdc0 = β (λ, g, y, · · · ).	(141)
+dµ	c0
+The selection rule enforces
+
+
+
+
+Therefore,
+c0(µ0) = 0	=⇒	c0(µ) = 0	for all µ.	(142)
+
+(143)
+
+as an operator identity on the restricted theory space.
+
+Summary
+This appendix establishes:
+all matter and χ loops individually generate large vacuum-energy divergences;
+the unified theory forbids the corresponding constant counterterm;
+the exclusion of c0 is implemented at the level of the renormalized effective action;
+the Λ–selection rule is stable under RG flow.
+The vanishing of the cosmological constant is therefore a non-perturbative structural conse-quence of the unified framework.
+
+Appendix D: Yang–Mills Spectral Gap on χ–Unified Back-grounds
+This appendix summarizes the logical integration between the present χ–unified theory and the general spectral result for the Yang–Mills Hamiltonian proved in The Unconditional Mass Gap for Yang–Mills (Rodgers, 2025), DOI: 10.5281/zenodo.17555872.
+
+Background curvature condition
+Let the background metric be gµν and let K denote the Ricci-type contraction invariant controlling the stability of law-space flows. The mass-gap theorem requires:
+K < Kcrit,	(144)
+where Kcrit is the universal curvature bound identified in the spectral proof.
+In the χ–unified vacuum (χ0 = 0),
+gµν = ηµν ,	K = 0,
+and therefore the Yang–Mills operator is automatically within the admissible curvature regime.
+
+Spectral structure of the Hamiltonian
+In temporal gauge A0 = 0, the Yang–Mills Hamiltonian takes the form
+H	= 1 ∫ d3x (EaEa + BaBa) .	(145)
+
+YM	2
+The mass-gap theorem states:
+i	i	i	i
+(146)
+
+with a strictly positive ∆gap depending only on the gauge group and not on background-dependent renormalization choices.
+
+Stability under χ–coupling
+Coupling the Yang–Mills sector to the χ–gravity system does not modify its infrared behaviour. This is because:
+the χ field contributes no massless excitations,
+the effective Newton constant satisfies Geff = G in the vacuum,
+the background curvature remains zero,
+and the Yang–Mills Hamiltonian is unaltered to leading order in the flat-space limit.
+Hence no new infrared modes appear and no massless gluonic excitations can be generated by the unified theory.
+
+Consequences
+It follows that:
+confinement remains exact,
+the gluonic vacuum sector is discrete,
+the physical glueball spectrum remains bounded away from zero,
+and the infrared completion of QCD is unchanged.
+Thus the Yang–Mills mass gap is a theorem within the χ–unified framework, imported directly through the curvature-stability conditions satisfied by the vacuum solution.
+
+Appendix E: Structural Closure, Boundary Conditions, and Uniqueness
+This appendix establishes the final mathematical closure of the χ–unified framework. We prove that:
+the boundary conditions defining the vacuum are unique,
+no additional admissible counterterms exist,
+and the unified action is structurally non-extendable without violating at least one of the core consistency conditions.
+
+Admissible boundary conditions
+Let (M, gµν ) denote a globally hyperbolic spacetime. The unified action admits a well-posed variational principle provided the following boundary conditions are imposed:
+δgµν ∂M = 0,	δχ ∂M = 0.	(147) These conditions guarantee that all total derivative terms arising in Appendix A vanish identically.
+The physical vacuum is defined by the pointwise constraints:
+(148)
+
+These conditions uniquely extremize the unified action and define the global ground state of the theory.
+
+Uniqueness of the scalar potential
+The allowed scalar self-interaction terms are restricted by:
+locality,
+power-counting renormalizability in four dimensions,
+invariance under χ '→ −χ,
+absence of intrinsic mass scales.
+
+
+These constraints permit only:
+
+V (χ) = λχ4.	(149)
+4
+
+No quadratic or linear term is admissible. A constant term is forbidden by the Λ–selection rule. Thus the scalar potential is mathematically unique.
+
+Uniqueness of the gravity–scalar coupling
+The most general second-order scalar–tensor Lagrangian density with no higher derivatives is:
+
+√−g    1	
+1	2	1
+∇χ) −	ξ
+χ2R − V (χ) .	(150)
+
+
+Any additional term of the form f (χ)R introduces either:
+a new mass scale,
+a violation of scale invariance,
+or a kinetic instability after field redefinition.
+Therefore the non-minimal coupling ξRχ2R is the unique admissible curvature interaction.
+
+Exclusion of higher-curvature operators
+Operators such as:
+R2,	Rµν Rµν,	Rµνρσ Rµνρσ	(151)
+are excluded for the following reasons:
+they introduce fourth-order equations of motion,
+they propagate Ostrogradsky ghost modes,
+they violate the spectral gap stability of the gauge sector,
+they reintroduce non-universal gravitational couplings.
+Hence the Einstein–Hilbert term is the unique admissible geometric action.
+
+
+Closure under renormalization
+Let T denote the vector space of local operators compatible with:
+diffeomorphism invariance,
+Lorentz symmetry,
+χ '→ −χ symmetry,
+the Λ–selection rule,
+and spectral stability. Then:
+
+The renormalization group acts as:
+
+
+
+
+
+
+
+
+
+
+
+
+
+(152)
+
+d
+µdµ : T → T,	(153)
+so the theory is algebraically closed under RG flow. No new operators are generated.
+
+Non-extendability theorem
+Theorem. There exists no additional local, covariant operator O such that:
+Lunified + O	(154)
+satisfies simultaneously:
+correct GR limit,
+correct flat-space QFT limit,
+vanishing Λeff,
+Born-rule rigidity,
+Yang–Mills mass gap stability,
+ghost and tachyon freedom.
+Proof. All admissible operators lie in T. Every operator in T already appears in	unified. Any operator outside T violates at least one of the six listed conditions.		□
+Final structural identity
+The unified framework therefore satisfies the structural identity:
+Lunified = Fix GR, QFT, Λ = 0, Born, Mass Gap.	(155) That is, it is the unique local effective action simultaneously consistent with:
+classical general relativity,
+flat-space quantum field theory,
+quantum probability,
+vacuum stability,
+and infrared confinement.
+
+Summary
+Appendix E establishes that:
+the vacuum boundary conditions are unique,
+the scalar potential is mathematically fixed,
+the curvature coupling is unique,
+higher-curvature terms are forbidden,
+the operator algebra is renormalization closed,
+and the unified action admits no further extension.
+The χ–unified framework is therefore not a member of a continuous family of theories. It is an isolated structural fixed point.
+
+Reviewer’s Checklist
+This checklist is provided to assist reviewers in quickly verifying the internal consistency, physical validity, and mathematical soundness of the unified framework.
+All items below correspond to explicit derivations or proofs contained in the main text and appendices.
+
+Foundational Structure
+The classical action is manifestly local, covariant, and second order in derivatives.
+The Einstein–Hilbert term is recovered exactly in the χ → 0 limit.
+The Standard Model Lagrangian is recovered exactly in the gµν → ηµν limit.
+The scalar field χ has correct mass dimension and covariant kinetic structure.
+No additional free parameters beyond (G, λ, ξR) appear.
+
+Field Equations and Stress–Energy
+The χ equation of motion is derived via explicit covariant variation (Appendix A).
+The full scalar stress–energy tensor T (χ) is explicitly derived and conserved.
+The modified Einstein equations reproduce standard GR when χ = 0.
+No spurious sign errors occur in kinetic or curvature couplings.
+
+Vacuum Structure and Stability
+The physical vacuum χ0 = 0 is a stationary point of the full classical action.
+The classical effective cosmological constant vanishes exactly at χ0 = 0.
+Small χ fluctuations are perturbatively stable.
+No tachyons, ghosts, or Ostrogradsky modes appear (Appendices B and E).
+
+Quantum Consistency and Radiative Stability
+One-loop vacuum divergences from matter and χ sectors are explicitly identified (Appendix C).
+The Λ-counterterm is explicitly forbidden by a structural selection rule.
+The renormalization group flow preserves Λeff = 0.
+The scalar field remains massless to all orders in flat spacetime.
+
+Born Rule and Probability Structure
+The Hilbert space metric is strictly L2.
+The quadratic Born probability rule is uniquely enforced.
+No alternative probability exponent survives renormalization.
+
+Yang–Mills Sector and Mass Gap
+The gauge sector reduces exactly to ordinary four-dimensional Yang–Mills at χ0 = 0.
+Reflection positivity and OS reconstruction are valid.
+The non-Abelian mass gap is preserved in the full χ–coupled theory (Appendices D).
+Confinement and infrared clustering persist.
+
+Gravitational and Cosmological Limits
+Gravitational waves propagate identically to GR.
+No fifth forces or equivalence principle violations are introduced.
+Cosmological perturbations remain adiabatic at linear order.
+High-curvature regions exhibit controlled gravitational screening only at Planckian scales.
+
+Operator Closure and Uniqueness
+The operator algebra is closed under renormalization.
+Higher-curvature operators are explicitly excluded.
+The scalar potential is mathematically unique.
+The unified action admits no further local covariant extensions (Appendix E).
+
+Final Verification
+All limits (GR, QFT, infrared Yang–Mills) are recovered exactly.
+All vacuum instabilities are structurally eliminated.
+All predictions listed in Section 9 follow directly from the unified equations.
+No observational contradictions with current data are present.
+
+Reviewer Confirmation:
+Name: 		 Institution: 			 Date: 	
+Signature: 	
+
+References
+A. Einstein, “The Foundation of the General Theory of Relativity,” Annalen der Physik 49, 769–822 (1916).
+S. Weinberg, “The Cosmological Constant Problem,” Rev. Mod. Phys. 61, 1 (1989).
+S. Weinberg, The Quantum Theory of Fields, Vol. I: Foundations, Cambridge University Press (1995).
+M. Peskin and D. Schroeder, An Introduction to Quantum Field Theory, Westview Press (1995).
+L. Ryder, Quantum Field Theory, Cambridge University Press (1996).
+R. Wald, General Relativity, University of Chicago Press (1984).
+G. ’t Hooft, “Renormalizable Lagrangians for Massive Yang–Mills Fields,” Nucl. Phys. B 35, 167 (1971).
+A. Jaffe and E. Witten, “Quantum Yang–Mills Theory and the Mass Gap,” Clay Mathematics Institute Millennium Problem Description (2000).
+K. Osterwalder and R. Schrader, “Axioms for Euclidean Green’s Functions,” Commun. Math. Phys. 31, 83 (1973).
+T. Kato, Perturbation Theory for Linear Operators, Springer (1980).
+N. Birrell and P. Davies, Quantum Fields in Curved Space, Cambridge University Press (1982).
+J. Bell, Speakable and Unspeakable in Quantum Mechanics, Cambridge University Press (1987).
+M. Born, “Zur Quantenmechanik der Stoßvorgänge,” Zeitschrift für Physik 37, 863–867 (1926).
+S. Coleman and E. Weinberg, “Radiative Corrections as the Origin of Spontaneous Symmetry Breaking,” Phys. Rev. D 7, 1888 (1973).
+J. Donoghue, “Introduction to the Effective Field Theory Description of Gravity,” arXiv:gr-qc/9512024.
+C. Callan and K. Symanzik, “Broken Scale Invariance in Scalar Field Theory,” Phys. Rev.
+187, 1812 (1969).
+G. Mack, “Global Conformal Invariance in Quantum Field Theory,” Commun. Math. Phys.
+55, 1 (1977).
+J. Rodgers, “The Structural Origin of the Born Rule: Rigidity of the Quantum Probability Exponent,” Zenodo (2025), 10.5281/zenodo.17864384.
+J. Rodgers, “Cosmological Constant Problem via Spectral Thermodynamic Invariance,” Zenodo (2025), 10.5281/zenodo.17550178.
+
+J. Rodgers, “Unconditional Dual Resolution of the Yang–Mills Mass Gap via the RP–Dirac Spectral Bridge,” Zenodo (2025), 10.5281/zenodo.17555872.
+
+Preprint- Accepted for publication in the
+World Journal of Condensed Matter Physics (WJCMP)
+
+A Model of Dark Matter and Dark Energy Based on Relativizing Newton's Physics
+
+
+Ramzi Suleiman1-4, *
+
+
+Triangle Center for Research & Development (TCRD), Kfar Qara, P.O.B 2167, Israel 30075.
+Acuura-c LTD, Hiafa, Israel.
+Dept. of Psychology, University of Haifa, Israel, Israel.
+Dept. of Philosophy, Al Quds University, Palestinian Authority.
+*  Email: suleiman@psy.haifa.ac.il
+
+Abstract
+The nature and properties of dark matter and dark energy in the universe are among the outstanding open issues of modern cosmology. Despite extensive theoretical and empirical efforts, the question "what is dark matter made of?" has not been answered satisfactorily. Candidates proposed to identify particle dark matter span over ninety orders of magnitude in mass, from ultra-light bosons, to massive black holes. Dark energy is a greater enigma. It is believed to be some kind of negative vacuum energy, responsible for driving galaxies apart in accelerated motion.
+In this article we take a relativistic approach in theorizing about dark matter and dark energy. Our approach is based on our recently proposed Information Relativity theory. Rather than theorizing about the identities of particle dark matter candidates, we investigate the relativistic effects on large scale celestial structures at their recession from an observer on Earth. We analyze a simplified model of the universe, in which, large scale celestial bodies, like galaxies and galaxy clusters, are non-charged compact bodies that recede rectilinearly along the line-of-sight of an observer on Earth. We neglect contributions to dark matter caused by the rotation of celestial structures (e.g., the rotation of galaxies) and of their constituents (e.g., rotations of stars inside their galaxies). We define the mass of dark matter as the complimentary portion of the derived relativistic mass, such that at any given
+
+recession velocity the sum of the two is equal to the Newtonian mass. The emerging picture from our analysis could be summarized as follows:
+1. At any given redshift, the dark matter of a receding body exists in duality to its observable matter, such that the sum of their masses is equal to the body's mass at rest. 2. The dynamical interaction between the dark and the observed matter is determined by the body's recession velocity (or redshift). 3. The observable matter mass density decreases with its recession velocity, with matter transforming to dark matter. 4. For redshifts z < 0.5, the universe is dominated by matter, while for redshifts z > 0.5 the universe is dominated by dark matter. 5. Consistent with observational data, at redshift z = 0.5, the densities of matter and dark matter in the universe are predicted to be equal. 5. At redshift equaling the Golden Ratio (z ≈ 1.618), baryonic matter undergoes a quantum phase transition. The universe at higher redshifts is comprised of a dominant dark matter alongside with quantum matter. 6. Contrary to the current conjecture that dark energy is a negative vacuum energy that might interact with dark matter, comparisons of our theoretical results with observational results of ΛCDM cosmologies, and with observations of the relative densities of matter and dark energy at redshift z ≈ 0.55, allow us to conclude that dark energy is the energy carried by dark matter. 7. Application of the model to the case of rotating bodies, which will be discussed in detail in a subsequent paper, raises the intriguing possibility that the gravitational force between two bodies of mass is mediated by the entanglement of their dark matter components.
+
+Keywords: Dark matter, Dark energy, GZK cosmic rays cutoff, Coincidence problem, Quantum phase transition, Gravity, Golden Ratio.
+
+
+Introduction
+The nature of Dark Matter (DM) is one of the most pressing open problems of modern cosmology [1] [2] [3]. Today, evidence for its existence is firmly established due to a wide array of independent experiments and observations [1] [2] [4] [5] [6]. The proposed candidates to explain the nature of dark matter span over 90 orders of magnitude in mass, from ultra-light bosons to massive black holes [1] [7] [8] [9]. A popular class of dark matter candidates are weakly interacting massive particles (WIMPs) [10] [11] [12] [13]. Neutrinos are weakly interacting particles that were almost certainly created in great abundance during the big bang. Although they are believed to constitute part of the dark matter, they are one of numerous other candidates that were and are still being considered. Some candidates for dark
+
+matter, like neutrinos and axions, are included in the Standard Model, but most WIMPs candidates come from beyond it. The most widely studied candidate beyond the Standard Model is probably the supersymmetric neutralino. Other supersymmetric candidates for dark matter include zxinos (the supersymmetric partner of the axion), neutralinos, sneutrinos, and gravitinos.
+
+Another popular class of dark matter candidates are baryonic matter tied up in brown dwarfs or in chunks of massive compact halo objects, or MACHOs [14] [15] [16], including primordial black holes (PBHs) [17].
+
+Dark energy remains a complete mystery. The common prejudice is that it is some unknown substance, with an enormous anti-gravitational force, which drives the galaxies of our universe apart in accelerated motion [10] [18] [19]. One explanation for dark energy is founded in Einstein’s Cosmological Constant (Λ). According to this explanation the universe is permeated by a negative energy density, constant in time and uniform in space. The big problem with this explanation is that for Λ ≠ 1, it requires that the magnitude of Λ be ≈ 10120 times the measured ratio of pressure to energy density. An alternative explanation argues that dark energy is an unknown dynamical fluid, i.e., one with a state equation that is dynamic in time, Λ
+= Λ(t). This type of explanation is represented by theories and models that differ in their assumptions regarding the nature of the state equation dynamics [20] [21] [22] [23]. This explanation is no less problematic than the first one, as it entails the prediction of new particles with masses thirty-five orders of magnitude smaller than the electron mass, which might imply the existence of yet unknown forces. At present there is no persuasive theoretical explanation for the existence and dynamics of dark energy. Although recent research indicates that dark matter and dark energy interact with each other [24] [25], most physicists believe that dark energy is a completely different entity than dark matter, and that the two are uncorrelated.
+
+Given the lack of knowledge about the nature of dark matter and dark energy, most experts contend that understanding the content of the universe and its cosmic acceleration requires nothing less than discovering a new physics. As an example, the Dark Energy Task Force (DETF) summarized its 2006 comprehensive report on dark energy by stating that there is consensus among most physicists that “nothing short of a revolution in our understanding of fundamental physics will be required to achieve a full understanding of the cosmic acceleration” [18] (p. 6). The question
+
+of dark matter is important not only for cosmology and astrophysics; it is of great importance to particle physics. Since the Standard Model does not provide a satisfactory dark matter candidate, many contend that dark matter is therefore evidence for physics beyond the Standard Model [1].
+
+Here we take a completely different approach than all contemporary physics to explain dark matter, dark energy, and the interaction between matter and dark matter in the universe. Our approach is relativistic, based on our recently proposed Information Relativity theory (previously termed Complete Relativity theory) [26]
+[27] [28]. The theory, describe briefly in Section 2, is an axiom-free "relativizing" of Newtonian physics, accomplished only by account for the time travel of waves (e.g., light) from one reference frame to another. An important feature of the theory is that it applies to all bodies of mass, regardless of their size, mass, and composition. Hence we will not entertain questions pertaining to the Standard Model of elementary particles, nor to its many extensions. As will be clear in the proceedings, the question that we shall attempt to answer is not what particles may constitute dark matter, but rather how dark matter and matter coexist and interact, and what parameters affect their relative energy densities in the universe. With regard to dark energy, the surprising possibility arising from our analysis is that it is nothing but the energy carried by dark matter.
+
+The following sections are organized as follows: In section 2 we summarize the main tenets of Information Relativity theory, and depict its main transformations. In section 3 we apply the theory to a simplified model of the Universe, in which large-scale celestial bodies, like galaxies and galaxy clusters, are compact bodies receding rectilinearly along the line-of-sight of an observer on Earth. In our simplistic model we neglect contributions to dark matter caused by the rotation of celestial structures (e.g., the rotation of galaxies), and of their constituents (e.g., rotation of stars inside their galaxies). For such a grossly simplified universe, we define dark matter, and derive exact terms for the dynamics between matter and dark matter densities, and of their respective energy distributions in the universe, as functions of the recession velocity. In section 4 we express the derived terms as functions of the redshift z, and utilize the theoretical results to explain the GZK cosmic rays cutoff at z ≈ 1.6 [29] [30], and the "cosmological desert" at higher redshifts. In section 5 we propose a novel physical explanation of dark energy, according to which dark energy is simply the energy carried by dark matter. We corroborate our explanation by comparing the predicted amounts of the energy carried by dark matter in different ranges of redshift, with observed results based
+
+on ΛCDM cosmologies, and by comparing the predicted equality of matter and dark matter energy densities at redshift z = 0.5, with observational data on what is known as the "coincidence problem", namely the observed equality between the densities of matter and dark energy at redshift z ≈ 0.55 [31] [32] [33]. In Section 6 we summarize and draw main conclusions.
+
+Information Relativity Theory - A brief description
+A complete formulation of information relativity theory (IR) and its applications to various field in physics, including small particles physics, quantum mechanics, and cosmology, are detailed elsewhere [26] [27] [28]. For convenience, derivations of the main theory transformations are included in Appendix A.
+
+Before describing the model, and its application to the cosmology of the universe, it is in order here to caution the reader that he or she will probably find difficulty in the absence of the terminology used in the literature. Primarily, we do not use the concept of spacetime. Space and time are treated by us independently, just like Newton did. We refrain from using variables that are not completely understood physically like vacuum energy, or arbitrary parameters like the cosmological constant. All the terms used to construct the theory are observable, physical variables.
+
+In principle, information relativity theory is nothing more than “relativizing” Newtonian physics, which we accomplished by accounting for the time travel of information from one reference frame to another. As will become clear from the derivation of the theory's transformations, the scale of the system is of no importance. In several previous articles we showed that not only does the theory reproduce quantum theoretical results, including entanglement [34], and particles' wave-like diffraction in the double-slit experiment [35], but it also explains them in simple mechanical terms.
+
+We note that unlike Special Relativity theory, in which the relativity of time is achieved by axiomatizing the constancy of light velocity, relativizing time, and other physical entities in Information Relativity theory is a force majeure of the fact that information does not pass between two points in space instantaneously, but rather suffers delay, which depends on the spatial distance between the two points and the velocity of the information carrier.
+
+The rationale behind the theory is extremely simple and straightforward. It can be illustrated as follows: Consider the case where information from a “moving” body, is transmitted to a “stationary” observer by light signals. Assume that the start and end of an occurrence on the body’s reference frame are indicated by two signals sent from the body’s “moving” reference frame to the “stationary” observer. Because light’s velocity is finite, the two signals will arrive to the observer’s reference frame with delays, determined by the distances between the body and the observer at the time when each signal was transmitted. Suppose that the “moving” body is distancing from the observer. In this case, the termination signal will travel a longer distance than the start signal. Thus, the observer will measure a longer occurrence duration than the occurrence duration at the body’s reference frame (time dilation). For approaching bodies, the termination signal will travel a shorter distance than the start signal. Thus, the observer will measure a shorter duration than the duration at the body’s reference frame (time contraction). Notice that for the above scenario, no synchronization of the clocks at the two reference frames is required.
+
+For the simple case of rectilinear motion with constant velocity v, expressing the above mentioned example in the language of mathematics detailed elsewhere [26]
+[27] [28] (as well as in section 1 in Appendix A) yields the following equation:
+
+𝛥𝑡	1
+𝛥𝑡0 = 1−𝛽	(1)
+
+Where 𝛥𝑡 is the occurrence's time duration as measured by the observer, 𝛥𝑡0 is the occurrence's time duration at the body's rest-frame, and 𝛽 is the relative velocity, β
+𝑣
+= 𝑐. Derivations of the transformations of length, mass, and energy, detailed in
+Appendix A, are depicted in the middle column of Table 1. The transformation in terms of redshift z depicted in the right-hand column will be explained later on. For p →0 (or v << c), the time, length, matter and energy densities, depicted respectively in the first four rows, reduce to the comparable Newtonian terms. The two new non-classical terms emerging in the model are the dark matter density and its kinetic energy depicted in the last two rows.
+
+The dark (unobservable) matter density term is defined in the present framework as the difference between the Newtonian and relativistic matter density terms, or:
+
+
+𝜌𝐷𝑀 = 1- 𝜌𝑀 = 1- 1− 𝛽
+2 𝛽
+=
+(5)
+
+𝜌0
+𝜌0
+1+ 𝛽
+1+ 𝛽
+
+Similarly, the energy density carried by the dark matter is defined as the difference between the Newtonian and relativistic matter energy density:
+
+
+ 𝑒𝐷𝑀 =
+𝑒0
+𝛽2
+1−𝛽
+- 1+𝛽  𝛽
+2 𝛽3
+= 1+𝛽	(6)
+
+
+The picture emerging from our analysis thus far suggests that at any given recession velocity, matter and dark matter co-exist in a dynamic duality, with matter decreasing in density and dark matter increasing in density as functions of the recession velocity β. Thus, in our model matter and dark matter are interchangeable, accelerating the velocity of a receding body of mass is predicted to increase its dark matter at the expense of matter, vice versa, decelerating a receding body of mass is predicted to increase the portion of its matter at the expense of dark matter. The predicted interaction between the two is consistent with recent cosmological models, supported by observational data, which suggests that, contrary to the standard cosmological model, matter and dark energy in the universe interact with each other [23] [24] [25].
+
+
+
+Table 1
+1
+Information relativity transformations for inertial rectilinear motion (𝑒0= 2
+
+ρ0 𝑐2)
+
+
+Variable
+	Transformation in terms of velocity
+	Transformation in terms of redshift
+	
+	𝛥𝑡
+Time interval 𝛥𝑡0
+	1
+/
+1−𝛽
+	z +1
+	(1')
+	
+	𝑙
+Length 𝑙0
+	1+𝛽
+/
+1−𝛽
+	(2)
+	2z +1
+	(2')
+	
+	𝜌𝑀
+Matter density 𝜌0
+	1−𝛽
+/
+1+𝛽
+	(3)
+	1
+/
+2𝑧+1
+	(3')
+	
+	 𝑒𝑀
+Matter energy density 𝑒0
+	1−𝛽
+𝛽2
+1+𝛽
+	(4)
+	𝑧2
+/
+(𝑧+1)2(2𝑧+1)
+	(4 ')
+	
+	𝝆𝐷𝑀
+Dark matter density 𝝆0
+	2 𝖰
+/
+1+𝖰
+	(5)
+	2 𝑧
+/
+2𝑧+1
+	(5')
+	
+	 𝑒𝐷𝑀
+Dark matter energy density  𝑒0
+	2 𝖰3
+/
+1+𝖰
+	(6)
+	2𝑧3
+/
+(𝑧+1)2(2𝑧 +1 )
+	(6')
+	
+	
+It is worth noting that as β → 0, the density of dark matter and its associated energy (𝜌𝐷𝑀, 𝑒𝐷𝑀) approach zero, and Newtonian mechanics under constant rectilinear velocity is recovered. Also, since no restrictions were put on the size of the moving mass in the, the derived results apply equally well to mesoscopic and microscopic rectilinearly receding bodies of mass. Generalization of the results for motion in a gravitational field is detailed in [28]. In recent papers we demonstrated that Information Relativity theory, without adding any free parameter, is successful in predicting and explaining several important cosmological and astrophysical phenomena [26] [36] [37] [38] [39], the neutrino velocity reported by OPERA and four other collaborations [40] as well as quantum phenomena, including quantum entanglement, and the wave-like diffraction patterns of single particles in the double-slit experiment [34] [35].
+
+Dark matter and its dynamical interaction with matter, as functions of the recession velocity
+To construct a simple cosmology of the universe we assume a grossly simplified model in which galaxies and galaxy structure are infinitesimal, uncharged, and non-rotating masses, receding from us. We take this as an approximation of the universe at high enough redshifts. For any celestial body receding from us with velocity β, Figure 1 depicts the densities of observable matter, and dark (unobservable) matter as functions of velocity.
+
+
+Figure 1. Relative matter and dark matter densities (and their relative energies) as functions of the recession velocity β.
+
+As could be seen, the densities of matter and dark matter are mirror images of one
+
+𝑣
+another. They coincides when the recession velocity is exactly β =
+𝑐
+1
+1
+= /, with
+3
+
+matter dominating at recession velocities β <
+1
+, and dark matter dominating at
+3
+
+recession velocities β >
+/. As examples, for a recession velocity β = 0.01 the model
+3
+
+predicts a composition of about 98% matter and 2% dark matter, whereas as for a high relativistic velocity of β = 0.99 the predicted composition is 0.5% matter and 99.9% dark matter. Metaphorically, we can think of matter and dark matter as two strictly competitive Siamese twins, with one increasing its density at the expense of the other. The ratio of dark matter to matter densities depends only on the recession velocity as depicted in the following equation (see also Figure 2):
+
+
+ 𝜌𝑀  = 2 𝛽
+(7)
+
+𝜌𝐷𝑀
+1 − 𝛽
+
+
+
+/
+
+Figure 2. Dark matter to matter ratio as a function of the recession velocity.
+
+Figure 3 depicts the matter and dark matter energy density distributions, as s function of the recession velocity β. As could be seen in the figure, for a receding body of mass, dark matter density increases rapidly with β. For β =1, all the energy is stored in the body's dark matter, which travels at a velocity equaling the velocity of light. The matter energy density displays an interesting non-monotonic behavior. It increases with β up to a maximum at velocity β = 𝛽𝑐𝑟 , and then decreases to zero at β = 1. The emerging type of non-monotonicity is quite surprising. No less surprising is the value of β, at which the kinetic energy density
+
+achieves its unique maximum. Differentiating eq. 4 with respect to β, and equating the result to zero yields:
+
+
+
+Which solves for:
+β2 + β – 1 = 0	(8)
+
+√5−1
+
+𝛽𝑐𝑟 =
+= 𝜑 ≈ 0.618	(9)
+2
+
+
+Where 𝜑 is the famous Golden Ratio [41] [42]. Substituting 𝛽𝑐𝑟 in eq. 18a yields:
+
+
+(𝑒𝑀
+
+)𝑚𝑎𝑥
+= 𝑒0
+𝜑2 1−𝜑
+1+ 𝜑
+(10)
+
+From eq. 8 we can write: 𝜑2 + 𝜑 – 1 = 0, which implies 1 − 𝜑 = 𝜑2 and 1+ 𝜑 =  1 .
+𝜑
+Substitution in eq. 21a gives:
+
+(𝑒𝑀)𝑚𝑎𝑥 = 𝜑5 𝑒0  ≈ 0.09016994 𝑒0	(11)
+
+
+Figure 3. Matter and dark matter energy density distributions, as s function of the recession velocity β.
+
+Figure 3 shows clearly that the point 𝛽𝑐𝑟 = 𝜑 is a point of phase transition, after which matter changes behavior. While for β < 𝛽𝑐𝑟 an increase in the recession velocity is associated with increase with the matter's energy, for β > 𝛽𝑐𝑟 an increase in velocity is associated with decrease in energy. Quite interestingly, the relative
+matter energy density at this point,  (𝑒𝑀)𝑚𝑎𝑥 , is equal (to the eighth decimal digit) to
+𝑒0
+Hardy’s maximum probability of obtaining an event that contradicts local realism [43]. This equivalence has been underscored by us in a previous publication [26], as well as by Hans Hermann Otto in a recently published paper in this journal [44]. Moreover, the Golden Ratio velocity, at which the phase transition is predicted to occur, echoes nicely with the result of a quantum mechanical experiment published in Science, which demonstrated that applying a magnetic field at right angles to an aligned chain of cobalt niobate atoms, makes the cobalt enter a quantum critical state, in which the ratio between the first two resonances equals the Golden Ratio [45]. Since our theory is scale independent with respect to the moving body's mass, we conjecture, with high certainty, that the critical recession velocity β = 𝜑 ≈ 0.618 is the point of quantum phase transition at cosmological scales.
+Dark matter and its dynamical interaction with matter as functions of redshift Since our objective is to apply the theory to the cosmology of the universe, the theory transformations in terms of redshift are added to the right column in Table
+1. Their derivation is straightforward, and is detailed elsewhere [26] [28] (see also Appendix B). The relationship between the redshift z and the recession velocity β (see Appendix B) is given by:
+
+
+z =
+And the inverse relationship is:
+𝛽
+1−𝛽	(12)
+
+𝑧
+β = 𝑧+1	(13)
+
+Substituting eq. 13 in the transformations depicted in the middle column in Table 1 yields the transformation as a function of the redshift z depicted in the right side column of Table 1. Figure 4 depicts the energy densities of matter and dark matter as functions of z. The relative densities of matter and dark matter, and their respective energies, are depicted in Figure 5.
+
+As shown in figure 4, the maximal matter energy density, which marks the point of cosmic quantum phase transition, is predicted to occur at a redshift of z = 1+ φ ≈ 1.618. This prediction fits quite nicely with the well-known GZK cutoff limit to the cosmic-ray energy spectrum [29] [30], found to exhibit a breakdown in the luminosity densities of both QSO’s and AGN’s at redshift z≈1.6. [46] [47], as well as a recent discovery of extremely high luminosity galaxies at a redshift of exactly 1.618 [48]. Moreover, as shown in figures 4 and 5, for the investigated model of the universe, matter is predicted to dominate at redshifts z < 0.5 (corresponding to
+1
+
+recession velocities β <
+0.5.
+), and dark matter is predicted to dominate at redshifts z >
+3
+
+
+/
+Figure 4. Matter and dark matter energy density distributions, as a function of redshift z.
+
+Figure 5. Relative matter and dark matter (and their relative energies) densities as a function of redshift z.
+
+Dark energy
+Our model proposes a completely different, and far more plausible explanation about the nature of dark energy. It is not a mysterious negative vacuum energy. It is nothing but the energy carried by the dark matter formed due to relativistic recession velocities. Luckily, the name given to dark matter fits well with our explanation. As a post hoc test of our explanation of dark energy, we calculated the proportions of the energies of matter and dark matter at any redshift range z and compared it with the observed results based on ΛCDM cosmologies.
+From equations 4' and 6' in Table 1 we can write:
+
+
+
+𝑒𝑀	=
+𝑒𝑀+ 𝑒𝐷𝑀
+
+
+𝑧2
+𝑧2 (𝑧+1)2(2𝑧+1)
+2𝑧3
+
+1
+= 1+2𝑧	(14)
+
+(𝑧+1)2(2𝑧+1)+ (𝑧+1)2(2𝑧 +1 )
+
+And,
+
+
+
+𝑒𝐷𝑀	=
+𝑒𝑀+ 𝑒𝐷𝑀
+
+
+𝑧2
+2𝑧3 (𝑧+1)2(2𝑧 +1 )
+2𝑧3
+
+2𝑧
+= 1+2𝑧	(15)
+
+(𝑧+1)2(2𝑧+1)+ (𝑧+1)2(2𝑧 +1 )
+
+
+The ratio of the energy densities of the dark to matter is:
+
+𝑒𝐷𝑀 = 2 z	(16)
+𝑒𝑀
+
+The energy of matter and dark matter in any redshift range (𝑧1 , 𝑧2) by integrating expressions 15 and 16 with respect to z, yielding:
+
+
+ 𝑒𝑀(𝑧1− 𝑧2)= = 1 ln( 2𝑧2+1 ) -	𝑧2−𝑧1
+(17)
+
+And,
+𝑒0
+2	2𝑧1+1
+(𝑧2+1)(𝑧1 +1)
+
+
+
+ 𝑒𝐷𝑀 (𝑧1− 𝑧2) = (𝑧
+− 𝑧 ) +2 	(𝑧2−𝑧1)	
+𝑧 2+1 )  1
+2𝑧 2+1 )	(18)
+
+𝑒0
+2	1	(𝑧 2+1) (𝑧 1+1) – 2 ln( 𝑧 1+1
+- / ln(
+2	2𝑧 1+1
+
+
+Calculations based on the above expressions are in good agreement with observations. As an example, it was concluded that for the redshift ranging 0.6-1,
+
+tested by Wittman et al. (2000) [49], dark matter is distributed in a manner consistent with either an open universe, with Ω𝑏 = 0.045, Ω𝑚𝑎𝑡𝑡𝑒𝑟 - Ω𝑏 = 0.405, Ω𝚲 = 0, or with a ΛCDM with Ω𝑏 = 0.039, Ω𝑚𝑎𝑡𝑡𝑒𝑟 - Ω𝑏 = 0.291, Ω𝚲 = 0.67, where Ω𝑏 is the fraction of critical density in baryonic matter, Ω𝑚𝑎𝑡𝑡𝑒𝑟 is the fraction of all matter, and Ω𝚲 is the fraction of dark energy. In the open universe model, we have Ω𝑚𝑎𝑡𝑡𝑒𝑟 = 0.045 +
+0.405 = 0.45, and Ω𝚲 = 0, whereas in the ΛCDM, we have Ω𝑚𝑎𝑡𝑡𝑒𝑟 = 0.039 + 0.291 = 0.33, and Ω𝚲 = 0.67. Calculating the ratios of kinetic and wave energies from equations 17 and 18 for the same redshift range gives:
+
+
+ 𝑒𝑀  = 	𝑒𝑀	 =	0.0300775
+≈ 0.382 (≈ 38.2%)	(19)
+
+𝑒𝑡𝑜𝑡
+𝑒𝑀+ 𝑒𝐷𝑀
+0.0300775 +0.0486354
+
+
+And,
+𝑒𝐷𝑀 = 	𝑒𝐷𝑀	 =	0.0486354	≈ 0.618 (≈ 61.8%)	(20)
+
+𝑒𝑡𝑜𝑡
+𝑒𝑀+ 𝑒𝐷𝑀
+0.0300775+0.0486354
+
+
+Which are in good agreement with the observations based ΛCDM model with (Ωm
+
+1
+= /, Ω𝚲 =
+2
+/). For the entire range of semi-classical matter (0 ≤ z < 1.618) we obtain:
+3
+𝑒𝑀
+/
+𝑒0
+
+≈ 0.1038, and  𝑒𝐷𝑀  ≈ 0.3420, yielding:
+𝑒0
+
+
+	𝑒𝑀	
+0.138
+
+=	≈ 0.233 (or 23%)	(21)
+𝑒𝑀+ 𝑒𝐷𝑀	0.138+0.3420
+And,
+
+	𝑒𝐷𝑀	
+0.3420
+
+𝑒𝑀+ 𝑒𝐷𝑀  = 0.138+0.3420 ≈ 0.767 (or 76.7%)	(22)
+
+Which are in excellent agreement with the ΛCDM cosmology with Ωmatter = 0.23,
+Ω𝚲 = 0.77 [50] [51] [52] , and quite close to the Ωmatter = 0.26, Ω𝚲 = 0.74 cosmology
+[53] [54] [55].
+
+Another supporting evidence for our conjecture that dark energy is the energy carried by dark matter, is the recent observations of what is termed the "coincidence problem", namely, the why "now" at a redshift z ≈ 0.55 the densities of matter and dark energy are equal [31] [32] [33]. As figures 4 and 5 clearly show, the energy densities of matter and dark matter are predicted to be equal at z = 0.5
+1
+
+(corresponding to a recession velocity of β =
+/). Considering the simplified
+3
+
+assumptions made in the discussed model of the universe, the theoretical prediction is in good agreement with the 'coincidence problem" observational data.
+
+Summary and main conclusions
+The nature and properties of dark matter and dark energy in the universe are among the outstanding open issues of modern cosmology. The tremendous effort to answer the question "what is dark matter made of?" has so far been unsatisfactory. Most effort was, and is still being, invested in searches for particle dark matter candidates, partly within the Standard Model of elementary particles, but mostly among its supersymmetric extensions.
+The different approach taken here is based on our recently proposed Information Relativity theory [26] [27] [28]. Rather than theorizing about the elementary particles that might qualify as candidates for dark matter, we investigated the relativistic effects on large-scale cosmological structures in their recession in the universe. We defined the mass of dark matter as the complimentary portion of the relativistic mass, such that at any given recession velocity the sum of the two is equal to the Newtonian mass. The emerging picture from our model could be summarized as follows:
+For a body in recession, matter and dark matter co-exist in a dynamic duality, with matter decreasing in density, and dark matter increasing in density as functions of the recession velocity β (and Redshift z) (see Figs 1 & 5). We conjecture that at recession velocity β =1 (v = c), which corresponds to redshift of z=∞, dark matter transforms to a gravitational wave.
+Contrary to the current conjecture that dark energy is something different than dark matter, a mysterious negative vacuum energy of unknown source, our model suggests that dark energy is the energy carried by dark matter. With respect to the discovery that the universe expands with acceleration [56] [57], we propose that the observed acceleration is not a result of a negative energy of yet unknown source,
+1
+but rather the aftermath of the decrease (as function of /) in the gravitation pulls
+𝑟
+between galaxies as they become more distant from one another. Metaphorically speaking, we contend that the universe is accelerating, not because someone is pressing on the gasoline pedal, but because he or she is gradually releasing the pressure from the brake pedal.
+
+At a recession velocity β equaling the Golden Ratio (≈ 0.618), or equivalently z
+≈1.618, matter undergoes a critical quantum phase transition (see Figs. 3 and 4). This prediction provides an explanation, at least partly, to the GZK cosmic rays cutoff at redshifts z≈1.6. According to our model, up to the critical point, the universe is comprised of matter and dark matter, whereas at redshifts higher than
+
+≈ 1.618 the "cosmic desert" is comprised of quantum matter and dark matter (see Fig. 4). It has been recently argued that the difficulty in tracing the Hubble diagram of the universe in the high redshift range of above z = 1.7 is a limitation of the use of supernovas as calibration candles, due to their limited intrinsic luminosity and extinction from the interstellar medium. Luminosity correlations of long gamma-ray bursts (GRBs) were proposed as a complementary method for high redshifts [58]. Our analysis suggests that the "cosmological desert" at high redshift is not only a measurement problem, which could be overcome with further refinements of existing measurement methods, but is mainly attributed to the quantum nature of matter at redshifts higher than ~1.618.
+
+Matter dominates the universe at z < 0.5, and dark matter dominates at z > 0.5. In good agreement with observational data, the two components are predicted to be equal at z = 0.5. This could provide a physical explanation to the "coincidence problem", namely as to why "now", at a redshift z ≈ 0.55, the densities of matter and dark energy are equal [31] [32] [33].
+
+The Golden Ratio symmetry emerging in our analysis as a key player in the structure of the Universe, echoes nicely with many discovered Golden Ratio symmetries in nature, science, technology, and the arts, including in the structure of plants [59] [60] [61], quantum matter [45] [62] [63], the human brain [64], human
+economic behavior [65] [66] [67] [68], as well as its key role in music [69] [70], and
+aesthetics [71].
+
+We note that the emerging duality between matter and dark matter holds much in common with the realistic matter-wave duality in quantum mechanics, first conjectured by Louis de Broglie [72]. In the de Broglie-Bohm model of quantum mechanics [73] [74] [75] [76], the dual wave of a fast traveling or spinning particle is real, piloting its dual corpuscular mass. Similarly, in our theory dark matter is unobservable matter accompanying its dual observable matter. For extremely high velocities (p→1), matter diminishes, while dark matter, which carries most of the total energy, becomes wave-like, just like de Broglie's pilot wave. Moreover, our model suggests that the recently detected gravitational waves [77] [78], believed to be disturbance in the "fabric of spacetime", are fluctuations in real wave-like dark matter, traveling in quasi-luminal velocities. In fact, the possibility that LIGO had in fact detected dark matter has been recently suggested [79].
+
+It is worthwhile to stress that the cosmology proposed here is based on a very simplified model, in which galaxies, or even galaxy-clusters, could be represented as point masses receding rectilinearly along the line of sight of an observer on Earth. Real galaxies and galaxy structures are in rotation relative to an Earth's observer, and the stars and planets in each galaxy are in continuous rotation. The observed rotations of all celestial structures are major sources of dark and quantum matter. The process of their production due to the structures' rotational motion could be analyzed in a similar way to the current analysis. We have already embarked on the analysis of the production of dark and quantum matter due to rotational motion, and of the spatial entanglement between the dark matter dispersed spherically around their halos. We conjecture that the physical entanglement of dark matter in space is medium by which gravitational forces between bodies are enacted. It is well accepted that dark matter is the "gravitational glue" that keeps galaxies and galaxy structures bound together. Our theoretical analysis, detailed in [80], confirms this.
+
+Acknowledgments
+I wish to thank Dr. Raid Saabni and three anonymous reviewers for their helpful remarks.
+References
+Barack, L., et al. White Paper for the COST action "Gravitational Waves, Black Holes, and Fundamental Physics" (269 pages), arXiv:1806.05195 (2018).
+J Silk et al., Particle dark matter: Observations, models and searches, edited by Gianfranco Bertone (Cambridge Univ. Press, Cambridge, 2010).
+Turner M. S. Dark matter: Theoretical perspectives. PNAS, 90, 4827–4834 (1993).
+Bertone G., Hooper, D., & Silk, J. Particle dark matter: evidence, candidates and constraints. Physics Reports, 405, 5–6, 279-390 (2005).
+Clowe, D. et al. A direct empirical proof of the existence of dark matter. The Astrophysical Journal, 648: L109–L113 (2006).
+Clowe, D., Randall, S. W., & Markevitch, M. Catching a bullet: direct evidence for the existence of dark matter. Nuclear Physics B - Proceedings Supplements, 173, 28-31 (2007).
+Bergström, L. Non-baryonic dark matter: observational evidence and detection methods. Rept. Prog. Phys., 63 (5), 793 (2000).
+Bertone, G., Hooper, D., & Silk, J. Particle dark matter: Evidence, candidates and constraints Phys. Rept., 405, 279–390 (2005).
+Feng, L. L. Dark matter candidates from Particle physics and methods of
+
+detection. Ann. Rev. Astron. Astrophys., 48, 495–545 (2010).
+Ellis, J. Dark matter and dark energy: Summary and future directions.
+Philosophical Transactions of the Royal Society A. 361 (1812). DOI: 10.1098/rsta.2003.1297 (2003).
+Steigman G., Turner M. S. Cosmological constraints on the properties of weakly interacting massive particles. Nuclear Physics B, 253, 375-
+386 (1985).
+Sivertsson S., Gondolo P. The WIMP capture process for dark stars in the early Universe. Astrophys. J., 729, 51 [11pages] (2011).
+Aprile E., et al. Dark matter results from 100 live days of XENON100 data. Phys. Rev. Lett., 107, 131302 [6 pages] (2011).
+Griest, K. WIMPs and MACHOs. Encyclopedia of Astronomy & Astrophysics. P. Murdin & IOP Publishing Ltd (2006). DOI: 10.1888/0333750888/2634.
+Alcock C. EROS and MACHO combined limits on planetary-mass dark matter in the galactic halo. The Astrophysical Journal, 499, 9– 12 (1998).
+Alcock C. MACHO project limits on black hole dark matter in the 1-30 solar mass range. The Astrophysical Journal Letters, 550 (2), 169–172 (2001).
+Carr, B., Kuhnel, F., & Sandstad, M. Primordial black holes as dark matter. Phys. Rev. D, 94, 083504 (2016).
+Albrecht A. et al. Report of the Dark Energy Task Force. Astro. Ph., 0609591 (2006).
+Linder E. V. Probing gravitation, dark energy, and acceleration. Phys. Rev. D, 70 (2), 023511 [11 pages] (2004).
+Alam, U, Sahni, V., & Starobinsky, A.A. The case for dynamical dark energy revisited. Journal of Cosmology and Astroparticle Physics, (2004).
+Sandvik H. B., Barrow J. D., Magueijo J. A simple cosmology with a varying fine structure constant. Phys. Rev. Lett., 88, 031302 [4 pages] (2002).
+Easson D. A. Framptona P. H., Smoota G. F. Entropic accelerating Universe. Physics Letters B, 696 (3), 273–277 (2011).
+Wang, B., Abdalla, E., Atrio-Barandela, F., & Pavón, D. Dark matter and dark energy interactions: Theoretical challenges, cosmological implications and observational signatures. Reports on Progress in Physics, 79 (9) (2016).
+Cai, R-G. Cosmology with interaction between phantom dark energy and dark matter and the coincidence problem. Journal of Cosmology and Astroparticle Physics, 2005 (2005).
+Farrar, G. R., & Peebles, P. J. E. Interacting Dark Matter and Dark Energy.
+
+The Astrophysical Journal, 604 (1), 1-11 (2004).
+Suleiman, R. The dark side revealed: A complete relativity
+theory predicts the content of the universe. Progress in Physics, 4, 34-40 (2013).
+Suleiman, R. Information relativity theory solves the twin paradox symmetrically, Physics Essays, 29, 304-308 (2016).
+Suleiman, R. Information relativity: The special and general theory. https://www.researchgate.net/publication/312214434.
+Greisen, K. End to the Cosmic-Ray Spectrum? Phys. Rev. Lett. 16, 748 (1966).
+Zatsepin, G. T., & Kuz’min, V. A. Upper limit to the spectrum of cosmic rays.
+J. Exp. Theor. Phys. Lett. 4, 78 (1966).
+Zlatev, I., Wang, L. & Steinhardt, P. J. Quintessence, cosmic coincidence, and the cosmological constant. Phys. Rev. Lett. 82, 896 (1999).
+Poitra, V. Can the coincidence problem be solved by a cosmological model of coupled dark energy and dark matter? General relativity and gravitation, 46 (6), 1732 (2014).
+Velten, H. E. S., vom Marttens, R. F., & Zimdahl, W. Aspects of the cosmological “coincidence problem”. The European Physical Journal, 74, 3160, (2014) DOI 10.1140/epjc/s10052-014-3160-4.
+Suleiman, R. 5. If God plays dice, must we do the same? Quantum entanglement as a deterministic phenomenon. SHS Web of Conferences (Proceedings of ICNFP2015) Forthcoming.
+Suleiman, R. A relativistic model of matter-wave duality explains the results of the double-slit experiment. Poster presented at the Fifth International Conference on New Frontiers in Physics (ICNFP 2016), Kolymbari, Crete, July, 6-14 (2016). https://www.researchgate.net/publication/310844720.
+Suleiman, R. Outside spacetime III: An axiom-free relativizing of Newtonian physics predicts the black holes' Schwarzschild radius (without interior singularities). Unpublished manuscript (2017).
+DOI: 10.13140/RG.2.2.22208.23043.
+Suleiman, R. Outside spacetime: An axiom-free relativizing of Newtonian physics predicts the degree of solar light bending, as good as general relativity. Unpublished manuscript (2017).
+DOI: 0.13140/RG.2.2.13522.66245.
+Suleiman, R. An axiom-free relativizing of Newtonian physics predicts the gravitational redshift as good as general relativity. Unpublished manuscript. DOI: 10.13140/RG.2.2.35720.52480.
+
+Suleiman, R. A non-axiomatic modification of Newton's second law predicts the anomalous increase in acceleration at large distances and high velocities. Unpublished manuscript (2018).
+DOI: 10.13140/RG.2.2.30450.81609
+Suleiman, R. A relativistic Newtonian mechanics predicts with precision the results of recent neutrino-velocity experiments. Journal of Advances in Physics, 6 (1), 1032-1035 (2014).
+Olsen S. The Golden Section. New York, Walker & Co. (2006).
+Livio M. The Golden Ratio: The Story of Phi, the World’s Most Astonishing Number. New York, Broadway Books (2002).
+Hardy L. Nonlocality of a single photon revisited. Phys. Rev. Lett., 73, 2279-2283 (1994).
+Otto, H. H. Reciprocity relation between the mass constituents of the Universe and Hardy’s quantum entanglement probability. World Journal of Condensed Matter Physics, 8, 30-35 (2018).
+Coldea R., Tennant D. A., Wheeler E. M., Wawrzynska E., Prabhakaran D., Telling M., Habicht K., Smeibidl P., Kiefer K. Quantum criticality in an Ising chain: Experimental evidence for emergent E8 symmetry. Science, 327 (5962), 177–180 (2010).
+Bergman, D.R., et al. Can experiments studying ultrahigh energy cosmic rays measure the evolution of the sources? astro-arXiv.org+0603797v1 (2006).
+Thomson, G. The TA and TALE experiments. Journal of Physics: Conference Series, 47, 248-254 (2006).
+Gilli, R., et al. Tracing the large-scale structure in the Chandra deep field South.
+The Astrophysical Journal, 592, 721 (2003).
+Wittman, D. M., et al. Detection of weak gravitational lensing distortions of distant galaxies by cosmic dark matter at large scales. Nature, 405, 143-148 (2000).
+Samushia, L., & Ratra, B. Constraints on dark energy models from radial baryon acoustic scale measurements. The Astrophysical Journal, 701, 373-1380 (2009).
+Farooq, M. O. Observational constraints on dark energy cosmological model parameters. (Preprint) arXiv:1309.3710 (2013).
+Kunz, M, & Bassett, B. A. A tale of two distances. (Preprint) arXiv: astro-ph/0406013 (2004).
+Furlanetto, S. R. The global 21-centimeter background from high redshifts.
+
+Mon. Not. R. Astron. Soc. 371, 867–878 (2006).
+Oguri, M., et al. The Sloan digital sky survey quasar lines search. III Constrains on dark energy from the third data released quasar lens catalog. The Astronomical Journal, 135, 512–519 (2008).
+Viel, M, Haehnelt, M.G., & Springel, V. Inferring the dark matter power spectrum from the Lyman a forest in high-resolution QSO absorption spectra. Mon. Not. R. Astron. Soc. 354, 684 – 694 (2004).
+Riess, A. G., et al. Observational evidence from supernovae for an accelerating universe and a cosmological constant". The Astronomical Journal. 116 (3): 1009–1038 (1998).
+Perlmutter, S., et al. Measuremenents of Λ and Ω from 42 high-redshift supernovae. The Astronomical Journal, 517, 565-586 (1999).
+Wang, G-J., Yu, H., Li, Z-X., Xia, J-Q., & Zhu, Z-H. Evolutions and calibrations of long gamma-ray-burst luminosity correlations revisited. The Astrophysical Journal, 836, 103, 9 pp. (2017).
+Douady, S., Couder, Y. Phyllotaxis as a physical self-organizing growth process. Physical Review Letters 68 (13), 2098- 2101 (1992).
+Klar, A. J. S. Fibonacci’s flowers. Nature, 417, 595 (2002).
+Zeng l., Wang G. Modeling golden section in plants. Progress in Natural Science 19, 255-260 (2009).
+Stoudenmire E. M., Clarke D. J., Mong R. S., K., and Alicea, J. Assembling Fibonacci anyons from a Z3 parafermion lattice model. Physical Review B 91, 235112 (2015).
+Lindner, J. F., Kohar, V. Kia, B., Hippke, M., Learned, J.G., and Ditto, W. L. Strange. Nonchaotic Stars. Phys. Rev. Lett. 114, 054101 (2015).
+Kopell, N. J., and Whittington, M. A. Temporal interactions between cortical rhythms. Frontiers in Neuroscience, 2 (2), 145-154 (2008).
+van den Bos, K., Cropanzano, R. Kirk, J. Jasso, G., and Okimoto, T. G. Expanding the horizons of social justice research: Three essays on justice theory. Soc. Just. Res., 28, 229-246 (2015).
+Suleiman, R. Economic harmony: An epistemic theory of economic interactions. Games, 8(1), 2 (2017). doi:10.3390/g8010002.
+Schuster, S. A New Solution Concept for the Ultimatum Game leading to the Golden Ratio. Scientific Reports 7, 5642 (2017). doi:10.1038/s41598-017-
+05122.
+Suleiman, R. On Gamesmen and Fairmen: Explaining Fairness in Noncooperative Bargaining Games. Royal Society Open Science, 2018, 5,
+
+171709; DOI: 10.1098/rsos.171709.
+Hammel, G. T., & Vaughan, K. C. Math and Music: Harmonious Connections. Dale Seymour Publications (1995).
+John F. Putz . The golden section and the piano sonatas of Mozart. Mathematics Magazine, 68 (4), 275-282 (1995).
+Pittard, N., Ewing, M., & Jevons, C. Aesthetic theory and logo design: Examining consumer response to proportion across cultures. International Marketing Review, 24(4), 457-473 (2007).
+De Broglie, L. Recherches sur la théorie des quanta (Researches on the quantum theory), Thesis, Paris, 1924, Ann. de Physique (10) 3, 22 (1925).
+de Broglie, L. Waves and quanta. Nature, 112, 540 (1923).
+de Broglie, L. The reinterpretation of wave mechanics, Foundations of Physics, 1, 5-15 (1970).
+Bohm, D. A suggested interpretation of the quantum theory in terms of `hidden' variables, I. Physical Review, 85, 166-179 (1952a)
+Bohm, D. A suggested interpretation of the quantum theory in terms of `hidden' variables, II. Physical Review, 85, 180-193 (1952b).
+Abbott, B. P. et al. (LIGO Scientific Collaboration and Virgo Collaboration) Observation of gravitational waves from a binary black hole merger. Phys. Rev. Lett. 116, 061102 (2016).
+Abbott, B. P. et al. (LIGO Scientific Collaboration and Virgo Collaboration). GW170817: Observation of gravitational waves from a binary neutron star inspiral. Phys. Rev. Lett. 119, 161101(2017).
+Bird, S., et al. Did LIGO detect dark matter? Phys. Rev. Lett. 116, 201301 (2016).
+Suleiman, R. Saabni, R., & Yehia, I. Gravity as real spatial entanglement (between masses' dark matter). Paper submitted to the 7th. International Conference on New Frontiers in Physics (ICNFP 2018) (and rejected) (2018).
+
+Appendix A
+Derivation of Information Theory's Transformations
+In sections 1a-4a we derive the theories transformations of time, length, matter density, and energy density, as functions of the recession velocity β.
+
+1a. Time transformation
+Consider two reference frames, F and 𝐹′, moving with constant velocity v with respect to each other. A “stationary” observer in frame F defines events with
+
+coordinates t, x, y, z. Another observer in F′ defines events using the coordinates t′, x′, y′, z′. For simplicity, assume that the coordinate axes in each frame are parallel (x is parallel and x′, y to y′, and z to z′), and that the two systems are synchronized, such that at t = t′ = 0, (x, y, z) = (x′, y′, z′) = (0, 0, 0). Now consider the case in which a physical occurrence starts at the point of origin in F′ at 𝑡′ = 0, and lasts

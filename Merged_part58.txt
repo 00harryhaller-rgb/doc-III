@@ -1,0 +1,2034 @@
+grid represents a two-dimensional
+Page | 47
+
+slice	/
+of spacetime at layer k.
+
+The full matrix encodes both spatial and energetic information, allowing for a geometric interpretation of mass, energy, and their interactions.
+Within this matrix, mass is modeled as a localized distortion or excitation in the grid, altering the vibrational or geometric properties of adjacent units. The energy deficit associated with a mass “m” is represented as a scalar field / defined on the grid, with its magnitude determined by a function / that captures the mass’s interaction with the vacuum substrate. When two such distortions exist within the matrix, their respective energy fields interact across layers, creating a tension gradient that drives energy flow interpreted macroscopically as gravitational attraction.
+
+
+This leads to a modified gravitational expression:
+
+
+Here, is / no longer a universal constant but an emergent parameter derived from the local geometry and energy properties of the matrix. The distance /  between masses is quantized as discrete layer separation:
+
+
+This formulation unifies gravitational dynamics with a discrete geometric substrate, suggesting that gravity is not a fundamental force but an emergent phenomenon arising from energy imbalances within a structured Planck-scale matrix. The implications extend beyond Newtonian mechanics, offering a pathway toward reconciling gravity with quantum geometry.
+Page | 48
+
+ANNEX 3
+
+
+
+
+RICCI TENSOR AND THE EINSTEIN TENSOR IN NEARLY FLAT SPACE TIME
+What the Ricci Tensor Represents
+
+The Ricci tensor Rμν is a mathematical object derived from the Riemann curvature tensor. It essentially captures how volumes in spacetime change due to curvature think of it as measuring gravitational tidal effects. In Einstein’s field equations, it helps relate the geometry of spacetime to the energy and momentum of whatever matter is present.
+
+Flat Spacetime: Ricci Tensor in Minkowski Geometry
+
+If spacetime is completely flat like in special relativity, then:
+
+The Riemann tensor vanishes: Rρ σμν = 0
+Consequently, the Ricci tensor also vanishes: Rμν = 0
+This means that in a truly flat spacetime, the Ricci tensor has no physical content it’s identically zero. So yes, it still “exists” mathematically, but it doesn’t carry any meaningful information because there's no curvature to describe.
+Even in quantum gravity approaches that consider flat spacetime as a background (like some perturbative methods), the Ricci tensor is still used because:
+It’s part of the full machinery of general relativity.
+Quantum corrections or fluctuations might introduce curvature locally, even if the background is flat.
+It helps define deviations from flatness, which are crucial in understanding how quantum fields behave in curved spacetime.
+So even if the spacetime is globally flat, the Ricci tensor remains a useful tool for describing local curvature effects, especially in quantum contexts where spacetime might not be perfectly smooth.
+In this view on quantum gravity it is proposed that space is made of two dimensional sheets constructed out of hexagons with Planck dimensions when stacked resulting in a three dimensional space, the Ricci tensor goes to zero which is a fascinating geometric reimagining of spacetime at the Planck scale. It is suggested that space is composed of 2D hexagonal sheets each with Planck-scale dimensions that, when stacked, form a 3D structure. This discrete, layered model challenges the traditional view of spacetime as a smooth manifold.
+
+Page | 49
+
+Ricci Tensor Going to Zero: What It Implies
+
+
+In this framework, the Ricci tensor Rμν going to zero implies that the emergent 3D space is locally flat there’s no intrinsic curvature in the classical sense. Here's what that means:
+No gravitational curvature: In general relativity, a zero Ricci tensor corresponds to vacuum solutions regions of spacetime without matter or energy.
+Flat emergent geometry: The stacking of hexagonal sheets creates a space that, while discrete and quantized, behaves like flat space at larger scales.
+Quantum implications: Even though the Ricci tensor vanishes classically, quantum fluctuations or topological features might still encode curvature-like effects not captured by the Ricci tensor alone.
+Why Still Use the Ricci Tensor?
+
+Even in a model where the Ricci tensor vanishes, it remains conceptually important:
+
+It provides a benchmark: Deviations from zero could signal emergent curvature or quantum effects.
+It helps bridge the gap between classical and quantum geometry, especially when comparing to general relativity.
+It may still play a role in effective field theories derived from the hexagonal-sheet model.
+This kind of geometric quantization where space is built from fundamental units echoes ideas from loop quantum gravity and causal dynamical triangulations, but the hexagonal tiling adds a unique flavor.
+... therefore even when the Ricci tensor tends to be nearly zero it plays a crucial role as a geometric and physical reference point. Here's why it's far from irrelevant:...
+
+Benchmark for Flatness
+
+A vanishing Ricci tensor signals that spacetime is locally flat or in a vacuum state. In models like the author proposes, where space is built from discrete hexagonal sheets, the Ricci tensor helps confirm that the emergent geometry behaves like classical flat space even if the underlying structure is anything but smooth.
+Detecting Deviations
+
+Even tiny deviations from zero in the Ricci tensor can indicate the presence of quantum fluctuations, energy densities, or topological anomalies. It's like a sensitive gauge: when it twitches, something interesting is happening.
+
+
+
+Page | 50
+
+Bridge Between Classical and Quantum
+
+
+In quantum gravity, especially in approaches that discretize spacetime, the Ricci tensor serves as a conceptual bridge. It connects the familiar language of general relativity to the new, often exotic, quantum geometries. Even if it’s zero most of the time, its presence ensures continuity with classical physics.
+Mathematical Structure
+
+Even in flat or nearly flat models, the Ricci tensor is part of the broader curvature framework. It helps define the Einstein tensor, contributes to action principles, and plays a role in variational formulations of gravity even if the final result is zero.
+So, it’s a bit like the silent character in a play who never speaks but whose presence shapes the entire scene.
+It also affects the Einstein tensor ... The Einstein tensor Gμν is directly built from the Ricci tensor Rμν and the scalar curvature R, using the formula:
+
+
+So even if the Ricci tensor tends toward zero as in the author’s hexagonal-sheet model of flat emergent space it still determines the behavior of the Einstein tensor. Here's why that matters:
+Einstein Tensor as the Gravitational Field Descriptor
+
+The Einstein tensor appears on the left-hand side of Einstein’s field equations:
+
+This equation links spacetime curvature (via Gμν) to the energy and momentum of matter (via Tμν). If Rμν=0, then Gμν=0, which implies a vacuum solution no matter, no energy, no curvature.
+
+In Quantum Gravity Models
+Even in discrete or emergent spacetime models like the author’s, the Einstein tensor remains conceptually vital:
+It helps test consistency with general relativity at large scales.
+It can be used to probe quantum corrections tiny deviations from zero might encode quantum gravitational effects.
+It provides a framework for coupling to matter fields, even if the underlying geometry is non-standard.
+
+
+
+Page | 51
+
+​
+
+Geometric Backbone
+
+The Einstein tensor is divergence-free (∇μGμν=0), which ensures conservation of energy and momentum. This property is inherited from the Ricci tensor and the metric structure, so even when the Ricci tensor is nearly zero, its role in shaping the Einstein tensor is fundamental.
+
+So indeed when the Ricci tensor whispers, the Einstein tensor listens
+
+In the model where space is constructed from Planck-scale hexagonal sheets the idea of a “nearly flat but vibrating” spacetime introduces a fascinating twist: even if both the Ricci tensor and the Einstein tensor approach zero, they never quite reach it due to quantum fluctuations embedded in the structure itself.
+
+What It Means When Both Tensors Tend Toward Zero
+
+Classically, if both tensors vanish, spacetime is flat and devoid of matter or energy.
+That’s the vacuum solution in general relativity.
+Quantum mechanically, however, spacetime is never truly still. The hexagonal sheets in the new model vibrate introducing microscopic fluctuations that prevent the tensors from being exactly zero.
+
+Implications of Persistent Vibrations
+
+These tiny deviations from zero could encode quantum gravitational effects like virtual particles, zero-point energy, or even emergent curvature from collective behavior.
+The Einstein tensor, being divergence-free, still ensures local conservation laws, but its near-zero value reflects a vacuum-like state with subtle quantum corrections.
+The Ricci tensor’s near-zero behavior suggests that local curvature is minimal, but not absent perhaps hinting at a granular or foamy structure of spacetime.
+Why This Matters
+
+The vibrating space challenges the classical notion of “flatness.” It suggests that even in the absence of classical curvature, quantum geometry is alive buzzing with activity at the Planck scale. This could be the key to bridging general relativity and quantum mechanics: a space that’s almost flat, but never truly still.
+
+
+WHEN PARTICLES DRAW ENERGY FROM THE VACUUM, THE VACUUM REDISTRIBUTES ENERGY ACROSS SPACE, CREATING WAVE-LIKE DISTURBANCES ANALOGOUS TO GRAVITATIONAL WAVES OR EVEN A NEW KIND OF LONG-
+RANGE QUANTUM FIELD RIPPLE
+
+
+
+
+
+Page | 52
+
+Quantum-Reduced Loop Gravity: Cosmology
+Emanuele Alesci∗
+Institute for Quantum Gravity, FAU Erlangen-Nu¨rnberg, Staudtstr. 7, D-91058 Erlangen, Germany, EU and
+Instytut Fizyki Teoretycznej, Uniwersytet Warszawski, ul. Hoz˙a 69, 00-681 Warszawa, Poland, EU
+
+Francesco Cianfrani†
+Instytut Fizyki Teoretycznej, Uniwersytet Wroc-lawski, pl. M. Borna 9, 50-204 Wroc-law, Poland, EU.
+We introduce a new framework for loop quantum gravity: mimicking the spinfoam quantization procedure we propose to study the symmetric sectors of the theory imposing the reduction weakly on the full kinematical Hilbert space of the canonical theory. As a first application of Quantum-Reduced Loop Gravity we study the inhomogeneous Bianchi I model. The emerging quantum cosmological model represents a simplified arena on which the complete canonical quantization program can be tested. The achievements of this analysis could elucidate the relationship between Loop Quantum Cosmology and the full theory.
+
+
+
+INTRODUCTION
+
+The realization of a quantum theory for the gravitational field must provide an explanation to the current puzzles of General Relativity (GR), i.e. the presence of mathematical singularities. These singularities have been shown to be unavoidable in some symmetry reduced models describing relevant physical situations, such as the collapse of standard matter and the beginning (eventually also the end) of the Universe evolution [1]. Hence, it is demanded to a quantum formulation of gravity to answer to the questions posed by the unpredictability of GR in these cases.
+Loop Quantum Gravity (LQG) [2, 3] constitutes the most advanced model which pursues the quantization of geometric degrees of freedom. It is based on a canonical quantization a la Dirac of the holonomy-flux algebra associated with Ashtekar-Barbero variables [4] in the Hilbert space of distributional connections. One first defines a kinematical Hilbert space in which the Gauss constraint is then solved. The resulting basis elements are the so-called spinnetworks: these are labeled by graphs Γ and belong to L2(SU (2)E/SU (2)V ), E and V being the total number of edges and vertexes of Γ, respectively. The invariance under diffeomorphisms is then implemented by summing over the orbit of the associated operator, which gives the so-called s-knots [5]: these are distributional states representing the equivalence class of spinnetworks under diffeomorphisms. In the space of s-knots the superHamiltonian operator can be regularized [6, 7] and thanks to diff-invariance the regulator can be safely removed leading to an anomaly free quantization of the Dirac algebra. However, particularly in view of the presence of the volume operator [8, 9], the explicit analytical expression for the matrix elements of the superHamiltonian and the properties of the physical Hilbert space are still elusive. For these reasons other approaches such as the master constraint program [10] or the more recent deparametrized system in terms of matter fields [11] have been introduced in the canonical framework.
+Cosmology is a natural arena to test the theory and its dynamics due to the high degree of symmetry of the configuration space. The cosmological implementation of LQG has been realized in the framework of Loop Quantum Cosmology (LQC) [12, 13] (see [14–16] for alternative proposals). This is based on the implementation of a minisu-perspace quantization scheme, in which the phase space is reduced on a classical level according with the symmetries of the model. Because the Universe is described by a homogeneous (and eventually isotropic) space-time manifold, the resulting configuration space is parametrized by three spatial-independent variables. These variables describe the connections and the momenta of the reduced model after a gauge-fixing of both the SU (2) gauge symmetry and dif-feomorphisms invariance has been performed. As a consequence, the regularization of the superHamiltonian operator can be accomplished by fixing an external parameter µ¯ related with the existence of an underlying quantum geometry
+[17] (see [18] for a critical discussion on the regularization in LQC). The resulting theory is a well established research field with several remarkable features and physical consequences, the main ones being a bounce replacing the initial singularity [17, 19–22], the generation of initial conditions for inflation to start [23, 24] and the prediction of peculiar effects on the cosmic microwave background radiation spectrum [25–30] (see also [31–33]).
+
+
+∗Electronic address:
+†Electronic address:
+
+2
+
+However LQC has not yet been shown to be the cosmological sector of LQG and in order to solve the tension between the regularization procedures of the two theories, new approaches have been recently envisaged in order to provide an alternative definition of the superHamiltonian operator in the full theory (see [34] that bring it closer to the µ¯ scheme of LQC). In this paper, we give a detailed presentation of the procedure introduced in [35], in which we adopt the opposite view-point assuming LQG as the correct theory obtained by quantizing GR and then we look for its cosmological sector imposing a symmetry-reduction at the quantum level. This way we construct a theory in which we first quantize and then reduce instead of first classically reducing and then quantizing as it’s usually done in LQC. This approach is not expected to work only in cosmology, but it can be extended also to other symmetric sectors of the theory. This way, we define a new framework for the analysis of the implications of LQG in relevant (symmetry-reduced) physical cases (Quantum-reduced Loop Gravity). Our cosmological quantum model will then be a proper truncation of the full kinematical Hilbert space of LQG. The virtue of our approach mainly consists in the possibility to realize a fundamental description of a cosmological space-time, which fills the gap with the full theory and on which Thiemann’s regularization procedure for the superHamiltonian [6] can be applied.
+The paper is organized as follows:
+In sections II we quickly review the main tools of the LQG quantization of GR, while in section III the homogeneous Bianchi models are presented and the LQC framework is shortly discussed. Then in section IV we perform a classical analysis and we outline how, by considering a proper inhomogeneous extension, it is possible to retain a certain dependence from spatial coordinates into the reduced variables describing a Bianchi I model. Within this scheme, we get the following set of additional symmetries: i) three independent U (1) gauge transformation, denoted by U (1)i (i = 1, 2, 3),defined in the 1-dimensional space generated by fiducial vectors ωi = ∂i, and ii) reduced diffeomorphisms, which act as 1-dimensional diffeomorphisms along a given fiducial direct i and rigid translations along the other directions j /= i. We also outline how a similar formulation will be relevant within the BKL conjecture [36] scheme.
+In section V we discuss the implications of this formulation in a reduced quantization scheme. The elements of the associated Hilbert space are defined over r educed graphs, whose edges are parallel to fiducial vectors and to each edge ei /∂i is associated a U (1)i group element. Within this scheme, a proper quantum implementation can be given to the algebra of reduced holonomy-flux variables. The additional symmetries can then be implemented as in full LQG and they imply the conservation of U (1)i quantum numbers along the integral curves of fiducial vectors ∂i and that states have to be defined over reduced s-knots. However, we will note that no meaningful expression for the superHamiltonian operator can be given.
+The failure of reduced quantization to account for the proper dynamics is the motivation for considering a different approach, in which a truncation of full LQG is performed. This is done in section VI where the truncation is realized such that
+the elements of the full Hilbert space are defined over reduced graph: this is implemented via a projection and this implies the restriction of arbitrary diffeomorphisms to reduced ones.
+The SU(2) gauge group is broken to the U (1)i subgroups along each edge ei: this is realized by imposing weakly a gauge-fixing condition on each group element over an edge ei.
+A proper quantum-reduced kinematical Hilbert space is found by mimicking the analogous procedure adopted in Spin-Foam models to solve the simplicity constraints [37]. In particular, we develop projected U (1)i-networks [38] by which we can embed functionals over the U (1)i group into functionals over the SU (2) group. Hence, we impose strongly a Master constraint condition obtained by squaring and summing all the gauge-fixing conditions. This requirement fixes the relation between SU (2) and U (1)i quantum numbers and the resulting projected U (1)i networks solve the gauge-fixing conditions weakly. At the end, the reduced U (1)i elements are obtained from full SU (2) ones by projecting over the states with maximum magnetic number along the internal direction i. The projection to U (1)i elements can then be applied directly to SU (2)-invariant states. As a result some non-trivial intertwiners are induced between U (1)i group elements for different values of the index i. These intertwiners coincide with the projection of the coherent Livine-Speziale intertwiners [39] on the usual intertwiners base. Hence, the U (1)i states are not kinematically independent, but they realize a true three-dimensional vertex structure. This result allows us to implement the superHamiltonian operator according with Thiemann regularization scheme [6]. In fact, by defining states over reduced s-knots it is possible to remove the regulator and get a well-defined expression. Moreover, thanks to the simplifications due to the
+reduced Hilbert space structure (the volume operator is diagonal!), we evaluate in section	the explicit expression
+of the superHamiltonian matrix elements in the case of a 3-valence vertex. Concluding remarks follow in section VIII.
+
+LOOP QUANTUM GRAVITY
+
+The kinematical Hilbert space of LQG Hkin is developed by quantizing the holonomy-flux algebra of the corre-
+sponding classical model, whose phase space is parametrized by Ashtekar-Barbero connections Ai and densitized
+
+3
+
+triads Ea. In particular, the space of all holonomies is embedded into the space of generic homomorphisms from the set of all piecewise analytical paths of the spatial manifold into the topological SU(2) group X¯ [40]. On such a space a regular Borel probability measure is induced from the SU(2) Haar one and the kinematical Hilbert space for a graph
+Γ is the tensor product of L2(X¯ , dµ) for each edge e. A basis in this kinematical Hilbert space can be obtained using
+the Peter-Weyl theorem. Introducing an SU (2) matrix element in representation j, ⟨g|j, α, β⟩ = Dj (g), the generic
+basis element of Hkin for a given graph Γ with edges e will be of the form:
+⟨he|Γ, je, αe, βe⟩ = O Dje	(he),	(1)
+
+e∈Γ
+from which we can reconstruct the whole kinematical Hilbert space as Hkin = LΓ
+
+
+Hkin .
+
+Fluxes Ei(S) across a surface S are quantized such that a faithful representation of the holonomy-flux algebra is
+realized and they turn out to act as left (right)-invariant vector fields of the SU(2) group. In particular, given a surface S which intersects Γ in a single point P belonging to an edge e such that e = e1 e2 and e1 ∩ e2 = P , the action of Eˆi(S) reads
+Eˆi(S)D(je )(he) = 8πγl2 o(e, S) Dje (he ) je τi Dje (he ).	(2)
+P	1	2
+γ and lP being the Immirzi parameter and the Planck length, respectively, and the factor o(e, S) is equal to 0, 1, −1 according to the relative sign of e and the normal to S, while je τi denotes the SU(2) generator in je-dimensional representation.
+The set of GR constraints in Ashtekar variables, i.e. the Gauss constraint G, generating SU(2) gauge symme-try, the vector constraint Va, generating 3-diffeomorphisms, and the Hamiltonian constraint H, generating time-reparametrizations, are implemented in Hkin according with the Dirac prescription for the quantization of constrained systems [41], namely promoting the constraints to operators acting on Hkin and looking for the Physical Hilbert space HPhys where the operator equations Gˆ = 0, Vˆa = 0, Hˆ = 0 hold. We quickly review how these constraints are imple-mented in LQG:
+G maps he in h′ = λs(e)heλ−1 , s(e) and t(e) being the initial and final points of e, respectively, while λ denotes
+e	t(e)
+SU (2) group elements and the condition G = 0 is solved implementing a group averaging procedure. To this aim one introduces a projector PG to the SU (2)-invariant Hilbert space GHkin, by integrating over the SU (2)
+group elements λs(e) and λt(e) for each edge. Basis elements of GHkin are then the so called spinnetworks:
+
+< h|Γ, {je}, {xv} >=	xv · Dje (he),	(3)
+v∈Γ e∈Γ
+
+xv being the SU (2) invariant intertwiners at the nodes v and they can be seen as maps between the represen-tations associated with the edges emanating from v and · means index contraction.
+The action of finite diffeomorphisms ϕ maps the original holonomy into the one evaluated on the transformed path, he → hϕ(e): states invariant under this action can be found in the dual of Hkin and they are the so-called s-knots [5], namely equivalence class of spinnetworks under diffeomorphisms.
+The hamiltonian constraint Hˆ in the gauge and diffeomorphisms invariant Hilbert space can be regularized by adopting the standard prescription given by Thiemann [6] or an alternative recent proposal [7], but at present only the first one has been shown to reproduce the Dirac algebra without anomalies. We resume Thiemann construction because it will be adapted to the cosmological model of interest in this article.
+We restrict our attention to the so-called Euclidean part of the Hamiltonian constraint, which can be written as
+
+H[N ] =	d3x N (x) H(x) = −2	N Tr(F ∧ {A, V }),	(4)
+Σ	Σ
+V being the volume operator of the full space, while A and F denote the connection 1-form and the curvature 2-form, respectively. The regularization is based on defining a triangulation T adapted to the graph Γ on which the operator acts. In particular, for each pair of links ei and ej incident at a node v of Γ we choose a semi-analytic arcs aij whose end points sei , sej are interior points of ei and ej, respectively, and aij ∩ Γ = {sei , sej }. The arc
+si (sj ) is the segment of ei (ej) from v to se (se ), while si, sj and aij generate a triangle αij := si ◦ aij ◦ s−1.
+i	j	j
+Three (non-planar) links define a tetrahedra (see Fig. 1). The full triangulation T contains the tetrahedra
+
+4
+
+
+
+
+
+
+FIG. 1: An elementary tetrahedron ∆ ∈ T constructed by adapting it to a graph Γ which underlies a cylindrical function.
+
+
+
+
+
+
+
+obtained by considering all the incident links at a given node and all the possible nodes of the graph Γ. Now we can decompose (4) into the sum of the following term per each tetrahedra ∆ of the triangulation T
+
+H[N ] = Σ −2 ∫
+
+
+d3x N ǫabc Tr(Fab{Ac, V }) .	(5)
+
+
+The connection A and the curvature F are regularized by writing them in terms of holonomy h(m) := h[s] ∈
+SU (2) in a general representation m along the segments si and the loop αij , respectively. This yields
+Hm[N ] := N (n) ǫijk Trhh(m)h(m)−1 h(m), V }i ,	(6)
+
+the trace being in an arbitrary irreducible representation m: Trm[D] = Tr[D(m)(U )] where D(m) is a matrix
+representation of U ∈ SU (2), while N 2 = Trm[τ iτi] = −(2m + 1)m(m + 1) and h(m) = D(m)(h). As shown in
+[43], the right-hand side of Eq. (6) converges to the Hamiltonian constraint (5) if the triangulation is sufficiently fine. The expression (6) can finally be promoted to a quantum operator, since the volume and the holonomies have corresponding well-defined operators in Hkin and replacing the Poisson brackets with the commutator
+{, } → −  i [, ] we get:
+Hˆ m[N ] := N (n)C(m) ǫijk Trhhˆ(m)ˆh(m)−1 hˆ(m), Vˆ i.	(7)
+
+
+where C(m) =	−i
+. The lattice spacing ǫ of the triangulation T acts as a regularization parameter and it
+
+p  m
+can be removed in a suitable operator topology in the space of s-knots, see [6] for details. This is essentially due
+to the fact that via a diffeomorphisms it is possible to change ǫ, thus the result of the computation of Hm over
+diffeomorphisms-invariant states does not depend on such a regulator.
+Remarkably it’s possible to formally write solutions to the quantum Hamiltonian constraint: these are linear combinations of spinnetworks based on graph with “dressed” nodes (see [3]) characterized by “extraordinary links”,
+i.e. links with three-valent nodes as boundary attached to two collinear links. Due to the particular nature of the “dressed” spinnetworks the procedure described gives an anomaly free quantization of the Dirac algebra. However these solutions are only formal because the explicit expression of the matrix elements of Hˆ is very complicated [42] and
+it’s unknown in a closed form because of the presence of the volume operator (for which only numerical calculations are available for arbitrary valence and spins [44]). In the quantum-reduced model that we are going to introduce, instead the volume operator is diagonal and this will allow us to explicitly compute the matrix element of Hˆ , opening the way to construct the physical quantum states.
+
+BIANCHI MODELS
+
+The early phases of the Universe are described by skipping the assumptions of the FRW model, i.e. isotropy and homogeneity. The relaxing of the former leads to the Bianchi models for the Universe (see [45] for a recent review), which are described by the following line element
+ds2 = N 2(t)dt2 − e2α(t)(e2β(t))ij ωi ⊗ ωj ,	(8)
+
+5
+
+α, N and βab depending on time coordinates. α determines the total volume, while the matrix βab describes local anisotropies and it can be taken as diagonal and with a vanishing trace, such that two independent components remain. The fiducial 1-forms ωi determine the fiducial metric on the spatial manifold.
+For a Bianchi model, the homogeneity of the fiducial metric allows to define some structure constant Ci as follows
+dωi = Ci ωj ∧ ωk.	(9)
+Each model is determined by Ci and the Bianchi type I, II and IX are characterized by Ci = {0, δi ǫ1 , ǫi jk },
+respectively. In the following, we will restrict our attention to the so-called class A models for which Ci = 0.
+Densitized 3-bein vectors can be determined from the expression of the spatial metric tensor in Eq. (8). However, it is not possible to fix uniquely Ea because one is always free to perform a rotation in the internal space which does
+not modify the metric tensor. A useful choice is to set Ea parallel to the vectors ωi, defined as ωi(ωj) = δi, such that
+i	j
+it is possible to separate gauge and dynamical degrees of freedom [46]. It is worth noting how this choice implies a
+gauge fixing of the symmetry under internal rotations. The associated gauge-fixing condition reads [47, 48]
+χi = ǫ kEaωj .	(10)
+ij	k a
+At the end, the following expression for densitized 3-bein vectors is inferred
+Ea = pi(t)ωωa,	pi = e2αe−βii ,	(11)
+i	i
+ω being the determinant of ωj, while the index i is not summed. In the following, repeated gauge indexes will not be summed while the Einstein convention will still be applied to the indexes in the tangent space. The associated Ashtekar-Barbero-Immirzi connections can be inferred by evaluating the extrinsic curvature Kab and the 3-dimensional spin connections ωija. The extrinsic curvature involves time-derivatives of the 3-metric and Ki = Kabeib reads
+Ki =  1 ∂ h	= 1 (α˙ + β˙ )eαeβii ωi ,	(12)
+a	2N t ab	2N	ii	a
+while the expression of the spin connection ωija is given by
+ω	= 1 a−1(a a−1a−1Ci + a a−1a−1Cj − a a−1a−1Ck ),	(13)
+
+
+where ai = eα+βii .
+
+/
+ija	2 k
+j	k	jk
+k	i	ki
+i	j	ij
+
+The connection Ai is given by the sum of γKi and 1 ǫijlωjla, and it can be written as
+a	a	2
+Ai = c (t)ωi ,	c =  γ (α˙ + β˙ ) + α  eαeβii ,	(14)
+where αi depends on the kind of Bianchi model adopted ( 1 Σj,k ǫijkωjka = αiωi ).
+
+
+A.	Loop Quantum Cosmology
+
+The LQC formulation of homogeneous Bianchi models implements the quantization procedure in the reduced phase space parametrized by {ci, pj} [50].
+The induced symplectic structure leads to the following Poisson brackets
+
+
+{pi(t), cj(t)}PP
+= 8πGγδi,	(15)
+V0	j
+
+the other vanishing, where V0 denotes the volume of the fiducial cell on which the spatial integration occurs.
+The Hilbert space is defined by addressing a polymer-like quantization and it turns out to be the direct product
+
+of three Bohr compactifications of the real line, H = L2(R3
+, d→µ), one for each fiducial direction. A generic basis
+
+element is thus the direct product of three quasi-periodic functions, i.e.
+ψµ→ (c1, c2, c3) = ⊗ieiµici ,	(16)
+→µ = {µi} being real numbers. The operators associated with momenta pi act as follows
+pˆiψµ→ (c1, c2, c3) = 8πγl2 µiψµ→ (c1, c2, c3).	(17)
+
+6
+
+The scalar constraint is derived by rewriting the one of LQG (6) in terms of the holonomies associated with the connections (14) and of the reduced volume operator V = V0 p1p2p3. However, the area of the additional plaquette αij cannot be sent to 0. The difference with respect to the full theory can be traced back to the loss of diffeomorphisms symmetry, which was responsible for the restriction to s-knots. This issue has been solved by evaluating the scalar constraint at some fixed non-vanishing values µ¯iµ¯j for the area of the plaquettes αij. These values are related with
+the scale at which the discretization of the geometry in LQG occurs [17]. The resulting dynamics has been analyzed for Bianchi I, II and IX models [17, 19–22] and the presence of µ¯’s provides a nontrivial evolution for the early phase of the Universe, whose most impressive consequence is the replacement of the initial singularity with a bounce.
+Therefore, in LQC the parameters µ¯’s contain all the information on the quantum geometry underlying the con-tinuous spatial picture and, at the same time, they are responsible for the departure from the standard Big Bang paradigm.
+However this construction only mimics the original LQG quantization and even if it is well defined on physical ground there is still a gap between the full theory and this scheme. The formalism that we are going to introduce is instead obtained by a direct reduction from the full theory at a quantum level and it could shed light on the µ¯ scheme at the base of LQC.
+
+INHOMOGENEOUS VARIABLES
+
+Our aim is to consider a weaker classical reduction of the full phase-space with respect to the one used in LQC, in such a way that a reduced diffeomorphisms invariance is retained and there is then more freedom in the regularization of the superhamiltonian operator. In this respect, we will consider an inhomogeneous extension of the Bianchi I model.
+The Bianchi I model describes a spatial manifold isomorphic to a 3-dimensional hyperplane. The structure constants
+i vanish and the 1-forms ωi can be taken as ωi = δi dxa. The metric of Bianchi I model can be written in Cartesian
+coordinates as follows
+ds2 = N 2dt2 − a2(t)dx1 ⊗ dx1 − a2(t)dx2 ⊗ dx2 − a2(t)dx3 ⊗ dx3,	(18)
+I	1	2	3
+ai (i = 1, 2, 3) being the three scale factors depending on the time variable only. Let us now consider the following inhomogeneous extension of the line element (18)
+ds2 = N 2(x, t)dt2 − a2(t, x)dx1 ⊗ dx1 − a2(t, x)dx2 ⊗ dx2 − a2(t, x)dx3 ⊗ dx3,	(19)
+I	1	2	3
+in which each scale factor ai is a function of time and of the spatial coordinates. As soon as the gauge condition
+(10) holds the densitized inverse 3-bein vectors read
+Ea = pi(t, x)δa,	pi = a1a2a3 ,	(20)
+i	i	ai
+i.e. they take the same expression as in the relation (11), the only difference being that now reduced variables pi
+depend also on spatial coordinates. A similar result is obtained for the projected extrinsic curvature, i.e.
+Ki = 1 a˙ (t, x)δi ,	(21)
+a	N i	a
+while the spin connections ωija for the inhomogeneous model are given by
+ωija = a−2a−1δi δb∂bai − a−2a−1δj δb∂baj.	(22)
+i	j	a j	j	i	a i
+At this point let us consider two different cases: 1) the reparametrized Bianchi I model and 2) the generalized Kasner solution within a fixed Kasner epoch.
+In a reparametrized Bianchi I model we assume that each scale factor is a function of time and of the corresponding Cartesian coordinate xi only, i.e.
+ai = ai(t, xi),	(23)
+such that ∂bai ∝ δi and the spin connections ωija vanish identically. Obviously, the dependence on xi is fictitious and it can always be avoided by a diffeomorphisms, so finding the homogeneous Bianchi I model. However, the reparametrized model is endowed with an additional gauge symmetry, which will have a key-role in the development of the quantum theory.
+
+7
+
+The same result concerning the vanishing of spin connections can also be obtained in the limit in which the spatial gradients of the metric components can be neglected with respect to the time derivatives. This approximation scheme corresponds to the notion of “local homogeneity”, which is implemented when the BKL mechanism is extended to the generic cosmological solution [36, 45]. This is done by considering the generalized Kasner model [51], which describes the behavior of the generic cosmological solution during each Kasner epoch. This model has been realized by considering an extension of the Kasner solution, in which the Kasner exponents are functions of spatial coordinates. Indeed, in general the fiducial vectors do not coincide with the ones of the homogeneous Bianchi I model and they are subjected to a rotation signaling the transition to a new epoch. Nevertheless, within each epoch, one can neglect
+the rotation of Kasner axes and take at the leading order the fiducial vectors ωi = δi .
+a	a
+Therefore, in both cases 1) and 2) the connections retain the same expression as in the homogeneous case, but
+reduced variables depend on spatial coordinates as follows
+Ai (t, x) = c (t, x)δi ,	c (t, x) = γ a˙ .	(24)
+a	i	a	i	N i
+The Poisson brackets between Ai and Ea induce the following Poisson algebra
+{pi(x, t), cj (y, t)} = 8πGγδiδ3(x − y),	(25)
+the other vanishing.
+Since we did not impose homogeneity, the SU(2) Gauss constraint Gi and the super-momentum constraint Ha do not vanish identically. In particular, Gi reads
+Gi = δa∂api = ∂ipi,	(26)
+while the generator of 3-diffeomorphisms takes the following expression
+D[ξ→] = ∫ ξa[Ha − Ai Gi]d3x = Σ ∫ [ξapi∂aci + (∂iξi)pici]d3x,	(27)
+i
+
+ξa being arbitrary parameters, while ξi = ξaδi .
+
+
+REDUCED QUANTIZATION FOR INHOMOGENEOUS BIANCHI MODEL
+
+Let us now discuss how the quantization of inhomogeneous Bianchi models can be performed in reduced phase space.
+In this case, one should define the Hilbert space for functionals of reduced variables ci, whose conjugate variables are pi, and consider the set of reduced constraints. In particular, the SU(2) Gauss constraint is replaced by the conditions (26), which for a given i can be regarded as a U (1) Gauss constraint along the one-dimensional space generated by
+the vector dual to ωi = δi dxa i.e ∂i = δa∂a. We denote the U (1) group of transformations generated by Gi as U (1)i.
+a	i
+Since {Gi, Gj} = 0, the U (1)i transformations are all independent from each other.
+A convenient choice of variables for the loop quantization is to consider the U (1)i holonomies for the connections
+ci along the edges ei parallel to ∂i, i.e.
+
+i
+redhe	i ei cidx
+i = P (e	).	(28)
+Hence, we are not dealing with a U (1)3 gauge theory on a 3-dimensional space, since holonomies associated with different U (1)i have support on different edges ei. What we have is the direct product of three 1-dimensional U (1) gauge theories.
+The Hilbert space can be labeled by reduced graphs Γ, which are cuboidal lattices made by the union of (at most) 6-valent vertices with the ingoing and outgoing edges of the kind ei, and it can be defined as the direct product of the space of square integrable functionals over the U (1)i group elements associated with each ei, i.e.
+
+3
+redH =	L2 (U (1)i, dµi) ,	(29)
+i=1 ei∈Γ
+dµi being the U (1)i Haar measure.
+
+8
+e3
+
+
+
+
+
+
+
+
+
+′	e2
+
+
+
+
+
+
+
+
+
+
+′
+3
+FIG. 2: The representation of a vertex in reduced quantization: the quantum numbers n1 , n2 , n3 are conserved along the directions i = 1, 2, 3, respectively.
+
+
+A generic element is given by taking the direct product of U (1)i networks over ei and they read
+
+3
+ψΓ =	ψei ,	(30)
+i=1 ei ∈Γ
+where ψei is a Ui(1) function, which can be expanded in U (1)i irreducible representations as follows
+
+
+ψei
+
+iniθi ni ei
+ni
+
+θi being the parameter over the U (1)i group, while ni denotes the U (1)i quantum number.
+Momenta pi have to be smeared over the surfaces Si dual to ei and the associated operators can be inferred by quantizing the Poisson algebra (15), so finding
+pˆl(Si)ψ	= 8πγl2δl Σ n einiθi ψni .	(32)
+
+In order to develop the gauge-invariant Hilbert space redHGi in which the conditions (26) are solved, one must insert the invariant intertwiners associated with the three U (1)i groups. These intertwiners map U (1)i group elements each other for a fixed value of i. This means that they do not provide us with a real 3-dimensional vertex structure, since they connect only group elements defined over intersecting edges parallel to the same vector field ∂i.
+At a single vertex v one can have at most two U (1)i group elements for a given i: the ones associated with the two edges ei and e′ emanating form v (see Figure 2).
+
+i
+As soon as ψ
+and ψ ′
+′
+are expanded in irreducible representations ψni and ψni
+(31), respectively, the invariant
+
+ei	ei	ei	′
+intertwiner selects those representations for which ni = n′.
+Therefore, the projection to redHGi implies that the U (1)i quantum numbers are preserved along each integral curve of the vectors ∂i.
+
+Diffeomorphisms
+
+The conditions (20) and (24) imply a partial gauge fixing of the diffeomorphisms symmetry. In fact, under a generic 3-diffeomorphisms connections and momenta transform as follows
+δξAi = ξb∂bAi + ∂aξbAi ,	δξEa = ξb∂bEa − ∂bξaEb.	(33)
+a	a	b	i	i	i
+Starting from the expression (14), one gets
+δξAi = ξb∂bciδi + ξbci∂bδi + ∂aξbδici = ξb∂bciδi + ∂aξici.	(34)
+a	a	a	b	a
+
+9
+
+It is worth noting that for arbitrary ξa the connection cannot be written as in (14). This feature signals that by choosing connections as in (24) we are actually performing a partial gauge-fixing of the diffeomorphisms group. The same result is obtained for Ea. However, there is a residual set of admissible transformations which preserve the conditions (14) and (11) and they are those ones for which
+∂aξi ∝ δi → ξi = ξi(xi).	(35)
+As soon as the condition above holds, each ξi is the infinitesimal parameter of an arbitrary translation along the direction i and a rigid translation along other directions. We denote this transformations as reduced diffeomorphisms ϕ˜ξ. We are going to show how the constraint (27) implies the invariance under reduced diffeomorphisms.
+In reduced phase-space, the constraint (27) acts on a reduced holonomy (28) as follows
+Dˆ[ξ→]redhe = 8πγl2 ∫ redhe (0,s′)(ξb∂bci + (∂iξi)ci)redhe (s′,1)dxi(s′),	(36)
+/
+ei(0, s′) and ei(s′, 1) being the edges from s = 0 to s = s′ and from s = s′ to s = 1, respectively.
+The transformation (36) has to be compared with the changing induced by a reduced diffeomorphisms ϕ˜ξ : xa(s) → x′a(s) = xa(s) + ξa under the condition (35). A diffeomorphisms ϕ maps an edge ei into one which is generically not of the reduced class. In fact the tangent vector at the leading order is given by the following expression
+
+dx′a
+dxa
+a dxb	a
+
+a b	a
+
+j a b
+
+ds = ds + ∂bξ ds ∝ δi + ∂bξ δi = δi + ∂bξ δj δi .	(37)
+The second term on the right side gets contributions also from the fiducial vectors ∂j with j /= i, such that the tangent vector of ϕ(ei) is not proportional to ∂i. However, if one considers the reduced class of transformations (35), these additional contributions vanish and the tangent vector of ϕ˜(ei) is parallel to ∂i. Hence, reduced diffeomorphisms ϕ˜ map reduced edges ei each others.
+The holonomy along ϕ˜ξ is thus given by
+,	′  i	′a
+hϕ˜ (e ) = P (e ci(x )δadx ),	(38)
+ξ  i
+and by computing the integrand one gets
+ci(x′)δi dx′a = ci(x)δi dxa + ξb∂bciδi dxa + ci(x)∂aξidxa.	(39)
+a	a	a
+From the expression above and by considering that dxa = δadxi(s) the following relation follows
+— h	= P (e,	′  i	′a ) − P (e,	i	a ) = ∫	h	(ξ ∂ c + (∂ ξ )c )	h	dx (s ).	(40)
+which coincides with the expression (36). Therefore, the reduced diffeomorphisms ϕ˜ (35) map reduced holonomies into reduced holonomies and they are associated with the action of the relic diffeomorphisms constraint (27) in reduced phase-space. This residual symmetry can be used to define reduced knot classes as in the full theory.
+
+Dynamics
+
+The superHamiltonian operator in reduced-phase space takes the following form
+
+H[N ] = ∫
+
+d3xN
+
+/
+p1p2
+p3 c1c2 +
+
+/
+p2p3
+p1 c2c3 +
+
+/
+p3p1
+p2 c3c1
+
+,	(41)
+
+
+/
+and the quantization of this expression requires to i)give a meaning to the operator 1/ pi, ii) replace ci with some expression containing holonomies. These are the standard issues one encounters in LQG, which are solved by quantizing the expression (6). Therefore, the quantization of the superHamiltonian operator in the reduced model can be realized by implementing in the reduced Hilbert space the procedure adopted in the full theory. This can be done formally by replacing SU (2) group elements with U (1)i ones and by defining a cubulation of the spatial manifold, such that the loop αij is a rectangle with edges along fiducial vectors. Unfortunately, the resulting expression for the superHamiltonian operator regularized `a la Thiemann is not defined in redHGi . This is due to the fact that the
+operator hαij increases (decreases) the U (1)i (U (1)j) quantum number associated with the segment si (sj). As a consequence, the U (1)i quantum number is not conserved along the edge ei and the U (1)i symmetry is broken (see figure 3).
+Therefore, it cannot be given a proper definition of the superHamiltonian operator in reduced quantization. This is due to the lack of a real 3-dimensional vertex structure, which instead can be inferred starting from the full LQG theory.
+
+10
+
+
+
+
+
+
+
+
+
+FIG. 3: The action of the operator associated with the curvature changes U (1)i quantum numbers such that it maps the state out of the gauge-invariant Hilbert space (we did not drawn the edges along the third direction).
+
+
+COSMOLOGICAL LQG
+
+Let us now discuss how to realize in the SU(2) kinematical Hilbert space of LQG Hkin the conditions (20) and (24) via a reduction from SU(2) to U(1) group elements.
+At first, we impose the restriction to edges ei parallel to fiducial vectors ∂i and we discuss the fate of diffeomorphisms invariance. Then, we will deal with the restriction from SU (2) to U (1) group elements and with the relic features of the original SU (2) invariance.
+
+Quantum Diff-Constraint
+
+The restriction to cylindrical functionals over edges ei implies the kind of restriction on the diffeomorphisms trans-formations which we discussed in section V A. We can implement this feature on a quantum level via the action of a projector P onto the space HP made of holonomies along reduced graphs (edges ei adapted to the ωi). This projector P acting on Hkin is then nonvanishing only for holonomies along edges ei.
+Let us consider a generic diffeomorphisms ϕξ, whose associated operator U (ϕξ) in the space of cylindrical functional acts on a generic holonomy he along an edge e as follows
+Uˆ(ϕξ)he = hϕξ (e).	(42)
+The projection of U (ϕξ) in the graph-reduced Hilbert space HP is given by
+redUˆ(ϕξ) = P Uˆ(ϕξ)P,	(43)
+where Phe = he if e = ei for some i, otherwise it vanishes. The action of redU (ϕ) on a graph-reduced holonomy he
+reads then
+redUˆ(ϕ)he = P Uˆ(ϕξ)Phe = P Uˆ(ϕξ)he = Phϕ (e ).	(44)
+As we pointed out in section V A, ϕξ(ei) is parallel to ωi if ϕ is a reduced diffeomorphisms ϕ˜. Hence, the relation
+(44) is nonvanishing only if ϕ = ϕ˜ and one finds
+redUˆ(ϕ) = Uˆ(ϕ˜).	(45)
+Therefore, in HP the relic diffeomorphisms are reduced ones. The development of knot classes with respect to reduced diffeomorphisms will allow us to regularize the expression of the super-Hamiltonian operator `a la Thiemann.
+
+11
+
+Classical holonomies and quantum reduction
+
+On a classical level, the SU (2) holonomies Rhj associated with connections (24) are given by
+
+
+
+
+s being the arc length along ei.
+R j = P (ei ei
+cidxi(s)τi
+),	(46)
+
+Henceforth, Rhj are SU (2) holonomies that belong to the U(1) subgroup generated by τi and they can be written
+as
+R j = exp iαiτi ,	(47)
+
+where αi is a real number and the gauge indexes are not summed as usual. These holonomies in the base |j, mi⟩ that diagonalize τi take the form :
+
+
+< j, m |Rhj |j, n
+>= eiαimi δ
+(48)
+
+i	ei	i
+mini
+
+Similarly, we evaluate fluxes only across the surfaces Si dual to ei and the associated fluxes in a cosmological space-time read from Eq.(11)
+Ei(Sk) = ∫ Eaδkdudv = δk ∫ pidudv.	(49)
+
+It is worth noting how only the diagonal components of Ei(Sj) are nonvanishing. Now our task is to find a quantum symmetry reduction implementing consistently on the kinematical Hilbert space of LQG Hkin the classical conditions
+(47) and (49) representing the holonomized version of the variables (24) and (20) with Poisson brackets (25). How can we proceed?
+First we observe that the skew-symmetric part of the matrix Ei(Sj) can be avoided by imposing the following conditions
+χi =	ǫil k Ek(Sl) = 0.	(50)
+l,k
+The relation above together with the SU(2) Gauss constraint constitutes a second-class system of constraints, thus it is actually a gauge-fixing. As a consequence, the condition (50) cannot be implemented on a SU(2) invariant quantum space according with the Dirac prescription. One possibility is to retain the full unconstrained set of configuration variables and to define the action of quantum operators starting from Dirac brackets instead of Poisson brackets. This way however, the connections become non-commutative [47, 48] and it is difficult to envisage how to carry on the quantization procedure in the full kinematical Hilbert space.
+Henceforth mimicking the procedure adopted in Spin-Foam models to impose the simplicity constraints [37], we consider the Master constraint condition, that arises extracting the gauge invariant part of χi,
+χ2 = Σ χiχi = Σ [δimδklEi(Sk)Em(Sl) − Ei(Sk)Ek(Si)] = 0.	(51)
+
+By imposing the condition (51) strongly on HP , it will turn out that Eq. (50) holds weakly and the classical relation
+(49) can be implemented in a proper subspace of HP , as soon as pi are identified with the left invariant vector fields of the U (1)i groups generated by τi.
+If χˆ2 is applied to a SU(2) holonomy hj and ei ∩ Si = b(ei), b(ei) being the beginning point of ei, one finds
+χˆ2hj = (8πγl2 )2(τ 2 − τiτi)hj ,	(52)
+ei	P	ei
+
+thus an appropriate solution to χ2 = 0 is given by
+k j = 0 ,	∀k /= i.	(53)
+To find the quantum states that implement χ2 = 0 strongly and Eq. (53) weakly, we will use projected spinnetworks
+/
+
+12
+
+Projected U(1)
+
+We now introduce the projected spin-network formalism, in which we define functions over SU (2) starting from their restriction over the U (1)i subgroups generated by τi.
+This way, we lift the U (1)i group elements associated with reduced holonomies (47) to the SU (2) elements of the full theory. This lifting will help us later in embedding reduced elements in the SU(2)-invariant Hilbert space.
+Let us consider the Dupuis-Livine map [38] f : U (1) → SU (2) from functions on U (1) to functions on SU (2)
+
+ψ˜(g) =	dh K(g, h)ψ(h),	g ∈ SU (2),	(54)
+U (1)
+
+
+with Kernel given by
+
+K(g, h) = Σ ∫
+
+
+
+
+
+
+U (1)
+
+
+dk χj(n)(gk)χn(kh),	(55)
+
+where χj(n)(g) are the SU (2) characters in the j(n) representations and χn(h) are the U (1) ones, while j(n) denotes an half integer depending on an integer n. It is true that ψ˜(g)|U(1) = ψ and this implies that the image of f is a subspace of the space of functions on SU (2) such that
+
+ψ˜(g) =	dh K(g, h)ψ˜(h),	g ∈ SU (2),	(56)
+U (1)
+
+i.e. the function ψ˜(g) is entirely determined by its restriction to a U (1) subgroup. If we expand ψ using the Peter-Weyl theorem we get
+
+
+
+
+
+and the coefficients ψn are given by
+
+
+
+Eq (54) is then:
+ψ(h) =	χn(h)ψn,	(57)
+n
+
+
+ψn =	dh χn(h)ψ(h).	(58)
+U (1)
+
+ψ˜(g) = Σ ∫	dk Dj(n)(g)Dj(n)(k)χn(k)ψn,	(59)
+where Dj(n) are the Wigner matrices in a generic Spin base |j, m⟩. Now let us consider projected functions defined over the edge ei and let us choose the U (1)i subgroup of SU (2) in the definition (54) as the one generated by τi, calling its elements ki and the quantum numbers ni. The previous expression becomes:
+
+ψ˜(g)e = Σ ∫	dki	j(ni )	iDj(ni )(g)iDj(ni )(ki)χni (ki)ψni =
+
+i
+ni	U (1)i
+mr	rm	ei
+m,r=−j(ni )
+
+= Σ ∫
+
+dθi
+j(ni )
+
+iDj(ni )(g)eimθi δmrχni (θi)ψni =
+(60)
+
+mr	ei
+i	S	mr=−j(ni)
+
+i j(ni )
+m=ni r=ni
+(g)ψni ,
+
+ni
+
+iDj(ni ) being the Wigner matrices in the Spin base |j, m⟩ that diagonalize the operators J2 and J and θ are the
+mr	i	i	i
+coordinates on the U (1)i groups. Note that the matrices iDj (g) are obtained by the SU (2) transformation Dj(→ui)
+which acts on the vector →ez sending it to the vector →ui = R→ez as
+iDj (g) = Dj−1 (u→ )Dj (g)Dj	(u→ ).	(61)
+
+mn	mr	i	rs
+sn	i
+
+13
+
+This is valid for an arbitrary degree j(ni). Now we have to select a condition ensuring the vanishing of Eq.(52) on
+a quantum level. The condition on basis element of L2(SU (2)) iDj (g) = i < j, m|g|j, r >i reads :
+i < j, m|χ2g|j, r >i= i < j, m|g|j, r >i (j(j + 1) − m2).	(62)
+This relation implies that if we apply χ2 to our projected spinnetworks, whose basis elements are of the form iDj(ni )(g), by fixing |ni| = j(n) an approximate solution to χ2 = 0 is given as j → +∞. In the following we will consider only the plus sign [58], since the opposite one can be obtained by reversing the orientation of the associated edge ei.
+It’s worth noting that introducing coherent states for SU(2), defined by:
+|j, →u⟩ = Dj(→u)|j, j⟩ =	|j, m⟩Dj(→u)mj	(63)
+m
+the basis elements which are solutions of the constraint are
+iDj (g) =< j, →ui|Dj(g)|j, →ui >	(64)
+
+for i = 1, 2, 3. Henceforth, we find
+
+
+
+ψ˜(g)e
+
+
+
+= Σ iD|j|(g)ψj .	(65)
+
+
+Basis states of this form also satisfy the condition (53) weakly in fact
+
+˜′ ˆ	l  ˜
+Σ j′ ∫	i j′
+
+
+i j	j
+
+In this way the resulting quantum states associated with an edge ei are entirely determined by their projection into the subspace with maximum magnetic numbers along the internal direction i. We call the projected SU (2) states of the form (65) quantum-reduced states and they define a subspace of HP that will be denoted HR. The restriction of states ψ˜(g) ∈ HR to their U (1)i subgroup reads
+ψ	= ψ˜(g) |	= Σ eiθijψj .	(67)
+
+Therefore, the restriction to the U (1)i subgroup gives the element of Hred (31).
+Moreover the action of fluxes El(Sk) on ψ˜e is nonvanishing only for l = k = i and each Ei(Si) behaves as follows
+(we are assuming Si ∩ ei = b(e))
+Eˆi(Sl)ψ˜e = 8πγl2 δl Σ jDj ψj .	(68)
+
+By restricting the expression (68) to the U (1) subgroup, one gets
+Eˆ (Sl)ψ˜ |	= E (Si)ψ	= 8πγl2 δl Σ jeiθijψj .	(69)
+
+thus Eˆi(Si)ψe behaves as the left-invariant vector field of the U (1)i subgroup and its action on ψe reproduces the action of momenta in reduced quantization (32). Therefore, the restriction to the U (1)i subgroup maps the quantum-reduced states, elements of HR, to the Hilbert space Hred obtained when quantizing in reduced phase-space.
+
+{Ai (x, t), Eb (y, t)} ∝ δi δb δ3(x, y)	reduced  phase−space	c (x, t), pk(y, t)} ∝ δkδ3(x − y)
+
+a	k	k a
+−−−−−−−−−−−−−−−→ { i	i
+
+yquantization	yquantization
+
+/	/	/	/ /	/
+(70)
+
+/
+
+i	i	i	i
+i
+|U (1)i
+ei	k	ei
+
+Despite the possibility to project the Hilbert space of quantum reduced holonomies into the one of reduced quan-tization, there is a substantial difference between this two kind of reductions. The U (1) representations we get are obtained by stabilizing the SU(2) group along different internal directions and the U (1)i transformations associated with different i are not independent at all (they are rotations along the i axis). As we will see in the next section, for this reason some non-vanishing intertwiners exist among them.
+
+14
+
+Gauge invariant states
+
+The original SU(2) gauge invariant Hilbert space L2(SU (2)L/SU (2)N ) is made of spinnetworks of the form (3). These are invariant under the action of gauge transformations on the holonomies. If we define as UˆG (λ) the operator that generates local SU (2) gauge transformations λ(x), it’s action on basis elements of Hkin is given by
+UˆG (λ)Dj (he) = Dj (λs(e)heλ−1 ),	(71)
+and by group averaging we get the projector
+PˆG = ∫ dλ UˆG (λ),	(72)
+
+acting on the source and target link and producing the intertwiners at the nodes thanks to the formula
+∫ dλ Y Djo	(λ) Y D∗ji (λ) = Σ x∗	′	′ xn ···n ,m′ ···m′ ,	(73)
+
+mono
+n′ m′
+m1 ···mO,n ···n
+1	O	1	I
+
+o=1
+i  i	1	I
+i=1	x
+
+where xn1 ···nO,m′ ···m′ are the SU (2) intertwiners between I incoming and O outgoing representations, respectively.
+1	I
+The projector (72) restricts the SU (2) functionals to be gauge invariant with coefficients
+< Γ, {je}, {xv}|ψ >= ψje,xv = Y xv · Y ψje ,	(74)
+
+
+where the gauge invariant basis elements are of the form
+v∈Γ
+e∈Γ
+
+< h|Γ, {je}, {xv} >= Y xv · Y Dje (he)mn.	(75)
+
+As we have seen in the previous section the imposition of the quantum constraint χ2 = 0 reduces the allowed SU(2) representations on the links to be of the kind Dj (h). Let’s focus on a single vertex v with I ingoing links ei and O outgoing links eo, respectively, such that s(eo) = t(ei) = v ∀i, o: if we apply the projector (72) acting on v to the quantum reduced basis elements (64) we get:
+
+PG Y
+
+
+o jo jojo
+(heo ) Y
+
+
+i ji
+jiji
+(hei ) = ∫
+dλv Y
+
+
+jo
+joαo
+
+
+(λs(eo )
+
+
+jo αoβo
+
+(heo
+
+) rest
+
+
+
+
+βojo
+
+rest′
+
+joβ′ Y
+
+
+i ji
+β′ α′
+
+(hei
+
+
+i  ji
+α′ ji
+
+
+−1
+t(ei )
+
+o=1
+= ∫ dλv Y
+i=1
+
+Dj−1 (u→ )Dj
+o=1
+
+(λv)Djδ α (u→o) oDjo
+
+(he ) restβ j
+i i	i
+i=1
+
+joγo
+o=1
+I
+γoδo	o o
+αoβo	o	o o
+
+rest′	′  YiDji	(h ) Dj−1 (u→ )Dj	(λ−1) Dj ′ (u→ ) =
+
+i	i i
+i=1
+i i	i i	i
+
+O
+
+= Σ x∗	x
+Y Dj −1
+(u→ ) Dj
+(u→ ) oDjo
+(h )rest
+
+1	O  1	I
+xv
+I
+1	I
+o=1
+
+Y rest′	′ Dj−1 (u→ ) Dj ′ (u→ ) iDji	(h ),
+
+i=1
+i	i i	i	i i
+
+(76)
+
+where rest (rest′) indicate the part of the holonomy whose final (initial) index transforms under gauge transformation with a group element λ˜ /= λv and in the second and third equality we used the equations (61) and (73) respectively. The previous expression can be reformulated introducing a Livine-Speziale coherent intertwiner [39] |jO, →uO, jI, →uI >∈
+
+o	i
+|jO, →uO, jI, →uI >= |jO, →uO > ⊗ < jI, →uI | = ∫
+
+
+dλ
+o=1
+
+
+λ−1|jo, u→o > ⊗
+
+
+iY=1
+
+
+< ji, u→i|λ,	(77)
+
+
+
+and noting that its projection on the usual Intertwiner base |jO, jI, x⟩ = x∗
+15
+′	′ QO |jo, mo > ⊗ QI <
+
+vs ,m1 ···mO,m1···mI	o	i
+ji, m′| with |jO, jI, x⟩ ∈	O Hjo ⊗	I H∗ji is exactly the coefficient appearing in (76):
+
+
+
+< jO, →u
+
+, jI, →u |jO, jI, x
+
+>= x∗
+Y Dj −1
+(u→ ) Y Dj ′
+
+(u→ ),	(78)
+
+
+or equivalently:
+1	I
+o=1
+i=1
+
+
+
+PG Y oDjo
+(he ) Y iDji (he ) =
+
+jojo
+o=1
+o	jiji	i
+i=1
+O	I
+
+= Σ < j
+
+, →u
+, j , →u |j
+, j , x > x
+Y Dj
+/	/ /
+(u→ ) oDjo
+(h )rest
+Y Dj −1
+
+/
+(u→ ) rest’
+′ iDji
+/
+(h ),
+/
+
+(79)
+thus we see that the gauge invariant projector brings us out of the space of reduced holonomies. This was expected since the Gauss constraint G that generates the SU (2) transformations doesn’t commute with the second class constraint χ = 0 imposed weakly. Our class of states can then be selected asking that the states averaged over G now also satisfy the constraint χ = 0; to ensure this condition it’s enough to select the maximum weight spin in the sum over αo and α′ inside the expression (79)
+[PG Y oDjo (he ) Y iDji (he )]R =
+
+jojo
+o=1
+o	jiji	i
+i=1
+(80)
+O	I
+
+Σ < j , →u , j , →u |j , j , x > < j , j , x |j , →u , j , →u > Y oDjo  (h )rest	Y rest’	′ iDji (h ).
+/	/	/	/
+The previous equation can then be seen as the replacement of the usual projector on the gauge invariant states of the full theory PG : Hkin → GHkin with it’s reduced version PG,χ : Hkin → GHR where PG,χ = P † PGPχ is given by the composition of the Gauss Projector with the projector on the quantum reduced space with Pχ : Hkin → HR.
+The reduced basis states will then be of the form:
+< h|Γ, j , x ⟩ = Y < j , x |j , →u > · Y lDjel	(h ),	(81)
+/ /
+/	/
+l denoting ingoing and outgoing directions of the links el with tangent vectors ul in v, while < jl, xv|jl, →ul > a short hand notation for the generic reduced intertwiner of the kind (78). The contraction now is just standard multiplication according to the orientation and connectivity of the holonomies.
+The expansion of the projected spinnetwork (65) on this base is then:
+< Γ, j , x |ψ >= Y < →u , j , |j , x > · Y lψjel ,	(82)
+
+R	e	v
+
+
+with lψjel =< j, u→ |ψj|j, u→ >.
+
+v∈Γ
+l  l	l	v
+el
+e∈Γ
+
+el	l	l
+What’s about the scalar product? This is induced from the one of the full theory i.e.
+< Γ, je, xv|Γ′, j′ , x′ >= δΓ,Γ′ δj ,j′ δx ,x′ .	(83)
+e	v	e e	v  v
+In fact looking at a single edge we see that (83) is based on the orthogonality relation
+∫ dλ D∗j1 (λ) Dj2 (λ) =  1  δ	δ	δ ,	(84)
+
+ab	cd
+
+that naturally induces on the reduced basis elements:
+dj1
+j1 ,j2 ac  bd
+
+∫ dλ D∗j1 (λ) Dj2
+ 1 
+(λ) =	δ
+
+,	(85)
+
+16
+
+equivalent up to a scaling to the U (1) scalar product along each edge. However the reduced states |Γ′, j′ , x′ > are
+e	v
+not anymore orthogonal respect to the intertwiner because
+R < Γ, je, xv|Γ′, j′ , x′ >R= δΓ,Γ′ δj ,j′ Y Y < jl, →ul|jl, xv >< jl, x′ |jl, →ul >,	(86)
+
+and we need to employ an orthonormalization procedure as the Gram-Schmidt one.
+It’s interesting to note that using the resolution of the identity in terms of coherent states:
+Ij = Σ |j, m >< j, m| = dj ∫	dλ |j, λ >< j, λ| = dj ∫	du→ |j, →u >< j, →u| ,	(87)
+where |j, λ > are coherent states defined as |j, λ >= λ|j, j > and |j, →u >, with →u unit vectors on the sphere S2, are proportional to |j, λ > up to a phase that drops in the integral, one finds
+
+δab =< j, a|Ij |j, b >= dj	d→u < j, a|j, →u >< j, →u|j, b > .	(88)
+S2
+Using the previous expression then a generic basis element Dj (g) of Hkin can be written as:
+
+j	j
+mn	ab
+ab
+
+
+j
+=	j	du→ < j, m|j, →u >< j, →u|j, a > D
+ab	S2
+∫S2
+du→′ < j, b|j, u→′ >< j, u→′|j, n > .
+(89)
+
+This expression is now useful to infer the form of the reduced states basis of GHR.
+The quantum constraint χ2 in fact will act at the end point (the conjugate condition will hold at the starting point) of the holonomy as:
+χˆ2Dj(g)|j, →u >= Dj(g)(τ 2 − (e→l · →τ )2)|j, →u >= Dj(g)(j(j + 1) − (e→l · →τ )2)|j, →u >	(90) and using the property of the coherent states →v · →τ |j, →v >= j|j, →v > we see that if and only if
+e→l = →u	(91)
+the basis elements will satisfy χˆ2Dj(g)|j, →u >= 0 in the appropriate limit. Then looking at equation (89) we see that the index m, n will be connected to the usual intertwiners at the starting and endpoints of the holonomies for gauge invariant states in GH of the kind (75), but all the terms in the two integrals for which the condition (91) does not hold, are not solutions of the constraint χˆ2 = 0. The reduced holonomies to be connected to the standard intertwiners are then :
+g˜ = RDj (g) = d2 < j, m|j, e→l >< j, e→l|Dj(g)|j, e→l >< j, e→l|j, n > .	(92)
+The previous expression gives a simple rule to build states in GHR: it is enough to connect expressions (92) instead
+of the usual Dj (g) to the standard intertwiners.
+These states, which are defined over cuboidal lattices with 6-valent intertwiners, are suitable to describe a quantum Universe in the case of the inhomogeneous extension of the Bianchi I model.
+
+Intertwiners
+
+In the previous section we determined the reduction implied by the condition (50). This procedure is well-grounded because only interior edge points have been considered, while holonomies transform under gauge transformations at boundary points only. Hence, the underlying SU(2) gauge structure becomes manifest at vertexes. We are going to evaluate the expression of intertwiners adapted to the reduced holonomies h˜el which are the quantum version of (46)
+i.e Rhˆ = h˜ .
+The basic scheme of recoupling theory is given by 3-valent intertwiners. Let us consider a 3-valent vertex with with two edges e1 and e2 incoming and e3 outcoming, with associated SU (2) irreps j1, j2 and j3, respectively. The SU(2)
+
+17
+
+intertwiner is given by the Clebsch-Gordan coefficients or equivalently by 3j symbols (equipped with the 1j “metric tensor”) [56] , such that the full vertex reads
+
+j1 n′ n
+(he1
+)Dj2 (he
+j3 m j1 j2 np
+j3
+mm	e3
+).	(93)
+
+where the repeated magnetic indexes are all summed and taken in a fixed basis, for example the one that diagonalizes
+τ 3.
+In order to find out U(1) irreps out of SU(2) ones, holonomies must be written in the basis that stabilize the direction el and the restriction to the representations with maximum magnetic numbers must be considered. In particular is convenient to introduce a graphical representation for the expression (92)
+
+RDj(g)mn = d2 < j, m|j, e→l >< j, e→l|Dj(g)|j, e→l >< j, e→l|j, n >=
+
+j
+=		 Re→l
+j	j
+
+	 Re→l
+(94)
+
+
+where the solid lines represent the identity in the base |j, m > that diagonalizes τ 3,
+
+
+δab =	j	,	(95)
+
+the projection on the maximum magnetic number is given by
+
+< j, j| =	/	and  |j, j >=	/	(96)
+
+and the group elements are represented by boxes or circles depending if they represent the Wigner matrix of specific fixed rotation R(el) that move the ez axis to the el axis, selecting the desired U (1)l subgroup, or a generic SU (2) Wigner matrix D(g) in the |j, m > base, respectively:
+
+
+
+D(R(e→l))j
+j
+=		 Re→l
+
+(97)
+
+
+
+
+j
+j (g) = 	 g 		.	(98)
+
+With this notation the 3-valent intertwiner from which any higher valence one (our theory for the Bianchi I model prescribes nodes at most 6-valent) can be represented as
+
+
+
+
+< j1, j2, j3, xv|j1, j2, j3, e1, e2, e3 >=	(99)
+
+
+
+where the 3-valent node is the usual 3-j symbol contracted with the SU(2) coherent states in the three directions e1, e2, e3 . The explicit value of the function (99) can then be computed using the values of the Wigner matrix for a rotation parametrized for example by the Euler angles (α, β, γ) that brings the vector (0, 0, 1) to the vector el. The Wigner matrices are then given by
+j	imα j	′
+Dm,m′ (α, β, γ) = e	dmm′ (β)eim γ ,	(100)
+where dj	′ (β) is the Wigner function given in Appendix A. In particular for the cubical lattice we are interested to
+the vectors e3 = ez = (0, 0, 1), e2 = ey = (0, 1, 0) and e1 = ex = (1, 0, 0) and the rotation matrices appearing in (99)
+are given by Dj	′ (− π , π , π ) := Ry and Dj	′ (0, π , 0) := Rx. In fact the two matrices rotate the z axis respectively
+
+m,m
+2 2 2
+m,m	2
+
+into the y and the x direction.
+This graphical machinery can now be used to introduce a reduced recoupling theory (see Appendix B) out of the
+SU (2) one and to compute the action of the scalar constraint.
+
+18
+
+Geometric operators
+
+In reduced Hilbert space GHR, the following relation defining the action of fluxes on basis elements holds
+
+R < el, je |Eˆi(Sk)|el, je >R=< el, je |PχEˆi(Sk)Pχ|el, je >= −i 8πγl2 o(ei, Si) δikδkl je ,	(101)
+
+l	l	l
+l	P	l
+
+where el indicates the edge e in direction l.
+Henceforth, geometric operators are developed starting from the action of reduced fluxes PχEˆi(Sk)Pχ = REˆi(Sk) in reduced Hilbert space. Therefore, the area operator operator along a surface Si is given by
+RAˆ[Si] = ∫ qREˆi(Si)REˆi(Si)dudv,	(102)
+
+u, v being a proper parametrization of the surface Si. The expression above can be regularized as in the full theory [52], and at the end its action is non-vanishing only on |ei, jei > for ei ∩ S /= ∅ giving
+RAˆ[Si]|ei, je >= 8πl2 γje |ei, je > .	(103)
+i	P	i	i
+In the same way, the action of the volume operator can be defined from reduced fluxes and its expression gets an enormous simplification with respect to the full theory [8, 9] thanks to the reduction of SU (2) group elements to U (1)i ones. Let us consider the volume of a region Ω containing only one vertex v (the extension to regions containing more than one vertex is straightforward), the operator V (Ω) reads
+RVˆ (Ω) =	Σ	∫ d3xr|  1 ǫ	ǫiklREˆaREˆb REˆc|,	(104)
+
+and the action on a trivalent node |e1, e2, e3, je1 , je2 , je3 , xv⟩ can be regularized by introducing reduced fluxes over
+Si i = 1, 2, 3 with S1 ∩ S2 ∩ S3 = v as follows
+RVˆ (Ω)|e1, e2, e3, je , je , je , xv⟩ =
+
+= ∫ d3xs|	Σ	1 ǫ
+1	2	3
+
+ǫiklREˆ (Sm)REˆ (Sn)REˆ (Sp)||e , e , e , j , j , j , x ⟩
+
+
+/
+= ∫ d3xs| Σ 1 (ǫ	)2REˆ (Si)REˆ (Sk )REˆ (Sl)||e , e , e , j , j , j , x ⟩ =
+= ∫ d3xq|REˆ1(S1)REˆ2(S2)REˆ3(S3)||e1, e2, e3, je , je , je , xv⟩ =
+
+=	|je1 je2 je3 o(e1, S1)o(e2, S2)o(e3, S3)||e1, e2, e3, je1 , je2 , je3 , xv⟩,	(105)
+where in the second and third lines we used the fact that REˆi(Sm) is nonvanishing only if i = m and the commuta-tivity of REˆi(Si) and REˆl(Sl). Henceforth, the action of the volume operator is diagonal in the basis (81). In the case of a generic vertex, the expression above should be summed over all the e1, e2 and e3 emanating from v, and it does not depend explicitly on the intertwiner structure. For the 6-valent vertex in figure 4 by choosing the orientation of S1, S2 and S3 such that their normals are parallel to e1, e2 and e3, respectively, the volume becomes
+RVˆ (Ω)|e1, e2, e3, e4, e5, e6, j1, j2, j3, j4, j5, j6, xv⟩ =
+= (8πγl2 )3/2√(j1 + j4)(j2 + j5)(j3 + j6)|e1, e2, e3, e4, e5, e6, j1, j2, j3, j4, j5, j6, xv⟩.	(106)
+
+
+HAMILTONIAN CONSTRAINT
+
+The superHamiltonian operator can be consistently regularized in the reduced Hilbert space, starting from the expression of the full theory. In this respect, let us restrict our attention to the Euclidean constraint (4) and let us adapt Thiemann regularization procedure [6] to the states of the reduced theory by considering only cubic cells. Hence, let us develop a cubulation C of the manifold Σ adapted to the Graph Γ underlying the cubical lattices over
+
+19
+
+
+
+
+
+
+
+
+
+FIG. 4: 6-valent vertex.
+
+which our reduced cylindrical functions are defined. For each pair of links ei and ej incident at a node n of Γ we choose a semi-analytic arcs aij that respect the lattice structure, i.e. such that the end points sei , sej are interior points of ei, ej, respectively, and aij ∩ Γ = {sei , sej }. The arc si is the segment of ei(ej) from n to si(sj), while si, sj and aij generate a rectangle αij := si ◦ aij ◦ s−1. Three (non-planar) links define a cube and we get a complete cubulation C of the spatial manifold by summing over all the incident edges at a given node and over all nodes. Now we can decompose (4) obtaining the expressions (5) and (6) adapted to C simply with the replacement ∆ → / .
+We are now interested in implementing the action of the operator (7) via an operator RHˆ defined on GHR: a
+convenient way of constructing it is to replace in the expression (7) quantum holonomies and fluxes with the ones acting on the reduced space as follows
+RHˆ m [N ] := N (n)C(m) ǫijk TrhRhˆ(m)Rhˆ(m)−1 Rhˆ(m), RVˆ i.	(107)
+
+The lattice spacing of the cubulation C that acts as a regularization parameter and it can be changed via a reduced diffeomorphisms. Hence, on reduced s-knot states there exists a suitable operator topology in which the regulator can be safely removed as in full LQG. Therefore, the action of the superHamiltonian operator can be regularized in the reduced Hilbert space. We proceed in the next section to the explicit computation of the matrix elements of (107) on three valent nodes.
+
+A.	Reduced Hamiltonian on three valent node
+
+The reduced Hamiltonian RHˆ m [N ] acts on reduced states as the operator (7) does on ordinary spinnetwork states.
+The difference is that now the holonomies are of the kind (64) or equivalently of the kind (94) considering the node structure and consequently one has to recouple them using the rules contained in Appendix B . Here we study RHˆ m [N ] acting on a three-valent node; in the following we neglect the value of the lapse function and the constants
+analyzing the operator
+RHˆ m = ǫijk TrhRhˆ(m)Rˆh(m)−1RVˆ Rhˆ(m)i,	(108)
+
+because, as is the full theory, due to the presence of ǫijk this is the only non vanishing term in the commutator. Choosing a three valent vertex state |v3⟩R = |ex, ey, ez, jx, jy, jz, xv⟩R with outgoing edges ex, ey, ez, the Hamiltonian
+
+RHˆ m |v3⟩R is the sum of three terms RHˆ m |v3⟩R = Σ3
+RHˆ m
+k
+|v3⟩R where k = 1, 2, 3 for sk ∈ ex, ey.ez respectively.
+
+Hˆ m
+3
+|v3⟩R acts first by multiplication with the holonomy on the right of (108) producing:
+
+20
+
+
+
+
+
+jz
+
+
+
+
+
+
+hˆ(m)|v ⟩
+= hˆ(m)
+(109)
+
+sz	3 R	sz
+
+
+
+
+
+
+
+
+
+
+
+
+
+m
+
+
+
+
+
+
+= djz +m
+(110)
+
+
+
+
+
+
+Then the Volume acts diagonally multipling by √j j (j + m) and the last operator Rhˆ(m)Rhˆ(m)−1 attaches the
+
+inverse holonomy and the loop αxy. We get
+y	z
+αij	sk
+
+
+jz
+
+
+
+jz
+
+
+
+
+
+
+
+
+
+h ˆ	ˆ
+ˆ ˆ	i	q
+(dj )2
+
+/
+/
+
+21
+
+Reduced recoupling (see Appendix B) on the links gives:
+
+jz
+
+
+jz
+
+jz
+jz +m m jz
+jx	jy
+Rx	m	Ry
+jx+m	jy −m
+
+
+
+
+h ˆ	ˆ
+
+
+
+ˆ ˆ	i	q
+
+
+
+(d )2
+−1
+x	−1
+x	y
+hx
+Rx
+jx+m
+jx+m R−1
+−1
+y
+hy
+Ry
+jy −m
+jy −m
+R−1
+
+αxy	sz
+sz	3 R
+x  y	z
+
+/
+djz +m
+jx +m
+jy −m jx
+Ry
+m
+jy
+m
+−1	−1
+y	x
+hy	Rx
+R	−
+hx
+m
+−1
+m	m  x
+
+−1
+y	Rx
+
+
+
+
+
+(112)
+The previous expression can then be simplified moving the box using the invariance of the intertwiners at the central node and using SU (2) recoupling theory we get (see [42, 53]):
+TrhRhˆ(m)Rhˆ(m)−1RVˆ Rhˆ(m)i|v3⟩R =
+
+
+
+
+jz
+
+jz
+
+
+jx+m	jy −m
+
+
+
+
+
+q	(dj )2
+
+
+
+
+
+
+
+j	j j
+
+
+
+
+
+
+
+j	j	j
+Rx
+−1
+x
+hx
+Rx
+jx+m
+jx+m R−1
+Ry
+
+−1
+y
+hy
+Ry
+jy −m
+jy −m
+R−1
+
+x  y	z
+
+/
+djz +m
+jx+m
+jy −m
+jz  m  jx
+m  jz+m jy
+jx
+Ry
+m	−1
+y
+hy
+Ry
+jy
+m
+−1
+x
+Rx
+−1
+hx
+m
+−1
+m	m  x
+
+−1
+Rx
+
+
+
+
+
+(113)
+
+22
+
+A similar calculations for the reversed loop αyx leads to the final result:
+
+
+ˆ m/	q
+(dj )2
+
+3m j	j  j
+
+
+j	jy−m j
+
+djz +m
+jz
+jz  m  jx
+m  jz+m jy
+
+
+
+jz
+
+
+
+
+
+
+q	(dj )2
+
+/
+
+j j +m j
+
+j −m j +m j
+(114)
+
+djz +m
+jz
+m  jz	jy
+jz +m  m  jx
+
+
+
+jz
+
+
+23
+
+The total scalar constraint is then obtained by summing the contributions for k = 1, 2 obtained from the previous expression by index permutations.
+This result can now be used to construct explicit solutions or to test the semiclassical limit.
+
+CONCLUSIONS
+
+We provided a new framework for the cosmological implementation of LQG. This new formulation was aimed to realize a quantum description for an inhomogeneous extension of the Bianchi I model, in which a residual diffeomor-phisms invariance held and there was space left to regularize the scalar constraint as in full LQG [6]. We outlined how the implementation of a quantization scheme in reduced phase-space was not fit for this purpose. This fact was due to the presence of three independent U (1) gauge symmetries (denoted by U (1)i), each one acting on the integral curves of fiducial vector fields ωi = ∂i. The space of invariant states under U (1)i transformations was made by elements whose U (1)i quantum numbers were preserved along each curve. The issue of this approach was that such a space is not closed under the action of the scalar constraint, regularized as in [6].
+Henceforth, our new framework has been defined by reversing the order of “reduction” and “quantization”, which means that we projected the kinematical Hilbert space of LQG down to a reduced Hilbert space which captured the degrees of freedom of the extended Bianchi I model. This was done by restricting admissible edges to those ones parallel to fiducial vectors only and by implementing a gauge-fixing procedure for the internal SU(2) symmetry. The former implied that the full diffeomorphisms group was reduced to a proper subgroup, while the latter constituted the most technical part of our analysis. We found the solutions of the gauge-fixing condition by lifting U (1)i networks to SU (2) ones. This way, we could reconstruct the quantum states describing the extended Bianchi I model out of functions of SU (2) group elements. This feature allowed us to investigate the implications of the original SU(2) invariance, so getting that non-trivial intertwiners mapping each other different U (1)i representation. This is the paramount result of our analysis which marked the difference with the reduced quantization scheme. In fact, a true 3-dimensional vertex structure could be realized also in the reduced model. The main consequence was that one could implement the action of the scalar constraint in the reduced model as in full LQG, the only difference being that the triangulation of the spatial manifold had to be replaced by a cubulation. At the same time, the presence of reduced diffeomorphisms allowed to develop certain knot classes over which the scalar constraint could also be consistently regularized. Furthermore, since the volume operator was diagonal, the matrix elements of the scalar constraint can be explicitly computed. For instance, we presented the calculation for a 3-valent vertex structure.
+The analysis of the action of the scalar constraint on the 6-valence vertex and the dynamical implications of the extended Bianchi I model will be the subject of forthcoming investigations. These developments are expected to be highly non-trivial, because the presence of the reduced intertwiners correlates the spin quantum number along different directions already on a kinematical level. In this respect, the construction of a proper semiclassical limit, in which the classical Bianchi I model is inferred, constitutes a tantalizing perspective for testing the proposed quantization procedure. The success of this analysis would qualify such a scheme as a well-defined quantum picture describing the early Universe in terms of a discrete geometry, so opening the way to several phenomenological applications. Moreover, it is envisaged for the first time the possibility to test the viability of the techniques developed in LQG (implementation of the scalar constraint [7, 54, 55], development of the semiclassical limit) in a simplified scenario in which the obstructions of the full theory can be overcome.
+This analysis constitutes the first realization of Quantum-reduced Loop Gravity. We applied this framework to the inhomogeneous Bianchi I model, but nothing seems to prevent us for considering other symmetric sectors of the full theory, so increasing the relevance of the proposed procedure and the amount of phenomenological implications which can be extracted.
+
+Acknowledgments
+
+The authors wish to thank T.Thiemann and K.Giesel for useful discussions. The work of F.C. was supported by funds provided by “Angelo Della Riccia” foundation and by the National Science Center under the agreement DEC-2011/02/A/ST2/00294. The work of E.A. was partially supported by the grant of Polish Narodowe Centrum Nauki nr 2011/02/A/ST2/00300.
+
+24
+
+Appendix A: SU(2) formulas
+
+
+The explicit expression of the Wigner function dj
+(β) [57] is:
+
+
+β 2j−2k+m−m
+
+
+β 2k−m+m
+
+dj	(β) = √(j + m)!(j − m)!(j + m′)!(j − m′)! Σ(−1)k	(cos 2 )
+
+(sin 2 )
+,	(A1)
+
+and the Wigner matrices for an angle β = π are given by
+j	/	m−m −iαm−iγm′ 1 s (j + m)!(j − m)! Σ	k j + m′	j − m′
+/	/
+/	/ /	/	/
+where the sum over k is such that the argument of the factorials are always bigger than zero.
+
+Appendix B: Reduced Recoupling
+
+The standard multiplication of SU (2) holonomies and their recoupling i.e.
+
+
+j1 m1n1
+j2 m2n2
+km	k
+j1 m1j2 m2  mn
+k
+kn
+j1 n1j2 n2
+(B1)
+
+using the graphical calculus, introduced in [42] and based on 3j-symbols related to Clebsch-Gordan coefficients by
+
+
+
+
+can be written as
+
+
+j3  m3 j1 m1j2 m2
+= (−1)j1−j2 +m3 √dj
+j1	j2	j3 m1 m2 −m3
+
+ ,	(B2)
+
+
+/
+
+=	dk
+k
+(B3)
+
+
+where the triangle denotes a generic SU (2) group element and the notation with the two kind of arrows is used to distinguish indexes belonging to the vector space Hj or the dual vector space Hj∗. The previous expression in the quantum reduced case where we deal with holonomies of the kind (94) becomes
+
+
+j2	j2
+=
+
+
+
+dk1 dk2 dk3
+j2	j2
+k3	=
+
+j1
+k1 k2 k3
+j1
+j2
+j1	j1
+
+j2
+(B4)
+
+= dj1 +j2
+j1
+j1 + j2
+j1 + j2
+
+where we used the property of the Clebsch-Gordan CKk	that is non vanishing only if K = j1 + j2 and k = j1 + j2
+graphically given by (remember that in the graph notation we always use 3js):
+
+j2
+= j1 + j2
+j1
+(−1)2j1
+=
+j1 +j2
+j2
+and	k	=
+j1
+j2
+(−1)2j2
+j1 + j2 =	d
+j1
+
+(B5)
+
+The same result can be obtained remembering that
+j2
+
+
+j2
+= (−1)2k	(B6)
+
+25
+and the coherent state property |j, j >= | 1 , 1 >N 2j that graphically implies:
+
+2 2
+
+j2
+j2 =	dj1 +j2 j
+
+
+
+and
+
+
+j2
+/ j2 = √dj +j
+
+
+
+j + j
+
+
+
+(B7)
+
+
+In the case in which the two groups elements go in opposite directions we have instead
+
+
+
+j2	j2	(d
+)3j2	j2
+
+
+
+j1
+=   j2 −j1 
+(dj2 )2
+j1
+
+j1
+(B8)
+
+
+because we can recouple the lines obtaing a sum over allowed spins, but in the reduced space GHR the only non vanishing terms are produced by the Clebsch-Gordan (3j) of the kind:
+
+j2 − j1
+j2	=
+
+(−1)2j1
+√d
+j2 − j1
+
+j2	=
+
+(−1)2j1 +2j2
+√d
+
+(B9)
+
+
+
+/
+
+S.W. Hawking, R. Penrose, Proc. Roy. Soc. Lond. A, 314, (1970) 529-548.
+C. Rovelli, “Quantum gravity”, (Cambridge University Press, Cambridge, 2004); A. Ashtekar and J. Lewandowski, Class. Quant. Grav. 21, R53 (2004).
+T. Thiemann, “Modern Canonical Quantum General Relativity”, (Cambridge University Press, Cambridge, 2006).
+A. Ashtekar, Phys. Rev. Lett., 57, (1986) 2244-2247; . J.F. Barbero, Phys.Rev. D, 51, (1995) 5507-5510.
+A. Ashtekar, J. Lewandowski, D. Marolf, J. Mourao and T. Thiemann, J. Math. Phys. 36, 6456 (1995) [gr-qc/9504018].
+T. Thiemann, Class. Quant. Grav., 15, (1998) 839.
+E. Alesci, C. Rovelli, Phys. Rev. D, 82, 044007(2010).
+C. Rovelli, L. Smolin, Nucl. Phys. B, 442, (1995)593; Erratum-ibid. B, 456, (1995)753.
+A. Ashtekar, J. Lewandowski, Adv. Theor. Math. Phys., 1, (1998)388.
+T. Thiemann, Class. Quant. Grav., 23, (2006) 2211-2248.
+K. Giesel, T. Thiemann, “Scalar Material Reference Systems and Loop Quantum Gravity”,
+M. Bojowald, “Quantum cosmology: A fundamental description of the universe”, Lecture notes in physics, Vol. 835 (Springer, New York, 2011).
+A. Ashtekar, P. Singh, Class. Quant. Grav., 28, 213001 (2011).
+C. Rovelli, F. Vidotto, Class. Quant. Grav., 25, (2008) 225024.
+E. Bianchi, C. Rovelli and F. Vidotto, Phys. Rev. D 82, 084035 (2010)
+E. F. Borja, J. Diaz-Polo, I. Garay, E.R. Livine, Class. Quant. Grav., 27, (2010), 235010.
+A. Ashtekar, T. Pawlowski, P. Singh, Phys. Rev. Lett., 96, (2006) 141301; Phys. Rev. D, 73, (2006) 124038; Phys. Rev. D,
+74, (2006) 084003.
+J. Haro and E. Elizalde, Europhys. Lett., 89, (2010) 69001.
+M. Bojowald, H. Hernandez, A. Skirzewski, Phys. Rev. D, 76, (2007) 063511.
+A. Ashtekar, E. Wilson-Ewing, Phys. Rev. D, 79, (2009) 083535.
+M. Martin-Benito, G.A. Mena Marugan, T. Pawlowski, Phys. Rev. D, 78, (2008) 064008.
+A. Ashtekar, E. Wilson-Ewing, Phys. Rev. D, 80, (2009) 123532.
+A. Ashtekar, D. Sloan, Phys. Lett B, 694, (2012)108; Gen. Rel. Grav., 43, (2011) 3519.
+L. Linsefors, A. Barrau, “Inflation as a prediction of Loop Quantum Cosmology”, arxiv: 1301.1264.
+J. Mielczarek, JCAP, 0811, (2008)011.
+J. Mielczarek, Phys. Rev. D, 79, (2009) 123520.
+J. Mielczarek, T. Cailleteau, J. Grain, A. Barrau, Phys. Rev. D, 81, (2010) 104049.
+J. Grain, A. Barrau, T. Cailleteau, J. Mielczarek, Phys. Rev. D, 82, (2010) 123520.
+M. Bojowald, G. Calcagni, S. Tsujikawa, Phys. Rev. Lett., 107, (2011) 211302.
+I. Agullo, A. Ashtekar, W. Nelson, Phys. Rev. Lett., 109, (2012) 251301.
+T. Cailleteau, A. Barrau, J. Grain, F. Vidotto, Phys. Rev. D, 86, (2012) 087301.
+J. Mielczarek, T. Cailleteau, A. Barrau, J. Grain, Class. Quantum Grav., 29, (2012) 085009.
+T. Cailleteau, J. Mielczarek, A. Barrau, J. Grain, Class. Quantum Grav., 29, (2012) 095010.
+V. Bonzom, A. Laddha, SIGMA, 8, (2012) 009.
+
+26
+
+E. Alesci, F. Cianfrani, “A new perspective on cosmology in Loop Quantum Gravity”, arXiv:1210.4504.
+V.A. Belinski, I.M. Khalatnikov, E.M. Lifshitz, Adv. Phys., 19, 525(1970); Adv. Phys., 31, 639(1982).
+J. Engle, E. Livine, R. Pereira and C. Rovelli, Nucl. Phys. B, 799, 136 (2008).
+M. Dupuis, E.R. Livine, Phys. Rev. D, 82, (2010)064044.
+E.R. Livine, S. Speziale, Phys. Rev. D, 76 (2007) 084028.
+A. Ashtekar and J. Lewandowski, J. Geom. Phys., 17, (1995), 191-230; J. Lewandowski, A. Okolow, H. Sahlmann, T. Thiemann, Comm. Math. Phys., 267, No. 3,(2006) 703-733.
+M. Henneaux, C. Teitelboim, “Quantization of Gauge Systems”, (Princeton University Press, 1994).
+E. Alesci, T. Thiemann, A. Zipfel, Phys. Rev. D, 86, (2012) 024017.
+M. Gaul, C. Rovelli, Class. Quant. Grav., 18, (2001) 1593.
+J. Brunnemann, D. Rideout, Class. Quant. Grav., 25, (2008) 065001; Class. Quant. Grav., 25, (2008) 065002.
+G. Montani, M.V. Battisti, R. Benini, G. Imponente, Int. J. Mod. Phys. A, 23, (2008) 2353.
+M. Bojowald, Class. Quant. Grav., 20, (2003) 2595.
+F. Cianfrani, G. Montani, Phys. Rev. D, 85, (2012) 024027.
+F. Cianfrani, A. Marchini, G. Montani, Europhys. Lett., 99, (2012) 10003.
+S. Alexandrov, Phys. Rev. D, 66, (2002) 024028.
+A. Ashtekar, M. Bojowald, J. Lewandowski, Adv. Theor. Math. Phys., 7, (2003)233.
+I. M. Khalatnikov, E. M. Lifshitz, Adv. Phys., 12, 185 (1963).
+C. Rovelli, L. Smolin, Nucl. Phys. B, 442, (1995), 593-622; 456, (1995), 753(E); A. Ashtekar, J. Lewandowski, Class.
+Quant. Grav., 14, (1997), A55-A82.
+E. Alesci and C. Rovelli, Phys. Rev. D 76, 104012 (2007)
+K. Giesel and T. Thiemann, “Algebraic Quantum Gravity (AQG) I. Conceptual Setup,” Class. Quant. Grav. 24, 2465 (2007)
+T. Thiemann, “The Phoenix project: Master constraint programme for loop quantum gravity,” Class. Quant. Grav. 23, 2211 (2006),
+B. Dittrich and T. Thiemann, “Testing the master constraint programme for loop quantum gravity. I: General framework,” Class. Quant. Grav. 23, 1025 (2006) [arXiv:gr-qc/0411138].
+T. Thiemann, “Quantum spin dynamics. VIII: The master constraint,” Class. Quant. Grav. 23, 2249 (2006)
+Brink D M and Satchler G R 1968 Angular Momentum 2nd ed (Oxford: Clarendon Press)
+D. A. Varshalovich, A. N. Moskalev, V. K. Khersonskii, Quantum Theory of Angular Momentum (World Scientific 1988).
+However also the case involving both signs can be considered: the basis elements of the quantum reduced Hilbert space
+
+would then be of the form iD|ni| (g) + iD|ni|
+(g)
+
+nini
+−ni −ni
+
+universe
+
+
+Article
+Quark Clusters, QCD Vacuum and the Cosmological 7Li, Dark Matter and Dark Energy Problems
+Rachid Ouyed 1,*, Denis Leahy 1/, Nico Koning 1 and Prashanth Jaikumar 2/
+
+
+1	Department of Physics and Astronomy, University of Calgary, 2500 University Drive NW, Calgary, AB T2N 1N4, Canada; leahy@ucalgary.ca (D.L.); nakoning@ucalgary.ca (N.K.)
+2	Department of Physics and Astronomy, California State University Long Beach, 1250 Bellflower Blvd., Long Beach, CA 90840, USA; prashanth.jaikumar@csulb.edu
+*	Correspondence: rouyed@ucalgary.ca
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/
+Citation: Ouyed, R.; Leahy, D.; Koning, N.; Jaikumar, P. Quark Clusters, QCD Vacuum and the Cosmological 7Li, Dark Matter and Dark Energy problems. Universe 2024, 10, 115. https://doi.org/10.3390/ universe10030115
+Academic Editor: Antonino Del Popolo
+Received: 9 January 2024
+Revised: 27 February 2024
+Accepted: 28 February 2024
+Published: 1 March 2024
+
+Copyright: © 2024 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/).
+Abstract: We propose a non-exotic electromagnetic solution (within the standard model of particle physics) to the cosmological 7Li problem based upon a narrow 2 MeV photo-emission line from the decay of light glueballs (LGBs). These LGBs form within color superconducting quark clusters (SQCs), which are tens of Fermi in size, in the radiation-dominated post-BBN epoch. The mono-chromatic line from the LGB → γ + γ decay reduces Big Bang nucleosynthesis (BBN) 7Be by 2/3 without affecting other abundances or the cosmic microwave background (CMB) physics, provided the combined mass of the SQCs is greater than the total baryonic mass in the universe. Following the LGB emission, the in-SQC Quantum ChromoDynamics (QCD) vacuum becomes unstable and “leaks” (via quantum tunneling) into the external space-time (trivial) vacuum, inducing a decoupling of SQCs from hadrons. In seeking a solution to the 7Li problem, we uncovered a solution that also addresses the Dark Energy (DE) and dark matter (DM) problem, making these critical problems intertwined in our model. Being colorless, charge-neutral, optically thin, and transparent to hadrons, SQCs interact only gravitationally, making them a viable cold DM (CDM) candidate. The leakage (i.e., quantum tunneling) of the in-SQC QCD vacuum to the trivial vacuum offers an explanation of DE in our model and allows for a cosmology that evolves into a ΛCDM universe at a low redshift with a possible resolution of the Hubble tension. Our model distinguishes itself by proposing that the QCD vacuum within SQCs possesses the ability to tunnel into the exterior trivial vacuum, resulting in the generation of DE. This implies the possibility that DM and hadrons might represent distinct phases of quark matter within the framework of QCD, characterized by different vacuum properties. We discuss SQC formation in heavy-ion collision experiments at moderate temperatures and the possibility of detection of MeV photons from the LGB → γ + γ decay.
+
+Keywords: cosmology; early universe; primordial nucleosynthesis; dark matter; dark energy
+
+
+Introduction
+The primordial abundances of the light elements produced in the first few minutes of the universe predicted by standard hot Big Bang cosmology [1–3] are in excellent agree-ment with the abundances inferred from data (e.g., [4]). Big Bang nucleosynthesis (BBN) starts when the deuteron (D) bottleneck is overcome at kBT ∼ 100 keV and terminates at kBT ∼ 30 keV (redshift z ∼ 4 × 108) due to electrostatic repulsion between nuclei (e.g., [5]); kB is the Boltzmann constant. Significant amounts of D, 3H, and 4He build up followed by the production of much less abundant elements such as 7Be. With a half-life of 53 days, 7Be decays into 7Li via bound electron capture, with the emission of a neutrino (e.g., [6]). This cannot occur, however, until recombination at z 1100 when 7Be becomes singly ionized. The measured 7Li abundance is 1/3 of what is expected from this process [7] defining the cosmological 7Li problem (see [8] for a review). Dimensionless quantities are defined as fx = f /10x with quantities in cgs units unless specified otherwise.
+
+
+
+/
+Universe 2024, 10, 115. https://doi.org/10.3390/universe10030115	https://www.mdpi.com/journal/universe
+
+Universe 2024, 10, 115	2 of 23
+
+
+The standard theory of electromagnetic cascades onto a photon background predicts a quasi-universal shape for the resulting non-thermal photon spectrum (e.g., [9]). In the case of non-thermal BBN, cosmological constraints using this quasi-universal shape make purely electromagnetic solutions to the 7Li problem impossible (e.g., [10]) unless the injected pho-ton energy falls below the pair-production threshold, in which case the spectral shape is very different (see [11] and references therein). The effective pair production threshold is Eγ,pair ≃ (mec2)2/22kBT ∼ 12 MeV × (keV/T), below which the double photon pair-creation process receives a Boltzmann suppression ([10]; see also [12]); me is the electron mass. If injected when BBN is over, the sub-threshold photons act to post-process the abun-dances computed in the standard scenario. Photons injected with 1.59 MeV < Eγ < 2.22 MeV can destroy 7Be (suppressing 7Li production) without affecting other BBN abundances, dis-torting the CMB background, or injecting excess entropy [11,13].
+In this paper, we sketch a model for the injection of sub-threshold photons (Eγ < Eγ,pair) in the radiation-dominated post-BBN epoch, characterized by a universe temperature in the keV range. The condition 2 MeV < Eγ,pair implies TCMB <∼ 6 keV, which corresponds to the post-BBN era when the universe is a few hours old and has a redshift below 6 keV/TCMB,0 ∼
+2.5 × 107, where TCMB,0 ∼ 2.73 keV. This model focuses on the nearly instantaneous emission (with a timescale of ∼10−17 s) of a mono-chromatic 2 MeV line by quark clusters (QCs). These QCs are formed during the early universe’s Quantum ChromoDynamics (QCD) cross-over phase transition at a redshift of zQCD ≃ TQCD/TCMB,0 ∼ 6.7 × 1011, when the universe was a few microseconds old and had a temperature of TQCD ∼ 150 MeV.
+Our model is grounded in the fundamental principles of QCD and relies on the properties of quark matter in a regime where quarks are deconfined and form Cooper pairs. Prior to delving into the details of our model, we provide a didactic introduction to the QCD phase diagram, the quark–gluon plasma (QGP), and other pertinent phases of quark matter in Appendix A (titled “Pedagogical Framework”). Additionally, we offer a general overview of our model and the resulting interconnectedness of the 7Li problem, Dark Energy (DE), and dark matter (DM) enigmas.
+In our study, QCs consist of collections of up and down quarks. To ensure charge neutrality, the number density of down quarks (with a charge of −1/3) is twice that of up quarks (with a charge of +2/3). These QCs, which are assemblies of the quark–gluon plasma (QGP), have a radius of approximately 100 Fermi, rendering them transparent to photons.
+Being composed of quarks, QCs are classified as baryons and are thus encompassed within the standard model of particle physics. They can be envisioned as macroscopic nucleons (not nuclei) carrying baryon numbers entirely through the quarks. Here and throughout the paper, baryonic matter includes all quarks, which is more general than just protons and neutrons. The density of QCs is on the order of ∼1039 cm−3, which is approximately ten times the nuclear saturation density. Consequently, an approximately 100 Fermi QC possesses a baryon number Aqc   106. QCs are distinct entities from the significantly larger (A >> Aqc) cosmic strange-quark nuggets [14] and Axion quark nuggets [15], requiring different formation mechanisms (see bullet point #7 in Section 5).
+In the post-BBN era, QCs transition into a color superconducting (CSC) phase, where their constituent quarks form Cooper pairs (see Appendix A) and give rise to what we refer to as Superconducting Quark Clusters (SQCs). For the purposes of this paper, we select the two-flavor color superconducting (2SC) phase as the reference phase, allowing us to convey the essence of our idea. Within the 2SC phase, a significant fraction of gluons (3/8 of them) do not interact with the paired quarks. Instead, they form their own condensate in the form of light glueballs (LGBs). Unlike the confined quark matter, where GeV-scale glueballs are anticipated, LGBs within the 2SC phase exhibit a mass (MLGB) in the MeV range.
+Crucially, in the 2SC phase, it can be demonstrated that LGBs are electromagnetically unstable and decay into photons via the process LGB → γ + γ ( by coupling with virtual quark loops, which carry the electric charge). With a reasonable choice of QCD parameters, the 2SC phase accommodates LGBs with a mass of approximately MLGBc2 ∼ 4 MeV.
+
+Universe 2024, 10, 115	3 of 23
+
+
+During the post-BBN epoch, where kTCMB << MLGBc2, the decay of these MeV-scale LGBs generates a narrow, mono-chromatic 2 MeV line. This line emission presents a promising avenue for potentially resolving the enduring 7Li problem.
+The total mass of SQCs required to address the 7Li problem is comparable to the observed value of dark matter (DM) in the universe. Furthermore, the distinctive prop-erties of SQCs—being colorless, cold, charge-neutral, optically thin, and decoupled from hadrons—position them as a plausible candidate for Cold Dark Matter (CDM).
+We propose that the decay of LGBs within SQCs may lead to the destabilization of the in-SQC Quantum QCD vacuum. This destabilization, in turn, causes the in-SQC vacuum to undergo quantum tunneling into the external (trivial) vacuum of space-time, a phenomenon we refer to as “leakage”. Notably, this leakage process involves the transition to a vacuum state characterized by vanishing QCD (quark and gluon) condensates.
+The tunneling of the in-SQC QCD vacuum, behaving as Dark Energy (DE), occurs in the exterior space-time within our model. At low redshifts, the cosmological behavior aligns with the ΛCDM model. Therefore, in our model, the loss of gluonic content from SQCs due to LGB decay not only provides a potential solution to the 7Li problem but also triggers the leakage process, leading to a cosmological scenario encompassing both Cold Dark Matter (CDM) in the form of SQCs and Dark Energy (DE) arising from the tunneling of the in-SQC QCD vacuum.
+The paper is structured as follows: In Section 2, we provide the derivation of the equa-tions concerning the destruction of 7Be through interaction with a 2 MeV monochromatic line. We explore the possibility of generating such a line through a lukewarm twi-flavor superconducting (2SC-like) quark phase, where a fraction (ηG) of the gluonic energy is converted into 2 MeV photons. The leakage phenomenon of the in-SQC QCD vacuum, involving a fraction ( fV) of the SQC mass, is examined in Section 3. Here, we present the resulting cosmology and discuss how it may offer a plausible resolution to the Hub-ble tension, a discrepancy in the measurement of the expansion rate of the universe. In Section 4, we delve into the discussion of SQCs as a candidate for Cold Dark Matter (CDM). We analyze their properties and explore their viability as a constituent of the cosmic dark matter content. The limitations and predictions of our model are outlined in Section 5, offering insights into the boundaries and potential implications of our proposed framework. Finally, we conclude the paper in Section 6, summarizing the key findings and discussing the broader implications of our model.
+Post-BBN 7Be Destruction
+In our model, the CSC phase produces gluon condensation (i.e., MLGBc2 ∼ 4 MeV mass LGBs), which decays to E0 = MLGBc2/2 ∼ 2 MeV mono-energetic photons. To ensure that the energy of the 2 MeV line remains below the pair-creation threshold, we impose the condition 2 MeV < 12 MeV/TkeV, which translates to TG < 6 keV. In other words, the QCs enter the color superconducting (CSC) phase and transform into SQCs during the radiation-dominated post-BBN era. Henceforth, quantities labeled with the letter “G” pertain to values associated with the LGB-decay/photon-burst event. This event occurs when the age of the universe exceeds approximately 10 h, corresponding to a redshift zG = z(tG) < 2.5 × 107.
+The formation of LGBs takes place on a timescale comparable to that of hadronic processes when QCs enter the CSC phase. Subsequently, LGBs decay into photons almost instantaneously, with a timescale of τLGB ∼ 10−17 s, significantly shorter than the Hubble expansion timescale (as discussed in Section 2.1).
+Subscripts “sG” and “eG” refer to the start and end, respectively, of this LGB-decay phase, denoted by tsG and teG. The duration of this phase is approximately equal to the LGB decay timescale, i.e., teG − tsG ∼ τLGB. Consequently, we have zsG = zeG + δz, where δz is much smaller than zG. Effectively, this implies that z(tsG) = z(tG) = z(teG), indicating that the redshifts at the start of, during, and at the end of the LGB-decay phase are approximately equal.
+
+Universe 2024, 10, 115	4 of 23
+
+
+The photon production is a delta function, δ(t − tG), which in our model is at time t = tG. As shown in Appendix B, the destruction rates for 7Be nuclei due to such a sudden release of mono-energetic E0 photons is
+ln  YBe,eG  ∼ − nγ(E0, tG) ×  σBe(E0) ,	(1)
+
+where Y is the abundance. Here, nB(tG) is the universe’s co-moving baryon number density at tG, while nγ(E0, tG) is the co-moving number density of photons from the LGB decay. The 7Be photo-dissociation cross-section is σBe(E0) and σCS(E0) is the Compton scattering cross-section. A reduction in 7Be by 2/3 imposes that the RHS in Equation (1) is unity (i.e.,
+∼−1.1).
+Let us define ηDM,sG as the initial total amount in mass of SQCs (the DM in our model) compared to baryons, i.e., before LGB decay. The corresponding SQC co-moving number density is
+
+com. sqc
+) = ηDM,sGnB(tG) ,	(2)
+Asqc
+
+with Asqc the cluster’s baryon number. The emitted photons co-moving number density is then
+
+nγ(E0, tG
+) = ncom.(t ) × N
+ηDM,sGnB(tG)
+Asqc	E0
+,	(3)
+
+2
+with NE0 ∼ Asqc × (ηGmpc /E0) as the total number of E0 photons emitted per SQC. Here,
+ηG is the fraction of the gluonic energy per equivalent proton rest mass converted to the
+mono-chromatic line at energy E0; mp is the proton mass.
+Equation (1) becomes
+
+
+  YBe,eG 
+
+/
+
+ηGmpc2	 σBe(E0)
+/
+
+/	/
+
+
+  ηG 
+ηDM,eGmpc2
+ σBe(E0)
+
+~ − 1 − ηG ×	E0
+× σCS
+(E ) ,
+
+where, in order to obtain the last expression, we made use of the fact that the SQC total mass after conversion of gluonic energy to photons is ηDM,eG = (1 − ηG)ηDM,sG or ηDM,sG = ηDM,eG/(1 − ηG).
+The 7Be photo-dissociation cross-section, σBe(E0), is given by Equation (III.8) in Ishida et al. [16]. The ratio of σBe(E0) to Compton scattering cross-section, σBe(E0)/σCS(E0), varies widely, as shown in Figure 1. We see that for 2 MeV < E0 < 2.2 MeV, we have 3 × 10−4 < σBe/σCS < 8 × 10−4. If the SQC total mass after the conversion of gluonic energy to photons is the observed CDM amount, ηDM,eG  5, then 5mpc2/E0  2.4  103.
+In this case, the 7Li problem is solved if 0.65 <  ηG  < 1.56, meaning
+1−ηG
+0.4 < ηG < 0.6 ,	(5)
+which requires that on average ∼50% (i.e., ηG ∼ 0.5) of the SQCs gluonic energy is converted to ∼ 2 MeV photons.
+As explained later in Section 5, the value of ηG can be lower (less gluonic energy shed by SQCs) while still solving the 7Li puzzle. This is because, in addition to losing gluonic energy via LGB decay, SQCs will lose more during the leakage of its QCD vacuum so that if ηDM,0 ∼ 5 in today’s universe (the subscript “0” refers to values at redshift z = 0), then ηDM,eG must have been higher due to leakage (see first bullet point in Section 5).
+
+Universe 2024, 10, 115	5 of 23
+
+
+
+10-3
+
+
+
+
+10-6
+
+
+
+
+10-9
+
+
+
+
+10-12
+1.6	1.8	2.0	2.2
+Eγ(MeV)
+Figure 1. The σBe/σCS ratio versus photon energy. The 7Be photo-dissociation cross-section σBe is from Equation III.8 in [16]. The Compton scattering cross-section is given in Appendix (IV) in [10].
+It is crucial to emphasize the requirement for a narrow band emission, preferably a mono-energetic photon source, in order to maximize the number of photo-dissociated 7Be nuclei (as described by Equation (1)). Without such a narrow emission, there would not be sufficient gluonic energy available from the SQCs—which serve as the dark matter (DM) in our model—to achieve the desired 2/3 reduction. In this context, the decay channel of LGBs presents an appealing mechanism for generating such a narrow emission (see Appendix C). The feasibility of this mechanism can be tested in ongoing experiments (as indicated in bullet point #5 in Section 5).
+The Mono-Chromatic ∼2 MeV Line
+The QCD phase diagram is complex (e.g., [17–19]), and in principle, one cannot exclude the existence of a CSC phase where gluon condensation would yield electromagnetically unstable X “particles” (here LGBs), as required in our model. Figure 2 shows a hypothetical phase diagram with the dashed line depicting a possible trajectory leading a quark cluster from its state at birth (in an unpaired phase) to the CSC phase. We require an unpaired phase at chemical potential µ < µcsc, which bridges the hadronic phase and the CSC phase. That is, the CSC phase is accessed, at low T, from a low-density unpaired phase with a first-order line separating the two phases. Once in the CSC phase, a cluster becomes a SQC and produces LGBs in the radiation-dominated post-BBN epoch at keV temperatures.
+In this paper, we will use the neutral 2SC phase as a reference CSC phase. It has the interesting property of converting a percentage (ηG = 3/8) of its gluonic energy to LGBs (i.e., gluonic condensation) at low temperature with a subsequent decay to a mono-chromatic line via the LGB → γ + γ channel (see Appendix C for details). In the 2SC phase, an LGB with mass MLGBc2 ∼ 4 MeV would decay to two E0 = (MLGBc2/2) ∼ 2 MeV photons on timescales of τLGB ∼ 10−17 s. We set the CSC quark chemical potential at
+µcsc = 500 MeV with a corresponding number density ncsc = µ3 /π2 ∼ 1039 cm−3. Thus,
+the density inside an SQC is nsqc = ncsc, which is about ten times nuclear saturation density when it enters the CSC phase at time tG; nsqc should not to be confused with the SQC co-moving density given in Equation (2).
+Once the cluster crosses into the CSC phase, the first-order transition proceeds on hadronic timescales. During the transition, and because of latent heat released, an SQC
+is heated to a temperature kBTsqc ∼ ∆2 /µcsc, where ∆csc is the CSC superconducting
+gap; here, ∆csc and µcsc are in units of MeV (see Equation (A7)). LGBs cannot form at temperatures exceeding the melting temperature, which is on the order of the LGB’s rest-mass energy; kBTLGB,m  MLGBc2. Thus we must ensure that Tsqc < TLGB,m in addition to E0 = ELGB/2 < 2.2 MeV, where the 2.2 MeV upper limit keeps the line below the deuteron
+photo-ionization threshold (see Section 1). In general, for ∆2 /µcsc < 2 MeV, or ∆csc <
+
+Universe 2024, 10, 115	6 of 23
+
+
+31.6 MeV × (µcsc/500 MeV)1/2, these conditions are satisfied. ELGB ≃ MLGBc2 ∼ 4 MeV is achieved for a reasonable range in µ, as shown in Figure 3. The width of the 2 MeV line is given in Equation (A8) in Appendix C, and for typical values, it is expected to be <0.1 MeV.
+
+Figure 2. A possible QCD phase diagram; temperature versus quark chemical potential. The dashed curve (“1 to 2”) depicts the cooling path of the quark cluster (formed at “1” with TQCD ∼ 150 MeV) traversing the unpaired phase and entering the CSC phase, at a keV temperature, from the low density phase (“2”). A first-order line separates the unpaired phase from the CSC phase releasing heat (the vertical “2 to 3” arrow). A SQC is heated to a temperature not exceeding the LGB melting temperature kB Tsqc,m ∼ MLGB c2 (see Section 2.1). The ∼4 MeV LGBs decay to the 2 MeV narrow photon line via LGB → γ + γ. “1′” shows the initial state of a NS core making its way to “2” via cooling and compression (see Section 5 and Appendix C).
+
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+300	350	400	450	500	550	600
+μ (MeV)
+Figure 3. LGB mass versus quark chemical potential (µ) for Λ   = 245 MeV (the scalar parameter of QCD; see Section 2.1 and Appendix C for details). The curves from top to bottom are for ∆/µ = 0.1, 0.09, 0.08, respectively. The two dashed lines show the 4.0 ≤ MLGBc2(MeV) ≤ 4.4 range yielding a
+mono-chromatic photon line in the 2.0 ≤ E0(MeV) ≤ 2.2 range. Using Λ	∼ 340 MeV, expected using
+the usual renormalization scheme with 3 quark flavors, we obtain MLGB ∼ 4 MeV for ∆ ∼ 0.05µ (see Equation (A6)).
+
+Universe 2024, 10, 115	7 of 23
+
+
+The SQC Size and Baryon Number
+To the first order, the SQC’s photon mean-free-path is λcsc,γ = 1/(ncscσqγ) ∼ 102 fm/ncsc,39 with σqγ ∼ 10−28 cm2 as the Thomson cross-section for photon scattering off up and down quarks. By setting a typical SQC radius to be Rsqc,thin ∼ λcsc,γ, the SQC is optically thin to all photons, including the 2 MeV photons. Being transparent to electromagnetic radiation of all energies, the SQC makes a good DM candidate (which is still within the standard model of particle physics) with a corresponding baryon number Asqc ∼ 106.
+SQCs and Dark Energy (DE)
+Both hadrons and SQCs exist as states within QCD, but they exhibit different sym-metries associated with their respective vacuum states. Hadrons, as discussed in [20], are characterized by confinement in their vacuum state, while SQCs are influenced by the formation and decay of LGBs to photons, leading to distinct symmetries. In Appendix C.1, we discuss the confinement of the SUc(2) phase within SQCs, where the vacuum state is speculated to undergo a tunneling process, referred to as “leakage”, into the external trivial vacuum. This tunneling phenomenon is triggered by instabilities resulting from various mechanisms, including electromagnetic gluonic decay, such as the formation and subsequent decay of light gluonic bound states into photons in the CSC phase.
+Although we chose to focus on the 2SC phase due to its simplicity, it is important to note that any CSC quark phase capable of converting gluonic energy into approximately 2 MeV photons and initiating a transition to the trivial vacuum could be equally effective in our proposed framework. This innovative concept offers an intriguing explanation for DE and establishes a cosmological framework that has the potential to address the Hubble tension while still yielding a universe consistent with the ΛCDM model at low redshifts.
+The total amount of confined SUc(2) QCD vacuum energy stored in the SQCs is
+
+ρvac. Vtot. with ρvac.
+as the density of the QCD condensates and Vtot. as the total volume
+
+QCD
+sqc
+QCD
+sqc
+
+occupied by the SQCs, which is constant in time (and assumed to not change on LGB
+decay). “Leakage” means that the density inside the SQC decreases from
+ρsqc,eG = (1 − ηG)ρcsc ,	(6)
+at t = tG (at the end of the LGB phase denoted by “eG”) to
+
+
+ρsqc,0 = (1 − ηG)ρcsc − ρvac.
+= ρcsc × (1 − ηG − fV)
+(7)
+
+
+= ρsqc,eG
+1	 fV 	,
+1 − ηG
+
+at redshift z = 0 with the assumption that the leakage timescale is a fraction of the age of the universe t0 ∼ 13.5 Gyrs (see below). The parameter fV = ρvac. /ρcsc is a measure of the contribution of the QCD condensates to the SQC rest-mass energy; naturally, fV < 1 − ηG. At the start of the LGB phase (denoted by “sG”), we have ρsqc,sG = ρcsc.
+We can obtain a rough estimate of the time ttun. (the e-folding time) it would take the in-SQC QCD vacuum to leak into the exterior space-time trivial QCD vacuum. A rigorous calculation would follow, for example Coleman [21], and is beyond the scope of this paper. We consider instead a simple tunnelling problem across a square barrier with height given by the expectation value of the QCD vacuum and width L ∼ Rsqc. The corresponding tunneling probability is then Ptun. ∼ e−Rsqc/δ ,where δ is the penetration depth (e.g., [22]). The tunneling timescale is ttun. ≃ (Rsqc/c) × (1/Ptun.) giving us
+
+
+δ	x
+ttun. ∼ c × xe
+,	(8)
+
+where x = Rsqc/δ; the tunneling timescale is highly sensitive to x. With δ on of the order of a Fermi (which is not unrealistic), solutions with tunneling timescales on the order of a
+
+Universe 2024, 10, 115	8 of 23
+
+
+billion years (ttun. ∼ Gyr) require Rsqc to be approximately 88 fm. If Rsqc exceeds 90 fm, the tunneling timescale ttun. becomes longer than the age of the universe, t0. Furthermore, the size of the SQC cannot be too small for leakage to occur on astrophysical timescales, ensuring that tG << ttun.. Therefore, an optimal range for the SQC radius is found to be 85 < Rsqc(fm) < 88, which is consistent with our model. It is worth noting that, in our model, optically thin SQCs with Rsqc < 102/ncsc,39 fm are required to address the cosmological 7Li problem.
+We can then write the time evolution of the density inside the SQC as
+ρsqc(t) = (1 − ηG)ρcsc − ρvac. (1 − e−(t−tG)/ttun. )	(9)
+= ρcsc 1 − ηG − fV(1 − e−(t−tG)/ttun. ) 
+
+
+= ρsqc,eG
+  fV   (1	e−(t−tG)/ttun. )	.
+1 − ηG
+
+The equation above incorporates the key parameters in our cosmology, namely,
+ρcsc, ηG, fV, and ttun. which are all fundamentally related to QCD.
+The DM density in our model is the SQC density ρsqc(t) averaged over the volume of the universe. Its time evolution, with Vuniv.(t) being the Hubble volume at time t, is
+ρsqc(t)Vtot.
+
+/ / /	/
+
+with the resulting cosmology analyzed in Appendix D.
+Our model offers a resolution to the Hubble tension (see [23] for a recent review and references therein) and can be understood as a consequence of a CDM universe converting into a ΛCDM universe at ztun.. Figure 4 shows that H0  73 km s−1 Mpc−1 can be obtained for a range in ηG and fV values with a leakage characteristic redshift 2 < ztun. < 6 (i.e., 1 < ttun.(Gyr) < 3.3). It is both noteworthy and encouraging that the timescale ttun., which is tightly constrained by the size of the SQC at approximately 100 Fermi, coincides with the timescale required to address the Hubble tension. This convergence underscores the interconnection of these two phenomena.
+
+85
+
+
+80
+
+
+
+75
+
+
+
+70
+
+
+
+65
+
+
+
+60

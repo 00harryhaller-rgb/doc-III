@@ -1,0 +1,1534 @@
+curves) confronted with Neff limits (blue curves) derived using eq. (3.21). The solid curves correspond to the conservative and dashed ones to the aggressive choice of ∆Neff. Note that structure formation limits also indirectly depend on
+∆Neff as it is an input parameter for CLASS. Clearly, Neff yields much stronger limits in comparison
+
+to those arising from structure formation. Shown in black is the curve for Ωh2
+= 0.24 × 10−3.
+
+
+Current measurements by the Planck collaboration allow for an upper limit of ∆Neff ≈
+0.28 at 95% CL (TT, TE, EE+lowE+lensing+BAO). Including the present tension in the Hubble constant measurement, this value increases to ∆Neff ≈ 0.52 at 95 % CL (TT, TE, EE+lowE+lensing+BAO+R18) [53]. In the following, we dub the first value aggressive and the second one conservative.
+By using eq. (3.21), we can estimate which parameter choices lead to ∆Neff values that exceed the conservative/aggressive value. We have performed a scan and have deduced the following conditions when using conservative values
+Ωh2
+
+	N2  N1
+2
+DM
+. 0.2% ,	CN2 & 5 × 10−10 GeV ,	(3.23)
+
+necessary for consistency with cosmology (see also black curve in figure 3). For instance, taking m± = 1 TeV, the lower bound on the heavy lepton mass is mN2 & 300 GeV.5
+In figure 2 and eq. (3.22) we demonstrated that one of the chosen benchmark points is excluded by both structure formation and Neff considerations. Comparing both probes in figure 3 we however conclude that Neff generally leads to stronger exclusion limits. Hence, in sections 4 and 5 we will compare regions in parameter space that are accessible at colliders with Neff limits.
+BBN constraints
+Primordial abundances of light nuclei may be affected by processes involving new particles in the model. As we have seen in the previous section, N2 decays produce SM leptons
+
+5There is a caveat as one has a freedom to choose the couplings between N2,3 and the charged leptons.
+Throughout this section we assume couplings to τ leptons to be subdominant.
+
+0.1
+0.1
+
+
+
+0.05
+0.05
+
+
+
+
+
+
+
+
+0.01
+0.01
+
+
+
+0.1	0.2	0.4	0.6	0.8	1
+mNi
+m±
+0.1	0.2	0.4	0.6	0.8	1
+mNi
+m±
+
+Figure 4. BBN constraints for the case where N2 dominantly decays into electrons and muons (left panel) and tau-leptons (right panel) are disfavoring parameter space below the black lines. The regions excluded by a conservative Neff limit are shown in red. The solid green curve indicates the parameter space for a limiting case in which all of the DM is produced by N2 decays. The regions in blue represent constraints from LFV experiments. Finally, the region to the left of the vertical blue dashed line is collider friendly in the sense that the mass gap between σ± and N2,3 is sufficiently large. The value of the charged scalar mass in both panels is fixed to m± = 600 GeV. On the y-axis we show the average Yukawa coupling of N2 and N3, defined as y¯2 + y¯3 ≡
+(1/3)	α (|y2α| + |y3α| ).
+
+with large momenta, which can inject a lot of energy into the plasma. Specifically, we need to ensure that N2 decays are fast enough such that these highly energetic particles can thermalize with the plasma and thus the BBN measurements remain unaffected. N2 decays to N1 and a pair of leptons and the rate of this process is given in eq. (3.6), being proportional to two powers of small Yukawa coupling y1α.
+In order to obtain the BBN limits in the considered scenario, we adopt the results from the recent analysis [44] where the authors studied the impact of the decaying hidden sector particles to the primordial abundances of light nuclei. The channels of our interest are those containing charged leptons. Decays of N2 into electrons and muons can take as long as O(100 s), since they mainly induce electromagnetic showers, which affect BBN at later times only. In contrary, τ leptons decay mostly hadronically and this can significantly alter the observed neutron to proton ratio; unless the abundance of N2 is strongly suppressed, N2 decay time has to be . 1 s.
+In figure 4, black lines indicate BBN exclusions for a representative value of m± = 600 GeV. The left panel corresponds to the dominant decay into e±/µ± and in the right panel the case where N2 decays prominently into τ ± pairs is shown. These channels are motivated by the di-lepton and di-tau searches at colliders which will be presented in the following sections. To be conservative, we impose the decay time for the respective channel to be shorter than 1 second.
+
+Note that by increasing the scalar masses, larger y1α are required for DM production through Σ decays and hence the BBN bounds get weaker. LFV bounds (blue regions) are then also relaxed, see eq. (2.9).
+The thick green solid line indicates a parameter space corresponding to the DM produc-tion only through N2 decays and such scenario is clearly excluded; this curve lies below the red shaded region which indicates Neff limits. We found numerically that in terms of DM
+
+density, the Neff exclusion line is roughly set by the requirement Ωh2
+N2→N1
+/Ωh2
+≈ 0.1%.
+
+The blue vertical dashed line shows the region where the energies of final state leptons, arising from σ± → N2 lα are below 100 GeV, making them harder to resolve at colliders.
+Here we have shown that there are regions which are not excluded neither by LFV nor Neff and BBN arguments. In the next two sections we will demonstrate that some of these portions in the parameter space overlap with the regions accessible at colliders.
+
+HL-LHC projections
+In this section we explore the di-lepton and di-tau signatures with missing transverse energy:
+
+
+p p	σ+σ−	σ± → l± Ni (l = e± or µ±) ,
+σ± → τ ± Ni .
+
+(4.1)
+
+The former were for instance already scrutinized for the scotogenic model in [54], where the authors used the data from LHC Run-1 to set the limits. Here we
+calculate the projected sensitivities for HL-LHC using the same analysis techniques as presented in recent ATLAS publications (ref. [55] and ref. [56] for di-lepton and
+di-tau channel, respectively). In particular, we are using the results from Run-2 with an integrated luminosity of 36.1 fb−1 at √s = 13 TeV.
+present both optimal and realistic projections; the first one is defined such that the branching ratio for charged scalar decay into HNL and charged lepton considered in the search is set to 1. Such case is, however, not feasible in our model6 and hence we also define realistic projections by maximizing respective Yukawa couplings. This will lead to branching ratios smaller than 1.
+are in position to confront the calculated projections with bounds from BBN and structure formation (see section 3). Let us point out that this is very rarely performed in the papers focused on collider signatures; in particular this has not been done for the scotogenic model.
+The model files were created with FeynRules [57]. The signal processes, as shown in figure 5, were simulated at leading order (LO) with MadGraph5 aMC@NLO 2.6.3.2 [58] interfaced with Pythia8 [59] for showering the events and Delphes 3.4.1 [60] was used
+
+6We generate Yukawa matrices using Casas-Ibarra parametrization (section 2) in order to obtain viable values for neutrino masses and mixings.
+
+
+
+
+
+h
+
+
+
+
+
+Figure 5. Production channels for the ℓi ℓj+✚E✚ process at the LHC. Pair produced charged scalars decay into heavy leptons N2,3 and SM charged leptons (e, µ or τ ).
+
+
+
+
+103
+
+101	102
+
+
+
+
+100
+101
+
+100
+
+
+
+
+
+
+10−1
+
+10−1
+
+
+10−2
+
+
+0	20	40	60	80	100
+√s [TeV]
+
+200	400	600	800	1000
+m [GeV]
+
+
+Figure 6. Cross section σprod for pair production of charged scalars σ±. The left panel shows the increase of σprod for larger center of mass energies and fixed scalar mass. The black (blue) vertical lines indicate the energy range of HL-LHC (FCC-hh) while dashed lines correspond to the respective cross section. In the right panel we show σprod for different scalar masses and fixed energy. By increasing m± the cross section drops significantly.
+
+for a fast detector simulation. By using these tools, we were able to reproduce the results given in [55, 56].
+In figure 6 we show the expected cross section for p p → σ± σ∓ pair production for different energies and masses. One can already conclude that large luminosities are needed to see a significant number of events inside the detector. For definiteness we have fixed the portal couplings to
+λ3 = 0.3 ,	λ4 = 0.5 ,	λ5 = 10−4 .	(4.2)
+The most relevant parameter in the scalar sector is the physical mass of the charged scalar,
+m±, and it is this quantity that will appear in all our sensitivity projections.
+We assume that mN2 = mN3 but in general one can take a hierarchical spectrum as well, i.e. mN2 < mN3 . A hierarchical spectrum would, on the one hand, weaken the search strategy because in this case decays σ± → ℓ± N3 are more likely to yield soft leptons due to the smaller mass gap between σ± and N3. On the other hand, this could give
+
+
+SR-lowMass
+	SR-highMass
+	
+	mT2 > 70 GeV
+✚E✚ trigger
+T
+✚E✚ > 150 GeV
+T
+p1 > 50 GeV
+T
+p2 > 40 GeV
+T
+	mT2 > 70 GeV & m(τ1, τ2) > 110 GeV
+	
+	
+	✚E✚ trigger
+T
+✚E✚ > 150 GeV
+T
+p1 > 80 GeV
+T
+p2 > 40 GeV
+T
+	asymmetric trigger
+✚E✚ > 110 GeV
+T
+p1 > 95 GeV
+T
+p2 > 65 GeV
+T
+	
+	Table 1. Signal regions used in the di-tau analysis.
+
+signal region
+	Nexp
+	Nobs
+	exp. σ95 [fb]
+vis
+	obs. σ95 [fb]
+vis
+	
+	SR-lowMass
+SR-highMass
+	14 ± 6
+3.7 ± 1.4
+	10
+5
+	0.31+0.12
+−0.08
+0.17+0.08
+−0.05
+	0.26
+0.20
+	
+	Table 2. 95% CL limits on the non-SM cross section for the di-tau +✚E✚ analysis.
+
+rise to interesting event topologies, because N3 can decay in the detector into 2 leptons and N2 and this would possibly create multi-lepton + ✚E✚ signatures. We leave the study of such scenario for future work and in what follows focus on the di-tau+✚E✚ and di-
+lepton+✚E✚ searches with the degenerate spectrum.
+Di-tau+✟E✟T
+Following the procedure outlined in [56], the following cuts were applied after event recon-struction: events shall contain no b-jet but at least two tau leptons with opposite charges. The invariant mass of every tau pair has to be larger than 12 GeV and must be 10 GeV away from the mean visible Z boson mass, set at 79 GeV. Then two different trigger se-
+tups are defined. The asymmetric trigger requires p1 > 85 GeV and p2 > 50 GeV for
+the first two pT ordered τ leptons. Second, there is the E✚ trigger set by p1 > 35 GeV,
+✚T	T
+2 > 25 GeV and ✚E✚ > 50 GeV. For further discrimination from SM background, the
+stransverse mass [61], mT2 , is introduced.
+Finally, two signal regions based on mT2 and ✚E✚ cuts were defined as shown in table 1. They are chosen such that different mass gaps between σ± and N2,3 can be covered. The
+95% CL upper limits on the cross sections are summarized in table 2.
+The final cross section in our model is determined by the product
+σ(p p → ℓ±ℓ∓Nk Nl) = σ(p p → σ±σ∓) × BR(σ± → ℓi±Nk)2.	(4.3)
+The cross section can be increased by maximizing the respective branching ratios. The latter can be achieved by making use of unconstrained parameters. In particular, we took the complex angle θ = ω − iη (see eq. (2.7)), the Majorana phase α27 and the CP phase δ8 as free parameters and maximized the following expression
+y2τ (ω, η, α2, δ)2 + y3τ (ω, η, α2, δ)2
+
+k=Σ2,3
+
+yki
+i
+(ω, η, α , δ)2	.	(4.4)
+
+7The other Majorana phase does not affect the minimization.
+8	◦	◦
+We allowed δ to float in the range (135 , 366 ) which corresponds to a 3σ range from recent fits.
+
+
+
+	ω0
+	η0
+	α0
+2
+	δ0
+	BR(σ± → τ±Nk)
+	
+	NO
+IO
+	1.61
+1.31
+	> 2
+> 2
+	π
+−π
+	2π
+π
+	38.26 %
+27.30 %
+	
+	Table 3. Largest possible branching ratios for the decay of σ± into τ and N2,3. Above the given value for η0, the branching ratios are to a good approximation independent of this parameter. As can be seen, the IO gives rise to smaller branching ratios compared to NO.
+
+The parameter values that correspond to the extremum are in what follows denoted as ω0, η0, α0, δ0. We have performed this procedure for both normal and inverted neutrino mass ordering. The results are given in table 3.
+For calculating the sensitivity curves we fixed the portal couplings λi such that σ± is the lightest Z2-odd scalar, suppressing the additional decays into the other scalars. We scanned over the charged scalar mass as well as the heavy lepton masses mN2,3 ; our grid
+spans m± ∈ (150 GeV, 600 GeV) and mN2,3 ∈ (10 GeV, m±) and we simulated 104 events
+for each point.
+We compared the simulation with the recent ATLAS results and found that current sen-sitivities are not strong enough to place limits. The reason is twofold: first, the cross section for the pair production in the model is significantly smaller than the one in the simplified model used in the ATLAS analysis. Second, the analysis uses specific cuts on kinematic variables which do suppress SM background but unfortunately also cut away a significant portion of signal events. For instance, the “best case” benchmark point (where we set the branching ratio into tau leptons to 1) features a quite small surviving cross section:
+Benchmark :	mN2,3 = 10 GeV	m± = 200 GeV → SR-highMass: σvis = (0.15 ± 0.06) fb.
+(4.5)
+After taking Casas-Ibarra parametrization into account, and inserting realistic branching ratios, the situation gets even worse as the cross section is further reduced due to non-maximal branching ratio into tau leptons. This finding motivated us to go beyond the current experimental results and consider a similar search at the foreseen HL-LHC pro-gram [62] at CERN which will deliver a final integrated luminosity of up to 4000 fb−1 at
+√s = 14 TeV. This would lead to a huge increase in potential signal events.
+To estimate the potential of HL-LHC to test the scotogenic model we conduct a similar analysis as in [56] but use a projected sensitivity
+S
+S = √S + B ,	(4.6)
+where S and B represent signal and background events, respectively. This formula is derived in the limit S/B ≪ 1 from the general expression for the case of exclusion limits
+S = s2  S − B log  1 + S   ,	(4.7)
+
+obtained using the procedure described in [63].
+
+350
+
+300
+
+250
+
+200
+
+150
+
+100
+
+50
+
+200	300	400	500	600
+m± [GeV]
+
+Figure 7. Projected sensitivities for HL-LHC using L = 4000 fb−1 and the same analysis techniques as in ref. [56]. Given in blue are exclusion limits, S = 2, and shown in red are discovery limits, where S = 5. The dashed lines correspond to a 100% branching ratio into tau leptons, whereas the solid lines represent the case in which the maximized branching ratio for NO (shown in table 3) is employed. HNL masses in the black shaded region are in conflict with BBN constraints discussed in section 3.4 and the green lines arise from Neff limits: the dashed green line indicates conservative and the solid one represents aggressive limit, as discussed in section 3.2.
+
+
+By taking the identical signal regions as in the previous analysis and assuming a similar scaling of signal and background for the increased center of mass energies and luminosities we can now redo the cut and count analysis for increased event rates. As can be seen in figure 7 (solid lines), this allows us to significantly enhance the testable parameter space. For such high luminosities, scalar masses of up to 420 GeV and respective HNL masses of 170 GeV can be tested and there is even a potential discovery region for scalar masses between 200 and 300 GeV. The sharp drop for large masses is due to a decrease in the pair production cross section. The cuts on the kinematic variables, such as transverse momentum pT and stransverse mass mT 2, need a sufficiently large mass gap between σ± and mN2,3 which bounds the accessible parameter space from above and also from the left, because charged scalar should not be too light, as in this regions leptons are too soft. We also show in dashed corresponding sensitivity curves for the optimal case. As expected, the sensitivities improve in this case, however we have not found such scenario in our numerical procedure (see table 3); the branching ratios for the decay into pair of tau leptons can be at most around 40%. By taking BBN and Neff limits into account it turns out that the discovery region (S ≥ 5) is in tension with these cosmological probes; only parameter space around mN2,3 ≃ 100 GeV is not excluded for the optimal case while the sensitivity for the realistic case is strongly ruled out. However, a certain portion of parameter space with S & 2 around mN2,3 ≃ 100 − 150 GeV and m± ≃ 200 − 400 GeV (realistic case) is not constrained by cosmological data.
+
+
+signal region
+	Nexp
+	Nobs
+	exp. σ95 [fb]
+vis
+	obs. σ95 [fb]
+vis
+	
+	SF-loose
+	133 ± 22
+	153
+	1.47+0.58
+−0.44
+0.33+0.11
+−0.08
+0.75+0.30
+−0.22
+0.33+0.14
+−0.11
+0.29+0.08
+−0.05
+0.16+0.03
+−0.02
+	2.02
+	
+	SF-tight
+	9.8 ± 2.9
+	9
+	
+	0.29
+	
+	DF-100
+	68 ± 7
+	78
+	
+	0.88
+	
+	DF-150
+	11.5 ± 3.1
+	11
+	
+	0.32
+	
+	DF-200
+	2.1 ± 1.9
+	6
+	
+	0.33
+	
+	DF-300
+	0.6 ± 0.6
+	2
+	
+	0.18
+	
+	Table 4. 95% CL limits on the non-SM cross section for the di-lepton +✚E✚ analysis.
+
+
+	ω0
+	η0
+	α0
+2
+	δ0
+	BR(σ → ℓiNk)
+	
+	NO
+IO
+	2.37
+3.07
+	< −2
+< −2
+	π
+−π
+	2π
+π
+	86.42 %
+99.75 %
+	
+	Table 5. Largest possible branching ratios for the decay of σ± into e±, µ±. Below the given value for η0, the branching ratios are to a good approximation independent of this parameter. Interestingly, the IO regime can feature a situation with a very small branching ratios into tau’s, implying approximate zeros in the third column of the Yukawa matrix.
+
+Di-lepton+✟E✟T
+Now we turn to di-lepton+✚E✚ channel. Following the procedure outlined in ref. [55], the following cuts were applied after event reconstruction and preselection. The invariant di-lepton mass should be larger than 40 GeV. Events should not contain any b-jet with pT > 20 GeV nor a jet with pT > 60 GeV. In the 2ℓ + 0jets channel, six different signal regions were defined: 4 aiming at different flavor (DF) leptons in the final states and 2 at leptons with the same flavor (SF). All regions are inclusively defined and mainly separated by increasing cuts on the invariant mass of the lepton pair and mT 2, ranging from mℓℓ > 110 GeV to mℓℓ > 300 GeV and mT 2 > 100 GeV to mT 2 > 300 GeV. The 95% CL upper limits on the cross sections are summarized in table 4.
+In contrast to section 4.1 we now want to minimize the expression given in eq. (4.4) in order to have as large as possible branching ratios into leptons. Under the same assumptions as before and taking both, NO and IO regimes into account we obtain the results given in table 5. From the respective branching ratios one can calculate the suppression factor B of the pair production cross section according to
+B ≡ Σ BR(Nkℓi)2 +	Σ	BR(Nkℓi)BR(Nlℓj).	(4.8)
+
+k=2,3
+i=e,µ
+k,l=2,3
+i,j=e,µ k/=lVi/=j
+
+The first sum corresponds to SF production channel, whereas the second term resembles DF as final state particles. We introduced the shorthand notation BR(Nkℓi) ≡ BR(σ → ℓiNk). Inserting for instance the branching ratio for NO (table 5), the final suppression factor is B ≈ 75%. While IO yields larger B, we present our results for NO, as we did in section 4.1,
+
+
+400
+
+
+300
+
+
+200
+
+
+100
+
+
+
+200	300	400	500	600	700
+m±[GeV]
+
+Figure 8. Projected sensitivities for HL-LHC using L = 4000 fb−1 and the same analysis techniques as [55]. Given in blue are exclusion limits, S = 2, and shown in red are discovery limits, where S = 5. The dashed lines correspond to optimal branching ratio into leptons, whereas to obtain the solid lines we used the value for NO given in table 5. HNL masses in the black shaded region are in conflict with BBN constraints discussed in section 3.4 and the green lines arise from Neff limits: the dashed green line indicates conservative and the solid one represents aggressive limit. The latter are stronger for di-lepton searches in contrast with the di-tau case.
+
+
+
+since NO is favored by roughly 3σ from the global fit analyses of neutrino oscillation. Still, we would like to point out that if IO is realized in Nature, not only the sensitivity for this channel would improve, but one would also expect a discovery from neutrinoless double beta experiments which will soon start probing the IO band [64].
+The sensitivities are shown in figure 8 and one can readily infer that, as for the case of di-tau shown in figure 7, cosmology disfavors a significant part of the available parameter space. Unfortunately, bounds from Neff nearly cover the whole S = 2 region, but it is clear that the sensitivity is generally better in comparison with the di-tau+✚E✚ search.
+It can be seen by comparing figures 7 and 8 that Neff limits are stronger for di-lepton case. This is due to the fact, that we can have larger couplings in the di-tau case, because LFV processes yield less stringent bounds on the Yukawa couplings for the third lepton generation. Hence, Neff bounds are weakened in such case since larger interaction rates give rise too a smaller freeze-out abundance of N2, suppressing the hot DM component.
+These cosmological bounds starts to flatten for large scalar masses (m± > 500 GeV) and it is therefore tempting to go beyond the energy range of HL-LHC and consider pro-posed future hadron and lepton colliders. In the following, we will stick to the di-lepton search only, as the results from this section clearly indicate stronger sensitivity in compar-ison to the di-tau analysis.
+
+
+Cut
+	S
+	B
+	
+	S0
+	S1
+	
+	Baseline
+	351
+	5.90 × 10
+	5
+	0.5
+	0.5
+	
+	M′ > 1100 GeV
+eff
+	89.7
+	625
+	
+	3.5
+	3.4
+	
+	MT (/ET , l1 + l2) > 1100 GeV
+	89.7
+	234
+	
+	5.5
+	5.3
+	
+	/ET /Meff > 0.36
+	33.2
+	62.7
+	
+	3.9
+	3.6
+	
+	pT (l2)/pT (l1) > 0.24
+	18.6
+	18.0
+	
+	3.8
+	3.4
+	
+	Table 6. Cuts made for distinguishing signal and background at FCC with a luminosity of 3 ab−1. We show the number of signal and background events for mN2,3 = 500 GeV and m± = 1 TeV. We employed λ3 = −0.27 in the analysis. No systematic errors on the background were assumed for this analysis.
+
+Future colliders
+Even though the projections for HL-LHC presented in section 4 do not generally surpass the cosmological bounds, we will demonstrate in this section that future hadron and lepton colliders lead to a different, more promising conclusion.
+FCC-hh
+We start by discussing the scotogenic model in the context of a future circular hadron collider, dubbed FCC-hh [65]. For this purpose, we follow ref. [66], where an opposite-sign-di-lepton (OSDL) final state with missing energy is discussed with the goal of finding TeV-scale winos and light binos.
+The following variables were used in the analysis to define cuts: (i) Meff, which is the scalar sum of the pT of leptons, jets and missing energy (MET)
+Meff = Σ pT + Σ pT + Σ pT ,	(5.1)
+
+Me′ff = Meff − pT (ℓ1), where pT (ℓ1) is the larger pT value of the two final state leptons,
+the invariant mass of the same sign opposite flavor lepton pair, mSFOS, and, finally,
+the transverse mass MT . We simulated signal events for different mass parameters using the same pipeline as in section 4. To ensure that our simulations are comparable to those in [66], the most dominant backgrounds (WW and WZ) were also simulated and compared to the cut flow given in [66]. Our results are presented in table 6.
+Since we generally find that the number of events for signal and background are of the same order, the significance given in eq. (4.6) is not a good approximation and hence for exclusions we use eq. (4.7), while for discoveries we employ [63]
+S  = s2  (S + B) log  1 + S  − S  .	(5.2)
+
+Our findings on the parameter space exclusion capability at FCC-hh with L = 3 ab−1 and L = 30 ab−1 are summarized in figure 9. Both the contours corresponding to S1 =
+
+1400
+
+1200
+
+1000
+
+800
+
+600
+
+400
+
+200
+500	1000	1500	2000
+m±[GeV]
+Figure 9. Sensitivity of FCC-hh with L = 3 ab−1 (30 ab−1) is shown with solid (dashed) lines. The analysis is based on a proposed search for supersymmetry presented in ref. [66]. The red and blue curves correspond to the “best case” scenario with maximized couplings to e, µ. While the
+−1
+S0 = 5 region for L = 3 ab	is in tension with bounds from Neff, S1 = 2 extends to much higher
+HNL masses, indicating that a significant portion of the parameter space can be probed at FCC-hh. The situation further improves for larger luminosity. The gray curve corresponds to the “worst” case in which couplings to tau-lepton are maximized; this case does not feature particularly strong sensitivity. The thin black line corresponds to mN2,3 = m±.
+
+2 and S0 = 5 are derived for the maximal branching ratios into electrons and muons (see table 5) for normal neutrino mass ordering. This scenario is dubbed “best case” in figure 9 and it may be inferred that for such couplings FCC-hh will provide the possibility of scanning a large portion of parameter space that is not restricted by BBN and Neff constraints. The sensitivity for the “worst case” scenario in which couplings to τ lepton are maximized (table 3) is shown in gray in figure 9 and as expected, it is much weaker than the case with dominant couplings to light leptons.
+
+CLIC
+The Compact Linear Collider (CLIC) [22] is a proposed e+e− collider that will operate in three stages with √s= 380 GeV, 1.5 TeV, and 3 TeV, respectively [22, 67]. In the following,
+however, we restrict ourselves to the latter case as it offers the possibility to test larger parameter space of Z2-odd particle masses in comparison to two other stages. As for FCC-hh, we consider the di-lepton signal.
+At e+e− colliders there are two complementary processes to produce σ± in our model: one is through the exchange of a Z boson or a photon in the s-channel; another possibility is via HNLs in the t-channel. In the latter case, elements of Yukawa matrix enter in the
+
+production cross section. However, we have checked by performing analytic calculations of the cross section that such production is subdominant for the Yukawa couplings employed in this work.
+The most outstanding advantage that lepton colliders offer with respect to hadron colliders is the clean signal; without parton distribution functions to be considered, missing energy and momentum can be precisely reconstructed and the distributions in the kinematic variables are not heavily smeared out due to the vastly different energies that interacting partons can have during the collisions. Furthermore, QCD backgrounds are reduced to a degree that allows a more detailed analysis of pure electroweak processes and this is particularly relevant for the model under our consideration.
+For general background rejection, we make the following preselection cuts: to get rid of QCD processes, we require the final state to contain no jets.9 Furthermore, we require exactly two leptons of opposite charge and that ✚E✚ exceeds 100 GeV.  The latter cut
+suppresses most of the e+e− → l+l− background.
+The dominant background after the preselection cuts is e+e− → l+l−νν¯ (l stands for any generation of charged leptons) and in the following this is the only background process under our consideration. In the case of τ leptons in the final state, only those events in which τ decays leptonically are considered; in this case there are hence four final state neutrinos. We have checked that any other SM background gives a negligible contribution after the above preselection cuts. A very promising result for the exclusion limits was found by choosing cuts as given in table 7.
+Regarding cuts, the variables mSFOS and Meff, already employed for our FCC-hh analysis, were reused for CLIC because of their great potential for discriminating the scotogenic model, with its comparatively large masses of Z2-odd particles, against the SM. Furthermore, the pseudorapidity of the first lepton, η(l1), turns out to be a very useful variable; it peaks at large values for the SM background while most of the signal events are more central in this variable.
+Regarding the large number of events still present after the final cuts, systematic uncertainties have to be considered, as they more dominantly affect the significance in this case. For that reason, the significances in eq. (5.2) for discovery and in eq. (4.7) for exclusion have to be adapted to include these systematic uncertainties. Assuming the systematic uncertainties to be described by Gaussian noise with standard deviation σB = εB, one finds
+
+
+
+
+S0′ =
+s2(s + b) ln
+2(s + b)	2	2
+b + a0 − σ2	b
+
+S1′ =
+2 2
+a1 + s − b − σ2 + 	b	 + 2b ln
+	2b
+,	(5.4)
+
+b	4σ2
+s + b + a1 − σ2
+
+9In particular, we require the number of objects reconstructed as VLCjetR05N2 event types, defined in the official CLIC Delphes-card, to be zero.
+
+
+
+Cut
+	
+S
+	“best case”
+B	S0
+	
+
+S1
+	
+
+′	′
+S0	S1
+	
+	preselection
+Meff > 0.5 · µ2 − 1.2 · mN2,3 + 1000 GeV mSFOS > −0.1 · µ2 − 0.3 · mN2,3 + 530 GeV
+|η(l1)| < 0.6
+kinematics
+	4101
+3442
+3260
+2502
+2136
+	1.0 × 106	4.1
+2.7 × 105	6.6
+2.2 × 105	6.9
+2.1 × 104 16.9
+908	55.6
+	4.1
+6.6
+6.8
+16.6
+45.6
+	1.3	1.3
+3.6	3.6
+4.0	4.0
+15.5	15.4
+55.3	45.5
+	
+	
+Cut
+	
+S
+	“worst case”
+B	S0
+	
+
+S1
+	
+
+′	′
+S0	S1
+	
+	preselection
+mSFOS > −0.3 · mN2,3 + 130 GeV
+|η(l1)| < 0.6
+kinematics
+	1188
+1153
+800
+386
+	1.0 × 106	1.2
+9.7 × 105	1.2
+1.2 × 105	2.3
+2806	7.1
+	1.2
+1.2
+2.3
+7.0
+	0.4	0.4
+0.4	0.4
+1.6	1.6
+7.0	6.9
+	
+	Table 7. Cuts made for distinguishing signal and background at CLIC with a center of mass energy of 3 TeV and a luminosity of 5 ab−1. We show the number of signal and background events together with the corresponding sensitivities for a benchmark point mN2,3 = 500 GeV and m± = 1 TeV. The results are shown both for “best” and “worst” case scenarios which correspond to maximizing couplings to e,µ and τ lepton, respectively. Details about the systematic errors are given in the text.
+
+
+where
+a0 =qb2 + 2(2s + b)σ2 + σ4,
+
+a1 =q(s + b)2 + 2(b − s)σ2 + σ4.
+We followed [22] and assumed a background uncertainty of 0.3% in the following analysis. A further suppression of the background can be made by utilizing the kinematics of this process. In the di-lepton search at CLIC, one can reconstruct the 4-momenta of the two
+HNLs (denoted by pµ	in what follows) by using only the initial state energy √s and the
+known 4-momenta of the two charged leptons (pµ ). Four out of these eight unknowns are
+fixed by 4-momentum conservation, namely Σ4	pµ = (√s , 0 , 0 , 0). Furthermore, impos-
+ing that all intermediate and final state particles are on-shell yields (up to combinatorics) the following four relations:
+
+(p1 + p3)2 = m2 = (p2 + p4)2 ,	p2 = p2 = m2
+.	(5.5)
+
+±	3	4
+N2,3
+
+In total, we end up with a solvable system of equations. For separating signal and background events we use that the latter ones typically have different kinematic properties, since the mass of the intermediate particle is for instance set by the W boson mass. After requiring that (i) there is a physical solution to the aforementioned equations, i.e. we demand the momenta of the invisible particles to be real valued, and (ii) there is no real
+
+valued solution if m2
+±
+and m2
+,
+in eq. (5.5) get replaced with the W boson and active
+
+neutrino mass, respectively, we reach the following effect: the number of signal events
+typically decreases only by 70%, whereas background is strongly reduced, at most only a
+
+few percent of such events survive this cut. In reality, the 4-momenta in eq. (5.5) are only known to a finite precision. So it is crucial to include the finite detector resolution by using the respective Delphes card for the CLIC detector which is based on [68]. As such, the simulated pT values experience a smearing with respect to the detector resolution.
+We wish to stress that the cuts on mSFOS and Meff are not optimal for each parameter point since we only used a very simple function of the model parameters. Still, the resulting exclusion limits, shown in figure 10, already indicate the great potential for testing this model setup at CLIC; sensitivity curves both for the “best case” and the “worst case” scenario exceed Neff limits. Interestingly, S1 = 2 and S0 = 5 curves reach similar limits for these two cases. This is a consequence of the aforementioned use of kinematics: due to the suppression of background events, we find large sensitivity values across the parameter space. Although the “worst case” features fewer event rates due to smaller branching ratios, there is still a sizable sensitivity available.
+In comparison with FCC sensitivities at 3 ab−1, CLIC can reach higher HNL masses while being less sensitive to σ± masses larger than 1400 GeV; this is to be expected with a total center of mass energy of 3000 GeV. Overall, CLIC offers a testable parameter space which is comparable to the FCC result. While the reach at CLIC is not as large in comparison to FCC with 30 ab−1, we note that, unlike FCC, CLIC can nearly close the available kinematic window, having the sensitivity in the vicinity of mN2,3 = m± line. Let
+us note that this is the kinematic window in which coannihilations are very effective and this
+can strongly suppress the hot DM component, relaxing the Neff limits, while BBN limits still play a role. We wish to stress that such small splitting between Z2-odd fermions and scalars and mN2,3 ≃ 1 TeV is exactly the setup in which we have previously [20] shown that the observed amounts of DM and baryon asymmetry of the Universe can be simultaneously explained within the scotogenic model. It is very intriguing that future lepton colliders will have a sensitivity to such a scenario.
+In conclusion, we have shown in this section that both lepton and hadron colliders offer promising and complementary ways to look for the considered scotogenic scenario.
+Summary of collider searches
+Having explored the capability of HL-LHC, as well as future hadron (FCC-hh) and lepton (CLIC) colliders for testing the scotogenic model, we summarize the situation in figure 11. The figure contains sensitivity curves as well as BBN and Neff limits already presented in figures 7 to 10. While the discovery at HL-LHC is less likely due to the tension with cos-mological limits, the future colliders offer more promising situation in which large portions of the parameter space can be tested.
+While we have shown that the future collider prospects are bright, it is fair to note that the cosmological and other terrestrial searches will also provide stronger limits, particularly for heavier HNLs. In what follows we list most notable among these projects:
+New searches for LFV processes can lower the bounds on Yukawa couplings y2α and y3,α; for instance MEG II [69] features a projected sensitivity of BR(µ → e γ) < 6 · 10−14; an improvement of about an order of magnitude compared to the previ-ous bound.
+
+1400
+
+
+1200
+
+
+1000
+
+
+800
+
+
+600
+
+
+400
+
+
+200
+
+200	400	600	800	1000	1200	1400	1600
+m±[GeV]
+Figure 10. CLIC sensitivity for the di-lepton search. Using maximized couplings to e, µ we obtained the red solid contour that corresponds to a 5σ discovery and the blue one that represents 2σ exclusion. The corresponding dashed contours are for the case where τ couplings are maximized. The thin black line indicates mN2,3 = m±. We assumed an background uncertainty of 0.3%.
+
+New observations of small scale structure in combination with detailed simulations of warm DM will push mNRP to larger values and this in turn requires smaller y1α to produce the observed DM abundance via freeze-in, which will also impact BBN limits.
+Upcoming CMB experiments will measure Neff to a precision of ∆Neff = 0.06 [70] which leaves less room for a hot DM subcomponent.
+To summarize, these rather complementary searches would probe the parameter space up to even smaller mass ratios between σ± and HNLs. They directly or indirectly set a stricter upper limit on the abundance of N2 which is crucial for cosmology. Hence, in the near future these experiments will offer novel relations between collider searches and cosmological observations.
+
+Summary and conclusions
+The scotogenic model is a very popular extension of the Standard Model which can explain both neutrino masses and the origin of DM. In this paper we focused on the case of keV-scale fermionic DM with the mass of remaining Z2-odd fermion and scalar degrees of freedom at O(100) GeV. In this setup there are two distinct DM production mechanisms: freeze-in through the decays of heavy scalars and the production from the decays of next-to-lightest Z2-odd particle, N2, produced via freeze-out. The large mass gap between DM
+
+
+1400
+
+1200
+
+1000
+
+800
+
+600
+
+400
+
+200
+500	1000	1500	2000
+Mass of σ± [GeV]
+Figure 11. Summarized sensitivity curves as discussed in sections 4.2, 5.2 and 5.1. The light shaded regions correspond to S = 2 and the darker regions represent S = 5. Again, the thin black line indicates mN2,3 = m± whereas thick black line shows BBN constraints; green solid (dashed) curves represent conservative (aggressive) Neff constraints. We assumed a maximal coupling to e, µ in this case.
+
+
+and N2 can generally allow for a sufficient suppression of the abundance arising from the latter mechanism, which is required as the corresponding DM momentum distribution is hot and could hence lead to washout of structures at small scales. We have shown that even stronger constraints arise from the contribution of such hot DM to Neff. We also derived BBN bounds from the requirement that N2 particles decay within ∼ 1 second.
+Armed with the limits from cosmology, we focused on collider phenomenology; in particular we studied p p → σ± σ∓ → ℓ± ℓ∓ + ✚E✚ channels. We have demonstrated that testing this model at colliders strongly relies on forthcoming stages of LHC as well as future colliders since we were not able to extract robust bounds by using 36.1 fb−1 data. Thus, we further considered HL-LHC, FCC-hh and CLIC. For the former, we found that the testable region is in tension with Neff and BBN limits, whereas both CLIC and FCC can probe significant regions of parameter space free from cosmological bounds. The sensitivity reach of CLIC exceeds 1 TeV for both HNL and charged scalar masses. The FCC with 3 ab−1 would reach similar scalar and even larger HNL masses, and this further improves for 30 ab−1 where HNL masses up to 2 TeV would be probed.
+In summary, we have shown that if Nature has chosen the scotogenic scenario, there is a number of complementary tests, stemming from terrestrial experiments to cosmological surveys which indicate that the model has a rich phenomenology and a very promising discovery potential.
+
+Acknowledgments
+
+SB would like to thank the theory division at Fermilab for the hospitality during the final stage of the project and Miguel Escudero and Sam Witte for fruitful discussions regard-ing the calculation of Neff. VB would like to thank Thomas Hugle for useful discussions. Research in Mainz is supported by the Cluster of Excellence “Precision Physics, Funda-mental Interactions, and Structure of Matter” (PRISMA+ EXC 2118/1) funded by the German Research Foundation (DFG) within the German Excellence Strategy (Project ID 39083149), and by grant 05H18UMCA1 of the German Federal Ministry for Education and Research (BMBF).
+Open Access. This article is distributed under the terms of the Creative Commons Attribution License (CC-BY 4.0), which permits any use, distribution and reproduction in any medium, provided the original author(s) and source are credited.
+
+References
+R.N. Mohapatra and G. Senjanovi´c, Neutrino mass and spontaneous parity nonconservation, Phys. Rev. Lett. 44 (1980) 912 [INSPIRE].
+P. Minkowski, µ → eγ at a rate of one out of 109 muon decays?, Phys. Lett. B 67 (1977) 421.
+M. Gell-Mann, P. Ramond and R. Slansky, Complex spinors and unified theories, Conf. Proc. C 790927 (1979) 315 [arXiv:1306.4669] [INSPIRE].
+T. Yanagida, Horizontal gauge symmetry and masses of neutrinos, Conf. Proc. C 7902131
+(1979) 95 [INSPIRE].
+E. Ma, Verifiable radiative seesaw mechanism of neutrino mass and dark matter, Phys. Rev. D 73 (2006) 077301 [hep-ph/0601225] [INSPIRE].
+E. Molinaro, C.E. Yaguna and O. Zapata, FIMP realization of the scotogenic model, JCAP 07 (2014) 015 [arXiv:1405.1259] [INSPIRE].
+M. Lindner, M. Platscher, C.E. Yaguna and A. Merle, Fermionic WIMPs and vacuum stability in the scotogenic model, Phys. Rev. D 94 (2016) 115027 [arXiv:1608.00577] [INSPIRE].
+K. Kumericki, I. Picek and B. Radovcic, TeV-scale seesaw with quintuplet Fermions, Phys. Rev. D 86 (2012) 013006 [arXiv:1204.6599] [INSPIRE].
+V. Brdar, I. Picek and B. Radovcic, Radiative neutrino mass with scotogenic scalar triplet, Phys. Lett. B 728 (2014) 198 [arXiv:1310.3183] [INSPIRE].
+I.M. A´vila, V. De Romeri, L. Duarte and J.W.F. Valle, Minimalistic scotogenic scalar dark matter, arXiv:1910.08422 [INSPIRE].
+I. Picek, BSM matter providing neutrino masses and gauge unification, in On a safe road to quantum gravity with matter, 3, 2019 [arXiv:1903.11889] [INSPIRE].
+S. Kashiwase and D. Suematsu, Baryon number asymmetry and dark matter in the neutrino mass model with an inert doublet, Phys. Rev. D 86 (2012) 053001 [arXiv:1207.2594] [INSPIRE].
+
+D. Suematsu, Thermal leptogenesis in a TeV scale model for neutrino masses, Eur. Phys. J. C 72 (2012) 1951 [arXiv:1103.0857] [INSPIRE].
+T. Hugle, M. Platscher and K. Schmitz, Low-scale leptogenesis in the scotogenic neutrino mass model, Phys. Rev. D 98 (2018) 023020 [arXiv:1804.09660] [INSPIRE].
+J. Racker, Mass bounds for baryogenesis from particle decays and the inert doublet model, JCAP 03 (2014) 025 [arXiv:1308.1840] [INSPIRE].
+D. Mahanta and D. Borah, Fermion dark matter with N2 leptogenesis in minimal scotogenic model, JCAP 11 (2019) 021 [arXiv:1906.03577] [INSPIRE].
+D. Borah, P.S.B. Dev and A. Kumar, TeV scale leptogenesis, inflaton dark matter and neutrino mass in a scotogenic model, Phys. Rev. D 99 (2019) 055012 [arXiv:1810.03645] [INSPIRE].
+D. Mahanta and D. Borah, TeV scale leptogenesis with dark matter in non-standard cosmology, JCAP 04 (2020) 032 [arXiv:1912.09726] [INSPIRE].
+E.K. Akhmedov, V.A. Rubakov and A. Smirnov, Baryogenesis via neutrino oscillations, Phys. Rev. Lett. 81 (1998) 1359 [hep-ph/9803255] [INSPIRE].
+S. Baumholzer, V. Brdar and P. Schwaller, The new νMSM (ννMSM): radiative neutrino masses, keV-scale dark matter and viable leptogenesis with sub-TeV new physics, JHEP 08 (2018) 067 [arXiv:1806.06864] [INSPIRE].
+M. Mangano, ed., Physics at the FCC-hh, a 100 TeV pp collider, arXiv:1710.06353
+[INSPIRE].
+R. Franceschini et al., The CLIC potential for new physics, arXiv:1812.02093 [INSPIRE].
+G.C. Branco, P.M. Ferreira, L. Lavoura, M.N. Rebelo, M. Sher and J.P. Silva, Theory and phenomenology of two-Higgs-doublet models, Phys. Rept. 516 (2012) 1 [arXiv:1106.0034] [INSPIRE].
+T. Toma and A. Vicente, Lepton flavor violation in the scotogenic model, JHEP 01 (2014) 160 [arXiv:1312.2840] [INSPIRE].
+A. Merle and M. Platscher, Running of radiative neutrino masses: the scotogenic model — Revisited, JHEP 11 (2015) 148 [arXiv:1507.06314] [INSPIRE].
+J.A. Casas and A. Ibarra, Oscillating neutrinos and µ → e, γ, Nucl. Phys. B 618 (2001) 171 [hep-ph/0103065] [INSPIRE].
+Particle Data Group collaboration, Review of particle physics, Chin. Phys. C 40 (2016) 100001 [INSPIRE].
+I. Esteban, M.C. Gonzalez-Garcia, A. Hernandez-Cabezudo, M. Maltoni and T. Schwetz, Global analysis of three-flavour neutrino oscillations: synergies and tensions in the determination of θ23, δCP , and the mass ordering, JHEP 01 (2019) 106 [arXiv:1811.05487] [INSPIRE].
+A. Ahriche, A. Jueid and S. Nasri, Radiative neutrino mass and Majorana dark matter within an inert Higgs doublet model, Phys. Rev. D 97 (2018) 095012 [arXiv:1710.03824] [INSPIRE].
+D. Schmidt, T. Schwetz and T. Toma, Direct detection of leptophilic dark matter in a model with radiative neutrino masses, Phys. Rev. D 85 (2012) 073009 [arXiv:1201.0906] [INSPIRE].
+
+K.P. Modak, 3.5 keV X-ray line signal from decay of right-handed neutrino due to transition magnetic moment, JHEP 03 (2015) 064 [arXiv:1404.3676] [INSPIRE].
+G. Faisel, S.-Y. Ho and J. Tandean, Exploring X-ray lines as scotogenic signals, Phys. Lett. B 738 (2014) 380 [arXiv:1408.5887] [INSPIRE].
+A. Biswas, S. Choubey, L. Covi and S. Khan, Explaining the 3.5 keV X-ray line in a Lµ − Lτ
+extension of the inert doublet model, JCAP 02 (2018) 002 [arXiv:1711.00553] [INSPIRE].
+K.N. Abazajian, M. Markevitch, S.M. Koushiappas and R.C. Hickox, Limits on the radiative decay of sterile neutrino dark matter from the unresolved cosmic and soft X-ray backgrounds, Phys. Rev. D 75 (2007) 063511 [astro-ph/0611144] [INSPIRE].
+E. Bulbul, M. Markevitch, A. Foster, R.K. Smith, M. Loewenstein and S.W. Randall, Detection of an unidentified emission line in the stacked X-ray spectrum of galaxy clusters, Astrophys. J. 789 (2014) 13 [arXiv:1402.2301] [INSPIRE].
+A. Boyarsky, O. Ruchayskiy, D. Iakubovskyi and J. Franse, Unidentified line in X-ray spectra of the andromeda galaxy and perseus galaxy cluster, Phys. Rev. Lett. 113 (2014) 251301 [arXiv:1402.4119] [INSPIRE].
+N. Cappelluti et al., Searching for the 3.5 keV line in the deep fields with chandra: the 10 Ms observations, Astrophys. J. 854 (2018) 179 [arXiv:1701.07932] [INSPIRE].
+V. Brdar, J. Kopp, J. Liu and X.-P. Wang, X-ray lines from dark matter annihilation at the keV scale, Phys. Rev. Lett. 120 (2018) 061301 [arXiv:1710.02146] [INSPIRE].
+A. Caputo, M. Regis and M. Taoso, Searching for sterile neutrino with X-ray intensity mapping, JCAP 03 (2020) 001 [arXiv:1911.09120] [INSPIRE].
+L.J. Hall, K. Jedamzik, J. March-Russell and S.M. West, Freeze-in production of FIMP dark matter, JHEP 03 (2010) 080 [arXiv:0911.1120] [INSPIRE].
+A. Kusenko, Sterile neutrinos, dark matter, and the pulsar velocities in models with a Higgs singlet, Phys. Rev. Lett. 97 (2006) 241301 [hep-ph/0609081] [INSPIRE].
+D. Barducci et al., Collider limits on new physics within MicrOMEGAs 4.3, Comput. Phys. Commun. 222 (2018) 327 [arXiv:1606.03834] [INSPIRE].
+J. Heeck and D. Teresi, Cold keV dark matter from decays and scatterings, Phys. Rev. D 96
+(2017) 035018 [arXiv:1706.09909] [INSPIRE].
+M. Kawasaki, K. Kohri, T. Moroi and Y. Takaesu, Revisiting Big-Bang nucleosynthesis constraints on long-lived decaying particles, Phys. Rev. D 97 (2018) 023502 [arXiv:1709.01211] [INSPIRE].
+S. Dodelson and L.M. Widrow, Sterile-neutrinos as dark matter, Phys. Rev. Lett. 72 (1994) 17 [hep-ph/9303287] [INSPIRE].
+C. Y`eche, N. Palanque-Delabrouille, J. Baur and H. du Mas des Bourboux, Constraints on neutrino masses from Lyman-α forest power spectrum with BOSS and XQ-100, JCAP 06 (2017) 047 [arXiv:1702.03314] [INSPIRE].
+G. Kulkarni, J.F. Hennawi, J. On˜orbe, A. Rorai and V. Springel, Characterizing the pressure smoothing scale of the intergalactic medium, Astrophys. J. 812 (2015) 30 [arXiv:1504.00366] [INSPIRE].
+A. Merle, A. Schneider and M. Totzauer, Dodelson-Widrow production of sterile neutrino
+
+dark matter with non-trivial initial abundance, JCAP 04 (2016) 003 [arXiv:1512.05369] [INSPIRE].
+A. Merle and M. Totzauer, keV sterile neutrino dark matter from singlet scalar decays: basic concepts and subtle features, JCAP 06 (2015) 011 [arXiv:1502.01011] [INSPIRE].
+J. Lesgourgues and T. Tram, The Cosmic Linear Anisotropy Solving System (CLASS) IV: efficient implementation of non-cold relics, JCAP 09 (2011) 032 [arXiv:1104.2935] [INSPIRE].
+J. Lesgourgues, The Cosmic Linear Anisotropy Solving System (CLASS) I: overview,
+arXiv:1104.2932 [INSPIRE].
+M. Viel, J. Lesgourgues, M.G. Haehnelt, S. Matarrese and A. Riotto, Constraining warm dark matter candidates including sterile neutrinos and light gravitinos with WMAP and the Lyman-α forest, Phys. Rev. D 71 (2005) 063534 [astro-ph/0501562] [INSPIRE].
+Planck collaboration, Planck 2018 results. VI. Cosmological parameters, Astron. Astrophys.
+641 (2020) A6 [arXiv:1807.06209] [INSPIRE].
+A.G. Hessler, A. Ibarra, E. Molinaro and S. Vogl, Probing the scotogenic FIMP at the LHC, JHEP 01 (2017) 100 [arXiv:1611.09540] [INSPIRE].
+ATLAS collaboration, Search for electroweak production of supersymmetric particles in final states with two or three leptons at √s = 13 TeV with the ATLAS detector, Eur. Phys. J. C
+78 (2018) 995 [arXiv:1803.02762] [INSPIRE].
+ATLAS collaboration, Search for the direct production of charginos and neutralinos in final states with tau leptons in √s = 13 TeV pp collisions with the ATLAS detector, Eur. Phys. J.
+C 78 (2018) 154 [arXiv:1708.07875] [INSPIRE].
+A. Alloul, N.D. Christensen, C. Degrande, C. Duhr and B. Fuks, FeynRules 2.0 — A complete toolbox for tree-level phenomenology, Comput. Phys. Commun. 185 (2014) 2250 [arXiv:1310.1921] [INSPIRE].
+J. Alwall et al., The automated computation of tree-level and next-to-leading order differential cross sections, and their matching to parton shower simulations, JHEP 07 (2014) 079 [arXiv:1405.0301] [INSPIRE].
+T. Sj¨ostrand, S. Mrenna and P.Z. Skands, A brief introduction to PYTHIA 8.1, Comput. Phys. Commun. 178 (2008) 852 [arXiv:0710.3820] [INSPIRE].
+DELPHES 3 collaboration, DELPHES 3, a modular framework for fast simulation of a generic collider experiment, JHEP 02 (2014) 057 [arXiv:1307.6346] [INSPIRE].
+A. Barr, C. Lester and P. Stephens, m(T2): the truth behind the glamour, J. Phys. G 29
+(2003) 2343 [hep-ph/0304226] [INSPIRE].
+G. Apollinari, O. Bru¨ning, T. Nakamoto and L. Rossi, High luminosity large hadron collider HL-LHC, CERN Yellow Rep. (2015) 1 [arXiv:1705.08830] [INSPIRE].
+G. Cowan, K. Cranmer, E. Gross and O. Vitells, Asymptotic formulae for likelihood-based tests of new physics, Eur. Phys. J. C 71 (2011) 1554 [Erratum ibid. 73 (2013) 2501] [arXiv:1007.1727] [INSPIRE].
+GERDA collaboration, Improved limit on neutrinoless double-β decay of 76Ge from GERDA phase II, Phys. Rev. Lett. 120 (2018) 132503 [arXiv:1803.11100] [INSPIRE].
+
+FCC collaboration, FCC-hh: the hadron collider: Future Circular Collider conceptual design report volume 3, Eur. Phys. J. ST 228 (2019) 755 [INSPIRE].
+S. Gori, S. Jung, L.-T. Wang and J.D. Wells, Prospects for electroweakino discovery at a 100
+TeV hadron collider, JHEP 12 (2014) 108 [arXiv:1410.6287] [INSPIRE].
+CLIC, CLICdp collaboration, Updated baseline for a staged Compact Linear Collider,
+arXiv:1608.07537 [INSPIRE].
+CLICdp collaboration, A detector for CLIC: main parameters and performance,
+arXiv:1812.07337 [INSPIRE].
+MEG II collaboration, The design of the MEG II experiment, Eur. Phys. J. C 78 (2018) 380 [arXiv:1801.04688] [INSPIRE].
+K. Abazajian et al., CMB-S4 science case, reference design, and project plan,
+arXiv:1907.04473 [INSPIRE].
+
+PHYSICAL REVIEW D 104, 023505 (2021)
+
+
+Simple-graduated dark energy and spatial curvature
+Giovanni Acquaviva/,1,* Özgür Akarsu/,2,† Nihan Katırcı,2,‡ and J. Alberto Vazquez3,§
+1Institute of Theoretical Physics, Faculty of Mathematics and Physics, Charles University, CZ-180 00 Prague, Czech Republic
+2Department of Physics, Istanbul Technical University, Maslak 34469 Istanbul, Turkey
+3Instituto de Ciencias Físicas, Universidad Nacional Autónoma de Me´xico,
+Cuernavaca, Morelos, 62210, Mexico
+/ (Received 8 April 2021; accepted 3 June 2021; published 6 July 2021)
+In this work, we first discuss the possibility that dark energy models with negative energy density values in the past can alleviate the H0 tension, as well as the discrepancy with the baryon acoustic oscillation (BAO) Lyman-α data, both which prevail within the ΛCDM model. We then investigate whether two minimal extensions of the ΛCDM model, together or separately, can successfully realize such a scenario:
+(i) the spatial curvature, which, in the case of spatially closed universe, mimics a negative density source and (ii) simple-graduated dark energy (gDE), which promotes the null inertial mass density of the usual vacuum energy to an arbitrary constant—if negative, the corresponding energy density decreases with redshift similar to the phantom models, but unlike them crosses below zero at a certain redshift. We find that, when the Planck data are not included in the observational analysis, the models with simple-gDE predict interesting and some significant deviations from the ΛCDM model. In particular, a spatially closed universe along with a simple-gDE of positive inertial mass density, which work in contrast to each other, results in minor improvement to the H0 tension. The joint dataset, including the Planck data, presents no evidence for a deviation from spatial flatness but almost the same evidence for a cosmological constant and
+the simple-gDE with an inertial mass density of order O 10−12 eV4. The latter case predicts almost no
+deviation from the ΛCDM model up until today—so that it results in no improvement regarding the BAO Ly-α data—except that it slightly aggravates the H0 tension. We also study via dynamical analysis the history of the Universe in the models, as the simple-gDE results in futures different than the de Sitter future of the ΛCDM model.
+DOI: 10.1103/PhysRevD.104.023505
+
+
+
+INTRODUCTION
+There is a growing consensus in recent years that the standard Lambda cold dark matter (ΛCDM) model must in fact be an approximation to a more realistic cosmological model that has not been understood yet [1]. This new model is not expected to exhibit phenomenologically too drastic deviations from the ΛCDM model, which is in excellent agreement with most of the currently available data [2–6], even if it could be conceptually very different. The recent developments, both theoretical (e.g., the de Sitter swamp-land conjecture [7–14]) and observational (e.g., the ten-sions prevailing within the ΛCDM model and preference for some unexpected and/or nontrivial extensions of this model; see Refs. [15–52] and [53–56] for more references), along with the notoriously challenging cosmological con-stant problem [57,58], suggest that attaining this new model
+
+*gioacqua@utf.troja.mff.cuni.cz
+†akarsuo@itu.edu.tr
+‡nihan.katirci@itu.edu.tr
+§javazquez@icf.unam.mx
+would not be a straightforward task. These tensions are of immense interest not only in cosmology but also in theoretical physics, as they could imply new physics beyond the well-established fundamental theories under-pinning, or even extending, the ΛCDM model. The so-called H0 tension—the deficit in the Hubble constant H0 predicted by the Planck cosmic microwave background (CMB) data within the ΛCDM model [6] when compared to the direct local distance ladder measurements [59–64]—among others is now described by many as a crisis. See Ref. [53] for a comprehensive list of references on the H0 tension and Ref. [65] for a recent review on its possible solutions. It becomes quite perplexing as it worsens when the simplest minimally coupled single-field quintessence models are used instead of cosmological constant (Λ) and only partially improves when the simplest phantom (or quintom) models are used [31–35]. Surprisingly, it has been reported that the H0 tension—as well as a number of other low-redshift discrepancies—may be alleviated by a dynamical dark energy that assumes negative or vanishing energy density values at high redshifts [15,19,36–52].
+
+
+
+
+2470-0010/2021/104(2)/023505(18)	023505-1	© 2021 American Physical Society
+
+ACQUAVIVA, AKARSU, KATıRCı, and VAZQUEZ	PHYS. REV. D 104, 023505 (2021)
+
+
+
+The fact that, when spatial curvature is allowed on top of the ΛCDM model, the Planck data combined with other astro-physical data [baryon acoustic oscillations (BAO), cosmic chronometers, etc.] favor spatial flatness (Ωk0 0) with extremely high precision, while the Planck data alone favor positive spatial curvature (Ωk0 < 0) might also be implying such dark energy models [6,22–27].
+The constraint on H0 from the CMB power spectrum is inferred from the distance between the acoustic peaks that measures the angular scale at last scattering θ⋆ = r⋆/DM,
+z⋆
+determined by the pre-recombination physics—(cs being
+z⋆	−1
+0
+comoving angular diameter distance—determined by the
+postrecombination physics—at last scattering, for which the redshift z⋆ ≃ 1090 [66]. As dark energy [in general, described by an equation of state (EoS) parameter w z ≡ p/ρ ∼ −1 with ρ and p being the energy density and
+pressure, respectively] is negligible at high redshifts, it is not expected to affect the prerecombination physics, viz., r⋆. Also, Planck satellite measures θ⋆ very robustly (with an accuracy of 0.03%) and almost independently of the cosmological model [6]. Therefore, DM must remain the same in different dark energy models (with some excep-
+tions, e.g., early dark energy models [67], which prescribe DM ∝ r⋆). Thus, dark energy models that assume negative
+energy density values for z > z (z being the redshift at which the energy density cros*ses *below zero) imply a
+reduction in H z compared to the one in the ΛCDM model
+for z > z , more than the phantom/quintom dark energy models could achieve (for these models, the energy density typically decreases and approaches zero with redshift). The compensation of this reduction to keep DM unaltered results in an enhanced H z for z < z , i.e., H0 as well. Besides, this sign change in the dark energy density can even lead to a nonmonotonic behavior of H z that fits better with the Lyman–α (Ly-α) BAO measurements, e.g., those from the Baryon Oscillation Spectroscopic Survey (BOSS) and from its extended version eBOSS in the Sloan Digital Sky Survey Data Release 14 (SDSS DR14) [68,69], which (combined) present approximately 1.7σ tension with the prediction of the Planck (2015) [5] best-fit ΛCDM model. Such models were first suggested by the BOSS Collaboration when it was shown that the BAO peak position in the Ly-α at an effective redshift z ∼ 2.34 (BOSS DR11) [36] presents an approximately 2.5σ dis-crepancy with the CMB predictions from the Planck (2015)
+[5] best-fit ΛCDM model. Then, they reported a dark energy density consistent with a positive cosmological constant for z < 1, but with a preference for negative values for z > 1.6, and argued that this discrepancy can be addressed by a nonmonotonic behavior of H z at z ∼ 2 [15]. The Planck Collaboration (2018) [6] excludes the Ly-α BAO measurements from their default BAO compilation—as they do not significantly constrain the
+ΛCDM model, as well as its simple extensions, when CMB and galaxy BAO data are already used—and, mentioning from Ref. [36] that it is difficult to construct well-motivated extensions of the ΛCDM model that can resolve this tension, suggest further work is needed to assess whether it is a signature of new physics or not. Recently, the Λ assumption was investigated by introducing the graduated dark energy (gDE) characterized by a minimal dynamical deviation from the null inertial mass density ϱ  0 (where
+ϱ ≡ ρ  p) of the Λ—or the usual vacuum energy of the
+quantum field theory (QFT)—in the form ϱ ∝ ρλ < 0 with
+λ < 1 being a ratio of two odd integers, for which its energy density ρ dynamically takes negative values in the past [46]. For large negative values of λ, gDE creates a phenomeno-logical model described by a smooth function that approxi-mately describes the Λ spontaneously flipping sign in the late Universe to become positive today. It was shown via the gDE that the joint observational data, including the Planck CMB and Ly-α BAO (BOSS DR11) data as well, suggest the Λ spontaneously changed sign at redshift z ≈
+2.32 and triggered the late-time acceleration, which alle-viates both the H0 tension and the discrepancy with the Ly-α BAO measurements. Currently, using the Ly-α BAO measurements in the final eBOSS (SDSS DR16), which contains all data from eBOSS and its predecessor, the BOSS, the tension with the prediction of the Planck (2015)
+[5] best-fit ΛCDM model is reduced to only approximately
+1.5σ [70,71]. On this account, the dark energy density that is almost constant today but assumes negative values in the past is not indispensable, yet it has potential to result in a better agreement with the existing observational data and the direct H0 measurements.
+Such scenarios elaborated by allowing negative energy densities in the Friedmann equation can be achieved as minimal extensions of the ΛCDM model. The simplest example of this type of contribution may be thought of as a single effective fluid defined as the total contributions of the positive cosmological constant and constant positive spatial curvature (which mimics a negative energy density source with w −1/3) to the Friedmann equation. However, if its energy density crosses below zero at z ∼ 1.6 in line with Ref. [15], then the spatial curvature’s density parameter today is required to be Ωk0 ∼ −0.12 (assuming Ωm0 ∼ 0.3 for dust), which contradicts the standard inflationary paradigm and the joint results of the recent Planck release [6] suggesting spatial flatness to a 1σ accuracy of 0.2%. Yet, recent observations hint toward a spatially closed universe, in particular, the Planck CMB power spectra prefer a closed universe at more than 99% confidence level (assuming the nominal likelihood) [22–25]. If we adhere to the inflationary paradigm, with a faithful assumption on the spatial flatness, such behavior can be achieved in a minimalist way by promoting phenomenologically the null inertial mass density ϱ 0 of the usual vacuum energy of the QFT to a negative
+
+SIMPLE-GRADUATED DARK ENERGY AND SPATIAL …	PHYS. REV. D 104, 023505 (2021)
+
+
+
+constant ϱ const < 0—henceforth, simple-graduated dark energy (simple-gDE) corresponding to the case λ 0 of the gDE. Its energy density decreases with increasing redshift like phantom dark energy models, but unlike them crosses below zero at a certain redshift. The source satisfying ϱ const has recently been of interest to many as it can resemble Λ today, while leading to a future singularity dubbed as the little sibling of the big rip (LSBR) for ϱ const < 0 or a finite future bounce for ϱ const > 0 [72–74]. Such a contribution to the Friedmann equation may also be obtained from a modified gravity; see, for instance, Ref. [75], where it arises from barotropic perfect fluid via the energy-momentum squared gravity of the form f(TμνTμν) ∝ ln(λTμνTμν). However, if its energy density is
+(GR)—described by the Einstein field equations Gμν −Tμν—the set of equations arises from the twice-contracted Bianchi identity implying ∇μGμν  0 and hence
+resulting in ∇μTμν	0. Projecting parallel and orthogonal
+to uμ, we obtain the energy and momentum conservation
+equations, correspondingly,
+ρ_ + Θϱ = 0	and	Dμp + ϱu_ μ = 0;	(1)
+where Θ Dμuμ is the volume expansion rate, a dot denotes the derivative with respect to the comoving time t, and we have used ∇νuμ  Dνuμ − u_ μuν [81,82]. Notice,
+in the momentum conservation equation in (1), that Dμp is
+the pressure gradient and u_ μ is the 4-acceleration, and
+
+positive today and crosses below zero at z ∼ 1.6, then its EoS parameter today yields w0 ∼ −1.35, which obviously is not expected to be permitted by the observational data. On the other hand, in case Ωk0 and ϱ const are simultaneously allowed to be free parameters on top of the ΛCDM model, it can be possible to draw both Ωk0 and w0 parameters to observationally reasonable values, though they together can still lead to sufficiently large deviations from the ΛCDM model resulting in better agreement with the observational data. Yet, at the end of the day, we may find ourselves with a completely different outcome. In particular, given that there exist model-independent inferences of H0 from the inverse distance ladder, which show that combined dataset of BAO and Type Ia Supernovae (SN) with/without Cepheids prefer low H0 values independently of Planck data and the adopted dark energy model suggesting late-time modifications alone is unable to alleviate the H0 tension and turned attention to early-time modifications (such as early dark energy), which lowers the sound horizon [76–80]. Also, notice that our discussions above also imply that the spatial curvature with Ωk0 > 0 (spatially open universe) and the simple-gDE with ϱ > 0 (in this case, the energy density increases with increasing redshift, likewise the quintessence dark energy models) would exacerbate both the H0 tension and discrep-ancy with the BAO Ly-α measurements, both which prevail within the ΛCDM model. In what follows, we explore in detail whether the spatial curvature (Ωk0) and the simple-gDE (ϱ const) extensions, separately or simultaneously, of the standard ΛCDM model result in improvements in fitting the observational data. We also discuss the implications of our observational constraints on the past and future history of the Universe and nature of the vacuum energy.
+therefore ϱ  ρ  p defines the inertial mass density.
+The usual vacuum energy of the QFT (described by the EoS pcc  −ρcc) corresponds to the source that yields null-inertial mass density,
+ϱcc = 0;	(2)
+for which ρcc const > 0, namely, the energy density is a constant—via the energy conservation equation in (1)—and supposed to be positive as suggested by the cosmo-logical observations. The simplest phenomenological generalization of the usual vacuum energy (2) is then to promote its null inertial mass density to an arbitrary constant,
+ϱci = const;	(3)
+for which the energy density ρci (supposed to be positive today, i.e., ρci0 > 0) and the pressure pci are not necessarily constant—here and in what follows, the subscript 0 attached to any quantity denotes its present-day (z 0) value. It is worth noting that this promotion corresponds to taking the inertial mass density, instead of vacuum energy density (or Λ), as one of the constants of nature. We do not consider the possibility of ρci0 < 0 throughout our study, as it obviously contradicts the observations. The energy density of this source, which we call simple-graduated dark energy, reads
+ρci = ρci0 + 3ϱci ln(1 + z);	(4)
+which satisfies the EoS parameter (w ≡ −1 + ϱ/ρ)
+
+
+MODEL
+The energy-momentum tensor describing an isotropic
+
+wci
+−1		1 + wci0		5
+1 + 3(1 + wci0) ln(1 + z)
+
+perfect fluid can be decomposed relative to a unique 4-velocity uμ (satisfying u uμ = −1 and ∇ uμu = 0) in
+where z = −1 + a0 is the redshift with a being the scale
+
+the form of Tμν ρ p uμuν pgμν, where ρ is the (relativistic) energy density relative to uμ, p is the isotropic pressure, and gμν is the metric tensor. In general relativity
+regardless of the sign of ϱci, eventually becomes indistin-guishable from the Λ in the past (say, wci ≈ −1 for z ≫ 0), and thus the extension of the ΛCDM model via this source
+
+ACQUAVIVA, AKARSU, KATıRCı, and VAZQUEZ	PHYS. REV. D 104, 023505 (2021)
+
+
+
+approximates indefinitely close to the ΛCDM model as the dust dominates it in the past. Yet, as the future Universe will eventually be dominated by this source, the future will be drastically different depending on the sign of ϱci; the Universe hits a bounce (H  0) in the finite future if ϱci > 0 and exhibits LSBR singularity in the infinite future if ϱci < 0 [72]. The latter case, ϱci < 0, is of particular interest to us, as in this case ρci decreases as z increases; namely, the source exhibits a phantomlike behavior as the logarithmic
+term (the new term that arises due to the deviations from null inertial mass density) dynamically screens ρci0 in the
+ρkci = ρci0[1 + 3(1 + wci0) ln(1 + z)] + ρk0(1 + z)2;  (8)
+from (4) and (7). Note that, in the past (z > 0), it never scales faster than either the dust energy density ρm ∝
+1  z  or the radiation energy density ρr ∝ 1  z , so that we can always recover the standard cosmology at sufficiently large redshifts and thus leave the usual pre-recombination physics and dynamics of the Universe—as well as the comoving sound horizon at last scattering r⋆—
+unaltered. It crosses zero at the redshift
+
+finite past (z > 0). However, in contrast to the usual
+8> −1
+
+e−	1
+−1W0(x)	o	for
+< −1;
+
+phantom dark energy models (described by w < −1 with ρ > 0), (i) its energy density does not asymptotically approach zero as z increases but crosses below zero at
+
+
+
+zkci* =
+>>< −1 +
+/ /
+3(1+wci0 ) 2
+qﬃ−ﬃﬃﬃﬃ Ωﬃﬃcﬃcﬃ0ﬃ
+o	for
+wci0
+
+wci0 =
+
+−1;
+
+1	> −1 +
+1
+e 3(1+wci0 )
+−1W−1(x)	)
+
+> −1;
+
+zci
+= −1 + e−3(1+wci0 )	(6)
+>	1	1
+for wci0
+
+*
+
+and then keeps growing in negative values, and (ii) its EoS parameter yields wci0 < −1 for z < zci* and wci0 > −1 for
+: 1 + e−3(1+wci0 −2W0 (x)
+
+(9)
+
+z > zci . Unless wci0 ≠ −1, it yields wci → −1 both in the far future (z → −1) and in the very early Universe (z → ∞)
+where W0(x) and W−1(x) are the two real branches of the Lambert W(x) function with the argument defined as
+
+and exhibits a pole at zci*, i.e., when the energy density
+ Ωk0	2	 e−	2	. Ω
+is the density param-
+
+crosses zero, which is in the finite past for wci0 < −1 and
+x = Ωci0
+3(1+wci0)
+3(1+wci0 )
+i = ρi/ρc
+
+in the finite future for wci0 > −1. The case wci0 −1 corresponds to the usual vacuum energy—for this, we obtain either z  −1 or z  ∞; both transitions imply such a thing would never happen. One may have noticed that simple-gDE (4) with ϱci < 0 is reminiscent of the phenomenological emergent dark energy (PEDE)
+[83]  described  by  the  energy  density  ρ  ρ0 − ρ0 tanh log10 1 z that decreases monotonically with increasing redshift due to the tanh term. However, in contrast to the simple-gDE, PEDE does not introduce an extra free parameter compared to the ΛCDM model and, like in the usual phantom dark energy models, yields positive definite energy density (vanishing for arbitrarily large redshifts) controlled by a particular EoS parameter that is −1.14 today and increases from −1.29 in the past to −1 in the future. One may further see Refs. [84,85] for one-parameter extension of PEDE and compare with simple-gDE.
+The spatial curvature of the RW metric can effectively be treated as a source described by an EoS parameter wk = −1/3, and the corresponding energy density reads
+
+ρk = ρk0(1 + z)2;	(7)
+
+for which ρk0 > 0, ρk0 = 0, and ρk0 < 0 correspond to
+eter of the ith fluid, and Ωk ρk/ρc corresponds to the spatial curvature, with ρc 3H2 being the critical energy density.
+We calculate from (8) that ρkci crossing below zero, for example, at zkci  e − 1 ≈ 1.72 (along with Ωm0  0.30) in line with Ref. [15] requires Ωk0  0.7  5.17/ 3wci0 − 3.39 . This implies significantly large deviations from the spatial flatness (Ωk0 0) or the cosmological constant (wci0  −1), when only one of these is allowed to be a free parameter. Namely, we have Ωk0 −0.11 for wci0 −1 and wci0 −1.33 for Ωk0 0. Such large deviations are not expected to be permitted by the obser-vational data. However, as may be seen in Fig. 1 in case Ωk0 and wci0 are simultaneously allowed to be free parameters, it is possible to bring each of them to more reasonable values; namely, we have Ωk0  −0.07 along with wci0 −1.1. Thus, it is possible to have an overall large deviation from the standard ΛCDM model, while keeping the deviations from spatial flatness and cosmological constant at relatively moderate levels.
+The Friedmann equation giving the complete description
+of the model under consideration here reads
+H2	2
+2	ci0	wci0 ln	z	k0	z
+0
+
+spatially open, flat, and closed universes, respectively.
+Now, we define the effective source (kci) made up of the
++ Ωm0(1 + z) + Ωr0(1 + z) ;	(10)
+
+constant inertial mass density source (ci) and the spatial curvature (k), for which the energy density, ρkci ≡ ρci ρk, reads
+where the density parameters, except the one corresponding to the spatial curvature Ωk0, are positive definite. The H = H(z) here can even exhibit a nonmonotonic behavior,
+
+SIMPLE-GRADUATED DARK ENERGY AND SPATIAL …	PHYS. REV. D 104, 023505 (2021)
+
+
+
+
+/ /
+
+
+FIG. 1. Ωk0 vs wci0 satisfying zkci  1.72 along with Ωm0  0.30. The point Ωk0; wci0	0; −1 corresponds to the ΛCDM model.
+
+which may then reconcile the model with the Ly-α BAO measurements, as discussed in the Introduction. One may
+OBSERVATIONAL CONSTRAINTS
+We perform a parameter estimation and provide obser-vational constraints from the latest data on the free parameters of the models under consideration—in the rest of the paper, oΛCDM refers to the model including the spatial curvature on top of the standard ΛCDM model, and similarly oDE and DE refer to the models considering the simple-gDE (characterized by constant inertial mass den-sity) with and without the spatial curvature, respectively. To explore the parameter space, we make use of the new version of the SIMPLEMC code [86], initially released in Ref. [15]. The code already contains several samplers for a proper exploration of the parameter space, but in particular, we use a modified version of the nested sampler DYNESTY [87,88] that allows us to produce posterior distributions and computes the Bayesian evidence, used to perform a model comparison through the Jeffreys scale [89]. A Bayesian model selection was applied to get insights from cosmological functions [90], and in particular to the dark energy EoS in Refs. [28,91,92]. The SIMPLEMC code uses a compressed version of the recent Planck CMB data (PLK),
+
+check that (10) has a minimum at z = z
+min
+satisfying the
+a recent reanalysis of Type Ia supernova data (SN), and
+high-precision BAO measurements at different redshifts up
+
+relation (neglecting radiation as Ωr0 ∼ 10−4 for z ∼ 1)
+
+3Ωm0(1 + zmin)3 + 2Ωk0(1 + zmin)2 = −3Ωci0(wci0 + 1).
+(11)
+
+And it passes through its minimum in the past, i.e.,
+
+z	> 0;	if	w	< 	3 − Ωk0	 .  (12)
+to z 2.36, viz., Ly-α DR14, BAO-Galaxy consensus, the SDSS Main Galaxy Sample (MGS) and the Six-Degree Field Galaxy Survey (6dFGS) as presented in Refs. [3,68, 69,93–95]. We do not use the final eBOSS (SDSS DR16), which contains all the data from eBOSS and its predeces-sor, as the covariance matrix is not available so far [70,71]. We also include a collection of currently available mea-surements on H z from cosmic chronometers (H) (see Ref. [96] and references therein). To improve the con-straining power on the parameter space, we also include a
+
+min
+ci0
+3(Ωk0 + Ω
+m0 − 1)
+big bang nucleosynthesis prior on the baryons contribution [97]. See Ref. [98] for an extended review of the cosmo-
+
+It implies wci0
+< −1.43 for the spatially flat universe
+logical parameter inference procedure we used. In the analysis, the radiation density parameter is given by
+
+(Ωk0 = 0), while, e.g., wci0 < −1.28 for the spatially closed
+universe with Ωk0 = −0.11. For example, zmin = 1 requires
+Ωr0
+= 2.469 × 10  h0 (1 + 0.2271N
+eff
+)—where	h0 =
+
+wci0	−4.43 for Ωk0	0 and wci0	−3.60 for Ωk0	−0.11. Such large deviations from the cosmological constant
+Hubble constant [99] and N
+
+eff
+= 3.046 is the standard
+
+and/or the spatial flatness may be implying that, when confronted with the observational data, the effective source
+that can assume negative density values in the finite past,
+number of effective neutrino species with minimum
+allowed mass mν	0.06 eV—as the present-day photon energy density is already extremely well constrained by
+
+i.e., ρ
+
+kci
+given in (8), would not be able to lead to a
+today’s CMB temperature T0	2.7255	0.0006 K [100]. Throughout our analysis, we assume flat priors over our
+
+nonmonotonic evolution of H z  at about z ∼ 1 so as to
+reconcile it with the Ly-α BAO measurements. Of course, this can still result in a partial improvement in fitting the Ly-α BAO measurements, while predicting larger H0 values (with respect to the ΛCDM model) toward address-ing the so-called H0 tension. Yet, a conclusive answer as to whether the model under consideration here (10) does better than the ΛCDM model cannot be given unless we rigorously confront the model with the latest observatio-nal data.
+sampling parameters: Ωm0 0.05; 1.0 for the dust density parameter today, Ωb0h2 0.02; 0.025 for the physical baryon density today, and h0 0.4; 1.0 for the reduced Hubble constant. We assume wci0  −1.5; −0.5 for the present-day EoS parameter of the simple-gDE (3) and Ωk0 −0.6; 0.6 for the density parameter corre-sponding to the spatial curvature today.
+Table I displays the constraints at 68% confidence level (CL) on the free parameters—Ωm0, Ωb0h2, h0, wci0, and
+
+ACQUAVIVA, AKARSU, KATıRCı, and VAZQUEZ	PHYS. REV. D 104, 023505 (2021)
+
+Ωk0—as well as the derived parameters—ϱci, Ωci0, Ωkci0, zci , and zkci (or zkcc )—from both the combined datasets of BAO  SN  H and BAO  SN  H  PLK sepa-rately. In the last three rows, we list the best fit (−2 ln Lmax), the log-Bayesian evidence for each of the models (ln Z), and the log-Bayesian evidence for each of the models relative to the reference model, the ΛCDM model (Δ ln Z ln Z − ln ZΛCDM). According to the Jeffreys scale the Bayes factor Δ ln Z lying in the range [0,1) implies the strength of the evidence to be weak/ inconclusive, while a positive/significant evidence is implied by the values in the range [1,3) [101]. Figure 2, complementary to Table I, displays the constraints in the form of one-dimensional marginalized posterior distribu-tions as well as two-dimensional marginalized distributions (the inner and external contours are for 68% and 95% CLs, respectively).
+We start by noticing that, as is the case for both the ΛCDM and oΛCDM models as well, the combined BAO SN H PLK dataset puts tight constraints on the free parameters of both the DE and oDE models, and then the constraints on the extended models (i.e., oΛCDM, DE, and oDE models) do not significantly differ from those on the ΛCDM model. Accordingly, none of the extended models suggest significant deviation in the history of the Universe up until today from the one described by the ΛCDM model, yet both the DE and oDE models predict futures completely different than the de Sitter future of the ΛCDM and oΛCDM models. We find no significant improvement regarding the so-called low-redshift tensions prevailing within the ΛCDM model. Nevertheless, in case the CMB dataset is not included, i.e., the combined BAO SN H dataset is used, in the analysis, the constraints on the extended models exhibit interesting and some significant deviations from those on the ΛCDM model that deserve a closer look. In what follows, in this section, we discuss some of the interesting results and findings along with their implications.
+In the case of BAO + SN + H dataset
+The oDE model, having the lowest −2 ln Lmax value, is the one that fits best to the combined BAO SN H dataset. The Bayesian evidence on the other hand suggests that there is a significant evidence for preferring the ΛCDM model over the extended models, as for which Δ ln Z ∼ 1.5. It is striking that, when only the models including spatial curvature are compared with each other, there is no evidence to prefer the oΛCDM model, which yields Ωk0 = −0.011 0.077 consistent with spatially flat universe, over the oDE model, which yields Ωk0 =
+−0.122  0.117  suggesting  spatially  closed  universe
+with high significance. The constraints on Ωb0h2 are
+almost exactly the same for all the models, but the constraint on the Hubble constant (or h0) in the case of the DE model, H0 67.06 2.02 km s−1 Mpc−1, is smaller than the one in the case of the ΛCDM model,
+
+SIMPLE-GRADUATED DARK ENERGY AND SPATIAL …	PHYS. REV. D 104, 023505 (2021)
+
+
+
+FIG. 2.  One- and two-dimensional (68% and 95% CLs) marginalized posterior distributions for the free parameters of DE, oDE,
+ΛCDM, and oΛCDM models using the combined datasets of BAO + SN + H (left panel) and BAO + SN + H + PLK (right panel).
+
+
+H0 68.27 0.88 km s−1 Mpc−1. Namely, the combined BAO SN H dataset suggests that, contrary to our initial expectations discussed in Sec. II, the simple-gDE (3) upgrading the null inertial mass density of the usual vacuum energy to an arbitrary constant worsens the so-called H0 tension. The reason is being that the data favor ϱci   3.46  4.76 × 10−31 g cm−3  (corresponding  to
+wci0  −0.937  0.084) rather than a definitely negative
+inertial mass destiny ϱci < 0 (viz. phantom character today, i.e., wci0 < −1 and ρci0 > 0)—see the negative correlation between h0 and wci0 in Fig. 2. The inclusion of spatial curvature however lifts H0 to the values larger than those allowed within the ΛCDM model, as the data favor negative values of Ωk0—see the negative correlation between h0 and Ωk0 in both models in Fig. 2. In the case of the oDE model, the data favor spatially closed universe with high significance, viz., Ωk0  −0.122 0.117, suffi-cient to compensate for the decreasing effect of wci0
+−0.872  0.097  or  ϱci   7.65  5.72 × 10−31 g cm−3
+on  the  Hubble  constant,  and  predict  H0  68.84
+2.60 km s−1 Mpc−1. See, in Fig. 2, the negative correlation between Ωk0 and wci0, and also that the existing negative correlation between h0 and wci0 in the case of the DE model disappears with the inclusion of spatial curvature, i.e., in the case of the oDE model. See also Fig. 3 which demonstrates the interplay between H0, ϱci and Ωk0 in the light of the observational data. Notice that, when the oDE model (or the oΛCDM model predicting H0 68.62 2.68 km s−1 Mpc−1) is compared to the ΛCDM and DE models, it is the increased error along with the slightly enhanced mean value of the constraint on
+H0 that reconciles the oDE model (or the oΛCDM model) with the model independent measurements of the Hubble constant, for instance, with the distance ladder measure-ments, e.g., H0 69.8 0.8 km s−1 Mpc−1 from a recent calibration of the tip of the red giant branch (TRGB) applied to Type Ia supernovae [62]. Thus, neither the oΛCDM model nor the oDE model can robustly address the so-called H0 problem. Similarly, the oDE model, as well as the DE model, better agrees with the Ly-α data from z ≈ 2.34 due to the widening in the 1D marginalized posterior distribution of H0, not due to a non-monotonic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 3. Two-dimensional (68% and 95% CLs) marginalized distributions of H0 with respect to ϱci of the DE and of the oDE models for the combined BAO + SN + H (without PLK) and BAO + SN + H + PLK (with PLK) datasets.
+
+ACQUAVIVA, AKARSU, KATıRCı, and VAZQUEZ	PHYS. REV. D 104, 023505 (2021)
+
+
+
+
+FIG. 4. H z / 1 z vs z for DE (left), oDE (middle) models using the combined BAO SN H datasets and for oDE model (right) using BAO SN H PLK dataset, in which we consider the observational H z values, H0  69.8 0.8 km s−1 Mpc−1 from the TRGB H0 [62], BAO Galaxy consensus, and Ly-α DR14 (red error bars) [69,95].
+
+
+evolution of H z at about z ∼ 1 as a result of a ρkci assuming negative density values in the past. See Fig. 4, wherein we present the probability distribution of the H z / 1	z vs z in the case of the combined BAO SN	H dataset for the DE (left) and oDE (middle) models and include the TRGB H0 and BAO data points for comparison (solid lines represent 1σ and 2σ accordingly and darker implies more probable as shown in the color bar).
+We observe that the reason H0 takes larger values is that, as we go from today (z  0) to the past, the energy density of the effective source ρkci (8) can cross below zero in the recent past, at a redshift zkci > 0.92 for the oDE model and zkci > 1.26 for the oΛCDM model. In both models, this happens because of the closed space (Ωk0 < 0), whereas the simple-gDE opposes it—notice that the energy density of the simple-gDE never crosses below zero in the past, but in the far future (zci < −0.78). In the DE model, in which H0 takes the smallest values among all the models, the simple-gDE cannot cross below zero in the recent past, but either in the far future (zci* < −0.96) or remote past
+curvature, as it is Δ ln Z ∼ 2 for both the oΛCDM and oDE models, and suggests there is no evidence to prefer the oΛCDM model over the DE model, as it is Δ ln Z
+−0.17 0.36 for the DE model. The inclusion of the Planck CMB data in the analysis does not considerably change the constraints on the parameters of the oΛCDM model, though Ωk0 now favors slightly positive values, but still remains consistent with spatially flat universe, viz., Ωk0  0.0012  0.0018. Nevertheless, the constraints on all the common parameters of the ΛCDM and oΛCDM
+
+(zci*
+≳ 107). The interplay between Ωk0
+, h0
+(or H0), and
+
+zkci , in the light of observational data, is well demonstrated in Fig. 5: The larger negative values of Ωk0, the lower the value of z (viz., zkci for the oDE model and zkcc for the oΛCDM model) accompanying by larger (more red) values of h0 (or H0). The Hubble constant achieves its largest
+values within 68% CL, H0 ∼ 72 km s−1 Mpc−1, if z ∼ 1
+(the smallest z value allowed within 68% CL). On* the
+
+other hand, for* large z
+*
+values, the H0
+values predicted
+
+within the oΛCDM and oDE models approach those predicted within the ΛCDM and DE models, respectively.
+
+
+In the case of BAO + SN + H + PLK dataset The DE and oDE models fit to the combined BAO
+SN H PLK equally well (having the same −2 ln Lmax value), and both fit better than the ΛCDM and oΛCDM models. The Bayesian evidence, on the other hand, presents significant evidence against the models including spatial
+
+
+
+FIG. 5. Two-dimensional (68% and 95% CLs) marginalized distributions of the h0, Ωk0 with respect to zkci* of oDE model and to zkcc* of oΛCDM for the combined BAO + SN + H dataset.
+
+SIMPLE-GRADUATED DARK ENERGY AND SPATIAL …	PHYS. REV. D 104, 023505 (2021)
+
+
+
+models now become almost the same. On the other hand, the inclusion of the Planck CMB data in the analysis considerably changes the constraints on the parameters of the oDE model—in particular, on the parameters Ωk0 and wci0—and brings, by predicting Ωk0  −0.0001 0.0019, the oDE model almost indistinguishably close to the DE model. It is remarkable that the oDE model now prefers spatial flatness with a precision higher than the oΛCDM model does; in spite of that, when the Planck CMB data were not included in our analyses, the oΛCDM model was consistent with spatial flatness, but the oDE model was not. This resurrection of the spatial flatness is accom-panied by the fact that the simple-gDE now resembles the usual vacuum energy, namely, it still yields positive inertial mass density, but now closer to zero, ϱci
+2.85 2.58 × 10  g cm . This constraint now is almost the same as the one in the case of the DE model, ϱci  3.06 2.28 × 10−31 g cm−3, whereas it was allowed to take negative values when the Planck CMB
+data were not included in our analysis; see Fig. 3. These slightly positive inertial mass density values correspond to the present-day EoS parameters of the simple-gDE wci0
+−0.948  0.041 for the DE model and wci0  −0.951
+0.045 for the oDE model and then result in slightly smaller H0 values, H0  67.72  0.97 km s−1 Mpc−1 for the DE model and H0  67.73  0.99 km s−1 Mpc−1 for the oDE model, compared to the standard ΛCDM value H0 68.29 0.52 km s−1 Mpc−1—see the negative cor-relation between h0 and wci0 in Fig. 2 as well as the negative correlation between H0 and ϱci in Fig. 3. In contrast to the results without the Planck CMB data, the deficit in H0 in the case of the oDE model cannot be compensated by the
+spatial closedness of the universe, as with the inclusion of the Planck data the present universe is spatially flat with an
+measurements—except that it slightly aggravates the so-called H0 tension prevailing within the standard ΛCDM model; see the right panel in Fig. 4. Yet, the constraints on the model considering simple-gDE instead of the Λ suggest totally different futures for the universe in comparison to the standard ΛCDM model. As we discussed in Sec. II, the future will be drastically different depending on the sign of ϱci: a bouncing (H  0) universe in the finite future if ϱci > 0 and a forever expanding universe for ϱci ≤ 0 with the infinite future limit of the de Sitter Universe for ϱci 0 and of the LSBR for ϱci < 0. In the next section, in light of the observational analyses presented here, we will discuss in detail the complete history of the Universe predicted by these four models under consideration in this paper.
+
+DYNAMICAL ANALYSIS
+To analyze the asymptotic behavior of the models under consideration, we resort to the well-known methods of dynamical systems. In the case of homogeneous cosmol-ogies such as the one analyzed here, one usually starts by defining a set of dimensionless variables, e.g., the density parameters introduced above, and then proceeds to study their evolution in the parameter space by transforming Einstein and conservation equations in terms of the new variables. The fixed (or critical) points of such a system represent classes of solutions that can be interpreted as cosmological phases with a specific matter component dominating. In the present context, such a method allows us to determine under which conditions the scenarios envi-sioned by the DE and oDE models can be considered as future phases of our Universe (i.e., future attractors of the dynamical system). This will be done by implementing the constraints on the free parameters from both the combined
+
+accuracy of 0.2%. The data predict z and
+kcc*
+~ 10 (oΛCDM)
+datasets of BAO	SN	H and BAO	SN	H	PLK
+presented in Table I.
+
+zkci ∼ 7 (oDE) for the lower limit of the redshift at
+which the energy density of the effective source crosses below zero in the oΛCDM and oDE models. And, even these lower limits remain too large for the energy density crossing below zero to be efficient in enhancing the constraints on H0 in the oΛCDM and oDE models.
+Finally, one may see Fig. 3 for a very good summary of the observational constraints on the two minimal extensions of the standard ΛCDM model—(i) the spatial curvature (Ωk0) and (ii) simple-gDE promoting the null inertial mass
+Cosmologies with spatial curvature or simple-gDE
+different from the ΛCDM model can present recollapsing as well as bouncing scenarios: in such cases, the usual expansion-normalized variables are ill defined due to the vanishing of the expansion H at the turning points of the scale factor. With the aim of capturing also these cases in a global stability analysis, we construct properly the dimen-sionless autonomous system and define the following dimensionless variables,
+
+density of the usual vacuum energy to an arbitrary constant
+ ρm 
+ ρr 
+ ρci0 	H
+
+ϱci—and their influence on the Hubble constant H0. The combined BAO SN H PLK dataset presents evi-dence at equal strength for the usual vacuum energy (null inertial mass density) and the simple-gDE with a constant inertial mass density very close to zero, viz., at the order of O 10−12 eV4. This latter possibility predicts almost
+exactly the same history of the universe up until today
+Xm = 3D2 ;	Xr = 3D2 ;	Xci = 3D2 ;	XH = D ;
+(13)
+where the normalization D and its evolution are governed by
+
+as the standard ΛCDM model—so that it does not
+/
+2	2	|k|
+ D_ 
+  H_	2
+/
+
+ACQUAVIVA, AKARSU, KATıRCı, and VAZQUEZ	PHYS. REV. D 104, 023505 (2021)
+
+
+
+By inspecting the dimensionless variables above, we see that Xm and Xr are positive definite. The sign of Xci depends on the sign of ρci0, which has already been supposed to be positive. Finally, XH is defined in the interval −1; 1 , and its sign depends on the sign of the Hubble parameter H; it is positive for expanding models and negative for collapsing ones. The boundary values 1 and −1 of this variable correspond to spatially flat expanding and collapsing models, respectively. The nor-
+critical points of the system for the cases k ≤ 0 (Ωk0 ≥ 0) and k > 0 (Ωk0 < 0) separately.
+
+Nonpositive spatial curvature k ≤ 0 (Ωk0 ≥ 0) For nonpositive spatial curvature (flat/open space),
+Friedmann and Raychaudhuri equations in terms of
+the dimensionless variables take the following forms, respectively:
+
+malization D has been introduced in Ref. [102] as a means to compactify the parameter space of spatially homo-geneous cosmologies and include bouncing/recollapsing
+scenarios in the analysis, as is well defined throughout
+2X2
+H
+
+H_	1
+– 1 = Xm + Xr + [1 − 3(1 + wci0
+
+2	1	3
+) ln a]Xci
+;	(21)
+
+the whole cosmological evolution including possible turn-ing points of the scale factor (see also Ref. [103] for a comprehensive review of this and other methods to treat
+D2 = 2 − 2XH − 2 Xr − 2 [wci0 + 3(1 + wci0) ln a]Xci.
+
+(22)
+
+noncompact dynamical systems). To decouple the dynam-ics of D from the dynamics of the other variables, we define the new time parameter dτ = Ddt and take derivatives of
+By substituting ln a from the Friedmann equation into the Raychaudhuri equation, we obtain
+
+the definitions given in (13) with respect to τ:
+H_	2	3	3
+
+'	 H_	2	1 
+D2 = −1 + XH − 2 Xm − 2Xr − 2 (1 + wci0)Xci.	(23)
+
+Xm = −2XmXH  D2 + XH + 2
+'	 H_	2
+;	(15)
+This expression closes the autonomous system in the case
+of negative spatial curvature. The effective EoS and deceleration parameters are given by
+
+Xr = −2Xr XH  D2 + XH + 1
+  H_
+
+/
+
+;	(16)
+
+ 
+
+
+weff
+1	3Xm + 4Xr + 3(1 + wci0)Xci	24
+3(1 − 2X2 )
+
+'	2  H_	2 
+/
+
+ 	m 		r 	wci0 Xci	2 2X2
+H
+
+
+
+The fixed points of such a system describe specific asymptotic cosmological solutions, whose stability in general depends on the free parameters involved. The cosmological interpretation of the critical points is expressed in terms of the effective EoS parameter (weff ≡ peff /ρeff )
+Positive spatial curvature k > 0 (Ωk0 < 0)
+For positive spatial curvature (closed space), Friedmann and Rauchaudhuri equations are
+
+1 = Xm + Xr + Xci[1 − 3(1 + wci0) ln a];	(26)
+
+H_	1	2	1	3
+
+weff =
+1 Xr + Xci[wci0 + 3(1 + wci0) ln a]
+Xm + Xr + Xci[1 − 3(1 + wci0) ln a]
+(19)
+D2 = − 2 − XH − 2 Xr − 2 [wci0 + 3(1 + wci0) ln a]Xci.
+(27)
+
+and deceleration parameter
+q = −1 −
+1 H_
+2
+2 .	(20)
+Following the same procedure as before, we substitute ln a from the Friedmann equation into the Raychaudhuri equation to obtain
+
+XH D
+H_	2	3	3
+
+The H_ and ln a terms in all the previous equations will be provided by Raychaudhuri and Friedmann equations, and they will have different forms in terms of the dimensionless variables depending on the sign of the spatial curvature (viz., k); hence, we are going to present the analysis of the
+D2 = 1 − XH − 2 Xm − 2Xr − 2 (1 + wci0)Xci;	(28)
+giving the closure of the autonomous system for positive spatial curvature. The cosmological parameters in this case can be calculated through the following expressions:
+
+SIMPLE-GRADUATED DARK ENERGY AND SPATIAL …	PHYS. REV. D 104, 023505 (2021)
+
+
+TABLE II.  Coordinates, eigenvalues, and stability of the critical points (CPs) of the system, assuming Xci > 0.
+
+
+
+
+{4; 3; 2; 0}	nSource wci0<−1
+
+
+B−	{−3; −3; −1; 1}	Saddle
+C+	0	1	0	1	{4; 4; 2; 1}	Source
+C−	0	1	0	−1	{−4; −4; −2; −1}	Sink
+
+D	0	0	0	1/,2
+D−	0	0	0	−1/,ﬃ2ﬃﬃ
+
+/
+−,2; ,2; ,2; 1/,2	Saddle
+{−,ﬃ2ﬃﬃ; −,ﬃ2ﬃﬃ; ,ﬃ2ﬃﬃ; −1/,ﬃ2ﬃﬃ}	Saddle
+
+/
+/	/
+
+qﬃ2ﬃﬃXﬃﬃﬃﬃﬃﬃ−ﬃﬃﬃﬃﬃ9ﬃﬃ(ﬃﬃ1ﬃﬃﬃ+ﬃﬃﬃﬃﬃwﬃﬃﬃﬃﬃﬃﬃﬃ)ﬃﬃXﬃﬃﬃﬃﬃﬃﬃ−ﬃﬃﬃﬃ1ﬃﬃ 
+
+k > 0	F	1 (2 − 4Xr − 3(1 + wci0)Xci)	∀	∀	0	 0; 0; −qﬃ2ﬃﬃXﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ9ﬃﬃﬃﬃﬃ1ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ−ﬃﬃﬃﬃﬃ1ﬃﬃ;
+/
+Center
+
+r	2 ( + wci0) ci
+qﬃ2ﬃﬃXﬃﬃﬃrﬃﬃﬃ−ﬃﬃﬃﬃ9ﬃﬃﬃ(ﬃﬃ1ﬃﬃﬃ+ﬃﬃﬃﬃﬃwﬃﬃﬃcﬃiﬃ0ﬃﬃ)ﬃﬃXﬃﬃﬃcﬃﬃiﬃﬃ+ﬃﬃﬃﬃﬃ1ﬃﬃ 
+
+/
+
+
+
+
+weff
+= −1 + Xm
+4
++ 3 Xr
++ (1 + w
+
+
+ci0
+
+)Xci
+;	(29)
+a past source if wci0 < −1 and an unstable saddle if wci0 > −1.
+
+3X  + 4X + 3(1 + w  )X  − 2
+(ii) Points B : They are spatially flat dust-dominated
+
+q =	m
+r
+2X2
+H
+ci0	ci
+.	(30)
+solutions, with weff	0 and q	1/2. Such points are always unstable saddles.
+Points C : They are spatially flat radiation-dominated models with weff = 1/3 and q = 1.
+
+Critical points
+The critical points of the system are found by solving
+X'	0 given by (15)–(18), together with (23) for k ≤ 0 or
+(28) for k > 0. The coordinates of the critical elements in the parameter space are listed in Table II together with the eigenvalues of their stability matrix and their stability character, for the case Xci > 0. We note that the dynamical system is invariant under the simultaneous change of sign {(1 + wci0) → −(1 + wci0); Xci → −Xci},
+The expanding solution C is a past source, while the contracting C− is a future attractor.
+Points D : These points represent the Milne Uni-verse with scale factor a ∼ t. They exist only in the case of negative spatial curvature (open space), and they are unstable saddles.
+Set E: The set of points E is a static model (XH  0) that can be sourced by different combinations of parameters satisfying the relation
+
+because these quantities appear always in the combination	2	4
+
+1  wci0 Xci. Consequently, if one is interested in analyz-ing the case wci0 < −1 with positive dark energy density, the results will be the same as in the case wci0 > −1 with negative dark energy density.
+There can be up to ten critical points in the phase space. In what follows, we go through each critical point discus-sing its mathematical and physical features:
+Xm = − 3 − 3 Xr − (1 + wci0)Xci.	(31)
+Such a model has effective EoS parameter weff −1/3. Plugging the coordinates of the point back into Friedmann (21), one can obtain the scale factor of the static universe:
+
+Points A : They describe exponentially expanding (A+) or collapsing (A−) spatially flat models, with weff = −1 and q = −1. A vanishing eigenvalue
+exp	1
+3(1 + wci0)
+1 − Xm − Xr
++ 2 + 3Xm + 4Xr
+ .	(32)
+
+signals that the system is indifferently unstable along the XH eigendirection. A numerical study tells us that the stability along the eigendirection depends on wci0: assuming Xci > 0, the expanding model is a future attractor if wci0 < −1, while it is an unstable saddle if wci0 > −1; the collapsing model instead is
+From (31), assuming the physically reasonable requirements that Xm ≥ 0 and Xr ≥ 0, together with the assumption Xci > 0, then we must have wci0 < −1 (or Xci < 0 and wci0 > −1). For instance, in the case of purely simple-gDE-dominated uni-verse (Xm = Xr = 0), in order to keep the model
+
+ACQUAVIVA, AKARSU, KATıRCı, and VAZQUEZ	PHYS. REV. D 104, 023505 (2021)
+
+static solutions. The effective EoS parameter of the model is weff −1/3, while the scale factor of the static universe, obtained from (26), is given by
+
+
+exp	1
+3(1 + wci0)
+1 − Xm − Xr
+2 − 3Xm − 4Xr
+ .	(33)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIG. 6. Example of trajectory circling around the critical line F in the invariant subset Xr  0. Initial conditions are not related to observations and are chosen in such a way to show the existence of cyclic dynamics in the oDE model.
+
+static, one needs Xci = − 	2	. Owing to the
+
+If we consider only simple-gDE as a source of the static universe, one has to have Xci =   2  and
+hence wci0 > −1 if Xci > 0. Under the same assumption of positive dark energy density, the set behaves as a center. In Fig. 6, we show the presence of periodic orbits evolving around the critical line F for Xr 0. These represent cyclic cosmological dynamics, periodically passing through phases of expansion and contraction with-out any past or future singularity.
+As already stated above, the stability of the de Sitter points A  depends on whether wci0 is less or greater than
+−1. The same holds true for the existence of E and F: assuming Xci > 0, the former exists only for wci0 < −1, while the latter exists for wci0 > −1. Finally, the locations of E and F in the parameter space depend on the specific value of wci0.
+In Fig. 7, we show the trajectories of the system inside the invariant subsets (Xci; XH) and (Xci; Xm) for the case
+
+presence of wci0, the solution corresponding to this critical point does not exist in the case of the usual vacuum energy (wci0 → −1), where a static universe is possible only for positive spatial curvature (closed space). According to the ranges of values specified after (32), the set is unstable.
+Set F: The only set of critical points of the system for positive spatial curvature (closed space) represents
+wci0 > −1: the corresponding case wci0 < −1 can be obtained by simply mirroring the plots through Xci 0. Moreover, the value wci0  −1/2 that we choose in order to plot the two-dimensional invariant subsets is only a representative value that allows a better visualization, but it is worth stressing that the topology of the trajectories and the stability character of the critical points do not change as long as wci0 does not cross the value −1.
+
+
+/
+
+FIG. 7. Invariant subset dominated by dark energy and spatial curvature (left and middle panels) and by matter and dark energy in the expanding case (XH  1, right panel), with wci0  −0.5 and Xr  0. Critical points are indicated with black dots and the green shaded areas indicate accelerated phases of the dynamics (q < 0).
+
+SIMPLE-GRADUATED DARK ENERGY AND SPATIAL …	PHYS. REV. D 104, 023505 (2021)
+
+
+Critical points at infinity
+The parameter space spanned by our dimensionless variables Xi is not compact, and hence some trajectories
+H = rﬃρﬃﬃcﬃiﬃ0ﬃﬃ − (1 + wci0)ρci0 (t − t );	(38)
+
+can escape to infinity. For instance, solutions in the right-
+H_ = − (1 + wci0) ρ	=	1
+(39)
+
+most panel of Fig. 7, emerging from the source B	and
+2	ci0
+2 ϱci.
+
+passing close to the unstable point A	in the uppe+r half
+
+plane (Xci > 0) will evolve toward X +→ ∞. This should
+represent phases of the cosmic evolution in which the dark
+In the spatially flat expanding case and considering a dark-energy-dominated phase, the system reduces to
+
+energy contribution dominates over the other components, and hence it is important to understand the behavior of the
+X'ci
+= 3(1 + wci0
+)Xci.	(40)
+
+system at infinity. We consider the spatially flat expanding case, XH = 1, and we compactify the parameter space by
+Hence, for wci0 > −1 (ϱci > 0), the point at infinity is a future attractor bouncing scenario, while for w	< −1
+
+defining the new variables Yi as
+X  = Ym ;	X = Yr ;	X  =
+
+Yci ;	(34)
+ci0
+(ϱci < 0), it is a past attractor LSBR model. In the next
+section, we will show numerically that, although the presence of curvature renders such point at infinity an unstable saddle, the dynamics for wci0 > −1 (ϱci > 0) still
+
+with Y2 Y2 Y2 Z2 1. The system at infinity corresponds to the unit sphere in the limit Z → 0, where the original variables blow up. We recast the system of equations (15)–(17) in terms of the variables (34), imple-
+ment the constraint Y2 + Y2 + Y2 + Z2 = 1 in order to get
+leads to a recollapsing scenario.
+
+Dynamics constrained by observations
+At this point, we are ready to implement into the dynamical system the values of the cosmological param-
+
+rid of
+m	r	ci
+eters offered by the datasets in Table I in order to identify
+
+Yci, and take the limit Z → 0; the resulting reduced system at infinity is
+
+Y'm = Ym(3Y2 + 4Y2 − 3);
+the trajectories and late-time attractors of the system under observational constraints. As the initial conditions for the evolution of our dynamical system, we consider the mean
+
+Y'r = Yr(3Y2 + 4Y2 − 4).	(35)
+by relating the fractional densities to the X  variables
+
+m	r	i
+according to the following:
+
+By solving the system Y'm	Y'r	0, we find the following critical points:
+{Ym = 1; Yr = 0; Yci = 0}
+{Ym = 0; Yr = 1; Yci = 0}
+Xm	 Xr 
+m	2 ;	r	2 ;
+H	H
+8	/	/
+X
+ci =	2 ;	(41)
+/
+
+
+{Ym = 0; Yr = 0; Yci = 1}.
+– 1 1 − 1 )	for k ≤ 0;
+
+dominates over the other variables. In terms of the old variables, this means that Xci dominates over Xm and Xr,
+/
+: 3 (
+X2 )	for
+
+and hence the Friedmann equation takes the form
+
+1 = Xci[1 − 3(1 + wci0) ln a]
+ρci0 a2
+The current state of the Universe being in an expanding phase, we choose XH > 0 at present day. As a conse-quence, we can expect the trajectory to be in the basin of past attraction of the radiation-dominated point C+;
+
+= 3 a_ 2 [1 − 3(1 + wci0) ln a].	(36)
+Solving this equation for a(t) with initial condition a(t0)= 1, one gets
+the trajectory emerges from there and passes close to the matter-dominated saddle B , the second epoch of the cosmological evolution.
+Assuming ρci0 > 0, we see that (i) for wci0 > −1 (ϱci > 0) the recollapsing scenario takes place irrespective
+
+ rﬃρﬃﬃﬃﬃﬃﬃ	ρ
+/	/	/	/
+
+of spatial curvature and (ii) for wci0 < −1 (ϱci < 0) the
+/	/	/
+
+
+For wci0 > −1, this model describes a bounce, with maximum scale factor   e−  1   ; for	−1, it describes the LSBR, which is an abrupt event first proposed in Ref. [72], for which the Hubble parameter diverges, whereas its time derivative remains finite:
+In Figs. 8 and 9, we plot the trajectories corresponding to the cosmological parameters constrained, respectively, by the combined datasets of BAO  SN  H and BAO SN H PLK, given in Table I. The first two panels of these figures show the cosmic evolution for wci0 = −1, for the ΛCDM and oΛCDM models; the
+
+ACQUAVIVA, AKARSU, KATıRCı, and VAZQUEZ	PHYS. REV. D 104, 023505 (2021)
+
+
+FIG. 8.  Trajectories corresponding to the ΛCDM, oΛCDM, DE, and oDE models, for values of the parameter wci0 in the allowed range according to the combined BAO + SN + H dataset given in Table I.
+
+FIG. 9.  Trajectories corresponding to the ΛCDM, oΛCDM, DE, and oDE models, for values of the parameter wci0 in the allowed range according to the combined BAO + SN + H + PLK dataset given in Table I.
+
+
+asymptotic future behavior is the usual cosmological constant-dominated phase with Xci 1. In the remaining panels of the same figures, we plot the trajectories for the DE model and oDE model, highlighting three trajectories corresponding to the mean value of wci0 and its upper and lower values in the error bar region. From the values provided by Table I, it is clear that both datasets (with or without Planck CMB data) favor wci0 > −1 (ϱci > 0), and hence the recollapsing model is a generic future behavior; in the DE model, it appears as a future attractor at infinity, while when spatial curvature is allowed in the oDE model the recollapse takes place due to the change in sign of XH. For wci0 < −1 (ϱci < 0) (not favored, but is still a pos-sibility, by the observational data), on the other hand, the de Sitter point A is a future attractor; the DE model constrained without Planck CMB data is the only one that allows such a scenario within 1σ confidence region (see the third panel of Fig. 8).
+
+CONCLUSIONS
+In this paper, we first discussed briefly the possibility that dark energy models with negative energy density
+values in the past can alleviate the H0 tension, as well as the discrepancy with the Ly-α BAO measurements, both of which prevail within the standard ΛCDM model. We have then investigated in detail whether two minimal extensions of the ΛCDM model, together or separately, can successfully realize such a scenario: (i) the spatial curvature, which, in the case of spatially closed universe, mimics a negative energy density source with an EoS parameter w −1/3 and (ii) simple-graduated dark energy, which promotes the null inertial mass density of the usual vacuum energy to an arbitrary constant as ϱ const (i.e., the minimal deviation from null value), which, if negative, results in the corresponding energy density decreasing with increasing redshift similar to the phantom models, but unlike them crossing below zero at a certain redshift—see the graduated dark energy model [46] for the minimal dynamical deviation from the null inertial mass density. We have found that, when the Planck CMB data are not included in the observational analysis using the combined BAO+SN+H dataset, the models with simple-gDE predict interesting and some significant devi-ations from the ΛCDM model. In particular, this dataset predicts Ωk0 and ϱci that oppose each other in enhancing
+
+SIMPLE-GRADUATED DARK ENERGY AND SPATIAL …	PHYS. REV. D 104, 023505 (2021)
+
+
+
+H0, namely, predicts a spatially closed universe of Ωk0
+−0.122 0.117 along with a simple-gDE of a positive inertial mass density ϱci  7.65 5.72 × 10−31 g cm−3, which results in H0  68.84  2.60km s−1Mpc−1 imply-ing no robust improvement in the H0 tension—notice the increased errors of this value with respect to the ones, H0  68.27  0.88km s−1Mpc−1,  in  the  case  of  the
+ΛCDM model. Besides, the Bayesian evidence suggests that there is a significant evidence for preferring the ΛCDM model over the extended models. The combined BAO SN	H	PLK dataset, including the Planck CMB data, presents significant evidence against the oΛCDM and oDE models, i.e., a deviation from spatial flatness in both models considering the Λ and the simple-gDE as the dark energy sources, but presents almost the same evidence for the ΛCDM model and the DE model (simple-gDE) with a positive inertial mass density at the order of O 10−12 eV4,
+namely, ϱci	3.06	2.28 × 10−31 g cm−3. It is striking
+that this constraint implies statistically a significant
+deviation from the usual vacuum energy (ϱ 0), but, alas, with a sign opposite to our original expectation that would help alleviate the H0 tension. This, however, predicts almost no deviation from the ΛCDM model up until today—so that it does not result in any improvement regarding the Ly-α BAO measurements—except that it predicts slightly lower constraint H0
+67.73 0.99 km s−1 Mpc−1 on the Hubble constant compared to one H0  68.29 0.52 kms−1 Mpc−1 obtained for the ΛCDM model and thereby aggravates the H0 tension. We have also studied via dynamical analysis the complete history of the Universe in the models, in
+particular, as the simple-gDE results in two distinct futures depending on the sign of the inertial mass density different than the de Sitter future of the ΛCDM model. It turns out that the recollapse of the Universe in the finite future is a generic behavior of the simple-gDE models, as ϱ > 0 within 68% CL independent of whether the Planck data are included or not in the observational analyses—with the exception of the spa-tially flat simple-gDE case (DE) constrained without Planck CMB data, which allows a small incursion of ϱ into the negative value region. Finally, it is surprising to observe, via simple-gDE—which promotes phenomenologically the null inertial mass density of the usual vacuum energy of QFT to an arbitrary constant—that the data favor a positive constant inertial mass density (ϱ const > 0), rather than a constant positive energy density (Λ > 0), as one of the constants of nature subject to measurements. Therefore, we find it tempting to investigate whether such a generalization of the usual vacuum energy can be derived/predicted from a fundamental theory of physics.
+
+ACKNOWLEDGMENTS
+This work is dedicated to the memory of Professor John David Barrow. Ö. A. acknowledges the support by the Turkish Academy of Sciences in scheme of the Outstanding Young Scientist Award (TÜBA-GEBİP). N. K. acknowl-edges the COST Action CA15117 (CANTATA). J. A. V. acknowledges the support provided by FOSEC SEP-CONACYT Investigación Básica A1-S-21925, FORDECYT-PRONACES-CONACYT/304001/2020, and UNAM-DGAPA-PAPIIT IA104221.
+
+
+
+
+/
+
+
+
+E. Di Valentino, L. A. Anchordoqui, Ö. Akarsu, Y. Ali-Haimoud, L. Amendola et

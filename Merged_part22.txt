@@ -1,0 +1,2296 @@
+production of CFT states from two Higgs can be simply obtained through the optical theorem. In the massless limit σtot = ImMforward/s, where
+ 4 
+iMforward = −	⟨O(p)O(−p)⟩′ .	(A.3)
+
+
+By taking the imaginary part one finds
+4aO
+
+Γ(d + 1/2)
+
+
+sd−3
+
+σHH→CFT = π3/2 Γ(d − 1)Γ(2d) Λ2d−4 .	(A.4)
+
+With this we can compute the collisional term in the Boltzmann equation, which can be cast into the following form [11]
+
+C(t, p)
+
+
+e−p/T	∫	∫ ∞
+
+/
+/	/
+
+2 −p /T
+
+/
+
+e−p/T ∫
+
+/
+/
+
+
+−s/(4pT )
+
+Inserting (A.4), we obtain the expression
+CHH→CFT
+
+
+
+p
+pd−3e T	Td
+
+E	= aO 2π3Γ(d) Λ2d−4 .	(A.6)
+This can be used to determine both the thermally averaged cross-section and to find a solution for the phase space distribution by direct integration of the Boltzmann equation. We can compute the thermally averaged cross-section as
+2	∫	d3p CSM+SM→CFT	aO	T 2d
+/	/
+/	/
+where neq = giT 3/π2 in agreement with [86]. This relation then allow us to compute the thermally averaged cross section as in eq. (3.5) in section 3. From eq. (A.6) we then derive the phase space distribution as a function of momenta and temperature, assuming that production takes place during radiation domination,
+
+
+∫ TR
+dT ′
+C T ′,
+p T ′
+T
+aO	3√5/2	
+T 2d−5 !
+
+MPl T 2d−5 pd−3
+
+−p/T
+
+f (T, p) =
+T
+T ′H (T ′)	p
+=
+π4  (2d−5) Γ(d)
+  1	T 2d−5
+R	e
+ΛUV Λ2d−5 T d−3
+.
+(A.8)
+
+From this we can finally compute the number and energy densities
+
+
+n (T ) = aO
+3√5/2
+
+√  T
+
+3  1 −
+
+T 2d−5	M	T 2d−5
+R	 ,	ρ (T ) = d Tn(T ) .	(A.9)
+
+2π6 (2d − 5)	g∗
+T 2d−5
+ΛUV Λ2d−5
+
+Corrections from quantum statistics. In the previous discussion we neglected quan-tum statistic for the SM bath. While this is completely negligible in the non-relativistic regime it can give a correction in the massless limit. To take this into account the space-time density of interaction in the massless limit can be written as [86],
+
+∫  d3p1
+d3p2
+  sσ	
+
+
+Where feq(x) = (exp[x] ∓ 1)−1 for Bose/Fermi statistics. Using,
+d3p1d3p2 = 2π2E1E2dE+dE−ds ,	E± = E1 ± E2 ,
+|E−| ≤ qE2 − s ,	E+ ≥ √s ,	s ≥ 0 .	(A.11)
+
+
+we find,
+aD
+
+
+25−2∆
+
+
+T 2d
+
+∫ ∞	d−2 ∫ ∞
+
+
+∫ x+
+
+2γ = Id 16π4 Γ[d]Γ[d − 1] Λ2d−4 ,	Id =
+dy y
+dx+
+y	0
+dx−feq(x1)feq(x2)
+(A.12)
+
+Numerically we find,
+
+
+	I3
+	I4
+	I5
+	I6
+	
+	Bose
+	92
+	1799
+	79273
+	6100000
+	
+	Fermi
+	52
+	1377
+	69674
+	5700000
+	
+	Maxwell
+	64
+	1536
+	73728
+	5800000
+	
+	For gravitational production the relative value is the same as d = 4 corresponding to an O(10%) difference.
+Inflaton scattering
+Let us consider gravitational production of the dark sector from inflaton collisions. As usual the inclusive cross-section is proportional to the imaginary part of the forward amplitude of φφ → φφ. Using the tree level graviton propagator
+i	1
+⟨hµν (p)hρσ(−p)⟩ = Pµνρσ p2 + iǫ ,	Pµνρσ = 2 (ηµρηνσ + ηµσηνρ − ηµν ηρσ) , (A.13)
+one finds,
+iM =   1   Tφ Pµνρσ⟨T  (p)T	(−p)⟩PγταβTφ  .	(A.14)
+The two point function of the energy momentum tensor of a CFT is fixed up to an overall normalization. One finds [44],
+⟨T	(p) T	(−p)⟩ =	(2π	π	− 3π  π	− 3π	π ) log −p2  ,	(A.15)
+	c	
+where πµν = ηµν p2 − pµpν and c is the central charge of the CFT. Since the inflaton is non-relativistic pµ = (2m, 0, 0, 0) the cross-section vanishes identically since πµν = 0. This agrees with perturbative computations where the cross-section is controlled by the explicit breaking of Weyl invariance.
+Open Access. This article is distributed under the terms of the Creative Commons Attribution License (CC-BY 4.0), which permits any use, distribution and reproduction in any medium, provided the original author(s) and source are credited.
+
+References
+Particle Data Group collaboration, Review of Particle Physics, PTEP 2020 (2020) 083C01 [INSPIRE].
+WMAP collaboration, Nine-Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Cosmological Parameter Results, Astrophys. J. Suppl. 208 (2013) 19 [arXiv:1212.5226] [INSPIRE].
+M. Garny, M. Sandora and M.S. Sloth, Planckian Interacting Massive Particles as Dark Matter, Phys. Rev. Lett. 116 (2016) 101302 [arXiv:1511.03278] [INSPIRE].
+E. Babichev, L. Marzola, M. Raidal, A. Schmidt-May, F. Urban, H. Veermäe et al., Bigravitational origin of dark matter, Phys. Rev. D 94 (2016) 084055 [arXiv:1604.08564] [INSPIRE].
+
+Y. Tang and Y.-L. Wu, Pure Gravitational Dark Matter, Its Mass and Signatures, Phys. Lett. B 758 (2016) 402 [arXiv:1604.04701] [INSPIRE].
+M. Garny, A. Palessandro, M. Sandora and M.S. Sloth, Theory and Phenomenology of Planckian Interacting Massive Particles as Dark Matter, JCAP 02 (2018) 027 [arXiv:1709.09688] [INSPIRE].
+M. Garny, A. Palessandro, M. Sandora and M.S. Sloth, Charged Planckian Interacting Dark Matter, JCAP 01 (2019) 021 [arXiv:1810.01428] [INSPIRE].
+Y. Ema, K. Nakayama and Y. Tang, Production of Purely Gravitational Dark Matter, JHEP
+09 (2018) 135 [arXiv:1804.07471] [INSPIRE].
+N. Bernal, M. Dutra, Y. Mambrini, K. Olive, M. Peloso and M. Pierre, Spin-2 Portal Dark Matter, Phys. Rev. D 97 (2018) 115020 [arXiv:1803.01866] [INSPIRE].
+Y. Ema, K. Nakayama and Y. Tang, Production of purely gravitational dark matter: the case of fermion and vector boson, JHEP 07 (2019) 060 [arXiv:1903.10973] [INSPIRE].
+M. Redi, A. Tesi and H. Tillim, Gravitational Production of a Conformal Dark Sector, JHEP
+05 (2021) 010 [arXiv:2011.10565] [INSPIRE].
+A. Ahmed, B. Grzadkowski and A. Socha, Gravitational production of vector dark matter, JHEP 08 (2020) 059 [arXiv:2005.01766] [INSPIRE].
+S. Nussinov, Technocosmology: Could A Technibaryon Excess Provide A ‘Natural’ Missing Mass Candidate?, Phys. Lett. B 165 (1985) 55 [INSPIRE].
+E.D. Carlson, M.E. Machacek and L.J. Hall, Self-interacting dark matter, Astrophys. J. 398
+(1992) 43 [INSPIRE].
+G.D. Kribs, T.S. Roy, J. Terning and K.M. Zurek, Quirky Composite Dark Matter, Phys. Rev. D 81 (2010) 095001 [arXiv:0909.2034] [INSPIRE].
+A. Hietanen, R. Lewis, C. Pica and F. Sannino, Composite Goldstone Dark Matter: Experimental Predictions from the Lattice, JHEP 12 (2014) 130 [arXiv:1308.4130] [INSPIRE].
+E. Hardy, R. Lasenby, J. March-Russell and S.M. West, Big Bang Synthesis of Nuclear Dark Matter, JHEP 06 (2015) 011 [arXiv:1411.3739] [INSPIRE].
+O. Antipin, M. Redi, A. Strumia and E. Vigiani, Accidental Composite Dark Matter, JHEP
+07 (2015) 039 [arXiv:1503.08749] [INSPIRE].
+T. Appelquist et al., Stealth Dark Matter: Dark scalar baryons through the Higgs portal, Phys. Rev. D 92 (2015) 075030 [arXiv:1503.04203] [INSPIRE].
+J.M. Cline, W. Huang and G.D. Moore, Challenges for models with composite states, Phys. Rev. D 94 (2016) 055029 [arXiv:1607.07865] [INSPIRE].
+S.J. Lonsdale, M. Schroor and R.R. Volkas, Asymmetric Dark Matter and the hadronic spectra of hidden QCD, Phys. Rev. D 96 (2017) 055027 [arXiv:1704.05213] [INSPIRE].
+A. Mitridate, M. Redi, J. Smirnov and A. Strumia, Dark Matter as a weakly coupled Dark Baryon, JHEP 10 (2017) 210 [arXiv:1707.05380] [INSPIRE].
+A. Carvunis, D. Guadagnoli, M. Reboud and P. Stangl, Composite Dark Matter and a horizontal symmetry, JHEP 02 (2021) 056 [arXiv:2007.11931] [INSPIRE].
+G.D. Kribs and E.T. Neil, Review of strongly-coupled composite dark matter models and lattice simulations, Int. J. Mod. Phys. A 31 (2016) 1643004 [arXiv:1604.04627] [INSPIRE].
+
+S. Bottaro, M. Costa and O. Popov, Asymmetric accidental composite dark matter, JHEP 11
+(2021) 055 [arXiv:2104.14244] [INSPIRE].
+N.A. Dondi, F. Sannino and J. Smirnov, Thermal history of composite dark matter, Phys. Rev. D 101 (2020) 103010 [arXiv:1905.08810] [INSPIRE].
+L. Morrison, S. Profumo and D.J. Robinson, Large N -ightmare Dark Matter, JCAP 05
+(2021) 058 [arXiv:2010.03586] [INSPIRE].
+Y.-D. Tsai, R. McGehee and H. Murayama, Resonant Self-Interacting Dark Matter from Dark QCD, arXiv:2008.08608 [INSPIRE].
+J.M. Cline, Z. Liu, G.D. Moore and W. Xue, Composite strongly interacting dark matter, Phys. Rev. D 90 (2014) 015023 [arXiv:1312.3325] [INSPIRE].
+K.K. Boddy, J.L. Feng, M. Kaplinghat and T.M.P. Tait, Self-Interacting Dark Matter from a Non-Abelian Hidden Sector, Phys. Rev. D 89 (2014) 115017 [arXiv:1402.3629] [INSPIRE].
+A. Soni and Y. Zhang, Hidden SU(N ) Glueball Dark Matter, Phys. Rev. D 93 (2016) 115025 [arXiv:1602.00714] [INSPIRE].
+L. Forestell, D.E. Morrissey and K. Sigurdson, Cosmological Bounds on Non-Abelian Dark Forces, Phys. Rev. D 97 (2018) 075029 [arXiv:1710.06447] [INSPIRE].
+B.S. Acharya, M. Fairbairn and E. Hardy, Glueball dark matter in non-standard cosmologies, JHEP 07 (2017) 100 [arXiv:1704.01804] [INSPIRE].
+B. Jo, H. Kim, H.D. Kim and C.S. Shin, Exploring the Universe with dark light scalars, Phys. Rev. D 103 (2021) 083528 [arXiv:2010.10880] [INSPIRE].
+C. Gross, S. Karamitsos, G. Landini and A. Strumia, Gravitational Vector Dark Matter, JHEP 03 (2021) 174 [arXiv:2012.12087] [INSPIRE].
+E. Witten, Global Aspects of Current Algebra, Nucl. Phys. B 223 (1983) 422 [INSPIRE].
+Y. Hochberg, E. Kuflik, H. Murayama, T. Volansky and J.G. Wacker, Model for Thermal Relic Dark Matter of Strongly Interacting Massive Particles, Phys. Rev. Lett. 115 (2015) 021301 [arXiv:1411.3727] [INSPIRE].
+A. Djouadi, The Anatomy of electro-weak symmetry breaking. I: The Higgs boson in the standard model, Phys. Rept. 457 (2008) 1 [hep-ph/0503172] [INSPIRE].
+A. Arvanitaki, S. Dimopoulos, S. Dubovsky, P.W. Graham, R. Harnik and S. Rajendran, Astrophysical Probes of Unification, Phys. Rev. D 79 (2009) 105022 [arXiv:0812.2075] [INSPIRE].
+R. Essig, E. Kuflik, S.D. McDermott, T. Volansky and K.M. Zurek, Constraining Light Dark Matter with Diffuse X-Ray and Gamma-Ray Observations, JHEP 11 (2013) 193 [arXiv:1309.4091] [INSPIRE].
+D.J.H. Chung, E.W. Kolb and A. Riotto, Superheavy dark matter, Phys. Rev. D 59 (1998) 023501 [hep-ph/9802238] [INSPIRE].
+L.J. Hall, K. Jedamzik, J. March-Russell and S.M. West, Freeze-In Production of FIMP Dark Matter, JHEP 03 (2010) 080 [arXiv:0911.1120] [INSPIRE].
+H. Osborn and A.C. Petkou, Implications of conformal invariance in field theories for general dimensions, Annals Phys. 231 (1994) 311 [hep-th/9307010] [INSPIRE].
+S.S. Gubser and I.R. Klebanov, Absorption by branes and Schwinger terms in the world volume theory, Phys. Lett. B 413 (1997) 41 [hep-th/9708005] [INSPIRE].
+
+Y. Mambrini and K.A. Olive, Gravitational Production of Dark Matter during Reheating, Phys. Rev. D 103 (2021) 115009 [arXiv:2102.06214] [INSPIRE].
+E.W. Kolb and A.J. Long, Completely dark photons from gravitational particle production during the inflationary era, JHEP 03 (2021) 283 [arXiv:2009.03828] [INSPIRE].
+P. Adshead, L. Pearce, M. Peloso, M.A. Roberts and L. Sorbo, Phenomenology of fermion production during axion inflation, JCAP 06 (2018) 020 [arXiv:1803.04501] [INSPIRE].
+D.J.H. Chung, L.L. Everett, H. Yoo and P. Zhou, Gravitational Fermion Production in Inflationary Cosmology, Phys. Lett. B 712 (2012) 147 [arXiv:1109.2524] [INSPIRE].
+N. Herring and D. Boyanovsky, Gravitational production of nearly thermal fermionic dark matter, Phys. Rev. D 101 (2020) 123522 [arXiv:2005.00391] [INSPIRE].
+P.B. Arnold, G.D. Moore and L.G. Yaffe, Effective kinetic theory for high temperature gauge theories, JHEP 01 (2003) 030 [hep-ph/0209353] [INSPIRE].
+A. Kurkela and E. Lu, Approach to Equilibrium in Weakly Coupled Non-Abelian Plasmas, Phys. Rev. Lett. 113 (2014) 182301 [arXiv:1405.6318] [INSPIRE].
+M. Panero, Thermodynamics of the QCD plasma and the large-N limit, Phys. Rev. Lett. 103
+(2009) 232001 [arXiv:0907.3719] [INSPIRE].
+B. Lucini and M. Panero, SU(N ) gauge theories at large N , Phys. Rept. 526 (2013) 93 [arXiv:1210.4997] [INSPIRE].
+N. Brambilla et al., QCD and Strongly Coupled Gauge Theories: Challenges and Perspectives, Eur. Phys. J. C 74 (2014) 2981 [arXiv:1404.3723] [INSPIRE].
+CP-PACS collaboration, Equation of state in finite temperature QCD with two flavors of improved Wilson quarks, Phys. Rev. D 64 (2001) 074510 [hep-lat/0103028] [INSPIRE].
+Y. Aoki, Z. Fodor, S.D. Katz and K.K. Szabo, The Equation of state in lattice QCD: With physical quark masses towards the continuum limit, JHEP 01 (2006) 089 [hep-lat/0510084] [INSPIRE].
+S. Borsányi, G. Endrodi, Z. Fodor, S.D. Katz and K.K. Szabo, Precision SU(3) lattice thermodynamics for a large temperature range, JHEP 07 (2012) 056 [arXiv:1204.6184] [INSPIRE].
+I. Garcia Garcia, R. Lasenby and J. March-Russell, Twin Higgs WIMP Dark Matter, Phys. Rev. D 92 (2015) 055034 [arXiv:1505.07109] [INSPIRE].
+K.-C. Yang, Thermodynamic Evolution of Secluded Vector Dark Matter: Conventional WIMPs and Nonconventional WIMPs, JHEP 11 (2019) 048 [arXiv:1905.09582] [INSPIRE].
+C. Mondino, M. Pospelov, J.T. Ruderman and O. Slone, Dark Higgs Dark Matter, Phys. Rev. D 103 (2021) 035027 [arXiv:2005.02397] [INSPIRE].
+M. Cirelli, Y. Gouttenoire, K. Petraki and F. Sala, Homeopathic Dark Matter, or how diluted heavy substances produce high energy cosmic rays, JCAP 02 (2019) 014 [arXiv:1811.03608] [INSPIRE].
+C. Amsler, Proton - anti-proton annihilation and meson spectroscopy with the crystal barrel, Rev. Mod. Phys. 70 (1998) 1293 [hep-ex/9708025] [INSPIRE].
+D. Pappadopulo, J.T. Ruderman and G. Trevisan, Dark matter freeze-out in a nonrelativistic sector, Phys. Rev. D 94 (2016) 035005 [arXiv:1602.04219] [INSPIRE].
+
+M. Farina, D. Pappadopulo, J.T. Ruderman and G. Trevisan, Phases of Cannibal Dark Matter, JHEP 12 (2016) 039 [arXiv:1607.03108] [INSPIRE].
+D.N. Spergel and P.J. Steinhardt, Observational evidence for selfinteracting cold dark matter, Phys. Rev. Lett. 84 (2000) 3760 [astro-ph/9909386] [INSPIRE].
+B.D. Fields, K.A. Olive, T.-H. Yeh and C. Young, Big-Bang Nucleosynthesis after Planck, JCAP 03 (2020) 010 [Erratum ibid. 11 (2020) E02] [arXiv:1912.01132] [INSPIRE].
+CMB-S4 collaboration, CMB-S4 Science Book, First Edition, arXiv:1610.02743 [INSPIRE].
+V. Iršič et al., New Constraints on the free-streaming of warm dark matter from intermediate and small scale Lyman-α forest data, Phys. Rev. D 96 (2017) 023522 [arXiv:1702.01764] [INSPIRE].
+X. Chu, B. Dasgupta and J. Kopp, Sterile neutrinos with secret interactions—lasting friendship with cosmology, JCAP 10 (2015) 011 [arXiv:1505.02795] [INSPIRE].
+D. Egana-Ugrinovic, R. Essig, D. Gift and M. LoVerde, The Cosmological Evolution of Self-interacting Dark Matter, JCAP 05 (2021) 013 [arXiv:2102.06215] [INSPIRE].
+F. D’Eramo and A. Lenoci, Lower mass bounds on FIMP dark matter produced via freeze-in, JCAP 10 (2021) 045 [arXiv:2012.01446] [INSPIRE].
+E. Witten, Cosmic Separation of Phases, Phys. Rev. D 30 (1984) 272 [INSPIRE].
+I. Garcia Garcia, R. Lasenby and J. March-Russell, Twin Higgs Asymmetric Dark Matter, Phys. Rev. Lett. 115 (2015) 121801 [arXiv:1505.07410] [INSPIRE].
+M. Breitbach, J. Kopp, E. Madge, T. Opferkuch and P. Schwaller, Dark, Cold, and Noisy: Constraining Secluded Hidden Sectors with Gravitational Waves, JCAP 07 (2019) 007 [arXiv:1811.11175] [INSPIRE].
+J. Ellis, M. Lewicki, J.M. No and V. Vaskonen, Gravitational wave energy budget in strongly supercooled phase transitions, JCAP 06 (2019) 024 [arXiv:1903.09642] [INSPIRE].
+C. Caprini et al., Science with the space-based interferometer eLISA. II: Gravitational waves from cosmological phase transitions, JCAP 04 (2016) 001 [arXiv:1512.06239] [INSPIRE].
+P.A. Rosado, Gravitational wave background from binary systems, Phys. Rev. D 84 (2011) 084004 [arXiv:1106.5795] [INSPIRE].
+A.J. Farmer and E.S. Phinney, The gravitational wave background from cosmological compact binaries, Mon. Not. Roy. Astron. Soc. 346 (2003) 1197 [astro-ph/0304393] [INSPIRE].
+A.J. Ruiter, K. Belczynski, M. Benacquista, S.L. Larson and G. Williams, The LISA Gravitational Wave Foreground: A Study of Double White Dwarfs, Astrophys. J. 717 (2010) 1006 [arXiv:0705.3272] [INSPIRE].
+D.I. Kosenko and K.A. Postnov, On the gravitational wave noise from unresolved extragalactic binaries, Astron. Astrophys. 336 (1998) 786 [astro-ph/9801032] [INSPIRE].
+M.R. Adams and N.J. Cornish, Discriminating between a Stochastic Gravitational Wave Background and Instrument Noise, Phys. Rev. D 82 (2010) 022002 [arXiv:1002.1291] [INSPIRE].
+M.R. Adams and N.J. Cornish, Detecting a Stochastic Gravitational Wave Background in the presence of a Galactic Foreground and Instrument Noise, Phys. Rev. D 89 (2014) 022001 [arXiv:1307.4116] [INSPIRE].
+
+T. Regimbau, M. Evans, N. Christensen, E. Katsavounidis, B. Sathyaprakash and S. Vitale, Digging deeper: Observing primordial gravitational waves below the binary black hole produced stochastic background, Phys. Rev. Lett. 118 (2017) 151105 [arXiv:1611.08943] [INSPIRE].
+S. Sachdev, T. Regimbau and B.S. Sathyaprakash, Subtracting compact binary foreground sources to reveal primordial gravitational-wave backgrounds, Phys. Rev. D 102 (2020) 024051 [arXiv:2002.05365] [INSPIRE].
+R. Contino, K. Max and R.K. Mishra, Searching for elusive dark sectors with terrestrial and celestial observations, JHEP 06 (2021) 127 [arXiv:2012.08537] [INSPIRE].
+P. Gondolo and G. Gelmini, Cosmic abundances of stable particles: Improved analysis, Nucl. Phys. B 360 (1991) 145 [INSPIRE].
+
+Published for SISSA by	Springer
+Received: March 27, 2018
+Accepted: June 5, 2018
+Published: June 25, 2018
+
+
+
+Dark quarkonium formation in the early universe
+
+
+M. Geller,a S. Iwamoto,b,c G. Lee,b,d,e Y. Shadmib and O. Telemd
+aMaryland Center for Fundamental Physics, Department of Physics, University of Maryland, College Park, MD 20742, U.S.A.
+bPhysics Department, Technion — Israel Institute of Technology,
+Haifa 32000, Israel
+cDipartimento di Fisica e Astronomia, Universit`a di Padova,
+Via Marzolo 8, I-35131 Padua, Italy
+dDepartment of Physics, LEPP,
+Cornell University, Ithaca, NY 14853, U.S.A. eDepartment of Physics, Korea University, Seoul 136–713, Republic of Korea
+E-mail: mic.geller@gmail.com, sho.iwamoto@pd.infn.it, gabr.lee@cornell.edu, yshadmi@physics.technion.ac.il, t10ofrit@gmail.com
+Abstract: The relic abundance of heavy stable particles charged under a confining gauge group can be depleted by a second stage of annihilations near the deconfinement temper-ature. This proceeds via the formation of quarkonia-like states, in which the heavy pair subsequently annihilates. The size of the quarkonium formation cross section was the sub-ject of some debate. We estimate this cross section in a simple toy model. The dominant process can be viewed as a rearrangement of the heavy and light quarks, leading to a geometric cross section of hadronic size. In contrast, processes in which only the heavy constituents are involved lead to mass-suppressed cross sections. These results apply to any scenario with bound states of sizes much larger than their inverse mass, such as U(1) models with charged particles of different masses, and can be used to construct ultra-heavy dark-matter models with masses above the na¨ıve unitarity bound. They are also relevant for the cosmology of any stable colored relic.
+
+Keywords: Phenomenological Models, QCD Phenomenology
+
+ArXiv ePrint: 1802.07720
+
+
+
+
+
+Open Access, ⃝c The Authors.
+Article funded by SCOAP3.	https://doi.org/10.1007/JHEP06(2018)135
+
+/
+Contents
+Introduction	1
+Description of the toy model	4
+
+3	The rearrangement process
+	5
+	
+	3.1	Setup
+	5
+	
+	3.2	The incoming and outgoing wavefunctions
+	7
+	
+	3.3	The matrix element for rearrangement
+	8
+	
+	3.4	Rearrangement results
+	10
+	
+	4
+	The radiation process: spectator brown muck
+	12
+	
+	
+	4.1	Radiation results
+	14
+	
+	5
+	Implications for cosmology
+	15
+	
+	6
+	Conclusions
+	17
+	
+	A
+	Cross section for bound-state formation in the radiation process
+	18
+	
+	
+	A.1  Eigenstates of the Cornell potential
+	18
+	
+	
+	A.2  Bound-state formation cross section in the dipole approximation
+	20
+	
+	
+	A.3 Thermally-averaged cross section
+	24
+	
+	
+
+
+Introduction
+. . . and in the darkness bind them.
+(J.R.R. Tolkien)
+Stable “colored” particles, charged under QCD or a hidden confining gauge group, have been proposed as dark matter (DM) candidates [1–22], and are predicted in various extensions of the Standard Model [23–25]. Even in the simplest models, the cosmologi-cal history of colored relics is intriguing, and their present-day abundances have been the subject of some debate. The relic abundance of a heavy colored particle X is sensitive to the two inherent scales in the problem: its mass mX and the confinement scale ΛD. If mX  ΛD, the freeze-out of X proceeds via standard perturbative annihilations at temper-atures T ∼ mX/30. However, at temperatures T ∼ ΛD, long after the perturbative X–X¯ annihilations have shut off, the X relic abundance may be further reduced by interactions of hadronized Xs, whose size is set by 1/ΛD.
+The annihilation process at T . ΛD was described in a semiclassical approximation in ref. [24]. At T ∼ ΛD, most of the Xs are in color-singlet heavy-light hadrons, which we label by HX. An X-hadron HX and an X¯ -hadron H¯X experience a residual strong
+
+interaction whose effective range is ∼ 1/ΛD, much larger than the Compton wavelength
+~ 1/mX, but much smaller than the mean distance between X-hadrons at T ∼ ΛD. X–X¯ annihilation then proceeds via the formation of X–X¯ “quarkonia”, which subsequently de-excite to the ground state. In the ground state, the X–X¯ distance is of order the Compton wavelength, and the pair annihilates into light mesons, (dark) photons, or glueballs. In the following, we use parentheses to denote quarkonium-like states, and refer to the (XX¯ ) states as quarkonia.
+The cross section for quarkonia formation was argued in ref. [24] to be purely geometric. This certainly holds for the scattering cross section of two HX hadrons; however, it is less clear that it holds for the quarkonium production cross section, which requires a significant modification of the trajectories of the heavy particles.  One semiclassical argument for a mass-suppressed cross section was described in ref. [25].  To form a bound state, the
+X and X¯ must lose energy and angular momentum. Classically, one can estimate the
+cross section by modeling the energy loss as Larmor radiation. This is proportional to the acceleration-squared, which scales as Λ4 /m2 . At T ∼ ΛD, the Xs are very slow,
+with speed v ∼ √ΛD/mX. Thus it takes a long time for the hadrons to cross a distance
+the large X mass.
+Our goal in this paper is to quantify the cross section for dark quarkonia formation. This is, of course, a strong-coupling problem, so we will employ two simple toy models in which the calculation is tractable. As we will see, the results can be readily interpreted to infer the behavior of the cross section in the case of interest.
+We consider a dark SU(N ) with two Dirac fermions X and q in the fundamental representation. We denote the SU(N ) confinement scale by ΛD, although much of our discussion applies to real QCD as well. X is heavy, with mass mX   ΛD, while q is
+light, with mq . ΛD. We denote the color-singlet heavy-light mesons by HX ≡ Xq¯ and H¯X ≡ X¯ q. The X and X¯ , as well as their hadrons, are stable by virtue of a flavor symmetry. We examine two prototypical contributions to quarkonia production in HX–H¯X colli-
+sions. The first is a radiation process, in which the “brown muck” is merely a spectator. To isolate the contribution of the heavy Xs, we invoke a dark U(1), under which X is charged
+while q is neutral. The heavy fermions X and X¯ emit radiation in order to bind, and the
+relevant process is
+HX + H¯X → (XX¯ ) + ϕ	[radiation by the Xs].	(1.1)
+Here ϕ is the dark photon. Since the photon is emitted by the heavy X, the cross section for this process can be calculated using non-relativistic QCD (NRQCD) with a simple potential modeling the SU(N ) interaction. We use the Cornell potential, with a cutoff at a distance of order 1/ΛD to simulate the screening by the brown muck. The resulting cross section is not geometric, but rather mX-suppressed, in accordance with the simple semiclassical estimate above.
+In the second process, the brown muck plays a key role in the interaction, leading to a geometric cross section for quarkonium formation. This happens, for example, when the
+
+radiation is emitted by the brown muck itself, which, as a result, exerts a force on the heavy
+X. While we cannot reliably calculate the cross section in this case, we can nonetheless capture the brown muck dynamics by considering the limit mq > ΛD, in which quarkonium formation can be thought of as a rearrangement of the heavy and light quarks,
+HX + H¯X → (XX¯ ) + (q¯q)	[rearrangement].	(1.2)
+The cross section for this process can be calculated in analogy with hydrogen-antihydrogen rearrangement into protonium and positronium. As we will see, for mq > ΛD, only the Coulombic states contribute. The result is a geometric cross section, which scales as the square of the Bohr radius aq = 1/(α¯Dmq). Thus, quarkonium production is effective at low temperatures not because of confinement per se, but because of the large hierarchy between aq (the size of HX) and 1/mX (the Compton wavelength). We expect this result to persist as mq is dialed back below ΛD: the quarkonium cross section will continue to scale as the size of HX, which, in this case, is 1/Λ2 .
+As we will see, the geometric cross section arises from summing the contributions
+of many large (i.e., ∼ aq-sized) X–X¯ bound states, for which the process is exothermic.
+These states cannot be dissociated, and will de-excite to the ground state, in which the
+X and X¯ annihilate. We will not discuss the cosmology of a specific model in detail, but
+merely sketch the essentials, following ref. [24]. Prior to the formation of the HX and H¯X mesons, the X particles annihilate and freeze out in the early universe with the standard relic density
+—9	—2		 2
+ann 2	10	GeV	 mX			1	
+
+ΩX h ∼
+ σannv	∼
+104 GeV
+α2 (m
+.	(1.3)
+)
+
+
+/
+f	r  ΛD   mX  2
+
+Some fraction of Xs remain in hadrons containing multiple Xs, such as baryons. The various final abundances are model dependent and we do not explore them in detail here. Still, the late re-annihilations give a new mechanism for generating the relic abundance of dark matter, which is now a function of the two scales mX and ΛD. This opens up many interesting directions to explore. We discuss some of the implications for cosmology in section 5. In particular, the models can lead to a long era of matter domination between mX and ΛD.
+Note that the Xs can hadronize with light quarks q, and the potential between them is screened at large distances. The cosmology of these models is thus somewhat different from quirky models. The presence of light quarks is important for yet another reason: even if there are no photons in the theory, energy loss can proceed via the emission of light pions. In contrast, in models with a pure SU(N ) at low energies, the lightest particles are glueballs, whose mass is ∼ 7ΛD.
+The formalism and the results in this paper can be applied more broadly. For example,
+it is applicable to any confined heavy relic — be it all the dark matter or a component
+
+thereof, such as gluinos in split supersymmetry, messengers in gauge-mediated supersym-metry breaking, and so on.
+This paper is structured as follows. The toy model is described in section 2. The rearrangement calculation and its results are presented in section 3. Section 4 focuses on
+the radiation process from the Xs in which the brown muck is a spectator. In section 5, we
+consider the dynamics of the X–X¯ bound states generated by these processes and further implications for cosmology. In the appendix, we collect some useful results on the properties of the Cornell and linear potentials and their wavefunctions, and discuss the details of the derivation of the cross section used in section 4.
+Description of the toy model
+The minimal particle content in our models consists of two Dirac fermions, (q, q¯) and (X, X¯ ), in the fundamental representation of a dark SU(N ). In section 4, we will assume
+that X and X¯ are also charged under a U(1) gauge symmetry.  To describe the X–X¯
+interaction, we turn to models of quarkonium [26, 27]. The Cornell potential interpolates between the Coulombic QCD potential at small distances and the confining linear potential with string tension ΛD at large distances:
+V	(R) = −C αD + Λ2 R ,	(2.1)
+where R is the distance between X and X¯ , C = (C1 + C2 − C12)/2, and Ci (C12) are the quadratic Casimirs of the constituents (bound state). Since X is a fundamental of SU(N ) and we require a color-singlet bound state, C = C1 = C2 = (N 2 − 1)/(2N ). The deep bound states of the system are then Coulombic, while the shallow states are controlled by the linear potential.
+At large distances, the attractive potential is screened by the brown muck surrounding
+X and X¯ . In QCD, for example, this distance is roughly the inverse of the string tension
+≈ 400 MeV (see, e.g., refs. [28, 29]). In order to capture this screening, the potential is cut off at a distance Rc,1
+−α¯   1 − 1  + Λ2 (R − R ) + V	for	R < R ,
+/	/
+V0	for	R ≥ Rc ,
+where α¯D = CαD, and V0 is a constant.2 The cutoff behavior will naturally emerge in the rearrangement calculation of section 3, where we work in the calculable limit mq & ΛD. For mq & ΛD, the attractive potential is cut off at distances of order the Bohr radius of the heavy-light meson,3
+
+1
+aq = α¯ m
+.	(2.3)
+
+D	q
+
+1While this option is not pursued here, it may be interesting to use a temperature-dependent cutoff to qualitatively capture the screening effects of the quark-gluon plasma. These cause large X–X¯ bound states to “dissolve” at finite temperatures [29–31].
+2The choice of the constant V0 is of course a matter of convenience, and we will in fact choose different constants in the rearrangement and radiation calculations.
+3In this expression, α¯	should be evaluated at the energy scale of the inverse Bohr radius.
+
+Thus, for mq sufficiently large, the problem reduces to a purely Coulombic potential, and we can calculate the cross section in analogy with hydrogen-antihydrogen rearrangement into protonium and positronium.
+In section 4, we will calculate quarkonia formation via radiation by the Xs. Here the linear part of the potential is important, and the cutoff Rc is introduced by hand. As we will describe, the choice of Rc will be motivated by a comparison with the masses of B and D mesons in the Standard Model.
+We note that, in QCD, the string tension in the confined phase and the dimensional transmutation scale from the running of the QCD gauge coupling are approximately the same [29, 32, 33], whereas the deconfinement temperature is about a factor of two lower [34]. We will not be concerned with the lightest glueball state because its mass is a factor of about seven larger than the string tension [35].
+
+The rearrangement process
+At temperatures below ΛD, the heavy Xs are mostly found in HX (Xq¯) and H¯X (X¯ q) mesons. These mesons can further deplete through HX–H¯X scattering into (XX¯ ) quarko-nia plus light hadrons. For mq < ΛD, the calculation of the cross section for this process requires the full machinery of perturbative NRQCD [36] and is extremely difficult; we will limit ourselves to the case mq & ΛD. This puts us firmly in the non-relativistic limit, in which quarkonium production can be thought of as rearrangement of the four partons,
+HX + H¯X → (XX¯ ) + (qq¯).	(3.1)
+For mX  mq, the wavefunctions of the system can be calculated in the Born-Oppenheimer approximation, as in hydrogen-antihydrogen rearrangement into protonium and positron-ium [37–39]. We will closely follow this calculation, applying it to the near-threshold energies of interest.
+If the semiclassical arguments in ref. [24] are correct, the cross section is expected to be geometric when the temperature is comparable to the binding energy of HX, with no mX suppression. We verify this in the following calculation.
+Setup
+As discussed above, for mq sufficiently larger than ΛD, only the Coulombic (XX¯ ) states contribute. We will later comment on the validity of this approach as mq is taken below ΛD.
+The full interacting Hamiltonian of our system is written as the sum
+Htot = Hfree + Hint ,	(3.2)
+where
+1	2	1	2	1	2
+Hfree = − m ∇R − 2m ∇rq − 2m ∇rq¯ ,
+q	q
+Hint = VXX¯ (R) + Vqq¯ (|rq − rq¯|) + Htr ,	(3.3)
+Htr = VqX¯ (|rq + R/2|) + Vq¯X (|rq¯ − R/2|) − Vq¯X¯ (|rq¯ + R/2|) − VqX (|rq − R/2|) .
+
+/
+
+Figure 1. Coordinate system used in the calculation of the rearrangement process.
+
+Here R is the vector from X¯ to X and rq, rq¯ are the positions of q, q¯ relative to the X–X¯ center-of-mass (CM), respectively, as shown in figure 1. The potentials VqX¯ , Vq¯X , VqX , Vq¯X¯ ,
+Vqq¯, and VXX¯ are the usual Coulomb potentials (with the relevant sign for same/opposite
+color quarks taken into account in eq. (3.3)):
+V (r) =	α¯D .	(3.4)
+r
+Since we assume that X–X¯ are in a color-singlet configuration, this factor is the same for the six potentials.
+The calculation of the rearrangement cross section involves a subtlety well known to nuclear physicists: the asymptotic in and out states are not eigenstates of the same free Hamiltonian, but rather eigenstates of two different interacting Hamiltonians. This is different from conventional non-relativistic scattering where limt→±∞ Htot = Hfree. In our
+case, the infinite past Hamiltonian is
+
+
+lim
+t→—∞
+Htot = Hfree + VqX¯ (|rq + R/2|) + Vq¯X (|rq¯ − R/2|) ,	(3.5)
+
+while the infinite future Hamiltonian is
+
+Hout ≡ lim Htot = Hfree + VXX¯ (R) + Vqq¯ (|rq − rq¯|) .	(3.6)
+
+The scattering cross section is then calculated in the multi-channel formalism. By solving the Lippmann-Schwinger equation for multi-channel scattering (see, e.g., ref. [40]), we get the simple formula for the cross section:
+
+
+dσ = (2π)2 kf m dΩ	ki	X
+mq|M|2 ,	(3.7)
+
+where kf and ki are the momenta of the final and initial states in the CM frame (see below) and the transition matrix element is
+M = 2π ⟨Ψf (R, rq, rq¯) | Htr | Ψi(R, rq, rq¯)⟩ ,	(3.8)
+where Ψf , Ψi are the final- and initial-state wavefunctions and Htr = Htot − Hout, as can be seen from eqs. (3.3) and (3.6). Note that in this representation of the cross section, the outgoing states Ψf are eigenstates of Hout, while the incoming states Ψi are eigenstates of the full Hamiltonian Htot. Below, we discuss these states in more detail.
+
+The incoming and outgoing wavefunctions
+We wish to express our incoming and outgoing wavefunctions in the factorized form
+Ψ(R, r , r ) = ψXX¯ (R) ψqq¯(R; r , r ) .	(3.9)
+q	q¯	q	q¯
+In the final state this factorization is exact, since the outgoing X-onium and q-onium are asymptotically non-interacting. In other words:
+Hout = HXX¯ + Hqq¯ ,	(3.10)
+
+
+with
+
+1
+HXX¯ = − m
+
+
+∇R + VXX¯ (R) ,
+
+1	2	1	2
+Hqq¯ = − 2m ∇rq − 2m ∇rq¯ + Vqq¯ (|rq − rq¯|) .	(3.11)
+q
+The final state therefore trivially factorizes as the product of a plane wave for the outgoing
+(qq¯) and the Coulomb bound states ψXX¯ (R) (an eigenstate of H ¯ ) and ψqq¯ (rq, rq¯) (an
+eigenstate of Hqq¯). For concreteness, we assume that the final-state q-onium is in its ground state and the (XX¯ ) is static.
+In contrast with the outgoing state, the incoming state is an eigenstate of the full Hamiltonian Htot, so we na¨ıvely do not expect it to factorize as in eq. (3.9). However, we can use the Born-Oppenheimer approximation to express the incoming wavefunction in this factorized form,
+Ψ (R, r , r ) = ψXX¯ (R) ψqq¯(R; r , r ) .	(3.12)
+i	q	q¯	i	i	q	q¯
+Since we are in the limit mX   mq, this is a very good approximation: at any given X–X¯ distance R, q and q¯ will quickly adjust their configuration, and their wavefunction ψqq¯
+can therefore be calculated by integrating out X and X¯ and treating them as sources for
+the light quarks. This gives the energy and wavefunction of the light quarks for a fixed separation R between the heavy Xs as solutions to the eigenvalue problem
+qq¯	qq¯
+[Htot − H  ¯ ] ψ	= VBO(R) ψ	.	(3.13)
+Substituting this back into the full Schro¨dinger equation and neglecting derivatives of ψqq¯
+with respect to the X–X¯ coordinates, one obtains the equation for the X–X¯ wavefunction,
+ −   1   ∇2 + V  ¯ (R) + V	(R) ψXX¯ = E ψXX¯ .	(3.14)
+
+The effective potential for the X–X¯ system is then
+
+Vin(R) = VXX¯ (R) + VBO(R)	(3.15)
+
+
+with
+
+VBO(R) = ψqq¯ Htot − H
+
+¯ ψqq¯ .	(3.16)
+
+JHEP06(2018)135
+
+JHEP06(2018)135
+
+
+
+
+
+
+
+
+so one is left with the overlap integral of ψqq¯ and the asymptotic ψqq¯ at large R. These
+f	i
+solve the same Hamiltonian with different eigenvalues: the former is a bound state and the
+latter is a continuum state. For small R, the initial- and final-state wavefunctions in the integrand do overlap, but Htr tends to zero.
+The full calculation of T (R) is complicated. In fact, the Born-Oppenheimer approx-imation breaks down for R . 0.74aq, where the q and q¯ are no longer bound to their respective X (see, e.g., ref. [39]). Still, we can use this approximation to get a rough estimate of the cross section. In particular, T (R) is independent of the mass mX in the Born-Oppenheimer approximation, so we can extract T (R) from ref. [39].4 The result in the relevant range (R ∼ aq) can be parametrized as
+	1 2
+0	for	R ≤ 0.74aq ,
+where Ef is the kinetic energy in the final state and β is an O(1) factor determined by matching to the hydrogen-antihydrogen results. Evidently, T (R) depends on the binding energy of the (XX¯ ) quarkonium, EXX¯ , since Ef = Ei + EXX¯ − 3 α¯2 mq.
+3.4	Rearrangement results
+We calculate the cross section of eq. (3.7) for different masses mX and incoming kinetic energies Ei, keeping aq fixed. In the approximation we use (see section 3.3), the angular part of the overlap integral is translated into a selection rule lXX¯ = li ≡ l. The breakdown of the cross section into partial waves — or (XX¯ ) angular momenta — is given in figure 4 for high incoming kinetic energy Ei = 0.6Eb and α¯D = 1/137. We see that it vanishes above some maximal l, which corresponds to the classical angular momentum
+lmax ∼ kiaq = √EimXaq ∼ √EimX/mq .	(3.21)
+It is also interesting to examine the branching fraction σnl/σl for some initial partial wave to form an (XX¯ ) quarkonium of definite binding energy. In figure 5 (left panel), we show this branching fraction for l = 0, 14, as a function of the final kinetic energy for two values of the initial kinetic energy Ei/Eb = 0.6, 0.06.
+We see that quarkonium formation by rearrangement is an exothermic process: the kinetic energy in the final state does not vanish even when the initial momentum is taken to zero. Therefore the inverse process shuts off at low energies . Eb. Furthermore, only quarkonia with binding energies around Eb are produced at T ∼ Eb. The cross sections drop to zero for large final-state energies corresponding to (XX¯ ) binding energies above Eb.
+Thus, deep Coulombic bound states with binding energies EXX¯ ∼ α¯2 mX are not formed
+in the rearrangement process. Correspondingly, the bound states produced are large, with size ∼ aq. This behavior is clearly exhibited in figure 5 (right panel), where we show the cross section as a function of the mean quarkonium radius RXX¯ .
+
+4The mX dependence will enter through higher-order corrections in the effective theory, and will be suppressed by some fractional power of mX . Here we are only interested in the leading result.
+
+/
+
+
+
+●
+	
+●
+	
+●
+	
+●
+	
+●
+	
+●
+	
+●
+	
+● ● ● ●
+	
+	
+●
+	
+●
+	
+	
+	
+	
+	
+	
+	
+	■
+	■
+	
+	■
+	
+■
+	
+	
+■▲
+	
+	
+	
+	
+	■
+	
+▲
+	▲
+	■
+	
+	▲
+▲
+	◆▲
+■
+	
+◆▲
+	▲
+■ ◆■
+	
+
+	
+	
+	
+	
+
+	
+	
+	
+	■
+	▲
+	■▲
+	
+	
+	
+	
+	
+	
+	
+	
+To isolate the dynamics of the heavy quarks, we take X to be charged under a dark U(1), while the light quarks are neutral.  The relevant bound states are large, of size
+~ 1/ΛD, and are described by the linear part of the Cornell potential. To calculate (XX¯ )
+quarkonium production for T . ΛD, we can therefore neglect the Coulombic part of the potential. This is also consistent with previous studies showing that, for pure U(1) models with no light charged particles, (XX¯ ) bound-state formation gives only mild modifications
+of the X relic abundance [42, 43]. For bound-state formation to deplete the X abundance by orders of magnitude, a new scale is required. In the radiation process considered here, the new scale is ΛD.
+The radiative quarkonium production process is then
+HX + H¯X → (XX¯ ) + ϕ,	(4.1)
+
+where ϕ is a (dark) photon that couples only to X; however, our results below apply more generally to other light particles which can be emitted by X. Unlike in the previous section, here the light quarks q are relativistic.
+We will follow the field-theoretic formalism for computing bound-state formation cross sections with long-range interactions detailed in ref. [44]. Alternatively, these results can be obtained using the standard non-relativistic QM approach for calculating transition amplitudes, treating the photon as a classical field [45, 46].
+The first step is to derive the spectrum and two-particle wavefunctions that describe
+the bound and scattering states of the X–X¯ system. While the light quarks do not actively participate in the radiation process, they screen the heavy Xs at large distances. This is captured by the cutoff Rc in the potential of eq. (2.2), and leads to a continuum of HX –H¯X states with energies above the open HX–H¯X -production threshold. Roughly speaking, the hadron mass is given by the sum of the heavy constituent masses, with each light quark or gluon contributing about ΛD to the mass. More precisely,
+
+2	2
+mH	= mX + κΛ ΛD + O(Λ  /m  ) ,	(4.2)
+
+where κΛD is an O(1) constant [47]. The spectrum of bottom and charm mesons in QCD suggests κΛD ΛD ∼ 600 MeV, with ΛD ∼ 400 MeV, so in the following, we set κΛD = 1.5. To estimate the cutoff Rc, we use the fact that the maximal HX binding energy, Emax,
+coincides with the onset of the continuum,
+
+
+2mX + Emax = 2mH
+.	(4.3)
+
+
+Since the maximal bound state energy of the linear potential is
+
+
+Emax = Λ2 Rc
+l(l + 1)	2
+mXR2	D  c
+,	(4.4)
+
+we set the cutoff to
+R = 2κΛD
+c	ΛD
+
+3
+=	.	(4.5)
+ΛD
+
+In summary, the potential we consider is
+
+
+V (R) =
+(Λ2
+(R − Rc)	for	R < Rc ,
+
+(4.6)
+
+0	for	R ≥ Rc ,
+with Rc given by eq. (4.5) and V0 of eq. (2.2) chosen as zero for convenience. Defining
+
+   ΛD   1/3  1 
+
+  ΛD  1/3
+
+/
+
+which are the characteristic splittings in energy and size between successive states, the radial part of the wavefunction, χln, solves
+jj	l
+— χln(x) + Veff(x) χln(x) = ϵlnχln(x) ,	(4.8)
+where x = R/R0, ϵln = Eln/E0, and
+
+
+V l (x) = l(l + 1) + x − x
+(4.9)
+
+eff	x2	c
+with xc = Rc/R0.
+Using the semiclassical approximation, we can estimate the maximal angular momen-tum lmax of the bound states and the energy ϵmin of the lowest bound state with a given
+l. The lowest energy bound state for each l classically corresponds to a minimum of the
+effective potential; the position xl	and the energy V l (xl	) of the minimum must satisfy
+
+min
+xl	< xc and V l (xl	) < 0, which result in
+eff
+min
+
+min
+eff
+min
+
+
+lmax '
+
+/
+3
+c ,	ϵmin ' 3
+
+  l  2/3
+
+
+— xc .	(4.10)
+
+In appendix A.1, we collect some results for the effective potential and radial wavefunctions for various choices of the parameters.
+4.1	Radiation results
+The cross section for HX + H¯X → (XX¯ )lmn + ϕ in the CM frame of the initial state is given by
+
+v	dσk→lmn =   |Pϕ|	 |M
+|  ,	(4.11)
+
+rel	dΩ
+128π2m3
+k→lmn
+
+where Pϕ is the three-momentum of the radiated light state and, assuming that ϕ is massless,
+|Pϕ| = Ek − Eln ,	(4.12)
+where Ek is the kinetic energy of the initial state. We calculate this cross section in appendix A. It is useful to write the cross section in terms of dimensionless quantities as
+
+
+
+vrel σkzˆ→ln =
+mΣ=—l
+
+vrel σkzˆ→lmn =
+2e2
+2
+X
+ΛD	2/3
+
+/
+mX
+Jk,ln ,	(4.13)
+
+/
+
+/
+
+which is beyond the scope of this work. However, it is safe to assume that a sizable fraction of the original Xs can be preserved in a variety of stable hadronic relics.
+For DM charged under real QCD, heavy-light hadrons, with size 1/ΛD, are subject
+to stringent constraints, but they are efficiently depleted at T . ΛD as we have shown. In contrast, the relic abundance of X3 baryons may be just somewhat smaller than the original X relic abundance. Thus the fundamental Xs we considered here may give a different realization of colored DM [21], but whether the models are viable requires a more detailed analysis. Note that the scenario considered in ref. [21], namely a heavy Dirac
+adjoint X, is non-generic, in that two Xs can form a stable singlet with no additional light quarks.
+In summary, the simple models considered here typically give rise to several compo-nents of DM composites of different masses. For certain choices of mX and ΛD, these can exhibit self-interactions, transitions between different excited states, and, depending on the coupling to the Standard Model, modified direct and indirect detection cross sections. In some variants of these models, the DM abundance can be significantly depleted at ΛD, leading to a long era of matter domination between mX and ΛD.
+
+6	Conclusions
+In this paper we have considered the cosmological dynamics of bound states that are much larger than their inverse mass, taking as an example Xq¯ mesons in a confining theory where X is much heavier than q and the confinement scale. We calculated the cross section for quarkonium production from heavy-light meson scattering. The cross section is geometric, and scales with the area of the incident heavy-light mesons. The relic density of heavy-light X-mesons is therefore efficiently diluted with rates much higher than the s-wave unitarity bound due to the participation of many partial waves in the process. We also find that the process is mainly mediated by the effective interaction of the light quarks. In contrast, processes in which only the heavy constituents participate have mass-suppressed rates. It is amusing to note that if the lifetime of B-mesons were longer, such processes could be experimentally measured.
+
+Acknowledgments
+We thank Yuval Grossman, Marek Karliner, Teppei Kitahara, Peter Lepage, Michael Pe-skin, Jon Rosner, Ben Svetitsky, John Terning and especially Markus Luty for useful dis-cussions. OT thanks Barak Hirshberg for his insight in molecular quantum mechanics. The authors are grateful to the Mainz Institute for Theoretical Physics (MITP) and to the As-pen Center for Physics, supported in part by NSF-PHY-1607611, for hospitality and partial support during the completion of this work. This work is supported by the Israel Science Foundation (Grant No. 720/15), by the United-States-Israel Binational Science Foundation (BSF) (Grant No. 2014397), by the ICORE Program of the Israel Planning and Budget-ing Committee (Grant No. 1937/12). MG is supported by the NSF grant PHY-1620074 and the Maryland Center for Fundamental Physics. SI is supported at the Technion by a
+
+fellowship from the Lady Davis Foundation and at Padova University by the MIUR-PRIN project 2015P5SBHT 003 “Search for the Fundamental Laws and Constituents”. GL ac-knowledges support by the Samsung Science & Technology Foundation. OT is supported in part by the NSF grant PHY-1719877.
+
+Cross section for bound-state formation in the radiation process
+
+In this section we summarize the calculation of the bound-state formation cross section via radiation discussed in section 4. We also collect here some useful results on the spectrum and wavefunctions of the Cornell and linear potential.
+
+Eigenstates of the Cornell potential
+We model the X–X¯ attractive interaction by the cutoff Cornell potential of eq. (2.2), with the cutoff given in eq. (4.5) and V0 = 0.
+The bound states (XX¯ ) are characterized by three integers (l, m, n), where l labels
+the angular momentum, m labels the angular momentum along the z-axis, and n ≥ 1. An HX–H¯X scattering state is approximated by an X–X¯ unbound state, which is characterized by the X–X¯ relative momentum h, with energy Ek ≈ k2/mX, where k = |h|. The reduced mass of both the bound and scattering states is approximately mX/2.
+The bound-state wavefunctions can be written as
+ψ	(R x) =   1	χln(x) Y	(Ω ) ,	(A.1)
+
+lm,n	0
+3/2	x
+0
+lm	x
+
+where the dimensionless coordinate x is defined below eq. (4.8). The scattering-state wave-functions can be expanded as
+φ (R x) = Σ(2l + 1)φ	(R x) = Σ(2l + 1) χkl(x) P (hˆ · xˆ) .	(A.2)
+
+
+
+For h along zˆ this simplifies to
+
+φ
+
+(R x) = r 4π
+
+
+χkl(x) Y 0(Ω
+
+
+
+) .	(A.3)
+
+
+The radial wavefunctions χln(x) and χkl(x) solve
+
+jj	l
+
+
+where
+— χln (kl)(x) + Veff (x)χln (kl)(x) = ϵln (k)χln (kl)(x) ,	(A.4)
+
+
+
+V l (x) = l(l + 1) + V (x)
+/
+
+eff
+x2
+l(l + 1)
+  1	 1 
+
+(A.5)
+
+/
+
+JHEP06(2018)135
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+energy levels of the eigenstates of central potentials. Following their discussion, the energy levels under the linear potential are given by
+ 3	l	1  2/3
+
+or in our notation, since V (0) = −RcΛ2 = −xcE0,
+ 3	l	1  2/3
+
+We reproduce this result in figure 10b. For a Cornell potential (figure 10a), deep states are governed by the Coulomb force and therefore obey the well-known Coulombic energy levels
+ a2
+4N 2
+where the principal quantum number N is given by n+l. For shallower states, the Coulomb force is negligible and the linear potential governs the spectrum.8
+We show some examples of bound-state and scattering-state wavefunctions that solve eq. (A.4) with the cutoff linear potential (eq. (A.5) with aD = 0) in the top and bottom rows of figure 11, respectively. The bound state with (l, n) = (5, 10) is found to be the shallowest bound state, but it should be emphasized that this is an accident due to the cutoff being just above the energy of this state. In general, shallower states with smaller l have wavefunctions that tend to penetrate beyond x > xc. For the scattering states, wavefunctions of states with larger ϵ and smaller l have penetrate further into the region x < xc.
+Bound-state formation cross section in the dipole approximation
+We calculate the matrix element for the bound-state formation by a vector-mediated interaction,
+HX + H¯X → (XX¯ )lm,n + ϕ	(A.10)
+with the X–ϕ interaction given by
+L e |(∂µ − ieXϕµ) X|  .	(A.11)
+
+We follow the approach and notation in refs. [44, 49]. From now on, we focus on the linear potential and set aD = 0 because, as we will see, the radiative bound-state formation process favors shallow bound states, for which the Coulomb force is negligible.
+The bound-state formation cross section is given by [44]
+
+
+
+(vrel
+BSF
+k
+l,m,n
+
+rel
+BSF
+k→lm,n
+=	dΩPϕ
+4π
+l,m,n
+|Pϕ|
+32 π m3
+|s · M
+pol.
+
+k→lm,n
+|	(A.12)
+
+
+/
+8The average size ⟨x⟩ of bound states is given by the virial theorem as G + xc = −aD /(2 ⟨x⟩) for a Coulombic bound states, i.e., if the effect of the linear term is negligible, and G + xc = 3 ⟨x⟩ /2 for bound states in the linear regime.
+
+JHEP06(2018)135
+
+After partial integration, the derivative acts on ψ∗	(r), and the integral over d3rj is trivial
+using the delta function. Dotting with the polarization vector and performing another partial integration (the derivative of the cosine is zero as s · Pϕ = 0) yields
+s · M	J	= 4ie  √m  ∫ d3r cos  Pϕ · r  s · ψ∗	∇φ	J − φ	J ∇ψ	 , (A.15)
+
+k,l →lm,n	X	X
+∗
+
+/
+2	lm,n
+k,l
+k,l
+lm,n
+
+where ψlm,n and φk,lJ are functions of r. The quantity in brackets above appears in the
+difference of the Schro¨dinger equations for the scattering- and bound-state wavefunctions,
+1	∗	∗	∗
+∇ · (ψlm,n∇φk,lJ − φk,lJ ∇ψlm,n) = (Ek − Enl)ψlm,nφk,lJ .	(A.16)
+— mX
+Using the identity9
+∫ d3r (∇ · F ) r = − ∫ d3r F (∇ · r) = − ∫ d3r F	(A.17)
+with F = ψ∗	∇φk,lJ − φk,lJ ∇ψlm,n and substituting into eq. (A.15), we obtain10
+
+
+s · M
+
+k,lJ→lm,n
+
+= 4ieX
+√mX
+∫ d3r (s · r)"mX
+
+(Ek
+
+— Eln
+
+∗
+lm,n
+
+φk,l
+J cos  Pϕ · r 
+
+
+Pϕ	∗
+
+∗	 Pϕ
+#	(A.18)
+
++ 2 · (ψlm,n∇φk,lJ − φk,lJ ∇ψlm,n) sin	2 · r	.
+We are interested in temperatures T . ΛD for which Pϕ  mX, and thus
+s · Mk,lJ→lm,n ' 4ieXqm3 (Ek − Eln) ∫ d3r (s · r)ψ∗	φk,lJ cos  Pϕ · r .	(A.19)
+
+
+Also, we can evaluate Pϕ · r/2 as
+Pϕ · r ≤ |Pϕ|r = |Ek − Eln|r = κ
+
+|Ek − Eln| r  .	(A.20)
+
+2	2	2
+ΛD	ΛD	Rc
+
+Note that as the integrand contains a bound-state wavefunction, the integral has support only for r . Rc. Also, for T  ΛD, the overlaps of the bound and scattering states are larger for shallower bound states. Combining these, we can approximate Pϕ · r/2  1 in order to employ the dipole approximation cos(Pϕ · r/2) → 1, which simplifies the cross section to
+
+
+
+(vrel
+
+σ)BSF →
+Σ ∫ dΩPϕ
+|Pϕ|
+Σ Σ
+
+j
+(2l + 1)4ieX
+qm3 (Ek
+
+— Eln
+
+)s · I
+2
+k,lJ→lm,n 
+
+4π 32 π m	 
+l,m,n	X pol.	lJ
+
+= Σ ∫ dΩPϕ
+e2 (Ek
+— Eln
+)3 Σ Σ
+2
+(2lj + 1)s · Ik,lJ→lm,n 
+
+,	(A.21)
+
+4π	2π	 
+l,m,n	pol.	lJ
+
+9By assumption, F satisfies appropriate fall-off behavior at large |r| so the boundary term is negligible.
+10This is the form of the matrix element in refs. [45, 46]; both employ the dipole approximation and the Hamiltonian formulation.
+
+where the integral of the wavefunctions is defined as
+I	J	= ∫ d3r rj ψ∗	φk,lJ .	(A.22)
+Next, we express the integral in the basis ra = (r+, r0, r—) defined by
+
+±	−1	1
+/
+2	r 4π	±1
+0	r 4π	0
+
+
+Taking the z-axis parallel to hˆ, substituting eq. (A.1) and eq. (A.3) for the wavefunctions in eq. (A.22), we obtain
+
+4πR5/2
+J
+
+0	a	m∗
+
+Ik,lJ→lm,n = √	j + 1) Ikl →ln	dΩxYlJ (Ωx)Y1 (Ωx)Yl	(Ωx)
+√	5/2	 lj 1 l ! lj 1	l !
+
+
+∗
+IklJ→ln =	J
+
+(A.25)
+
+where we have expressed the integral over solid angle of three spherical harmonics in terms of Wigner 3j-symbols
+∫ dΩ Y m1 Y m2 Y m3 =  (2l1 + 1)(2l2 + 1)(2l3 + 1) 1/2  l1 l2 l3!  l1	l2	l3 ! . (A.26)
+
+l1	l2	l3	4π
+0 0 0
+m1 m2 m3
+
+These symbols give the selection rules lj = |l ± 1| and m = a, so that |m| ≤ 1.
+With these results, the sum over m, l , and polarizations in eq. (A.21) evaluates to
+
+Σ Σ Σ
+
+(2lj
+2
++ 1)s · Ik,lJ→lm,n 
+
+m=—l pol.	lJ
+= Σ
+
+1
+m
+k,l+1→lm,n
+
+
+m
+k,l—1→lm,n
+
+
+2 δam
+
+m=—l a=—1
+1
+
+=
+m=—1
+m
+k,l+1→lm,n
+m
+k,l—1→lm,n
+
+= 4πR5 h(l + 1) |Ik,l+1→ln|2 + l |Ik,l—1→ln|2i .	(A.27)
+Inserting this into the cross section in eq. (A.21) and trivially performing the dΩPϕ yields (vrelσ)BSF = 2e2 R5 Σ(Ek − Eln)3 h(l + 1) |Ik,l+1→ln|2 + l |Ik,l—1→ln|2i
+/
+
+
+2e2
+=	2
+X
+ΛD	2/3
+
+mX
+l,n
+Jk,ln ,	(A.28)
+
+with Jk,ln defined in eq. (4.14).
+
+11	a
+kz,l—1→lm,n
+is always zero if l = 0.
+
+Thermally-averaged cross section
+Here we briefly describe the procedure to calculate the thermally-averaged cross section,
+—1
+
+⟨vrelσ⟩ (β), as a function of the inverse temperature β = T
+we denote the momenta of the initial particles as h1, h2.
+. As in the previous discussion,
+
+As we are interested in T  mX, the kinetic distributions of HX and H¯X are given by the Maxwell-Boltzmann distribution,
+
+
+fMB(p) =
+  2πβ  3/2
+
+
+
+exp
+β p 2
+— 2mX
+
+,	(A.29)
+
+d3p
+/
+(2π)3
+averaged cross section is given by
+MB(p) = 1.  With this distribution, the thermally-
+
+∫ d3h1 d3h2
+
+BSF
+
+/
+  2πβ  3 ∫ d3K d3h exp	β(|K/2|2 + |h|2)  (vrelσ)BSF
+mX	(2π)3 (2π)3	mX	k
+
+/
+
+
+16β3
+=	πm3
+dk k2
+e—βk2/m
+X (vrelσ)BSF ,	(A.30)
+
+
+where, as before, K = h1 + h2 and h = (h1 − h2)/2. We have neglected the dependence of the (non-relativistic) cross section (vrelσ)BSF on K since |K|  |h|.
+Combining the previous result and also including the final-state effect of ϕ, we obtain
+
+
+2e2
+⟨vrelσ⟩ (β) = m2
+  ΛD  2/3 ∫
+/
+
+/
+
+
+dk w(k; β)
+
+Σl,n
+
+Jk,ln
+1 − exp [−β(Ek
+
+
+— Eln
+
+,	(A.31)
+)]
+
+
+
+where we define
+
+
+w(k; β) =
+
+
+16β3
+πm3
+
+
+k2 e
+
+
+
+—βk2/mX ,
+
+∫ w(k; β)dk = 1 .	(A.32)
+
+
+Open Access. This article is distributed under the terms of the Creative Commons Attribution License (CC-BY 4.0), which permits any use, distribution and reproduction in any medium, provided the original author(s) and source are credited.
+
+References
+C. Jacoby and S. Nussinov, The relic abundance of massive colored particles after a late hadronic annihilation stage, arXiv:0712.2681 [INSPIRE].
+C.F. Berger, L. Covi, S. Kraml and F. Palorini, The number density of a charged relic, JCAP
+10 (2008) 005 [arXiv:0807.0211] [INSPIRE].
+K. Cheung, W.-Y. Keung and T.-C. Yuan, Phenomenology of iquarkonium, Nucl. Phys. B 811 (2009) 274 [arXiv:0810.1524] [INSPIRE].
+
+F. Chen, J.M. Cline and A.R. Frey, Nonabelian dark matter: Models and constraints, Phys. Rev. D 80 (2009) 083516 [arXiv:0907.4746] [INSPIRE].
+H. Davoudiasl et al., Hylogenesis: a unified origin for baryonic visible matter and antibaryonic dark matter, Phys. Rev. Lett. 105 (2010) 211304 [arXiv:1008.2399] [INSPIRE].
+J.L. Feng and Y. Shadmi, WIMPless dark matter from non-abelian hidden sectors with anomaly-mediated supersymmetry breaking, Phys. Rev. D 83 (2011) 095011 [arXiv:1102.0282] [INSPIRE].
+N. Blinov, D.E. Morrissey, K. Sigurdson and S. Tulin, Dark matter antibaryons from a supersymmetric hidden sector, Phys. Rev. D 86 (2012) 095021 [arXiv:1206.3304] [INSPIRE].
+J.M. Cline, Z. Liu, G. Moore and W. Xue, Composite strongly interacting dark matter, Phys. Rev. D 90 (2014) 015023 [arXiv:1312.3325] [INSPIRE].
+K.K. Boddy et al., Self-interacting dark matter from a non-Abelian hidden sector, Phys. Rev.
+D 89 (2014) 115017 [arXiv:1402.3629] [INSPIRE].
+J.M. Cline and A.R. Frey, Nonabelian dark matter models for 3.5 keV X-rays, JCAP 10
+(2014) 013 [arXiv:1408.0233] [INSPIRE].
+K.K. Boddy et al., Strongly interacting dark matter: self-interactions and keV lines, Phys. Rev. D 90 (2014) 095016 [arXiv:1408.6532] [INSPIRE].
+Y. Bai and P. Schwaller, Scale of dark QCD, Phys. Rev. D 89 (2014) 063522.
+L. Forestell, D.E. Morrissey and K. Sigurdson, Non-Abelian dark forces and the relic densities of dark glueballs, Phys. Rev. D 95 (2017) 015032 [arXiv:1605.08048] [INSPIRE].
+K. Harigaya, M. Ibe, K. Kaneta, W. Nakano and M. Suzuki, Thermal relic dark matter beyond the unitarity limit, JHEP 08 (2016) 151 [arXiv:1606.00159] [INSPIRE].
+J.M. Cline, W. Huang and G.D. Moore, Challenges for models with composite states, Phys. Rev. D 94 (2016) 055029 [arXiv:1607.07865] [INSPIRE].
+P. Asadi et al., Capture and decay of electroweak WIMPonium, JCAP 02 (2017) 005 [arXiv:1610.07617] [INSPIRE].
+S.P. Liew and F. Luo, Effects of QCD bound states on dark matter relic abundance, JHEP
+02 (2017) 091 [arXiv:1611.08133] [INSPIRE].
+M. Cirelli, P. Panci, K. Petraki, F. Sala and M. Taoso, Dark Matter’s secret liaisons: phenomenology of a dark U(1) sector with bound states, JCAP 05 (2017) 036 [arXiv:1612.07295] [INSPIRE].
+J.M. Cline, H. Liu, T. Slatyer and W. Xue, Enabling forbidden dark matter, Phys. Rev. D 96
+(2017) 083521 [arXiv:1702.07716] [INSPIRE].
+L. Forestell, D.E. Morrissey and K. Sigurdson, Cosmological bounds on non-Abelian dark forces, Phys. Rev. D 97 (2018) 075029 [arXiv:1710.06447] [INSPIRE].
+V. De Luca, A. Mitridate, M. Redi, J. Smirnov and A. Strumia, Colored dark matter,
+arXiv:1801.01135 [INSPIRE].
+A. Berlin et al., Cosmology and accelerator tests of strongly interacting dark matter, Phys. Rev. D 97 (2018) 055033 [arXiv:1801.05805] [INSPIRE].
+H. Baer, K.-m. Cheung and J.F. Gunion, A heavy gluino as the lightest supersymmetric particle, Phys. Rev. D 59 (1999) 075002 [hep-ph/9806361] [INSPIRE].
+
+J. Kang, M.A. Luty and S. Nasri, The relic abundance of long-lived heavy colored particles, JHEP 09 (2008) 086 [hep-ph/0611322] [INSPIRE].
+A. Arvanitaki et al., Limits on split supersymmetry from gluino cosmology, Phys. Rev. D 72
+(2005) 075011 [hep-ph/0504210] [INSPIRE].
+V.A. Novikov et al., Charmonium and gluons: basic experimental facts and theoretical introduction, Phys. Rept. 41 (1978) 1 [INSPIRE].
+E. Eichten et al., Charmonium: the model, Phys. Rev. D 17 (1978) 3090 [Erratum ibid. D 21 (1980) 313] [INSPIRE].
+Quarkonium Working Group collaboration, N. Brambilla et al., Heavy quarkonium physics, hep-ph/0412158 [INSPIRE].
+N. Brambilla et al., Heavy quarkonium: progress, puzzles and opportunities, Eur. Phys. J. C 71 (2011) 1534 [arXiv:1010.5827] [INSPIRE].
+N. Brambilla, M.A. Escobedo, J. Ghiglieri and A. Vairo, Thermal width and gluo-dissociation of quarkonium in pNRQCD, JHEP 12 (2011) 116 [arXiv:1109.5826] [INSPIRE].
+N. Brambilla, M.A. Escobedo, J. Ghiglieri and A. Vairo, Thermal width and quarkonium dissociation by inelastic parton scattering, JHEP 05 (2013) 130 [arXiv:1303.6097] [INSPIRE].
+C. Simolo, Extraction of characteristic constants in QCD with perturbative and nonperturbative methods, Ph.D. thesis, Milan University, Milan, Italy (2006), arXiv:0807.1501 [INSPIRE].
+Particle Data Group collaboration, C. Patrignani et al., Review of particle physics, Chin. Phys. C 40 (2016) 100001 [INSPIRE].
+M. Teper, Large N , PoS(LATTICE 2008)022 [arXiv:0812.0085] [INSPIRE].
+C.J. Morningstar and M.J. Peardon, The glueball spectrum from an anisotropic lattice study, Phys. Rev. D 60 (1999) 034509 [hep-lat/9901004] [INSPIRE].
+N. Brambilla, A. Pineda, J. Soto and A. Vairo, Effective field theories for heavy quarkonium, Rev. Mod. Phys. 77 (2005) 1423 [hep-ph/0410047] [INSPIRE].
+P. Froelich et al., Hydrogen-antihydrogen collisions, Phys. Rev. Lett. 84 (2000) 4577.
+S. Jonsell et al., Stability of hydrogen-antihydrogen mixtures at low energies, Phys. Rev. A 64
+(2001) 052712.
+S. Jonsell et al., Hydrogen-antihydrogen scattering in the Born-Oppenheimer approximation,
+J. Phys. B 37 (2004) 1195.
+J.R. Taylor, Scattering theory: the quantum theory on nonrelativistic collisions, John Wiley & Sons, Inc., U.S.A. (1972).
+K. Strasburger, Accurate Born-Oppenheimer potential energy curve for the hydrogen–antihydrogen system, J. Phys. B 35 (2002) L435.
+J.L. Feng, M. Kaplinghat, H. Tu and H.-B. Yu, Hidden Charged Dark Matter, JCAP 07
+(2009) 004 [arXiv:0905.3039] [INSPIRE].
+B. von Harling and K. Petraki, Bound-state formation for thermal relic dark matter and unitarity, JCAP 12 (2014) 033 [arXiv:1407.7874] [INSPIRE].
+
+K. Petraki, M. Postma and M. Wiechers, Dark-matter bound states from Feynman diagrams, JHEP 06 (2015) 128 [arXiv:1505.00109] [INSPIRE].
+M.B. Wise and Y. Zhang, Stable bound states of asymmetric dark matter, Phys. Rev. D 90
+(2014) 055030 [arXiv:1407.4121] [INSPIRE].
+H. An, M.B. Wise and Y. Zhang, Effects of bound states on dark matter annihilation, Phys. Rev. D 93 (2016) 115020 [arXiv:1604.01776] [INSPIRE].
+A.V. Manohar and M.B. Wise, Heavy quark physics, Cambridge University Press, Cambridge
+U.K. (2000).
+C. Quigg and J.L. Rosner, Quantum mechanics with applications to quarkonium, Phys. Rept.
+56 (1979) 167 [INSPIRE].
+K. Petraki, M. Postma and J. de Vries, Radiative bound-state-formation cross-sections for dark matter interacting via a Yukawa potential, JHEP 04 (2017) 077 [arXiv:1611.01394] [INSPIRE].
+
+Density perturbations in f(R, φ)-gravity with an application to the (varying power)-law model
+Fay¸cal Hammad∗
+Physics Department & STAR Research Cluster, Bishop’s University, 2600 College St., Sherbrooke, QC, J1M 1Z7, Canada Physics Department, Champlain College-Lennoxville,
+2580 College St., Sherbrooke, QC J1M 0C8, Canada
+Density perturbations in the cosmic microwave background within general f (R, φ) models of gravity are investigated. The general dynamical equations for the tensor and scalar modes in any f (R, φ) gravity model are derived. An application of the equations to the (varying power)-law modified gravity toy-model is then made. Formulas and numerical values for the tensor-to-scalar ratio, the scalar tilt and the tensor tilt are all obtained within this specific model. While the model cannot provide a theoretical reason for the value of the energy scale at which inflation should occur, it is found, based on the latest observations of the density perturbations in the sky, that the model requires inflation to occur at an energy scale less than the GUT-scale; namely, ∼ 1014 GeV. The different energy intervals examined here show that the density perturbations recently obtained from observations are recovered naturally, with very high precision, and without fine tuning the model’s parameters.
+
+PACS numbers: 98.80.-k, 98.80.Es, 98.80.Cq
+
+
+INTRODUCTION
+
+The increased precision of recent observations of the cosmic microwave background (CMB) [1, 2] gives a pre-cious tool to put to test any model of gravity that departs from general relativity. The simplest way general rela-tivity could make a signature in the CMB is through a minimal coupling of gravity with the scalar field respon-sible for inflation [3] (see also Refs. [4–6] and [7, 8] for the early works on inflation). It is well known, however, that many of the inflationary models based on a single field require unsatisfactory fine-tuning of their parame-ters (see e.g. Ref. [9] for a nice survey.) This is, it turns out, one of the reasons that make modified gravity mod-els attractive because less fine-tuning is required in these models and one can use them to study cosmology [10–12] and density perturbations during matter domination [13–30].
+The advantage of modified gravity over general relativ-ity minimally coupled to a scalar field is provided by the higher powers of curvature that take the lead at small scales. The simplest modified gravity model known to accommodate inflation is Starobinsky’s power-law model [7]. In this model the Hilbert-Einstein action is increased by a term containing the second power of the Ricci scalar. Many more power-law models have been introduced since then, either suggested, along with other higher-order curvature invariants, by low-energy effective La-grangians in string theory and other approaches to quan-tum gravity [31], or introduced just for phenomenological reasons. The latter are more or less favored among them-selves for various cosmological reasons [32–34], such as,
+
+
+∗ fhammad@ubishops.ca
+the solar-system tests [16, 35], the weak lensing [36, 37], the cluster abundance [38] and the baryon acoustic oscil-lations [39, 40] (see also Ref. [41] for a link between modi-fied gravity and microscopic physics.) In these more com-plicated power-law models, known collectively as f (R)-gravity models, one finds one or more powers of the Ricci scalar in the gravitational action. In order to make the models agree with the various constraints from observa-tions, some of them require integer powers of the Ricci scalar while others just require that the power be a real number (see e.g. Refs. [18, 37, 42–44].)
+This a priori continuum of possibilities for the powers of the Ricci scalar that might appear in the additional term inside the Hilbert-Einstein action is what has moti-vated the introduction of the (varying power)-law modi-fied gravity model in Ref. [45]. Indeed, instead of choos-ing a given fixed power for the Ricci scalar in the action, one might just leave the power to vary, as a free addi-tional degree of freedom, in the hope that it adjusts itself according to the physical environment it finds itself in. The power of the Ricci scalar thus becomes a scalar field governed by precise dynamics just as any other ordinary scalar field. It has been pointed out in Ref. [45] that the model can easily be used to generate inflation. Moreover, it has been shown in Ref. [46] that this highly non-linear coupling of the scalar field with gravity protects the field from any fifth force test due to the huge mass the field acquires within any low-curvature environment, and this for whatever initial mass the field happens to start with. This model belongs to the category of modified gravity models known as f (R, φ) models.
+In fact, besides being a source of the possible early in-flationary expansion of the Universe, a scalar field has also found applications in modified gravity models. A scalar field non-minimally coupled to gravity is mostly found in string theories where it plays the role of a dila-
+
+2
+
+
+ton field [47]. Just as with f (R) models of gravity, more general models combining one or many scalar fields with the curvature tensors have been studied in the litera-ture under the name of scalar-tensor theories of grav-ity [48]. The simplest and most well known are those combining only one scalar field φ and the Ricci scalar R inside a gravitational action whose Lagrangian is a functional f (R, φ) of these two scalars. In these mod-els, one combines the advantages of having higher-order curvature terms with those of having an additional de-gree of freedom for spacetime. These models have been extensively studied in the literature with applications in cosmology in general [49–52] and in the study of density perturbations during matter domination [53, 54].
+The aim of the present paper is to first derive the gen-eral dynamical equations for the tensor and scalar pertur-bation modes during inflation in a general f (R, φ) model of gravity. To the best of our knowledge, this specific analysis has not been given elsewhere. The general the-ory of density perturbations in f (R, φ)-gravity has been exposed in Ref. [55]. However, the focus in that reference was not on the perturbations relevant for inflation, and hence no derivation is given for the dynamical equations of the tensor and scalar modes useful for inflation.
+The second goal of this paper is then to use these re-sults for general f (R, φ) models to examine the conse-quences of the highly non-linear coupling in the (varying power)-law modified gravity on the density perturbations in the CMB. Indeed, as pointed out in Ref. [45], because of its high non-linearity, this model cannot be reduced to an f (R) model as usual f (R, φ) models do by a suitable redefinition of the scalar field [48]. The remarkable re-sult is that the model is able to reproduce at very high accuracy some of the observed values in the sky without making any fine-tuning on its parameters.
+Just like in single-field inflationary models, this model allows a very slowly decreasing Hubble parameter dur-ing inflation and, hence [56], a small, but non-vanishing red tilt of the spectrum of the curvature perturbations, results. Furthermore, the model predicts, just as it is re-quired from inflation [57], a nearly scale-invariant power spectrum of the primordial tensor perturbations. The fact that the scalar field controls the power of the Ricci scalar is what makes the scalar perturbations that cou-ple to matter energy density and pressure perturbations dominate the tensor modes which exist even in the ab-sence of matter in the form of gravitational waves.
+As we shall see, although the model might only be phe-nomenological, all it requires as input is the energy scale at which one decides to apply it. In this paper we choose the scale to be the scale of inflation itself, i.e., less than the grand unified theories (GUT) scale, as suggested by
+call the (varying power)-law model’s action from which one extracts the scalar field’s potential, the Klein-Gordon equation for the scalar field, and the modified Friedmann equation for the Hubble parameter. We then deduce the approximations corresponding to these three equations relevant for the early inflationary expansion of the Uni-verse. Using these approximate equations, we compute the numerical values of the analogue of the slow-roll pa-rameters in usual single-field inflationary models. These numerical values of the parameters are used in subsec-tions III A and III B, along with the dynamical equations, to study the density perturbations implied by the model. The tensor-to-scalar ratio, the tensor and the scalar tilts are evaluated and compared with observations. We end this paper with a discussion and conclusion section.
+
+SCALAR VS. TENSOR PERTURBATIONS IN f (R, φ) GRAVITY
+
+In this section we shall derive the various equations needed to study the primordial density perturbations in any f (R, φ) model of gravity. In single-field inflationary models, the power spectrum h of the tensor perturba-tions and the power spectrum R of the scalar perturba-tions in a de Sitter or quasi-de Sitter inflation are given by very simple expressions featuring the Hubble param-eter H and the slow-roll parameters of the model (see e.g. Ref. [58]). In more general f (R, φ) models of grav-ity, however, the field equations of the theory are more complicated [59], and hence one does not expect a priori to find such simple formulae. In what follows, we shall therefore first derive the general dynamical equations of the scalar and tensor perturbations in any f (R, φ) model of gravity. These equations will allow one to extract the corresponding power spectra formulae from which one can deduce the expressions of the tensor-to-scalar ratio, the scalar tilt and the tensor tilt for any specific f (R, φ) model.
+
+Scalar modes in f (R, φ) gravity
+
+The  field  equations  of  a  general f (R, φ)-gravity model are obtained by varying the action,
+2	4	/	2	2 2
+P
+to the metric gµν [48, 59]. Here, f (R, φ) is a regular
+functional of the Ricci scalar R and the scalar field φ, and MP is the Planck mass while m is the scalar field’s mass. We shall work throughout this paper with the natural units k = c = 1. The metric field equations then read [48, 59],
+
+the model when confronted with the latest observations	1	φ
+
+[2].
+The outline of the reminder of this paper is as fol-lows. In Section II, we derive the general dynamical equa-tions of the tensor and the scalar perturbations within a general f (R, φ)-gravity model. In Section III, we re-
+f,RRµν − 2 gµν f + (gµν  − ∇µ∇ν )f,R = Tµν ,	(1)
+where T φ = ∂µφ∂ν φ 1 gµν (∂φ)2 1 gµν m2φ2 is the energy-momentum tensor of the scalar field φ. We will keep neglecting henceforth T m , the energy-momentum
+
+
+
+tensor of ordinary matter fields, as it is a natural as-sumption to discard the contribution of ordinary matter during the inflationary epoch. We will also neglect the
+
+
+
+δRij = ∇i∇j(Ψ − Φ) − a2δij
+3
+
+"Ψ¨ + 5HΨ˙
+
+mass term of the scalar field φ as it is irrelevant at these scales, in f (R, φ) models in general, and in the (varying power)-law model in particular [45, 46]. In fact, besides the non-minimally coupled potential of the scalar field,
++ 2H˙ + 6H2	∇
+a2
+Ψ + 2HΦ˙ + (2H˙ + 6H2)Φ#
+
+.  (6)
+
+already taken into account inside the f (R, φ)-term, the dominant contribution of φ comes mainly from its kinetic energy 1 φ˙2.
+The field equations (1) describe the dynamics of the unperturbed spacetime background. We proceed now to the introduction of perturbations in the latter. First, by considering a small perturbation hµν 1 of the back-ground Friedmann-Lemaˆıtre-Robertson-Walker (FLRW) metric g¯µν = diag(−1, a2, a2, a2), where a(t) is the pos-
+First, by plugging the components (6) of the perturbed
+Ricci tensor inside the perturbed field equations (2), we can isolate the following ij-components, with i /= j:
+f,R∂i∂j(Ψ − Φ) − ∂i∂jδf,R = 0,	(7)
+which integrate to give, δf,R = f,R(Ψ Φ). On the other hand, by plugging the 0i-components (4) of the perturbed Ricci tensor inside the perturbed field equations (2), we obtain,
+
+itive scale factor, such that gµν = g¯µν + hµν , we can
+
+extract from (1) the resulting perturbed field equations as follows,
+2f,R(H∂iΦ+∂iΨ˙ )  ∂0∂iδf,R+H∂iδf,R+∂iΦf˙,R = φ˙∂iδφ.
+(8)
+When integrating these equations with respect to the spa-
+
+tial coordinates i, and then substituting δf,R in terms of
+¯
+
+f,RδRµν + (Rµν − ∇µ∇ν )δf,R − 2 g¯µν δ(f − 2 f,R)
+1	λ	φ
+Ψ and Φ, we find the following single differential equa-tion:
+
+— 2 hµν (f − 2  f,R) + δΓµν ∇λf,R = δTµν.  (2)	˙	˙	˙	˙	˙
+
+
+We followed here the convention used in Ref. [60] by distinguishing the unperturbed background quantities with an overbar. A direct computation gives the non-vanishing Ricci tensor components of the background
+f,R(Φ + Ψ) + (Hf,R − f,R)(Φ + Ψ) + 3f,RΦ = φδφ. (9)
+By differentiating this equation once with respect to the time coordinate and then making use of (9) once more inside the resulting equation, we arrive at the following second-order differential equation in time t, that we are
+
+spacetime [60], R¯00 = −3(H˙ + H2), R¯0i = 0, and
+going to make use of later:
+
+R¯ij = a2δij(H˙ + 3H2). For the Christoffel symbols, the
+
+relevant non-vanishing components are [60], Γ¯i = Hδi	¨	¨
+
+/
+φ¨ ! ˙	˙
+
+Next, in order to study the scalar perturbations, one usually chooses the perturbed FLRW metric written in
++ "H˙ + H
+  f˙,R −
+/
+φ¨ ! −
+f¨,R
++
+f˙,R
+φ¨#
+
+(Φ + Ψ)
+
+the Newtonian (or longitudinal) gauge [60] (see also
+Refs. [61, 62]),
+
+3f˙
+f,R
+φ˙
+  f¨
+f,R
+f˙
+f,R φ˙
+φ¨!
+
+φ˙δφ˙
+
+ds2 = −(1 + 2Φ)dt2 + a2(t)(1 − 2Ψ)δijdxidxj.	(3)
++	,R Φ˙ + 3
+f,R
+,R
+/
+f,R
+,R
+f,R φ˙
+Φ =
+f,R
+.	(10)
+
+
+The small dimensionless quantities Φ and Ψ, called the Newtonian potential and spatial curvature, respectively, give the perturbations hµν of the metric about its back-ground value g¯µν . Thus, the perturbed components of
+Let us now write explicitly the 00-component as well as the ij-components of the perturbed field equations
+(2). We have the following equations, where for the ij-components we divide both sides of the equalities by a2:
+
+the connection that will be relevant for us are, δΓ0 =
+
+0	˙	0	2
+0i
+˙	f  δR
+— (3H˙ + 3H2 + ∂2)δf
+— 2 f )
+
+∂iΦ, δΓ00 = Φ and δΓij = −a δij(2HΦ + 2HΨ + Ψ). On
+,R	00
+0	,R + 2 δ(f	,R
+
+the other hand, with such a metric as (3), the perturbed
+components of the scalar field’s energy-momentum tensor read, δT φ = φ˙δφ˙, δT φ = φ˙∂iδφ and δT φ = a2δij [φ˙δφ˙ −
+
+f,R δR a2	ij
++ Φ(f − 2 f,R) + Φ˙ f˙,R = φ˙δφ˙.	(11)
+— ∇i∇j δf,R
+
+(Ψ + Φ)φ ], and for the perturbed Ricci components, we
+easily compute,
+δR0i = 2∂i(HΦ + Ψ˙ ),	(4)
+
+¨	˙	˙	∇
++δij (H˙ + 3H2)δf,R − 2 δ(f − 2 f,R) + Ψ(f − 2 f,R) 
+δij(2HΦ + 2HΨ + Ψ˙ )f˙,R + δij (Ψ + Φ)φ˙2 = δijφ˙δφ˙.
+(12)
+By adding (11) and (12), after multiplying the first by
+
+δR00 = 3Ψ + 6HΨ + 3HΦ + a2 Φ,	(5)
+δij, the term δ(f −2 f,R) cancels out. Also, by using the
+
+
+
+identity, f,R(Ψ Φ) = δf,R, the term i jδf,R in (12) cancels out with a similar term provided by the presence of δRij in that equation, as it follows from (6). Then, after substituting the full expressions (5) and (6) of δR00
+4
+
+f δR  −  hij (f − 2 f ) − ∇ ∇ δf
++ δ a2 (H˙ + 3H2)δf	−  δ(f − 2 f  ) 
+
+the sum of (11) and (12) yields,
+Φ¨ +Ψ¨ + H − 3f˙,R ! (Ψ˙ +Φ˙ )+ 4H˙ + 2 f¨,R ! Φ+ 6f˙,R Φ˙
+
++  a2Hδij
+
+h00
+
+— ∂(i
+1
+hj)0 + 2 hij
+
+ f˙,R
+
+= a2δij
+
+φ˙δφ˙.	(16)
+
+
+/
+f,R
+— 4H˙ + 6H2 − f − 2 f,R
+/
+
+
+2Hf˙,R
++	+
+f,R
+
+/
+f,R
+f¨R − φ˙2
+/
+f,R
+2φ˙δφ˙
+
+/
+f,R
+2
+— a2
+In contrast to what we did for the scalar modes, where
+we were only interested in the gravitational potentials Φ and Ψ, in this subsection, being interested in the gravi-tational waves, we will decompose the total perturbation hµν of the metric as follows:
+
+× (Φ + Ψ) =
+f,R
+.  (13)
+ds2 =	(1 + 2Φ)dt2 + a2(t)(1	2Ψ)δij + hij dxidxj.
+(17)
+
+Finally, by substituting in the right-hand side of this equation the previous result (10), we find,
+By using the transverse gauge, we manage to have a van-ishing vector part and a transverse 3-tensor, ∂ihi = 0,
+
+
+
+Φ¨ + Ψ¨ +
+
+2φ¨
+H −	+
+3f˙,R !
+/
+
+(Φ˙ + Ψ˙ )
+satisfying also the traceless condition, h i = 0. With this decomposition of the metric, we also have a similar split-ting for the linearized perturbation of the Ricci tensor as,
+
+φ˙	f,R
+δRµν = δRh +δRS . Here, δRh
+is the Ricci tensor con-
+
+µν	µν	µν
+
+4f¨
+
+/
+6f˙
+
+/
+φ¨!
+structed from the tensorial components hij of the metric,
+/	/ /
+
+
++ "6H˙ + 6H2 + H
+4f˙,R
+f,R
+2φ¨	f − 2 f,R
+φ˙	fR
+S have already been found previously and are given by (4), (5) and (6).
+With this splitting, it is easy to see that after substi-
+
+f¨,R
+— f,R
+2f˙,R φ¨	φ˙2
+
+/	/
+f,R φ˙ − f,R
+2
+— a2
+
+(Φ + Ψ) = 0. (14)
+tution in the perturbed field equations (15) and (16), one recovers all the terms already found in (11) and
+(12).	However, new additional terms will appear in (16), coming from δRh , as well as the two new terms,
+
+This result is the general dynamical equation of the
+1 hij(f − 2 f,R) and 1 h˙ ij f˙,R, that were absent in (12).
+
+gravitational potentials Φ and Ψ in any f (R, φ) model.	2	2
+
+We shall apply this equation to the (varying power)-law model in the next section. First, though, we shall find in the next subsection the analogue of this equation for the tensor modes.
+
+
+Tensor modes in f (R, φ) gravity
+
+In order to study the tensor perturbations, one in-troduces again a small general perturbation hµν on the FLRW background metric g¯µν such that the new met-ric reads gµν = g¯µν + hµν . The non-vanishing per-turbed components of the Chritstoffel symbols that will
+be relevant for us here are then [60], δΓ0 = − 1 h˙ 00,
+Therefore, with an analysis similar to the one done for
+(11) and (12), we conclude that after adding the two lines
+(15) and (16) the scalar terms Φ and Ψ could be chosen such that one eliminates all the terms that already ap-peared in the previous subsection and which were related to the perturbation δf,R.
+Notice that this procedure is reminiscent of what was done in Ref. [63] for f (R) gravity models, where one in-troduces the decomposition gµν = g¯µν +hµν +g¯µν F , with hµν chosen such that it is transverse and traceless , while the scalar F is chosen such that it cancels out all the contributions of δf,R and its derivatives. Here, we had to introduce two functions Φ and Ψ because in f (R, φ) models one has, in addition to the Ricci scalar R, also the field φ as a separate degree of freedom.
+Thus, after eliminating the gravitational potentials Φ
+
+δΓ0 = − 1 ∂ih00 and δΓ0 = (a2Hδijh00 − ∂(ihj)0 + 1 h˙ ij ).
+
+Therefore, the 00-component and the ij-components of
+the above perturbed field equations (2), read, respec-tively,
+following simple set of equations:
+f − 2 f,R	˙
+
+
+
+f˙,R
+
+
+f,RδR00 − (3H˙ + 3H2 + ∂2)δf,R +
+
+/δ(f − 2 f,R)
+δRh − hij
+2f,R
++ hij
+
+/
+2f,R
+= 0.	(18)
+
+0	2
+h	h˙
+Here we have made use of the fact that δRh = 0, as one
+
+—  00 (f − 2 f,R) −  00 f˙,R = φ˙δφ˙, (15)
+might easily verify [60] given the traceless and transverse
+
+2	2	conditions we imposed on hij. On the other hand, given
+
+5
+
+these traceless and transverse conditions we chose for hij,	First, the full modified Friedmann equation one finds by
+
+the perturbation δRh
+simplifies to [60],
+writing the field equations in the flat FLRW metric is
+[45],
+
+h	1   2
+/
+
+2	∇2	/	"	/	#
+/	/
+
+Substituting this inside (18), the latter takes the follow-ing form:		
+2	µ2
+m2φ2
+
+µ2   R  φ
+2	µ2
+φ˙2
++	+
+µ2H d "  φ   R  φ#
+
+"	˙ !
+2 #	6
+
+/
+12	µ2
+
+/	/
+6	2  dt  R	µ2
+
+0	f,R	0
+f,R
+
+/
+a2	ij
+/
+(20)
+(23)
+Here, H = a˙ /a is the Hubble parameter and an overdot
+
+This second-order differential equation in time t is the
+equation governing the dynamics of the transverse part
+hij of the background metric perturbation in a general
+denotes, as usual, a time derivative. From this equation we see the reason why we divided here by 2 the mass squared µ2 in front of (R/µ2)φ in the action (21). Indeed,
+
+f (R, φ) model of gravity.
+setting R = µ2 in (23) and φ˙ = H˙
+= 0 gives H2 = µ2/12.
+
+This is consistent with the fact that R = 12H2 when
+
+APPLICATION TO THE (VARYING POWER)-LAW MODEL
+
+Let us now use all the results found in the previous section for general f (R, φ)-gravity to deduce the conse-quences of the (varying power)-law model on the den-sity perturbations. Let us first recall the main equations of the model. By setting c = k = 1 and introducing the mass scale µ, the gravitational action of the (varying power)-law model reads [45],
+H˙ = 0. This would have been otherwise if we had not divided by 2 the factor µ2 in the action.
+Next, the Klein-Gordon equation one obtains from the field equations is [45],
+φ¨ + 3Hφ˙ + ∂V (R, φ) = 0.	(24)
+∂φ
+In order to substitute for φ˙ arising in the Friedmann equation (23) the Klein-Gordon equation needs to be solved for φ˙ in terms of φ and R. To be able to do that,
+
+M 2 ∫
+√	"
+µ2   R  φ#
+however, the simplest way is to discard the second deriva-
+
+S =	P
+16π
+d4x
+−g  R − (∂φ)2 − m2φ2 −
+,
+µ2
+(21)
+tive φ¨ from (24) and keep only the other two terms. This
+is possible provided that either |φ¨| can be neglected in front of the Hubble friction term 3H|φ˙| or that the ratio
+|φ¨|/3H|φ˙| stays nearly constant so that one could turn
+
+where MP is the Planck mass and m, whose order of
+magnitude is not constrained by the model, is the scalar field’s mass.
+Notice that here we brought two modifications inside the action with respect to the one used in Refs. [45, 46]. The first modification is that we have chosen the mass scale µ in the denominator of (R/µ2)φ instead of the higher Planck scale M 2 chosen in Refs. [45, 46]. The sec-ond modification is that we have divided by 2 the factor µ2 in front of the term (R/µ2)φ. As we will see shortly, the second modification is dictated by the first modifi-cation. The reason for the first modification will be ex-plained later on when we examine the power spectra in subsection III C. Note, however, that the analysis done in Ref. [46] concerning the effective mass of the scalar field that rises from the radiative corrections in the model re-mains valid since the analysis done there did not depend at all on the ratio R/µ2.
+From the action (21) it is clear that the potential of the scalar field φ depends also on the Ricci scalar and reads,
+(24) into a first-order differential equation in φ. As we shall see below, this second condition is satisfied during inflation.
+Note, however, that in contrast to usual single-field inflationary models, where one requires the condition
+|φ¨| ≪ 3H|φ˙| to sustain inflation, our condition to have
+φ small enough to be neglected in front of 3H φ or just be proportional to the latter is not required by inflation itself but represents only a possible simplifying assump-tion that will turn out to be automatically satisfied by the model during inflation.
+Instead of relying on such assumptions, in what follows we are going to keep, as a first step, all the terms in (24) and write the latter as,
+
+φ˙ =		1 ∂V		φ¨ .	(25) 3H ∂φ	3H
+We now set, for convenience, R/µ2 = ρ. Then, after neglecting the mass term m2φ2 in the potential (22) and using the approximation R ≈ 12H2, extracted from the
+
+m2	µ2   R  φ
+
+/	/
+/	/	/
+geometric identity R = 6H˙ + 12H2 for an FLRW Uni-
+
+
+6
+
+
+approximation for φ˙:
+from (26), we find, after setting ln ρ = ℓ for convenience,
+
+
+φ˙ ≃ −
+
+H + H˙
+2H
+
+
+ρφ−1 ln ρ −
+
+φ¨
+.	(26)
+3H
+H˙
+H2 ≃
+
+
+ρφ−1
+
++  ℓ2
+
+ℓ3
++ φℓ3
+3
+
+
+ρ2φ−2
+
+— 2ℓ ×
+
+
+Substituting this approximation for φ˙
+
+as well as the
+4(1 − φ) ρ
+ℓ
+1−φ
++ ℓ +
+ℓ3	φℓ3	ℓ2
+6 −  2  − 2
+ρ2φ−2
+
+above approximations for R and R˙ , the modified Fried-	  	 
+#−1
+
+and φ¨/H2, as follows:
+6 − 3 − 6φ +
+3  − 2φ ℓ − ℓ	ρ
+. (29)
+
+
+
+φ−1
+
+  1	2
+
+
+2	2φ−2
+As we see from equations (14) and (20) of Section II, we will also need hereafter the ratio φ¨/H2. Differentiating
+
+/
+
+H˙   2 − 3φ ln2 ρ − ln ρ ρ2φ−2 + (2 + 4φ2 − 6φ)ρφ−1	¨	" 
+3	  ˙
+
+
+/
+2H2
+3
++  φ¨  2 − 3φ ln ρ − 1  ρφ−1.  (27)
+ φ 	φ−1
+H2 ≃ ρ
+ 
+
+
+ℓ	2	2φℓ + ℓ ρφ−1	 H 
+H2
+/		#
+/	/
+
+
+Now we need to find the corresponding value of the field φ for each value of the ratio ρ; that is, for each value of the Hubble parameter H during inflation. This is pos-
+sible only if we neglect the ratios H˙ /H2 and φ¨/H2 in the
+above equation and then solve the resulting equation for different energy scales. Just as in usual single-field in-flationary models, this approximation is justified by the fact that for inflation to last long enough the variation
+of the Hubble parameter, as well as the variation of φ˙,
+should be insignificant relative to H2 during inflation. Furthermore, as it will turn out, this approximation will be justified a posteriori as revealed by the third and fifth columns of Table I below, making our mathematical pro-cedure fully consistent. The equation that one obtains is thus,
+
+2 + (φ − 2)ρφ−1 −  1 ln2 ρ − ln ρ − φ ln2 ρ  ρ2φ−2 ≃ 0.
+(28)
+Note that, contrary to familiar single-field inflationary models, the Hubble parameter squared H2 in this model is not simply given by the scalar field’s potential (22), but rather by a more complicated effective potential H2 = V(φ) that cannot be extracted analytically as we see from
+Now, the numerical values of ρ and φ, as well as the ra-tios φ˙/H, H˙ /H2 and φ¨/H2 will all be needed in order to compute the quantities that would yield the density per-
+turbations to be compared with observations. For that purpose, we have tabulated the numerical values that correspond to the various energy scales immediately be-low the scale µ2 using equations (28), (26), (29) and (30), respectively.
+One criterion used in usual single-field inflationary models, and that remains valid in the present model, is to satisfy the so-called first two slow-roll conditions. These conditions guarantee that the rapid expansion of the early Universe is maintained sufficiently long for the Universe to reach the size required to solve the hori-zon and flatness problems [62]. Indeed, these conditions are independent of the particular model one chooses as they represent conditions on the kinematics of the early Universe. The first condition is the one we already saw above, which is that the variation of the Hubble param-eter be negligible, while the second condition is that the variation of the field φ be negligible in front of H. That is,
+ǫ ≡ |H˙ | ≪ 1,	η ≡ |φ˙| ≪ 1.	(31)
+
+the highly non-linear equation (28).	H2	H
+
+Note also that for H˙
+= 0 and ρ = 1, i.e., for R = µ2,
+In usual inflationary models, where the Hubble pa-
+
+all the logarithm terms in this equation vanish and the
+equation gives φ = 0. That is, at the inflation scale µ2 the value of the scalar field vanishes and starts to increase with the expansion of the Universe from then on during inflation.
+Since equation (28) allows us only to find H and φ, we need to differentiate the equation once more with respect to time t in order to find the approximate values for the
+ratio H˙ /H2 that we neglected in (27). Differentiating
+and then substituting in the resulting equation φ˙
+rameter is given by H2 V (φ), the analogue of the η-condition is φ˙2/H2 1, which, thanks to (25), is just equivalent to the ǫ-condition in (31). As we saw above, however, in the (varying power)-law model the Hubble parameter is not simply given by H2 V (φ) and, there-fore, no condition should a priori be imposed on φ˙. As we shall see below, though, our η-condition will be automat-ically satisfied throughout all the duration of inflation.
+The different values we find for different energy scales using a numerical computation are tabulated below.
+
+7
+
+TABLE I. The numerical values of the various parameters at different energy scales.
+
+
+
+From this table we clearly see that in order to satisfy the two slow-roll conditions enumerated above, inflation in this model should start at an energy scale µ and end at another energy scale not very far off. The end of inflation will occur at that energy scale for which either both or one of the slow-roll parameters in (31) ceases to be small and negligible. It is clear from this table that both slow-roll conditions in (31) are satisfied up to the scale ρ ∼
+with ρ 1 and φ 1, we can use the following approximation: ǫ ln ρ/6. On the other hand, since 12H2 R(1 1 ǫ), we also have d ln H 1 d ln ρ 1 dǫ. Therefore, the first integral on the right-hand side in (32), which can be written as f Hdt =  f d ln H/ǫ, can also be performed as follows:
+∫ f   d ln ρ	dǫ	13	 ln ρf 
+
+10−0.05. Around the energy scale ρ	10−0.05, the second slow-roll condition on η starts to be violated. Therefore,
+N	3	+
+i	ln ρ	4ǫ
+=	ln
+4
+ln ρi
+.	(33)
+
+in this model inflation should end at this energy scale.
+In fact, in contrast to what is done in usual scalar field inflationary models, we will not be able to compute here the number of e-folds N to deduce the required final value of the scalar field at the end of inflation. This is because the number of e-folds N would have to be found from the following integral:
+∫ f	∫ φf  V(φ) 
+
+With this formula, we can easily investigate the pos-sible initial and final values of ρ that would lead to the necessary amount of e-folds expected from any inflation-ary model. The required number of e-folds to agree with observation is generally set to be at least N 50 [2]. From the table above, we easily verify that the closer to the µ-scale one allows inflation to end, the closer to that scale one needs inflation to also start. For example, if one assumes inflation to have ended at the energy scale
+
+the energy scale of ρ ≃ 10	, in which case one finds,
+
+As we saw above, unfortunately, the analytic evaluation of this integral is rendered impossible because no ana-lytic expression for the effective potential (φ) could be extracted from (28).
+It is still possible, however, to estimate the value of the integral (32) by making some approximations based on the results we found above. Indeed, using the result
+N  50. If, on the other hand, one assumes inflation to have ended at the energy scale of ρ 10−0.01, then one finds for the same starting energy scale, N 45. To have a bigger number of e-folds one needs to push back the starting of inflation to scales which are even closer to the µ-scale, if not exactly equal to µ.
+With these numerical results, we shall investigate in
+
+8
+
+
+the next two subsections the density perturbations as im-plied by the model in detail.
+
+Scalar modes in the (varying power)-law model
+
+Let us now adapt all the equations found in Sec-tion II to the (varying power)-law model. First of all, since in this model f (R, φ) = R − 1 µ2(R/µ2)φ, we have
+f,R = 1 − 1 φ(R/µ2)φ−1. On the other hand, since infla-
+during all the period we take for inflation. Therefore, we learn that, to a good approximation, Eq. (36) is of the form,
+Θ¨ k + H(1 − A)Θ˙ k − AH2Θk = 0,	(37)
+where, A is a positive constant because φ¨/Hφ˙ > H˙ /Hφ˙ . The solution to this last equation is of the form, Θk = c1(k)e−Ht +c2(k)eAHt. Keeping the converging so-lution, we set the second integration constant to vanish,
+
+2
+tion happens for µ2
+~ R = 6H˙ + 12H
+2, as we saw below
+c2(k) = 0, while we keep c1(k) arbitrary. Therefore, we learn that for super-horizon scales the sum Ψ+Φ is given
+
+equation (28), and for which we found φ	1 as it appears
+from Table I of the previous subsection, we may adopt
+the following approximations: f ∼ R − 1 µ2 ∼ 3H˙ + 6H2,
+by,
+
+c (k)	c (k)H
+
+2
+˙	1 ˙	¨	1 ¨	1
+Ψ + Φ ∼  1	 =  1	 .	(38)
+
+f,R	1, f,R	2 φ, f,R	2 φ and  f,R	2 φ.	a	k
+Then, by substituting these inside the differential equa-
+
+tion (14), the latter takes, in Fourier space, the following form:
+Here, we have used the fact that at Hubble crossing, k =
+aH. We deduce from this that for the quasi-de Sitter
+
+
+Φ¨  + Ψ¨
+
++ H − 2φ¨ − 3φ˙
+! (Φ˙
+
++ Ψ˙
+) − H˙ − /φ¨! δφ
+regime, Ψ˙ k + Φ˙ k	ǫH(Ψk + Φk). Using this result in
+(35), we have finally that,
+
+k	k
+φ˙	2
+"	2φ¨!
+k	k	k
+4
+k2 #
+
+Ψk + Φk ≃
+13η
+δφk.	(39)
+8
+
++ H˙ + H
+φ˙ − ˙
+φ˙2 +
+a2
+(Φk + Ψk) = 0.
+(34)
+What we are interested in actually is the gauge invari-ant curvature perturbation R that combines the metric
+
+and matter field perturbations, R = Ψ + Hδφ/φ˙ (see
+
+Here, we have used the fact that Ψ − Φ = δf,R/f,R ∼
+2 δφ, as it follows from the approximations we made above, in order to recast the differential equation in terms
+of the sum Φ + Ψ. On the other hand, equation (9) becomes, within our approximations for f,R and f˙,R, as follows:
+e.g., Refs. [61, 62].) This gauge-invariant quantity gives the curvature perturbation in co-moving coordinates be-cause it is constructed so that it allows one to find the curvature perturbation on hypersurface slices such that δφ = 0. Now, since we already found that Φ = Ψ + 1 δφ, we deduce from (39) that the gauge-invariant curvature
+˙
+
+Φ˙ + Ψ˙ +	H	φ˙
+4
+
+(Φ + Ψ) =
+11 φ˙δφ.	(35)
+8
+perturbation is simply	Hδφ/φ. This is in agreement
+with what single-field inflationary models predict within general relativity.
+All that remains then is to find the modes δφk of the
+
+Therefore, by combining equations (34) and (35), and
+setting Ψ + Φ = Θ, we obtain,
+scalar perturbation. For that, let us go back to the Klein-Gordon equation (24) and find the equation obeyed by the perturbation δφ. Perturbing that equation gives, in
+
+Θ¨ k
++ H  1 −  20φ¨
+8H˙
+—	˙
+3φ˙	Θ˙
+2H
+Fourier space,
+
+11Hφ
+
+
+11Hφ
+
+/	/	/	/
+
+k2 
+
+/
+
+
+
+13H˙
+k2 !
+= −V,φRδRk − 2ΦkV,φ + (Φk + 3Ψk)φ.	(40)
+We should eliminate from this equation the perturba-
+
+— 11H2 − a2H2
+Θk = 0.  (36)
+tion δRk of the Ricci scalar on the right-hand side by expressing it in terms of the perturbation δφk. Let us
+
+Let us distinguish the two regimes of sub-horizon and
+super-horizon scales for which one has, respectively, k aH and k	aH. Here, we are interested in the latter. In this case, the last term in the second set of parentheses of (36) can be neglected. Furthermore, according to the results in Table I, all the other terms in both sets of parentheses can also be safely neglected except for the
+two fractions φ¨/Hφ˙ and H˙ /Hφ˙. However, Table I shows that these two fractions remain approximately constant
+write down the expression of the perturbed Ricci scalar, δR. This could be done either by using the perturbed metric (3) or by just combining (5) and (6). We find the following result in Fourier space:
+δRk = −6Ψ¨ k −H(21Ψ˙ k +9Φ˙ k)−(6H˙ +18H2)(Ψk+Φk)
+k2
+— a2 (4Ψk − 2Φk).	(41)
+
+
+
+By using (39) and the fact that Ψk	Φk =	1 δφk, iden-tity (41) may be approximated to,
+9
+
+Since for x ≫ 1 the Hankel’s functions satisfy H(1)(x) ∼
+x− 1 eix and H(2)(x) ∼ x− 1 e−ix [64], we shall set the sec-
+
+  3	39η	65η 
+ond arbitrary integration constant c2(k) equal to zero
+
+/
+
+2	8
+ k2  3
+
+/
+/
+
+
+13η 
+
+/
+
+8
+117η	2 
+to recover the right dimensions for the quantum Fourier modes. On the other hand, since for x ≪ 1 we know
+
+/
+
+Substituting this in the right-hand side of (40) after de-ducing from (22) that V,φR ∼ 1/4 and after using our
+portant multiplicative constant, the following result for
+super-horizon scales for which k ≪ aH (−kτ ≪ 1):
+
+definition of the slow-roll parameters (31), we find, up to the first-order in the slow-roll parameters the following
+δσk ∼	1 (−kτ )αs −νs
+.	(47)
+
+differential equation:
+¨	30H	501η   ˙
+Therefore, the sought-after solution on super-horizon scales δφk reads,
+
+δφk +
+11
+1
+440
+δφk
+ 1+α −ν
+
+
+k2
++	1 +
+
+13η  −
+141η
+H
+
+δφ = 0. (43)
+H	k
+δφk ∼ √2k3	aH
+s	s
+.	(48)
+
+a2	22	16
+This is the dynamical equation for the scalar perturba-tion modes. This equation can most easily be solved by switching to conformal time τ , defined by dτ = dt/a(t). For then the equation becomes, after introducing the new variable δσk = aδφk, as follows:
+δσ′′ +  3   1 + ǫ − 501η  δσ′
+Before using this solution to compute the power spec-trum of the scalar perturbations, we first do a similar analysis in the next subsection and extract the dynam-ical equations of the tensor modes as well as their final expression.
+Tensor modes in the (varying power)-law model
+
++ k2  1 + 13η  −  19   1 + 27ǫ + 11049η  δσ
+= 0.
+We shall now apply the results obtained in subsection
+
+22	11τ 2
+19	3344
+k
+(44)
+II B to the case where f (R, φ) = R 1 µ2(R/µ2)φ. As we did in the first paragraph of subsection III A, we can use again here the following approximations: f ∼ R −
+
+Here, a prime denotes a derivative with respect to confor-mal time τ . To obtain this last equation we have assumed a quasi-de Sitter regime for inflation in which case one can approximate the Hubble parameter H in terms of the scale factor a and the conformal time τ as follows:
+1 µ2 ∼ 3H˙ + 6H2, f,R ∼ 1,  f,R ∼ − 1 φ and f˙,R ∼
+1 φ˙. Then, by substituting for φ˙ its expression from the
+approximate Klein-Gordon equation (25), the differential equation (20) takes, in Fourier space, the following more explicit form:
+
+H	(1 + ǫ)/aτ 1. Now the generic solution to equation
+(44) is of the form (see e.g., [64]),	2
+φ˙ !	2	˙
+k2 #
+
+h	i	∂0 −	H + 2
+∂0 − 2H
+— 3H −  φ + a2
+hijk = 0.
+
+νs	νs
+(45)
+(49)
+After absorbing the scale factor from the tensor hij by
+
+where, c1(k) and c2(k) are new integration constants, and
+H(1) and H(2) are the Hankel’s functions of the first and second kind, respectively. The parameters αs, νs and β are given by,
+defining the physical tensor mode ij [62] such that hij = a2 ij, and using the fact that φ = V,φ as it follows from the Klein-Gordon equation (24), the above equation reduces to the following approximation for the
+
+4	3ǫ
+1501η
+2	225
+285ǫ
+145555η
+wave equation of the transverse tensor modes:
+
+αs = 11 − 22 +
+968 ,	νs = 121 +
++
+121
+,
+21296	¨
+η  ˙
+ k2	2
+
+β = 1 +
+13η
+.	(46)
+22
+Hijk + 3H
+1 − 6
+Hijk +
+a2 + H
+(2η + ǫ)
+Hijk = 0.
+(50)
+
+
+/
+
+1 Note that, as pointed out by the anonymous referee, according to Table I, one does not necessarily have ǫ˙ ∼ ǫ2H which allows one to neglect the variation of ǫ and write H ≃ −(1 + ǫ)/aτ .
+Here, we have used again our definition (31) of the slow-roll parameters. Following the same procedure we used for the scalar perturbations above, we first rewrite this equation in terms of the conformal time τ and the new variables δχijk = aHijk,
+
+However, the usual integration that leads to such an approxima-
+η
+
+/
+1	5η 
+
+/	/
+
+that even if ǫ˙ is not second order in ǫ, the ratio H can, for our	2τ
+purposes, be safely neglected in such an integral.
+τ 2	2
+(51)
+
+10
+
+
+After solving this equation in the same way as we did for (44), we easily deduce the sought-after solution Hijk,
+ H   k   1+αt −νt
+the two slow-roll parameters ǫ and η, it is clear that we cannot go beyond the energy scale ρ 10−0.05 without violating the second condition on η in (31).
+Next, from the integral (33), we deduce that if inflation
+
+
+
+where,
+Hijk ∼ √2k3	aH
+1	η	2	9
+,	(52)
+11η
+has to end around ρ 10−0.05, it also has to start at most around ρ 10−10−8 in order to have the desired N 50. With these boundary conditions, we can compute the corresponding tensor-to-scalar ratio, the scalar tilt and
+
+αt = 2 − 4	and	νt = 4 + 3ǫ −
+.	(53)
+4
+the tensor tilt.
+Using the results in Table I we can compute the values
+
+Having obtained now both the tensor modes’ and scalar modes’ expressions, we proceed to compute their respec-tive power spectra in the next subsection.
+
+The power spectra in the (varying power)-law model
+
+Given the solution (48) we found for the equation of the scalar modes, the power spectrum of the latter is given by [62],
+of r, ns and nt in (56), (57) and (58), respectively, for various energy scales comprised between ρ 10−10−8 and ρ 10−0.05. We easily find that the scale for the Hubble crossing that matches the best with observations is com-prised between ρ  10−0.008 and ρ  10−0.01 for which the values of r, ns, and nt found using expressions (46) and (53) for αs, νs, αt and νt are: r [0.00035, 0.00055], ns [0.965, 0.972], and nt [0.031, 0.040],
+The specific scale that agrees best with the observed values is found to be ρ  10−0.009. Indeed for this scale a computation using again expressions (46) and (53) for
+αs, νs, αt and νt gives the following results:
+
+k3
+PR = 2π2M 2
+H2	2
+φ˙2 |δφk|
+H2
+= 4π2M 2 η2
+ k  2+2αs−2νs
+.
+aH
+
+r ≃ 0.00044,	(59)
+
+(54)
+Here, we have used the definition of our slow-roll param-eter η in (31) to obtain the second equality. Also, given the solution (52) we found for the equation of the tensor modes, the power spectrum of the latter is given by [62],
+ns ≃ 0.969,	(60)
+nt ≃ 0.036.	(61)
+Here we have used the value of the scalar tilt to find
+the best match. In fact, the value of the ratio r is only known by its upper boundary value which is r < 0.1 [2].
+
+Ph =
+k3
+2π2M 2
+|Hijk| =
+H2
+
+/
+4π2M 2
+ k  2+2αt−2νt
+aH
+. (55)
+Notice that the tensor tilt here is positive in contrast to usual single-field inflationary models where it comes out negative. The other major difference is that the model
+
+From these two expressions, the tensor-to-scalar ratio
+r =	h/ R k=k∗  at the Hubble crossing, for which
+k∗ = a∗H∗, can immediately be found to be,
+r ≃ η2,	(56)
+where η∗ is the slow-roll parameter in (31) evaluated at the Hubble crossing. The scalar and tensor tilts ns and
+predicts a very small value for the tensor-to-scalar ratio
+r.
+Using (54), (56), and (59) we can also deduce the en-ergy scale for inflation required by the model after mak-ing use of the relation between the scalar power spectrum R and its amplitude AS [62]. In fact, the latest obser-vations [2] show that the amplitude of the scalar power
+
+nt can be computed from the scalar and tensor power spectra PR and Ph, respectively, as [62],
+
+d ln PR
+spectrum at the Planck pivot scale k∗ is2 AS	2	10−9.
+This implies that the Hubble parameter, i.e., the in-flation scale according to our model, should be around
+~ 10	GeV.
+
+ns − 1 =
+d ln k
+
+k=k∗
+= 2 + 2αs − 2νs,	(57)
+We can see now the effect of having the scalar field in the power of the Ricci scalar. It is thanks to this term that the contribution of the perturbation δR appeared
+
+
+nt =
+d ln Ph
+d ln k k=k∗
+
+= 2 + 2αt − 2νt.	(58)
+on the right-hand side of (40) multiplied by the deriva-tive V,φR. This term could have had a big effect in the spectrum tilt of the scalar modes. But, because the same effect appeared both in the Hubble friction term and the
+
+With these expressions in hand, let us now plug in the numerical values and confront them with observations.
+First, as we discussed below the definitions (31) of our slow-roll parameters, two considerations must be taken into account when deciding where to look inside Table
+I. In fact, we should decide both where to start inflation and where to end it. From the two columns containing
+second derivative term of the scalar field the net effect is canceled out and the net result is a very small tilt being
+
+
+2 The author is grateful to the anonymous referee for having pointed this out.
+
+11
+
+
+proportional to the slow-roll parameters. Also, for the tensor perturbations additional terms appeared in the Hubble friction term but since these terms are due to the slow-roll parameters their effect is very small.
+
+DISCUSSION AND CONCLUSION
+
+We derived in this paper the general dynamical equa-tions for the scalar and tensor modes in any f (R, φ) mod-ified gravity model. We then applied these equations to the specific (varying power)-law modified gravity model. We have deduced the analogue of the slow-roll param-eters in single-field inflationary models proper to this model. We found that the model needs just two slow-roll parameters. By using these parameters and the con-ditions imposed on them, we were able to identify the adequate interval for the energy scale of inflation. We would like to emphasize here that it was only possible to deduce from this model the energy interval for inflation without being able to say anything about the starting point. This being due to the fact that the model is only phenomenological and can only work once an energy scale at which it is to be used has been fixed.
+The model allowed us to deduce the power spectra of the perturbations and to extract the tensor-to-scalar ra-tio, the scalar tilt and the tensor tilt. The numerical values we found for these are in agreement with the lat-est observations made of the CMB. In fact, we found that the model is able to recover the observed value of the scalar tilt to arbitrary precision. In contrast to usual single-field inflationary models the tensor-to-scalar ratio predicted by the (varying power)-law model is extremely small. Also, the model predicts a positive tensor tilt.
+In contrast to what is usually found in usual inflation-ary models, one does not need to fine tune the parameters of the model in order to recover actual observations. The only free parameters of the model are the scalar field’s
+mass m and the energy scale µ. As the scalar field’s mass is not relevant for inflation, the single parameter that was needed was µ. This energy-scale is what deter-mines the energy scale of inflation. By comparing with the latest observations of the density perturbations in the sky, the energy scale required by the model was found to be around ∼ 1014 GeV.
+The fact that we needed to have inflation start at a scale that is so close to µ up to the eighth decimal is not much of a short-coming of the model given that re-sults in agreement with observation could be recovered at an arbitrary precision. The fact that the model re-quires an inflation that starts at a given energy-scale with such a precision just means that as soon as the Uni-verse reaches that specific energy scale inflation suddenly ignites and lasts until the slow-roll parameters defined above no longer satisfy the necessary conditions to main-tain the exponential expansion of the Universe.
+Note also, that since this model is phenomenological in nature, it does not provide a theoretical reason for the value of the energy scale it requires for infla-tion. That scale has been found only after confronting the predictions of the model with observations in the sky.
+
+
+
+ACKNOWLEDGMENTS
+
+The author is grateful to Patrick Labelle for the very helpful, encouraging and stimulating discussions at vari-ous stages of this work, as well as to Khireddine Nouicer for the helpful discussion. The author would also like to thank the anonymous referee for his/her pertinent and very helpful comments that helped improve the manuscript.
+This work is supported by the Natural Sciences & En-gineering Research Council of Canada.
+
+
+/
+
+
+P. A. R. Ade et al. [Planck Collaboration], ”Planck 2015 results. XIII. Cosmological parameters”, arXiv:1502.01589 [astro-ph.CO].
+P. A. R. Ade et al. [Planck Collaboration], ”Planck 2015 results. XX. Constraints on inflation”, arXiv:1502.02114 [astro-ph.CO].
+A. H. Guth, Phys. Rev. D 23, 347 (1981).
+K. Sato, Mon. Not. Roy. Astron. Soc. 195, 467 (1981).
+A. D. Linde, Phys. Lett. B 108, 389 (1982).
+A. Albrecht and P. J. Steinhardt, Phys. Rev. Lett. 48, 1220 (1982).
+A. A. Starobinsky, Phys. Lett. B 91, 99 (1980).
+L. Z. Fang, Phys. Lett. B 95, 154 (1980).
+J. Martin, C. Ringeval, R. Trotta and Vincent Vennin, JCAP 1403, 039 (2014).
+S. Nojiri and S.D. Odintsov Phys. Rev. D, 74, 086005 (2006).
+A. A. Starobinsky, JETP Lett. 86, 157 (2007).
+I. Sawicki and W. Hu, Phys. Rev. D 75, 127502 (2007).
+S. M. Carroll, I. Sawicki, A. Silvestri and M. Trodden, New J. Phys. 8, 323 (2006).
+R. Bean, D. Bernat, L. Pogosian, A. Silvestri and M. Trodden, Phys. Rev. D 75, 064020 (2007).
+Y. S. Song, H. Peiris and W. Hu ,Phys. Rev. D, 76, 063517 (2007)
+W. Hu and I. Sawicki, Phys. Rev. D 76, 064004 (2007).
+Y. S. Song, W. Hu and I. Sawicki, Phys. Rev. D 75, 044004 (2007).
+L. Amendola, R. Gannouji, D. Polarski and S. Tsujikawa, Phys. Rev. D 75,083504 (2007).
+S. Tsujikawa, Phys. Rev. D 76, 023514 (2007).
+S. Tsujikawa, K. Uddin and R. Tavakol, Phys. Rev. D 77, 043007 (2008).
+L. Pogosian and A. Silvestri, Phys. Rev. D 77, 023503 (2008).
+A. de la Cruz-Dombriz, A. Dobado and A. L. Maroto,
+
+12
+
+
+Phys. Rev. D 77, 123515 (2008).
+H. Motohashi, A. A. Starobinsky and J. Yokoyama, Int.
+J. Mod. Phys. D 18, 1731 (2009).
+K. Koyama, A. Taruya and T. Hiramatsu, Phys. Rev. D 79, 123512 (2009).
+R. Gannouji, B. Moraes and D.

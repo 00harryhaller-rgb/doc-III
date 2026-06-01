@@ -1,0 +1,1489 @@
+Prediction. Because 𝜌Λ is negative for all t ≲ 4.98–6.07 Gyr (i.e., z ≳ 0.95–1.24), the early
+m
+universe experiences an additional attractive contribution to the energy budget. This is ex-
+pected to enhance the growth of density perturbations and to yield a systematically larger value of the growth-rate observable f σ8(z) at intermediate and high redshifts relative to ΛCDM.
+Test. Measurements of f σ8(z) from redshift-space distortions and weak-lensing surveys provide a direct probe of this prediction [69, 70]. If high-redshift data (z ≳ 1.0) from DESI or Euclid find a growth history fully consistent with, or weaker than, the ΛCDM expectation, the MOC prediction of an early attractive phase would be strongly disfavored.
+
+Test 3: The post–crossover evolution of 𝜌Λ
+m
+Prediction. In all updated CMB-based simulations, 𝜌Λ (t) exhibits a rapid increase immedi-
+m
+ately after the sign-switch, reaches a peak in the range t ≈ 9.7–11.8 Gyr depending on the
+matter enhancement scenario, and subsequently shows a gradual decline toward the present epoch. Recall the dark energy density derived in Eq. (32):
+𝜌	= β𝜌m RS 5β RS − 1 .	(241)
+This characteristic “rise-and-fall” behavior follows directly from this expression, which ties the dark energy density to the evolving combination 𝜌m(RS /χp ).
+During the post-crossover era, the enclosed mass and thus RS increase only slowly, while the physical matter density 𝜌m(t) continues to decrease as the universe expands and the par-ticle horizon χp (t) grows. As a result, the combination 𝜌m(RS /χp ) initially increases, reaches a maximum, and eventually begins to decrease.
+
+/
+
+
+This naturally generates a finite peak in 𝜌Λ
+m
+(t), followed by a gradual decline once the de-
+
+crease in 𝜌m(t) and the growth of χp (t) dominate over the increase in RS . Thus MOC predicts
+a dynamic dark energy density that is distinct both from the constant 𝜌Λ of the standard ΛCDM model and from the simple monotonic evolution typical of quintessence scenarios [3, 64].
+Test. Reconstruction of 𝜌DE(z) using SNe, BAO, and cosmic chronometers can reveal whether dark energy flattens or begins to weaken at late times (z ≲ 0.5 ) [68]. MOC would be falsified if the reconstructed 𝜌DE(z) shows a strictly monotonic increase for all z ≲ 1.0 with no sign of flattening or turnover, or if it remains exactly constant to high precision across the entire redshift range. Conversely, any detected late-time evolution of dark energy density, i.e. w > −1 at low z, as tentatively suggested by recent DESI analyses and by the supernova-based interpretation of Son et al. [11, 44], would strongly support the MOC scenario.
+
+Test 4: Extensive falsifiability from an explicit functional origin
+The Prediction: Unlike phenomenological dark energy models, MOC provides a fully explicit functional origin for the dark energy density 𝜌Λ , specifying its dependence on cosmic vari-
+m
+ables (e.g., 𝜌m, χp ) in analytic form. This functional transparency renders the model highly and systematically falsifiable in principle: any discrepancy in the detailed time/redshift evo-
+lution, scale dependence, or internal parameter relationships can serve as a direct test of the theory.
+The Test: The analytical form of 𝜌Λ (t) is known, enabling comprehensive comparisons
+m
+with high-precision observations for all detailed properties of functional evolution, as well
+as global features (sign conversion, peak, decline). Future advances in reconstructing the cosmic expansion history, horizon scale, and matter density (from DESI, Euclid, JWST, SKA, and beyond) will allow a continually expanding set of new and increasingly precise tests of the model. This falsifiability, made possible by MOC’s explicit predictive formalism, provides a transparent link between theory and observation and offers a particularly direct framework for empirical testing.
+
+
+Discussion
+In this work, we have presented a mechanism in which the GSE of matter reproduces the phenomenology normally attributed to dark energy. While our primary analysis focused on the β -normalized model (where the interaction term scales with β 2), it is crucial to examine the robustness of this result against alternative choices of interaction coefficients and to address current observational uncertainties.
+
+Role of the structure coefficient β and model robustness
+In deriving the interaction energy between the matter distribution and the equivalent negative mass associated with the GSE, we introduced the structure coefficient β not as an independent dynamical degree of freedom, but as a geometric coefficient to describe the physical state of matter. Since the cosmic matter distribution is neither perfectly uniform nor static, the calculation of the GSE within any given shell inherently depends on this structural descriptor, as defined via Ugs (r) = −β GM (r)2/r. This single coefficient serves as an effective structural descriptor of the mass distribution. Known reference systems indicate that β can naturally vary across values of order unity: β = 3/5 for an ideal Newtonian uniform sphere, β = 3/2 for the classical n = 3 polytrope [19], and β ≃ 1.0–1.6 for NFW-like halo profiles, depending on the concentration parameter [20, 30, 31].
+
+/
+
+Our simulations demonstrate that once galaxy-scale structures have formed (t ≳ 1 Gyr), the evolution of β becomes very slow, effectively acting as a quasi-constant coefficient for the remainder of cosmic history. This implies that the detailed time-evolution of β (t) is not critical for the emergence of cosmic acceleration.
+Consequently, the choice of how the interaction term scales with β (e.g., linear β vs. quadratic β 2) becomes a question of matching the effective coupling strength to the assumed background matter density. In our β 2-scaled formulation, which propagates the structural in-formation consistently, the CMB based MOC solutions with matter enhancements of {−10%, 0%, +10%, +20%} yield present-epoch coefficients spanning the range from β (t0) ≃ 1.2387 for the +20% model, to 1.4071 for the +10% model, to 1.6172 for the 0% model, and to 1.8854 for the −10% model. These values are broadly consistent with the reference range suggested by known self-gravitating structures.
+By contrast, if one adopts a linear interaction scaling, in which the interaction term car-ries only one power of the structure coefficient rather than β 2, the present SH0ES baseline with Ωm = 0.315 requires a substantially larger effective coefficient, β ≃ 7.37, in order to reproduce the observed late-time cosmic acceleration. Such a large value lies well outside the reference range suggested by known self-gravitating systems, such as polytropic and NFW-like configurations. The linear scaling therefore appears less economical under the current baseline assumptions.
+However, the required coefficient in the linear formulation decreases if the effective cosmic matter density is higher. For sufficiently enhanced matter abundance, for example Ωm ≳ 0.35, the required value of β can return to the broad reference range associated with known self-gravitating structures. Thus, the linear interaction scaling is not excluded as a possible com-parison formulation, but in the present analysis the β 2-scaled formulation provides the more natural and compact description of the observed late-time dark energy density.
+
+Observational uncertainties and future constraints
+First, there is a significant tension in the value of Ωm across different dataset combinations. As highlighted in recent analyses [44], the inferred matter density can vary substantially, spanning Ωm ≈ 0.21 to Ωm ≈ 0.36, depending on whether SN Ia age-bias corrections are applied and which probes (CMB, BAO, SNe) are combined. Because the structure coefficient β is defined through the matter distribution, this observational scatter in Ωm directly propagates into an uncertainty range for β . The four CMB-anchored MOC simulations with matter modifications of {−10%, 0%, +10%, +20%} demonstrate the corresponding inferred values of β (t0) as Ωm varies. In all of these scenarios, however, β (t) remains quasi-constant after the epoch of early structure formation, and the MOC model continues to reproduce the observed expansion history even under substantial matter enhancement variations.
+Second, and perhaps more fundamentally, nearly all existing cosmological datasets are reduced and calibrated under the assumption of the standard ΛCDM model. There is currently no comprehensive dataset processed specifically within the context of the MOC. Since the MOC model fundamentally reinterprets the source of cosmic acceleration as a GSE effect rather than a vacuum energy, it may ultimately require a re-analysis of raw observational data.
+As the MOC framework is still at an early stage, future studies that build dedicated datasets and likelihoods within this alternative paradigm may help break these degeneracies. Once such datasets are established, the MOC framework can be subjected to more stringent observational tests, allowing its viability as a physically motivated alternative to ΛCDM to be assessed more conclusively.
+
+/
+
+Conclusion: A Unified Cosmology from Total Gravitational Self-Energy
+The standard cosmological model treats inflation and late-time acceleration as conceptually disconnected phenomena, typically driven by independent scalar fields [53–56, 64]. The GSE framework in Matter-Only Cosmology (MOC) unifies both via a single, intuitive principle.
+The matter-induced dark energy density arises from the total GSE of the contents of the causal horizon. Within the total GSE framework, this is expressed as
+𝜌	= β𝜌m RS 5β RS − 1 ,	(242)
+where 𝜌m is the physical matter density defined with respect to the physical volume Vphys,
+and RS = 2GM is the Schwarzschild radius associated with the total matter mass M = 𝜌m Vphys
+enclosed within the causally connected region.
+The same point becomes more transparent when the dark energy density is written directly as a function of the matter density and the characteristic radius of the mass distribution. With
+c	4𝑢G	≡	, the total GSE dark energy density can equivalently be written as
+
+1	3c2	2
+21c2
+𝜌Λ
+m
+(𝜌m, R) = c1β𝜌2 R2 c2β𝜌mR2 − 1 .	(243)
+
+Thus, apart from the structural coefficient β , the functional dependence is carried by 𝜌m and
+R. Here β is not a new gravitational source or an independent dark energy degree of freedom, but the structural coefficient arising from the GSE integral for a given matter distribution. The dark energy density is therefore not introduced as a new component of the cosmic inventory, but is obtained from the matter distribution itself.
+This single total GSE relation encapsulates a fundamental density–scale duality: repulsive gravity, 𝜌Λm > 0, can arise both from extreme density at small scales, as in the inflationary regime, and from the large-scale balance between matter density and horizon growth at low densities, as in the late-time dark energy regime.
+In essence, the dynamical interactions governed by this single GSE principle determine the entire history of cosmic expansion, from the onset and natural termination of inflation, to the long epoch of deceleration, to the acceleration phase we observe today, and potentially to a future era of damped oscillatory stability.
+By rigorously accounting for the GSE of matter and its contribution to the source of gravity, MOC offers a more complete, self-consistent, and physically motivated description of our uni-verse. It replaces a series of disconnected puzzles with a unified framework and provides a rich set of falsifiable predictions. The next step is clear: to confront this model with the wealth of forthcoming observational data. The journey into the dark sector requires neither new parti-cles nor new forces, but a deeper understanding of gravitational self-interaction within General Relativity.
+Finally, the universality of the GSE principle suggests broader implications beyond cos-mology. The validity of this self-energy principle is not confined to the macroscopic cosmos. When applied to the microscopic realm, the total GSE dynamics inherently suppresses the grav-itational interaction strength near the Planck scale. This suggests that the same framework resolving black hole singularities may also eliminate ultraviolet divergences (UV completion), offering a unified pathway toward the long-sought and definitive “Completion of Quantum Gravity” [38, 71].
+
+/
+
+
+Puzzle
+	MOC’s Resolution
+	Key Prediction / Feature
+	
+	
+Dark Energy
+	Replaces the static Λ with a dynamic
+dark energy density 𝜌Λ (t) generated by
+m
+the GSE of matter.
+	Predicts a dynamic sequence: an early negative dark en-ergy density (attractive), a current positive dark energy density (repulsive), and a fu-ture return to deceleration due to the evolving horizon
+ratio.
+	
+	Hubble	Ten-sion
+	Reframes the tension as a measurement of evolving cosmic structure, encapsu-lated in a time-varying structure coeffi-cient β (t).
+	Naturally explains why CMB (z ∼ 1100) and local (z ∼ 0) measurements of H0 differ, as they probe different epochs
+with different β values.
+	
+	Unification
+of Inflation & Dark Energy
+	The same GSE mechanism drives both inflation (high-density repulsion) and late-time acceleration (scale-driven repulsion).
+	Naturally explains the 10124 energy-scale hierarchy be-tween the two epochs via the geometric scaling of GSE
+across cosmic evolution.
+	
+	Cosmic Fate
+	Dynamics governed by the competi-tion between matter density and hori-zon growth.
+	Predicts a damped oscilla-tory evolution, preventing eternal acceleration and lead-ing to a stabilized, slowly varying expansion.
+	
+	Table 13: Summary of cosmological puzzles addressed by MOC. The simulations indicate that these predictions remain qualitatively robust across the scenarios ex-amined, including the predicted future transition to a decelerating phase.
+
+Acknowledgements. All original scientific ideas, physical interpretations, and theoretical proposals presented in this work are the author’s own. In particular, the total GSE formula and its physical interpretation, the dark energy density formula and its physical interpretation, Matter-Only Cosmology, the concept of repulsive gravity below the critical radius, the concept of a macroscopic non-singular core, and the unification of inflation and dark energy were all conceived by the author. Generative AI was used during the drafting and editing process to assist with exposition and language refinement. The final manuscript was independently verified by the author, who assumes full responsibility for all content.
+
+
+Appendix A: A Re-examination of the Energy Components of a Gravitating System
+Theoretical motivation
+In this paper, we have developed a cosmological model based on a fundamental principle of General Relativity: all forms of energy, including gravitational potential energy, must act as sources of gravity [15, 17]. Standard cosmological models typically treat the mass density 𝜌m as the sole source of gravity, implicitly assuming that the self-energy of the system is either negligible or already absorbed into the matter sector. However, on cosmological scales, the GSE of the universe becomes significant and cannot be ignored.
+
+/
+
+
+We argue that the process of assembling mass M naturally induces a negative GSE com-ponent (−Mgs ) and, consequently, a mutual interaction energy (+Mm−gs ) between the matter distribution and the equivalent negative mass associated with its own GSE field. This ap-pendix introduces an approach that explicitly demonstrates that the 𝜌m−gs term derived from the GSE mechanism is an interaction term between the matter distribution and the equivalent mass associated with the GSE.
+3β GM 2  5β RS	
+
+/
+Here, the term −𝜌gs represents the traditional negative GSE density, while 𝜌m−gs represents the positive interaction-energy density arising from the coupling between the matter M and the equivalent negative mass associated with its GSE, −Mgs . This decomposition reveals that what we observe as “dark energy” is not an exotic addition, but an intrinsic property of a self-gravitating system.
+
+Total energy components of a gravitating system
+In conventional energy accounting of a physical system, it is typically assumed that all forms of energy are implicitly incorporated into an equivalent-mass representation. However, a more careful examination reveals that a dynamical system composed of an extended mass distri-bution is not a simple single-body system. Instead, it is effectively a composite system that includes an additional negative equivalent mass, −Mgs , arising from the system’s own gravi-tational potential energy.
+A crucial physical effect arises here: when two distinct energy components coexist, a mu-tual gravitational interaction term Um−gs necessarily appears.
+
+Figure 7: Conceptual diagram illustrating the composite nature of a gravitating sys-tem. The system consists of the free mass Mf r and the negative equivalent mass of its GSE, −Mgs . This configuration necessitates an interaction energy term Um−gs , which manifests as a positive energy density.
+
+The total mass-energy of the system is thus
+
+
+
+≈ M
++ Ugs + Um−gs = M
++ (−M
+) + M
+
+(245)
+
+T	f r	c2	c2	f r	gs	m−gs
+where −Mgs and +Mm−gs are the equivalent masses of the GSE and of the interaction energy Um−gs , respectively.
+
+/
+
+
+Since the gravitational potential energy between a positive mass (+Mf r ) and a negative equivalent mass (−Mgs ) takes a positive form (repulsive interaction), the interaction energy is given by
+U	= − G(+Mf r )(−Mgs ) = + GMf r Mgs > 0.	(246)
+m−gs	r	r
+Consequently, the equivalent mass density obtained by dividing this interaction energy by volume, +𝜌m−gs , carries a positive energy density. The total mass density of the object is therefore
+𝜌Total = 𝜌f r + 𝜌m−gs − 𝜌gs ≈ 𝜌m + 𝜌m−gs − 𝜌gs .	(247)
+Matter (𝜌m): Strictly speaking, 𝜌m is the net result of the free-state mass density 𝜌f r together with the GSE correction terms, namely the negative GSE term −𝜌gs and the in-teraction term +𝜌m−gs . Thus, 𝜌m = 𝜌f r − (𝜌m−gs − 𝜌gs ). In a weak field, (𝜌m−gs − 𝜌gs ) is negligible, thus 𝜌m ≈ 𝜌f r . This matter distribution is the ultimate source of all subse-quent gravitational effects.
+GSE (−𝜌gs ): The mass-equivalent of the system’s own negative binding energy (Ugs ). Taken in isolation, the negative GSE density plays an attractive role. In cosmology, how-ever, it is more appropriate to interpret the effective behavior through the combined quantity 𝜌Λm = 𝜌m−gs − 𝜌gs rather than through the −𝜌gs term alone.
+Interaction energy (+𝜌m−gs ): The mass-equivalent of the positive GPE that arises from the interaction between the matter field (M ) and its own negative GSE field (−Mgs ). Taken in isolation, the positive interaction-energy density tends to contribute repul-sively. In cosmology, however, it is more appropriate to characterize the effective behav-ior through the combined quantity 𝜌Λm = 𝜌m−gs − 𝜌gs rather than through the 𝜌m−gs term alone.
+In standard astrophysical contexts, the term (𝜌m−gs − 𝜌gs ) is negligible compared to 𝜌m, justifying the approximation 𝜌Total ≈ 𝜌m. However, on the cosmological scale, these terms are no longer negligible. The net GSE-related contribution, 𝜌Λm = 𝜌m−gs − 𝜌gs , becomes the dominant component driving cosmic acceleration.
+𝜌Λm = 𝜌m−gs − 𝜌gs .	(248)
+Derivation of the matter-induced dark energy density
+Having established the conceptual basis of MOC and the General GSE Framework, we now derive the explicit form of the dark energy density, 𝜌Λ . The derivation uses a physical picture
+m
+in which the relevant interaction scale is identified with the causal scale, taken here to be the
+comoving horizon χp . The resulting global GSE is then expressed as an energy density with respect to the physical volume Vphys [15, 35, 37].
+The total energy density entering the Friedmann equation is given by 𝜌T = 𝜌m+𝜌m−gs −𝜌gs . The latter two terms, arising purely from gravitational interactions, constitute the matter-induced dark energy density.
+The entire derivation originates from the GSE of the total mass M (t) contained within the causal horizon. While the classical form scales as 1/R, in our General GSE framework, the characteristic interaction length scale is the comoving horizon χp (t).
+GM (t)2
+
+Ugs,General = −β (t)
+.	(249)
+χp (t)
+
+Here, β (t) encapsulates the necessary relativistic and structural corrections, evolving as the universe transitions from homogeneity to a structured state.
+
+/
+
+
+The negative-energy component: −𝜌gs
+The first component, −𝜌gs , represents the equivalent mass density of the system’s own gravi-tational binding energy. This binding energy corresponds to a mass defect, effectively creating a negative equivalent mass component, −Mgs , within the total energy budget [17, 18, 36].
+
+Ugs,General	β GM (t)2
+
+−Mgs =
+c2	= −
+c2χp
+.	(250)
+(t)
+
+Distributing this negative equivalent mass over the physical volume Vphys(t) = 4𝑢 Rphys(t)3
+
+yields the negative energy density component.
+ −Mgs 
+
+3β (t)
+
+GM (t)2
+
+𝜌gs (t) =
+phys
+(t) = −
+4𝑢
+c2χp
+(t)R
+
+phys
+.	(251)
+(t)3
+
+
+The positive-energy component: +𝜌m−gs
+The existence of the negative equivalent mass component (−Mgs ) within the region containing the positive mass M necessitates an interaction term. The interaction energy Um−gs arises from the gravitational coupling between the matter distribution M and the effective negative-mass component −Mgs . Here, we make a critical choice for the interaction coefficient.
+
+A Note on the Interaction Coefficient
+In the main text, the total GSE is formulated using a single effective structure coefficient β . The same coefficient is used for the conventional GSE contribution and for the matter–GSE interaction term. This gives the most compact form of the framework and is motivated by the fact that both terms arise from the same self-gravitating mass distribution and the same GSE source-completion principle.
+More generally, however, one may distinguish two structural roles.
+The first coefficient, denoted here by β1, characterizes the conventional GSE contribution
+
+that enters the equivalent GSE mass, Mgs
+GM (t)2
+β1 c2 χp (t)
+
+The second coefficient, denoted by β2, may be assigned to the structural normalization
+of the integral in which the equivalent source mass interacts with the ordinary matter shell. Such a two-coefficient description represents a more detailed parametrization of the same GSE framework, rather than a different physical principle.
+The main text adopts the single-coefficient formulation β1 = β2 ≡ β . This is the minimal model analyzed in this work.
+For comparison, this appendix also considers the unit-interaction normalization. In this convention, the interaction normalization is set to unity, while the GSE structure coefficient is retained in the equivalent GSE mass.
+With this convention, the interaction energy in the General GSE framework is written as
+U	≈ − GM (t)(−Mgs ) = + GM (t)Mgs .	(252)
+
+m-gs
+χp (t)
+χp (t)
+
+Substituting
+GM (t)2
+
+Mgs = β c2χ
+(253)
+(t)
+
+/
+
+gives
+G2 M (t)3
+
+Um-gs = +β c2χ
+.	(254)
+(t)2
+
+The corresponding positive equivalent mass density is therefore
+
+
+
+𝜌m-gs (t) = V
+Um-gs
+=
+(t)c2
+3β (t)
+4𝑢
+
+c4χ
+G2 M (t)3
+(t)2R
+
+.	(255)
+(t)3
+
+phys	p	phys
+
+The complete expression for 𝜌Λ
+m
+Combining the positive and negative energy density components, we arrive at the final expres-sion for the dark energy density in the present working model with β2 = 1.
+3β	G2 M 3	3β	GM 2
+𝜌Λm (t) = 𝜌m−gs (t) − 𝜌gs (t) = 4𝑢 c4χ2R3	− 4𝑢 c2χ R3	.	(256)
+
+p  phys
+p phys
+
+To reveal its physical significance, we factor this equation and express the bracketed term using the Schwarzschild radius of the total causal mass, RS (t) = 2GM (t)/c2.
+3β (t)	GM (t)2	  GM (t)
+
+/ / / / / /	/ /
+𝜌	(t) = β𝜌m RS 1 RS − 1 .	(258)
+This result demonstrates that under the assumption of a unity interaction coefficient, the sign
+
+change of 𝜌Λ
+m
+is governed purely by the ratio of the Schwarzschild radius to the comoving
+
+horizon,  RS  > 1, without an additional β factor inside the bracketed term.
+p
+
+Observational validation and the evolution of β
+Here we briefly recall the role of the structure coefficient β entering the total GSE expression. It summarizes the dependence of the GSE on the mass distribution and relativistic compact-ness. Although β may vary over the full cosmic history, its residual evolution after substantial structure formation is expected to be modest, so that an effective late-time constant value can be used in the benchmark analysis.
+An important consistency check is obtained by comparing the MOC requirements with empirical anchors from the Cosmic Microwave Background (CMB) [5] and from late uni-verse distance-ladder measurements such as SH0ES [13]. Since the present analytic treat-ment does not uniquely predict the cosmological value of β from first principles, we infer the value required to reproduce the observed present-day dark energy density under each baseline and compare it with the broad structural range suggested by gravitationally bound systems, roughly β ≃ 0.6–2.
+The results summarized in Tables 14 and 15 provide auxiliary benchmarks for the structural viability of the MOC framework. The appendix tables are retained as qualitative consistency checks. In particular, the original SH0ES auxiliary run used χp (t0) = 43.337 Gly, whereas the updated main-text benchmark uses χp (t0) = 43.377 Gly; the difference is below 0.1%, and the main parameter determination follows the updated benchmark values in the main text.
+
+Computer simulation results
+
+/
+
+
+
+Matter Incr.
+(%)
+	𝜌m
+	𝜌Λ
+m
+	Required β
+	𝜌m-gs
+	−𝜌gs
+	
+	
+	(×10−27 kg/m3)
+	
+	(×10−27 kg/m3)
+	
+	-20
+	2.150
+	6.383
+	10.2792
+	35.186
+	-28.803
+	
+	-10
+	2.419
+	6.114
+	4.6990
+	24.264
+	-18.150
+	
+	+0
+	2.688
+	5.845
+	2.6295
+	18.573
+	-12.728
+	
+	+10
+	2.957
+	5.576
+	1.6388
+	15.001
+	-9.425
+	
+	+20
+	3.225
+	5.308
+	1.0824
+	12.520
+	-7.212
+	
+	+30
+	3.494
+	5.039
+	0.7445
+	10.684
+	-5.645
+	
+	+40
+	3.763
+	4.770
+	0.5269
+	9.262
+	-4.492
+	
+	+50
+	4.032
+	4.501
+	0.3808
+	8.132
+	-3.631
+	
+	Table 14: CMB baseline (H0 = 67.4 km/s/Mpc, R = 46.5 Gly). Required β and GSE
+components computed from 𝜌	= β 4𝑢G 𝜌2 R2  4𝑢G 𝜌 R2 − 1 .
+
+
+
+Matter Incr.
+(%)
+	𝜌m
+	𝜌Λ
+m
+	Required β
+	𝜌m-gs
+	−𝜌gs
+	
+	
+	(×10−27 kg/m3)
+	
+	(×10−27 kg/m3)
+	
+	-20
+	2.525
+	7.495
+	7.0184
+	30.893
+	-23.398
+	
+	-10
+	2.841
+	7.178
+	3.5026
+	21.961
+	-14.783
+	
+	+0
+	3.156
+	6.864
+	2.0267
+	17.419
+	-10.555
+	
+	+10
+	3.472
+	6.548
+	1.2738
+	14.577
+	-8.029
+	
+	+20
+	3.788
+	6.232
+	0.8469
+	12.586
+	-6.354
+	
+	+30
+	4.103
+	5.917
+	0.5868
+	11.083
+	-5.166
+	
+	+40
+	4.419
+	5.601
+	0.4185
+	9.874
+	-4.273
+	
+	+50
+	4.734
+	5.286
+	0.3057
+	8.869
+	-3.583
+	
+	Table 15: SH0ES baseline (H0 = 73.04 km/s/Mpc, R = 43.337 Gly). Required β and
+GSE components computed from 𝜌	= β 4𝑢G 𝜌2 R2  4𝑢G 𝜌 R2 − 1 .
+
+
+
+Figure 8: Matter Density vs. Dark Energy Density (SH0ES baseline, Model-2,
++10% Matter Enhancement): Ωm = 0.347. In the early universe, the dark energy density is negative and promotes structure formation. It changes sign near t ≈ 5 Gyr,
+after which it contributes to the accelerated expansion of the universe. At approxi-mately t ≈ 7.5 Gyr, the matter density and dark energy density become comparable, and the dark energy density reaches a maximum near t ≈ 8.7 Gyr before gradually decreasing.
+
+/
+
+
+
+/
+
+Age (Gyr)
+Scale
+a(t)
+Evolving
+β (t)
+Comoving Ho.
+χp (t) (Gly)
+Physical Ho.
+Rphys(t) (Gly)
+Matter
+𝜌m(t)
+Repulsive
+𝜌m−gs (t)
+Attractive
+−𝜌gs (t)
+Dark Energy
+𝜌Λ (t)
+m
+
+/
+(10−27 kg m−3)
+
+0.73
+	0.1283
+	1.6388
+	17.080
+	2.191
+	1645.27
+	214.737
+	-760.898
+	-546.161
+	
+	1.73
+	0.2285
+	1.6084
+	22.764
+	5.202
+	291.245
+	117.716
+	-234.819
+	-117.103
+	
+	2.73
+	0.3111
+	1.5780
+	26.487
+	8.240
+	115.403
+	83.876
+	-123.586
+	-39.710
+	
+	3.73
+	0.3854
+	1.5476
+	29.365
+	11.317
+	60.699
+	65.364
+	-78.356
+	-12.992
+	
+	4.73
+	0.4552
+	1.5171
+	31.748
+	14.452
+	36.839
+	53.136
+	-54.495
+	-1.359
+	
+	5.73
+	0.5224
+	1.4867
+	33.797
+	17.656
+	24.373
+	44.243
+	-40.039
+	4.204
+	
+	6.73
+	0.5883
+	1.4563
+	35.599
+	20.943
+	17.066
+	37.352
+	-30.467
+	6.885
+	
+	7.73
+	0.6540
+	1.4259
+	37.211
+	24.336
+	12.422
+	31.779
+	-23.725
+	8.054
+	
+	8.73
+	0.7200
+	1.3955
+	38.668
+	27.841
+	9.309
+	27.179
+	-18.790
+	8.389
+	
+	9.73
+	0.7871
+	1.3651
+	39.996
+	31.481
+	7.126
+	23.293
+	-15.052
+	8.241
+	
+	10.73
+	0.8559
+	1.3346
+	41.214
+	35.275
+	5.542
+	19.970
+	-12.153
+	7.817
+	
+	11.73
+	0.9266
+	1.3042
+	42.337
+	39.229
+	4.368
+	17.126
+	-9.877
+	7.249
+	
+	12.73
+	1.0000
+	1.2738
+	43.337
+	43.337
+	3.475
+	14.610
+	-8.041
+	6.569
+	
+	Table 16: MOC Cosmic History Simulation (SH0ES baseline, Model-2, +10% Matter Enhancement). Results obtained using the Model-2 interaction-coefficient
+choice (β2 = 1) discussed in the Appendix. The structure coefficient evolves lin-early from β (0.73 Gyr) = 1.6388 to β (12.73 Gyr) = 1.2738. Even with the reduced magnitude of the repulsive term (proportional to β rather than β 2), the model still exhibits a transition of the dark energy density from negative to positive values near t ≈ 5.0 Gyr, illustrating the robustness of the GSE-driven acceleration mechanism.
+
+
+
+/
+
+Age (Gyr)
+Scale
+a(t)
+Evolving
+β (t)
+Comoving Ho.
+χp (t) (Gly)
+Physical Ho.
+Rphys(t) (Gly)
+Matter
+𝜌m(t)
+Repulsive
+𝜌m−gs (t)
+Attractive
+−𝜌gs (t)
+Dark Energy
+𝜌Λ (t)
+m
+
+/
+(10−27 kg m−3)
+
+0.73
+	0.1283
+	1.0824
+	17.080
+	2.191
+	1794.84
+	184.134
+	-598.089
+	-413.955
+	
+	1.73
+	0.2285
+	1.0628
+	22.764
+	5.202
+	317.722
+	100.984
+	-184.655
+	-83.672
+	
+	2.73
+	0.3111
+	1.0432
+	26.487
+	8.240
+	125.894
+	71.987
+	-97.229
+	-25.242
+	
+	3.73
+	0.3854
+	1.0235
+	29.365
+	11.317
+	66.217
+	56.125
+	-61.674
+	-5.549
+	
+	4.73
+	0.4552
+	1.0039
+	31.748
+	14.452
+	40.188
+	45.648
+	-42.914
+	2.734
+	
+	5.73
+	0.5224
+	0.9843
+	33.797
+	17.656
+	26.589
+	38.027
+	-31.546
+	6.481
+	
+	6.73
+	0.5883
+	0.9647
+	35.599
+	20.943
+	18.617
+	32.122
+	-24.018
+	8.104
+	
+	7.73
+	0.6540
+	0.9450
+	37.211
+	24.336
+	13.551
+	27.345
+	-18.713
+	8.632
+	
+	8.73
+	0.7200
+	0.9254
+	38.668
+	27.841
+	10.156
+	23.400
+	-14.829
+	8.571
+	
+	9.73
+	0.7871
+	0.9058
+	39.996
+	31.481
+	7.773
+	20.066
+	-11.886
+	8.180
+	
+	10.73
+	0.8559
+	0.8862
+	41.214
+	35.275
+	6.046
+	17.214
+	-9.603
+	7.611
+	
+	11.73
+	0.9266
+	0.8665
+	42.337
+	39.229
+	4.765
+	14.773
+	-7.810
+	6.963
+	
+	12.73
+	1.0000
+	0.8469
+	43.337
+	43.337
+	3.791
+	12.611
+	-6.363
+	6.248
+	
+	Table 17:  MOC  Cosmic  History  Simulation  (SH0ES  baseline,  Model-2,
++20% Matter Enhancement).  Results obtained using the Model-2 assumption
+(β2 = 1). The structure coefficient evolves linearly from β (0.73 Gyr) = 1.0824 to
+β (12.73 Gyr) = 0.8469. In this case, the dark energy density changes sign between t = 3.73 and 4.73 Gyr, corresponding to a transition near t ≈ 4.4 Gyr, reflecting the effect of the enhanced matter density. The dark energy density then reaches a maximum near t ≈ 7.7–8.0 Gyr and subsequently decreases slowly, illustrating the dynamic character of the GSE mechanism.
+
+/
+
+References
+A. G. Riess et al. (Supernova Search Team), “Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant,” Astron. J. 116, 1009 (1998).
+S. Perlmutter et al. (Supernova Cosmology Project), “Measurements of Ω and Λ from 42 High-Redshift Supernovae,” Astrophys. J. 517, 565 (1999).
+P. J. E. Peebles and B. Ratra, “The cosmological constant and dark energy,” Rev. Mod. Phys. 75, 559 (2003).
+S. Dodelson and F. Schmidt, Modern Cosmology, 2nd ed. (Academic Press, 2020).
+N. Aghanim et al. (Planck Collaboration), “Planck 2018 results. VI. Cosmological param-eters,” Astron. Astrophys. 641, A6 (2020).
+P. Bull et al., “Beyond ΛCDM: Problems, solutions, and the road ahead,” Phys. Dark Uni-verse 12, 56–99 (2016).
+S. Weinberg, “The cosmological constant problem,” Rev. Mod. Phys. 61, 1 (1989).
+S. M. Carroll, “The Cosmological Constant,” Living Rev. Relativ. 4, 1 (2001).
+I. Zlatev, L.-M. Wang, and P. J. Steinhardt, “Quintessence, Cosmic Coincidence, and the Cosmological Constant,” Phys. Rev. Lett. 82, 896–899 (1999).
+E. Di Valentino et al., “In the realm of the Hubble tension: A review of solutions,” Class. Quantum Grav. 38, 153001 (2021).
+A. G. Adame et al. (DESI Collaboration), “DESI 2024 VI: Cosmological Constraints from the Measurements of Baryon Acoustic Oscillations,” arXiv:2404.03002 [astro-ph.CO] (2024).
+T. M. C. Abbott et al. (DES Collaboration), “The Dark Energy Survey: Cosmology Re-sults with ∼1500 New High-redshift Type Ia Supernovae Using the Full 5-year Dataset,” Astrophys. J. Lett. 973, L14 (2024).
+A. G. Riess et al., “Large Magellanic Cloud Cepheid Standards Provide a 1% Foundation for the Determination of the Hubble Constant and Stronger Evidence for Physics beyond ΛCDM,” Astrophys. J. 876, 85 (2019).
+C. W. Misner, K. S. Thorne, and J. A. Wheeler, Gravitation (W. H. Freeman, 1973).
+S. Weinberg, Gravitation and Cosmology: Principles and Applications of the General Theory of Relativity (John Wiley & Sons, 1972).
+H. C. Ohanian and R. Ruffini, Gravitation and Spacetime, 3rd ed. (Cambridge University Press, 2013).
+A. Einstein, “Die Grundlage der allgemeinen Relativitätstheorie,” Ann. Phys. 354, 769–822 (1916).
+R. M. Wald, General Relativity (University of Chicago Press, 1984).
+S. Chandrasekhar, An Introduction to the Study of Stellar Structure (University of Chicago Press, 1939).
+
+/
+
+E. Alécian and S. M. Morsink, “The Effect of Neutron Star Gravitational-Binding Energy on Gravitational-Radiation-Driven Mass-Transfer Binaries,” Astrophys. J. 614, 914–921 (2004), arXiv:astro-ph/0302219.
+H. Choi, “Dark Energy is Gravitational Potential Energy or Energy of the Gravita-tional Field,” preprint (2022). Available at: https://www.researchgate.net/publication/ 360096238.
+S. Chandrasekhar, “The Post-Newtonian Equations of Hydrodynamics in General Rela-tivity,” Astrophys. J. 142, 1488–1512 (1965).
+H. A. Buchdahl, “General Relativistic Fluid Spheres,” Phys. Rev. 116, 1027–1034 (1959).
+M. S. R. Delgaty and K. Lake, “Physical Acceptability of Isolated, Static, Spherically Sym-metric, Perfect Fluid Solutions of Einstein’s Equations,” Comput. Phys. Commun. 115, 395–415 (1998).
+W. H. McCrea and E. A. Milne, “Newtonian Universes and the Curvature of Space,” Q. J. Math. 5, 73–80 (1934).
+S. L. Shapiro and S. A. Teukolsky, Black Holes, White Dwarfs, and Neutron Stars: The Physics of Compact Objects (John Wiley & Sons, 1983).
+J. Binney and S. Tremaine, Galactic Dynamics, 2nd ed. (Princeton University Press, 2008).
+R. C. Tolman, “Static Solutions of Einstein’s Field Equations for Spheres of Fluid,” Phys. Rev. 55, 364 (1939).
+J. R. Oppenheimer and G. M. Volkoff, “On Massive Neutron Cores,” Phys. Rev. 55, 374 (1939).
+S. Rosswog, “SPH Methods in the Modelling of Compact Objects,” Living Rev. Comput. Astrophys. 1, 1 (2015), arXiv:1406.4224 [astro-ph.IM].
+A. A. Dutton and A. V. Macciò, “Cold dark matter haloes in the Planck era: evolution of structural parameters for Einasto and NFW profiles,” Mon. Not. R. Astron. Soc. 441, 3359–3374 (2014).
+H. Choi, “Sphere Theory: Completing Quantum Gravity through Gravitational Self-Energy,” preprint (2025). Available at: https://www.researchgate.net/publication/ 388995044.
+M. Boylan-Kolchin, V. Springel, S. D. M. White, A. Jenkins, and G. Lemson, “Resolving cosmic structure formation with the Millennium-II Simulation,” Mon. Not. R. Astron. Soc. 398, 1150–1164 (2009).
+A. Pillepich et al., “First results from the IllustrisTNG simulations: the stellar mass content of groups and clusters of galaxies,” Mon. Not. R. Astron. Soc. 473, 4077–4106 (2018).
+P. J. E. Peebles, Principles of Physical Cosmology (Princeton University Press, 1993).
+S. W. Hawking and G. F. R. Ellis, The Large Scale Structure of Space-Time (Cambridge University Press, 1973).
+V. F. Mukhanov, Physical Foundations of Cosmology (Cambridge University Press, 2005).
+
+/
+
+H. Choi, “The Klein-Gordon-Choi Equation: A Unified Resolution of the Divergences in Quantum Gravity and QED,” preprint (2025). Available at: https://www.researchgate. net/publication/398285103.
+H. B. Callen, Thermodynamics and an Introduction to Thermostatistics, 2nd ed. (John Wiley & Sons, New York, 1985).
+S. M. Carroll, M. Hoffman, and M. Trodden, “Can the dark energy be a phantom?,” Phys. Rev. D 68, 023509 (2003).
+J. M. Cline, S. Jeon, and G. D. Moore, “The phantom menaced: Constraints on low-energy effective ghosts,” Phys. Rev. D 70, 043543 (2004).
+R. V. Buniy and S. D. H. Hsu, “Instabilities and the null energy condition,” Phys. Lett. B
+632, 543–546 (2006).
+E. Abdalla et al., “Cosmology intertwined: A review of the particle physics, astrophysics, and cosmology associated with the cosmological tensions and anomalies,” J. High Energy Astrophys. 34, 49–211 (2022).
+J. Son, Y.-W. Lee, C. Chung, S. Park, and H. Cho, “Strong progenitor age bias in supernova cosmology – II. Alignment with DESI BAO and signs of a non-accelerating universe,” Mon. Not. R. Astron. Soc. 544, 975–987 (2025).
+I. Labbé et al., “A population of red candidate massive galaxies at z > 10,” Nature 616, 266–269 (2023).
+M. Boylan-Kolchin, “Stress testing ΛCDM with high-redshift galaxy candidates,” Nat. Astron. 7, 731–735 (2023).
+T. Saifollahi et al. (Euclid Collaboration), “Euclid: Early Release Observations – Globu-lar clusters in the Fornax galaxy cluster, from dwarf galaxies to the intracluster field,” arXiv:2405.13500 [astro-ph.GA] (2024).
+P. A. Burger et al. (KiDS-1000 Collaboration), “KiDS-1000 cosmology: Constraints from density split statistics,” Astron. Astrophys. 669, A69 (2023).
+X. Fan et al., “Constraining the Evolution of the Ionizing Background and the Epoch of Reionization with z ∼ 6 Quasars,” Astron. J. 132, 117 (2006).
+K. Inayoshi, E. Visbal, and Z. Haiman, “The Assembly of the First Massive Black Holes,” Annu. Rev. Astron. Astrophys. 58, 27–97 (2020).
+B. Ryden, Introduction to Cosmology (Addison-Wesley, 2003).
+T. M. Davis and C. H. Lineweaver, “Expanding Confusion: Common Misconceptions of Cosmological Horizons and the Superluminal Expansion of the Universe,” Publ. Astron. Soc. Aust. 21, 97–109 (2004), arXiv:astro-ph/0310808.
+A. A. Starobinsky, “A new type of isotropic cosmological models without singularity,” Phys. Lett. B 91, 99 (1980).
+A. H. Guth, “Inflationary universe: A possible solution to the horizon and flatness prob-lems,” Phys. Rev. D 23, 347 (1981).
+
+/
+
+A. D. Linde, “A new inflationary universe scenario: A possible solution of the horizon, flatness, homogeneity, isotropy and primordial monopole problems,” Phys. Lett. B 108, 389 (1982).
+A. Albrecht and P. J. Steinhardt, “Cosmology for Grand Unified Theories with Radiatively Induced Symmetry Breaking,” Phys. Rev. Lett. 48, 1220 (1982).
+D. Baumann, “TASI Lectures on Inflation,” arXiv:0907.5424 [hep-th] (2009).
+L. Kofman, A. D. Linde, and A. A. Starobinsky, “Reheating after inflation,” Phys. Rev. Lett.
+73, 3195 (1994).
+B. A. Bassett, S. Tsujikawa, and D. Wands, “Inflation dynamics and reheating,” Rev. Mod. Phys. 78, 537–589 (2006).
+S. Nojiri and S. D. Odintsov, “Unifying phantom inflation with late-time acceleration: Scalar phantom-non-phantom transition phase and generalized holographic dark en-ergy,” Gen. Relativ. Gravit. 38, 1285–1304 (2006).
+R. Penrose, “Gravitational Collapse and Space-Time Singularities,” Phys. Rev. Lett. 14, 57–59 (1965).
+S. W. Hawking and R. Penrose, “The Singularities of Gravitational Collapse and Cosmol-ogy,” Proc. R. Soc. Lond. A 314, 529–548 (1970).
+S. W. Hawking, “Breakdown of predictability in gravitational collapse,” Phys. Rev. D 14, 2460–2473 (1976).
+J. A. Frieman, M. S. Turner, and D. Huterer, “Dark Energy and the Accelerating Universe,” Annu. Rev. Astron. Astrophys. 46, 385–432 (2008).
+J. Preskill, “Do Black Holes Destroy Information?,” arXiv:hep-th/9209058 (1992).
+L. Susskind, L. Thorlacius, and J. Uglum, “The Stretched Horizon and Black Hole Com-plementarity,” Phys. Rev. D 48, 3743–3761 (1993), arXiv:hep-th/9306069.
+D. Scolnic et al. (Pantheon+ Collaboration), “The Pantheon+ Analysis: The Full Data Set and Light-curve Release,” Astrophys. J. 938, 113 (2022).
+R. Jimenez and A. Loeb, “Constraining Cosmological Parameters Based on Relative Galaxy Ages,” Astrophys. J. 573, 37 (2002).
+R. C. Nunes and S. Vagnozzi, “Arbitrating the S8 discrepancy with growth rate mea-surements from redshift-space distortions,” Mon. Not. R. Astron. Soc. 505, 5427–5437 (2021).
+N. Kaiser, “Clustering in real space and in redshift space,” Mon. Not. R. Astron. Soc. 227, 1–21 (1987).
+H. Choi, “The Physical Origin of the Planck Scale Cutoff and Completion of Perturba-tive Quantum Gravity,” preprint (2025). Available at: https://www.researchgate.net/ publication/397952460.
+
+METAPHYSICS OF THE UNIFIED FIELD OF THE UNIVERSE
+
+
+Dr. Moninder Singh Modgil PhD (Cyclic Time Physics) Alumni - IIT Kanpur, India
+Mr. Santosh H. Kaware M.Tech. (Power System) Dr. B.A.T.U. Lonere, India
+Mr. Dnyandeo D. Patil Dip. (Electrical Engineering)
+Mr. Debendra Nath Behera B.sc
+
+
+
+Abstract
+
+The Unified Field Theory has been an area of intensive research since many decades.  This  paper focuses  on philosophy and metaphysics of unified field theory at Planck scale - and its relationship with super string theory and Quantum Vacuum Dynamic Physics. We examine the epistemology of questions such as - (1) What is the Unified Field of universe?, (2) Can it actually - (a) permeate the complete universe - or (b) be localized in bound regions of the universe - or, (c) extend into the extra dimensions? - -or (d) live only in extra dimensions? (3) What should be the emergent ontological properties of Unified field? (4) How the universe is manifesting through its Quantum Vacuum energies? (5) How is the space time metric coupled to the Unified field? We present a number of ansatz - which we outline below. It is proposed that the unified field possesses consciousness as well as a memory - a recording of past history - analogous to "Consistent Histories" interpretation of quantum mechanics. We proposed Planck scale geometry of Unified Field with circle like topology and having 32 energy points on its periphery which are the connected to each other by 10 dimensional meta strings which are sources for manifestation of different fundamentals forces and particles of universe through its Quantum Vacuum energies. It is also proposed that the sub energy levels of "Conscious Unified Field" are used for the process of creation, preservation and rejuvenation of the universe over a period of time by means of negentropy. These epochs can be for the complete universe, or for localized regions such as galaxies or cluster of galaxies. It is proposed that Unified field operates through geometric patterns of its Quantum Vacuum energies - manifesting as various elementary particles by giving spins to zero point energy elements. We subsequently extend this analysis to include a systematic investigation of its fundamental modes- the elementary particles and forces of nature, in which we explicitly identify all known particles with specific vibrational states of the "Conscious Unified Field". Epistemological relationship between unified field theory and super-string theories is examined. Properties of "consciousness" and "memory" cascades from universe, into macroscopic objects - and further onto the elementary particles - via a fractal pattern. Other properties of fundamental particles - such as mass, charge, spin, iso-spin also spill out of such a cascade. The manifestations of the unified field can reach into the parallel universes or the "multi-verse" and essentially have an existence independent of the space-time. It is proposed that mass, length, time scales of the unified theory are less than even the Planck scale - and can be called at a level which we call that of "Super Quantum Gravity (SQG) ".
+Keywords: Unified Field, Super string theory, Planck scale geometry, Negentropy, Super Quantum Gravity
+
+This Research Paper has been presented at 'International Conference on Unified Field Mechanics' which was organized by "International Physical and Mathematical Science Committee " on Dec 15- 16, 2016 at Holiday Inn Wembley, London.
+
+
+
+INTRODUCTION:
+
+To most people, it is obvious that the Universe is an organized unity. Whenever we look, from the innermost recesses of the atom to the far-flung galaxies, we encounter harmony and order of eternal cosmic laws. Today we know this mysterious universe governed by many well defined physical, chemical and biological laws; but there are many other deep and fundamental laws of universe which we don't know, because the knowledge of universe, its structure and operation is like an ocean. That's why Isaac Newton said that “What we know is the drop, what we don't know is the ocean!” Albert Einstein spent 35 years of his life on research of Unified field theory. Within the past many years, a number of important breakthroughs in this area have led to a progressively more unified understanding of the laws of nature, culminating in the recent discovery of completely Unified Field theories. Today many physicists and cosmologists around the world are doing the research to find out the ultimate mysteries of universe. In our present state of knowledge nature's varied phenomena required a multiplicity of different descriptions - a theory of gravitation, a
+
+theory of electromagnetism and so on. Many theoretical physicists believe, however, that underlying this multiplicity is a unified description of nature i.e. The Theory of Everything (TOE) or The Conscious Unified Field Theory of Universe from which entire universe is manifesting. Many scientists think that as per Standard Model of Physics, there may be any basic particle of all particles and a super force of all forces.
+
+The term Unified Field Theory first time coined by Albert Einstein it was their deep conviction that the laws of nature had a simple, geometric, unified foundation and this unification could be understood by the human intellect. The concept of Unified Field had been discussed by Greek Philosophers Plato , Aristotle and other scientists like Einstein in previous centuries under the title of Theory of Everything (ToE) or Final Theory, Ultimate Theory or Master Theory is all encompassing, coherent theoretical framework of Physics that fully explains and links together all physical aspects of the universe. Finding a ToE is one of the major unsolved problems in physics. Over the past few centuries, two theoretic al frameworks have been developed that, as a whole, most closely resemble a ToE. These two theories upon which all modern physics rests are General Relativity (GR) and Quantum Field Theory (QFT). GR is a theoretical framework that only focuses on gravity for under standing the universe in regions of both large-scale and high-mass: stars, galaxies, clust ers of galaxies, etc. On the other hand, QFT is a theoretical framework that only focuses on three non-gravitational forces for understanding the universe in regions of both small scale and low mass: sub-atomic particles, atoms, molecules, etc. QFT successfully implemented the Standard Model and unified the interactions (Grand Unified Theory) between the three non-gravitational forces: weak, strong, and electromagnetic force. [1] Many theoretical physicists believed that underlying multiplicity of universe there is a unified description of nature i.e. Unified field theory (UFT) or The Conscious Unified Field Theory of Universe from which entire universe is manifesting. Nikola Tesla in his last days had tried to put up this theory under the title of Tesla’s Dynamic Theory of Gravity but due to some reasons it did not presented to the world. As per this theory, the complete universe is running on gravitational energy as a fundamental energy which is produced from the source of Dynamic Gravity which is known as “Core of the Universe” which is beyond space and time.
+
+First of all, it must be much cleared that Unified Field is nothing but Pure, Infinitely Silent Consciousness Field and it is not materialistic thing. It is an ocean of infinite indivisible motionless pure consciousness beyond space and time. This motionless consciousness with dynamic silence through its Meta-Super-Strings produces 16 types of powers required to govern the universe. The Unified Field of universe has Novel Divine Conscious Scared Geometry from which entire universe is manifesting. The Meta Super Strings of Unified Field are creating different energies of various frequencies through Aether vibrations which further create vibrations for creation of particles and force carriers of matter and energy by giving spins to Aether elements. Dr. John Hagelin a US theoretical Physicist [2] has carried out deep research on this theory with the help of Super String theories and found that such Conscious Unified Field of universe must be in the higher dimension of the universe with high Quantum Vacuum Energy (Aether) level of 1019 GeV with Infinite Silence Field of Pure Consciousness. Further all particles and forces of this nature can be represented through Unified Geometry as shown by American theoretical physicist Antony Garrett Lisi, [3]who has proposed a Unified Field Theory based on the E8 Lie group, combining particle physics with Einstein's theory of gravitation. This theory shows that the universe is running under mechanism of Geometrical pattern of particles and forces at very high energy levels in dance of Creation from Conscious Unified Field of universe.
+The Unified Field itself viewed from its own level and in terms of its own intrinsic properties and behavior like Ocean of love, peace, happiness and power etc. from which all 16 energies of universe are produced through its Scared Geometry by mysterious pattern of Aether vibrations of different frequencies. The analysis of Unified Field can include a systematic investigation of its fundamental modes the elementary particles and forces of nature which explicitly can identify all known particles with specific vibrational states of the field. It has been proposed a new language and terminology of Physics in which the elementary particles are named for the specific vibrational states of the field for which they correspond. Property of love creates a cascade of Fibonacci series of harmonics frequencies which creates a cascade of Golden Mean electromagnetic waves and these vibrations given 2 spins in Aether element for creation of gravitational force to universe. Thus all properties of this Supreme Conscious Unified Field creates different energies and forces of the universe, form which entire universe is manifesting. This research paper gives explanation to the world that how this Supreme Conscious Unified Field creates these energies from its Divine Scared Geometrical Structure at the level of Planck scale. This understanding is made possible through the latest developments in understanding of the Unified Field provided by the Meta-superstring and Aether quantum Dynamic Physics.
+
+The universe originated with a vibration in an ocean of unmanifested fundamental substance which is described as an Ocean of Infinite Unified motionless pure Consciousness Field beyond space and time. When this motionless consciousness field becomes active, it oscillates by its own power and generates discrete quanta of consciousness which the physicists know as the discrete quanta of energy. Very low degree of manifestation of the consciousness makes the quanta appear like insentient matter. Thus the one becomes many and the laws of relativity becomes operative. The cause of the first motion is the force of Will associated with unified field of consciousness, which itself does not have any other cause. The force of Will operates on an individual scale as well as on a universal scale. Some of the highly regarded ancient philosophies of the world proclaim that the universe originated with a vibration in an ocean of
+
+unmanifested fundamental substance called energy. The universe so originated undergoes cyclic evolution and involution implying cyclic nature of time. [9]
+
+
+The Unified field of consciousness create universe with Super Quantum Gravity field. The universe is made up of only two things. The Unmanifest and the manifested energies. Again these two are not two different things but only One. And this One is the singularity in SQG. In SQG space and time does not have any physical existence, but they exist only in the human mind as imaginary artifacts. Comparatively, the energy has some real existence and it is found in myriads of forms. Again the energy is always associated with oscillations and motion, without exception. When these oscillation and motion of the energy subside, it gets transformed into the unmanifest which is not the energy and therefore does not gravitate. This unmanifest is motionless without any oscillations and therefore impossible to detect like empty space. This unmanifest is also the resting place of the universe, because there is no motion in it. In the reverse process, when the unmanifest begins to move, it oscillates and gives out quanta of energy which makes up all the particles of our standard model. By creation of energies, the unmanifest does not deplete and when the oscillations subside, the unmanifest does not increase. The relation between the unmanifest and the energy is like that between the ocean and it's waves and also that between water and ice because energies of universe arise by condensation of the unmanifest. In physics we have Bose-Einstein condensate theory. This theory shows that new form of matter can be created by cooling bosonic atoms. Similarly all forms of matter can arise by condensation of the fundamental substance of the universe. [9]
+
+Our old civilizations had realized that the 5 elements of the physical world such as earth, water, fire, air, and sky which are known as five Platonic geometries are made from Aether Sacred Geometry. We had find out sacred geometry of the 5 elements such as Flower of Life, Vesica Pisces, Metatron’s Cube and Tree of Life. These types of symbols were used in art works of all old civilizations. The 7 vowels of music created by this sacred geometry and the resonance frequency of the universe are in the form of sound of "Om". There is a unique geometric structure of these 5 elements among each other with Fibonacci Numbers and Golden Ratio for creation of mater and its forces. Universe is nothing but Ultimate Sacred Geometry (i.e. Cosmometry) of Conscious Unified Field of Universe from which entire universe is manifested through various fundamental patterns of Energy, Frequency and Vibration. At its foundation, Cosmometry is a study of the fundamental patterning of cosmic manifestation which is composed of three energetic-synergetic components. [4] These are:
+Vector Tensegrity  - Geometric pattern and structure (crystalline forms)
+Torus Flow Process - Primary form of energy in motion as a discrete entity (whirlpools)
+Field Patterning – Standing wave interaction of vector and torus dynamics (water waves)
+
+Foundational to the cosmic phenomena we can observe (photonic and atomic radiation) and determine to exist (e.g. dark matter/energy) and directly experience that the Unified Field is of infinite energy and creative potential. Commonly known as the zero-point field or vacuum of space (or called plenum, meaning "fullness"), this is the source state that precedes manifest reality (both physical and metaphysical). This Unified Field has a specific Cosmometry (or geometry) wherein all energetic radiation, gravitation, magnetism, tension, pressure, thought, feeling, etc resolves into a state of perfect and absolute equilibrium – zero differential and fluctuation. The name of this Cosmo-metric pattern is Isotropic Vector Matrix (IVM). Isotropic means “all the same”. Vector means “line of energy”. Matrix means “pattern of energy lines”. It is a pattern of energy lines that are all the same everywhere. Here is an illustration of this matrix (that includes highlighting of two basic geometric forms inherent within it: Cuboctahedron (also called a Vector Equilibrium) and Octahedron. When energy comes into a state of perfect and absolute equilibrium, all differentiation becomes zeroed out, resulting in a Unified Wholeness that is beyond even the concept of unity. Vector Equilibrium has the inherent ability to “collapse” in a spiraling motion And quite remarkably, as it does so it transforms through phases that include symmetrical articulation of the icosahedron, dodecahedron, octahedron, cube and tetrahedron. In other words, the VE inherently has the potential to create all of the platonic solids (Elements / Drvya) in one swift motion from energy of Unified Field of Universe.
+
+This center point is the center of the VE (Vector Equilibrium ). It is the “Singularity” that connects the entity to the Unified Field in its zero-phase. Everything is always connected to the Unified Field in its zero-phase, and in this way, everything is always connected to the center of everything else. This is an extreme beauty of Conscious Unified Field of universe who is Gforce of the universe. The VE is the most basic symmetry of the Isotropic Vector Matrix, and is essentially the focal point of all manifest energy events, be they protons, electrons, crystals, planets, stars, galaxies… This is because every one of these events is the result of an impulse that introduces tension/pressure dynamics (differentials) which collapse the zero-point IVM /VE Cosmommetry into a discrete phenomenon with its own unique focal point – the center around which it exists.
+
+/	/
+
+
+b. Torus Flow Process:- When energy becomes manifest (collapses out of IVM zero-point equilibrium) it immediately sets up a polarized dynamic, creating the fundamental form of energetic flow called the Torus. Everything, from atomic “particles” to electromagnetic fields, to weather patterns, to trees, to us, to ecosystems, to planets, to stars and galaxies, is toroidal in nature. The Universe is a seamlessly embedded fractalization of torus energy flow. Here is a simple illustration of a torus as per fig. The characteristics of the torus are of primary importance to our understanding of how healthy and sustainable living systems are formed at all scales of existence.
+It is made from the medium in which it exists
+It is self-generating and self-sustaining
+It exchanges information and resources throughout itself and with the environment in which it exists
+It has a continuous feedback loop and is self-reflexive
+It is both an autonomous entity and integral part of a larger wholeness
+It is centered by a singularity that connects it with the entire Universe
+
+c. Field Patterning: - The third primary component of Cosmometry is the patterning of the energy as it manifests in and around all entities – the Field Patterning – and as it seamlessly scales from micro to macro, quantum to galactic, with maximum efficiency and harmony. Again quite remarkably, in exploring this patterning we are able to observe that the most basic aspects of the fractal-holographic nature of the cosmos – the presence of the PHI ratio. It appears that the general manifest field of space-time is fundamentally based upon the phi ratio in its Cosmometry. It is one of nature’s most fundamental scaling ratios, providing the maximum efficiency and balance of energy flow throughout the cosmos. There are four fundamental characteristics of how phi is observed: as Spiral, Quantity, Scale and Angles.
+According to Daniel Winter, the cascade of Golden electromagnetic waves ends up as blue light in the DNA of our body! The DNA is a kind of a lens attracting the electromagnetic energy into itself. So how does the heart and brain waves that have long wavelengths connect and lock with the much shorter wavelengths of the DNA? It’s the Golden Mean ratio that bridges the scale of the long wavelength of the heart and brain waves to the short wavelength of DNA. When our thoughts and emotions are attuned to love, a cascade of Fibonacci series of harmonics is created that links the energy of the hearth and mind to our own DNA. So emotion is really energy, it is energy in motion, e-motion. Emotion is like a roller coaster conveying the emotional energy from the heart to every cell in our body into our very own DNA. The energy of our emotions moves between these scales of long waves to short waves and is finally delivered to our DNA. Fritz Pop had previously discovered the bio photons, the blue light in the body and assumed that it was somehow related to DNA, Daniel Winter explains us the wave coupling mechanism of how the energy of the mind and heart is delivered to our very own DNA.
+
+When the heart expresses the emotion of love it creates a cascade of Golden Mean electromagnetic waves, in fact it creates gravity just like the atom does when it attracts by Golden Mean braiding electromagnetic waves into the zero still point. Why have we always associated love with gravity? Why do we use words like I’m attracted to you, like the moon is to the Earth, when we’re in love with someone? Why has our emotion always been associated with weight? Why are we heavy in love? When Isaac Newton saw the apple fall from the tree, he just discovered gravity. He ran off to tell others and explained the principle of gravity to others by saying that the apple is attracted to the Earth. The people stared and laughed at him, the whole idea seemed preposterous, how could an apple be attracted to the Earth? Are they in love? Only people in love are attracted to each other. It took Newton a long time before people started to get used to the idea of gravity as a force of attraction. In those days, Newton would have done better to take another word to explain the principle of gravity. However taking Daniel Winter’s theory of gravity literally, the word attraction seems just fine, it now seems appropriate to say that the Earth and the moon are in love and that it is gravitation that is drawing a man to a woman! [5]
+
+Daniel Winter also used Heart Tuner on a trained yogi who went into a deep state of meditation. Formerly he had instructed the yogi to focus on a tree and to send loving thoughts to the tree. He placed an antenna near the tree and linked both the yogi and the antenna near the tree to his Heart Tuner. The antenna under the tree picked up the Earth’s electromagnetic Schumann waves. The Schumann waves named after German Professor W.O. Schumann were discovered in 1952. The Schumann waves are a result of the Schumann resonance, a frequency resonation of about 8 Hertz that occurs between upper layers in the atmosphere and the Earth’s crust. It is called Gaia’s heartbeat. The Schumann resonance is somehow related to human consciousness since brainwaves operate in a frequency domain that includes the 8-Hertz Schumann frequency. Spacecraft of NASA are all equipped with a device that simulates the natural Schumann resonance frequency. From early space travel NASA learned that astronauts get disoriented and distressed when they are shut off from the Schumann resonance. As a human being we depend on it. Daniel Winter demonstrated that the trees in the woods act like huge antenna that pick up the Schumann frequencies and amplify it. When hooked up to the Heart Tuner he noticed first of all that that the yogi’s ECG and EGG were coherent as expected from earlier experiments. However he also found that the yogi’s brainwaves and heartbeats had become coherent with the Schumann resonance of the Earth! Human consciousness is the main factor which affects on the Aether element and finally its reflection ultimately is on stars, planets, galaxies and each and every particle of the universe. Though the Unified Field is continuously providing the energies to run this universe but due to shifting of human consciousness and its effect on universal systems due to which they are unable to receive these energies hence this universe leads to negentropy.
+
+Description of Unified Field
+
+The most mysterious structure of the Unified Field of the universe is as shown in figure 1. The Unified Field is nothing but Supreme Consciousness pure Energy Field with circle like geometry and having 32 energy points on its periphery which are the sources of unlimited and infinite energies. [7] This field has three sub energy levels which are in combined form due to which it has pure and stable consciousness field. These three sub energy levels of the Unified Field are used for the process of creation, preservation and rejuvenation of the universe over a period of time. The most amazing thing about the Unified Field is that it has its own memory and consciousness as like each particle of the universe. This is the universal consciousness field from which all the universal processes are manifesting. There are explicitly identified all known particles with specific vibrational states of this field in the elementary particles and forces of the nature. Not only all the fundamental forces and the energies are combining at this field but also continuously generating from this field. This field is the seed of existence of all the particles and forces of universe and it is located at the 7th energy level of the universe. It is complete Silence Pure Field (i.e. Constant Field) which is less than Planck scale in its measurement. This field can observe the past, present and future of universe. This field is beyond the time, space and matter hence it is unbounded and can easily change the time and space of universe through its energies. In this universe each and every particle has its own sacred geometry and all are working in harmony from quarks inside atom to planets. Similarly the Unified Field is also manifesting all its energies through its sacred geometry. It has its own Supreme properties and characteristics by which it can create multi universes like ours and operating them in auto process very easily at every moment. In multi universes each and every thing including all the particles are the part of Unified Field but still it is apart from them.
+
+
+Fig. 1 Unified Field of the Universe
+
+
+
+Supreme Characteristics of Unified Field of the Universe:
+The Unified Field has 32 energy points in which each point has its unique importance. Following are the 32 characteristics (specified in Latin Greek) of the Unified Field which are linked with 32 energy points of the Unified Field.
+(1)  It is Oceano of Caritas (i.e. Ocean of Love)
+(1’) It is Emetior of Otium (i.e. Bestower of Peace)
+(2) It is Veritatem, Sensitivam Existo and Involveret of Beutum (i.e. Truth, the Sentiment	Being, the Embodiment of Bliss)
+(2’) It is Demolior or Rejuvenator (i.e. Destroys or Rejuvenate the devilish world)
+(3)  It is Liber from Obitus (i.e. Liberator from the claws of death)
+(3’)  It is Emetior of fortunates (i.e. Bestower of Happiness)
+(4) It is Concinnator of Trinum (i.e. Trinity Creator for Creation, Preservation and	Rejuvination)
+(4’) It is Semen of Humanum Universum Arbor (i.e. Seed of human world tree)
+(5)  It is Gubernator of Cumba of Vigor (i.e. takes the boat of life across)
+(5’) It is Emetior of Salutare (i.e. Bestower of Salvation)
+(6)	It is Scient of Intium, Medium, Exitus of Gyrus (i.e. Knower of beginning, middle and	end of the cycle)
+(6’) It is Amoliorer of Luctus and Emetior of fortunates (i.e. Remover of sorrow and	bestower of happiness)
+(7)  It is Oceano of Tranquilitas (i.e. Ocean of Peace)
+(7’)  It is Scient of Altum Philosophia of Karma Quod (i.e. Knower of the deep Philosophy	of Karma)
+(8)  It is Supergradior of Deitas Universum (i.e. Sustains the deity world)
+(8’) It is Constituere of Saeculum (i.e. Establishes the Golden Age)
+(9)  It is Incorporeus (i.e. Incorporeal)
+(9’) It is Habitasse of the Aethera Elementi (i.e. Resident of the Brahm Element)
+(10) It is Horreum of All Antiquities (i.e. Store house of all virtues)
+(10’) It is Oceano of the Nectaris of Intelligntia (i.e. Ocean of the Nectar of Knowledge)
+(11) It is Arbiter of Divino Visum (i.e. Controller of Divine Vision)
+(11’) It  Instituo of Molaris Intellectus into Divino Intellectus (i.e. Makes the stone intellects into divine intellects)
+(12) It is Apex of Lumen and Concarnatio of Lumen (i.e. Point of Light and Embodiment of Light)
+(12’) It Instituo Hominum into Deitas (i.e. Makes human beings into highest deity)
+(13) It is Oceano of Faustum (i.e. Ocean of Bliss)
+(13’) It is Emetior of Liberandes in Pectus Universum and Caelum (i.e. Bestower of Liberation and Liberation in Life)
+(14) It is Remotus from Fortunates and Luctus (i.e. Detached from Happiness and sorrow)
+(14’) It is having Intempestus Forma (i.e. Timeless form)
+(15) It is Highest on High Genitor, Praeceptor and Benedictum (i.e. Highest on high Father, teacher and preceptor)
+(15’) It is Purifico (i.e. Purifier)
+(16) It is above Partus and Mors (i.e. Above birth and death)
+(16’) It is Emetior of Divino Intellectus (i.e. Bestower of divine intellect)
+
+Supreme Qualities of the Unified Field of the Universe
+Qualities of intelligence emerging from the Unified Field of Natural Law through the self-interacting dynamics of its three-in-one structure are as follows. [6]
+(1) Unifying: At the different specific force and matter fields are unifiedas the different components of the underlying Superstring Field.
+(1’) Holistic (Dynamic Silence): The Lagrangian of Superstring Field Theory is the holistic expression of the Laws of Nature at the infinitely dynamic (Planck scale dynamics) and yet unexpressed (vacuum dynamics) and therefore silent level of the Unified Field; it represents the most compactified form of the constitution of the universe from the perspective of modern science.
+(2) Reverberating Wholeness: The Lagrangian of the Heterotic Superstring quantifies the vibration of loop like closed strings.
+(2’) Transforming: The vertex for the self-interaction quantifies the transformation of a previous state into a subsequent state.
+
+(3) Separating: With the progression towards larger distance scales a process of sequential symmetry breaking separates the different fields: the fields become not only different but their mutual interaction also becomes restricted.
+(3’) Structuring: The resonances in the 2-point functions express themselves as material particles; these particles in turn serve as the constituents of all composite material structures.
+(4) Balancing-Holding together and supporting: Supersymmetry, as reflected in the Superstring Field is the perfect balance of bosonic and fermionic degrees of freedom. The holistic appearance of the Superstring Field in the functional Fourier transformation then shows how it supports and holds together all the more expressed values which are derivable from the Generating Functional.
+(4’) Offering and Creating: In the process of symmetry breaking the majority of field components become unexpressed. This ‘offering’ to the unmanifest makes it possible for the other components- like the quarks, leptons and the four forces to be expressed with their characteristic properties. The sequential symmetry breaking that brings forth these specific properties of the force and matter fields, etc. simultaneously can be seen as a creative process because it is responsible for the generation of the large variety found in the universe.
+(5) Invincible and Progressive: In the process of self-interaction the superstring field may transform its superficial appearance, e.g. it’s mode of vibration. This is however only the display of the progressive nature of the String Field and does not affect its invincible existence.
+(5’) Blossoming of Totality: The blossoming of the self-interacting Unified Field reveals itself most clearly in the great variety of correlation functions, which in turn uphold all expressed values in Nature.
+(6) Flowing Wakefulness: The infinite variety of dynamic correlations as the Planck Scale show that the Unified Field is fully awake within itself. Moreover, the full propagator represents not only the aspect of flowing (propagation) but also includes self-interaction- that means wakefulness.
+(6’) Integrating and Harmonizing: All the force and matter fields are integrated as the different vibrational modes of one underlying Superstring Field. Moreover, the phase factor in the functional integral expresses harmonious superposition of all field configurations.
+(7) Silencing, Sharing and Spreading: The vacuum dynamism hidden within the functional integral then yields the correlation functions which quantify how properties are shared and spread.
+(7’) Diagnosing: The power series expansion of the Generating Functional yields a precise diagnosis of the dynamic correlations involved in a specific process.
+(8) Nourishing: Although the Unified Field does not appear manifestly at the level of the correlation functions, it nourishes every aspect of activity by its own self-referral dynamism hidden in the functional integral.
+(8’) Establishing: The process of sequential symmetry breaking as represented by non-vanishing vacuum expectation values establishes permanent, clearly defined characteristic properties of the specific fields.
+(9) Measuring and Quantifying: The field operator of the Superstring Field and of any other more expressed quantum fields that are derived from the state representation of the Superstring Field, obey the quantum principle; the quanta are measured in units of the Planck constant.
+(9’) Ancient and Eternal: The time-translational invariance of the Lagrangian.
+(10) Expressing: The Unified Field expresses itself through the process of sequential symmetry breaking and thereby unfolds a great variety of values.
+(10’) All Knowing: The prediction of all dynamic processes has its basis in the concentrated knowledge expressed by the Lagrangian.
+(11) Unfolding: With the progression towards larger distance scales an increasing variety of aspects gets unfolded and this is due to self-interacting dynamism of the Unified Field.
+(11’) Dissolving: In scattering process incoming strings or particles are annihilated or merge into the vacuum state. This is the prerequisite for new strings or particles to emerge out of the vacuum state.
+(12) Un-manifesting the Parts but Manifesting the Whole: At the infinitely dynamic level of the Planck scale the individual specific field components have no real lasting existence- the Lagrangian and all dynamism are only in terms of one holistic self-interacting Superstring Field.
+(12’) Transcending: The Lagrangian of the Superstring Field has its domain especially at the unexpressed transcendental level of the Planck scale.
+(13) Lively Absolute(Living Wholeness- I-ness or Being: When the Unified Field of Natural Law expresses itself in an infinite variety of dynamic processes (lively), it does not show itself directly in any of the localized, finite activities derived from the correlation functions. It thereby maintains its absolute status. The purely self-interacting dynamics of the Unified Field gives it the quality of I-ness. It only refers back onto itself and is never transformed into anything else. It therefore has the quality of pure existence, pure being. All specific expressed fields and the variety of correlation functions are merely expressions of the dynamics of this eternally existing field.
+(13’) Equivalency: All the symmetries displayed by the Lagrangian express the equivalency between the different field components as well as the equivalency of the different space-time points.
+(14) Distinguishing and Deciding: The self-interaction of the Superstring induces via Higgs mechanisms etc. a process of sequential symmetry breaking by which the field components become distinct. Moreover, the
+
+quantum mechanical interaction is at the center of any quantum measurement process in which the further time evolution is decided.
+(14’) Omnipresent: The functional Fourier transformation makes the Unified Field holistically omnipresent in any dynamic process derived from the infinite variety of correlation functions.
+(15) Analyzing: The analysis of the Generating Functional expresses itself in an infinite variety of dynamic correlations which are quantified by the specific n-point functions.
+(15’) Enlightening: The enlightenment of holistic quantum correlations in the case of macroscopic quantum coherence as quantified by respective correlation functions, connects expressed manifest levels back to the holistic value of Natural Law and thereby is enlightening.
+(16) All Pervading Wholeness: The functional Fourier transformation shows that the Unified Field pervades everything in a holistic manner.
+(16’) Memory: The non-vanishing vacuum expectation values carry the memory of the sequential symmetry breaking.
+
+All the 16 energies required to operate this universe are produced by the Unified Field of the Universe from its dynamic silence nature. The 32 energy points on the periphery are joined pair wise by which 16 energies are produced. The 16 energies produced from the unified field of the universe are as below.
+
+Gravitational Energy (1-1’)
+Nuclear Energy (2-2’)
+Aether Energy (3-3’)
+Potential Energy (4-4’)
+Kinetic Energy (5-5’)
+Magnetic energy (6-6’)
+Mechanical Energy (7-7’)
+Electromagnetic Energy (8-8’)
+Thermal Energy (9-9’)
+Sound Energy (10-10’)
+Elastic Potential Energy (11-11’)
+Electric Energy (12-12’)
+Mechanical Work (13-13’)
+Electrostatic Energy (14-14’)
+Chemical energy (15-15’)
+Surface Energy (16-16’)
+
+In contrast with quantum physics the Aether theories state that there are no particles only waves. The zero point or Unified consciousness field in the Aether Quantum Dynamic theory of Daniel Winter is the perfect stillness, the alpha and the omega of creation. The Unified consciousness field is perfect stillness and infinite movement at the same time. It’s the same thing. How can this be? The cascade of Golden waves creates an infinite series of higher harmonics and when all the waves are added up using the Fourier principle it creates a flat wave of zero Hertz, perfect stillness! it’s complete stillness (zero Hertz) and filled with an infinite cascade of Golden harmonics all at the same time. The waves that create matter and that by means of fractals move into the nucleus in an increasing cascade of Golden waves, speed up and exceed the light speed. But where do they go? They center into the Unified consciousness field, back from where they came. In this sense, the Unified consciousness field is the alpha and omega of creation! The Unified consciousness filed is perfect stillness and unimaginable abundant activity at the same time! They are two sides of the same coin, it’s like a snake biting its own tail. It would explain how the universal consciousness was accessed by so many geniuses like the greatest philosophers, scientist, artists and musicians that have inspired us throughout the Ages. [5]
+
+A growing number of physicists today believe that the universe indeed is self-aware. Why is it that almost all of the world religions associate God’s consciousness with light? The Bible tells us that God is the Light of the world! Daniel Winter’s Implosion Physics now tells us that it is conscious light that creates the material world! Could this universal consciousness that many like to refer to as God be the Unified filed in the Aether, the still point, the fractal attractor in chaos theory that draws all the light of the world into itself where all is One? The Unified filed could be regarded as the source and destination, the alpha and the omega of creation. Daniel Winter tells us that it is this universal consciousness that focuses the waves into the zero point and keeps it spinning, it can be compared with the Gforce mentioned in Aether Dynamics! Light in a straight line is energy, loving light bended around a focal point creates matter and it’s the universal consciousness that keeps the waves centered! If the universal mind of the universe, God is the light and love of the world, like the Bible has always told us; we can now appreciate it from a scientific perspective!
+
+This Conscious Unified field is creating the Gforce of universe, which Physics says that the Gforce is equal to
+1.21x1044 Newton! That is one enormous force! It is truly the only force in the universe and it acts directly through the primary angular momentum and charge of each one. It needs to examine this one and only force in order to learn how it directly affects the world. The inertial mass of the Aether exists reciprocal to the dimension of mass which is familiarly apply to visible matter. Reciprocal mass is a relatively unexplored concept in Physics and has different properties from familiar mass, just as frequency has different properties from time. In addition to being a more primary order of reality, the non-material nature of Gforce likely relates to the Aether’s reciprocal inertial mass.
+
+Love and Gravitational Energy :
+
+We all know that Gravitational energy bound all objects of universe from micro to macro level to run the universe. How an spiritual energy of Love create Gravitational force in universe? it can prove by this small experiment of music and emotions of human mind. Manfred Clynes, a former concert pianist studied the relation between music and emotion. During his many performances he learned that certain parts of his playing moved people more than others. He wanted to find out what it was in music, what pitches and notes touched people more than others. He started a scientific career to find out. He studied the wave shapes that were related to human emotions. The tender hugs and caressing between people seemed to follow predictable envelopes of pressure that were universal. His studies showed that they were not related to cultural, religious or racial backgrounds. All over the world people seem to follow the same recipe for creating emotions in waves. Expressions of anger and hate where people push and jerk the other also follow predictable wave paths of pressure. Amazingly the emotion associated with love is Golden Mean related! If we’re hugging our loved one and we express the feeling of love, the maximum pressure in the hug is at exactly the Golden Mean ratio with respect to the total duration of the hug! [5]
+
+
+Daniel Winter concluded from Manfred Clynes material that love must be Golden Mean related! So it seems there is only one way the unified consciousness field of the universe can create. It requires the loving non-destructive interference bending of light into fractal structures of geometries that allows the waves to stand and interfere eternally. The higher harmonics in the Golden Fibonacci sequence are all based on the longest Phi wave, the carrier wave. The cascade of electromagnetic waves all braid on this Golden wave with the longest wavelength, the long Phi wave or lo-Phi wave, the love-wave! So it seems only love creates and we can now appreciate that the loving waves that interfere with each other is what creates the material world. If the interfering waves did not maintain the Golden Mean ratio in wavelength, destructive interference would be the result and the material world could simply not exist. Isn’t it true that love can move mountains and that hate and anger destroys everything? We can see the same principle expressed in waves that lovingly construct the material world! When the waves hate each other, they compete and kill each other! [5]
+The Gravitational force calculate by following formula :
+
+
+where:
+
+F is the force between the masses;
+G is the gravitational constant (6.674×10−11 N · (m/kg)2);
+m1 is the first mass;
+m2 is the second mass;
+r is the distance between the centers of the masses.
+
+Here the Spiritual energies of Unified consciousness field such as Ocean of Love ( Potential energy) and Bestower of Peace ( Kinetic energy) , which are two energies meet to produce Gravitational energy for universe.
+Ocean of Love represent of spiritual energy in formula as = (Energy)/ D3	(1)
+where D is distance between three energies of universe i.e GOD, Soul and Matter, and Potential energy formula as below
+
+Hence Ocean of Love energy in terms of Potential energy= mgh/ D3	(2). Also
+Bestower of Peace of spiritual energy in formula as = (2x t2 x Energy)/ D2	(3) where t is time and d is distance
+between energies. Kinetic energy formula as below
+
+
+
+
+
+Hence Bestower of Peace energy in terms of Kinetic energy as = 1/2 x 2x Energy x t2 x V2/ D2	(4)
+
+Both Spiritual energies of Unified consciousness field such as Ocean of Love ( Potential energy) and Bestower of Peace ( Kinetic energy) , which are two energies meet to produce Gravitational energy for universe as below.
+Ocean of Love energy in terms of Potential energy= mgh/ D3......(2) and Bestower of Peace energy in terms of Kinetic energy as = 1/2 x 2x Energy x t2 x V2/ D2	(4). Hence multiplication of both energies will creates following formula
+as..
+ELP Energy= mgh/ D3 X 1/2 x Energy x t2 x V2/ D2 , where h height will be as d and Velocity will be d/ t (distance/ time) which can write as = (m1gd/ D3) X (1/2 x 2x m2 x t2 x V2/ D2)
+This will give ELP Energy  = G m1 m2 / D2	(5)
+Hence both Spiritual energies of Unified consciousness field such as Ocean of Love ( Potential energy) and Bestower of Peace ( Kinetic energy) , which are two energies meet to produce Gravitational energy for universe.
+This way all remaining 30 energy points, cerates 15 energies to operate this universe as per description in Supreme Characteristics and Qualities of Unified Field of the Universe. So we can say that Silence filed of Unified Consciousness Field of universe creates all energies for operation of universe. Entire universe getting supply of infinite power from this infinite power house every second!!
+Mathematical Analysis of Unified Field
+
+As Unified Field is beyond this physical world (i.e. space and time) with its Dynamic Silence producing all 16 powers infinitely on continuous basis. When these 16 powers from antimatter or Golden Luminous Aether world come to physical world then these got converted into 16 energies by Polaris star which are used in the universe for different purposes. In Electrical Engineering, the Unified Field can be compared with Constant DC Generator with infinite output as shown in figure 2 and its mathematical analysis is as below.
+
+The infinite power produced by the Unified Field of the universe is as below.
+
+P∞ = V∞ × I∞	(1)
+
+Where P∞ = Power produced by Unified Field as a Infinite DC Generator V∞ = Terminal voltage of Unified Field as a Infinite DC Generator
+I∞ = Total current produced by Unified Field as a Infinite DC Generator
+
+As per Kirchhoff’s Current Law- Total current produced by Unified Field as a Infinite DC Generator
+
+I∞ = I11’∞ + I22’∞ + I33’∞ + I44’∞ + I55’∞ + I66’∞ + I77’∞ + I88’∞ + I99’∞ + I1010’∞ + I1111’∞ + I1212’∞ + I1313’∞ + I1414’∞ + I1515’∞ + I1616’∞
+
+/
+Fig. 2 Unified Field as a Constant Infinite DC Generator
+
+
+Therefore, total current produced by Unified Field as a Infinite DC Generator
+16
+
+I  
+ Iii ' 
+ii '  1
+
+(2)
+
+Hence, mathematical equations for all 16 powers produced from Unified Field of the Universe are as follows.
+Gravitational Power: PGP∞ = V∞×I11’∞
+Nuclear Power: PNP∞ = V∞×I22’∞
+
+Aether Power: PAP∞ = V∞×I33’∞
+
+Potential Power: PPP∞ = V∞×I44’∞
+
+Kinetic Power: PKP∞ = V∞×I55’∞
+
+Magnetic Power: PMP∞ = V∞×I66’∞
+
+Mechanical Power: PMEP∞ = V∞×I77’∞
+
+Electromagnetic Power: PEMP∞ = V∞×I88’∞
+
+Thermal Power: PTP∞ = V∞×I99’∞
+
+Sound Power: PSP∞ = V∞×I1010’∞
+
+Elastic Potential Power: PEPP∞ = V∞×I1111’∞
+
+Electric Power: PEP∞ = V∞×I1212’∞
+
+Mechanical Work Power: PMWP∞ = V∞×I1313’∞
+
+Electrostatic Power: PESP∞ = V∞×I1414’∞
+
+Chemical Power: PCP∞ = V∞×I1515’∞
+
+Surface Power: PSRP∞ = V∞×I1616’∞
+
+Hence, total infinite power produced from Unified Field of the universe as a Constant Infinite DC Generator is as below.
+
+
+
+P  V ×
+16
+ Iii ' 
+ii '  1
+
+
+(3)
+
+
+Location of Unified Field in the Universe
+In the cyclic Gödel universe, the Unified Field exactly located in the 10th dimension (i.e. 7th energy level) of the universe as shown in figure 3. The to know the exact location of the Unified Field in the universe, it is necessory to know the real structure of the universe. The famous scientist Nikola Tesla said that “If you want to understand the Universe, think of Energy, Frequency and Vibration.” Hence to reveal the secrets of the universe we must have to understand the basic 3 energies, 6 frequencies and 9 vibrations of the universe. The sacred geometry of the universe is in oval shape in which the 5 elements, planetory system, stars and galaxies are enclosed. The structure of universe is like a Yogi’s body who is doing Sadhana, in which the Cosmos is the head and all-star celestials are part of Cosmic brain, Pole Star is like hypothalamus, White hole is like crown chakra of universe, all planets are body parts like heart, lungs, liver, stomach etc. and Flat Earth is like Yogi’s legs with Earth’s core as Kundalini (i.e. Serpant) power of universe in Muladhar chakra. Beyond this marvelous universe, there is nature’s 6th element as of golden particles known as Golden Luminous Aether energy (Quantum Vacuum Energy) and in science, it is known as antimatter. Yogis called this soul world as Shantidham, Nirvandham, Brahmlok. This marvelous cosmic world is connected to the physical world through White hole. This White hole is an opening of the cosmic world in which there is power to rotate this universe. This White Hole is the center of gravity of the universe and giving Aether energy to Pole Star whose astral link is with all the stars and galaxies of the universe by which the entire universe rotates continuously in cyclic pattern in the clock wise direction on Flat and Stationary Earth. [8]
+
+
+Fig. 3 Structure of Universe
+
+Today scientists know only physical world of the universe and upper portion i.e. subtle and cosmic world is still unknown to them. If we join physical, subtle and cosmic worlds then there is formation of the complete universe, which is present in 10 dimensions and in this topology only we can get perfect equations of the complete universe. The present universe is like a Gödel Universe in which each and every particle completes its loop after certain period through Gödel Geometric Metric. The Rotating Gödel Universe is a complete solution to Einstein’s Field Equations. Many unsolved problems regarding physical world such as sun corona, sun neutrino problem, EPR paradox and wave function problem etc. can be satisfactorily solved by the cyclic Gödel Universe. If scientists accept the Gödel Universe Model then many secrets and wonderful geometry of the universe may get revealed.
+
+
+Unified Field Energy Flow Network of the Universe
+
+All 16 energies with Golden Luminous Aether form are produced from the Unified Field of the universe and passed into physical world from the cosmic world through white hole. Then, these energies processed into the Pole star (Luminous Aether) which acts as a universal processor of all energies. After processing these energies by Pole star then it flows into Saptarshi (7) stars and further processed in 108, 1008 stars to other stars in the sky element. Also there is direct energy
+
+flow from Saptarshi stars to planetary system and then to the inner core of the earth. From sky element (electrical energy) then this energy goes to air, fire, water and earth elements in the form sound, nuclear, chemical, gravitational energies respectively. When these various energies of different elements mixed in different proportion gives mechanical, thermal, electric potential, surface, magnetic, electromagnetic and electrostatic energies. The Unified Field Energy Flow Network of the Universe is as shown in figure 4.
+
+
+Fig. 4 Unified Field Energy Flow Network
+
+
+CONCLUSION
+
+The unified field possesses consciousness as well as a memory and it is nothing but Supreme Consciousness Energy Field with circle like geometry and having 32 energy points on its periphery which are the sources of unlimited and infinite energies. This field has three sub energy levels which are in combined form due to which it has pure and stable consciousness field. These three sub energy levels of the Unified Field are used for the process of creation, preservation and rejuvenation of the universe over a period of time.
+
+It must be much cleared that Unified Field is nothing but Pure, Infinitely Silent Consciousness Field and it is not materialistic thing. It is an ocean of infinite indivisible motionless pure consciousness beyond space and time. This motionless consciousness with dynamic silence through its Meta-Super-Strings produces 16 types of powers required to govern the universe. The Unified Field of universe has Novel Divine Conscious Scared Geometry from which entire universe is manifesting. This field is the seed of existence of all the particles and forces of universe. The Meta Super Strings of Unified Field are creating different energies of various frequencies through Aether vibrations which further create vibrations for creation of particles and force carriers of matter and energy by giving spins to Aether elements. The Unified Field itself viewed from its own level and in terms of its own intrinsic properties and behavior like Ocean of love, peace, happiness and power etc. from which all 16 energies of universe are produced through its Scared Geometry by mysterious pattern of Aether vibrations of different frequencies.
+
+It is complete Silence Pure Field (i.e. Constant Field) which is less than Planck scale in its measurement. This field can observe the past, present and future of universe. This field is beyond the time, space and matter hence it is unbounded and can easily change the time and space of universe through its energies. In this universe each and every particle has its own sacred geometry and all are working in harmony from quarks inside atom to planets. Similarly the Unified Field is also manifesting all its energies through its sacred geometry. The Unified Field has 32 energy points in which each point has its unique importance hence for these points there supreme characteristics and qualities of
+
+intelligence emerging from the Unified Field of Natural Law through the self-interacting dynamics of its three-in-one structure are specified for proper understanding of the Unified Field.
+
+As Unified Field is beyond this physical world (i.e. space and time) with its Dynamic Silence producing all 16 powers infinitely on continuous basis. When these 16 powers from antimatter or Golden Luminous Aether world come to physical world then these got converted into 16 energies by Polaris star which are used in the universe for different purposes. In Electrical Engineering, the Unified Field can be compared with Constant DC Generator with infinite output hence its mathematical analysis for infinite power and for 16 powers produced have been carried out.
+
+Today scientists know only physical world of the universe and upper portion i.e. subtle and cosmic world is still unknown to them. If we join physical, subtle and cosmic worlds then there is formation of the complete universe, which is present in 10 dimensions and in this topology only we can get perfect equations of the complete universe. In the cyclic Gödel universe, the Unified Field exactly located in the 10th dimension (i.e. 7th energy level) of the universe.
+
+All 16 energies with Golden Luminous Aether form are produced from the Unified Field of the universe and passed into physical world from the cosmic world through white hole. Then, these energies processed into the Pole star (Luminous Aether) which acts as a universal processor of all energies. After processing these energies by Pole star then it flows into Saptarshi (7) stars and further processed in 108, 1008 stars to other stars in the sky element. Also there is direct energy flow of energy from Pole star and Saptarshi stars to planetary system and then to the inner core of the earth. From sky element (electrical energy) then this energy goes to air, fire, water and earth elements in the form sound, nuclear, chemical, gravitational energies respectively. When these various energies of different elements mixed in different proportion gives mechanical, thermal, electric potential, surface, magnetic, electromagnetic and electrostatic energies.
+As the Unified Field is infinite in nature having unlimited and equal energy at everywhere. Hence, the manifestations of the Unified Field can reach into the parallel universes or the "multi-verse" and essentially have an existence independent of the space-time. It has its own Supreme properties and characteristics by which it can create multi universes like ours and operating them in auto process very easily at every moment. In multi universes each and every thing including all the particles are the part of Unified Field but still it is apart from them.
+
+
+REFERENCES
+
+Article vide link https://en.wikipedia.org/wiki/Theory_of_everything
+
+Beyond miracles: The discovery of the unified field and its practical applications to prevent crime, terrorism, and international conflict by John Hagelin, Ph.D. Subtle Energies and Energy Medicine, volume 18, number 1, page 39.
+A Geometric Theory of Everything by A. Garrett Lisi and James Owen Weatherall. Page 55, December 2010, Scientific American Magazine.
+Website www.cosmometry.net on Cosmometry by Marshall Lefferts.
+A book on “Souls of distortion awakening” by Jahn Vincherink
+Article by Dr. John Hagelin, “Qualities of intelligence emerging from the Unified Field of Natural Law through the self-interacting dynamics of its three-in-one structure.”
+Dr. Moninder Singh Modgil, S. H. Kaware, D. D. Patil, H. B. Bhoir, “Revealing the Real Science of Consciousness through a Novel Divine Sacred Geometrical Structure of Conscious Quanta” presented at International Conference on Science of Consciousness at Center for Consciousness Studies, Arizona State University, USA during 25-30th April 2016.
+Dr. Moninder Singh Modgil, S. H. Kaware, D. D. Patil, H. B. Bhoir, “Novel Findings on True Nature of Cosmology in View of Ancient and Modern Era” presented at International Conference on Science and Jain Philosophy at IIT Mumbai during 8-10th January 2016.
+Unified Field of Consciousness by Mr. Vikram Zaveri https://www.researchgate.net/publication/266618399
+October 2014
+
+
+*****
+
+
+
+THE UNIVERSITY OF CHICAGO
+
+
+
+
+
+MODIFIED GRAVITY AS DARK ENERGY
+
+
+
+
+
+A DISSERTATION SUBMITTED TO
+THE FACULTY OF THE DIVISION OF THE PHYSICAL SCIENCES IN CANDIDACY FOR THE DEGREE OF
+DOCTOR OF PHILOSOPHY
+
+
+DEPARTMENT OF PHYSICS
+
+
+
+
+
+BY IGNACY SAWICKI
+
+
+
+
+CHICAGO, ILLINOIS AUGUST 2007
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright c 2007 by Ignacy Sawicki All rights reserved
+
+TABLE OF CONTENTS
+
+
+LIST OF FIGURES  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+	v
+	
+	LIST OF TABLES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+	vii
+	
+	ACKNOWLEDGEMENTS	. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+	viii
+	
+	ABSTRACT	. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+	ix
+	
+	1	PROLEGOMENON	. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+	1
+	
+	2	A FEW WORDS ON COSMOLOGY . . . . . . . . . . . . . . . . . . . . .
+	6
+	
+	2.1	General Relativity and the Cosmological Constant . . . . . . . . . . .
+	6
+	
+	2.2	Measurements of Background Evolution . . . . . . . . . . . . . . . . .
+	10
+	
+	2.3	Linear Perturbations in General Relativity . . . . . . . . . . . . . . .
+	12
+	
+	2.4	Brief Overview of Quintessence	. . . . . . . . . . . . . . . . . . . . .
+	17
+	
+	3	DVALI–GABADADZE–PORRATI GRAVITY . . . . . . . . . . . . . . . .
+	20
+	
+	3.1	Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+	20
+	
+	3.2	DGP Dynamics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+	22
+	
+	3.2.1	On-Brane Field Equations . . . . . . . . . . . . . . . . . . . .
+	22
+	
+	3.2.2	Cosmological Background	. . . . . . . . . . . . . . . . . . . .
+	26
+	
+	3.2.3	Linear Perturbations . . . . . . . . . . . . . . . . . . . . . . .
+	30
+	
+	3.2.4	Range of Validity of Linear Regime . . . . . . . . . . . . . . .
+	33
+	
+	3.2.5	Master Equation	. . . . . . . . . . . . . . . . . . . . . . . . .
+	35
+	
+	3.3	Scaling Solution to Master Equation	. . . . . . . . . . . . . . . . . .
+	38
+	
+	3.3.1	Causal Horizon  . . . . . . . . . . . . . . . . . . . . . . . . . .
+	38
+	
+	3.3.2	Scaling Ansatz	. . . . . . . . . . . . . . . . . . . . . . . . . .
+	39
+	
+	3.3.3	Iterative Solution . . . . . . . . . . . . . . . . . . . . . . . . .
+	41
+	
+	3.4	Cosmological Implications of the Scaling Solution  . . . . . . . . . . .
+	44
+	
+	3.4.1	Limiting Cases and Numerical Solutions	. . . . . . . . . . . .
+	44
+	
+	3.4.2	Quasi-Static vs Dynamical-Scaling Solutions . . . . . . . . . .
+	54
+	
+	3.5	Confrontation with Data . . . . . . . . . . . . . . . . . . . . . . . . .
+	57
+	
+	3.5.1	Background Expansion History	. . . . . . . . . . . . . . . . .
+	57
+	
+	3.5.2	Structure Formation  . . . . . . . . . . . . . . . . . . . . . . .
+	62
+	
+	3.5.3	Galaxy-ISW correlation test . . . . . . . . . . . . . . . . . . .
+	69
+	
+	3.6	Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+	74
+	
+	
+
+
+
+
+iii
+
+iv
+METRIC-VARIATION F (R) GRAVITY	78
+Introduction	78
+f (R) Dynamics	80
+Scalar-Tensor Duality	82
+High-Curvature Stability	84
+Existence of Scalar-Dominated Matter Phase	89
+Cosmology in f (R) Gravity	91
+Expansion History	91
+Linear Perturbation Equations	96
+Stability at High Curvature	102
+Metric-Evolution Solutions	104
+Cosmology of Broken-Power-Law Models	116
+Local Tests of Broken-Power-Law Model	127
+Metric and Field Equations	127
+Compton and Thin-Shell Conditions	130
+Solar System to Galaxy	134
+Galaxy to Cosmology	143
+Discussion	147
+MODIFIED-SOURCE GRAVITY	151
+Introduction	151
+MSG Dynamics	154
+Scalar-tensor and f (R) theories	154
+Eliminating the scalar	156
+Comparison with Experiment	159
+Solar-System tests	159
+Matter interactions	161
+Robertson-Walker Cosmology	163
+The Modified Friedman equation	163
+A model	164
+Linear Perturbations	169
+The Growth of Linear Structure	172
+Discussion	177
+A  APPENDIX: DGP SCALING ANSATZ ROBUSTNESS	181
+BIBLIOGRAPHY	186
+
+LIST OF FIGURES
+Linear matter power spectrum for ΛCDM	16
+Evolution of p	43
+Evolution of R	45
+Off-brane profile for G(x)	48
+Ratio of ΩDS to ΩQS	53
+Evolution of Φ	Ψ	55
+Evolution of ∆	56
+Observables in DS and QS	58
+Change in χ2 between best-fit ΛCDM and DGP	60
+Comparison of growth factor in DGP and ΛCDM	65
+Temperature anisotropy autocorrelation for DGP and ΛCDM	67
+Temperature anisotropy kernel	68
+Galaxy-ISW cross-correlation	70
+Einstein-frame effective potential for f (R)	86
+Evolution of Ricci scalar for two classes of f (R) models	88
+Functions f (R) replicating constant-w expansion histories	97
+Evolution of metric fluctuations for B = 1	108
+Quadrupole moment of CMB anisotropy in f (R) gravity	112
+CMB angular power spectra for f (R) models	113
+Linear matter power spectrum for f (R) models	114
+Galaxy-ISW cross-correlation in f (R) models	117
+Functional form for unified f (R) model	120
+Cosmological evolution for fR and B in unified model	121
+Effective equation of state in unified f (R) model	125
+Fractional change in matter power spectrum in unified f (R) model	.	126
+Density profile for Sun and solution for Ricci scalar in solar vicinity .	135
+Solar solution for fR(r)	137
+Solar solution for R(r)	139
+PPN parameter for unified f (R) model	142
+Maximum cosmological fRO allowed by solar-system tests	144
+Galactic solution for Ricci scalar	146
+Example potential U (ψ) in MSG	168
+Effective dark-energy density for an MSG model	168
+Exponent of growth function in MSG	174
+Matter power spectrum in MSG	176
+Evolution of Φ	Ψ in MSG	178
+Exponent of growth rate for ∆	179
+
+vi
+Off-brane gradient for scaling-violating scenarios	183
+Evolution of Φ − Ψ and ∆ for scaling-violating scenarios	184
+Ratio of Φ − Ψ and ∆ for scaling-violating to scaling scenarios	185
+
+LIST OF TABLES
+Signal-to-noise ratios for galaxy-ISW cross-correlation	73
+
+ACKNOWLEDGEMENTS
+
+To pretend that the work between these covers could have been carried out on my own, in vacuum, would be to lie profusely: were it not for the people that I have met over the last four years—since I came to the University of Chicago—and for the intellectual environments of the Department of Physics and the Kavli Institute for Cosmological Physics this dissertation would not have been possible.
+I have a particular debt of gratitude to my advisers: Sean Carroll and Wayne Hu. It was by watching them work and listening to their advice that I learned how one behaves as a professional physicist, how one decides which questions are worth pursuing, how one manages projects and how one decides when to give up.
+My papers, which are summarised in this thesis, are all collaborations and would not have been what they are without the input of my colleagues. In addition to my advisers, I wish to thank Yong-Seon Song, Alessandra Silvestri and Mark Trodden for this most enjoyable and productive period of time.
+All of the research presented here was carried out under support of the U.S. De-partment of Energy contract DE-FG02-90ER-40560. I was also supported by grants of the David and Lucile Packard Foundation and by the KICP under NSF PHY-0114422.
+
+ABSTRACT
+
+We study the effects of introducing modifications to general relativity (“GR”) at large scales as an alternative to exotic forms of matter required to replicate the observed cosmic acceleration. We survey the effects on cosmology and solar-system tests of Dvali–Gabadadze–Porrati (“DGP”) gravity, f (R) gravity and Modified-Source Grav-ity (“MSG”). We find that, in addition to the changes to the background expansion history of the universe, these modifications have substantial impact on structure form-ation and its observable predictions.
+For DGP, we develop a scaling approximation for the behaviour of perturbations off the brane, for which the predicted integrated Sachs-Wolf (“ISW”) effect is much stronger than observed, requiring new physics at around horizon scale to bring it into agreement with data. We develop a test based on cross-correlating galaxies and the ISW effect which is independent of the initial power spectrum for perturbations and is a smoking-gun test for DGP gravity.
+For f (R) models, we find that, for the expansion history to resemble that of ΛCDM, it is required that d2f/dR2 > 0. This also ensures that GR-like high-curvature solutions are stable. We then find the conditions on f (R) which allow
+this subset of models to pass solar-system tests. Provided that gravity behave like GR in the galaxy, these constraints are weak. However, for a model to allow large deviations from GR in the cosmology, the galactic halo must differ significantly from that predicted by structure evolution in GR. We then discuss the effect that these models have on structure formation, and find that even in the most conservative of models, percent-level deviations in the matter power spectrum will exist and should be detectable in the future.
+
+x Finally, for MSG, we investigate the cosmology of a theory of gravity with a modified constraint structure. The acceleration era can easily be replicated in these
+models; however, linear perturbations become unstable as the universe begins to
+accelerate. Once the perturbations become non-linear, the model reverts to GR, regaining stability. This should leave a significant imprint on the structure-formation probes, but one which we cannot calculate.
+
+CHAPTER 1 PROLEGOMENON
+The discovery of cosmic acceleration by two supernova searches in 1998 came as a complete surprise [1, 2]. Although the mechanism by which gravity was to be decoupled from vacuum energy was not known, almost everyone expected that to be the case. The discovery of the contrary did solve a few problems of cosmology of the time: for example, the evidence that there was not enough matter for the universe to be flat was mounting, in direct opposition to this necessary prediction of inflationary cosmology; the ages of globular clusters seemed to be older than the purported age of the universe, if the increasingly good measurements of the Hubble parameter were to be believed.
+However, the smallness of the vacuum energy implied by these observations laid bare the lack of good theories for how such a small vacuum energy could be produced. Very quickly, the problem at hand was rephrased and the cosmological constant was reclassified as only one of the models of dark energy—a new, exotic form of matter that is accelerating the universe. None of these proposals have so far, objectively, provided a good solution to the problem at hand.
+With time, have come new, much more precise measurements: improved cos-mic microwave background (“CMB”) measurements through experiments such as WMAP [3, 4], large-scale galaxy surveys such as SDSS mapping out increasingly farther reaches of the universe [5, 6], studies of clusters with the Chandra X-ray ob-servatory [7] and many new supernovae added to the original data sets [8–11]. All of these data, despite having systematics sensitive to different physics, are in agreement with what has become the concordance model of cosmology: ΛCDM, a universe in
+
+2
+which normal, baryonic matter provides only 5% of the energy density, with 20% be-ing supplied by some unknown pressureless cold-dark-matter component and a 75% contribution from dark energy.
+Why think about alternatives to the cosmological constant at all when the fit to the data appears so good?	The only way of arguing for the smallness of the cosmological constant, without a dynamical mechanism for achieving it, is through the anthropic principle [12], which is not a preferred way for phrasing questions for most physicists. If we require a dynamical mechanism, then we are left with two options: Either producing the small cosmological constant is an issue that needs to be solved by the fundamental theory in some natural way, and therefore we should expect it to come out of string theory or some such (even though this seems to lead straight back to the anthropic principle). Or, gravity really does not couple to vacuum energy for some unknown reason, the cosmological constant is in fact zero and the observed acceleration

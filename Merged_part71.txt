@@ -1,0 +1,926 @@
+4
+Integrating out the topological field q ≃ ǫµνρσGµνρσ	6
+Gauge fixing: finding the ghost	7
+Unitarity and the ghost	8
+The ghost in curved space: physical interpretation	9
+The Veneziano ghost in Minkowski space	10
+The Veneziano ghost in curved spacetime	12
+Ghost dynamics vs. Witten’s approach	16
+Detour to QED	18
+Ghost classical dynamics and equation of state	20
+Curved spacetime	20
+Solutions	21
+Equation of state	24
+Numerical analysis: confronting with observations	26
+Background	26
+Subtleties	27
+Results	29
+The fate of the universe	33
+Fine tuning without fine tuning	33
+Conclusion	35
+Numerics	37
+Compact universes	39
+
+
+
+Prelude
+It has been suggested recently [1] that the solution of cosmological vacuum energy puzzle may not require any new field beyond the standard model. The idea is based on the phi-losophy that gravitation can not be a truly fundamental interaction, but rather it must
+
+be considered as a low-energy effective quantum field theory (QFT) [2]. In such a case, the corresponding gravitons should be treated as quasiparticles which do not feel all the microscopic degrees of freedom, but rather are sensitive to the “relevant excitations” only. In this framework it is quite natural to define the “renormalised cosmological constant” to be zero in Minkowski vacuum wherein the Einstein equations are automatically satisfied as the Ricci tensor identically vanishes. Thus, the energy-momentum tensor in combination with this “bare cosmological constant” must also vanish at this specific “point of normal-isation” to satisfy the Einstein equations. From this definition it is quite obvious that the “renormalised energy density” must be proportional to the deviation from Minkowski spacetime geometry. With this definition the effective QFT of gravity has a predictive power. In particular, it predicts the behaviour of the system in any non-trivial geometry of the spacetime.
+The first application of this proposal was the computation of the cosmological constant in a spacetime with non-trivial topological structure [1]. It was shown that the cosmological constant does not vanish if our universe can be represented by a large but finite manifold with typical size L ≃ H−1, where H is the Hubble parameter. The cosmological vacuum energy density ρΛ in this framework is expressed in terms of QCD parameters for Nf = 2 light flavours as follows:
+ρ	2Nf |mq ⟨q¯q⟩|	(4.3  10−3eV)4 .	(1.1)
+Λ	mη′ L
+This estimate should be compared with the observational value ρΛ ≈ (2.3·10−3eV)4 [3, 4, 5]. The deviation of the cosmological constant from zero is entirely due to the large but finite size L of the manifold.
+The non-vanishing result (1.1) can be understood as a Casimir-type of vacuum energy when the boundary conditions and topology play a crucial roˆle. The estimate (1.1) is based on our understanding of the ghost’s dynamics: it can be analytically computed in the 2d Schwinger model and hopefully it can be tested in 4d lattice QCD as explained in [1, 6]. Moreover, one can fix the value of L today by equating the observed ρΛ to (1.1). This prediction could be directly tested in future cosmic microwave background (CMB) data [7].
+This contribution to the vacuum energy is computed using QFT techniques in a non-expanding universe without gravity. As it stands, it cannot be used for studying the evolution of this vacuum energy density with the expansion of the universe. In order to do so one needs to know the dynamics of the ghost field coupled to gravity on a finite manifold. In this paper we deal with the dynamics of the ghost field when eq. (1.1) is recognised as the strength of its potential energy. We will derive the dynamical equations which govern the evolution of the Veneziano ghost [8] in a curved spacetime. The analysis of these equations gives us a time-dependent equation of state w(t) which can be compared with observations.
+It is also interesting to note that a somewhat similar estimate was given in 1967 by Zeldovich [9] who argued that ρΛ ≃ m6/M 2 : this is numerically of the same order of
+magnitude as (1.1) if one replaces L−1 → H. Since then, the form HΛ3	has risen its
+
+head several times, see for instance [10, 11, 12, 13, 14, 15]. Despite the apparent similarity
+
+between the form HΛ3
+and eq. (1.1), it is important to notice that, first of all, in our
+
+case it is the inverse linear size of the embedding compact manifold which actually appears in eq. (1.1) below, not the Hubble parameter, as in all the aforementioned papers. This is because our computations are done within QFT on a compact manifold size L, while we use H ~ L−1 in our numerical estimates. Therefore, our result is of fundamentally different origin. Finally, let us stress that equation (1.1) is not an estimate based on (although very well motivated) physical arguments, but a result of a precise calculation, which can be explicitly worked out completely analytically in a simplified 2d model defined on a finite manifold such as a torus [6].
+The paper is organised as follows. In the next section (section 2) we arrive at the equa-tions of motion which dictate the dynamics of the ghost field. In section 3 we discuss the interpretation of the obtained results using the standard lore of QFT which complements the analysis based on classical equations presented in section 4. In particular we argue that the physical Hilbert subspace changes when QCD is coupled to gravity. More specifically, we discuss how the Veneziano ghost being unphysical in the QFT formulation in Minkowski space exhibits non-trivial physics in a non-static universe. The corresponding effects are proportional to the rate of expansion H such that numerically they are naturally very small, H/ΛQCD ~ 10−41. However, we claim that this “small” effect is the driving force which accelerates the universe now. In other words, acceleration from a vacuum energy with time-dependent equation of state w(t) is a direct consequence of the dynamics of the Veneziano ghost. Then, in section 4 we explicitly obtain the equation of state w(t) by solving the classical equations of motion for our fields. The classical solutions are analysed (mostly by numerical means) in section 5. In the same section we discuss observations and how they relate to our predictions. Section 6 provides some intuition about the scales involved in the mechanism, and their apparent “coincidence” (related to the eponymous problem in cosmology). We summarise our arguments in the concluding section 7.
+
+The ghost in Minkowski space: Lagrangian, gauge fixing, quantisation
+The mechanism that bridges the well known Veneziano ghost in QCD to the non-vanishing vacuum energy ρΛ /= 0 was recently put forward in [1], and aims at explaining the late accelerating phase of the universe as a result of a vacuum energy term which, in this scheme, is defined as the mismatch between flat and infinite Minkowski spacetime and a topologically non-trivial one.
+If the cosmological constant is indeed a result of the spacetime we live in having a non-trivial topology, then there must be a messenger capable of carrying the information about the boundaries (and the related boundary conditions imposed on the quantum fields), and this is possible only when there are strictly massless degrees of freedom which can prop-agate at very large distances &(H−1). We should emphasise that these are not necessary asymptotic physical states (in fact, they are not). Rather, they should be treated as a con-venient way to discuss large distance dynamics, non-trivial boundary conditions, invariance under large gauge transformations etc. Degrees of freedom of this kind are a handy way to
+
+track the physics of the different constraints that arise when the introduction of a auxiliary fields remove some non-localities (anomalies) which always accompany gauge theories.
+The crucial for the present work observation is that while na¨ıvely all QCD degrees
+of freedom can reach only very short lengths &(Λ−1 ), there is a unique (unphysical)
+degree of freedom which is exactly massless and can instead propagate to arbitrarily large distances: this is the aforementioned Veneziano ghost [8]. In short, the Veneziano ghost (see also [16]) which solves the U (1)A problem in QCD is also responsible for a slight difference in energy density between a finite manifold of size L and Minkowski R4 space,
+such that ρΛ ≃ HΛ3	~ (10−3eV )4. Notice that this field is not in the physical spectrum,
+and as such it does not give rise to any of the usual problems associated with negative sign kinetic terms, propagators, norms and commutation relations.
+Thus, the correction to the vacuum energy density due to a very large (but not infinite) manifold is small, and goes as 1/L. The central point is that although small, this is not exponentially suppressed as exp(—L), as one could anticipate for any QFT where all physical degrees of freedom are massive (such as in QCD). Hence, the QCD ghost acts as a source for the cosmological constant, ρΛ. This very small number (LΛQCD)−1 ≃ H/ΛQCD ~ 10−41 nevertheless provides a non-vanishing cosmological constant which is surprisingly close to the observed value as eq. (1.1) explicitly shows.
+In this section we will write down the Lagrangian which contains all the dynamical information about the ghost field, and discuss how this field can be integrated out (as was done in the original paper [17]) to generate the η′ mass, which was the main result of [17]. If we were interested in η′ physics in Minkowski space, this would be the end of the story. However, our target is different: we want to obtain these results in Minkowski space keeping an explicit ghost field in the system in order to generalise the construction to a curved spacetime. It turns out that the Lagrangian put together this way includes another paired massless companion along with the ghost field such that in 4d it identically coincides with the corresponding expression for the 2d Schwinger model [18]. Unitarity in this new description is not violated (and so are not all the usual founding properties of a sensible QFT) thanks to the appearance of the ghost’s companion which exactly cancels all unphysical contributions in the same way as it does in the 2d Schwinger model [18].
+Let us remark here that there will be no new physical results when the well known resolution of the U (1)A problem is simply reformulated in a different way. However, such a new treatment will be essential and incredibly handy in putting the system into a curved spacetime. In this case, as we shall see in the next sections, there will be a novel contribution to the vacuum energy arising from the ghost and its partner, as the exact cancellation between these two does not hold anymore. The entity of this failed cancellation will be proportional to the departure from Minkowski spacetime, i.e. of order H.
+
+The Lagrangian
+The starting point for our analysis will be the Lagrangian which includes the ghost pole as proposed first by Di Vecchia and Veneziano in [17] (a variation on this Lagrangian was already available in [19]–we thank J. Schechter for drawing this important reference to our
+
+attention), whose general form reads
+1
+
+
+
+′ µ ′
+
+
+ Nc  2
+
+/
+
+
+η′ 
+
+/
+
+/
+
+
++ Nf mq|⟨q¯q⟩| cos
+η′
+
+/
+fη′
++ g.f. ,
+
+where we explicitly keep only the degrees of freedom we are going to be working with, such as η′ and the topological density q, while all others (including π, K, η) are assumed to be in L0, and shall not be mentioned in this paper. In the rest of this section, unless explicitly stated, all quantities are defined in Minkowski spacetime. In this Lagrangian g.f. means gauge fixing term for three-form Aµνρ, see below, and the coefficient b ~ m2′ is fixed by the Witten-Veneziano relation for the topological susceptibility in pure gluodynamics. The topological density is defined as usual,
+
+
+
+
+with
+
+g2
+q = 64π2 ǫµνρσ G
+
+aµν
+
+Gaρσ
+1
+≡ 4 ǫµνρσ G
+
+µνρσ
+
+,	(2.2)
+
+
+Gµνρσ ≡ ∂µAνρσ — ∂σ Aµνρ + ∂ρAσµν — ∂ν Aρσµ ,	(2.3)
+
+g2  h a ↔	a
+/
+/
+a ↔	a
+a ↔	a
+a b  c i
+
+The fields Aa are the usual N 2 — 1 gauge potentials for chiral QCD and Cabc the SU (Nc)
+structure constants. The constant fη′ ≃ fπ is the η′ decay constant (fπ being that of the pion), while mq is the quark mass, and ⟨q¯q⟩ is the chiral condensate.
+The three-form Aνρσ is an abelian totally antisymmetric gauge field which, under colour gauge transformations with parameter Λa
+δAa = ∂µΛa + igCabcΛbAc ,	(2.5)
+µ	µ
+behaves as
+Aνρσ → Aνρσ + ∂ν Λρσ — ∂ρΛνσ — ∂σΛρν ,	(2.6)
+a	a	a	a
+Λρσ ∝ A ∂σΛ — A ∂ρΛ .	(2.7)
+In this way the four-form Gµνρσ is gauge invariant. The term proportional to θ is the usual θ-term of QCD and appears in conjunction with the η′ field in the correct combination as dictated by the Ward Identities (WI). The constant b is a positive constant which would give the wrong sign for the mass term of the scalar field q, the property which motivated the term “Veneziano ghost”. However, this positive sign for b is what is required to extract the physical mass for the η′ meson, m2′ ~ b, see the original reference [17] for a thorough
+discussion.
+One should emphasise that the gauge fixing term in (2.1) has to be not confused with the standard gauge fixing term for the conventional gluon field Aa , as it is related to the fixing of the gauge for the three-form Aµνρ describing the Veneziano ghost and carrying no
+
+colour index. One can interpret the field Aµνρ as a collective mode which is represented by a specific combination of the original gluon fields, which in the infrared leads to a pole in the unphysical subspace. We know about the existence of this very special degree of freedom and its properties from the resolution of the famous U (1)A problem: integrating out the q field (as shown below) provides the mass for the η′ meson.
+One more remark about the coefficient b which enters (2.1), and which is the principal ingredient in solving the U (1)A problem. Its magnitude is determined by the topological susceptibility in pure gluodynamics (without quarks) as
+
+∫ d4x⟨T {q(x), q(0)}⟩θ=0 =
+if 2
+π b .	(2.8)
+2Nc
+
+Of course b = 0 to any order in perturbation theory because q(x) is a total divergence q = ∂µKµ, see below. However, as we learnt from [8, 16], b /= 0 due to the non-perturbative infrared physics; in fact, m2′ ~ b. Since we believe this approach to be the correct one, we
+shall adopt it in our work.
+
+Integrating out the topological field q ≃ ǫµνρσGµνρσ
+If one is interested only in the spectrum of the meson particles arising from the low-energy effective Lagrangian (2.1), it is convenient to integrate out the scalar field q by means of its equations of motion, since there is no kinetic term associated to it. This is indeed the procedure followed by Di Vecchia and Veneziano in their original paper [17], the outcome of which, as follows from (2.1), is
+
+1	′  µ ′	η′	η′  2
+
+L = L0 +
+2 ∂µη ∂ η — 4N
+θ — f ′
+(2.9)
+
++ Nf mq|⟨q¯q⟩| cos
+η′
+,
+fη′
+
+where all the dependence on the three-form Aνρσ has disappeared. This formula explicitly shows that η′ receives a non-vanishing mass in the chiral limit, m2′ ≃ b/2Nc /= 0 due to the non-zero magnitude of the coefficient b, which enters (2.1) and (2.8). This formula also reproduces the notorious Witten-Veneziano relation for the topological susceptibility in pure gluodynamics if one substitutes b = 2Ncm2′ into the expression (2.8) for the
+topological susceptibility.
+However, since we are aiming at uncovering the details of the dynamics of the ghost field, we want to reproduce all the physical results reviewed above without integrating out the topological three-form Aµνρ describing the Veneziano ghost. As we already mentioned earlier, in a curved spacetime the Veneziano ghost couples to the gravity field; therefore, in curved space, we will not be able to get rid of the ghost, and we will have to deal with it explicitly. In order to simplify this problem, in what follows we shall separate (project out) the relevant longitudinal degree of freedom in three-form Aµνρ; this degree of freedom is the one that contributes to the topological susceptibility (2.8).
+
+Gauge fixing: finding the ghost
+With the grand scheme just outlined in mind, we shall now choose the Lorenz-like gauge
+
+(∂ρAµνρ) ≃ (∂µKν — ∂ν Kµ) = 0 ,	(2.10)
+
+in which we will carry out our manipulations. It is the same gauge which was discussed in the original paper [17]. In this formula we have defined Kµ as
+
+Kµ ≡ ǫµνρσAνρσ ,	q = ∂µKµ .	(2.11)
+
+We choose to work only with the longitudinal part of the Kµ field because only this lon-gitudinal part determines the topological density q = ∂µKµ, and eventually leads to a non-vanishing contribution to the topological susceptibility (2.8). Therefore, we write the longitudinal part of Kµ as
+
+Kµ ≡ ∂µΦ ,	(2.12)
+
+such that the expression for the topological density takes the form
+
+q = ∂µKµ = ✷Φ ,	(2.13)
+
+where Φ is a new scalar field of mass dimension 2. We notice that the gauge condition (2.10) is automatically satisfied with our definition (2.12). Now our Lagrangian (2.1) can be expressed in terms of the Φ field as follows
+
+
+1	′ µ ′
+  η′ 
+
+L = L0 + 2 ∂µη ∂
+	1	
+
+η + Nf mq|⟨q¯q⟩| cos
+  η′ 
+
+/
+/
+
+/
+fη′
+(2.14)
+
+
+where we plugged in the coefficient b → 2Ncm2′ as the Witten-Veneziano relation requires. If we integrate out the ✷Φ field we return to the expression (2.9) which describes the physical massive η′ field alone.
+As usual, the presence of 4-th order operator Φ✷✷Φ is a signal that the ghost is present in the system and may be quite dangerous. However, we know from the original form (2.1) that the system is unitary, well defined etc, in different words, it does not present any problem associated with the ghost. The lesson we are about to learn will be pivotal in promoting the system to a curved background, when we will not succeed in integrating out the ghost due to the coupling to gravity.
+It is convenient to define a new field φ2 which is a combination of the the original η′
+field and Φ as
+
+
+η′ ≡  φ2
++  Φ	,	(2.15)
+fη′
+
+which serves to complete the squares in (2.14) in such a way that one can eliminate the term ∫ d4xη′✷Φ = — ∫ d4x∂µΦ∂µη′. The Lagrangian now takes the form
+L =	∂ φ ∂ φ + N m |⟨q¯q⟩| cos "	+	#	(2.16)
+1	µ	φ2	 Φ
+/ / /	/	/	/	/	//
++	Φ m2′ ✷ + ✷✷ Φ .
+/ /
+It is now straightforward to repeat the known steps in coping with the higher derivatives term ✷2 in (2.16), namely, one recognises that this operator hides an extra degree of freedom, and can be explicitly reduced in terms of the associated propagator as
+h✷✷ + m2′ ✷i △˜ F = —m2′ δ4(x) ,
+△˜ F = limρ→0 △F mη′ , x — △F (ρ, x)  ,	(2.17)
+which is the sum of a massive mη′ scalar, and a massless ghost-like scalar. This means that the Φ field corresponds to two degrees of freedom which is almost an obvious statement if one formally writes the inverse operator as follows
+
+	m2′
+✷✷ + m2′ ✷
+η
+1
+
+/
+—✷ — m2′
+1
+
+— —✷
+
+.	(2.18)
+
+In analogy with the 2d Kogut and Susskind (KS) model [18], we will call the massive scalar field as φˆ while the massless ghost is φ1. The final Lagrangian, explicitly including all the relevant terms, thus becomes
+
+L = 1	ˆ µ ˆ	1
+µ	— 1 ∂ φ ∂µφ
+
+(2.19)
+
+— 1 m2′ φˆ2 + N m |⟨q¯q⟩| cos " φˆ + φ2 — φ1 # ,
+
+where all fields have now canonical dimension one in four dimensions.
+We claim that the Lagrangian (2.19) is that part of QCD which describes long distance physics in our context. There are no new fields or coupling constants beyond the standard model: the Lagrangian (2.19) is part of it. Notice that (2.19) is exactly identical to that proposed by Kogut and Susskind in [18] for the 2d Schwinger model, and therefore, our 4d system (2.19) is obviously unitary, and satisfies all other important properties of QFT similarly to the 2d Schwinger model.
+As we have shown, the Veneziano ghost in QCD is represented by the φ1 field in (2.19) and it is always accompanied by its companion, the massless field φ2. This is the basic reason why the Veneziano ghost in QCD does not lead to any disastrous consequence in the system as we shall discuss below.
+Unitarity and the ghost
+As in the KS model, we can readily proceed to quantise this theory, and in order to do so we will impose canonical equal-time commutation relations for the fields φˆ, φ1, and φ2
+
+which follow from (2.19) as
+hφˆ(t, →x) , ∂tφˆ(t, →y)i = iδ3(→x — →y) ,
+[φ1(t, →x) , ∂tφ1(t, →y)] = —iδ3(→x — →y) ,	(2.20)
+[φ2(t, →x) , ∂tφ2(t, →y)] = iδ3(→x — →y) ,
+
+whence we evince that φ1 is a massless ghost field, and its propagator will have an opposite sign in comparison with the conventional fields.
+The cosine interaction term includes vertices between the ghost and the other two scalar fields, but it can in fact be shown [18] that, once appropriate auxiliary (similar to Gupta-Bleuler [20, 21]) conditions on the physical Hilbert space are imposed, the unphysical degrees of freedom φ1 and φ2 drop out of every gauge-invariant matrix element, leaving the theory well defined, i.e., unitary and without negative normed physical states, just as in the Lorentz invariant quantisation of electromagnetism. Specifically, this is achieved by demanding that the positive frequency part of the free massless combination (φ2 — φ1) annihilates the physical Hilbert space:
+(φ2 — φ1)(+) |Hphys⟩ = 0 .	(2.21)
+With this additional requirement the quantum theory built on the Lagrangian (2.19) is well defined in any respect, and the physical sector of the theory exactly coincides with (2.9) which was obtained by a trivial integrating out procedure [17]. Yet, there is one place where the ghost has physical consequences, and that is the mass spectrum which, through the Witten-Veneziano mass formula [8, 16] relates the mass of the η′ to the topological susceptibility of the model. It is precisely the topological susceptibility which enjoys the uncancelled contribution of the ghost φ1 with its companion φ2 because the topological density expressed in terms of Φ, see (2.13), which is a combination of the ghost φ1 and the physical massive η′ field φˆ, but not of the companion φ2. It is this property that leads to a non-cancellation of the topological susceptibility, and eventually to the η′ mass.
+To wrap up this subsection in one statement: we have shown that the Di Vecchia-Veneziano Lagrangian (2.1) is nothing else than the KS Lagrangian promoted to four dimensions, eq. (2.19). We are not claiming that we have produced a new result in QCD. Rather we describe the well known resolution of the U (1)A problem in a different way, with the ghost explicitly and safely present in the system. As we shall see in the next sections, such a novel point of view is of formidable help when we upgrade to curved space.
+
+The ghost in curved space: physical interpretation
+In the standard QFT set up the Veneziano ghost is an unphysical degree of freedom, and represents a massless pole in the unphysical subspace of the entire Hilbert space. As is known, notwithstanding its being unphysical, the ghost still has observable consequences for the physical subspace; for instance, it gives a non-vanishing contribution to the topological susceptibility and therefore solves the famous U (1)A problem in QCD as Witten [16] and
+
+Veneziano demonstrated [8] (see the review [22] for a generic introduction, and ref. [1] for a discussion of some specific aspects linked to this paper).
+We shall argue below that once QCD is coupled to gravity the “would be” unphysi-cal ghost may lead to another observable consequence (in addition to the one mentioned above). Namely, the ghost field may acquire a vacuum expectation value in an expanding universe, such as our FLRW universe. All effects related to this “ghost condensation” are proportional to the rate of expansion H so that numerically they are naturally very small, H/ΛQCD ~ 10−41. However, this “small” effect is precisely the driving force which accel-erates the present-time universe. The effect of this “ghost condensation” in many (formal) aspects is very similar to the well known problem of particle emission in an expanding universe, see below, although with very different interpretation of the associated outcomes. Finally, we will see how collective modes of the ghost which can be excited in the expanding universe carry very small typical momentum ωk ≃ k ≃ H whilst higher frequency modes are strongly suppressed. Precisely this feature of the spectrum allows us to identify the extra energy with observed dark energy because the typical wavelengths λk of the excitations are of the order of the Hubble parameter, λk ~ 1/k ~ 1/H ~ 10 Gyr, and they do not clump on scales smaller than this, in contrast with all other types of matter. In the limit for which H → 0, which corresponds to the usual Minkowski QFT formulation, all the modes move back into the unphysical subspace, and we return to the well studied
+case [8].
+The Veneziano ghost in Minkowski space
+We take off from the relevant part of the Lagrangian for the Veneziano ghost and its partner as derived in section 2. This Lagrangian governs the dynamics of the massless ghost, φ1, a massless scalar filed φ2 and a physical massive meson φˆ.
+
+L = 1  µ ˆ	ˆ	1 µ
+
+1 µ
+—	∂ φ ∂ φ
+m2
+—  φˆ φˆ2
+
++ Nf m |⟨q¯q⟩|N cos " φˆ + φ2 — φ1 # ,	(3.1)
+
+
+where N means normal ordering.
+fη′
+
+Going to curved space one just needs to covariantise the derivative operators (which in fact, acting on scalars, are going to reduce to the usual partial derivatives). The partition function is given by
+Z = N ∫ [Dφˆ][Dφ2][Dφ1] exp {iS} ,	(3.2)
+S = ∫ d4x√—gL ,	(3.3)
+where for Minkowski space one should put √—g = 1. The bosons satisfy the commutation relations (2.20) from whose signs we learn that φ1 is a massless (but interacting) ghost field, and its propagator will carry a negative sign (in Minkowski space) which is consistent with the negative sign for the kinetic term in (3.1).
+
+As we have mentioned in section 2, the theory is well defined once we require that the positive frequency part of the free massless combination (φ2 — φ1) annihilates the physical Hilbert space:
+(φ2 — φ1)(+) |Hphys⟩ = 0 .	(3.4)
+This condition has been discussed in great details in the 2d case of the KS ghost [18], but it can be promptly generalised to our 4d Veneziano ghost as every step is a carbon-copy of the 2d model, only with different forms for the 4d and 2d Green’s functions. Of course, this does not endangers any of the arguments presented in [18]. It is important to notice that the KS ghost in 2d and the Veneziano ghost in 4d enter the expression for the topological susceptibility alone, without their companions φ2. The reason behind the topological susceptibility receiving a non-vanishing (negative) contribution from the ghost traces back to this property, and it is in agreement with the WI (in fact, the WI demand so).
+Let us remark here that neither Witten in [16] nor Veneziano in his [8] did discuss the ghost’s dynamics because such complication can be entirely sidestepped if one considers only the gauge invariant sector of the theory. In fact, Di Vecchia and Veneziano in their original paper [17] integrated out the Fµνρσ field even without fixing the gauge; see section 2 for details on how this procedure would be implemented in our set up. The resulting effective Lagrangian would be given by eq. (3.1) where now φ1 = φ2 = 0 such that only
+the massive φˆ remains in the system. In this case this field corresponds to the usual η′. As
+our goal here is not to study the mesons’ mass spectrum of QCD, but rather to analyse the dynamics of φ1 and φ2, whose physics is much more involved in an expanding universe, once again we will instead (safely) neglect the dynamics of the massive physical φˆ field by putting φˆ = 0.
+The subsidiary condition (3.4) which defines the physical subspace can recast as
+(ak — bk) |Hphys⟩ = 0 , ⟨Hphys|(a† — b† ) = 0 ,	(3.5)
+where we expanded φ1 and φ2 on a complete orthonormal basis uk(t, →x) and vk(t, →x) as
+φ1(t, →x) = Σ hakuk(t, →x) + a† u∗(t, →x)i ,
+φ2(t, →x) = Σ hbkvk(t, →x) + b† v∗(t, →x)i .	(3.6)
+
+The equal-time commutation relations (2.20) are then equivalent to
+[bk, bk′ ] = 0 , [b† , b†′ ] = 0 , [bk, b†′ ] = δkk′ ,	(3.7)
+k	k	k
+for the φ2 field, whereas for the ghost modes they satisfy
+[ak, ak′ ] = 0 , [a† , a†′ ] = 0 , [ak, a†′ ] = —δkk′ ,	(3.8)
+where again the sign minus appears in these commutation relations. The ground state |0⟩
+is defined as usual
+ak|0⟩ = 0 ,	bk|0⟩ = 0 ,	∀k .	(3.9)
+
+The sign minus in the commutators (3.8) is known to be carrier of disastrous conse-quences for the theory if φ1 is not accompanied by another field φ2 with properties that mirror and neutralise it. As thoroughly explained in [18], the condition (3.4) or, what is the same, (3.5) are similar to the Gupta-Bleuler [20, 21] condition in QED which ensures that, defined in this way, the theory is self-consistent and unitarity (together with other important properties) is not violated due to the appearance of the ghost.
+To see this, one can check that the number operator N for φ1 and φ2 takes the form
+
+
+k	k
+k
+while the Hamiltonian H reads
+H = Σ ωk b† bk — a† ak .	(3.11)
+
+With this form for the Hamiltonian it may seem that the term —a† ak with sign minus implies instability as an arbitrary large number of the corresponding particles can carry an arbitrarily large amount of negative energy. However, it does not take more paper than a back of an envelope to check that the expectation value for any physical state in fact vanishes as a result of the subsidiary condition (3.5):
+⟨Hphys|H|Hphys⟩ = 0 .	(3.12)
+
+In different words, all these “dangerous” states which can produce arbitrary negative energy do not belong to the physical subspace defined by eq. (3.5). The same argument applies to the operator N with identical result
+⟨Hphys|N|Hphys⟩ = 0 ,	(3.13)
+
+where we can see explicitly the pairing and cancelling mechanism at work.
+In the next subsection we shall see how this simple picture drastically changes when QCD is coupled to gravity. For our purposes it is sufficient to consider the system of the two fields φ1 and φ2 (which represent the Veneziano ghost and its partner, respectively) in a curved background, ignoring all other physical massive fields such as η′, Nambu-Goldstones π, K, all glueballs, etc.
+The Veneziano ghost in curved spacetime
+It is well known that there are inherent subtleties and obstacles when we attempt to formulate a QFT on a curved space [23]. In this case there is not a natural choice for the set of modes that on which the fields are expanded, these sets being closely related to a more or less “natural” coordinate system. Indeed, the Poincar´e group is no longer a symmetry of the spacetime and, in general, it would be not possible to separate positive frequency modes from negative frequency ones in the entire spacetime, in contrast with what happens in Minkowski space where the vector ∂/∂t is a constant a Killing vector, orthogonal to the t = const hypersurface, and the eigenmodes (3.6) are eigenfunctions of
+
+this Killing vector. The Minkowski separation is maintained throughout the whole space as a consequence of Poincar´e invariance.
+For our specific problem, i.e., the study of the ghost dynamics in a curved background, these considerations imply that there will be no simple formulation of the physical Hilbert subspace. Such a formulation in Minkowski space relies on the existence of a well defined positive frequency mode, which is in turn possible because the Killing vector ∂/∂t is defined uniquely, since the Poincar´e group is a symmetry of the theory. A direct consequence of this is the fact that there are no privileged coordinates available in this set up and, therefore, there is no natural mode decomposition similar to (3.6). This means that a transition from a complete orthonormal set of modes to different one (the so-called Bogolubov’s transformations) will always mix positive frequency modes (defined with the annihilation operators ak and bk) with negative frequency ones (associated with the creation operators a† and b† ). As a result of this mixture, the vacuum state defined by a particular choice of
+k	k
+the annihilation operators will not be “empty” once we switch back to the original basis defined by ak and bk. In other words, in curved space one should generally expect some relevant physical effects due to the ghost modes. In particular, as we shall see, they can give non-zero contribution to the energy (3.11).
+Such drastic, profound consequences arising in going from Minkowski to curved space should not be a surprise to anyone who is familiar with the problem of cosmological particle creation in a gravitational background, or the problem of photon emission by a neutral body which is accelerating. Only very few systems of this kind can be studied and solved exactly, see e.g. the reviews [23, 24]. However, the generic picture emerging from these analyses is amazingly simple: the transition from one coordinate system to another leads in general to non-vanishing Bogolubov’s coefficients which mix positive and negative frequency modes. Eventually, it signals a physical production of particles stemming from the interaction with the gravitating background.
+The spectrum of the produced particles as well as the rate of production have been discussed in literature in great details. The most important outcome that is relevant for our work turns out to be the fact that the typical magnitude of the Bogolubov’s coefficients is proportional to the rate at which the background is changing (the Hubble parameter H in case of an expanding universe, or the acceleration rate if we are studying photon emission by a neutral body), and to the total extent of this process, e.g., the total amount of expansion.
+The characteristic frequencies of the modes gravitaty can excite in this set up are of order of the Hubble parameter ωk ≃ H, whereas higher frequency ones are exponentially suppressed. This last result is easy to understand physically, because one expects the strength of the expansion to be able to excite modes for which ωk . H, but not to possess enough energy to reach the higher end of the spectrum, that is, high k modes are only excited very inefficiently.
+Following the standard technique for the computation of particle production in a curved spacetime we consider, along with the expansion (3.6), a second complete set of–barred–
+
+modes
+
+φ1(t, →x) = Σ ha¯ku¯k(t, →x) + a¯† u¯∗(t, →x)i ,	(3.14)
+
+φ2(t, →x) = Σ h¯bkv¯k(t, →x) + ¯b† v¯∗(t, →x)i .
+
+The new vacuum state is defined as
+
+a¯k|¯0⟩ = 0 ,	¯bk|¯0⟩ = 0 ,	∀k .	(3.15)
+
+Now, in order to study the new vacuum, we should expand the new modes u¯k and v¯k
+in terms of the old ones. Following the notation of the textbook [23] we obtain
+u¯k = Σ (αklul + βklu∗) ,	(3.16)
+v¯k = Σ α′ vl + β′ v∗ .
+
+These matrices are called Bogolubov’s coefficients, and they can be evaluated as
+
+αkl = (u¯k, ul) , βkl = — (u¯k, u∗) ,	(3.17)
+′ = (v¯k, vl) , β′ = — (v¯k, v∗) ,
+
+where the brackets define the generalisation of the conventional scalar product for a curved space
+(ψ1, ψ2) = —i ∫  ψ1(x) →∂ µψ∗√—gΣ dΣµ ,	(3.18)
+where dΣµ = nµdΣ with nµ a future-directed unit vector orthogonal to the spacelike hypersurface Σ and dΣ is the volume element in Σ. Any complete set of modes which are orthonormal in the product (3.18) satisfies
+
+(uk, ul) = δkl , (u∗, u∗) = —δkl , (uk, u∗) = 0 ,	(3.19)
+(vk, vl) = δkl , (v∗, v∗) = —δkl , (vk, v∗) = 0 .
+
+Similar relations, of course, are also valid for the u¯k and v¯k modes which appear in the alternative expansion (3.14). Equating the two expansions (3.6) and (3.14) and making use of the orthonormality of the modes (3.19), one obtains for the annihilation operators
+ak = Σ αlka¯l + β∗ a¯† ,	(3.20)
+
+b = Σ  ′ ¯	′∗¯†  .
+/
+
+The Bogolubov’s coefficients possess the set of properties
+Σ (αlkα∗	— βlkβmk ) = δlm ,	(3.21)
+l
+(αlkβmk — βlkαmk) = 0 ,
+l
+
+Σ α′
+α′∗
+′
+— β β
+  = δ	,
+
+Σ α′ β′	— β α	 = 0 .
+
+As one can immediately see from (3.20), the two Hilbert subspaces based on two possible choices of modes uk and vk, which appear in (3.6), and u¯k and v¯k, which instead enter
+in (3.14), are different as long as βkl /= 0, β′ /= 0. In particular, the expectation value of
+the Hamiltonian (3.11) of the k-th state in the barred vacuum ⟨¯0|Hk|¯0⟩ is
+⟨¯0|ωk b† bk — a† ak |¯0⟩ = ωk Σ(|βkl|2 + |β′ |2) ,	(3.22)
+
+which is in sharp contrast with eq. (3.12), derived in Minkowski space.
+A remark is in order here. While a† ak partakes in the expression for the Hamilto-nian with sign minus, it nevertheless gives a positive sign contribution to the expectation value as a result of an additional minus sign in the commutation relation for the ghost field (3.8). Hence, no cancellation between the ghost φ1 and its partner φ2 could occur in the expectation value (3.22), in net contrast with eq. (3.12).
+The best way to gain some insight on the result (3.22) is to assume that in the remote past and future the spacetime is Minkowskian. In fact, there is a simple 2d model with a specific profile for the expansion function a(t) interpolating between two Minkowski space-times which can be solved exactly. The outcome (see sec. 3.4 in [23]) is that, even in this plain example βkl /= 0, which can be understood as a production of particles by the ex-panding background. In our case this should not be interpreted as actual emission of ghost modes, as the ghost modes are not asymptotic states in Minkowski spacetime, and there-fore they can not propagate to infinity; this constrasts with the conventional analysis [23]. More appropriately, one should interpret (3.22) as an additional time-dependent contribu-tion to the vacuum energy in time-dependent background in comparison with Minkowski spacetime. This extra energy is entirely ascribable to the presence of the unphysical de-grees of freedom. As we mentioned earlier, this is not the first time that a conventionally unphysical ghost contributes to a physically observable quantity. A clarifying simple 2d example on this matter can be found in [25].
+In more complicated cases when in the remote past and future the spacetime is not Minkowskian, the formulation becomes very subtle as even a natural definition of particles is typically not available (the particle number will not be constant, a fact which makes its measurement inherently uncertain). We shall not discuss all these subtleties for the fields treated in the present work as they have exactly the same nature as for conventional particles, and they have been extensively discussed in the literature, see [23] and references
+
+to the original works therein. Let us only point out that, while the number of produced particles may be a deceiving concept, and depends on whole prehistory of the spacetime for its interpretation to be sensible, the stress tensor is free from such kind of uncertainties, which is precisely the reason why we computed ⟨¯0|Hk|¯0⟩, see eq. (3.22), rather than ⟨¯0|Nk|¯0⟩; see also [25].
+In order to understand the general pattern for the behaviour of the Bogolubov’s co-efficients βkl in the expanding universe, it is useful to assume that the expansion is an adiabatically slow process. In this case the problem can be analysed using a WKB type of approximation [23] similar to the adiabatic approximation in quantum mechanics. In the context of quantum mechanics it is well known that if the rate of adiabatic expansion is very small (of order H), then all the transition matrix elements are proportional to the same rate H. Moreover, the transitions between states with very large difference in energy
+∆E, are exponentially suppressed as exp(—∆E/H), see e.g. [26].
+In the case of QFT in a curved spacetime the technique which is required for such an analysis is much more involved than in quantum mechanics, but the basic reason for this suppression has the same nature. In fact one can argue that the means by which one studies the cosmological production of particles using the Bogolubov’s coefficients as discussed above, are similar to instantaneous perturbation theory in quantum mechanics. Instead, the analysis of the same physical problem using adiabatic vacua is akin to employing adiabatic perturbation theory to calculate transition amplitudes in quantum mechanics. In any case, the aspect that is essential for the present presentation is the realisation that in all cases the high frequency modes will be strongly suppressed as exp(—ωk/H) in comparison with the expansion rate H.
+So, the basic result of this section can be formulated as follows: when QCD is coupled
+to gravity the “would be” unphysical ghost, although it still is not an asymptotic degree of freedom, nevertheless contributes to the vacuum energy density in an expanding universe. This time-dependent “ghost condensation” can, for the most part, be regarded as particle emission in an expanding universe, bearing in mind the subtleties reviewed in this section, i.e., no actual particles are being produced). All such effects are proportional to the rate of expansion H, hence, very small, as H/ΛQCD ~ 10−41, and are seen to be related to the tiny momentum ωk ≃ k ≃ H available for efficient gravitational interactions, higher frequencies being exponentially suppressed. We have also seen that when we flatten the spacetime back to Minkowski, all these excited collective ghost’s modes will be seized back in the unphysical Hilbert subspace.
+The chief ingredient in this discussion is the subsidiary condition (3.4) or (3.5), which ensures a peaceful coexistence of widely different scales: ΛQCD ~ 100 MeV and H ~ 10−33 eV. We shall elaborate further in section 6 on how a number of fine-tuning issues which most typically plague dark energy models [27, 28], possess simple explanations within the framework advocated in this paper.
+Ghost dynamics vs. Witten’s approach
+The ghost we have been working with in this work, and whose activity is central our discussion, was postulated by Veneziano in the context of the U (1) problem. It is instructive
+
+at this point to look at the different approach to that issue as formulated by Witten [16], where the ghost field does not ever enter the system.
+As long as we work in Minkowski spacetime the two constructions are perfectly equiv-alent as the subsidiary condition (3.4) or (3.5) ensures that the ghost degrees of freedom are decoupled from the physical Hilbert subspace, leaving both schemes with the identical physical spectrum. In a curved space, on the other hand, we argued that the “would be” unphysical ghost can produce a positive physical contribution to the energy-momentum tensor. The question arises naturally: where is the corresponding physics hidden in the language of Witten?
+To answer the question we start by recalling the crucial elements of [16]. The main object under focus is the topological susceptibility in pure gluodynamics defined as
+χ≡i ∫ dx⟨0|T {Q(x), Q(0)}|0⟩ , Q ≡ αs Ga G˜µνa ,	(3.23)
+8π	µν
+µ	µ	g2	µνλσ  a	a	g abc b c
+Q≡∂µK , K ≡ 16π2 ǫ	Aν (∂λAσ + 3 f	AλAσ ) ,
+We observe that χ does not vanish in spite of the fact that the operator Q is the total derivative, and therefore χ ≡ 0 in any order in perturbation theory. The next important element is the sign of χ which is negative (i.e., it is opposite to what one should expect for a contribution from a conventional physical degree of freedom). This is precisely the reason for the introduction of the Veneziano ghost which would saturate the topological susceptibility with the required sign.
+On the other hand, Witten obtains the same contribution from the contact term which is represented by the equal-time commutator term [16]
+χcontact ≡ i ∫ d3x⟨0| K0(→x), Q(0) |0⟩	(3.24)
+= —⟨0| αs Ga (0)Gµνa(0)|0⟩
+(see also [29] for detailed computations). The point is that equation (3.23) along with the contact term (3.24) determine the dependence of the non-perturbative vacuum energy Evac
+on θ as follows from the definition χ = — d2Evac |θ=0. Therefore, a non-vanishing value for the
+topological susceptibility χ /= 0 with a negative sign solves the U (1)A problem [8, 16, 17], (see also eq. (3) in [1] where the U (1)A problem is reviewed in this context).
+The next step is to consider the system in a curved background. It has been discussed in length in this paper how this generalisation can be performed using the ghost degrees of freedom. If we want to follow Witten’s approach instead, the corresponding information does not go away, but rather it is hidden in equation (3.24) where now the correlation function must be considered in the more general background. Such correlation in a general curved space is not known, nor it is for our FLRW universe (it is the renormalised two-point function of a non-abelian, strongly interacting theory).
+In simple geometries such as de Sitter spacetime a few special examples are known, see [23] for an overview, [30] for the free scalar case, and [31, 32] for the abelian vector field case. In particular, a computation of the simplest expectation value of the scalar field
+
+⟨φ(0)φ(0)⟩ at coinciding points in de Sitter background turns out to be a very complicated problem [30] which requires a delicate subtraction procedure on the Green’s function in the given curved background. The resulting expectation value depends, of course, on the properties of the background field (gravity in this case) such as the rate of expansion H. These are the effects which have been treated in this paper using the Veneziano ghosts. Conversely, if we were dealing with the solution proposed by Witten, such physics would be shadowed by the properties of the Green’s function (3.24) in a curved and time-dependent background and in the associated subtraction prescription. In Minkowski space this is simply a subtraction constant (as it was introduced by Witten [16]), which is just a number. Generalising to a curved time-dependent background this would be a “subtraction function” which, in principle, should be computable from (3.24) after a proper generalisation for the new spacetime.
+To conclude this subsection: we do not aim at solving this intriguing but prohibitive task in this work. Instead, we want to point out that the physical phenomena (described by the Veneziano ghost in our framework) do not disappear when we use a different approach as that advocated by Witten. The corresponding physics is hidden in the properties of equal-time commutators, which, we suspect, is much more difficult to study in a curved and time-dependent background.
+
+Detour to QED
+The main goal of this subsection is to demonstrate that a very similar effect related to the ghost degrees of freedom in a time-dependent background is not a specific feature of the Veneziano ghost in QCD, but is to be expected as a generic feature of any gauge theory when some unphysical degrees of freedom are present in Minkowski space, in particular in the well studied case of QED1.
+We start with the standard formulation of the Gupta-Bleuler constraint [20, 21] in conventional QED in Minkowski space: here the positive frequency part of the free massless combination ∂µA(+)µ annihilates the physical Hilbert space
+∂µA(+)µ|Hphys⟩ = 0 .	(3.25)
+
+As is known, this additional requirement ensures that ⟨Hphys|∂µAµ|Hphys⟩ = 0. It is important to notice that the condition (3.25) is formulated exclusively for the positive frequency part; the negative frequency part is not mentioned in (3.25). In fact, one can not demand a stronger condition such as (∂µAµ) |Hphys⟩ = 0 as it can not be satisfied even for the ground state: the negative frequency half contains creation operators.
+When QED is quantised along these lines, all the problems related to the unphysi-cal polarisations ǫ(0) and ǫ(3) are automatically straightened out in a way similar to our computations for the expectation value of the energy (3.12) 2. In different words, all
+
+1The conventional non-abelian Fadeev-Popov ghosts are much more complicated objects and shall not be discussed here.
+2In the terminology of the present paper the ghost φ1 would correspond to the timelike polarisation
+ǫ(0)–with negative kinetic term–while its partner φ2 would be the longitudinal polarisation ǫ(3).
+
+these “dangerous” states which can produce arbitrary negative energy do not belong to the physical subspace defined by eq. (3.25). All physical states are such that they contain a mixture of photons with polarisations ǫ(0) and ǫ(3) such that (3.25) is maintained in all gauge invariant scattering matrix elements.
+
+Let us now generalise this construction to a curved space (or even in the simpler case when the background is time-dependent). As is known, in this case there is no natural choice for the set of modes on which the fields are expanded. In general, it would be not possible to separate positive frequency modes ∂µA(+)µ and write a well defined prescription as in (3.25), at least not in the entire spacetime, just as in the Veneziano ghost example. This is a crucial difference in comparison with Minkowski spacetime when the vector ∂/∂t is a Killing vector, orthogonal to the t = const hypersurface, and the eigenmodes in the expansion of the field Aµ are eigenfunctions of this Killing vector. The separation of positive and negative frequencies modes is maintained throughout the whole space as a consequence of Poincar´e invariance, and therefore, the Gupta-Bleuler condition (3.25) is a well defined constraint in Minkowski space in contrast with a time-dependent background when the condition (3.25) can not be maintained in the entire space. This means that a transition from a complete orthonormal set of modes to different one will generally mix different frequency modes, and as a result of this mixture, the vacuum state defined by a particular choice of the annihilation operators will not be “empty” once we switch back to the original basis.
+
+As for the Veneziano ghost, since a natural definition of particles in a curved back-ground is typically not available (the particle number will not be constant), see [23], the interpretation in terms of particles is ambiguous. On the other hand, the energy-momentum tensor is a well defined operator. It is our interpretation that in the stress tensor we obtain new contributions which are attributable to “would be” unphysical polarisations such as ǫ(0) and ǫ(3), rather than claiming that these are actual (asymptotic) particles. Let us stress in passing that both ǫ(0) and ǫ(3) contribute with positive sign to expectation value of the Hamiltonian, similar to eq. (3.22).
+As formulated above, this is not a statement about a possible violation of gauge in-variance. Instead, it is a statement about the global non-cancellation between unphysical polarisations in a time-dependent background. Moreover, we expect that in the “physical” Coulomb gauge A0 = 0, ∂iAi = 0 (when one keeps only the physical degrees of freedom) the corresponding effects would also emerge. However, they will be hidden in the properties of the coinciding points Green’s function in a curved background, similar to our discussions in the previous subsection 3.3. As is known, these correlators are quite non-trivial and very sensitive to the global properties of spacetime, in contrast with their simple behaviour in Minkowski space. We expect, however, that this new QED-related contribution to the dark energy would be negligible in comparison with what we have computed above for the Veneziano ghost, because QED effects, by dimensional reasons, are proportional to H4 ~ (  H  )3ρDE ~ 10−120ρDE .
+
+Ghost classical dynamics and equation of state
+In order to do cosmology with our Lagrangian (2.19) we have to move the system to a more realistic universe which includes gravity. We want to analyse the dynamics in a curved background by studying the QCD Lagrangian which explicitly includes the Veneziano ghost (2.19), supplied by the auxiliary condition (2.21) selecting the physical subspace. As we demonstrated above, in Minkowski space these two elements faithfully reproduce the well known low-energy dynamics of (2.9). To this end we will first generalise the rele-vant piece of the QCD Lagrangian, given by (2.19), to a general curved background, and then try to solve the corresponding classical field equations for the expectation values of the fields. This is the standard procedure in studying the dynamics of scalar fields in the early universe, and we are making no exception here.
+Curved spacetime
+It is in fact merely a matter of rewriting the Minkowski Lagrangian (2.19) all what one needs to do to promote it to a curved space. Indeed, its simplicity allows the straightforward generalisation
+
+L = 1	ˆ µ ˆ	1
+µ	— 1 D φ Dµφ
+(4.1)
+
+— 1 m2′ φˆ2 + N m |⟨q¯q⟩| cos " φˆ + φ2 — φ1 # ,
+
+where the covariant derivative Dµ is defined as Dµ = ∂µ +Γµ so that, for instance DµV ν =
+∂µV ν + Γν V λ.
+One can easily check that all the steps that led to the Minkowski Lagrangian (2.19) can be just as well worked out for a general background, see [6] for an example. Therefore, ig-
+noring the θ-term contribution, the action for our system will be given by S =	d4x√—g L,
+where g ≡ det gµν is the determinant of the metric.
+Accordingly, the energy-momentum tensor for the system of the φˆ, φ1, and φ2 fields is
+2	δS
+Tµν = — √—g δgµν	(4.2)
+= —DµφˆDν φˆ — Dµφ2Dν φ2 + Dµφ1Dν φ1 + gµν L ,
+which satisfies the energy conservation equation DµTν = 0 as it must. The equations of motion on which the stress tensor is conserved are cast as
+DµDµφˆ +m2 φˆ +	sin"	# = 0 ,
+Nf mq|⟨q¯q⟩|	φˆ + φ2 — φ1
+/	/
+
+fη′
+fη′
+
+(4.3)
+
+DµDµφ2+	sin"	# = 0 ,	(4.4)
+Nf mq|⟨q¯q⟩|	φˆ + φ2 — φ1
+fη′	fη′
+DµDµφ1+	sin"	# = 0 .	(4.5)
+Nf mq|⟨q¯q⟩|	φˆ + φ2 — φ1
+fη′	fη′
+
+Notice how the combination (φ2 — φ1) is special in that it is a plane wave (in Minkowski space):
+DµDµ (φ2 — φ1) = 0 .	(4.6)
+
+We suggest that these equations of motion are the interesting part of QCD describing long distance physics in a curved spacetime. There are no new fields or coupling constants beyond the standard model.
+Solutions
+Let us now follow in some details the passages which lead to an (approximate) solution of these differential equations. From now on we will make the simplifying assumptions that the field φˆ sits at the bottom of its potential, and we fix its expectation value to zero. Moreover, we will be treating these fields only from a classical point of view (although we omit the angle brackets), and discuss the evolution of their vacuum expectation values (vevs) in the general background gµν , which for definiteness we choose to be of Friedmann-Lemaˆıtre-Robertson-Walker (FLRW) type–see however appendix B for a generalisation involving compact 3d hypersurfaces (as required for consistency in our set up)–and hence given by
+ds2 = dt2 — a(t)2 dx2 + dy2 + dz2 ,	(4.7)
+
+where we denote the scale factor of the universe as a. For future reference, we define the Hubble parameter as H = a˙/a where the overdot is a derivative with respect to t.
+Let us change names for the two fields φ1 (the ghost) and φ2 (its partner) to ψ and ϕ, respectively in order to emphasise that we treat ψ and ϕ as classical fields in this subsection. Their quantum nature has been discussed in section 3. The classical treatment of the system is by far the widest chosen approach in dealing with dark energy matters, and this is the reason why we present this formalism here. However, while in other, perhaps more familiar, cosmological models such as inflation, the passage from quantum to classical is justified a posteriori (see for instance the discussion in [33], section 7.4.7, and reference to original works therein), and is a fundamental ingredient for the success of the inflationary theory, in coping with our quantum fields we do not expect such a “little miracle” to happen. In other words, the quantum nature of our fields which appears in their non-trivial dependence on the gravitational background as well as on the global properties of the manifold, is brought in at the level of the renormalisation procedure, and is therefore not describable in a purely classical approach. Therefore, all results based on the classical equation of motion presented in the next two sections should be taken very cautiously, as we do not have any theoretical arguments supporting the consistency of the classical approach (in contrast with the case of inflation). Still, we will make an attempt in this direction, these inherent difficulties notwithstanding, and address in more details the reasons for our mistrust in this na¨ıve construct thereafter.
+We want to work in conformal time τ for the moment, which amounts to the coordinate transformation dτ = dt/a. Finally, we will initially solve for the rescaled fields ϕ˜ and ψ˜
+
+defined as
+
+
+ϕ˜ ≡ aϕ	,
+
+ψ˜ ≡ aψ .	(4.8)
+
+Primes will mean derivatives with respect to conformal time ∂/∂τ .
+With these definitions one can either recast the action or act directly on the equations of motion. In any case, the explicit equations of motion for the tilded fields are
+
+
+ϕ˜′′ —
+ψ˜′′ —
+a′′
+ϕ˜ + ω
+a
+a′′
+ψ + ω
+a
+2 ϕ˜ — ψ˜ 
+2 ϕ˜ — ψ˜ 
+
+= 0 ,	(4.9)
+
+= 0 ,	(4.10)
+
+where to simplify things we keep only the linear term in the expansion, sin(φ2 — φ1) ≃ (φ2 — φ1). This approximation is more than sufficient for our qualitative discussions. The a-dependent mass-like term is defined as
+ω(a)2	 Nf mq |⟨q¯q⟩|  a4 .	(4.11) (mη′ L)(fη′ a)2
+A few comments on this potential are in order here. First of all, the a′′/a term is nothing else than the usual friction term in the original time t coordinatisation, for the original fields ϕ and ψ. This becomes an effective time-dependent mass term when one employs conformal coordinates and rescales the fields as in (4.8), and is proportional to the Ricci scalar curvature R. In our Lagrangian the fields have been chosen to be minimally coupled to gravity, but in general this coupling will appear and be of the form (ξϕϕ2R — ξψψ2R), and in the case of conformal coupling will make the a′′/a term in (4.11) cancel.
+Second, the reader will have noticed that there is an extra factor of 1/(mη′ L) in the second term. This is a very subtle point which we have thoroughly discussed in our pre-vious paper [1], and it is a result of a subtraction procedure that compares the values of the vacuum energy in Minkowski space with that in a general compact manifold (such as a torus of size L). This prescription aims at extracting the physical and measurable portion of the vacuum potential energy of the ghost field, by taking the difference between the vacuum energy in compact space and that in infinite Minkowski space, and is of strict quantum mechanical origin. Essentially, this is our definition of the vacuum energy when the “renormalised energy density” is proportional to the departure from Minkowski space-time geometry and remains finite. This external (to the classical system) prescription will necessarily introduces some inconsistency in the classical picture, as we will see below.
+Notice that the correction (which was computed exploiting the topological suscepti-bility of QCD when the ghost is present) is linear in the inverse size of the manifold, not exponentially suppressed, as one would generally expect in the confined phase of QCD. This contribution is a direct result of the existence of the ghost and can be computed in an exact way in a compact 2d spacetime in the context of the Schwinger model [6], and indeed shows the linear dependence we have used in (4.11). There are very strong arguments to believe that this is going to be the case in 4d as well, for the topological structure (with the contribution of the ghost to the topological susceptibility as demanded by the WI) is
+
+identical in both models [1], and because as we have just shown in sec. 2, the low-energy Lagrangians coincide (2.19). There is therefore no arbitrariness in this choice of the po-tential: in fact, this is not a choice, as the potential is the one that correctly captures the chiral dynamics of low-energy QCD.
+Since ultimately we are interested in the combination (ϕ˙2 — ψ˙2) which enters the
+expression for the equation of state, we look for solutions of the corresponding combination in conformal time for the rescaled fields. Even in curved space, the solution for (ϕ˜ — ψ˜) is straightforward. Assuming the fields do not depend on the three spatial coordinates we find
+
+∂2
+
+/
+∂τ 2
+ϕ˜ — ψ˜ 
+
+= 0	⇒
+ϕ˜ — ψ˜ 
+
+= c0 + c1τ ,	(4.12)
+
+with c0 and c1 the integration constants. The following step is to use this solution in the equation for ϕ˜ (4.9) which becomes
+ϕ˜′′ = —ω2 (c0 + c1τ ) .	(4.13)
+This equation can be solved analytically if we assume that R ≪ ΛQCD/L, as is certainly the case in the late-time regime we are interested in, in which case the curvature term in ω2 can be safely neglected. The time dependence of ω2 then simplifies greatly, being the same as that of a4/(a2L) ∝ a(t). To keep things simple we also choose c1 = 0; of course the results we will present in the following section can only be generalised by retaining the full form for (ϕ˜ — ψ˜). Equation (4.13) is then solvable for the first derivative of the field, and so is its counterpart for the original field ϕ(t), whose solution reads
+
+
+ϕ˙(t) =
+ϕ˙(t0)
+a2	— ϕH +
+ϕ(t0)H0
+a2	—
+ω2(t0)
+a2	c0(t — t0) ,	(4.14)
+
+where t0 is the present time, and obviously the conformal length L scales as L = L0(a(t)/a(t0)). We can simplify this expression further, as long as we are working in the late-time regime (that is, much later the QCD phase transition epoch), by noticing that if the characteristic vev of the scalars ϕ and ψ is of order of the QCD scale (which we can parametrise as ΛQCD or with fη′ ), although small enough to justify the simplification of the cosine inter-action term, then the first of all the terms in equation (4.14) will dominate. One implicit assumption we are also making is that the physical size of the manifold L0 is of order (but still larger) of the Hubble length, H0, as required by observations, see the discussion
+in [7] (if this were not the case, then also the term ω2(t0)c0t0/a2 would give a similar contribution–notice that the dependence on time, through a, is the same).
+As mentioned earlier, we are aiming at finding the explicit expression for (ϕ˙2 — ψ˙2),
+which leads us to the following expression
+ϕ˙2 — ψ˙2 = ϕ˙ + ψ˙  ϕ˙ — ψ˙ 
+= 2ϕ˙ — c1 + c0 + c1τ H  c1 — c0 + c1τ H 
+
+a2	a
+c0H
+a2	a
+
+≃ —2ϕ˙(t0) a3 ,	(4.15)
+
+according to the simplifications explained in the previous paragraph.
+As a last step, let us recall what c0 is. In equation (4.12) we have defined it to be a constant in conformal time for the rescaled fields ϕ˜ and ψ˜. This means that once we switch back to the physical fields, c0 will not be constant anymore, but is now proportional to a(t), and in our normalisation where the initial conditions are given today, it is going to be proportional to a0ϕ(t0) ≃ a0fη′ . This is going to be the case for the other contribution coming from ϕ˙(t ) which is going to be of order f 2 . All together, since we do not know
+0	η′
+the position of the field in its potential now, nor its velocity, it is simplest to parametrise them by means of one and the same constant (which we therefore expect to be somewhat
+smaller than 1) baptised c ≃ ϕ(t )ϕ˙(t )/f 3 (in principle positive or negative).
+The final expression for the kinetic term for the two fields ϕ and ψ (or φ2 and φ1, which is equivalent) is simplified to
+1 ϕ˙2 — 1 ψ˙2 = α  H  a0 3 ,	(4.16)
+
+where we have defined α ≡ 2c f 3 H . A few remarks on the estimate (4.16) are in order.
+First, as expected, this contribution is the same order of magnitude, Λ3	H0, as the
+potential term, Λ3	/L0, discussed previously [1]; both contributions are of the same order
+of magnitude of the critical density ρc = 3H2M 2 . Second, as we underlined previously,
+0	P
+there are no new fields and coupling constants involved in our analysis, as everything is within QCD. The unknown coefficient cϕ . 1 which appears in our description is not a consequence of unknown physics. Rather, it is determined by the initial conditions when
+ϕ(t) and ψ(t) are treated classically.
+Lastly, the result (4.16) may look suspicious as it obviously violates the subsidiary condition (2.21). Let us remind that this condition was a key element leading to the cancelation of the ghost contribution φ1 with its companion φ2 such that a QFT based on (2.19) is well defined in all respects as explained in section 2.4. While the condition (2.21) is indeed violated in a curved space, we should notice that the level of its violation is proportional to the rate of expansion H such that in a Minkowski spacetime, when H = 0, we again obey (2.21). Moreover, according to the logic of this paper, the breaking of
+the requirement (2.21) in curved space, which ultimately is proportional to Λ3	H0, is
+part of the energy density that accelerates our universe today. Why and how the physical subspace changes when the system is defined in a curved background has been explained in depth in section 3, where we explicitly demonstrate that the vacuum expectation value of the Hamiltonian representing the ghost field (and its companion) in such set up does not vanish. We shall argue that it is instead proportional to the expansion rate H, which is consistent with our estimate (4.16) based on the analysis of the classical equations of motion.
+
+Equation of state
+We have finally come up with an analytic and well defined expression for the sum of the kinetic energy densities of the two fields ϕ and ψ, eq. (4.16).  Their total energy
+
+density (comprising the potential term as well) is found as usual by inspecting the energy-momentum tensor (4.2), which for a perfect homogeneous and isotropic fluid can be written in our conventions as
+Tµν = — (ρ + P ) uµuν + Pgµν ,	(4.17)
+where ρ is the energy density and P the pressure density of some component; uµ is the proper 4-velocity of the fluid. There are several subtleties related to the use of this perfect fluid form in the context of this work: they are unfolded partly in section 5, and more thoroughly in appendix B; we shall employ this simple form for now.
+The total (kinetic plus potential) energy density and pressure density of the vacuum are found to be just as usual
+
+ρΛ = α PΛ = α
+H
+1 H0
+H
+1 H0
+ a0 3 + α
+ a0 3 — α
+a0 ,	(4.18)
+2 a
+a0 ,	(4.19)
+2 a
+
+with the second (still to be determined) constant appearing above being defined as α2 ≡
+(Nf m2 f 2)/(4mη′ L0) (we have rewritten the chiral condensate in terms of measured pa-
+π π
+rameters mπ and fπ as mq|⟨q¯q⟩| = m2 f 2/4).
+The two expressions (4.18) and (4.19) can be combined in w = PΛ/ρΛ to yield the effective equation of state w of the system with the Veneziano ghost and its partner (which is identified with the equation of state for dark energy), and which can be written as
+α1  H  a0 3 — α2 a0	H/H — a2α /α
+α1  H  a0 3 + α2 a0	H/H0 + a2α2/α1
+The equation of state (4.20) possesses a highly non-trivial time dependence as H in the
+r.h.s. of the equation implicitly depends on w(a). As for the well known scalar field this equation of state oscillates between -1 and 1 as long as the constants α1 and α2 have the same sign (see however the discussion in section 5 and appendix B). We will be able to find solutions for a negative value of this ratio as well, which would imply an equation of state w < —1, which implies a phantom-type of field, and which could be useful in the construction of bouncing cosmologies (see the review [34] with an extensive references list of the original proposals).
+We are going to study this equation of state in section 5, explicitly solving it by numerical means within the redshift range 0 < z < 2, which is the range spanned by direct measurements of the Hubble parameter, and therefore is the most interesting and constraining for the comparison of the model against the data.
+A final comment before moving on to the numerics of the Veneziano ghost. As we mentioned earlier, the numerical value of the constant α1 which triggers its late-time mag-nitude is of the same order of magnitude as the potential part, see (5.5) below. This is why one should be careful in using the estimate (1.1) to directly infer the equation of state of this vacuum energy in an expanding universe, which would be mistakenly deduced to be w = —2/3 (corresponding to a−1), while it is actually determined by (4.20). Furthermore, there is one further subtlety in this respect, which is elaborated on in section 5.
+
+Numerical analysis: confronting with observations
+
+Background
+The reference equation in this section is the definition of the time-dependent equation of state (4.20). This equation is highly non-trivial to solve, because the equation of state w(a) appears in the r.h.s. as well, being hidden in the explicit expression for H. Moreover, since in general w depends on a as we have seen, w = w(a), it appears inside the integral which gives the evolution of the vacuum energy density with time.
+The Hubble parameter is given by
+H2 = H2 hΩ0 (a/a0)−3 + Ω0 e−3 , da(1+w)/ai .	(5.1)
+
+The density fractions Ω0 and Ω0 are today’s values of ΩM ≡ ρM /ρc and ΩΛ ≡ ρΛ/ρc,
+respectively. Here ρc ≡ 3M 2 H2 is the critical energy density for which the 3d space is flat. The suffixes M and Λ refer to matter (the sum of visible and invisible cold matter, mostly in the form of dark matter) and vacuum, respectively. The Hubble parameter as given in (5.1) comes from the Friedmann equation
+H2 =  ρ  —  κ ,	(5.2)
+2M 2	a2
+
+with κ the 3d curvature, and ρ is the sum of all the energy densities in the universe. Hence, 3d flat space corresponds to κ = 0 which implies Ω = 1 where, analogously, Ω = i Ωi (i indicises the different components of the universe).
+For the purpose of the numerical study we are going to present it is particularly conve-nient to normalise the scale factor to today’s value a0, and we will also similarly normalise the Hubble parameter to H0. In this case one can rewrite the equation of state (4.20) as
+
+
+
+w(a) =
+hΩ0 hΩ0
+a−3 + Ω0 e−3 , da(1+w)/ai1/2 — αa2 a−3 + Ω0 e−3 , da(1+w)/ai1/2 + αa2
+
+
+,	(5.3)
+
+
+where the constants α1 and α2 and their ratio α are defined as
+
+Nf m2 f 2
+
+α1 ≡ 2cϕf 3 H0, α2 ≡
+π
+4mη′
+π cgH0, α ≡ α2/α1.	(5.4)
+
+
+In the preceding definition for α2 we follow [7] and compare the unknown size of the manifold L0 to the Hubble parameter today H0 via L0 = (cgH0)−1, with cg an unknown constant of order one. Let us stress once more that this unknown constant, as was for cϕ, is not a consequence of unknown interactions of unknown fields. Rather, cg is determined by the size of the manifold we live in as explained in [1, 7]. As one can see from (5.3) the equation of state w(a) is only sensitive to the ratio of these two unknowns cφ and cg.
+
+Subtleties
+A few comments on equation (5.3) are in order. As the reader will have noticed, we are using an expression for the potential energy of the two fields φ1 and φ2 that comes from a very specific subtraction procedure defined in compact non-expanding spacetime [1]. There are two subtleties of this prescription which affect our modelling.
+
+First of all, the subtraction in Minkowski spacetime gives the potential energy an inverse linear dependence on the size of the manifold we started out with. This is fully analytically trackable in 2d [6], and is certainly present in non-expanding 4d QCD as we argued previously [1]. However, the system we are dealing with in this paper is embedded in a much more complicated set up, where gravity now partakes in the dynamics. It is licit to ask what would be the result of the same subtraction prescription when applied to a non-static case.
+Ideally, one would write down the most general form for the propagators of our fields
+φ1, φ2 and φˆ in the general FLRW background in the compact space, with the most general dependence on the parameters that define the basic manifold (known as the Teichmu¨ller parameters, see appendix B). Once the propagators have been computed for compact and infinite FLRW spacetime, the subtraction procedure should be implemented, and the result would be the exact form of the “physical” potential energy density as defined in our framework. Notice that our “point of renormalisation” in the end will be Minkowski space, in such a way that the subtraction is performed in two steps, first in one and the same spacetime extracting the physical Casimir energy, and second renormalising to Minkowski space.
+Unfortunately this is a stunningly complicated task, and we are not able to tackle it analytically. However, it is easy to guess which kind of form the exact expression in a compact FLRW spacetime will be, or at least, what its principal contribution would be. Indeed, there are few dimensional parameters describing our system: the Hubble parameter, the sizes which define the manifold (of which we pick a characteristic size L0), and QCD parameters of order fη′ . In general, starting from the original expression
+Nf m2 f 2
+
+Vghost =
+π
+mη′ L
+π ,	(5.5)
+
+the corrections due to the expansion would be proportional to some dimensionless com-binations of the aforementioned parameters, which basically means that eq. (5.5) will be multiplied by some function of x ≡ HL ~ 1 as the two other possible combinations H/fη′ , or (Lfη′ )−1 are very small, &(10−42), and can be safely neglected. Therefore, we phe-nomenologically introduce a function f with the intent to parametrise the outcome of the “ideal” subtraction: f (x) = f (HL). Remember that H and L are both normalised to present day values.
+The exact form of this function f (HL) is unknown, and should be fixed by the fully consistent calculation of the propagators for the ghost and its partner in compact FLRW universes as described above. In this work we shall limit ourselves to impose some physical
+
+conditions on this function which would allow us to write down a representative form for it without actually knowing it. The requirements this function must meet are: it has to reproduce our Minkowski findings when the curvature is zero, that is, f (x) → 1 when x → 0; second, when the manifold size L → ∞ the dependence on the size itself in the energy density must disappear, which means that in the limit x → ∞ we ask that f (x) → x.
+A function which is compatible with these demands is
+f (x) ≡ 1 + x ,	x ≡ HL,	(5.6)
+and the potential is accordingly modified in everywhere it appears (most importantly, in (5.3)) as
+Nf m2 f 2
+
+Vghost =
+π
+mη′ L
+π f (HL) .	(5.7)
+
+We should point out that the introduction of f (HL) is a phenomenological way to account for the unavoidable mismatch that is general would arise between the equation of state determined by our equations of motion in the FLRW background, and the simple promotion of the Minkowski result ∝ 1/L to the new background, having treated the potential by means of our subtraction procedure in a non-expanding universe only.
+There is a second subtle point in the expression (5.3), namely the fact that it has been derived assuming a perfect isotropic fluid’s stress tensor, while it has been pointed out by us previously [1, 7] that we need to work in a generally non-isotropic compact manifold. For instance the three-torus T 3 can easily be not isotropic, as its physical fundamental sizes can be all different, and the expansion rates be unequal in each direction, see appendix B. The perfect fluid form may not be justified for use in a sufficiently nontrivial manifold, and this will introduce more parameters in the equation of state, which for simplicity are not discussed here. Nevertheless, this introduces yet another source of error in our numerical solutions shown below.
+The arguments outlined in the previous section about the validity of the classical analysis apply here, and inevitably lead to inconsistencies in some of the formulas we will be employing below.
+All this should be kept in mind in playing with the seemingly innocuous equations describing the system. The missing information about the manifold is going to appear in the numerical results in forms of inconsistencies between different parametrisations of the same quantities which ordinarily would be equivalent. As an example, the main discrepancy is going to be found in the expressions for the energy density, which can be directly calculated using the classical solutions of the equations of motion eq. (4.18) or by parametrisation through the effective equation of state found in (4.20). These subtleties are the topic of the appendices, and we postpone the details until then. Dealing with these uncertainties, and minimising their impact results in fixing the only two free parameters in this formulation, that is cφ and cg: the precise way this is done is explained in appendix A, and here we only employ the outcome of that analysis, that is
+cφ ≈ 1.1 · 10−3	and	cg ≈ 5.1 · 10−2 .	(5.8)
+
+Recall that cφ can be interpreted as the position of the ghost field in its potential times its velocity at the present time. This interpretation, and the numbers given above, are con-sistent with the approximations we have made in deriving the solutions of the equations of motion. Finally, cg parametrises the size of the manifold in terms of the Hubble parameter today, which, for (5.8) means that L ≃ 19H−1, and consequently safely beyond the last
+scattering surface [7].
+
+Results
+We plot in figure 1 the equation of state w(a) as a function of the scale factor of the universe, when the c constants are fixed as in (5.8), for the redshift range 0 . z . 2, where the redshift is defined as 1 + z ≡ 1/a (remember that we normalise everything today). The numbers we adopt in our numerical analysis, beside (5.8), are:
+
+mπ = 135 MeV , H0 = 2.13h · 10−42GeV ,
+
+mη′ = 958 MeV , h = 0.71 , fπ = 133 MeV ,	ΩΛ = 0.73 , fη′ = 104 MeV , ΩM = 0.27 .
+(5.9)
+
+The equation of state describing the ghost’s (and its partner’s) dynamics depends on time as expected, and its today’s value is
+
+w(z = 0) = w0 ≈ —0.75 .	(5.10)
+
+Equation of State
+
+
+1.0
+2.2
+1.8
+1.4
+1.	0.8
+0.6
+0.4
+0.2	0
+
+
+
+
+0.5
+
+
+
+0.0
+
+
+
+–0.5
+
+
+
+–1.0
+0.3	0.4	0.5	0.6	0.7	0.8	0.9	1.0
+Scale Factor / Inverse Redshift
+Figure 1: The equation of state solution of equation (5.3) in the text. The upper x-axis is the actual redshift. The equation of state is redshift (i.e., time) dependent, and today it takes the value w0 ≈ −0.75.
+
+Two facts should be mentioned concerning this result. First of all, it is a representative result and while it is self-consistent, it should be not considered as the final word of this framework due to a number of subtleties discussed above and more deeply in appendix A. Had we been able to compute the propagators in the compact manifold and perform the subtraction as prescribed in an entirely analytical way, the will still be freedom of variation of these two parameters. In addition, the function f (x) was introduced to supply for our inability to compute the required Green’s function on a non-static compact manifold. While its asymptotical behaviour is predictable, a precise expression for f (x) is not known. Our phenomenological parametrisation is not unique, and different f s conduce to similar, but still different results. It is not our intention here to play around with different choices of f (x) satisfying the same asymptotic behaviours; we instead want to present a typical, representative result with the simplest function that respects the imposed asymptotics.
+Second, the equation of state (5.10) is about 2σ off according to WMAP [5]. However, this statement applies to an equation of state that does not evolve with time, and is significantly weakened when this possibility is taken into account. Indeed, WMAP in this case only measures the integrated equation of state from last scattering to now, which does not provide much information on its effective time dependence [35]. Moreover, the linear redshift dependence that is most widely used, that is, w(z) = w0 + wa(1 — a) does not necessarily provide a good fit for the behaviour shown in fig. 1.
+One more comment concerns the sign of cφ. Although it has been fixed greater than zero for it is the value that best meets the criterion enunciated before, we can also find solutions to eq. (5.3) in the opposite case. For instance, a solution with w(z = 0) ≈ —1 approached from below (phantom) is available for |cφ| . 10−3 in the negative cφ branch. This, as mentioned previously, could have interesting application in models of bouncing
+cosmologies [34].
+Direct measurements of the Hubble parameter however can constrain the equation of state of dark energy directly, although such measurements are difficult to perform and in-herently bear large error bars. Using the most recent data available [36] we can graphically compare the standard cosmological model (ΛCDM, for Cold Dark Matter and cosmological constant) with the result of the equation of state we have just obtained. This is shown in fig. 2, where it is seen how the Hubble parameter does not fit the data points.
+The last graphical result we want to include is the behaviour of the different com-ponents of energy density of the universe for the same redshift range for which direct measurements of the Hubble parameter are available. In figure 3 we show the evolution of the vacuum energy component described in this work, together with the flat cosmological constant and the total matter energy density.
+Obviously, the vacuum energy density in our framework is no longer constant, and in principle it will meet that of ordinary and not-so-ordinary matter at earlier times than usually assumed based on ΛCDM model. However, the classical solutions we have found seem to point to an energy density which at early times grows faster than matter or radiation, thereby overwhelming them. With the choice endorsed in (5.8) we also find a model in which matter never dominates; a much smaller value for cφ would have returned a better agreement with observations, although mining the consistency of the different
+
+Predicted Hubble Parameter VS Data
+
+
+300
+2.2
+1.8
+1.4
+1.	0.8
+0.6
+0.4
+0.2	0
+
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0
+0.3	0.4	0.5	0.6	0.7	0.8	0.9	1.0
+Scale Factor / Inverse Redshift
+
+Figure 2: Hubble parameter as a function of the scale factor of the redshift. The upper x-axis is the actual redshift. As explained in the legenda, the two lines correspond to the ΛCDM model (orange, or light grey in black/white) and the model proposed in this work (blue, or dark grey in white/black). The data are given with the corresponding error bars.
+
+expressions for the energy density (see below). For instance, we can obtain an equation of state virtually indistinguishable from a constant w ≃ —1 in the desired redshift range for cφ . 10−6, which would re-establish a viable cosmology. A more serious problem appears to be the too fast growing of the kinetic energy density of the ghost in the past universe; this feature as well should not represent a too serious menace for this proposal, as it crucially depends on the assumptions we have made on the shape and time dependence of the potential.
+In general however, our results suggest that there will be appreciable amount of dark energy even at very high redshifts (z > 5) because of the specific features of the equation of state derived above. This is in contrast with the standard ΛCDM model where, in the same redshift region, the vacuum energy is completely ignorable. The study of this redshift span (z > 5) using Gamma Ray Bursts (GRB) as standard candles as suggested by ref. [37] (see also the analysis of [38] and references therein) represents a unique opportunity to verify or rule out our proposal. Indeed, as the mechanism described in this paper unambiguously predicts sizeable amounts of dark energy at very high redshifts, one can discriminate between models by studying z > 5 (see also the recent work [39] on constraints on dark energy contribution for z ≃ (2 — 20). Finally, let us notice that a joint likelihood analysis of three different types of observations (supernovae type Ia data, CMB, and the Baryonic Acoustic Oscillations), similar to what has been lately performed in [40], is also sensitive to the peculiar features of our equation of state (4.20).
+Coming back to fig. 3, notice that there are two lines corresponding to the vacuum
+
+Energy Density of Matter and Vacuum
+
+2.2
+6
+1.8
+1.4
+1.	0.8
+0.6
+0.4
+0.2	0
+
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+0.3	0.4	0.5	0.6	0.7	0.8	0.9	1.0
+Scale Factor / Inverse Redshift
+
+Figure 3: Energy densities against scale factor. The upper x-axis is the actual redshift. As shown in the legenda, the solid blue (dark grey in black/white) line tracks the vacuum energy density using expression (5.11), while the dashed line follows (5.12). The flat black line is a constant cosmological constant, and the red (light grey in black/white) one is the energy density of total matter.
+
+energy because there are two possible ways of expressing it, either based on the parametri-sation through the effective equation of state
+ρΛ(z) = ρΛ(0)e−3 , da(w+1)/a ,	(5.11)
+
+with w(a) as obtained graphically from the solution of equation (5.3) (see appendix A), or directly from the solution of the equations of motion for the ghost
+ρΛ(z) = α1H(z)(1 + z)3 + α2(1 + z)f (x) ,	(5.12)
+
+where f (x) is defined by eq. (5.6) and exhibits a very non-trivial dependence on z. As inferred from the plot, with the choice of cφ and cg in eq. (5.8) these two expressions are consistent within 15%. Let us stress that some mismatch between them (which are supposed to be exactly identical) is not a result of some fundamental flaw, but rather springs from our inability to compute f (x) analytically, combined with the fact that we are forcefully imposing a potential which has been derived in a purely quantum mechanical way (and that is a result of non-trivial boundary conditions) into the classical system. Therefore, these numerical results should not be treated as the final result: the full com-plete quantum calculation would return expressions that are automatically consistent one another, although their graphical representation by numerical means (recall that H and therefore w(a) itself appear in the expression for w = w(a) eq. (4.11)) will introduce once more some degree of numerical mismatch.
+
+The fate of the universe
+The evolution of the universe can be followed beyond today thanks to the fact that we have a precise equation telling about the behaviour of the vacuum energy component at any time in the future. Indeed, one can look at the expressions for the equation of state, which, once a specific form for f (x) is selected, leads immediately to the evolution of the vacuum energy density. Looking deep into the future, the equation of state is going to be
+H(z) + αa2f (x)	1 + αa3
+w(a) = H(z) — αa2f (x) → 1 — αa3 → —1 .	(5.13)
+Thus, the equation of motion (for this f (x)) will slowly approach -1 from above, and the universe is dragged into a de Sitter state, just as in the usual ΛCDM model.
+Indeed, the energy density of vacuum will more and more approach a constant value, result that can be seen either in the parametrisation (5.11) when w(a) → —1 or in (5.12) since in this case the dominant piece will be the potential energy as given in (5.7) which when f (x) → x becomes proportional to H, which itself is approaching a constant. This shows that asymptotically the form chosen for f (x) is self-consistent.
+
+Fine tuning without fine tuning
+This section aims at explaining in a non-technical, intuitive way how a number of fine tuning issues such as “coincidence problems”, “drastic separation of scales”, “unnatural weakness of interactions”, etc., which always plague dark energy models [27, 28], possess simple explanations within the framework endorsed in this paper, even without the need to introduce new fields, which come with new interactions, new coupling constants, and new symmetries.
+We start with a close examination of the energy density scale ρΛ ≈ (2.3 · 10−3eV)4: where does it come from in our set up? Basically, this scale emerges as a result of our operational definition for the physical dark energy. Indeed, according to the scheme pro-posed in the introduction, the “renormalised cosmological constant” is set to be zero in Minkowski space wherein the Einstein equations are automatically satisfied. Thus, the energy-momentum tensor in combination with this “bare cosmological constant” must also vanish at this specific “point of normalisation” to satisfy the Einstein equations. From this definition it is quite obvious that the “renormalised energy density” must be proportional to the departure from Minkowski spacetime geometry.
+In the context of QCD on a compact manifold with characteristic size L, this extra piece gives precisely the appropriate scale for ρΛ as an offspring of known QCD dynamics at the QCD scale [1]. One should emphasise that this contribution is unique as all other vacuum contributions (such as gluon or Higgs condensates) vanish due to their cancellation with the vacuum energy defined in Minkowski spacetime, or are exponentially suppressed.
+The second fine tuning problem goes under the name of “cosmic coincidence”, or: why does it happen now? The same type of arguments which have been presented above suggests that the ghost vacuum energy should become relevant when its potential energy
+
+is of the same order of magnitude as ρc. Equating these two quantities returns
+V ≃ 2Nf |mq ⟨q¯q⟩| ≃ 3H2M 2 ,	(6.1)
+mη′ L0	0	P
+which can be read as an estimate for the age of the universe as t0 ≃ H−1 ≃ 10h−1Gyr,
+which is indeed the correct lifetime for the present Hubble size.
+Most of the proposals on how to attack the vacuum energy problem suggest to treat dark energy using a scalar field φ (“quintessence”, “K-essence”, etc., see the reviews [27, 28]). The potential describing the dynamics of this new field φ must be extremely flat, with a typical mass mφ ≃ 10−33eV [27, 28]. Such a tiny number is unheard of in particle physics, and certainly requires a great degree of fine tuning.
+In our model it so happened that the dynamics is also determined by interacting scalar fields, see section 2. However, while the interactions among them is strong (it comes from strongly interacting QCD), the potential energy which remains after the subtraction of the large Minkowski piece is indeed very shallow (6.1), and becomes even more shallow with time since the potential energy scales as 1/L ≃ 1/a. The moral is that the effective potential is indeed flat, but this flatness does not stem from some approximate original symmetry (which is typically exploited in dark energy proposals [27, 28]), but rather is a consequence of the same governing principle stating that the physical energy density must be proportional to the deviation from Minkowski spacetime geometry. This difference in our case is &(1/L).
+There are no new particles in our framework. Instead, there are the Veneziano ghost and its partner which are known low-energy fields of QCD and are responsible for the solution of the U (1)A problem. These fields are always present in the conventional QCD in Minkowski space. Their dynamics is trivial in Minkowski spacetime, and was there-fore ignored in all previous QCD applications. The scenario is analogous to that of the Gupta-Bleuler quantisation of QED [20, 21], where photons with time and longitudinal polarisations can be ignored in all S-matrix elements, because in the gauge invariant sector they always cancel each other. The ghost and its partner experience a new life in a cos-mological background, and lead to time-dependent vacuum energy in curved space QCD. They are still not physical (i.e., asymptotic) states. Nevertheless, their contribution to the vacuum energy is different from its Minkowski couterpart, and can be thought of as a time-dependent “ghost condensation”.
+Finally note that QED photons, including unphysical polarisations, may also in prin-ciple contribute to dark energy. This contribution however is very small, as it is of order of L−4 or H4 by dimensional reasons (see however the mechanism proposed in [41, 42]).
+Not only well behaving scalar fields, but also ghost fields (similar to the Veneziano ghost with a negative sign for the kinetic energy term) have been extensively discussed in order to describe dark energy [27, 28]. Unfortunately, they normally lead to more questions than answers. As is known, ghost fields (“phantom fields” in the context of cosmology) are generally pestered by severe quantum instabilities, violating unitarity and other crucial fundamental principles of QFT. Why does our system not suffer from all these severe problems? The answer lies in the existence of the φ2 field, which always pairs up with
+
+the Veneziano ghost φ1 in QCD, see eq. (3.1). These two unphysical degrees of freedom φ1 and φ2 drop out of every gauge invariant matrix element in Minkowski space, leaving the theory well defined, i.e., unitary and without negative normed physical states after the subsidiary condition (3.4) or (3.5) is imposed.
+As we argued in the previous section however, when QCD is defined on a curved background, the exact cancellation between φ1 and φ2 does not hold anymore, and these fields do contribute to the energy (3.22). However, as we claimed, the departure from Minkowski space is controlled by 1/L ~ H rather than by the expected QCD scale ΛQCD. This stems from the exact cancellation between φ1 and φ2 that takes place in Minkowski spacetime.
+In particular, the constraint on the ghost maximal energy (kmax . 20 MeV) derived
+in [43] is obviously satisfied. Indeed, as we have already elaborated on previously, the energy which can be associated with the ghost in the expanding universe is only ωk ≃ k ≃ H. Therefore, since H ~ 10−33eV ≪ kmax, we clearly meet the limit of [43] on possible dynamical violations of unitarity. Let us mention once more that this very low cutoff comes about because of the subsidiary condition (3.4) (or, equivalently, (3.5)) on the physical Hilbert space, and hence, it is a result of the dynamics of the ghost in curved space, rather than an ad hoc requirement on the form of the ghost’s interactions.
+Last, but not least, the same feature of the spectrum discussed above allows us to name this extra ghost dipole contribution (3.22) dark energy; indeed, since the typical wavelengths λk associated with this energy density are of the order of the Hubble parameter, λk ~ 1/k ~ 1/H ~ 10 Gyr, the corresponding excitations are not going to produce any clustering on scales smaller than this, as opposed to visible or dark matter.
+
+Conclusion
+Dark energy has provided formidable headaches to physicists for over a decade. In trying to understand the physical principles and mechanisms, sapiently hidden by Nature, that are responsible for it, the physics community has produced a mole of models that is quickly climbing up to 4000 arXiv papers. On the experimental side, a great deal of efforts is being devoted in planning, projecting and performing tests which will help theorists pierce the veil of Maya of dark energy.
+In our previous paper [1] we have claimed that 4d QCD, once formulated on a com-pact manifold, will exhibit a very peculiar feature, that is, the vacuum state will depend linearly on the inverse characteristic size L of the manifold. This finding was supported by an explicit calculation in the context of the 2d Schwinger model [6], where the linear dependence can be tracked analytically all the way to the final result. The non-vanishing result (1.1) can be understood as a Casimir-type of vacuum energy when the boundary conditions and topology play a key roˆle.
+The essential reason for this unexpected behaviour is to be traced back to the existence of a very special degree of freedom, the Kogut-Susskind ghost in 2d and the Veneziano ghost in 4d, which, despite being unphysical, are able to carry the information about the bound-aries of spacetime due to its protected masslessness. Once the existence and the form of the
+
+QCD ghost’s potential vacuum energy is established to be (1.1), the next logical step is to promote the background to a general curved background, in our case a FLRW spacetime, and study the dynamics of the system which is precisely the goal of the present work. The main achievements of these studies are listed below.
+
+1. The Veneziano ghost φ1 is always accompanied by its partner φ2. These two un-physical degrees of freedom φ1 and φ2 drop out of every gauge invariant matrix element in Minkowski space, leaving the theory well defined, i.e., unitary and without negative normed physical states after the subsidiary condition (3.4) or (3.5) is imposed. The only place where the Veneziano ghost manifests itself is the topological susceptibility, because the ghost’s partner φ2 does not participate in its expression. However, it is through the topological susceptibility that we know about the existence of the ghost and its properties.
+
+This simple picture drastically changes when QCD is coupled to gravity, in which case another physically observable manifestation of the ghost emerges. In this case the “would be” unphysical ghost contributes a physical portion of the energy density of an expanding universe. All effects related to this contribution are proportional to the rate of expansion H such that numerically they are naturally very small, H/ΛQCD ~ 10−41. However, this “tiny” effect is precisely what accelerates our universe today. In the limit for which H → 0, which corresponds to the usual Minkowski QFT formulation, every ad-ditional contribution vanishes. We interpret this extra contribution as a time-dependent “ghost condensation” as explained at the end of section 3.2. We are not claiming that the ghost field becomes a propagating degree of freedom, or becomes an asymptotic state. Rather, we claim that our description in terms of the ghost is a convenient way to account for the physics hidden in the non-trivial boundary conditions as discussed in section 3.3. The physical phenomena (described by the Veneziano ghost in our framework) do not dis-appear when we use a different approach, for instance when the ghost is not even a part of the system, see section 3.3. However, we do not know presently how to track this physics in a ghost-free formulation. We strongly suspect that the corresponding description (if found) would be much more technically complicated in comparison with the approach presented in this work.
+
+The usual catalogue of fine tuning issues which typically pester us while tampering with dark energy does not appear here, as these questions possess simple explanations in our scenario, without the need to introduce new fields, which come with new interactions, new coupling constants, and new symmetries. The nature of this “fine tuning without fine tuning”, see section 6, is not to be sought for in supersymmetry or any other extra symmetries imposed on the system (there are in fact, none), but it comes about from the auxiliary conditions on the physical Hilbert space (3.4) which accommodate the gigantic span of scales (ΛQCD versus H0).
+
+A word on the testability of our framework. There are in fact several places where one can look for supporting or ruling out evidence for our proposal. First of all,
+
+as we have claimed in [1], the linear dependence of the vacuum energy on the inverse size of the manifold can be tested by studying the topological susceptibility of QCD on the lattice by looking for its dependence on L. Second, we have argued in [7] that the size of the manifold is not overly large, and could in principle be tested in upcoming CMB maps (PLANK). Third, since in this paper we have provided the dynamical equations that govern the evolution of the ghost, its contribution to the Hubble parameter and to the expansion of the universe in general, its equation of state w(t) and its effects on structure formation, can all be confronted with cosmological observations (such as supernovae type Ia data, CMB, the Baryonic Acoustic Oscillations, Gamma Ray Bursts, see section 5.3 for details), a feature not often found in dark energy models.
+Finally, we would like to draw attention to the fact that it is quite amazing that QCD, which na¨ıvely has no relation what so ever to the dark energy problem, may in fact be indeed the locus one should be scrutinising to uncover the dark energy secret, as we argued in this work. The emergence of the QCD scale in the vacuum energy may eventually unlock the mystery of the “cosmic coincidence” problem, that is, the observational similarity among visible and invisible scales: ΩΛ ≃ 4ΩM and ΩM ≃ 5ΩB where only ΩB (which represents the baryon contribution to Ωtot = 1) has an obvious relation to QCD, as the nucleon mass mN is proportional to ΛQCD, while “God’s particle” (the Higgs boson), contributes only few percents to mN (and correspondingly to ΩB) through the quark’s mass dependence on the Higgs vev. It is also fairly interesting that a number of dark matter puzzles (along with the dark energy mystery which is the subject of the present study), may also be related to QCD 3. The different sides of our construction allow for several types of tests to be performed, and some of them are radically new (and are entirely intertwined with the QCD nature of dark energy). Ultimately, observations will be able to pin down the winner, the model which most adherently follow the forms of nature.
+
+Acknowledgements
+The authors would like to acknowledge Doug Scott, Robert Brandenberger and Federico Piazza and the participants of the Emergent Gravity IV workshop held at UBC for stimu-lating discussions. We would like to thank Cliff Burgess who suggested that we explicitly mentioned QED in this work. Moreover, FU thanks Paul Laurain for spending an entire day explaining mathematics to a physicist. This research was supported in part by the Natural Sciences and Engineering Research Council of Canada.
+
+Numerics
+This first appendix outlines some details of the numerical calculations which produced our figures. The first quantity we want to compute is the equation of state of the vacuum
+
+3We refer to few recent papers on the subject [51, 52] and references therein, where it has been argued that dark matter, in fact, may also have QCD origin. The basic idea is that nuggets of very dense matter similar to Witten’s strangelets [53] form at the same QCD phase transition as conventional baryons (neutrons and protons), providing a natural explanation for the similarity between ΩM and ΩB [54].
+
+energy fluid. This is given by equation (5.3) in the text which, once we incorporate the effects of the unknown function f (x) becomes
+ Ω0 a−3 + Ω0 eI 1/2 — αa2f (x)
+ Ω0 a−3 + Ω0 eI 1/2 + αa2f (x)
+where, following the main text, we choose f (x) = 1 + x and where x = HL. It is not possible to solve for w(a) analytically, as it appears both on the l.h.s. and on the r.h.r. under the integral
+I ≡ —3 ∫ da 1 + w(a) .	(A.2)
+
+The easiest way to numerically overcome this problem is to assume that in the integral the equation of state is a constant, and then solve graphically for w(a). Of course the re-sulting equation of state will not be a constant, but it can be used back in the integral (A.2) which can be solved numerically and the resulting expression plugged back into (A.1) to obtain (once more, numerically) a better approximation for w(a). This is the procedure followed in obtaining the results shown in the figures in the text, figs. 1, 2, and 3.
+Practically, we have found that within two recursions we already have a reliable ap-proximation which does not change much employing further steps. The reason for this can be traced back to the fact that among the two components of energy and pressure density, that is, kinetic and potential term, at low redshift the potential term dominates (for our choice of the parameters) and the errors induced by mistaking w for constant in H mainly appear in the kinetic term. In the high z region, when the kinetic term dominates, there will be some more uncertainty, but this stabilises within a couple of steps.
+Once a plot for the equation of state has been obtained (which comes from feedbacking w into (A.1) once) we can use an interpolation of this to find the other quantities of interest, in particular the Hubble parameter and the energy density of the vacuum.
+As mentioned in the main text, since we are forced to introduce the function f (x) together with the fact that the information about the compact manifold is implicitly hidden in some of our expressions while it has been entirely discarded in others, will introduce some degree of inconsistency among different expressions for the same quantity. The clearest example of this can be immediately noticed by looking at the expression for the vacuum energy as given in equation (5.12): the potential term comes from a very specific subtraction procedure as explained in [1] and exhibits the 1/L behaviour which is one of the principal ingredients of our work. This subtraction has been defined and performed in a compact Minkowski space, and if promoted acritically to an expanding universe it would lead, in the case of a simple 3-torus with the same expansion rate in each direction, to the behaviour Vghost ∝ 1/a, which implies an equation of state w = —2/3, at least in the redshift range for which the potential energy dominates over the kinetic energy. At the same time the equation of state clearly shows that if this is the case then the equation of state approaches
+-1, in contradiction to what has been found just a few lines above.
+The resolution to this apparent paradox lies in the subtleties mentioned in the text and analysed here, that is, the expression (5.5) is based on our understanding of the ghost
+
+dynamics without gravity: it can be analytically computed in the 2d Schwinger model and hopefully it can be tested in 4d QCD using the lattice QCD computations as explained in [1, 6]. This contribution to the vacuum energy is computed using QFT techniques in a non-expanding universe. As it stands, it can not be used for studying its evolution with the expansion of the universe. In order to do so one needs to know the dynamics of the ghost field coupled to gravity on a finite manifold, which we are not able to solve for analytically, and we therefore must resort to modelling it by means of the function f (x).
+Even doing so there will still be some inconsistency due to the fact that the information about the compact manifold that shows up in the potential energy indirectly influences also the resulting kinetic energy. However in this case the effects are subtler and it is not possible to easily model them as for the potential term. Our approach in this case is to use the freedom of choosing the two parameters cφ and cg to minimise the impact of these uncertainties on the quantities of interest, which will leave us with a consistent representative theory. This theory is not unique and may well not be able to fully reproduce the observational data, see the discussion in the main body of the paper.
+Thus, the operational criterion for the choice of the constants (5.8) is that the energy density of the vacuum computed using the effective equation of state or using directly the solutions for the equations of motion (formulas (5.11) and (5.12), respectively) must be
+the same within 15%. If one fixes the energy density of the vacuum today to Ω0 = 0.73
+without errors, this automatically fixes one parameter in terms of the other as
+ρ0 — α1
+
+α2 =
+
+which in turn gives cg in terms of cφ.
+Λ
+f (1)
+,	(A.3)
+
+This criterion led to the choice (5.8), and will be different for a different choice of the unknown f (x). In figure 4 one can see how by moving away from the choice values the two expressions (5.11) and (5.12) progressively drift farer apart. Allowing for an error in the determination of the vacuum energy density today would open up some more parameter space where the criterion formulated above would be satisfied. Finally, notice that the resulting cg is slightly different than the one inferred in our paper [7] but only marginally (cg ≈ 0.059 in that paper, whereas cg ≈ 0.051 here), since at zero redshift most of the vacuum energy density is in fact stored in the potential energy, fact that confirms the validity of the hypothesis made (and the results thereby obtained) in that work.
+
+Compact universes
+The idea of a compact universe has surfaced in several places throughout the paper. It is only thanks to the embedding of the spatial hypersurfaces in a compact 3d manifold that we expect to observe a linear departure from the usual vacuum contributions in the form of H2 or H4. Moreover, although in a much more subtle way, the linear dependence of the potential energy as in (5.5) or (5.7) on the characteristic size of the compactified manifold also affects the solutions for the differential equations and therefore the kinetic piece (4.16) of the total energy density of the Veneziano ghost.
+
+
+
+0.2
+
+
+
+0.1
+
+
+
+0.0
+
+
+
+–0.1
+
+
+
+–0.2
+0.3	0.4	0.5	0.6	0.7	0.8	0.9	1.0
+Scale Factor / Inverse Redshift
+
+Figure 4: Difference in percent between the two parametrisations of the vacuum energy density for different values of cφ as a function of the scale factor. As usual, the upper x-axis is the actual redshift.
+
+
+In the main body of the paper we have been rather generic in discussing this embedding in a compact manifold, the reason for this being the fact that in this way we could obtain interesting, self-consistent results with the minimal amount of free parameters (in fact, only one, cφ). Consequently, taking into account the more general case of an anisotropic homogeneous expanding compact manifold would only enlarge the space of possibilities, however at the expense of clarity. Yet one more motivation for not carrying out the calculations in the most general set up is given by the acknowledgement that the most paramount quantity in our work, the value of the chiral condensate in a given background, is not known (and discouragingly hard to calculate), thereby eluding a completely closed analysis.
+For the sake of completeness, we will

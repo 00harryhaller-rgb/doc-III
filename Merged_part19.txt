@@ -1,0 +1,1695 @@
+since the earlier 2013 result (LUX Collaboration, Akerib et al., 2017).
+After this recent negative result of the LUX two year run, the focus is now on the large Xenon1T experiment currently started in Italy at the underground Gran Sasso laboratory. It is
+
+now the largest most sensitive search for WIMPs, and uses ten times as much xenon as the LUX experiment. It houses a cylindrical vessel of 3500 kilogram (three and a half tons) of liquid Xenon located 1400 metres underground (XENON Collaboration, Aprile et al., 2015).
+In principle it should detect 300 events per year, with its large mass of liquid Xenon detector. The experiment is planned for two years and detection of even ten particles that match (or appear to match) the predicted property of the expected DM is considered enough to claim a discovery.
+Indirect Detection Experiments
+Indirect detection experiments search for the products of WIMP annihilation or decay. A WIMPs could annihilate with another (if these particles are their own antiparticle) to produce gamma rays or other particle-antiparticle pairs that can be detected. Additionally, if these particles are unstable, they could decay into standard model particles (Choi, Kyae and Shin, 2014). These processes could be detected indirectly through an excess of gamma rays, antiprotons or positrons emanating from regions of high dark matter density.
+The Fermi Gamma-ray Space Telescope, launched 11 June 2008, is searching for gamma rays from dark matter annihilation and decay (Carson, 2007). A few of the WIMPs passing through the Sun or Earth may scatter off atoms and lose energy. This way a large population of WIMPs may accumulate at the centre of these bodies, increasing the chance that two will collide and annihilate. This could produce a distinctive signal in the form of high-energy neutrinos originating from the centre of the Sun or Earth.
+The Fermi-Large Angle Telescope (Fermi-LAT) probes photons of the highest energies. At such energy scales, these particles may exhibit signatures of the new physics, which deviate significantly from the Standard Model. In some of these models, the dark matter particle may self-annihilate or decay into standard model particles, including photons with energies as large as the dark matter particle rest mass. The detection of secondary gamma-rays from these processes with the Fermi-Large Angle Telescope (LAT) could provide compelling evidence for the dark matter particle.
+Dwarf spheroidal galaxies can represent a very clean system to search for dark matter annihilation. Currently, there are roughly 25 known dwarf satellite galaxies to the Milky Way, and both ground-based instruments such as high-energy stereoscopic system (H.E.S.S.), major atmospheric gamma-ray imaging Cherenkov (MAGIC), and very energetic radiation imaging
+
+telescope array system (VERITAS), the Fermi-LAT, and the future CTA are actively observing these objects (Funk, 2015).
+It is generally considered that the detection of such a signal would be the strongest indirect proof of WIMP dark matter. High-energy neutrino telescopes such as AMANDA (Antarctic Muon And Neutrino Detector Array), IceCube (Abbasi et al., 2009) and ANTARES (Astronomy with a Neutrino Telescope and Abyss environmental RESearch project) (Adrián-Martínez et al., 2014) are searching for this signal. Gamma rays from galaxy centre (due to WIMP–anti-WIMP annihilation) are also being looked for by using Payload for Antimatter Matter Exploration and Light-nuclei Astrophysics (PAMELA).
+For axion detection special methods are invoked, like a microwave cavity containing a magnetic field. Axions would have been produced in the early Universe by the vacuum realignment mechanism and radiation from cosmic strings, leading to a cold dark matter component, as well as from thermal interactions, leading to a hot dark matter component.
+Axions would also emerge from the hot interiors of stars, the Sun being the most powerful ‘local’ source (Raffelt, 2008). To search for these axions, one can use magnetically
+induced  a	conversion in a dipole magnet pointing toward the Sun (‘axion helioscope’
+technique (Sikivie, 1983)).
+Solar axions are expected to be in X-ray range, through the conversion a  2 . If DM is
+dominated by axions (in the galactic halo for instance) their mass will be of the order of 105 eV (Beck, 2013).
+The Axion Dark Matter eXperiment (ADMX) uses a resonant cylindrical microwave cavity within a large superconducting magnet. If the axions turn out to have low masses, they may show up as microwaves detectable by the microwave cavity. The experiment can detect low-mass axions in the range of 1 μeV to 10 μeV (Asztalos et al., 2010).
+PVLAS ("polarization of the vacuum with laser") aims to test of QED and as a result detect these DM particles by using a high-finesse Fabry-Perot optical cavity (Zavattini et al., 2012).
+The CERN Axion Solar Telescope (CAST) is searching for axions originating from the sun. If axions exist, they may be produced in the Sun's core when X-rays scatter off electrons and protons in the presence of strong electric fields. So far, CAST has narrowed down the range
+
+where these particles may exist and has set limits on axion coupling to electrons and photons, but it has not turned up definitive evidence for solar axions (Barth et al. 2013; Arik et al. 2011).
+
+Dark Energy
+Various observations of the dynamics of the universe have implied the dominance of DE. This has led to the introduction of a repulsive gravity source to make the deceleration parameter negative (Jones and Lambourne, 2004). The dimensionless quantity, deceleration parameter q measures the cosmic acceleration of the universe’s expansion:
+
+q	 a˙˙a a˙2
+... (3.1)
+
+where ‘a’ is the scale factor of the universe.
+All postulated forms of matter yield a deceleration parameter q  0 (positive q), except
+in the case of DE. Therefore, any expanding universe is expected to have a non-increasing Hubble parameter. The observations of the CMB demonstrate that the universe is close to flat, i.e.:
+
+q	1 1  3w 2
+... (3.2)
+
+For any cosmic fluid with equation of state w greater than − 1/3, the universe is decelerating. Where, the equation of state parameter is defined by the ratio of the pressure to the
+corresponding energy density, i.e. w	P  .
+However, observations of distant supernovae (Perlmutter et al., 1999; Riess et al., 1998) indicate that q is negative, i.e. an accelerated expansion of the universe. This indicates the existence of dark energy that dominates at the current epoch. DE (negative pressure), causes repulsive gravity, and hence restricts the size of structures, which indicates that it was less dominant during structure formation. The models for DE range from a cosmological constant (lambda) term to quintessence, Chaplygin gas, etc. (Sivaram and Sinha, 1979).
+Cosmological Constant
+The cosmological constant is the energy density of vacuum, originally introduced by Einstein (1917) as an addition to his theory of general relativity to make the universe static. Einstein abandoned the concept after Hubble's discovery that all galaxies outside the Local
+
+Group are moving away from each other. Pressure due to a cosmological constant term,  is given by (which is valid for any curvature):
+
+c 4
+Pve   8G
+If just  remains constant, matter density scales as
+... (3.3)
+
+(1  Z )3 . So at Z ~ 1, matter density
+
+becomes equal to the DE density. The pressure is given by,	P	wc 2 , w	1 gives cosmological constant  .
+The dark energy density is given by,    a 3(1W ) , where,  , the initial value may be
+0
+
+c 4
+related to  as	. The general solution for a dark energy dominated universe is:
+8G
+	1   231W 
+
+at 
+a31W /2   3 1W  8G0  2 t
+... (3.4)
+
+ 0
+2		3
+
+	
+
+For w	0, we recover the matter dominated universe, 	 a 3 , and for w	1 3 , we have the
+
+
+radiation dominated universe: 
+Quintessence
+ a 4
+
+Quintessence is a model for dark energy, proposed by Peebles and Ratra (1988), as an alternative to the cosmological constant.
+It is proposed to be a fifth fundamental force. The non-zero value of 	0.7 has many
+problems, such as:
+The value of vacuum density,  vac	102 eV 4 , is unnaturally small. Even the
+electroweak or super-symmetry breaking at TeV scale gives 	 1TeV 4 , the observed value is 1054 times smaller.
+3	0
+At present m (scaling as R	) and   (scaling as R ) are of same order of
+magnitude, implying we live in a very special era.
+This model tries to address these problems (Wetterich, 2014). In this model, an inflation
+field is so tailored that, T t//	tg , t  is a function of time and the potential V   can
+be V   ~ M 4  or V  	M 4 exp M /  1, where M is a parameter. By arranging that 
+
+is a little below  at the end of inflation, it can track  and then  m (after recombination),
+such that t  ~  m . The action is given by:
+
+
+S	 d 4 x
+ g 1 
+ 2
+   V  
+
+... (3.5)
+
+The quintessence pressure and corresponding energy density are:
+
+	1    V  
+Q	2
+P	1 ˙2  V  
+/
+
+
+... (3.6)
+
+Q	2
+And the equation of state parameter is:
+
+   V  
+wQ	   V  
+... (3.7)
+
+A special case of quintessence is the k-essence, which has a non-standard form of kinetic energy (Rozas-Fernández, 2012). The kinetic variable is given by:
+
+X	1 
+2
+ 
+... (3.8)
+
+And the Lagrangian general function of the kinetic energy term is:
+
+L	 d 4 x
+ g P, X 
+... (3.9)
+
+These models claimed not to require fine tuning (Zlatev, Wang and Steinhardt, 1999). This is controversial since Kolda and Lyth (1999) claim that slow-roll inflation and quintessence require fine tuning to a level of 1 part in 1050 .
+Phantom Energy
+Phantom energy is another hypothesised form of DE, having a negative kinetic energy that increases with the expansion of the universe. Due to which it could cause the expansion of the universe to accelerate so quickly that it will lead to a ‘Big Rip’ (Caldwell, Kamionkowski and Weinberg, 2003).
+It is also possible that the equation of state parameter w  1. Data (from Planck data)
+from CMB and supernova limit the range to 1.19  w  0.95 (Ade et al., 2014; Kumar and Xu, 2014).
+A w  1, implies that DE density is growing with time. This has drastic implications for
+future evolution of the universe and stability of gravitationally bound structures. Increase in dark
+
+energy density will ultimately strip apart gravitationally bound objects and rip or disrupt all bound structures, even ultimately atoms, nuclei, etc. (Big Rip).
+In a cosmological constant Universe, the scale factor grows more rapidly than the Hubble distance and galaxies will begin to disappear beyond the horizon. With phantom energy, the expansion rate grows with time, the Hubble distance decreases, and the disappearance of galaxies is accelerated. The current data indicate that our Universe is poised near the separation between phantom energy, cosmological constant, and quintessence.
+Quintom Dark Energy
+The Quintom DE (quintessence and phantom) is another hypothetical scenario regarding
+dark energy, with a time varying equation of state parameter wz, that can cross the phantom
+divide of w	1. This parameter is given by:
+
+wDE
+w0  wz
+... (3.10)
+
+which is valid at low z; and at high z it is given by:
+
+w	w  w 1  a
+w  w	z
+
+... (3.11)
+
+
+where, a is the scale factor and w1
+DE	0	1
+ dw da
+0	1 1  z
+
+The measurement of the parameter (Serra and Dominguez Romero, 2011) indicates:
+
+w0	1.06  0.14, w1
+0.36  0.62
+... (3.12)
+
+Current observational data mildly favours  wDE  crossing the phantom divide during
+evolution. But CDM is still in great agreement with observations (Upadhye, Ishak and Steinhardt, 2005; Marciu, 2016).
+The problem is that it cannot account for why the Universe entered the cosmic super-acceleration at the present epoch. Theoretically this model is a no-go theorem. Single fluid or a scalar field cannot realise a viable Quintom model in FRW. Either a non-minimal coupling has to be introduced or extra degrees of freedom. For detailed discussion of the model see for example Cai et al. (2010) and references there-in.
+Dark Energy and Mach’s Principle
+Mach’s Principle implies that the local standards of non-acceleration are determined by some average of the motions of all the masses in the universe. As a result, it even implies interactions between inertia and electromagnetism (Rindler, 1977).
+
+In the case of gravity similar force has been proposed (Einstein-Sciama force) for mass
+m1 and m2 separated by r :
+
+F	Gm1m2  Gm1m2 a
+/	/
+
+... (3.13)
+
+
+And for large r, the 1 r
+Grav	r 2
+
+term dominates, i.e.
+rc 2
+
+
+
+
+FGrav
+ Gm1m2 a rc 2
+... (3.14)
+
+If at all gravitational forces contribute to local inertia, this term dominates. Thus for the
+
+cumulative effect of all distant masses mi
+
+FGrav
+
+
+which is summed over all the masses mi
+on the local mass m ,
+Gmi ma
+i	rc 2
+
+
+... (3.15)
+
+mi
+ dV
+Vol
+... (3.16)
+
+ is the average density of matter in the universe. From this we have:
+
+
+
+FGrav
+G 
+c 2 
+dV ma
+r
+G RH 
+
+
+4r 2drma
+
+
+... (3.17)
+
+Vol		 0	
+(The integration carried out over the Hubble volume) This gives:
+
+2GR2	2G
+F		H  ma	ma
+... (3.18)
+
+
+Where
+Grav
+
+
+
+
+
+
+2
+0
+c2
+
+
+
+	2
+	
+R
+/
+2
+0
+
+
+
+ 8GC 
+3
+
+
+
+
+... (3.19)
+
+	H 
+C is the critical density.
+Therefore we have, FGrav	0.75ma
+If the universe is vacuum dominated or dark energy dominated, the simplest case being that of a cosmological constant,  term, for which we have (Spergel et al., 2003):
+	c2	2	c 2
+
+8G ; H 0	3
+... (3.20)
+
+This gives:
+
+	2 
+2G	
+F		 8G  ma
+c 2
+/
+3
+
+
+
+0.75ma
+
+
+
+... (3.21)
+
+This indicates that gravitating vacuum energy (DE) could contribute up to 75% of the inertial mass of particles. The quantum vacuum energy density for the curved space (of constant curvature) is given by (Sivaram, 1986b; 1986c):
+
+ħc	kmax
+kmax dk
+kmax dk
+
+Vac
+	kdk  ħc2
+4	0	0
+ ħc3
+k	0 k
+ ...
+... (3.22)
+
+Since   1056 cm2 , the terms with higher powers of    are much smaller. They
+become significant only at Planck scale. Therefore we have (Sivaram, 1986a):
+
+ħc	kmax
+
+
+
+
+
+1
+ c3  2	1
+Vac
+4   kdk
+... (3.23)
+
+If kmax		
+ħG
+~	is the Planck cut off wavenumber, we have:
+L
+
+		Pl
+ħc	 c3 
+c4
+
+Vac
+	
+8	ħG
+8G
+... (3.24)
+
+Using this we have:
+
+G  ħc
+
+kmax
+RH 4r 2 dr 
+
+Which gives: F
+R 2 ma
+F	c 2  4
+  kdk
+0
+c 2 
+ 0
+ma
+
+... (3.25)
+
+This implies that R 2 ~ 1, in order that all the local inertia is accounted for by the total
+gravitational interaction energy of the background vacuum energy up to Hubble radius, and hence, we have:
+
+1   10 56 cm2
+H
+... (3.26)
+
+At a particular redshift, say  z
+significant.
+z0 , both matter and DE would have been equally
+
+	1 z 2
+	1 z 3  1 z   3
+... (3.27)
+
+That is at a redshift of ~2, which is consistent with observations as it has been observed
+that  is dominant even at about 8 billion years ago corresponding to z0  2 (Hicken et al.,
+2009). At primordial nucleosynthesis, that is at z  109 , the energy densities are given by (Kolb and Turner, 1990):
+
+  1018  , 	 1027 	,    1036 
+... (3.28)
+
+Thus at nucleosynthesis, the dark energy density was several orders lower than radiation
+energy density. So it will not affect element abundance. At recombination, that is z  103 the energy densities are given by:
+  106  , 	 109 	,   1012 	... (3.29) So  m and  R at recombination are several orders higher than  . So it will not
+much affect CMBR. Only at around z  2,  would dominate (Sivaram and de Sabbata, 1993; Sivaram and Arun, 2013).
+Sivaram and Sinha (1975; 1976) were perhaps the first to consider a time varying
+cosmological constant with  varying as 1/ R 2  with epoch. Also, a time dependent vacuum
+energy with,    t 2  was obtained from a theory of unification of gravity with other
+interactions. It was shown that the quantum vacuum energy owing to spontaneous symmetry
+breaking of a generalised gauge theory, in the early universe, varies with epoch as t 2 . An exact solution was given as (Sinha, Sivaram and Sudershan, 1976):
+
+
+/
+R	R0 cosh 2	t
+... (3.30)
+
+This paper also gives an inflationary exponential expansion driven by a large cosmological vacuum energy in the early universe.
+ t	2
+
+	     Pl  
+Present	Pl  t
+ 1056 cm2
+... (3.31)
+
+
+This is just the value deduced for the dominant dark energy density at present (Sivaram, 2009).
+Gurzadyan – Xue Dark Energy
+Gurzadyan and Xue (2003) suggests the possibility of variation of physical constants such as the speed of light and the gravitational constant, which provides a value for DE density
+
+in remarkable agreement with current cosmological observations, unlike numerous phenomenological scenarios where the corresponding value is postulated. Many recent papers (Cuesta et al., 2008) give the Gurzadyan-Xue DE formula as:
+
+	 c 4 1
+GX	8 G a 2
+... (3.32)
+
+Sivaram (1986a; 1986c) has derived the identical formula much earlier, which has a detailed derivation based on the higher curvature power expansion for the vacuum fluctuation energy. The zero point energy associated with the curving of background space can be expressed as the action by expanding the Lagrangian as a series in powers of the curvature. The vacuum energy density is given by:
+
+	1 ħcRN 2k 2
+/
+... (3.33)
+
+
+
+Where,
+
+
+R  R 2 ,
+
+
+
+
+N 2 k 2
+vac	2	0
+
+is the Plank wave number c	; so the above equation gives:
+/
+
+H	0
+
+
+
+vac
+ħG
+1 c4  1
+
+/
+2 G	2
+
+
+... (3.34)
+
+The dark energy  vac  is then given as 10 8 ergs / cm3 or 10 29 gm / cm3 , exactly what is
+now implied by the present observations.
+
+
+Dark Matter and Dark Energy
+As of today, we don't know if dark matter and dark energy are manifestations of the same dark "thing". For now, we think of them as separate entities. But the difference between the two is in the pressure exerted by them. The dark energy and cosmic repulsion is associated with negative pressure, given by:
+
+PDE
+c2
+... (4.1)
+
+Quantum vacuum energy exerts a negative pressure, contributing a cosmological constant term to gravity. But both ordinary matter (atoms, molecules, and photons) and dark matter exert positive pressure, for matter:
+
+P	v2
+nmv2
+... (4.2)
+
+v is the velocity of particles and n is the number density. And for radiation (photons):
+
+
+P
+
+Change in Equation of State
+1 c2
+3
+... (4.3)
+
+The change of behaviour of missing energy density (from dark matter to dark energy) may be determined by the change in the equation of state (EOS) of a background fluid instead of a form of potential. This avoids the fine-tuning problems which is inherent in shallow potentials, almost massless fields, radiative corrections, etc. (Bento, Bertolami and Sen, 2002).
+Chaplygin Gas
+The modification to the assumption of no interactions and particles with zero volume which forms the basis of perfect gas is given by the van der Waals equation (Van Der Waals, 1910):
+
+P	RT	 a
+V  b	V 2
+... (4.4)
+
+The constant ‘b’ and ‘a’ introduces the finite volume for the gas particles and strength of the interactions between them respectively. The general form is given by:
+
+c 2
+P	1  
+  2
+... (4.5)
+
+	1V	; 	3P  V 2 , where, V	, P	are the critical volume and pressure respectively.
+
+/
+3 crit
+crit
+crit
+crit
+crit
+
+When
+ ,
+0 , the equation reduces to the usual expression:
+P	c 2
+
+
+... (4.6)
+
+It is possible that a van der Waals type of gas could also play the role of DE (Kremer, 2007), were the interaction between DM particles can be described through a van der Waals type of gas. One can introduces a Chaplygin gas (Chaplygin, 1904), within the framework of FRW,
+with EOS given by, P	 A/  , 	1 , where, A is a positive constant.
+The density evolves with the scale factor as:
+
+	... (4.7)
+
+This gives a direct interpolation between dust dominated phase 	Br 3 and de Sitter
+(DE) phase P	 through an intermediate regime described by P	 . Effective equation of
+state for intermediate regime is given by:
+
+	A 11  	1
+B	R31 
+... (4.8)
+
+
+
+In the equation of state, for negative pressure, we have:
+  3P  0
+
+... (4.9)
+
+
+
+If  
+1 , the equation of state corresponding to that of the Chaplygin gas (Paul et al., 2010):
+ 3
+
+a	b	1
+
+... (4.10)
+
+
+
+When
+
+
+ , 
+
+0 and 
+1  a	12
+0
+1, the equation corresponds to that of the cosmological constant:
+
+P	c 2
+... (4.11)
+
+For the generalised Chaplygin gas we have:
+
+
+
+1  a 11b 
+
+
+
+a	A
+1b  ; P	
+0
+	0 a  R31b  
+... (4.12)
+
+The solution for the Chaplygin gas in the EOS gives:
+
+ t 
+A   R 3
+... (4.13)
+
+The first term corresponds to dark energy and the second term to dark matter. As the universe expands (increasing R) the first term dominates. It would be asymptotically free, i.e., interaction increases with distance, if the interaction between the dark matter particles is non-abelian, which then becomes similar to a  term, with negative pressure (Sivaram, Arun and Nagaraja, 2011b).
+Dieterici Gas
+The Dieterici equation of state is given by (Callen, 1985):
+
+P	Rg T
+	
+exp 	
+
+... (4.14)
+
+
+
+And the reduced coordinates are: VC
+
+/
+V  b
+
+2nb; TC
+
+
+a
+4Rg
+
+/
+R TV 
+
+b
+
+And in terms of the density, we have:
+
+	a	
+
+P	Rg T exp 	 
+... (4.15)
+
+
+/
+	R T	
+g
+
+Using this in the continuity equation, we have:
+
+
+
+
+Where, A
+
+
+
+Rg T ;	B
+
+
+
+a Rg T
+˙    A exp  B  R˙	0
+R
+
+... (4.16)
+
+On integration we get the solution as:
+
+
+  2 
+
+
+ 1	2	
+
+R	exp
+  exp / A
+2	2
+exp B 
+... (4.17)
+
+			
+We get a super-exponential term which could be relevant in the early universe, for an alternative inflation. As T  0 , the second term becomes significant, i.e.:
+
+
+
+The interacting term  a 2
+P	 a V 2
+... (4.18)
+
+Again if the interaction between DM particles is non-abelian this becomes similar to a 
+term, with negative pressure (Sivaram and Sinha, 1979; Perkins, 2009).
+For heavier dark matter particles a weak interaction coupling amongst the DM particles of ~10-42 (weaker than gravity) would give the right order of DE (Sivaram, 2000; Sivaram, Arun and Nagaraja, 2011b).
+We can have an acceleration equation of the expansion given by:
+
+R˙˙
+4Gm4c3 	m2	
+
+	1    DM  
+... (4.19)
+
+
+/	/
+R	3h3		2  
+where the Planck mass associated with the weak interaction between the dark matter particles is
+
+1
+ hc  2
+
+given by: mW
+		, where GW is the Fermi constant (Sivaram, Arun and Reddy, 2008;
+G
+
+	W 
+Sivaram and Arun, 2011c).
+Therefore in this case: R˙˙ is positive. Therefore the expansion of the universe was
+repulsive hence giving the dark energy scenario (Sivaram, 1988; 2005; Sivaram and de Sabbata, 1990).
+
+Long Range DM particle Interactions
+Another approach is to consider long range interaction between dark matter particles to be described by a Lennard-Jones type of potential having both repulsive and attractive interaction (Rowlinson and Widom, 1982):
+
+V	I  A
+ B 
+... (4.20)
+
+
+/	/
+ r12	r 6 
+In the case of the dark matter particles the surface tension turns out to be 1020 ergs/cm2, which corresponds to the dark energy density.
+
+GM 2
+8R 4
+Mc2
+
+/
+R 2
+ c 4
+8G
+
+
+G
+
+
+
+ 10 20
+
+
+
+ergs / cm2
+... (4.21)
+
+... (4.22)
+
+This would explain various scaling relations of large scale structures, i.e., for structures to form, the gravitational binding energy is of the order of the dark energy density, i.e. background repulsion matches inward gravitational attraction (Sivaram, 2009; Sivaram, Arun and Nagaraja, 2011b).
+Viscous Dark Matter
+Velten et al. (2013) have assumed CDM to possess a small bulk-viscous pressure that attenuates the growth of inhomogeneities. Based on Eckart’s theory of dissipative processes, it turns out that for viscous CDM the usual Newtonian approximation for perturbation scales smaller than the Hubble scale is no longer valid, instead the neo-Newtonian approach which consistently incorporates pressure effects into the fluid dynamics correctly reproduces the general relativistic dynamics.
+However, the range of validity of this result is limited only to very small values of the dark matter equation of state parameter, which corresponds to the situation where structures form. Apart from this case, Newtonian perturbation theory cannot be used to provide the correct growth of viscous CDM structures.
+
+Alternate Models to Dark Matter and Dark Energy
+As mentioned earlier, if future experiments still do not give any clue about the existence of DM, one may have to consider looking forward for alternate theories to DM. These
+
+alternatives range from modification of Newtonian dynamics and modification of Newtonian gravity to modifying the Einstein-Hilbert action. These models are still not complete and even in the modified scenarios; some amount of DM is still required to account for certain observations.
+Modification of Newtonian Dynamics and Modification of Newtonian Gravity
+The modification of Newtonian dynamics (MOND) was initially proposed as an alternative to account for the flat rotation curves of spiral galaxies, without invoking DM in the halo (Milgrom, 1983a; 1983b). The theory required an ad hoc introduction of a fundamental acceleration ~ 1010 m / s 2 .
+This model proposes that the expression for force  F	ma is not valid for small
+acceleration a  a0  (where a  ~ 10 10 ms 2 is the fundamental acceleration) which is seen at
+the outskirts of large galaxies. This gives:
+GMa 12
+
+
+
+This gives:
+a	0	... (5.1)
+r
+
+v	GMa 14
+... (5.2)
+
+This being a constant gives a flat rotation curve.
+Another possible explanation for the flat rotation curve of the spiral galaxies is to consider modifications to the Newtonian gravity (MONG) (Sivaram, 1994a). The Poisson’s equation is given by:
+
+2
+
+where  is the gravitational potential.
+4G
+... (5.3)
+
+Adding gravitational self energy term to Poisson equation gives:
+
+
+2
+4G  k 2
+... (5.4)
+
+For low	, i.e. at the galaxy outskirts
+
+ 2
+k  2 , the solution gives the gravitational
+
+potential as: 
+k'ln r
+and the force is given by:
+k ''
+F
+r
+
+
+... (5.5)
+
+Thus we get for a galaxy, v
+r
+k ''
+r
+. This implies that the velocity, v is a constant, i.e. a
+
+flat rotation curve. For Dark Energy, say constant with epoch, and cosmological constant  , we have:
+
+ 2  k  2
+c 2
+... (5.6)
+
+In case we have just the cosmological constant (lambda) the Newtonian limit is just
+ 2  c 2	0 . However it is interesting that Einstein (1917) in his original introduction of this
+
+constant got the wrong Newtonian limit of  2  
+falling off exponentially (Yukawa, 1935).
+In principle we could have both DM and DE by having:
+0 , which gives a Yukawa type potential
+
+
+
+The solution of this gives:
+ 2  k '  2  c 2	0
+
+
+ ~ ln r  k 'r 2
+... (5.7)
+
+
+... (5.8)
+
+For r  rcluster , DE dominates and for r  rcluster , DM dominates.
+Modified potentials of MONG, may encounter some problems with Tully-Fisher law, which is an empirical relation between the intrinsic luminosity of a spiral galaxy and the rotation
+velocity, L  v4 , whereas, MOND is consistent with this law (McGaugh, 2012).
+MOND claims to fit flat rotation curves of galaxies better than DM models but it fails to fit the observations of clusters of galaxies. Hot gas of clusters needs DM even with MOND and in fact observation on bullet clusters disfavours MOND (Markevitch et al., 2004).
+Also the MOND theory is an ad hoc since it introduces its only parameter, the critical
+acceleration a   10 10 m / s 2 , which is the introduced in an ad-hoc manner. Perhaps critical
+acceleration is given as a0  cH 0 and it is related to cosmological constant by a  c2
+(Sivaram, 1994a, Milgrom, 1983a).
+MOND is a modification of Newtonian mechanics rather than Newtonian gravity. The
+
+ g 
+
+10	2
+
+modification is written as a function	of
+	 , where
+ a0 
+a0  10
+m / s
+is a minimal
+
+acceleration obtained empirically. Thus the Newtonian acceleration g N
+is written as:
+
+ g  /
+
+g N		g
+ a0 
+xg
+... (5.9)
+
+For  g  a0 , we have the usual Newtonian law, where as for  1 or g  a0 , we have:
+
+
+g	a g 12
+... (5.10)
+
+A general form of
+x has been given by Bekenstein (2004) as
+
+x
+
+
+
+... (5.11)
+
+
+so that the generalised acceleration due to gravity is now:
+
+GM	Ga 12  12
+
+g		 	0	
+R2	R
+... (5.12)
+
+where, M and R are the mass and radius of any gravitating object. Thus:
+
+
+
+This can also be written as:
+g	g	 a g 12
+
+g	g N 1  
+... (5.13)
+
+
+... (5.14)
+
+
+
+
+where 
+ a0
+
+12 
+	
+	
+
+1 
+M 2 
+
+a  10 10 cm / s 2
+
+(by coincidence
+
+a0  cH 0
+
+, in Sivaram (1994a)
+
+it was noted that a  c	, where,  is the cosmological constant of dark energy).
+When  R/M 12  is small, we have the Newtonian value, and MOND is valid if
+
+ R
+
+1
+M 2  is large.
+Now for globular clusters,  M
+
+
+
+106 M	, R
+
+
+
+20 pc, 
+
+
+
+0.01 , so Newtonian law is
+
+almost valid. For giant spirals like Milky Way, M	1011 M	, R	10kpc, 	2 . So MOND
+explains flat rotation curve without dark matter. Thus the (constant) flat rotational velocity (independent of R) is:
+
+v	GMa 14 ;
+M  v4
+... (5.15)
+
+MOND has supposedly proved more successful than DM model, in explaining flat rotation curves of galaxies, but does not work for large galaxy clusters, where some DM is required anyway.
+
+The recently postulated Neptune-sized planet with an orbital period of 15,000 years around the sun could provide us with a testing ground for modification of Newtonian dynamics (Sivaram, Arun and Kiren, 2016). For the solar system the gravitational acceleration (dominated
+by the sun’s mass) drops to a0 , at a distance from the sun of r  1015 m (a few thousand AU).
+This is at about the distance Planet Nine is expected to orbit, where the gravitational interaction of Jupiter, Saturn, etc. and also the effects of the nearest stars would be far less.
+So if there are objects orbiting the sun, at a few thousand AU (or beyond), MOND would suggest that their orbital velocity tends to a constant value given as,
+
+v	GM	a 14  0.5km/ s
+... (5.16)
+
+independent of their distance from the sun. This is testable by techniques such as space Doppler.
+Tensor–Vector–Scalar Theory
+The tensor-vector-scalar (TeVeS) theory was developed by Bekenstein (2004; 2005), as a relativistic generalisation of MOND, and is derived from the action principle. In the weak-field approximation, static solution, TeVeS gives the MOND acceleration formula. This theory can account for the gravitational lensing, since it is a relativistic theory.
+MOND is not a complete theory (it violates the law of conservation of momentum), but, such conservation laws are satisfied if they are derived using the action principle. The Lagrangian for the non-relativistic limit is given by:
+a2	  2 
+
+L	   0  f  	  
+... (5.17)
+
+8G		2	
+where ρ is the mass density, a0 is a scale of acceleration.
+A relativistic MOND theory seems essential if gravitational lensing by extragalactic systems and cosmology are to be understood without reliance on DM. The Lagrangian contains,
+in addition to the Einstein–Hilbert action for the metric field g  , terms pertaining to a unit
+vector field u and two scalar fields. The action is therefore given by:
+
+
+
+
+Where, Lg
+
+
+
+		1	R 16G
+STeVeS	L
+LS
+LV
+d 4 x
+... (5.18)
+
+Even though this theory claims to explain phenomena, such as gravitational lensing, the theory is unable to account for phenomena for galactic dynamics and lensing. Also the observation of Bullet Cluster (of a pair of colliding galaxy clusters) is not compatible with any current modified gravity theories (Angus, Famaey and Zhao, 2006; Clowe et al., 2006).
+TeVeS theory has been shown to explain galaxy curves, galaxy distributions and CMBR data (Skordis et al., 2006). The central baryonic surface density appears correlated with the core radius, i.e. there is close correlation between enclosed surface densities of luminous and dark matter in galaxies (Gentile et al., 2009). As these results suggest that a single scale governs dynamics of all galaxies it is difficult to reconcile this with the picture of DM as particles.
+MOND type theories however have already a low acceleration scale a0 leading to a close
+agreement with observed luminous surface densities (Donato at al., 2009). Thus although search for DM particles (of unknown type) continues diligently, it is not clear or certain that it is the unequivocal answer to the DM problem.
+Modification of Einstein-Hilbert Action
+Another possible way in which the need for DM may be avoided can be seen from modifying the Einstein-Hilbert action. In GR, the Einstein-Hilbert action, when varied to obtain equations of motion for the space-time metric, yields the Einstein's field equations. The action
+Sg  is given by the integral of the Lagrangian. Sg  gives rise to the vacuum Einstein
+
+equations:
+
+Sg
+
+
+R
+
+
+ gd 4x
+
+
+... (5.19)
+
+Where,  g
+
+gab
+is the determinant of space-time Lorentz metric, R is the Ricci scalar,
+
+
+
+c 2
+16G
+is constant, the Lagrangian is
+R
+, and the integration is done over a region of
+
+space-time.
+The Lagrangian need not necessarily be of the form
+
+
+R
+
+
+. Instead the Lagrangian
+
+could be a function of the Ricci scalar, with the form given by:
+f R
+. This yields a field equation
+
+f RR
+ 1 g
+f R
+8G T
+
+... (5.20)
+
+
+where
+
+f R can have the form given by:
+/
+	2	
+/
+c4	
+
+f R		R			R
+... (5.21)
+
+1  R
+
+
+max 
+1  L2 R
+
+where L2	1	gives the maximal curvature. The field equation is then obtained as:
+
+Pl	R
+
+max
+
+R	 1 g	R
+
+
+8G T
+
+
+... (5.22)
+
+
+/	/
+	2  	c4	
+The motivation for choosing the form as given above is by analogy with the Born-Infeld modification of Maxwell’s electrodynamics. Born and Infeld, tried to avoid the self energy divergence of a point charge in classical electrodynamics by incorporating (introducing) a
+maximal field strength Emax and modifying the classical electrodynamic action as:
+
+E 2	
+ F  F  2 
+
+	  max 1 
+1   	 
+... (5.23)
+
+E	4 
+
+ 2E
+
+max   
+
+In the limit of fields
+
+E  E
+
+
+
+max
+
+, it reduces to the usual
+1
+
+/
+16
+
+F
+
+F  .
+
+The self energy calculated with the modified theory gives a finite value for the self
+
+energy and a minimal length scale as
+
+2
+m in
+
+e/Emax
+, e being the electron charge. Here the
+
+curvature is the equivalent to the field strength, and so the maximal curvature
+
+Rmax
+2	plays
+
+the role of Emax in the Born-Infeld theory. Using this we get the field equation as:
+
+
+R
+	2R
+8G T
+
+... (5.24)
+
+1  L2 R2	1  L2 R	c4	
+On rearranging the terms we get:
+
+
+R	 2R
+1 L2 R
+8G T
+1 L2 R2
+
+... (5.25)
+
+		Pl
+c4		Pl
+
+As R  Rmax; Rmax  1/ L2 . Then the above equation becomes R	0 . This shows the non
+existence of singular states.
+In the context of accounting for DE we consider a cosmic background with a minimal curvature by accordingly modifying the Einstein action. Analogous to the above case, for
+minimum curvature Rmin , GR can be modified as:
+
+f (R)
+
+
+If R  Rmin , it reduces to the usual GR.
+R
+
+/
+1  Rmin	
+	
+... (5.26)
+
+
+In the expansion, i.e.
+
+f (R)
+
+R  a ' R
+
+
+
+min
+
+R 2
+ b   min   ... , the first term represents GR, the
+R
+
+second term is a background minimal curvature, equivalent to  , which shows the presence of
+
+DE. The higher order terms involving
+
+2
+m in
+are too small to significantly contribute to the local
+
+behaviour, so with the first two terms it may be difficult to distinguish this theory from GR with a cosmological constant.
+There are 1 R theories that have been suggested, which do not require DE but have
+accelerating universe. These alternative gravity theories that do not require some unknown DE or DM should satisfy all tests of GR as well as match with observations. There are problems with galaxy formation in MOND (Sivaram 1994a). These theories also have severe constraints from CMB anisotropy and lensing. So far there are no complete theories, although string theory could give scalar tensor theories in low energy limit.
+In general, these models are equivalent to GR plus massive scalar fields. Solar System tests for relativistic theories of gravity include gravitational redshift, deflection of light by the Sun, and planetary orbit precession at perihelion and GR is consistent with these experimental tests. Any correction to the Newtonian potential has to satisfy the constraints on equivalence principle and solar system observations.
+Also,  the  new  gravitationally-induced  interactions  lead  to  observable  effects  at
+microscopic and macroscopic scales. These facts make very unlikely the viability of	f R
+models in accounting for the change in the late cosmic evolution (Olmo, 2007), apart from
+difficulties with equivalence principle, as  f R theories are necessarily equivalent to scalar-
+tensor theories (Sivaram and Campanelli, 1992a; 1992b).
+Gravitational wave astronomy, starting with the event GW150914 (LIGO Scientific Collaboration and Virgo Collaboration, Abbott et al., 2016), could be fundamental for discriminating various theories of gravity. With improved sensitivity and advanced detection of gravitational waves, then the accurate angle- and frequency-dependent response functions of
+
+interferometers for gravitational waves arising from various theories of gravity, i.e. general relativity and extended theories of gravity will be the definitive test for general relativity, and help in discriminating among various gravity theories (Corda, 2009).
+Can MOND be differentiated from Newtonian DM Theory?
+As seen above, two poplar theoretical concepts to resolve the apparent inconsistency of Newtonian dynamics over galactic scales and beyond is assumption of ubiquitous presence of DM and secondly the assumption that Newtonian gravitational law or dynamics requires modification.
+Dunkel (2004) argues that for a system satisfying a fixed relationship between gravitational fields caused by DM and visible matter, a generalised MOND equation reducing to the usual MOND law can be formulated. Thus MOND is interpreted as a special case of DM
+theory.
+Briefly both gravitational potentials v x, d x due to visible and DM satisfying
+Poisson equations, 2 v, d 	4G v, d , for both visible and DM leading to the equations of motion:
+
+m˙x˙
+m[v x  d x]
+... (5.27)
+
+Defining the accelerations gv, d x	v, d x , this is written as, ˙x˙	gv gd 	g , and if
+further assumed that these acceleration vectors point in the same direction:
+	 gd 
+
+˙x˙
+1  gv gv
+... (5.28)
+
+
+With gv
+
+g  gd
+
+ 0 , we have:
+
+
+
+
+
+˙x˙
+	
+
+
+
+	1
+1  g
+
+
+
+
+
+gv
+
+
+
+
+... (5.29)
+
+	 1
+	d	
+
+g	     g
+ g,  x
+ gx
+
+ 1  0
+
+... (5.30)
+
+v	   1
+g x
+
+		d
+So we have a generalisation of the MOND equation,
+ g 
+
+gv		g
+ a0 
+... (5.31)
+
+Here, instead of the constant a0 of MOND, we have the acceleration field ax defined as,
+
+ x
+ gx ax
+ gx  1 gd x
+
+... (5.32)
+
+
+
+1
+
+/
+ax
+1	
+gd x
+1
+
+/
+gx,
+gx
+gv x  gd
+x
+... (5.33)
+
+MOND is the special case where ax	a0 , which implies a fixed relation between acceleration
+fields due to visible and DM. It can be seen from the above relation that for a0 to be small,
+galaxies satisfying MOND limit are DM dominated. (Again  r   0 , as g r   gd r , i.e. DM dominated, the Tully-Fisher law also follows.)
+
+Current	DM	models	cannot	explain	in	which	cases
+gv  gd
+and
+
+
+a  0  
+
+lim
+
+/
+r  
+ar  , are satisfied and so modifications even of conventional DM theory
+
+
+are required.
+Milgrom’s MOND is equivalent to having an additional potential d (generated by DM)
+to the usual Newtonian dynamics. Again in the case of galaxy clusters, the X-ray emissions require substantial hot gas which has to be gravitationally supported by DM and cannot be satisfactorily explained by MOND. So presence of at least some DM is required.
+Dark Energy and Modified Gravity
+Strong observational evidence that the universe is accelerating has again led to the standard explanation involving an unknown dark energy component. Theoretical problems with such scenarios (like fine tuning, presence of a  term with just such a value at present epoch etc.) have also led to suggestions that GR be modified in such a way that leads to observed accelerated expansion. Can the two alternative scenarios be observationally distinguished?
+Kunz and Sapone (2007) have shown that a generalised DE model can for instance match the growth rate in the DGP (Dvali-Gabadadze-Porrati) model and reproduce the 3+1 dimensional metric perturbations. Cosmological observations cannot distinguish the two cases.
+In DGP model (Dvali, Gabadadze and Porrati, 2000), a popular model as an alternative to DE, in which gravity leaks off a 4D Minkowski-brane into 5D space-time. On small scales gravity is bound to the 4D brane giving Newtonian gravity. The Hubble expansion evolves as:
+
+H 2  H
+RC
+8G 
+3	m
+... (5.34)
+
+RC  crossover scale separates 5D and 4D regimes. This scale ~ 1/ H 0 , and generates late time
+acceleration.
+Comparing this to usual Friedmann equation with additional DE component, the crossover term can be shifted to the RHS and be thought of as a DE contribution:
+
+ DE
+3H
+8GRC
+... (5.35)
+
+This gives rise to the effective DE equation of state:
+
+
+1  wDE
+  H˙
+3H 2
+
+... (5.36)
+
+Thus impossible to rule out DE based on measurements of expansion history of the universe like in the SN-Ia data. Present observations show that even growth rate of structures cannot differentiate between the alternatives. Again construction of a matching DE model for DGP case is very fine tuned.
+Ironically as current observations seem to indicate wDE  1 (a  term) it is rather the
+modified GR models (with all their fine tuning problems) that are likely to be ruled out.
+
+
+Summary and Outlook
+In this review, we have given an overview of the current understanding of Dark Matter and Dark Energy, along with the possible alternative theories. The only observational evidence we have so far is that we require some amount of DM to account for certain observations, but we do not yet understand the nature of these particles. The proposed candidates range from WIMPS and Axions to exotic particles. This review covers the entire spectrum of these DM candidates highlighting the different detection techniques.
+The question of DE is also far from resolved. The possible models include cosmological constant, quintessence, phantom energy, etc. The current observations is consistent with a cosmological constant playing the role of repulsive gravity. But the models do not predict why DE constitutes close to 70% of the universe’s energy density. And present observations show that even growth rate of structures cannot differentiate between the alternatives.
+
+We also consider another class of theories that attempts to unify DM and DE as a single phenomenon where the change of behaviour of missing energy density, from DM to DE may be determined by the change in EOS of a background fluid instead of a form of potential.
+In the absence of any positive detection of DM in recent experiments, we may also have to start looking at the alternatives seriously. Here we included the various alternatives that are in vogue currently and look at the advantages and drawbacks compared to the DM models. There are many detectors and ingenious experiments ongoing to detect these elusive particles.
+The next few years are sure to see a lot of excitement in these areas. It looks to be a very promising and challenging times ahead; is it going to be dark matter or one of the alternatives, or something entirely new.
+
+References
+Abbasi, R. et al., First Neutrino Point-Source Results From the 22-String IceCube Detector, Astrophys. J. Lett., 701, L47, 2009
+Abe, N., Moroi, T. and Yamaguchi, M., Anomaly-Mediated Supersymmetry Breaking with Axion, J. High Energy Phys., 0201, 010, 2002
+Ade, P. A. R. et al., Planck 2013 results. XVI. Cosmological parameters, Astron. Astrophys., 571, A1, 2014
+Adler, S. L., Solar System Dark Matter, Phys. Lett. B, 671, 203, 2009
+Adrián-Martínez, S. et al., Searches for Point-like and extended neutrino sources close to the Galactic Centre using the ANTARES neutrino Telescope, Astrophys. J. Lett., 786, L5, 2014
+Agnese, R. et al., New Results from the Search for Low-Mass Weakly Interacting Massive Particles with the CDMS Low Ionization Threshold Experiment, Phys. Rev. Lett., 116, 071301, 2016
+Angus, G. W., Famaey, B. and Zhao, H., Can MOND take a bullet? Analytical comparisons of three versions of MOND beyond spherical symmetry, Mon. Not. R. Astron. Soc., 371, 138, 2006
+Arik, M. et al., Search for Sub-eV Mass Solar Axions by the CERN Axion Solar Telescope with 3He Buffer Gas, Phys. Rev. Lett. 107, 261302, 2011
+Asztalos, S. J. et al., SQUID-Based Microwave Cavity Search for Dark-Matter Axions, Phys. Rev. Lett., 104, 041301, 2010
+
+ATLAS Collaboration, Aad, G. et al., The ATLAS Experiment at the CERN Large Hadron Collider, J. Instrum., 3, S08003, 2008
+Bahcall, J., Neutrino Astrophysics, Cambridge University Press: Cambridge, 1989
+Baltz, E. A. and Bergstrom, L., Detection of Leptonic Dark Matter, Phys. Rev. D, 67, 043516, 2003
+Barth, K. et al., CAST constraints on the axion-electron coupling, J. Cosmol. Astropart. Phys., 1305, 010, 2013
+Batygin, K. and Brown, M. E., Evidence for a Distant Giant Planet in the Solar System, Astron. J., 151, 22, 2016
+Beasley, M. A. et al., An overmassive Dark Halo around an Ultra-diffuse Galaxy in the Virgo Cluster, Astrophys. J., 819, L20, 2016
+Beck, C., Possible Resonance Effect of Axionic Dark Matter in Josephson Junctions, Phys. Rev. Lett. 111, 231801, 2013
+Bekenstein, J. D., Relativistic gravitation theory for the MOND paradigm, Phys. Rev. D, 70, 083509, 2004
+Bekenstein, J. D., Erratum: Relativistic gravitation theory for the modified Newtonian dynamics paradigm, Phys. Rev. D, 71, 069901, 2005
+Bell, E. F. and de Jong, R. S., Stellar Mass-to-Light Ratios and the Tully-Fisher Relation, Astrophys. J., 550, 212, 2001
+Bento, M. C., Bertolami, O. and Sen, A. A., Generalized Chaplygin Gas, Accelerated Expansion and Dark Energy-Matter Unification, Phys. Rev. D, 66, 043507, 2002
+Beringer, J. et al., Review of Particle Physics, Phys. Rev. D, 86, 010001, 2012
+Bertone, G., Hooper, D. and Silk, J., Particle Dark Matter: Evidence, Candidates and Constraints, Phys. Rep., 405, 279, 2005
+Bertone, G., Merritt, D., Dark Matter Dynamics and Indirect Detection, Mod. Phys. Lett. A, 20, 1021, 2005
+Boehm, C. et al., MeV Dark Matter: Has It Been Detected?, Phys. Rev. Lett., 92, 101301, 2004
+Boyarsky, A. et al., Unidentified Line in X-Ray Spectra of the Andromeda Galaxy and Perseus Galaxy Cluster, Phys. Rev. Lett., 113, 251301, 2014
+
+Bulbul, E. et al., Detection of an Unidentified Emission Line in the Stacked X-Ray Spectrum of Galaxy Clusters, Astrophys. J., 789, 13, 2014
+Byrne, M., Kolda, C. and Regan, P., Bounds on charged, stable superpartners from cosmic ray production, Phys. Rev. D, 66, 075007, 2002
+Cai, Y-F. et al., Quintom Cosmology: Theoretical implications and observations, Phys. Rept., 493, 1, 2010
+Caldwell, R. R., Kamionkowski, M. and Weinberg, N. N., Phantom Energy and Cosmic Doomsday, Phys. Rev. Lett., 91, 071301, 2003
+Callen, H. B., Thermodynamics and an Introduction to Thermostatistics, John Wiley and Sons: New York, 1985
+Carr, B., Kühnel, F. and Sandstad, M., Primordial black holes as dark matter, Phys. Rev. D, 94, 083504, 2016
+Carson, J., GLAST: physics goals and instrument status, J. Phys. Conf. Ser., 60, 115, 2007
+Casse, M. et al., Gamma Rays from the Galactic Bulge and Large Extra Dimensions, Phys. Rev. Lett., 92, 111102, 2004
+Chaplygin, S., Sci. Mem. Moscow Univ. Maths. Phys., 21, 1, 1904
+Cheng, D., Chu, M.-C. and Tang, J., Cosmological structure formation in Decaying Dark Matter models, J. Cosmol. Astropart. Phys., 07, 009, 2015
+Choi, K.-Y., Kyae, B. and Shin, C. S., Decaying WIMP dark matter for AMS-02 cosmic positron excess, Phys. Rev. D, 89, 055002, 2014
+Clarke, J. D. and Foot, R., Mirror dark matter will be confirmed or excluded by XENON1T, Phys. Lett. B, 766, 29, 2017
+Clarke, T. E. et al., Soft X-Ray Absorption Due to a Foreground Edge-on Spiral Galaxy toward the Core of A2029, Astrophys. J., 601, 798, 2004
+Clowe, D. et al., A direct empirical proof of the existence of dark matter, Astrophys. J. Lett., 648, L109, 2006
+CMS Collaboration, S. Chatrchyan et al., The CMS experiment at the CERN LHC, J. Instrum., 3, S08004, 2008
+Corda, C., Interferometric detection of gravitational waves: the definitive test for General Relativity, Int. J. Mod. Phys. D, 18, 2275, 2009
+
+Cuesta, H. J. M. et al., Hubble diagram of gamma-ray bursts calibrated with Gurzadyan-Xue cosmology, Astron. Astrophys., 487, 47, 2008
+Davis, M. et al., The evolution of large-scale structure in a universe dominated by cold dark matter, Astrophys. J., 292, 371, 1985
+Di Valentino, E. et al., Cosmological axion and neutrino mass constraints from Planck 2015 temperature and polarization data, Phys. Lett. B, 752, 182, 2015
+Diemand, J. et al., Clumps and streams in the local dark matter distribution, Nature, 454, 735, 2008
+Dietrich, J. P. et al., A filament of dark matter between two clusters of galaxies, Nature, 487, 202, 2012
+Donato, F. et al., A constant dark matter halo surface density in galaxies, Mon. Not. R. Astron. Soc., 397, 1169, 2009
+Drexler, J., Our Universe via Drexler Dark Matter, Universal Publishers: Florida, 2009
+Dunkel, J., On the relationship between MOND and DM, Astrophys. J., 604, L37, 2004
+Dvali, G., Gabadadze, G. and Porrati, M., Metastable Gravitons and Infinite Volume Extra Dimensions, Phys. Lett. B, 484, 112, 2000
+Einstein, A., Prussian Academy of Sciences, part 1, 142, 1917
+Ellis, J. et al., Supersymmetric Relics from the Big Bang, Nucl. Phys. B, 238, 453, 1984
+Fahr, H. J., The Maxwellian alternative to the dark matter problem in galaxies, Astron. Astrophys., 236, 88, 1990
+Feng, J. L., Dark Matter Candidates from Particle Physics and Methods of Detection, Ann. Rev. Astron. Astrophys., 48, 495, 2010
+Feng, J. L., Rajaraman, A. and Takayama, F., Superweakly Interacting Massive Particles, Phys. Rev. Lett., 91, 011302, 2003
+Ferrari, C. et al., Observations of Extended Radio Emission in Clusters, Space Sci. Rev., 134, 93, 2008
+Foot, R., Mirror dark matter, Int. J. Mod. Phys. A, 19, 3807, 2004
+Frere, J.-M., Ling, F.-S. and Vertongen, G., Bound on the dark matter density in the Solar System from planetary motions, Phys. Rev. D, 77, 083005, 2008
+
+Funk, S., Indirect detection of dark matter with γ rays, Proc. Natl. Acad. Sci. USA, 112, 12264, 2015
+Gao, L. et al., Early structure in ΛCDM, Mon. Not. R. Astron. Soc., 363, 379, 2005
+Gelmini, G. B., DAMA detection claim is still compatible with all other DM searches, J. Phys. Conf. Ser., 39, 166, 2006
+Gentile, G. et al., Universality of galactic surface densities within one dark halo scale-length, Nature, 461, 627, 2009
+Gurzadyan, V. G. and Xue, S.-S., On the Estimation of the Current Value of the Cosmological Constant, Mod. Phys. Lett., A18, 561, 2003
+Hartle, J. B., in Magic Without Magic: John Archibald Wheeler, ed. Klauder, J. R., W. H. Freeman: San Francisco, 1972
+Hicken, M. et al., Improved Dark Energy Constraints from ~100 New CfA Supernova Type Ia Light Curves, Astrophys. J., 700, 1097, 2009
+Hinshaw, G. et al., Nine-year Wilkinson Microwave Anisotropy	Probe (WMAP) Observations: Cosmological Parameter Results, Astrophys. J. Suppl. Ser. 208, 19, 2013
+Hoh, S. Y., Komaragiri1, J. R. and Wan Abdullah, W. A. T., Dark matter searches at the large hadron collider, AIP Conference Proceedings, 1704, 020005, 2016
+Hsu, J-P. and Fine, D., 100 Years of Gravity and Accelerated Frames: The Deepest Insights of Einstein and Yang-Mills, World Scientific, 2005
+Huang, X-J., Zhang, W-H. and Zhou, Y-F., A 750 GeV dark matter messenger at the Galactic Centre, Phys. Rev. D, 93, 115006, 2016
+Iorio, L., Solar system planetary orbital motions and dark matter, J. Cosmol. Astropart. Phys., 0605, 002, 2006
+Ivanenko, D. and Tamm, I., Interaction of neutrons and protons, Nature, 133, 981, 1934
+Jeans, J. H., The Stability of a Spherical Nebula, Philos. Trans. R. Soc. A, 199, 1, 1902
+Jones, M. and Lambourne, R., An Introduction to Galaxies and Cosmology, Cambridge University Press: Cambridge, 2004
+Jungman, G., Kamionkowski, M. and Griest, K., Supersymmetric Dark Matter, Phys. Rep., 267, 195, 1996
+
+Khriplovich, I. B., Density of dark matter in Solar system and perihelion precession of planets, Int. J. Mod. Phys. D, 16, 1475, 2007
+Klypin, A. et al., Where Are the Missing Galactic Satellites?, Astrophys. J. 522, 82, 1999
+Kolb, E. W. and Turner, M. S., The Early Universe, Addison-Wesley: Redwood City, 1990
+Kolda, C. and Lyth, D. H., Quintessential difficulties, Phys. Lett. B, 458, 197, 1999
+Kollerstrom, N., A Neptune Discovery Chronology, University College London, 2001
+Kremer, G. M., Dark energy interacting with neutrinos and dark matter: a phenomenological theory, Gen. Relativ. Gravitation, 39, 7, 2007
+Kumar, S. and Xu, L., Observational constraints on variable equation of state parameters of dark matter and dark energy after Planck, Phys. Lett. B, 737, 244, 2014
+Kunz, M. and Sapone, D., Dark Energy versus Modified Gravity, Phys. Rev. Lett., 98, 121301, 2007
+Lee, S. K. et al., Effect of Gravitational Focusing on Annual Modulation in Dark-Matter Direct-Detection Experiments, Phys. Rev. Lett., 112, 011301, 2014
+LIGO Scientific Collaboration and Virgo Collaboration, Abbott et al., Observation of Gravitational Waves from a Binary Black Hole Merger, Phys. Rev. Lett. 116, 061102, 2016
+LUX Collaboration, Akerib, D. S. et al., Improved Limits on Scattering of Weakly Interacting Massive Particles from Reanalysis of 2013 LUX Data, Phys. Rev. Lett. 116, 161301, 2016
+LUX Collaboration, Akerib, D. S. et al., Results from a Search for Dark Matter in the Complete LUX Exposure, Phys. Rev. Lett. 118, 021303, 2017
+MACHO Collaboration, Alcock, C. et al., Microlensing Results from 5.7 Years of Large Magellanic Cloud Observations, Astrophys. J., 542, 281, 2000
+Marciu, M., Quintom dark energy with nonminimal coupling, Phys. Rev. D, 93, 123006, 2016
+Markevitch, M. et al., Direct Constraints on the Dark Matter Self-Interaction Cross Section from the Merging Galaxy Cluster 1E 0657–56, Astrophys. J., 606, 819, 2004
+McGaugh, S., The Baryonic Tully-Fisher Relation of Gas Rich Galaxies as a Test of LCDM and MOND, Astron. J., 143, 40, 2012
+
+McGuire, P. C. and Steinhardt, P. J., Cracking Open the Window for Strongly Interacting Massive Particles as the Halo Dark Matter, preprint, arXiv:astro-ph/0105567v1, 2001
+Milgrom, M., A modification of the Newtonian dynamics as a possible alternative to the hidden mass hypothesis, Astrophys. J., 270, 365, 1983a
+Milgrom, M., A modification of the Newtonian dynamics - Implications for galaxies, Astrophys. J., 270, 371, 1983b
+Moore, B. et al., Dark Matter Substructure within Galactic Halos, Astrophys. J. Lett., 524, L19, 1999
+Nierenberg, A. M. et al., The missing satellite problem in 3D, Mon. Not. R. Astron. Soc., 462, 4473, 2016
+Olmo, G. J., Violation of the Equivalence Principle in Modified Theories of Gravity, Phys. Rev. Lett., 98, 061101, 2007
+Paul, B. C. et al., Constraints on exotic matter needed for an emergent universe, Mon. Not. R. Astron. Soc., 407, 415, 2010
+Peebles, P. J. E. and Ratra, B., Cosmology with a time-variable cosmological 'constant', Astrophys. J. Lett., 325, L17, 1988
+Peebles, P. J. E. and Ratra, B., The cosmological constant and dark energy, Rev. Mod. Phys., 75, 559, 2003
+Peccei, R. D. and Quinn, H. R., CP Conservation in the Presence of Pseudoparticles, Phys. Rev. Lett., 38, 1440, 1977
+Perkins, D. H., Particle Astrophysics: Second Edition, Oxford University Press: Oxford, 2009
+Perlmutter, S. et al., Measurements of Omega and Lambda from 42 High-Redshift Supernovae, Astrophys. J., 517, 565, 1999
+Pretzl, K., Superconducting granule detectors, J. Low Temp. Phys., 93, 439, 1993
+Quigg, C., Cosmic Neutrinos, preprint, arXiv:0802.0013v2, 2008
+Raffelt, G. G., Astrophysical Axion Bounds, Vol. 741 of the series Lecture Notes in Physics
+pp. 51-71, 2008
+Redondo, J. and Ringwald, A., Light shining through walls, Contemp. Phys., 52, 211, 2011
+
+Riess, A. G. et al., Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant, Astron. J., 116, 1009, 1998
+Rindler, W., Essential Relativity, Springler-Verlag: New York, 1977
+Rowlinson, J. and Widom, B., Molecular Theory of Capillarity, Oxford University Press: Oxford, 1982
+Rozas-Fernández, A., Kinetic k-essence ghost dark energy model, Phys. Lett. B, 709, 313, 2012
+Rubin, V. C. and Ford, W. K. Jr., Rotation of the Andromeda Nebula from a Spectroscopic Survey of Emission Regions, Astrophys. J., 159, 379, 1970
+Rubin, V. C., Ford, W. K. Jr. and Thonnard, N., Rotational properties of 21 SC galaxies with a large range of luminosities and radii, from NGC 4605 /R = 4kpc/ to UGC 2885 /R = 122 kpc/, Astrophys. J., 238, 471, 1980
+Sereno, M. and Jetzer, Ph., Dark matter versus modifications of the gravitational inverse-square law: results from planetary motion in the Solar system, Mon. Not. R. Astron. Soc., 371, 626, 2006
+Serra, A. L. and Dominguez Romero, M. J. L., Measuring the dark matter equation of state, Mon. Not. R. Astron. Soc. Lett., 415, L74, 2011
+Servant, G. and Tait, T. M. P., Is the lightest Kaluza–Klein particle a viable dark matter candidate?, Nucl. Phys. B, 650, 391, 2003
+Sigurdson, K and Kamionkowski, M., Charged-Particle Decay and Suppression of Primordial Power on Small Scales, Phys. Rev. Lett., 92, 171302, 2004
+Sikivie, P., Experimental Tests of the "Invisible" Axion, Phys. Rev. Lett. 51, 1415, 1983
+Silk, J., The Big Bang: Third Edition, Henry Holt and Company: New York, 2000
+Sinha, K. P., Sivaram, C. and Sudershan, E. C. G., The superfluid vacuum state, time-varying cosmological constant, and nonsingular cosmological models, Found. Phys. Lett., 6, 717, 1976
+Sivaram, C. and Arun, K., Some more Exotic Dark Matter Candidates: GUT Balls, Fermi Balls..., preprint, arXiv:1109.5266v1, 2011a
+Sivaram, C. and Arun, K., New Class of Dark Matter Objects and their Detection, Open Astron. J., 4, 57, 2011b
+
+Sivaram, C. and Arun, K., Some enigmatic aspects of the early universe, Astrophys. Space Sci., 334, 225, 2011c
+Sivaram, C. and Arun, K., Dark energy, Inertia and Mach`s principle, Hadronic J., 36, 197, 2013
+Sivaram, C., Arun, K. and Kiren, O. V., Planet nine, dark matter and MOND, Astrophys. Space Sci., 361, 230, 2016
+Sivaram, C., Arun, K. and Nagaraja, R., A critique on Drexler dark matter, Astrophys. Space Sci., 333, 1, 2011a
+Sivaram, C., Arun, K. and Nagaraja, R., Dieterici gas as a unified model for dark matter and dark energy, Astrophys. Space Sci., 335, 599, 2011b
+Sivaram, C., Arun, K. and Reddy, V. M., Some Enigmatic Aspects of the Early Universe, preprint, arXiv:0804.2637v1, 2008
+Sivaram, C. and Campanelli, M., Some consequences of quadratic gravity for the early universe, Astrophys. Space Sci., 192, 141, 1992a
+Sivaram, C. and Campanelli, M., Nonlinear curvature Lagrangians and extended inflation in the early universe, Astrophys. Space Sci., 194, 239, 1992b
+Sivaram, C. and de Sabbata, V., in Quantum Mechanics in Curved Space-time, ed J. Audretsch and V. de Sabbata, Plenum Press: New York, p.503, 1990
+Sivaram, C. and de Sabbata, V., Universality of charge arising from torsion, Found. Phys. Lett., 6, 201, 1993
+Sivaram, C. and Sinha, K. P., A Finite Neutrino Rest Mass from General Relativity, Current Science, 43, 165, 1974
+Sivaram, C. and Sinha, K. P., Strong (f) gravity, Dirac's large numbers hypothesis and the early hadron era of the big-bang universe, JIISc, 57, 257, 1975
+Sivaram, C. and Sinha, K. P., f-gravity and Dirac's large numbers hypothesis, Phys. Lett. B, 60, 181, 1976
+Sivaram, C. and Sinha, K. P., Strong spin-two interaction and general relativity, Phy. Reports, 51, 111, 1979
+Sivaram, C., Astrophysical consequences of barytinos, Astrophys. Space Sci., 89, 421, 1983
+
+Sivaram, C., Evolution of the Universe through the Planck epoch, Astrophys. Space Sci., 125, 189, 1986a
+Sivaram, C., The Planck length as a cosmological constraint, Astrophys. Space Sci., 127, 133, 1986b
+Sivaram, C., Uncertainty principle limits on the cosmological constant, Int. J. Theo. Phys., 25, 825, 1986c
+Sivaram, C., Planetary heat flow limits on monopole and axion fluxes, Earth Moon Planets, 37, 155, 1987
+Sivaram, C., Energy enigmas in the early universe and related problems in Newtonian cosmology, Astrophy. Space Sci., 140, 403, 1988
+Sivaram, C., String tension and fundamental constants in the early universe, Astrophys. Space Sci., 167, 335, 1990
+Sivaram, C., On the Maxwellian alternative to the galactic dark matter problem, Astron. Astrophys., 275, 37, 1993
+Sivaram, C., Mond, dark matter and the cosmological constant, Astrophy. Space Sci., 219, 135, 1994a
+Sivaram, C., Fundamental interactions in the early universe, Int. J. Theor. Phys., 33, 2407, 1994b
+Sivaram, C., A non-anthropic origin for a small cosmological constant, Mod. Phys. Lett. A, 14, 2363, 1999
+Sivaram, C., Some Further Effects of Discrete Scale Transformations, Astrophy. Space Sci., 271, 321, 2000
+Sivaram, C., in 21st Century Astrophysics, eds. S. K. Saha and V. K. Rastogi (Special issue of Asian J. Phys.), Anita Publications: New Delhi, p.16, 2005
+Sivaram, C., A Brief History of Dark Energy, Astrophy. Space Sci., 319, 3, 2009
+Skordis, C. et al., Large Scale Structure in Bekenstein's theory of relativistic Modified Newtonian Dynamics, Phys. Rev. Lett., 96, 011301, 2006
+Spergel, D. N. et al., First Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Determination of Cosmological Parameters, Astro. J. Supp., 148, 175, 2003
+
+Springel, V. et al., Simulations of the formation, evolution and clustering of galaxies and quasars, Nature, 435, 629, 2005
+Stierwalt, S. et al, Direct evidence of hierarchical assembly at low masses from isolated dwarf galaxy groups, Nature Astronomy 1, 0025, 2017
+Tisserand, P. et al., Limits on the Macho Content of the Galactic Halo from the EROS-2 Survey of the Magellanic Clouds, Astron. Astrophys., 469, 387, 2007
+Trimble, V., Dark matter in the universe: where, what, and why, Contemp. Phys., 29, 373, 1988
+Trujillo, C. A. and Sheppard, S. S., A Sedna-like body with a perihelion of 80 astronomical units, Nature, 507, 471, 2014
+Tyson, J. A., Valdes, F. and Wenk, R. A., Detection of systematic gravitational lens galaxy image alignments - Mapping dark matter in galaxy clusters, Astrophys. J. Lett., 349, L1, 1990
+Undagoitia, T. M. and Rauch, L., Dark matter direct-detection experiments, J. Phys. G: Nucl. Part. Phys., 43, 013001, 2016
+Upadhye, A., Ishak, M. and Steinhardt, P. J., Dynamical dark energy: Current constraints and forecasts, Phys. Rev. D, 72, 063501, 2005
+Van Der Waals, J. D., The equation of state for gases and liquids, Nobel Lectures in Physics: 254–265, 1910
+Velten, H. et al., Viscous dark matter growth in (neo-)Newtonian cosmology, Phys. Rev. D 88, 103522, 2013
+Vikhlinin, A. et al., Chandra sample of nearby relaxed galaxy clusters: mass, gas fraction, and mass-temperature relation, Astrophys. J., 640, 691, 2006
+Wetterich, C., Modified Gravity and Coupled Quintessence, Modifications of Einstein's Theory of Gravity at Large Distances, Vol. 892 of the series Lecture Notes in Physics, pp. 57-95, 2014
+XENON Collaboration, Aprile, E. et al., Search for Event Rate Modulation in XENON100 Electronic Recoil Data, Phys. Rev. Lett., 115, 091302, 2015
+Yukawa, H., On the interaction of elementary particles, Proc. Phys. Math. Soc. Japan, 17, 48, 1935
+
+Zavattini, G. et al., Measuring the magnetic birefringence of vacuum: the PVLAS experiment, Int. J. Mod. Phys. A, 27, 1260017, 2012
+Zioutas, K. et al., What Is Dark Matter Made Of?, Science, 306, 1485, 2004
+Zlatev, I., Wang, L. and Steinhardt, P., Quintessence, Cosmic Coincidence, and the Cosmological Constant, Phys. Rev. Lett., 82, 896, 1999
+Zwicky, F., On the Masses of Nebulae and of Clusters of Nebulae, Astrophys. J., 86, 217, 1937
+
+
+
+
+
+
+
+Chapter 1
+DARK MATTER: EARLY CONSIDERATIONS
+
+Jaan Einasto
+Tartu Observatory, 61602 T˜oravere, Estonia
+
+Abstract A review of the study of dark matter is given, starting with earliest studies and finishing with the establishment of the standard Cold Dark Matter paradigm in mid 1980-s. Particular attention is given to the collision of the classical and new paradigms concerning the matter content of the Universe. Also the amount of baryonic matter, dark matter and dark energy is discussed using modern estimates.
+
+
+Keywords: Dark matter; galaxies; clusters of galaxies
+
+
+Introduction
+Dark matter in the Universe can be described as the matter which has practically zero luminosity and its presence can be detected only by its gravity. Historically,
+the first modern study of the possible presence of dark matter goes back to 1915, when O¨ pik (1915) determined the dynamical density of matter in our Galaxy in the Solar vicinity. The same problem was investigated by Oort (1932, 1960), Kuzmin
+(1952a, 1955) and more recently by Bahcall (1985) and Gilmore, Wyse & Kuijken (1989). Modern data suggest that there is little evidence for the presence of a large amount of local dark matter in the Solar vicinity. If some invisible matter is there, then it should be in the form of brown dwarfs, jupiters or similar compact baryonic objects.
+A different type of dark matter is found around galaxies and in clusters of galax-ies. The first evidence for the presence of such global dark matter was given by Zwicky (1933) from the dynamics of galaxies in the Coma cluster. The presence of dark matter in clusters was questioned, and an alternative solution to explain large velocities of galaxies in clusters was suggested by Ambartsumian (1958) – the instability of clusters of galaxies. However, the evidence for the presence of invisible matter in systems of galaxies accumulated, first for our Local Group of galaxies (Kahn &Woltjer 1959), and thereafter for all giant galaxies (Einasto, Kaasik & Saar 1974, Ostriker, Peebles & Yahil 1974). These results were questioned by Burbidge (1975), Materne & Tammann (1976). Independent determination of rotation veloc-ities of galaxies at large galactocentric distances (Rubin, Ford & Thonnard 1978, 1980) confirmed previous results on the presence of dark halos or coronas around galaxies. The nature of dark matter around galaxies is not clear. Initially it was assumed that it consists of hot gas (Kahn & Woltjer 1959, Einasto 1974b). Mod-
+
+
+
+2
+ern data favour the hypothesis that dark matter around galaxies is non-baryonic, either neutrinos or some weakly interacting massive particles, such as axions. The neutrino-dominated dark matter is called hot, since neutrinos move with very high velocities. The other type of dark matter is called cold, as particle velocities are moderate. The cosmological model with cold dark matter (CDM) was suggested by Blumenthal et al. (1984). This model is presently accepted as the standard. With the establishment of the cold dark matter concept the early period of the study of dark matter was completed.
+Excellent reviews of the dark matter problem have been given by Faber & Gal-lagher (1979), Trimble (1987), Turner (1991) and Silk (1992), alternatives to dark matter have been discussed by Sanders (1990). In this report I describe how as-tronomers developed step-by-step the concept of dark matter. Such process is typical for the formation of a new paradigm in our understanding of the Universe. Partic-ular attention is given to the work on galactic modelling which has lead us to the understanding of the structure of stellar populations and the need for a new invisible population of dark matter in galaxies. The Power-Point version of the present report is available on the web-site of Tartu Observatory, http://www.aai.ee/∼einasto.
+Local Dark Matter
+Ernst O¨ pik started his studies, being a student of the Moscow University. One of the first problems he was curious about was the absorption of light in the Galaxy and the possible presence of absorbing (invisible) matter in it. He developed a method to determine the density of matter near the Galactic plane using vertical oscillations of stars. He concluded that there is no evidence for large amounts of invisible matter near the Galactic plane (O¨ pik 1915).
+The dynamical density of matter in the Solar vicinity was investigated again by Oort (1932), who arrived at a different answer. According to his analysis the total density exceeds the density of visible stellar populations by a factor of up to 2. This limit is often called the Oort limit. This result means that the amount of invisible matter in the Solar vicinity could be approximately equal to the amount of visible matter.
+The work on galactic mass modelling in Tartu Observatory was continued by Grig-ori Kuzmin. He developed a new method for galactic mass modelling using ellipsoids of variable density, and applied the theory to the Andromeda galaxy (Kuzmin 1943), using the recently published rotation data by Babcock (1939). Next Kuzmin turned his attention to our own Galaxy. Here the central problem was the density of matter in the Solar vicinity. The mass density can be calculated from the Poisson equation, where the dominating term is the derivative of the gravitational potential in the vertical direction. He found that this derivative can be expressed through the ratio of dispersions of velocities and coordinates in the vertical direction, C = σz/ζz; here C is called the Kuzmin constant. Kuzmin (1952a, 1955) used data on the distri-bution of A and gK stars and analysed the results obtained in earlier studies by Oort (1932) and others. He obtained a weighted mean value C = 68 km s−1 kpc−1, which leads to the density estimate ρ = 0.08 Msun pc−3, in good agreement with direct density estimates of all known stellar populations (including estimates for the mass in invisible low–mass stars and white dwarfs). Two students of Kuzmin made independent analyses, using different methods and observational data (Eelsalu 1959, J˜oeveer 1972, 1974) and confirmed Kuzmin results.
+
+
+
+
+Dark Matter	3
+
+The local density problem was studied again by Hill (1960) and Oort (1960); both obtained considerably higher local densities of matter, and argued that there exist large amounts of dark matter in the Galactic disk. More recently Bahcall (1984) constructed a new multicomponent model of the Galaxy and determined the density of matter in the Solar vicinity, in agreement with the Oort’s (1932, 1960) results. The discrepancy between various determinations of the matter density in the Solar vicinity was not solved until recently. Modern data have confirmed the results by Kuzmin and his collaborators (Gilmore, Wyse & Kuijken 1989). Thus we came to the conclusion that there is no evidence for the presence of large amounts of dark matter in the disk of the Galaxy. If there is some invisible matter near the galactic plane, then it is probably baryonic (low–mass stars or jupiters), since non-baryonic matter is dissipationless and cannot form a highly flattened population. Spherical distribution of the local dark matter (in quantities suggested by Oort and Bahcall) is excluded since in this case the total mass of the dark population would be very large and would influence also the rotational velocity.
+Clusters and Groups of Galaxies
+The mass discrepancy in clusters of galaxies was found by Zwicky (1933). He measured redshifts of galaxies in the Coma cluster and found that the total mass of the cluster calculated from the velocity dispersion using the virial theorem exceeds the sum of masses of visible galaxies more than tenfolds. He concluded that the cluster contains large amounts of invisible dark matter.
+For some reasons the work of Zwicky escaped the attention of the astronomical community. The next step in the study of mass of systems of galaxies was made by Kahn and Woltjer (1959). They paid attention to the fact that most galaxies have positive redshifts as a result of the expansion of the Universe, only the Andromeda galaxy M31 has a negative redshift of about 120 km/s. This fact can be explained, if both galaxies, M31 and our Galaxy, form a physical system. A negative radial velocity indicates that these galaxies have already passed the apogalacticon of their relative orbit and are presently approaching each other. From the approaching velocity, mutual distance and time since passing the perigalacticon (taken equal to the present age of the Universe) the authors calculated the total mass of the double system. They found that Mtot ≥ 1.8 × 1012 Msun. The conventional mass of the Galaxy and M31 is of the order of 2 × 1011 Msun, in other words, the authors found evidence for the presence of additional mass in the Local Group of galaxies. The authors suggested that the extra mass is probably in the form of hot ionised gas; most of the paper was devoted to the analysis of the physical state of the gas. Using modern data Einasto & Lynden-Bell (1982) made a new estimate of the total mass of the Local Group, the result was 4.5 ± 0.5 × 1012 Msun for present age of the Universe 14 Gyr. This estimate is in good agreement with new determinations of total masses of M31 and the Galaxy including their dark halos (see below).
+The conventional approach for the mass determination of pairs and groups of galaxies is statistical. The method is based on the virial theorem and is almost identical to the procedure used to calculate masses of clusters of galaxies. Instead of a single pair or group a synthetic group is used consisting of a number of individual pairs or groups. These determinations yield for the mass-to-luminosity (in blue light) ratio the values M/LB = 1 . . . 20 for spiral galaxy dominated pairs and M/LB =
+
+
+
+4
+5 . . . 90 for elliptical galaxy dominated pairs (Page 1960, Burbidge & Burbidge 1961, van den Bergh 1961, Karachentsev 1976, Faber & Gallagher 1979).
+The stability of clusters of galaxies was discussed in a special meeting during the IAU General Assembly (Neyman, Page & Scott 1961). Here the hypothesis of Ambartsumian on the expansion of clusters was discussed in detail. Van den Bergh (1961) drew attention to the fact that the dominating population in elliptical galaxies is the bulge consisting of old stars, indicating that cluster galaxies are old. It is very difficult to imagine how old cluster galaxies could form an instable and expanding system. These remarks did not find attention and the problem of the age and stability of clusters remained open.
+Masses of Galaxies Galactic Models
+The classical models of spiral galaxies were constructed using rotation velocities. In contrast, the models of elliptical galaxies were found from luminosity profiles and calibrated using central velocity dispersions or motions of companion galaxies. An overview of classical methods to construct models of galaxies is given by Perek (1962).
+Problems of the structure of galaxies were a major issue at the Tartu Observatory since O¨ pik’s (1922) work on the distance of the M31, where a simple hydrostatic model of this galaxy was constructed. This work was continued by Kuzmin who developed the major principles of galactic modelling, and applied these to calculate models of M31 and the Galaxy (Kuzmin 1943, 1952b, 1953, 1956a, b). These were first models with a continuous change of the spatial density (earlier sums of ellip-soids of constant density were used). However, individual populations of galaxies were not represented in these models, in contrast to the Schmidt (1956) model of the Galaxy where different populations were included with ellipsoids of constant density. The study of kinematic and physical properties of stellar populations was made independently. For a review of the early views on the structure of galactic
+populations see Oort (1958), in Tartu this problem was investigated by Rootsm¨ae (1961).
+A natural generalisation of classical and Kuzmin models was the explicit use of major stellar populations, such as the bulge, the disk, and the halo, as well as the flat population in spiral galaxies (consisting of young stars and interstellar gas). I did my PhD work on stellar kinematics in 1955 and turned thereafter my interest to galactic modelling. My goal was twofold: first, to get more accurate mass distributions in galaxies, and second, to find physical parameters of main stellar populations in both spiral and elliptical galaxies. My assumption was that similar stellar populations (say bulges) in galaxies of different morphological type should have similar physical parameters if their constituent stars have similar age and metallicity distribution. The methodical aspects of the new multicomponent models were discussed in a series of papers in Tartu Observatory Publications (in Russian with an English summary in Einasto 1969a). The spatial (or surface) density of practically all stellar populations can be expressed by a generalised exponential law (Einasto 1970b, 1974b, a similar
+
+Dark Matter	5
+expression has been used independently elsewhere)
+
+ρ(a) = ρ(0) exp "−
+ a  1/N
+ka0
+,	(1.1)
+
+
+/
+where ρ(0) = hM/(4πǫa3) is the central density, a = R2 + z2/ǫ2 is the semi-major axis of the isodensity ellipsoid, a0 is the effective (mean) radius of the population, h and k are normalising constants, M is the mass of the population, ǫ is the axial ratio of isodensity ellipsoids, and N is a structural parameter, determining the shape of the density profile. Here we assume that isodensity ellipsoids are concentric and axially symmetric with a constant axial ratio for a given population. The case N = 4 corresponds to the de Vaucouleurs (1953) density law for spheroidal populations (halo), N = 1 corresponds to the classical exponential density law, and N = 1/2 to a Gaussian density law. The practical procedure of the model construction is the following. First, using photometric data for galaxies the structural parameters N of all major stellar populations are found. Next, using colorimetric and other data mass-to-luminosity ratios of populations are derived. Thereafter a preliminary mass distribution model is found and the rotation (actually circular) velocity is calculated and compared with observations. From the difference of the calculated and observed velocity corrections to model parameters are found. Initially these corrections were found using a trial-and-error procedure, later an automatic computer program was developed by our young collaborator Urmas Haud (Einasto & Haud 1989).
+Mass-to-luminosity Ratios and Models of Physical Evolution of Stellar Populations
+The method was applied to the Andromeda galaxy (Einasto 1969b, 1970a, Einasto & Ru¨mmel 1970a), and to our Galaxy (Einasto 1970b). In the case of the Andromeda galaxy the mass distribution model found from the rotational data did not agree with the data on physical properties of populations. If we accepted the rotational velocities, based mostly on radio observations (Roberts 1966), then the mass-to-luminosity ratio, M/L, of central stellar populations became very low, of the order of 1 in Solar units. On the other hand, the spectral data (Spinrad 1966) suggested a much higher value, M/L ≈ 17.
+The next problem was to find internally constitent values of physical parameters of stellar populations of different age and composition. For this purpose I developed a model of physical evolution of stellar populations (Einasto 1971). When I started the modelling of physical evolution of galaxies I was not aware of similar work by Beatrice Tinsley (1968). When my work was almost finished I had the opportunity to read the PhD thesis by Beatrice. Both studies were rather similar, in some aspects my model was a bit more accurate (evolution was calculated as a continuous function of time whereas Beatrice found it for steps of 1 Gyr, also some initial parameters were different). Both models used the evolutionary tracks of stars of various composition (metallicity) and age, and the star formation rate by Salpeter (1955). I accepted a low–mass limit of star formation, M0 ≈ 0.03 Msun, whereas Beatrice used a much lower mass limit to get higher mass-to-luminosity ratio for elliptical galaxies. My model yields a continuous sequence of population parameters (colour, spectral energy distribution, M/L) as a function of age. The calculated parameters of stellar populations were compared with observational data by Einasto & Kaasik (1973).
+
+
+
+6
+The available data supported relatively high values (M/L ≈ 10 − 30) for old metal-rich stellar populations near centres of galaxies; moderate values (M/L ≈ 3 − 10) for disks and bulges; and low values (M/L ≈ 1−3) for metal-poor halo-type populations. Modern data yield slightly lower values, due to more accurate measurements of velocity dispersions in central regions of galaxies, and more accurate input data for models.
+These calculations suggest that the rotation data by Roberts (1966) are biased. To find the reason for this biasing, I analysed the velocity field obtained from the radio observations. My analysis suggested that low rotational velocities in the central regions are due to a low spatial resolution of the radio beam (Einasto & Ru¨mmel 1970b,c). The corrected velocity field was in agreement with a higher value of M/L in the central regions of M31, suggested by direct spectral data and models of physical evolution.
+Mass Discrepancy on the Periphery of Galaxies
+The second problem encountered in the modelling of M31 was the rotation and density distribution on the periphery. If the rotation data were taken at face value, then it was impossible to represent the rotational velocity with the sum of gravita-tional attractions by known stellar populations. The local value of M/L increases toward the periphery of M31 very rapidly if the mass distribution is calculated directly from the rotation velocity. All known old metal-poor halo-type stellar pop-ulations have a low M/L ≈ 1; in contrast, on the basis of rotation data we got M/L > 1000 on the periphery of the galaxy, near the last point with a measured rotational velocity.
+There were two possibilities to solve this controversy: to accept the presence of a new population with a very high M/L (a very uncommon property for an old stellar population), or to assume that on the periphery of galaxies there exist non-circular motions. We found that the first alternative had several serious difficulties. If the hypothetical population is of stellar origin, it must be formed much earlier than conventional populations, because all known stellar populations form a continuous sequence of kinematical and physical properties (Oort 1958, Rootsm¨ae 1961, Einasto 1974a), and there is no place where to include this new population in this sequence. Secondly, the star formation rate is proportional to the square of the local density (Schmidt 1959, Einasto 1972), thus stars of this population should have been formed during the contraction phase of the formation of the population near its central more dense regions (where the density is largest), and later expanded to the present distance. The only source of energy for expansion is the contraction of other stellar populations. The estimated total mass of the new population exceeded the summed mass of all previously known populations. Estimates of the energy needed for the expansion demonstrated that the mass of the new population is so large that even the contraction of all other stellar populations to a zero radius would not be sufficient to expand the new population to its present size. And, finally, it is known that star formation is not an efficient process (usually in a contracting gas cloud only about 1 % of the mass is converted to stars); thus we have a problem how to convert, in an early stage of the evolution of the Universe, a large fraction of primordial gas into this population of stars. Taking into account all these difficulties I accepted the second alternative – the presence on non-circular motions (Einasto 1969b), similar
+
+
+
+
+Dark Matter	7
+
+to many other astronomers (see Materne & Tammann 1976). As I soon realised, this was a wrong decision.
+Galactic Coronas
+In spring 1972 I was asked to give an invited review on Galactic models at the First European Astronomy Meeting in Athens. At this time population models of galaxies had been calculated already for 5 galaxies of the Local Group and the giant elliptical galaxy M87 in the Virgo cluster. New rotation velocities suggested the presence of almost flat rotation curves on the periphery of galaxies, thus it was increasingly difficult to accept the previous concept of large non–circular motions. On the other hand, recently finished calculations of the physical evolution of stellar populations confirmed our previous view that it is extremely difficult to accept a stellar origin of the hypothetical population. My collaborator Enn Saar suggested to abandon the idea that only stellar populations exist in galaxies, to accept an idea that there may exist a population of unknown nature and origin and to look which properties it should have using available data on known stellar populations. Quickly a second set of models for galaxies was calculated, and parameters for the new dark population were found. To avoid confusion with the conventional halo population I suggested to call the new population “corona” (Einasto 1974b). The available data were insufficient to determine the outer radii and masses of coronas. Rough estimates indicated that in some galaxies the mass and radius of the corona may exceed considerably the mass and radius of all stellar populations, taken together.
+To determine the parameters of galactic coronas more accurately distant test
+bodies are needed. After some period of thinking I realised how it is possible to check the presence of dark coronas around galaxies. If coronas are large enough, then in pairs of galaxies the companion galaxies move inside the corona, and their relative velocities can be used instead of galaxy rotation velocities to find the distribution of mass around giant galaxies. This test showed that the radii and masses of galactic coronas exceeded the radii and masses of parent galaxies by an order of magnitude! Together with A. Kaasik and E. Saar we calculated new models of galaxies including dark coronas.
+In those years Soviet astronomers had the tradition to attend Caucasus Winter Schools. Our results of galactic mass modelling were reported in a Winter School in 1972. The next School was hold near the Elbrus mountain in a winter resort, in January 1974. The bottom line of my report was: all giant galaxies have mas-sive coronas, therefore dark matter must be the dominating component in the whole universe (at least 90 % of all matter). In the Winter School prominent Soviet astrophysicists as Zeldovich, Shklovsky, Novikov and others participated. In the discussion after the talk two questions dominated: What is the physical nature of the dark matter? and What is its role in the evolution of the Universe? A detailed report of this study was sent to “Nature” (Einasto, Kaasik & Saar 1974).
+The need for massive halos had been already suggested by Ostriker and Peebles (1973) to stabilise galaxies against bar formation. Soon after our “Nature” paper Ostriker, Peebles and Yahil (1974) published similar results using similar arguments. They used the conventional term “halo” for the dark population apparently not realising that this population cannot be of stellar origin.
+
+
+
+8
+Dark Matter Conferences 1975
+The importance of dark matter for cosmological studies was evident, thus Tartu astronomers organised in January 1975 a conference in Tallinn devoted solely to dark matter. Historically this was the first conference on dark matter. This conference is not well known, so I give here the list of major talks:
+Zeldovich: “Deuterium nucleosynthesis in the hot Universe and the density of matter”;
+Einasto: “Dynamical and morphological properties of galaxy systems”; Ozernoy: “The theory of galaxy formation”;
+Zasov: “The masses of spiral galaxies”;
+Fessenko: “Difficulties of the study of dynamics of galaxy systems”; Novikov: “The physical nature of galactic coronas”;
+Saar: “Properties of stellar halos”;
+Doroshkevich: “Problems of the origin of galaxies and galaxy systems”; Komberg: “Properties of the central regions of clusters of galaxies”; Vorontsov-Velyaminov: “New data on fragmenting galaxies”.
+As we see, the emphasis of the conference was on the discussion of the physical nature of dark matter and its role in the formation of galaxies. These preliminary studies demonstrated that both suggested models for coronas had difficulties. It is very difficult to explain the physical properties of the stellar corona, also no fast-moving stars as possible candidates for stellar coronas were found.
+Stellar origin of dark matter in clusters was disussed by Napier & Guthrie (1974); they find that this is possible if the initial mass function of stars is strongly biased toward very low-mass stars. Thorstensen & Partridge (1974) discussed the sugges-tion made by Cameron & Truran (1971) that there may have been a pregalactic generation of stars (called now population III), all of them more massive than the Sun, which are now present as collapsed objects. They conclude that the total mass of this population is negligible, thus collapsed stars cannot make up the dark matter. The gaseous corona of galaxies and clusters was discussed by Field (1972), Silk (1974), Tarter & Silk (1974) and Komberg & Novikov (1975). The general conclusion from these studies is that coronas of galaxies and clusters cannot consist of neutral gas (the intergalactic hot gas would ionise the coronal gas), but a corona consisting of ionised gas would be observable. Modern data show that part of the coronal matter in groups and clusters of galaxies consists of X-ray emitting hot gas, but the
+amount of this gas is not sufficient to explain flat rotation curves of galaxies.
+The dark matter problem was discussed also during the Third European Astro-nomical Meeting in summer 1975. In contrast to the Tallinn Meeting now the major dispute was between the supporters of the dark matter concept and the older paradigm with conventional mass estimates of galaxies. The major arguments against the dark matter concept were summarised by Materne & Tammann (1976). They were as follows (see also Burbidge 1975):
+The dark halo hypothesis is based on the assumption that companions are physical; if they are not then they do not measure the mass of the main galaxy, but characterise mean random velocities of galaxies;
+Groups of galaxies are bound with conventional masses; the mean mass-to-luminosity ratios of groups are 4 and 30 for spiral and elliptical dominated groups, respectively;
+
+Dark Matter	9
+The high masses of clusters may be explained by the high masses of the dom-inant cD galaxies; in other words – there is no extra mass in clusters;
+Big Bang nucleosynthesis suggests a low-density Universe with the density parameter Ω ≈ 0.05; the smoothness of the Hubble flow also favours a low-density Universe.
+It was clear that by sole discussion only the presence and nature of dark matter cannot be solved, new data and more detailed studies were needed.
+Are Pairs of Galaxies Physical?
+In mid 1970s the main arguments for the presence of dark halos (coronas) of galaxies and clusters of galaxies were statistical. In particular, the masses of dou-ble galaxies were determined by statistical methods. If companion galaxies used in mass determination are not real physical companions but random interlopers, then the mean velocity dispersion reflects random velocities of field galaxies and no conclusions on the mass distribution around giant galaxies can been made.
+The difficulties connected with the statistical character of our arguments were discussed already during the Caucasus Winter School. Immediately after the school we started a study of properties of companion galaxies. The main question was: are companions true members of the satellite systems, which surround giant galaxies. Soon we discovered that companion galaxies are segregated morphologically: ellip-tical (non–gaseous) companions lie close to the primary galaxy whereas spiral and irregular (gaseous) companions of the same luminosity have larger distances from the primary galaxy; the distance of the segregation line from the primary galaxy depends on the luminosity of the primary galaxy (Einasto et al. 1974a). This result shows, first of all, that the companions are real members of these systems – random by-fliers cannot have such properties. Second, this result demonstrated that diffuse matter can have a certain role in the evolution of galaxy systems. The role of diffuse matter in galactic coronas was discussed in detail by Chernin, Einasto & Saar (1976). Morphological properties of companion galaxies can be explained, if we assume that at least part of the corona is gaseous. On the other hand, Komberg & Novikov (1975) demonstrated that coronas cannot be fully gaseous. Thus the nature of coro-nas remained unclear. Also we found that dynamical and morphological properties of primary galaxies are well correlated with properties of their companions (Einasto et al. 1976c). Brighter galaxies have companions which move with larger relative velocities than companions of fainter primaries. A further evidence of the large mass of the corona of our Galaxy came from the study of the dynamics of the Magellanic Stream (Einasto et al. 1976a).
+The status of the dark matter problem in galaxies was discussed during the Com-
+mission 33 Meeting of the IAU General Assembly in Grenoble, 1976. Here arguments for the presence of dark halos and its non–stellar nature were again presented by Einasto, J˜oeveer & Kaasik (1976b). But there remained two problems:
+If the massive halo (or corona) is not stellar nor gaseous, of what stuff is it made of?
+And a more general question: in Nature everything has its purpose. If 90 % of matter is dark, then this must have some purpose. What is the purpose of dark matter?
+
+
+
+10
+Additional Evidence for Dark Halos
+In mid 1970s Vera Rubin and her collaborators developed new sensitive detectors to measure rotation curves of galaxies at very large galactocentric distances. Their results suggested that practically all spiral galaxies have extended flat rotation curves (Rubin, Ford & Thonnard 1978, 1980, see also a review by Rubin 1987). Now, for the first time, it was possible to determine the mass distribution in individual galaxies out to distances far superior to previous data. The internal mass of galaxies rised with distance almost linearly up to the last measured point (see Fig. 6 of Rubin et al. 1978). The concept of the presence of dark matter halos around galaxies was confirmed with a high confidence.
+Another very important measurement was made by Faber et al. (1977). They measured the rotation velocity of the Sombrero galaxy, a S0 galaxy with a massive bulge and a very weak population of young stars and gas clouds just outside the main body of the bulge. Their data yielded for the bulge a mass-to-luminosity ratio M/L = 3, thus confirming our previous estimates based on less accurate data, and calculations of the physical evolution of galaxies. Velocity dispersion measurements of high accuracy also confirmed lower values of mass-to-luminosity ratios of elliptical galaxies (Faber & Jackson 1976). These results showed that the mass-to-luminosity ratios of stellar populations in spiral and elliptical galaxies are similar for a given colour (the assumption used in our model calculations), and the ratios are much lower than accepted in most earlier studies.
+More recently the masses of clusters of galaxies have been determined using the temperature of hot X-ray emission gas in clusters, and by gravitational lensing. These data are discussed in other reports during this School.
+By the end of 1970s most objections against the dark matter hypothesis were rejected. In particular, luminous populations of galaxies have found to have lower mass-to-luminosity ratio than expected previously, thus the presence of extra dark matter both in galaxies and clusters has been confirmed. However, the nature of dark matter and its purpose was not yet clear. Also it was not clear how to explain the Big Bang nucleosynthesis constraint on the low density of matter, and the smoothness of the Hubble flow.
+The Nature of Dark Matter Neutrino-dominated Universe
+Already in 1970s suggestions have been made that some sort of non-baryonic elementary particles may serve as candidates for dark matter particles. Gunn et al. (1978) considered heavy stable neutral leptons as possible candidates for dark matter particles, however in a later study Tremaine & Gunn (1979) rejected this possibility. Cowsik & McClelland (1973), Szalay & Marx (1976) and Rees (1977) no-ticed that neutrinos can be considered as dark matter particles; and Chernin (1981) showed that, if dark matter is non-baryonic, then this helps to explain the paradox of small temperature fluctuations of the cosmic microwave background radiation. Density perturbations of non-baryonic dark matter start growing already during the radiation-dominated era whereas the growth of baryonic matter is damped by radiation. If non-baryonic dark matter dominates dynamically, the total density perturbations can have an amplitude of the order 10−3 at the recombination epoch,
+
+
+
+
+Dark Matter	11
+which is needed for the formation of the observed structure of the Universe. This problem was discussed in a conference in Tallinn in April 1981. Here all prominent Soviet cosmologists and particle physicists participated (this conference was prob-ably the birth of the astro–particle physics). The central problem was the nature of dark matter. In the conference banquet Zeldovich hold an enthusiastic speech: “Observers work hard in sleepless nights to collect data; theorists interpret observa-tions, are often in error, correct their errors and try again; and there are only very rare moments of clarification. Today it is one of such rare moments when we have a holy feeling of understanding the secrets of Nature.” Non-baryonic dark matter is needed to start structure formation early enough. This example illustrates well the attitude of theorists to new observational discoveries – the Eddington’s test: “No experimental result should be believed until confirmed by theory” (cited after Turner 2000). Now, finally, the presence of dark matter was accepted by leading theorists. The search of dark matter can be illustrated with the words of Sherlock Holmes “When you have eliminated the impossible, whatever remains, however improbable,
+must be the truth” (cited by Binney & Tremaine 1987).
+Dark Matter and the Structure of the Universe
+After my talk at the Caucasus Winter School Zeldovich offered me collaboration in the study of the universe. He was developing a theory of formation of galaxies (the pancake theory, Zeldovich 1970); an alternative whirl theory was suggested by Ozernoy (1971), and a third theory of hierarchical clustering by Peebles (1971). Zeldovich asked for our help in solving the question: Can we find some observational evidence which can be used to discriminate between these theories?
+Initially we had no idea how we can help Zeldovich. But soon we remembered our previous experience in the study of galactic populations: kinematical and structural properties of populations hold the memory of their previous evolution and forma-tion (Rootsm¨ae 1961, Eggen, Lynden–Bell & Sandage 1962). Random velocities of galaxies are of the order of several hundred km/s, thus during the whole life-time of the Universe galaxies have moved from their place of origin only by about 1 h−1 Mpc (we use in this paper the Hubble constant in the units of H0 = 100 h km s−1 Mpc−1). In other words – if there exist some regularities in the distribu-tion of galaxies, these regularities must reflect the conditions in the Universe during the formation of galaxies. Actually we had already some first results: the study of companion galaxies had shown that dwarf galaxies are located almost solely around giant galaxies and form together with giant galaxies systems of galaxies. In other words – the formation of galaxies occurs in larger units, not in isolation.
+Thus we had a leading idea how to solve the problem of galaxy formation: We have to study the distribution of galaxies on larger scales. The three-dimensional distribution of galaxies, groups and clusters of galaxies can be visualised using wedge-diagrams, invented just when we started our study. My collaborator Mihkel J˜oeveer prepared relatively thin wedge diagrams in sequence, and plotted in the same diagram galaxies, as well as groups and clusters of galaxies. In these diagrams regularity was clearly seen: isolated galaxies and galaxy systems populated identical regions, and the space between these regions was empty. This picture was quite sim-ilar to the distribution of test particles in a numerical simulation of the evolution of the structure of the Universe prepared by Doroshkevich et al. (1980) (preliminary results of this simulation were available already in 1975). In this picture a system of
+
+
+
+12
+high- and low-density regions was seen: high-density regions form a cellular network which surrounds large under-dense regions.
+We reported our results (J˜oeveer & Einasto 1978) at the IAU symposium on Large-Scale Structure of the Universe in Tallinn 1977, the first conference on this topic. The main results were: (1) galaxies, groups and clusters of galaxies are not randomly distributed but form chains, converging in superclusters; (2) the space between galaxy chains contains almost no galaxies and forms holes (voids) of di-ameter up to ≈ 70 h−1 Mpc; (3) the whole picture of the distribution of galaxies and clusters resembles cells of a honeycomb, rather close to the picture predicted by Zeldovich. The presence of holes (voids) in the distribution of galaxies was reported also by other groups: Tully & Fisher (1978), Tifft & Gregory (1978), and Tarenghi et al. (1978) in the Local, Coma and Hercules superclusters, respectively. Theoretical interpretation of the observed cellular structure was discussed by Zeldovich (1978). Our analysis gave strong support to the Zeldovich pancake scenario. This model was based essentially on the neutrino dominated dark matter model. However, some important differences between the model and observations were detected.	First of all, there exists a rarefied population of test particles in voids absent in real data. This was the first indication for the presence of biasing in galaxy formation – there is primordial gas and dark matter in voids, but due to low-density no galaxy formation takes place here (J˜oeveer, Einasto & Tago 1978, Einasto, J˜oeveer & Saar 1980). The second difference lies in the structure of galaxy systems in high-density regions: in the model large-scale structures (superclusters) have rather diffuse forms, real superclusters consist of multiple intertwined filaments (Zeldovich, Einasto &
+Shandarin 1982, Oort 1983, see also Bond, Kofman & Pogosyan 1996).
+Cold Dark Matter
+The difficulties of the neutrino-dominated model became evident in early 1980s. A new scenario was suggested by Blumenthal, Pagels & Primack (1982), Bond, Szalay & Turner (1982), and Peebles (1982); here hypothetical particles like axions, grav-itinos or photinos play the role of dark matter. Numerical simulations of structure evolution for neutrino and axion-gravitino-photino-dominated universe were made and analysed by Melott et al. (1983). All quantitative characteristics (the connectiv-ity of the structure, the multiplicity of galaxy systems, the correlation function) of this new model fit the observational data well. This model was called subsequently the Cold Dark Matter (CDM) model, in contrast to the neutrino-based Hot Dark Matter model. Presently the CDM model with some modifications is the most ac-cepted model of the structure evolution. The properties of the Cold Dark Matter model were analysed in detail in the classical paper by Blumenthal et al. (1984). With the acceptance of the CDM model the modern period of the study of dark matter begins.
+Numerical simulations made in the framework of the Cold Dark Matter Universe (with and without the cosmological Λ−term) yield the distribution of galaxies, clus-ters and superclusters in good agreement with observations. These studies are too numerous to be cited here. Also the evolution of the structure can be followed by comparison of results of simulations at different epochs. During the School a movie was demonstrated showing the evolution of a central region of a supercluster (the movie was prepared at the Astrophysical Institute in Potsdam). Here the growth of a rich cluster of galaxies at the center of the supercluster could be followed. The
+
+
+
+
+Dark Matter	13
+cluster had many merger events and has “eaten” all its nearby companions. Dur-ing each merger event the cluster suffers a slight shift of its position. As merger galaxies come from all directions, the cluster sets more and more accurately to the center of the gravitational well of the supercluster. This explains the fact that very rich clusters have almost no residual motion in respect to the smooth Hubble flow. According to the old paradigm galaxies and clusters form by random hierarchical clustering and could have slow motions only in a very low-density universe (an argu-ment against the presence of large amount of dark matter by Materne & Tammann 1976).
+The amount of dark matter
+In early papers on dark matter the total density due to visible and dark matter was estimated to be 0.2 of the critical cosmological density (Einasto, Kaasik & Saar 1974, Ostriker, Peebles & Yahil 1974). These estimates were based on the dynamics of galaxies in groups and clusters. In subsequent years several new independent methods were suggested. A direct method is based on the distant supernova project, which yields (for a spatially flat universe) Ωm = 0.28 ± 0.05 (Perlmutter et al. 1998, Riess 1998). Here and below density parameters are expressed in units of the critical cosmological density. Another method is based on X-ray data on clusters of galaxies, which gives the fraction of gas in clusters, fgas = Ωb/Ωm. If compared to the density of the baryonic matter one gets the estimate of the total density, Ωm = 0.31 ± 0.05(h/0.65)−1/3 (Mohr et al. 2000). The evolution of the cluster abundance with time also depends on the density parameter (see Bahcall et al. 1999 for a review). This method yields an estimate Ωm = 0.4 ± 0.1 for the matter density. The formal weighted mean of these independent estimates is Ωm = 0.32 ± 0.03. This density value is close to the value Ωm = 0.3, suggested by Ostriker & Steinhardt (1995) as a concordant model.
+More recently, the density parameter has been determined from clustering in the 2-degree Field Redshift Survey (Peacock et al. 2001), and from the angular power spectrum measurements of the cosmic microwave background radiation with the Wilkinson Microwave Anisotropy Probe (WMAP) (Spergel et al. 2003). The most accurate estimates of cosmological parameters are obtained using a combined analysis of the Sloan Digital Sky Survey and the WMAP data (Tegmark et al. 2003). According to this study the matter density parameter is Ωm = 0.30 ± 0.04. This method yields for the Hubble constant the value h = 0.70±0.04 independent of other direct methods. From the same dataset the authors get for the density of baryonic matter, h2Ωb = 0.0232 ± 0.0012, which gives Ωb = 0.047 for the above value of the Hubble constant. Comparing both density estimates we get for the dark matter density ΩDM = Ωm − Ωb = 0.25.
+Summary
+People often ask: Who discovered dark matter? The dark matter story is a typical scientific revolution (Kuhn 1970, Tremaine 1987). As often in a paradigm shift, there is no single discovery, the new concept was developed step-by-step.
+First of all, actually there are two dark matter problems – the local dark matter close to the plane of our Galaxy, and the global dark matter surrounding galaxies and clusters of galaxies. The milestones of the local dark matter problem solution
+
+
+
+14
+are the studies by O¨ pik, Oort, Kuzmin, Bahcall and Gilmore. Dark matter in the Galactic disk, if present, must be baryonic (faint stars or jupiters). The amount of local dark matter is low, it depends on the boundary between luminous stars and faint invisible stars.
+The story of the global dark matter also spans many decades. It began with the work by Zwicky (1933) on the Coma cluster, was continued with the study by Kahn and Woltjer (1959) on the dynamics of the Galaxy-M31 system, and statistical determinations of masses and mass-to-luminosity ratios of pairs, groups and clusters of galaxies. For some reason, these studies did not awake the attention of the astronomical community. However, the awareness of the presence of a controversy with masses of galaxies and galaxy systems slowly increased.
+Further development of the dark matter concept was influenced by the East-West controversy during the Cold War (on this controversy see Fairall 1998, p. 11
+- 12). The dark matter puzzle was solved in 1974 by two independent studies of masses of galaxies by Tartu and Princeton astronomers. It was suggested that all giant galaxies are surrounded by massive halos (coronas), and that dark matter is dynamically dominant in the Universe. As usual in scientific revolutions, the general awareness of a crisis comes when the most eminent scientists in the field begin to concentrate on the problem. This happened when the Princeton group,

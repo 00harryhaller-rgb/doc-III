@@ -1,0 +1,1697 @@
+Bidhannagar,
+Kolkata 700064, INDIA
+fResearch Center for Nuclear Physics, Osaka University, Osaka 567-0047, JAPAN
+We propose that the cold dark matter (CDM) is composed entirely of quark matter, arising from a cosmic quark-hadron transition. We show that compact gravitational objects, with masses around 0.5 M⊙, could have evolved out of the such CDM.
+
+The present consensus in cosmology is that the universe is flat (Ω ∼ 1), the baryons contribut-ing only about 10% of the total energy (i.e. ΩB ∼ 0.1). There is an abundance of other matter, the cold dark matter (CDM), which accounts for clumping on small (galactic/supergalactic scales), amounting to ΩCDM ∼ 0.35. The rest of the closure density arises from some kind of vacuum energy, as yet very poorly understood and termed dark energy, which is believed to be responsible for the accelerated expansion of the universe. The estimate of ΩB comes from Big Bang Nucleosynthesis (BBN), whose success is one of the basic tenets of the standard cosmolog-ical model. It is thus believed that the CDM is nonbaryonic; speculations about the nature of CDM, all essentially beyond the standard model of particle interactions (QCD and Electroweak), abound and search for these exotic particles is a most active field of research.
+In recent years, there has been experimental evidence [1,2] for at least one form of dark matter
+- the Massive Astrophysical Compact Halo Objects (MACHO) - detected through gravitational microlensing effects [3]. Based on about 13 - 17 Milky Way halo MACHOs detected in the direction of LMC - the Large Magellanic Cloud, a Bayesian analysis yields their mass estimate in the range (0.15-0.95) M⊙, with the most probable value being 0.5 M⊙ [4,5], substantially higher than the fusion threshold of 0.08 M⊙. (It is thus hard to understand why they do not ignite.) The MACHO collaboration [4] suggests that the lenses are in the galactic halo. In such circumstances, MACHOs cannot be composed of normal baryons for reasons mentioned above. There have, however, been suggestions [6,7] that they could be primordial black holes (PBHs) ( ∼ 1 M⊙ ), arising from horizon scale fluctuations. This suggestion requires a fine tuning of the initial density perturbation and has been criticised in the literature [8].
+Within the lore of the standard model, there occurred a phase transition from the quark-gluon phase to the hadronic phase during the microsecond era after the initial Big Bang, at
+
+2
+
+a temperature of ∼ 100 MeV. The order of this phase transition is still unsettled [9]; lattice calculations suggest that in a pure (i.e. only gluons) SU (3) gauge theory, it is of first order. In the presence of dynamical quarks on the lattice, the situation is more complicated. However, in the early universe, the large size of the system and the long timescale could facilitate a first order transition. Such a transition could be modeled through a bubble nucleation scenario and Witten [10] argued that the trapped false vacuum domains (TFVD) (i.e. the quark phase) could contain a substantial amount of baryon number. QCD-motivated studies [11,12] of baryon evaporation from such TFVD (called strange quark nugget or SQN hereafter) showed that if the SQNs contain baryon number in excess of 1040−42, they would be stable on cosmological time scales and be viable candidates for CDM, as they would be extremely non-relativistic. Note that the number of baryons (which would subsequently take part in BBN) within the event horizon at the microsecond epoch is 1049−50; thus the baryon number contained in SQNs could be 3-4 times as much and SQNs of size ≥ 1042 could be easily accommodated. However, it has to be reiterated over and over again that the baryon number contained in the SQNs is in the form of quarks and they do not participate in BBN at all.
+We can estimate the size of the SQNs formed in the first order cosmic QCD transition in the manner prescribed by Kodama, Sasaki and Sato [13]; for details, please see Alam et al [14] and Bhattacharyya et al [15]. Describing the cosmological scale factor R and the co-ordinate radius X in the Robertson-Walker metric through the relation
+ds2 = −dt2 + R2dx2 = −dt2 + R2{dX2 + X2(sin2θdφ2 + dθ2)},	(1)
+one can solve for the evolution of the scale factor R(t) in the mixed phase of the first order transition. In a bubble nucleation description of the QCD transition, hadronic matter starts to appear as individual bubbles in the quark-gluon phase. With progressing time, they expand, more and more bubbles appear, coalesce and finally, when a critical fraction of the total volume is occupied by the hadronic phase, a continuous network of hadronic bubbles form (percolation) in which the quark bubbles get trapped, the TFVDs. The time at which this happens is the percolation time tp, whereas the time when the phase transition starts is denoted by ti. Then, the probability that a region of co-ordinate radius X lies entirely within the quark bubbles would obviously depend on the nucleation rate of the bubbles as well as the coordinate radius X(tp, ti) of bubbles which nucleated at ti and grew till tp. For a nucleation rate I(t), this probability P (X, tp) is given by
+4π ∫ tp	3	3 
+
+P (X, tp) = exp − 3
+dtI(t)R (t)[X + X(tp, ti)]
+ti
+.	(2)
+
+After some algebra [15], it can be shown that if all the CDM is believed to arise from SQNs, then their size distribution peaks, for reasonable nucleation rates, at baryon number ∼ 1042−44, evidently in the stable sector. Recalling that ΩB ∼ 0.1 corresponds to 1049−50 baryons within the horizon at the microsecond epoch, the total baryon number contained in SQNs to account for ΩCDM ∼ 0.35 would imply 107−9 SQNs within the horizon just after the QCD phase transition. Because of their enormous mass, they would be nonrelativistic immediately after their formation. It may thus be remarked that they would be discrete macrosopic bodies (radius RN ∼ 1m) separated by rather large distances (100 - 300m) in the background of the radiation fluid.
+Any deviation from a uniform distribution of SQNs should result in a large attractive force, under which they should gravitate toward one another. Given the property that they become more and more bound with increasing mass [10], they should tend to coalesce and grow to larger sizes. However, the radiation pressure acting on the moving SQNs would serve to inhibit such motion till such time when the gravitational force dominates over it. We can estimate the
+
+3
+
+
+
+
+5
+
+
+4.5
+
+
+4
+
+
+3.5
+
+
+3
+
+
+2.5
+
+
+2
+
+
+1.5
+
+
+1
+
+
+0.5
+
+
+0
+10−1	100	101	102
+T (Temperature in MeV)
+
+
+
+
+Figure 1. Variation of Fgrav/Frad with temperature. The dot represents the point where the ratio assumes the value 1.
+
+
+relative magnitude of these two forces in a straightforward manner. If the number of SQNs within the horizon at the time tp is 109 (see above), then the total number and the number density of SQNs at any later temperature T is given by
+
+9  100 MeV  3
+NN	 3NN 
+
+NN (T ) = 10	T
+;	nN (T ) ≡
+H
+= 4π(2t)3	(3)
+
+since the horizon length in the radiation dominated era is 2t. The time t and temperature T
+are related by the relation t = 0.3g−1/2 mpl with g ∼ 17.25 after the QCD transition [14].
+∗	T 2	∗
+The expression for the gravitational force as a function of temperature T can be written as
+GM 2
+
+Fgrav =
+N 2 where M	is the SQN mass. (For the sake of simplicity, we assume that all
+r¯nn(T )
+
+SQNs have the same mass.) r¯nn(T ) is the mean separation between the two nuggets, estimated
+from the density of nuggets at the temperature T . The force due to the radiation pressure on the SQNs arises only due to their relative motion; when they are at rest, there is no resultant force on them. But when the SQNs are in motion, the radiation fluid in front of the moving SQN gets compressed and thus exerts an additional pressure opposing the motion. In a relativistic
+framework,1 this amounts to a force Frad given by Frad = 1 ρradcvfall(πR2 )βγ where ρrad is the
+3	N
+total radiation energy density, counting all relativistic species at the temperature T , vfall (or
+βc) is the velocity of the SQN and γ the corresponding Lorentz factor. The ratio of these two forces, Fgrav/Frad is plotted against temperature in Fig. 1 for SQNs of initial size 1042. Fig. 1 readily reveals that the ratio Fgrav/Frad is very small initially. As a result, the nuggets will
+
+1Even though the SQNs are nonrelativistic, a relativistic treatment is necessary to handle the radiation fluid.
+
+4
+
+remain separated due to the radiation pressure. For temperatures lower than a critical value Tcl, the gravitational force starts dominating, facilitating the coalescence of the SQNs under mutual gravity. It should come as no surprise that even for very small values of β, the large surface area of the SQN is responsible for a considerable resisting force due to radiation pressure.
+We can estimate the size of the coalesced SQNs from the number of SQNs within the horizon at Tcl. This is, of course, a lower limit, as the collapse would only start at Tcl and would take some time during which more SQNs will enter the horizon. For SQNs of size 1042, the total mass in corresponding matter within the horizon at Tcl turns out to be ∼ 0.12M⊙; for 1044, it is 0.01M⊙. The actual value could be much (3-10 times) higher but that can be ascertained only through a detailed simulation. Such a calculation is rather involved and remains a future project. In any case, it can be safely assumed that the coalesced SQNs will have masses above the fusion threshold of 0.08M⊙ and once coalesced, the density of the resulting configuration would be so low that they cannot clump any further. They could thus persist till the present time and manifest themselves as MACHOs. For ΩCDM ∼ 0.35, there would be about 1023−24 such objects within the horizon today and about 2 - 3 × 1013 within the Milky Way halo. We should verify whether this abundance is consistent with the observed number of MACHO events. The abundance of gravitational lenses is estimated through the optical depth τ which is the probability that a given star lies within the Einstein ring of a lens, i.e. the number density of the lenses times the area of the Einstein ring of each lens. The expression reads [16] τ =
+4πG D2 ∫ ρ(x)x(1 − x)dx where Ds is the distance between the observer and the source (a star
+in the LMC in the present case) and x = DdDs−1, Dd being the distance between the observer
+and the lens. In particular, ρ is the mass-density of the MACHOs, which is of the form ρ = ρ0  1  in the spherical halo model. Assuming a halo extending all the way upto the LMC, we obtain τ ≃ 2 - 5×10−7, in excellent agreement with observation [5].
+To conclude, we have shown that in a first order cosmic quark-hadron phase transition, cold dark matter could arise entirely within the framework of the standard model of particle inter-actions. The observed halo MACHOs could be the natural manifestation of such CDM.
+
+REFERENCES
+C. Alcock et al, Nature, 365 (1993) 621.
+E. Aubourg et al, Nature, 365 (1993) 623.
+B. Paczynski, Astrophys. J., 304 (1986) 1.
+W. Sutherland, Rev. Mod. Phys., 71 (1999) 421.
+C. Alcock et al, Astrophys. J., 542 (2000) 281.
+D. N. Schramm, in : Proc. ICPA-QGP’97 Physics and Astrophysics of Quark-Gluon Plasma, (Eds. B. Sinha, Y. P. Viyogi and D. K. Srivastava), p.29, (Narosa Publishing, New Delhi, 1998)
+K. Jedamzik and J. C. Niedemeyer, Phys. Rev., D59 (1999) 124014.
+C. Schmid, D. J. Schwarz and P. Widerin, Phys. Rev., D59 (1999) 043517.
+J. Alam, S. Raha and B. Sinha, Phys. Rep., 273 (1996) 243.
+E. Witten, Phys. Rev., D30 (1984) 272.
+P. Bhattacharjee, J. Alam, B. Sinha and S. Raha, Phys. Rev., D48 (1993) 4630.
+K. Sumiyoshi and T, Kajino, Nucl. Phys. (Proc. Suppl.), 24 (1991) 80.
+H. Kodama, M. Sasaki and K. Sato, Prog. Theo. Phys., 68 (1982) 1979.
+J. Alam, S. Raha and B. Sinha, Astrophys. J., 513 (1999) 572.
+A. Bhattacharyya et al, Phys. Rev., D61 (2000) 083509.
+R. Narayan and M. Bartelmann, in : Formation of structure in the universe (Eds. A. Dekel
+
+5
+
+and J. P. Ostriker), (Cambridge University Press, Cambridge, UK, 1999)
+
+Relics of cosmological quark-hadron phase transition
+Hee Il Kim and Bum-Hoon Lee
+Basic Science Institute and Department of Physics, Sogang University, 121-742, Seoul, Korea
+
+Chul H. Lee
+Department of Physics, Hanyang University, 133-791, Seoul, Korea
+We propose that the amplified density fluctuations by the vanishing sound velocity effect during the cosmological quark-hadron phase transition lead to quark-gluon plasma lumps decoupled from the expansion of the universe, which may evolve to quark nuggets (QNs). Assuming power-law spectrum of density fluctuations, we investigate the parameter ranges for the QNs to play the role of baryonic dark matter and give inhomogeneities which could affect big-bang nucleosynthesis within the observational bounds of CMBR anisotropy. The QNs can give the strongest constraint ever found on the spectral index.
+
+
+PACS numbers: 98.80.Cq, 12.38.Mh, 95.35.+d
+As the temperature of the universe cools down to the critical temperature TQ 100 200MeV, so called quark-hadron phase transition occurs in such a way that the high temperature quark gluon plasma (QGP) phase transforms to the low temperature hadronic phase. If the phase transition is first order, it is described by the nu-cleation of hadron bubbles and their growth. As hadron bubbles occupy more than half of the whole space, the picture becomes that of QGP bubbles shrinking in the sea of the hadronic bubbles. Witten pointed out that the shrinking QGP bubbles in the transition may evolve to quark nuggets (QNs) which can play the role of baryonic dark matter [1]. Baryon concentration in the shrinking QGP bubbles also give inhomogeneities which could af-fect big-bang nucleosynthesis (BBN) [2]. Even though recent lattice calculations show that the quark-hadron phase transition is weakly first-order [3], the mean bub-ble separation lb  1cm based on the lattice calculations
+[4] is too small for the transition to achieve the effects
+mentioned above.
+Recently, it was shown that the growth of the subhori-zon scale fluctuations in the quark-hadron transition is amplified because the sound velocity during the transi-tion vanishes [5,6]. Amplified subhorizon scale fluctua-tions give gravitational potential wells which will trap cold dark matters (CDMs) like axions and primordial black holes (PBHs) [5]. Resulting CDM lumps have size of about 1 10AU today. Also the vanishing sound veloc-ity effect enables, though it needs fine-tuned initial con-ditions [7], the formation of PBHs of 1M⊙ 1033g which can be related to MACHOs [6]. The amplified fluctua-tions may produce nonlinear lumps which are decoupled from the expansion of the background universe. If the decoupled lumps were hadronic, however, they would be washed out by neutrino damping [8] before the big-bang nucleosynthesis era [5,9], so could not give any significant effect on dark matter problem as well as the inhomoge-neous big-bang nucleosynthesis (IBBN) model. In this
+
+QNs. With a power-law assumption on the density fluc-tuation spectrum, we find possible parameter ranges for which the QNs form to play the role of dark matter and to produce baryon number inhomogeneities for the IBBN within the observational bounds of CMBR anisotropy.
+The sound velocity vanishes during the phase transi-tion as follows. The QGP and the hadronic phase are in phase equilibrium with constant temperature TQ shortly after reheating. In the cosmological situation, chemical potential of each fluid is negligible. Thus the pressure and the energy density depend only on the temperature of the system. Consider the system with a scale smaller than the horizon size at the transition dQ 10km but larger than the mean bubble separation lb, where the de-tails of bubble dynamics are not important. Before and after the transition, the system is filled with QGP and hadronic radiation fluid, respectively, so the sound veloc-ity vs = 1/3. As the phase transition proceeds, while the pressure remains constant because the two phases are in pressure equilibrium, the energy density of the system gradually decreases. Therefore, the sound ve-
+locity vs = (∂p/∂ρ)1/2 = 0 during the phase transition [5,6]. Since the sound velocity vanishes, the pre-existing density fluctuations grow without any pressure gradient and restoring force and the amplitudes of the fluctua-tions are amplified. Superhorizon scale fluctuations are not affected by the sound velocity transition.
+The subhorizon fluctuations which entered the horizon long before the quark-hadron transition were damped by the neutrino diffusion. Only the fluctuations with the
+comoving wavenumber k > 104kH can retain their hori-
+zon crossing amplitude δH [9], where kH is the comoving wavenumber of the fluctuation which enters the horizon at the transition. During the whole time of the transition, the sound velocity transition amplify the amplitudes of the subhorizon fluctuations with δH and k upto
+  k   ζ
+
+vanishing sound velocity effect may produce nonlinear QGP lumps which will survive till today in the form of
+H	kH	∼	∼
+where ζ = 1 for the bag model and ζ = 3/4 for lattice cal-
+
+culation [5]. The exponent ζ is obtained for k	kH but we simply regard it valid for k > kH . The fluctuations
+with δamp > 1, are nonlinearized by the sound velocity
+sition. For k	104kH , the minimum scale relevant to the sound velocity transition, NB	1037.  The QGP
+lump can evolve to a QN if the quarks in the lump
+
+H	∼
+transition and are decoupled from the expansion of the	become degenerate. It occurs if the baryon density to
+background universe. So it needs δH > δc = (kH/k)ζ for	entropy density ratio, nB/s ∼ 1. For comparison, the
+~ H	−9	2
+the nonlinearization. Since this condition is far weaker	background universe has (nB/s)bg ≃ 3.8 × 10	(ΩBh )
+than δc ∼ 1 in ordinary case without the sound veloc-	where ΩB is the density fraction of the baryonic mat-
+
+ity transition, the nonlinear objects with mass below the horizon mass at the transition MQ 1033g (even PBHs with 1033g [6]) are formed much more copiously during the quark hadron phase transition.
+What will happen as the density fluctuations grow and become nonlinear? We propose that some nonlinearized fluctuations lead to the formation of QNs. The non-linearization of fluctuations with scale λ in the linear analysis can be interpreted in another sense as the over-dense regions of size λ evolving into gravitationally bound lumps decoupled from the expansion of the universe. The temperature of the decoupled lumps will not decrease any more by the expansion of the universe. Instead, the in-creased pressure and energy density of the lumps by the nonlinearization (or the gravitational binding) will in-duce the transition to the QGP phase in the hadronic phase regions. If the overdense regions were composed of a single phase, the temperature of the overdense re-gion, in general, would increase as the energy density
+increases. For a region with mixed phases of QGP and
+ter at present and h is the Hubble parameter in units of 100km sec−1 Mpc−1. The resulting QN mass MQN is determined by how and when the lump get enormous increase in nB/s and transform to a QN. Here, we do not attempt to answer these questions but will give some qualitative descriptions. For this we introduce a param-eter κ, the QN to the QGP lump volume ratio. If one takes the quark matter energy density  the QGP en-ergy density at the transition, then MQN = κMQ. From a chromoelectric flux-tube model (CFTM), it was found that the baryon penetration at the surface of the QGP lump is very low and the baryon number density in the lump increases as the surface hadronizes [10]. With this view, QNs may form by increased nB during the sur-face hadronization [10]. If there were no efficient ways to get rid of entropy and the QN formed solely by the surface hadronization (only by the increase of nB), then κ ∼ (nB/s)bg and nB should be increased to about the
+baryon number density of a nucleon ∼ 0.3fm−3. How-ever, for the QGP lump with NB < 1034(nB/s)−1 ∼
+
+hadronic phases, however, the temperature of the region
+42	2 −1
+~	bg
+
+10  (ΩBh )	, the lump becomes smaller than the neu-
+
+does not increase until the hadronic phase is converted
+entirely to the QGP phase. The phase of the nonlin-earized lump is determined by comparing two important but uncertain time scales. One is tnonl, the time needed for the overdense region to become nonlinear. The other is tback, the time for the mixed phase to return to QGP phase. What is needed for the decoupled lumps to return to the QGP phase is tnonl tback. If tback > tnonl, the decoupled lumps are made of almost hadronic phase so that they will be washed out by the neutrino damping. Also, if tback < tnonl, the lump is still in linear regime when it is entirely converted back to the QGP phase and it experiences ordinary phase transition to the hadronic phase due to the cooling by the expansion of the uni-verse before it becomes nonlinear. Therefore, it needs tnonl ∼ tback for nonlinear QGP lump formation. This can be achieved for the overdense regions with δH ∼ δc .
+trino mean free path lν 10(T/100MeV)−5cm before reaching κ (nB/s)bg. Then the entropy in the lump will be reduced rapidly by neutrinos. If this occurs faster than the surface hadronization, then κ can be approx-imated as κ  (NB/1034)−1.  In fact, the entropy loss
+by neutrinos also occur at distances < lν from the sur-
+face and it needs more detailed calculations to find the condition for QN formation. However, we simply assume
+κ  (NB/1034)−1 as the upper limit for the QN forma-tion. Resulting QNs have masses < 1018g. In the models
+generating large entropy before the quark-hadron transi-tion [11], the QNs can be formed easily with κ 1. This situation is, however, not relevant to our work because there can be no sound velocity transition.
+Once the QNs form, they are unstable to surface evap-oration [12] and boiling [13]. Only the QNs with the baryon number larger than the critical baryon number
+
+For such regions tnonl	∆tQ that is, roughly the time
+needed for the phase transition between two phases. So
+c can survive till today. With small baryon penetra-
+bility in the CFTM, Nc is lowered and two results of
+
+we can conceive that the overdense regions with δH
+~ δH
+Nc = 1039
+, 1044
+B
+are known [14,15]. However, as claimed
+
+evolve to nonlinear QGP lumps. Though the overdense
+regions with δH δc which have tnonl ∆tQ may also satisfy the condition tnonl tback, the number of such regions is negligible as can be seen in the probability dis-
+by the authors, their works overestimated the baryon evaporation. Especially, they assumed flavor equilibrium in their calculations. The flavor non-equilibrium will re-
+duce Nc . So, we take Nc as a free parameter bearing in
+
+B	B
+
+tribution of overdense regions.
+The mass and size of the QGP lump are specified by the baryon number in the lump NB ∝ k	as MQ =
+(  NB   )MQ where N	= 1049(T /100MeV)−3 is the
+mind the above values. The baryon number of the QNs needed to affect the IBBN is smaller than Nc , but the difference will not be large considering the rapid evapo-
+ration rate below Nc [14,15].
+
+NB−H	H
+B−H	Q	B
+
+total baryon number contained in the horizon at the tran-
+Now, we have found the conditions for the QN forma-
+
+tion, δH > δc and NB > Nc . To estimate the number of the QNs, e just count w many overdense regions satisfying the conditions exist. We would like to empha-size that the number density of the QNs depends much on the details of density fluctuation. Though the details
+of the phase transition may rule out the QN formation
+which is used for calculating the number fraction of PBHs formed by the density fluctuations with blue-shifted spec-trum.
+Since the QNs can be regarded as pressureless dust, the density fraction at present is
+
+ ρ   Mc
+   a(t
+)  −3
+
+from the shrinking QGP bubbles, whether the QNs from the sound velocity transition can be produced enough
+ΩQN (t0) = ΩQN (teq ) =
+i
+ρeq
+  QN
+Mc
+	eq 
+a(ti)
+βi (5)
+
+is another problem. One thing to note further is that the QN formation proposed here occurs even without the sound velocity transition but with much severe condition
+δH > 1. The sound velocity transition relax the condition
+and enables more copious QN formation.
+We assume a simple power-law spectrum of density
+where the subscript ‘eq’ represents the values at matter-radiation equal time. Mc is the mass contained in the overdense region with kc at ti. The density fraction can be arranged into
+Ω	(t ) = κ   TQ  β  .	(6)
+
+fluctuation with |δk|2 ∝ kn, where δk is the Fourier trans-
+QN  0
+Teq	i
+
+form of δ(x) ≡ (ρ(x) − ρb)/ρb and the spectral index n
+Fig. 1 shows the relation between κ and Nc to satisfy
+
+is a constant. The initial power spectrum of the fluc-
+tuation amplitude is defined by the rms amplitude for
+B
+ΩQN = 1 for possible range of the spectral index, 0.9 ≤
+
+¯2	3	2	2
+n ≤ 1.5. It seems impossible for QNs to be formed solely
+
+a given logarithmic interval in k, δ (k)  k δk /2π .
+From the linear analyses, the rms amplitude δi(k) at ti, the time when the fluctuations develop, is related to the rms horizon crossing amplitude δ¯H (k) as follows
+by the surface hadronization (κ (nB/s)bg). The QGP lumps become smaller than lν when κ = (Nc /1034)−1 (the bold line in Fig. 1). So, in the left side of the bold line, the QGP lumps can evolve to QNs (nB/s ∼ 1) by
+
+  k   −2	  k  (n−1)/2
+further losing their entropy by neutrinos. The QN for-
+
+kHi	k0
+needs Nc
+B
+< 1038
+
+where kHi is the wave number of the horizon scale at ti
+and the subscript ‘0’ denotes the values at present. From
+B	for ζ = 1, which is smaller than the
+CFTM results [14,15]. With ζ = 0.75, the QN formation
+is possible if n > 1.1. Assuming κ = (Nc /1034)−1, the
+
+¯	−5
+~	B	≤ 1.
+
+the COBE measurement, δH (k0) ≈ 10	and n = 1.2 ±
+upper limits on n are found from the condition ΩQN
+
+0.3 [16]. The number density of overdense regions with
+If Nc < 1040, the QN can give strongest constraints ever
+
+> c	B ∼	<	<
+
+δH ∼ δH can be found by the Press-Schechter method
+found, 0.9 ∼ nupper ∼ 1.2 (the bold lines in Fig. 2).
+
+[17] which is widely used to estimate the number density of structures like galaxies. The difference here is in the scale dependence of the critical amplitude δc  k . The initial mass spectrum of the QGP lump in the range
+(MH, MH +dMH ) where MH ∝ M 2/3 is the horizon mass
+PBHs can give at best nupper > 1.23 even weaker as the
+reheating temperature increases [18,20]. Note that the upper limits on n do not depend on ti or the reheat-ing temperature in inflationary models. Demanding less ΩQN , the parameter ranges become broader and the con-
+
+of scale with k
+
+n(MH)dMH ∝ MH
+
+
+
+(α−10)/4
+
+
+exp 
+Q
+
+δc
+—	√2σH
+
+ 2 
+
+
+dMH
+straints on n becomes stronger.
+Since QNs have positive electric surface potential of or-der MeV, they absorb only neutrons. This reduces the neutron to proton ratio, so lowering the helium produc-
+
+  MH  α/2 
+tion. Not to violate the observations, the QNs should
+
+(α−10)/4
+H
+—	M ∗
+dMH (3)
+have size > 10−6cm assuming ΩQN = 1 and perfect
+
+H	baryon penetrability (even smaller with smaller penetra-
+
+where α = n +2ζ −1 and σH
+= σH 0
+(MH
+/MH0
+)(1−n)/4 is
+bility) [21]. The corresponding Nc
+≃ 10  , so the QNs
+
+the filtered amplitude of δ¯H (k) and σH 0 = 9 × 10−5 [18].
+The cutoff scale M ∗ ≪ M . Due to the scale depen-
+considered here easily satisfy the condition. More signifi-
+cant effects on the IBBN can be induced by the evapora-
+
+c	H	H	tion of the QNs. The minimal requisition for the IBBN is
+
+dence of δH , the mass spectrum has exponential cutoff
+even with n = 1 Harrison-Zel’dovich spectrum. For com-
+parison, n(MH )   MH(n−11)/4 exp(  MH(n−1)/2) with-out the sound velocity transition [19], so if n = 1, the mass spectrum could have very broad mass ranges with
+n(MH ) ∝ MH  . With the exponential cutoff, the QN
+that the mean separation between QNs should be larger than proton diffusion length when the BBN starts. It requires the mean separation of QNs at the transition,
+lQN > 3m [22] ruling out the QNs from the shrinking
+QGP bubbles (lb ≈ 1cm). We find
+
+with only NB ≃ Nc
+form significantly. So we can as-
+
+—
+l	≈ n	≈ 10
+  Nc
+ 1/3
+
+β−1/3m  .	(7)
+
+sume δ-function type mass spectrum and approximate
+the initial number fraction of the QNs with Nc as
+QN	QN
+
+/
+NB−H	i
+
+	δc
+ 2 
+The upper values of n for the IBBN (lQN ≈ 3m) are
+
+βi(Mc ) = σH (Mc ) exp  −	√	H
+(4)
+shown in Fig.  2.  It can be seen that the the mini-
+mal condition is easily satisfied. The closure condition
+
+ΩQN 1 (the bold lines in Fig. 2) corresponds to de-manding lQN > 50m. It goes to lQN > 100m demanding ΩQN  0.1 not shown in Fig. 2. Interestingly, demand-
+ing 0.1 < ΩQN < 1, lQN lies in the ranges for the IBBN
+to be effective [22,23]. So, the QNs can contribute the density of the universe in the form of baryonic dark mat-ter as well as the IBBN. The enhanced heavy element formation can be the signature for the QNs [23].
+In summary, we propose that QNs can be formed by the sound velocity transition during the quark-hadron phase transition. The difficulties of the QNs formed by the shrinking QGP bubbles can be avoided by the QNs from the sound velocity transition because their for-mation depends much on the details of density fluctua-tions. So, they can dominate the density of the universe ΩQN 1 and affect the standard BBN. Also, the QN formation can strongly constrain the spectral index. Our analyses are so far rather qualitative and include unde-termined parameters such as κ and Nc . It needs further systematic analyses to get more quantitative results. Af-ter all, the sound velocity transition effect can make the QN to play an important role during the evolution of the universe.
+This work was supported in part by the Korean Min-istry of Education and the KOSEF. HIK was also sup-ported by the KOSEF.
+
+
+
+
+E. Witten, Phys. Rev. D 30, 272 (1984).
+J. H. Applegate and C. J. Hogan, Phys. Rev. D 31, 3037 (1985); J. H. Applegate, C. J. Hogan, and R. J. Scherrer, Phys. Rev. D 35, 1151 (1987); G. M. Fuller, G. J. Math-
+ews, and C. R. Alcock, Phys. Rev. D 37, 1380 (1988);
+R. A. Malaney and G. J. Mathews, Phys. Rep. 229, 145 (1993).
+C. DeTar, Nucl, Phys. B (Proc. Suppl.) 42, 73 (1995); T.Blum et al., Phys. Rev. D 51, 5153 (1995); Y. Iwasaki et al., Z. Phys. C 71, 343 (1996).
+A. A. Coley and T. Trappenberg, Phys. Rev. D 50, 4881 (1994); M. B. Christiansen and J. Madsen, Phys. Rev. D 53, 5446 (1996).
+C. Schimid, D. J. Schwarz, and P. Widerin, Phys. Rev. Lett. 78, 791 (1997).
+K. Jedamzik, Phys. Rev. D 55, 5871 (1997).
+P. Widerin and C. Schmid, astro-ph/9801163.
+C. Hogan, Mon. Not. R. Astron. Soc.185, 889 (1978); A. Heckler and C. J. Hogan Phys. Rev. D 47, 4276 (1993);
+K. Jedamzik and G. M. Fuller, Astrophys. J. 424, 33 (1994).
+C. Schmid, D. J. Schwarz, and P. Widerin, astro-ph/9807257.
+K. Sumiyoshi, et al., Phys. Lett. B 225, 10 (1989); K.
+Sumiyoshi, et al., Phys. Rev. D 42, 3963 (1990).
+S. Weinberg, Phys. Rev. Lett. 48, 1303 (1982).
+C. Alcock and E. Farhi, Phys. Rev. D 32, 1273 (1985);
+J. Madsen, H. Heiselberg, and K. Riisager, Phys. Rev. D 34, 2947 (1986).
+C. Alcock and A. Olinto, Phys. Rev. D 39, 1933 (1989);
+J. Madsen and M. L. Olesen, Phys. Rev. D 43, 1069 (1991); Erratum ibid 44, 566 (1991); M. L. Olesen and
+J. Madsen, Phys. Rev. D 47, 2313 (1993).
+K. Sumiyoshi and T. Kajino, Nucl. Phys. B (Proc. Suppl.) 24, 80 (1991).
+P. Bhattacharjee, et al, Phys. Rev. D 48, 4630 (1993).
+K. Gorski et al., Astrophys. J. Lett. 464, L11 (1996).
+W. H. Press and P. Schechter, Astrophys. J. 187, 425 (1974); T. Padmanabhan, Structure Formation in the Universe (Cambridge University Press, Cambridge, Eng-land, 1993).
+A. M. Green and A. R. Liddle, Phys. Rev. D 56, 6166 (1997).
+H. I. Kim and C. H. Lee, Phys. Rev. D 54, 6001 (1996).
+H. I. Kim, C. H. Lee, and J. H. MacGibbon, to be pub-lished in Phys. Rev. D (1999).
+J. Madsen and K. Riisager, Phys. Lett. B 158, 208 (1985).
+I. Suh and G. J. Mathews, Phys. Rev. D 58, 123002 (1998).
+K. Jedamzik, G. M. Fuller, and G. J. Mathews, Astro-phys. J. 422, 423 (1994).
+
+
+0
+−1
+−2
+−3
+−4
+−5
+−6
+−7
+−8
+−9
+−10
+37  38  39  40  41  42  43  44  45  46  47  48
+critical baryon number log(Nc )
+FIG. 1. The parameter ranges for κ and Nc within the observational bounds of n = 1.2 ± 0.3. for TQ = 150MeV
+
+
+1.5
+
+1.4
+
+1.3
+
+1.2
+
+1.1
+
+1
+
+0.9
+37	38	39	40	41	42
+critical baryon number (Nc )
+FIG. 2. The relation between the spectral index and the inhomogeneity scale lQN for TQ = 150MeV. The bold lines are the upper limits on n found from ΩQN = 1 with κ = (1034/Nc )
+
+Remarks on the formulation of the cosmological constant/dark energy problems
+
+Mustapha Ishak1[*],
+1 Department of Physics, The University of Texas at Dallas, Richardson, TX 75083, USA
+(Dated: August 12, 2013)
+
+Associated with the cosmic acceleration are the old and new cosmological constant problems, recently put into the more general context of the dark energy problem. In broad terms, the old problem is related to an unexpected order of magnitude of this component while the new problem is related to this magnitude being of the same order of the matter energy density during the present epoch of cosmic evolution. Current plans to measure the equation of state or density parameters certainly constitute an important approach; however, as we discuss, this approach is faced with seri-ous feasibility challenges and is limited in the type of conclusive answers it could provide. Therefore, is it really too early to seek actively for new tests and approaches to these problems? In view of the difficulty of this endeavor, we argue in this work that a good place to start is by questioning some of the assumptions underlying the formulation of these problems and finding new ways to put this questioning to the test. First, we calculate how much fine tuning the cosmic coincidence problem represents. Next, we discuss the potential of some cosmological probes such as weak gravitational lensing to identify novel tests to probe dark energy questions and assumptions and provide an exam-ple of consistency tests. Then, motivated by some theorems in General Relativity, we discuss if the full identification of the cosmological constant with vacuum energy is unquestionable. We discuss some implications of the simplest solution for the principles of General Relativity. Also, we point out the relevance of experiments at the interface of astrophysics and quantum field theory, such as the Casimir effect in gravitational and cosmological contexts. We conclude that challenging some of the assumptions underlying the cosmological constant problems and putting them to the test may prove useful and necessary to make progress on these questions.
+PACS numbers: 98.80.Jk,04.20.Cv
+
+
+
+INTRODUCTION
+
+
+Several different types of astrophysical observations, e.g. [1, 2, 3, 4, 5, 6, 7], have established the evidence that the expansion of the universe entered a phase of acceleration. Associated with this acceleration is a cosmological constant, or another dark energy component, that contributes significantly to the total energy density of the universe.
+
+2
+
+Cosmic acceleration and dark energy constitute one of the most important and challenging of current problems in cosmology and other areas of physics. There are many comprehensive reviews of the cosmological constant or dark energy, including the observational evidence for it and the problems associated with it, and we refer the reader to some of them [8, 9, 10, 11, 12, 13, 14, 15].
+Three questions related to the cosmic acceleration are encountered in the published literature, two of which are found in different formulations or expressions. These are:
+What is causing the cosmic acceleration? Is it a cosmological constant or a dynamical dark energy component
+
+[16]? Is this associated with the stress-energy momentum sector or with the curvature sector of the Einstein field equations (EFE)? Is this an indication of new physics at cosmological scales?
+The old cosmological constant problem: If the acceleration is caused by vacuum energy, then why is the value measured from astrophysics so small compared to values obtained from quantum field theory calculations (this is the puzzling smallness formulation, see for example [12])? Another formulation is: Why do all the contributions to the effective cosmological constant term cancel each other up to a very large number of decimal places (this is the fantastic cancelation formulation, see for example [8])? We contrast the two formulations in the next section.
+The new cosmological constant problem: Why is the acceleration happening during the present epoch of the cosmic evolution? (Any earlier would have prevented structures from forming in the universe.) This is also formulated as the cosmic coincidence: i.e. why is the dark energy density of the same order of magnitude as the matter density during the present time?
+In this paper, we argue that questioning the formulation of these problems and challanging the underlying as-sumptions may proove useful and necessary in order to make progress on the questions. We start by discussing the cosmic coincidence problem and then make some clarifications using some fraction calculations. Then, we calculate some prospective constraints on the cosmological parameters of dark energy/cosmological constant and discuss the inferred possible answers. Constraining the equation of state parameters is certainly an important approach to per-sue, however, as we show, the level of precision required is very challanging, and yet the approach is limited in the kind of answers it could provide. This points out the need for new approaches to dark energy/cosmological constant problems. In particular, questioning the assumptions underlying these questions may be found useful in order to look for new types of tests or approaches to these problems. We provide an example where cosmological probes of the cosmic expansion and the growth rate of large-scale struture-formation can be used in order to distinguish between cosmic acceleration due to dark energy and cosmic acceleration due to some modification to General Relativity at
+
+3
+
+cosmological scales. Next, we question the full identification of the cosmological constant with vacuum energy in light of some theorems on the most general curvature tensor in the Einstein Field equations. Then, we discuss how a simple intrinsic constant curvature of spacetime would fit within important interpretations of General Relativity’s principles. Finally, we point out the relevance of experiments at the interface of particle physics and astrophysics, such as the Casimir effect in astrophysical and cosmological contexts. A discussion and conclusion are provided in the last section.
+
+PRELIMINARIES
+
+
+Notation
+
+
+We recall here only some preliminary equations and definitions necessary for the clarity of the paper. We refer the reader to review papers, see e.g. [8, 9, 10, 11, 12, 13, 14] and text books, see e.g. [17, 18, 19, 20]. The Einstein Field Equations (EFE) with a cosmological constant Λ read
+Gαβ + Λgαβ = κTαβ	(1)
+
+where κ ≡ 8πG and
+
+1
+Gαβ ≡ Rαβ − 2 gαβ R	(2)
+
+is the Einstein tensor, Rαβ , R and gαβ are the Ricci tensor, the Ricci curvature scalar and the metric tensor respectively. For a perfect fluid, the energy-momentum tensor is given by
+Tαβ = (ρ + p)uαuβ + pgαβ	(3)
+
+where uα is the four velocity vector and ρ and p are the energy-density and isotropic pressure relative to uα. With global isotropy, when Tαβ = 0, the EFE (1) admit de Sitter space (for Λ > 0) as a solution, for which a line element is given by (A5) in the appendix.
+Motivated by current observations, e.g. [1, 2, 3, 4, 5, 6, 7], and for the sake of simplicity, let us consider the concordance spatially flat universe with a positive cosmological constant Λ. The EFE (1) with a dust source can be
+
+solved explicitly to give
+
+a(t) =  3C 1/3h sinh( √3Λ t)i2/3	(4)
+
+4
+
+where C ≡ 8πρa3/3 is a constant; and the spacetime line element is given by
+
+ds2 = −dt2 + a2(t)(dr2 + r2dΩ2).	(5)
+
+where dΩ2 = (dθ2 +sin2 θdφ2). At early stages, the universe is matter dominated and a(t) = ( 9C t2)1/3. At late stages, the universe is dominated by the cosmological constant and enters a de Sitter phase with a(t) = ( 3C )1/3 exp √Λ/3t.
+We plot the curvature evolution and profile of these spacetimes in the appendix.
+
+Now, to introduce the vacuum energy density, let us consider a scalar field with Lagrangian density
+
+
+1 αβ
+Lφ = − 2 g
+∂αφ∂βφ − V (φ)	(6)
+
+
+
+and energy momentum tensor
+
+
+
+T φ = ∂
+
+
+φ∂ φ − 1 (gδγ ∂ φ∂
+
+
+φ)g
+
+
+— V (φ)g
+
+
+(7)
+
+
+The lowest energy density of the field configuration is when the kinetic (or gradient) term vanishes and the potential is at the minimum V (φmin). The energy momentum (7) reduces to
+T vac = −V (φmin)gαβ = −ρvacgαβ	(8)
+
+This form of T vac is also the only Lorentz-invariant form for the vacuum energy.
+
+
+The old cosmological constant problem
+
+
+The common identification of the cosmological constant with the vacuum energy density is based on the mathemat-ical equivalence of the vacuum energy momentum tensor (8) and the cosmological constant term on the LHS of the EFE (1). Also, writing a lagrangian density that includes gravitational terms and terms from quantum field theory leads to the temptation to combine some of these terms; however, one should bear in mind that we don’t have such a unified theory yet.
+Now, if one considers that a geometrical cosmological constant term is an integral part of the EFE then the old cosmological constant problem can be expressed as (see for example [8, 13]): Why do all the contributions from vacuum energy density fantastically cancel with the geometrical Λ term? This formulation of the problem seems to be less often recalled in some of the recent literature. To see this quantitatively, one can combine equations (1) and
+
+(8) to write
+
+
+
+Λeffective =	Λ  + ρ
+
+
+(9)
+
+8πG
+
+/
+8πG
+vac
+
+5
+
+
+where from effective quantum field theory
+
+
+
+
+ρvac
+
+
+= 1	¯hω.	(10)
+2
+
+
+Now, if one considers only quantum field fluctuations cut off at particle energies of 100 GeV (this means, we consider only the well known physics of the standard model), one can write (with h¯ = c = 1) ρvac ∼ (100GeV )4. However, from astrophysical observations (Λeffective/8πG) is found to be comparable to the critical density, i.e. ∼ 10−48 GeV 4 which means that the two terms in the RHS of (9) must cancel to 56 decimal places.
+On the other hand, from the identification of the cosmological constant with the vacuum energy, the old Λ problem becomes: Why is the vacuum energy measured from astrophysics (∼ 10−48 GeV 4) so small compared to the value of the vacuum energy estimated from quantum field theory (∼ (100GeV )4)? Of course, the situation is made even worse by taking the GUT or Planck scales.
+This full identification may bring some limitations of its own to the old cosmological constant problem and is questioned later in this work.
+
+HOW MUCH FINE-TUNING DOES THE COSMIC COINCIDENCE REPRESENT? (THE NEW ”PROBLEM”)
+
+The cosmic coincidence problem is usually stated as why is the cosmic acceleration recent in the cosmic history of the universe (why “now”?) It is also discussed in terms of a fine tuning problem: i.e. why is the matter energy density of the same order of magnitude as the dark energy density at the present epoch? Related to this question is the fact that if the dark energy density was much larger then what is measured it would have dominated over the matter energy density much earlier and prevented structures from forming in the universe. It is important to discuss the cosmic coincidence because it is an argument that is used to motivate the search for dynamical components in order to be able to explain the coincidence. We will try to quantify some of these statements here.
+The matter energy density is related to the redshift by
+
+ρm(z) = (1 + z)3ρtoday(z = 0),	(11)
+
+
+and in a ΛCDM universe
+
+
+
+t(a) =
+
+
+
+a	da′
+=
+0 a′H(a′)
+
+
+
+a
+0 a′H0√Ω
+
+
+da′
+Λ + Ωm
+
+
+
+(12)
+a′−3
+
+
+where a =  1  is normalized to 1 today.
+
+6
+
+Now, from the concordance model Ωm ≈ 0.3 and ΩΛ ≈ 0.7 today and it follows that
+
+ρ =  ΩΛ ρtoday ≈ 2.33ρtoday.	(13)
+Λ	Ωm m	m
+
+At the transition from deceleration to acceleration the dark energy density is half the matter energy density and
+
+ 2ΩΛ  1/3
+
+
+(see for a first measurement of this [1]: 1 + ztrans = 1.46 ± 0.13).
+It is a clarifying exercise to evaluate the age of the universe t at this transition. Using (12) gives a transition age of ≈ 7.14 billion years (we use H0 = 72km/s/Mpc [3]), showing that the transition is not that recent in the time history of the universe. Moreover, ρm and ρΛ have been within the same order of magnitude starting roughly from 1 + z ≈ 2.85 (with ρm ≈ 9.94ρΛ) and that corresponds to an age of the universe of ≈ 3.38 billion years. i.e. ρm and ρΛ have been within the same order of magnitude for at least the last 10.32 billions years of the time history of the universe.
+In order to evaluate how much fine-tuning the cosmic coincidence represents, one could evaluate some informative fractions using the transition time or the period during which dark energy has been of the same order of magnitude as the matter energy density, compared to the whole history of the universe. These fractions provide the percent chances for an observer randomly put in the time history of the universe to have the matter energy density and the dark energy density being of the same order of magnitude. We will compare energy densities using a logarithmic scale of time, so the results will be similar to those using a logarithmic redshift scale.
+On a logarithmic scale, things can appear very significant on plots; however, the fractions are actually of a few
+
+
+percent:
+
+
+
+
+
+
+
+
+and
+
+
+
+ln ttoday − ln ttransition	2%,	(15)
+ln ttoday − ln ti
+
+ln ttoday − ln tsame−order	3%	(16)
+ln ttoday − ln ti
+
+
+
+ln ttoday − ln tsame−order	1%	(17)
+ln ttoday − ln tPlanck
+
+
+We used here ti = 1 sec as we considered observational constraints from the Big Bang nucleosynthesis and CMB results to trace back in time the universe up to 1 second at the e+e− annihilation. We also use the Planck time
+
+7
+
+tPlanck = 10−44 sec and find that the fraction is ≈ 1%. (Of course on a linear scale of time the coincidence is insignificant:
+
+
+
+
+and
+ttoday − ttransition	48%	(18)
+ttoday − ti
+
+
+
+
+
+ttoday − tsame−order	75%.)	(19)
+ttoday − ti
+
+
+In summary, even on a logarithmic scale the fractions remain of the order of a few percent. This is significant but not totally unusual in physics and astrophysics.
+Consequently, while it remains perhaps a motivated problem to seek models that could naturally explain some of these small fractions, this fine tuning should not constitute a barrier to reject models that address successfully the other cosmological constant problems.
+
+OBSERVATIONAL CONSTRAINTS ON THE EQUATION OF STATE PARAMETERS AND THE COSMOLOGICAL CONSTANT/DARK ENERGY QUESTIONS
+
+An important approach to the cosmological constant questions is to parameterize the dark energy using its equation of state, and then to use different cosmological data sets in order to determine these parameters. One can thus infer answers to the cosmological constant/dark energy questions from the values found for these parameters. As we will delineate further, some results will be more conclusive than others. It is essential to combine multiple complementary cosmological probes and techniques in order to break degeneracies between the cosmological parameters including the dark energy parameter space. A powerful combination for constraining the dark energy parameters is the Cosmic Microwave Background Radiation (CMB) plus distance measurements from the type Ia Supernovae (SNIe) and Weak Gravitational Lensing (WL) also called cosmic shear, e.g. see [50, 51, 52]. These probes provide orthogonal constraints that, when combined, reduce significantly the uncertainties on the individual parameters. Also, constraints from clusters of galaxies and baryons oscillations were shown to be good probes of the dark energy equation of state, see
+e.g. [21, 22]. Interestingly, WL allows one to do tomography by separating the source-galaxies into redshift bins in order to obtain further improvements on the parameter constraints, see e.g. [23, 24, 25]. In this analysis, we consider future constraints from the CMB+SNIe+WL combination plus WL tomography with various numbers of redshift bins.
+
+8
+
+TABLE I: Cosmological model. We use fiducial values for the parameters from recent results from the WMAP (3-years data
+results) + Large scale Structure + Supernova data as listed in table	with the respective references (we use for the equation
+of state the cosmological constant parameter values). We assume a spatially flat universe with Ωm + ΩΛ = 1. This fixes Ωm and H0 as functions of the basic parameters. We do not include massive neutrinos, or primordial isocurvature perturbations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+methodology
+
+
+In this analysis, we consider a cosmological model with 13 parameters that take the fiducial values in table I based on recent 3-years results from the Wilkinson Microwave Anisotropy Probe (WMAP) [2, 40, 41] combined with large
+scale structure and supernova data as given in table	below along with the respective references (except for the
+
+dark energy equation of state, where we use the cosmological constant values). We consider in this analysis, the two standard parameterizations for the dark energy equation of state w = P/ρ given by
+w(z) = w0 + w1z if z < 1 and w(z) = w0 + w1 otherwise, e.g. [1, 35], and
+
+w(a) = w0 + wa(1 − a), e.g. [36, 37].
+
+The dark energy density as a function of redshift is thus given by
+∫ z 1 + w(z′))dz′
+
+
+9
+
+
+TABLE II: Data sets used in [ ] to derive the constraints on equation of state parameter w using CMB, large scale structure
+and supernova data (table 9 in	]). See also the NASA’s data center for Cosmic Microwave Background (CMB) research,
+LAMBDA at http://lambda.gsfc.nasa.gov/.
+
+	data set/experiment
+	references
+	
+	
+	WMAP 3-years results
+2dF Galaxy Redshift Survey BOOMERanG + ACBAR CBI + VSA
+Sloan Digital Sky Survey Supernova ”Gold Sample”
+Supernova Legacy Survey (SNLS)
+	(Spergel, et al., 2006) [ 41] (Cole, et al., 2005) [ 26]
+(Montroy, et al., 2005, Kuo, et.al., 2004) [28, 29]
+(Readhead, et al., 2004, Dickinson, et.al., 2004) [30, 31]
+(Tegmark, et al., 2004; Eisenstein, et.al., 2005) [27, 32]
+(Riess, et.al., 2004) [34] (Astier, et al., 2006) [ 33]
+	
+	
+
+Despite its simplicity, statistical inference theory using Fisher matrices was proven to be a very efficient tool to calculate constraints that will be obtained from future planned or proposed experiments. As an example of its efficiency, one could look at the good predictions on the parameter uncertainties forecasted, for instance, by [23, 38]
+for WMAP and compare them to the real WMAP results, obtained years later	]. We describe here only the basic
+
+ideas of the methods that we use in the current paper but provide references [	where the full detail can be found.
+
+We use the standard approach to calculate the statistical error on a given parameter pα by using the combination:
+
+σ2(pα) ≈ [(FCMB + FW L + FSNe + Π)−1]αα,	(21)
+
+where FCMB, FW L and FSNe are the Fisher matrices from CMB, weak lensing, and supernovae respectively, and Π is the prior matrix. As discussed in some detail in [23, 25], we calculate FW L using
+
+
+Fαβ
+ℓmax
+=
+ℓ=ℓmin
+	1	∂Pκ ∂Pκ
+(∆P )2 ∂pα ∂pβ ;	(22)
+
+where the lensing convergence power spectrum is given by [46, 47, 48]:
+Pκ = 9 H4Ω2 ∫ χH g2(χ) P3D 	l	, χ  dχ.	(23)
+
+l	4  0  m  0
+/
+a2(χ)
+sinK(χ)
+
+
+
+
+where P3D is the 3D nonlinear power spectrum of the matter density fluctuation, δ; a(χ) is the scale factor; and sinK χ = K−1/2 sin(K1/2χ) is the comoving angular diameter distance to χ (for the spatially flat universe used in this
+
+10
+
+analysis, this reduces to χ). The weighting function g(χ) is the source-averaged distance ratio given by
+
+
+
+g(χ) =
+χH
+n(χ′)
+χ
+sinK(χ′ − χ) sinK(χ′)
+
+dχ′,	(24)
+
+where n(χ(z)) is the source redshift distribution normalized by	dz n(z) = 1. The uncertainty in the observed lensing spectrum is given by: [47, 48]
+
+
+∆Pκ(ℓ) =
+
+2 (2ℓ + 1)f
+
+
+
+
+sky
+
+  Pκ(ℓ) +
+ γint2 !
+
+/
+/
+
+,	(25)
+
+
+where fsky = Θ2π/129600 is the fraction of the sky covered by the gravitational lensing survey of dimension Θ in
+degrees, and γ2  1/2 is the intrinsic ellipticity of galaxies. For this analysis, we consider a lensing survey with 10%
+sky coverage, a median redshift of 1, an average galaxy number density of n¯ = 30 gal/arcmin2, and intrinsic ellipticities
+
+int 
+2	1/2 = 0.4. We calculate the constraints on the parameters using five tomographic bins for this survey. We also
+consider a deeper survey (space-based like) with fsky = 0.10, a median redshift of roughly 1.5, n¯ = 100 gal/arcmin2,
+and γ2  1/2 ≈ 0.25. We calculate constraints from 10 tomographic bins using this survey. For both surveys, we use
+ℓmax = 3000 to keep the assumption of a Gaussian shear field valid.
+Weak lensing has been recognized as a very powerful probe of dark energy parameters, however, several systematic
+
+effects have been identified so far, see [ ] and references therein for an overview. In this analysis, we included the
+
+effect of the shear calibration bias [43,	, 54, 55, 56] on our results by marginalizing over its parameters. Because
+
+of this bias, the shear is systematically over or under-estimated by a multiplicative factor, and results in an overall rescaling of the shear power spectrum. Following the parameterization discussed in [42], we used the absolute power calibration parameter ζs and the relative calibration parameter ζr between two redshift bins. Another systematic effect that we considered in the analysis is the incomplete knowledge of the source redshift distribution [44, 57]. A remedy to this poor knowledge of the redshift distribution using spectroscopic redshift has been explored recently in [44]. In the present analysis we marginalize over the redshift bias by including the characteristic redshift of the distribution as a systematic parameter zs and we assume a reasonable prior of 0.05 on this parameter.
+In order to calculate the supernova Fisher matrix, FSNe, we use (see, e.g. [58, 59])
+
+F	= Σ 	1	∂DL,i ∂DL,i .	(26)
+
+where DL ≡ H0dL/c is the dimensionless luminosity distance to a supernova, given in a spatially flat model by
+∫ z 	1	
+
+/	/ //
+
+11
+
+where Q(z) is as defined in Eq.(20). We recall that the SN Ia apparent magnitude as a function of redshift is given by m(z) = 5 log10 (DL(z)) + M, where M depends as the absolute magnitude of type Ia supernovae as well as on the Hubble parameter H0. As usual, we treat M as a nuisance parameter. We use two sets of 2000 SNe Ia uniformly distributed with zmax = 0.8 and zmax = 1.5. It is important to briefly note here that there are systematic uncertainties associated with supernova searches: these include luminosity evolution, gravitational lensing and dust; see, e.g. [60] and references therein. In order to partly include the effect of these systematics and the effect of the supernova peculiar velocity uncertainty [62], we follow [60, 61] and use the following quadrature for the effective magnitude
+
+uncertainty
+
+σeff = s 2
+5σv	2
+ln(10)cz
++ N{per bin}δ2
+(28)
+
+where, σv = 500km/sec is the peculiar velocity, and δm is a floor uncertainty in each bin [60, 61]. The quadrature relation (28) assures that there is an uncertainty floor set by the systematic limit δm so that the overall uncertainty per bin cannot be reduced to arbitrarily low values by adding more supernovae.
+Finally, for the CMB and lensing tomography, we use the generalized form of the Fisher matrix above (e.g. see
+ℓmax		∂C	∂C 
+Fαβ =	(ℓ + 1/2)fskyTr  C−1	ℓ C−1	ℓ	,	(29)
+
+ℓmin
+ℓ  ∂pα
+ℓ  ∂pβ
+
+where Cℓ is the covariance matrix of the multipole moments of the observables CXY = CXY + NXY with NXY being
+ℓ	ℓ	ℓ	ℓ
+the power spectrum of the noise in the measurement. Here XY takes the values κκ for lensing tomography spectra and cross-spectra, and T T , T E, and EE for CMB spectra. We consider constraints from 1-year data from the Planck satellite. Our findigs are discussed in the next section.
+
+Summary of results and implications for the cosmological constant/dark energy questions
+
+
+Our results, summarized in table III, show that when WL with multiple-bins tomography is added to the CMB+SN combination, the uncertainties on the equation of state parameter w0 reduce by roughly a factor of 3 and the uncer-tainties on w1 and wa reduce by roughly factors of 3 or 4 at least. Also, we note that the uncertainties on the set
+{w0, w1} are different from those of the set {w0, wa} showing that the uncertainties are parameterization dependent. The deeper lensing survey, which allows one to implement 10-bins tomography, provides an additional factor of 2 improvement on w1 and wa compared with the 5-bins tomography results. We find that in order to bring the uncer-tainties on both parameters to the order of several percent, very ambitious surveys are required. Current observations
+
+12
+
+TABLE III: Dark energy parameter constraints from various combinations of CMB, Weak Gravitational Lensing and Supernova future surveys. The constraints are (1σ uncertainties) on the two dark energy parameterizations given in section IV A. The uncertainties are calculated using combinations of 1-year data from Planck, 2000 uniformly distributed supernovae with zmax = 0.8, 1.5, a lensing survey with 5-bins tomography, and a very deep lensing survey with 10-bins tomography. The results are
+presented for the dark energy parameters {w0 , w1} and {w0 , wa}. The systematic effects discussed in section	are included
+in the calculations.
+Simulated Experiment/Survey
+	Parameterization-1
+	parameterization-2
+	
+	
+	σ(w0)
+	σ(w1)
+	σ(w0)
+	σ(wa)
+	
+	1-year data from PLANCK + 2000 SN with zmax = 0.8
+	0.11
+	0.26
+	0.13
+	0.47
+	
+	1-year data from PLANCK + 2000 SN with zmax = 0.8
++ WL survey with 5-bins tomography, zmed = 1.0 and fsky = 0.10
+	0.039
+	0.092
+	0.033
+	0.12
+	
+	1-year data from PLANCK + 2000 SN with zmax = 1.5
+	0.08
+	0.20
+	0.10
+	0.35
+	
+	1-year data from PLANCK + 2000 SN with zmax = 1.5
++ WL deep survey with 10-bins tomography, zmed = 1.5 and fsky = 0.10
+	0.022
+	0.043
+	0.024
+	0.057
+	
+	
+
+are only able to constrain, with some significance, models with a constant equation of state, i.e. one single parameter with no redshift dependence. For example, the WMAP team recently combined constraints from currently available CMB, large scale structure, and supernova data sets (see table II) and obtained w = −0.926+0.051 (table 9 in [41]).
+Our table	shows the 1-sigma uncertainties on the equations of state parameters, and in order to consider the
+
+2 and 3-sigma constraints, one has to multiply the values found by factors of two and three respectively. Therefore, one can see that even when ambitious surveys are considered the remaining uncertainty is still too large to constrain significantly multiple-parameters dark energy models. However, It will be possible to exclude some proposed models with significant deviations from the cosmological constant parameters, namely w0 = −1, and w1 = 0. These include for example trackers models [63] and some SUGRA inspired models [64] with for example w0 = −0.8 and w1 = 0.3. The most decisive answer will be if the data can show conclusively that dark energy is not a cosmological constant. A very suggestive but less decisive answer will be to show that the dark energy parameters are those of a cosmological constant to a very high level of precision (a few percent, perhaps). But of course, the degeneracy in this case will remain and other tests, beyond the equation of state approach, will be needed. In this case, other tests are also
+
+13
+
+necessary because the problems of the cosmological constant are just re-affirmed. Finally, an important question that need to be addressed in all cases is whether the equation of state obtained is a true or forced equation of state as we explore further below. We discuss in the next sections some possible directions of such tests and illustrate one promising test using cosmological probes.
+
+RECONSIDERING AND TESTING SOME OF THE ASSUMPTIONS ABOUT THE OLD COSMOLOGICAL CONSTANT AND DARK ENERGY PROBLEMS
+
+In this section we propose some examples on how one could question some of the assumptions made about the cosmological constant/dark energy problems and, in some cases, how to put this questioning to the test.
+
+Cosmological tests beyond the equation of state approach: The expansion history versus the growth rate of large scale structure
+
+The approach of the equation of state is certainly an important one. However, an important question that remains after some dark energy parameters are obtained from analyzing observational data is as follows. Is this an effective equation of state of some dark energy component in the Einstein’s equations, or is this just a forced equation of state obtained from fitting dark energy models on the top of some modified gravity at cosmological scales? New tests are necessary in order to address this question.
+Indeed, of great importance are innovative ways of using current and future astrophysical observations that could distinguish between acceleration models beyond the equation of state. In other words, for the same degenerate effective equation of state, these novel tests could distinguish between dynamical dark energy models, a geometrical cosmological constant, and acceleration due to some modification to the gravity sector, and thus will allow one to test some of the important basic assumptions. Some cosmological probes such as weak gravitational lensing (for reviews, see [50, 51, 52, 56] and references therein) and clusters of galaxies (see for example [21, 22] and references therein) are very rich tools and very promising for identifying this type of test because they provide more than one way to constrain dark energy or cosmic acceleration. Both probes can capture the effect of dark energy on the expansion history and also its effect on the growth rate of large-scale structure (the rate at which clusters and super clusters of galaxies form over the history of the universe). Interestingly, this can be used to identify consistency checks to test the dark energy beyond the equation of state degeneracy. In particular, this could allow one to test dark energy
+
+14
+
+models based on new particles and fields versus cosmic acceleration due to some modification in the curvature sector of the EFE as suggested in some recent studies, see e.g. [65, 74, 75], recent review [15] and references therein. Most importantly, these kinds of consistency checks could be used to test some of the assumptions discussed in this paper, namely on the origin of the intrinsic constant curvature of spacetime. Another test beyond the equation of state and based on the dark energy potential was discussed in [76].
+In this paper, we explore an example to demonstrate that tests that go beyond the equation of state degeneracy are possible. An important point for this test is that cosmic acceleration affects cosmology in two ways: 1) It affects the expansion history of the universe by speeding it up, 2) It affects the growth rate of large scale structure in the universe by suppressing it. The idea explored is that, for dark energy models, these two effects must be consistent one with another because their respective functions are mathematically related by General Relativity equations. The presence of significant inconsistencies between the expansion Hubble function and the growth rate function could be the signature of some modified gravity at cosmological scales as we will demonstrate.
+In order to illustrate how the test works, we will need to use a viable modified gravity model. We choose a model proposed by Dvali, Gabadadze and Porrati (DGP) [65] where the cosmic acceleration is due to the effect of an extra large dimension modifying gravity at cosmological scales. This DGP model is motivated by higher dimensional physics and is not ruled out by current astrophysical observations [66, 69, 79]. We have no particular interest in the phenomenology and precise testing of the viability of this model. We are only interested to use it as an example in order to illustrate the test considered. We refer the interested reader to some studies dedicated to the DGP model phenomenology [69, 70, 71, 81].
+We provide here a very brief description of this model but again refer the reader to [65, 67] for a full description. The action for this five-dimensional theory is [65, 67]
+S	= 1 M 3 ∫ d4x dy√−g	R	1	2 ∫ d4x√−g	R	+ S	,	(30)
+
+where the subscripts 4 and 5 denote quantities on the brane and in the bulk, respectively; M(5) is the five dimensional reduced Planck mass; M(4) = 2.4 × 1018GeV is the four dimensional effective reduced Planck mass; R and g are the Ricci scalar and the determinant of the metric, respectively. The first and second terms on the right hand side describe the bulk and the brane, respectively, while Smatter is the action for matter confined to the brane. The two
+different prefactors M 3 /2 and M 2 /2 in front of the bulk and brane actions give rise to a characteristic length scale
+
+
+[77], rc = M 2
+3
+(5)
+. If M(5) is much less than M(4), then the brane terms in the action above will dominate over
+
+the bulk terms on scales much smaller than rc, and gravity will appear four dimensional. On scales larger than rc,
+
+15
+the full five dimensional physics will be recovered, and the gravitational force law will revert to its five dimensional 1/r3 form. This is usually discussed in terms of gravity leakage into an extra dimension. Ref. [66] shows that tuning M(5) to about 10 − 100MeV, implying rc ∼ H0−1, is consistent with cosmological data. They have also been discussed in [79]. Low redshift cosmology in DGP brane worlds was studied in [67, 77]. Following [67], one could define the
+effective energy density ρrc ≡	3 2  so that Friedmann’s first equation becomes
+
+(32πGrc )
+
+2
+DGP
+
+k
++ a2
+
+= 8πG  √ρ + ρ
+
++ √ρrc
+
+ 2 .	(31)
+
+
+1 −2  −2
+where Ωr ≡	r	H	. We focus here on a flat universe (k = 0) containing only nonrelativistic matter, such as
+baryons and cold dark matter, in which Ωrc =  1−Ωm 2. In this model, the gravitational “leakage” into the fifth
+dimension, on large length scales, becomes a substitute for dark energy.
+
+Now, for the standard general relativistic (GR) cosmological model, FLRW, with zero spatial curvature (k=0), and a dark energy component (DE), the expansion history is expressed by the Hubble function and is given by
+HGR+DE (z) = H0√Ωm(1 + z)3 + (1 − Ωm)Q(z).	(32)
+
+And the growth rate of large scale structure G(a=1/(1+z)) is given by integration of the differential equation, [72, 73],
+G′′	+  7 − 3	w(a)  GGR′  +DE + 3 1 − w(a) GGR+DE = 0,	(33)
+
+where ′ ≡ d/da, G = D/a is the normalized growth rate, Q(a) is as given by equation 20, and
+
+	Ωm	
+X(a) = (1 − Ω  )a3Q(a) .	(34)
+
+
+
+On the other part, for the spatially flat DGP model, the expansion Hubble function is given by
+H	(z) = H  1 (1 − Ω  ) + r 1 (1 − Ω  )2 + Ω  (1 + z)3 .	(35)
+
+and the suppression of the growth rate function is given by, [79, 80]
+
+
+¨
+DGP
++ 2H
+
+
+
+DGP
+
+δ˙DGP
+
+/
+— 4πGρ 1 + 3β δ
+
+
+
+DGP
+= 0	(36)
+
+where
+
+
+
+β = 1 − 2rcH
+
+
+
+
+
+
+
+DGP
+
+
+
+ 1 +
+
+
+
+
+
+H˙ DGP
+2
+DGP
+
+
+
+	(37)
+
+We illustrate in Fig.1, Hubble expansion functions and growth rate functions for dark energy and DGP models including the cosmological constant model, ΛCDM. The figure shows that compared to a ΛCDM model with the same
+
+16
+
+
+
+
+24	1
+
+0.95
+23.5
+0.9
+
+
+23
+0.85
+
+
+
+22.5
+
+
+22
+
+
+21.5
+
+
+
+
+
+
+
+
+
+
+
+0.5	0.6	0.7	0.8	0.9	1	1.1	1.2	1.3
+z
+
+0.8
+
+0.75
+
+0.7
+
+0.65
+
+0.6
+
+
+
+
+
+
+
+
+
+
+
+
+0.2	0.3	0.4	0.5	0.6	0.7	0.8	0.9	1
+a
+
+FIG. 1: Supernova Hubble diagrams (Left) and Growth rate functions for dark energy and DGP models. Note that the ΛCDM model (red solid line) and the Ωm = 0.20 DGP model (blue dotted) have degenerate Hubble diagrams, but different growth rates. The degeneracy of the Hubble diagrams is even stronger for SUGRA (green dashed) and Ωm = 0.27 DGP (black double dotted) models. Interestingly, the growth rate in the Ωm = 0.27 DGP model is suppressed with respect to that in the ΛCDM model, which has the same Ωm.
+
+matter density, a DGP model has a distinct suppression of the growth rate. Also, Fig.1b displays how the degenerate models of Fig.1a show distinct growth rate functions.
+The basic idea for the test explored is that equations (32) and (33) must be mathematically consistent one with another via General Relativity. Similarly, equations (35) and (36) must be consistent one with another via DGP theory. A consistency cross-check of these two functions constitute a test for the fundamental underlying theory.
+In order to apply the test discussed below, we assume the availability of a sample of NSNe = 2000 type Ia supernova, evenly distributed in redshift between zMin = 0 and zMax = 1.7, with a magnitude uncertainty per supernova of σm = 0.2. As discussed in section IV A, we also include systematic effects using the quadrature (28). We also assume the availability of measurements of the growth rate in twenty bins evenly spaced in the scale factor a,
+between amin = 0.25 and amax = 1 and an uncertainty of σG(a)/G(a) = 0.02. In order to break the usual degeneracy between Ωm and the equation of state parameters, we add to the SN Ia data and to the growth rate measurements
+a constraint from the CMB shift parameter. The CMB shift parameter for a spatially flat universe is given by
+R = Ω1/2 ∫ zCMB   dz	 , where z	= 1089 is the redshift of the surface of last scattering, given in [2]. Ref. [82]
+reports that the value of R from current data is Robs = 1.716 ± 0.062.
+
+In order to demonstrate the working of the consistency check we proceed as follows: We assume that the true
+
+17
+
+cosmology is described by a DGP model and simulate the expansion and growth data using a fiducial DGP model. Then we ask what contradictions arise when the data are instead analyzed based on the assumption of a dark energy model (as mentioned earlier, we are not particularly interested in the DGP cosmology here but we want to use it as an example to illustrate the procedure.)
+Because we will generate the data using the DGP model, the consistency relation from General Relativity between the expansion history and the growth rate of large scale structure will be broken. The dark energy equation of state wexp(z) which best fits measurements of the expansion will not be consistent with the equation of state wgrowth(z) which best fits measurements of the growth.
+The methods and steps we use are as follows:
+
+We use a fiducial DGP model with Ωm = 0.27 and simulate the data for the expansion and the growth rate.
+
+We generate supernova magnitudes, a growth rate function, and the CMB shift parameter
+
+We use a χ2 minimization method in order to find the best fit dark energy model to the expansion. We obtain the best fit model to the supernova magnitudes and the CMB shift parameter with a first dark energy parameter space {Ωde, w0, w1}. The χ2 minimization method was discussed in detail in [35] and was shown to give similar results to those from Monte Carlo Markov Chain method although the χ2 minimization can have a better handle on degeneracies [35])
+We use the χ2 minimization in order to find the best fit dark energy model to measurements of the growth rate of large scale structure. We determine the best fit model to the growth rate function and the CMB shift parameter and obtain a second dark energy parameter space {Ω′de, w0′ , w1′ }
+Next, we use a standard Fisher matrix approach to calculate the confidence regions (or χ2 contours) around the two best fit dark energy models (this standard procedure is discussed in detail in references [45])
+Then, we compare the allowed regions in the {Ωde, w0, w1} parameter space between the two data combinations in order to look for inconsistencies
+Our results, in figure 2, show that the two allowed regions in the dark energy parameter space are significantly different. This signals the expected inconsistency between the expansion history and the growth rate of large scale structure. The source of the inconsistency is from point (i) where the data was generated using a DGP model,
+i.e. from our hypothesis that the true cosmology is that of a modified gravity DGP model. Thus, the inconsistency
+
+18
+
+
+
+
+
+
+1
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0
+
+-0.2
+
+-0.4
+
+-0.6
+
+-0.8
+-1.8	-1.6	-1.4	-1.2	-1	-0.8	-0.6	-0.4
+w0
+FIG. 2: LEFT(2D): Best fit equations of state: Solid contours are for fits to SN Ia simulated data and the CMB shift parameter R, while dashed contours are for fits to the growth-rate simulated data and the CMB shift parameter. RIGHT(3D): Best fit Dark Energy parameter spaces (Ωde, w0, w1). The ellipsoid to the right of the 3D-figure is for fit to SN Ia simulated data and the CMB shift parameter, while the ellipsoid to the left (3D-figure) is for fits to the growth rate simulated data and the CMB shift parameter data. For both figures, the significant difference (inconsistency) between the parameter spaces found using the two combinations is due to the DGP model assumed by hypothesis and used to simulate the data. The inconsistency is thus an indication that cosmic acceleration in this case is due to modified gravity at cosmological scales rather then a Dark Energy component.
+
+constitute an observational detection of the assumed underlying modified gravity model. And finding two significantly different equations of state implies that these are not true but forced ones.
+The test is based on the comparison of measurements of the expansion history and measurements of the growth rate of large scale structure and shows that we can go beyond the equation of state analysis. We demonstrated here the working of consistency tests based on this comparison and provided a preliminary implemention in [83]. Other works that explored the same idea include [84, 85]. Future work is needed in order to make these tests more robust and generic: e.g. to consider other dark energy models (with couplings, unusual sound speeds), other modified gravity models, and comparison with systematic effects of the probes. Another interesting approach was discussed in reference
+[86] where the authors considered signatures of quintessence models and their extension to scalar-tensor gravity on weak gravitational lensing observables. They found that some models can let an imprint of ten percent on lensing observables. The important point from these examples and others is that cosmological observations that can probe the growth of cosmological perturbations are promising tools to learn about the acceleration of the universe beyond
+
+19
+
+the effective equation of state degeneracy.
+
+
+The Weyl-Lovelock theorem as an argument against the full identification of the cosmological constant with vacuum energy
+
+Based on the following theorems, one could argue against the full identification of the cosmological constant with vacuum energy. Indeed, Cartan [87], Weyl [88] and Vermeil [89] proved different theorems showing that the only tensor of valency two, Aαβ , that is:
+constructed from the metric tensor gαβ and its first two partial derivatives, gαβ,γ and gαβ,γδ,
+divergence free, i.e. Aαβ ;β = 0,
+symmetric, i.e. Aαβ = Aβα,
+linear in the second derivatives of gαβ, is
+Aαβ = c1Gαβ + c2gαβ	(38)
+
+where c1 and c2 are constants and Gαβ is the Einstein tensor (2). Lovelock [90, 91] showed that conditions c) and d) are superfluous when the spacetime dimension is 4. (Note that when Aαβ is put in the EFE, c1 is absorbed in the κ factor.)
+In Refs. [88] and [87], it was first proven that the most general curvature tensor Aαβ is a linear combination of
+Rαβ , Rgαβ and gαβ , i.e. of the form
+
+Aαβ = aRαβ + bRgαβ + cgαβ,	(39)
+
+where a, b, and c are constants. Then values a = 1 and b = − 1 are derived from the divergence free condition
+
+(conservation law).
+
+Consequently, one is tempted to take the standpoint that unless one is guided by some physical laws or measure-ments, setting the constant c (i.e. Λ) in equation (39) to any particular value, including zero is unjustifiable.
+Imposing a priori a particular value on Λ (for instance zero) is perhaps making the same mistake Einstein did by
+
+putting the particular value
+
+4
+ΛEinstein = 9C2	(40)
+
+(for a closed static universe) where C is as defined previously, after equation (4).
+
+20
+
+Thus, this suggests that a geometrical constant Λ-term in the EFE (1) is part of the equations on its own right with no reference to any energy momentum tensor. This could be used as an argument not in favor of the exact identification of the geometrical cosmological constant with vacuum energy.
+
+What are the implications of the simplest solution in view of principles of General Relativity?
+
+
+As discussed in the previous sections, some of the assumptions underlying the cosmological constant problems are not unquestionable and it is important to find ways to challenge them and put them to the test.
+Needless to recall, the simplest solution can arise from, first, abandoning the assumed identification of the cosmo-logical constant with vacuum energy (based on the theorems discussed in the previous sub-section V B), and second,
+putting on the side the cosmic coincidence (see section	for a discussion). The remaining question is then why
+
+the huge vacuum energy densities (see section II B) from quantum field theory estimations do not contribute to the energy budget in the universe. This question can be legitimately replaced by, how does vacuum energy contribute to the EFE? For example, is it correct to try to add contributions from vacuum energy density to the EFE using some ultra-violet cutoff energy? We discuss this point more in section V D, see also [93, 94, 95, 96].
+Further, did we really exhaust all possibility of exact cancelation mechanisms for vacuum energy? [8, 9, 10, 11, 12,
+/
+It is perhaps worth mentioning that a rather negative vacuum energy/cosmological constant was expected within some candidates for a unified theory such as String Theory [98], as there is no attractive way to derive a stable vacuum with a positive cosmological constant [98]. So, in addition to the magnitude problems, could this sign problem be a further indication to revise the full identification above?
+In this simple solution, what is measured currently is simply an intrinsic curvature of the spacetime, and the value of Λ is just a constant measured from experiments, as is Newton’s gravitational constant G.
+At this point, we would like to discuss the following subtle point. The usual aesthetic interpretation of one of General Relativity’s principles is that the mass-energy content of the universe creates curvature of the spacetime (assuming a zero Weyl tensor as in standard FLRW cosmology). One could then ask the following question: if spacetime is to have a curvature in absence of mass-energy sources and this curvature is not due to vacuum energy then what is generating this curvature? There are two possible answers to the question: If one wants to preserve the interpretation above, then one needs to explain the source of this curvature. However, it is also correct to take the other standpoint and consider that the Einstein field equations are a set of differential equations containing a cosmological constant and
+
+21
+
+governing the laws of General Relativity, and that in absence of sources the trivial spacetime is simply de Sitter with an intrinsic curvature.
+The simple solution we discussed in this section is of the latter type and is a consequence of questioning some of the assumptions usually made. To our best knowledge, this particular simple but subtle point about loosing the aesthetic interpretation above has not been discussed in literature about dark energy.
+With these reconsiderations in mind, it is important to think about identifying new astrophysical tests or experi-ments at the interface of particle and gravitational physics, as we discuss in the next sub-section.
+
+Vacuum energy and Casimir effect in gravitational and cosmological contexts
+
+
+Another possible successful approach to the cosmological constant problems is to think of a situation or an ex-periment where the validity of the cosmological constant-vacuum energy identification can be put to the test. A geometrical cosmological constant has no quantum properties while vacuum energy has both gravitational and quan-tum properties. Also, is it possible to learn more on how vacuum energy contributes to the cosmological constant? Some of these questions started to be addressed in the literature as we cite further.
+It is perhaps relevant at this point to recall the Casimir effect [99] which is a purely quantum field theory phenomenon (see [100] for a recent comprehensive review, and references therein.) The Casimir effect results from a change in the zero-point oscillations spectrum of a quantized field when the quantization domain is restricted or when the topology of the space is non-trivial. For example, a Casimir force appears as the result of the alteration of the vacuum energy by some boundaries. In its simplest form, predicted by Casimir [99], two neutral plane parallel conducting plates
+
+placed in a vacuum at a distance a from one another will experience an attractive force FC
+= − π2h¯c S where S ≫ a
+
+is the plate area. The Casimir effect has been now extensively measured with a few percent precision [100].
+
+Cosmologically, the Casimir effect is significant when the topology of the model of the universe is non-trivial (different from an infinite Euclidean topology), see e.g. [101]. The effect has been discussed in models with non-trivial topology, notably the simple case of a closed FRW universe with a 3-torus topology, see e.g. [102]. Also, the Casimir energy has been used from compact extra dimensions [94, 95, 96] to discuss the cosmological constant problem, and with models with supersymmetric large extra dimensions to propose cancelation mechanisms for the cosmological constant problem, see e.g. [97].
+In a more relevant context for our discussion, one would like to study, via the Casimir effect, the gravitational properties of the vacuum energy. For example, Refs. [103, 104] calculated correction terms to the Casimir force due
+
+22
+
+to the weak gravitational field. Such corrections represent the effect of gravitational curvature on quantum vacuum fluctuations. The authors of Ref. [104] evaluated the order of the force acting on a Casimir apparatus redshifting in a weak gravitational field and concluded that, although some issues with signal modulation need to be solved, testing such force should be feasible and within reach of present technological resources.
+Now, related to our question on how the vacuum energy may fit within the EFE, it has been argued in some papers, see for example [94, 95, 96], that as the measured Casimir effect is related to vacuum energy differences, the vacuum energy may not contribute to the cosmological dynamics via some fixed cutoff energy but rather via energy differences as in Casimir energy. This Casimir energy can be produced from some compact extra dimensions [94, 95, 96] or non-trivial topology of the spacetime [101].
+We could state that if this is the case, then as we have not yet detected any non-trivial topology for a wide rang of models [105], this could imply the vanishing of the vacuum energy contribution at cosmological scales. On the other hand, not all non-trivial topologies have been ruled out and one could push the idea further.
+Therefore, questioning and testing how vacuum energy contributes to the cosmological constant using, for example, the Casimir effect in a cosmological context may prove helpful to the dark energy questions.
+
+CONCLUDING REMARKS
+
+
+We discussed different formulations of the cosmological constant/dark energy problems and some of the assumptions underlying them. We argued for the usefulness of clarifying and questioning some of these assumptions and identifying new strategies in order to put them to the test.
+We used some fraction calculations in order to evaluate how much of a fine-tuning is involved in the cosmic coincidence. We found that these fractions are of the order of a few percent even in the worst cases. This is significant but not totally unusual in physics and astrophysics. Therefore, on one hand, it remains perhaps a motivated and interesting problem to seek models that could naturally explain these numbers. On the other hand, it was important to clarify that this fine tuning should not constitute a barrier that rejects a successful solution for the other cosmological constant problems.
+Current and future plans are focused on constraining the equation of state of dark energy using cosmological probes. This is certainly an important approach and some progress has been made, however as we showed in section IV, constraining a variable equation of state will require very sophisticated and challanging future experiments. Furtheremore, this approach is limited in the kind of decisive answers it could provide on the nature of dark energy.
+
+23
+
+Indeed, unless we are lucky enough to find a dark energy that has an equation of state significantly different from that of a cosmological constant, new kinds of tests or experiments will be necessary in order to provide conclusive answers to the dark energy problem. For example, finding that dark energy parameters are those of a cosmological constant to a few percent precision will be very suggestive but will require tests different from the equation of state in order to rule out decisively dynamical dark energy models. Now, even if we are ready to accept some high level of precision to be satisfactory (or if we reach fundamental limitations of our experiments), finding dark energy parameters that are characteristic of a cosmological constant will only confirm the cosmological constant problems with no further clues. Further, once an equation of state is determined from cosmological observations, one is always left with the following question: Is this an effective equation of state of some dark energy component in the energy momentum tensor or is this a forced equation of state obtained by fitting dark energy models on the top of some modified model of gravity? Therefore it is important to encourage other directions and strategies for approaching the dark energy problems.
+In particular, we discussed the relevance of questioning and challenging some of the assumptions underlying the formulation of the cosmological constant problems in order to look for new types of tests.
+Next, we showed that comparing cosmological observations of the expansion history and cosmological observations of the growth rate of large-scale structure can distinguish between cosmic acceleration due to some dark energy models and cosmic acceleration due to some modification to gravity physics at cosmological scales. The basic idea is that the effect of cosmic acceleration on the expansion function and its effect on the growth rate function must be mathematically consistent one with another because of the underlying gravity theory (General Relativity). As shown in section V-A, the failure in the consistency relation can be used as a test to distinguish between cosmic acceleration due to dark energy models and acceleration due to modified gravity at cosmological scales. This consistency test shows the potential of some cosmological probes such as, supernova searches, gravitational lensing and clusters of galaxies to go beyond the equation of state approach in order to address the cosmological constant/dark energy questions.
+Next, motivated by some theorems on the most general curvature tensor in the Einstein field equations, we argued that the identification of the cosmological constant with the vacuum energy is not unquestionable and might bring some limitations of its own because it changes the formulation of the old cosmological constant problem. Recall that as a result of this questioning, dark energy can be identified as a simple geometrical cosmological constant. In the absence of sources, the trivial spacetime is then de Sitter with an intrinsic constant curvature. However, then two questions arise. i) An important interpretation of one of principles of General Relativity is that the mass-energy content of the universe creates curvature of the spacetime. One could then ask the following question: if spacetime is
+
+24
+
+to have a curvature in the absence of mass-energy sources, and this curvature is not due to vacuum energy, then what is generating this curvature? There are two possible answers to this question: If we want to preserve the interpretation above then we do need to explain this curvature. However, it is fully correct to take the other standpoint and consider that the Einstein field equations are a set of differential equations containing a cosmological constant and governing the laws of gravity (General Relativity), and that in the absence of sources, spacetime has an intrinsic constant curvature. This last possibility requires one to sacrifice the important interpretation mentioned above. ii) The second question is why would the huge vacuum energy densities evaluated from quantum field theory calculations not contribute to the measured effective cosmological constant? As we discussed, this question could be re-addressed in the context of how the vacuum energy may contribute to the Einstein field equations. In particular, is the usual method of using a given ultraviolet cutoff energy as a source of gravity questionable? For example, other propositions have been made in literature [94, 95, 96] where vacuum energy will contribute via energy differences as experienced with the Casimir effect.
+Finally, we pointed out the possible role of the Casimir effect used in gravitational and cosmological contexts for testing some of the assumptions and questions discussed. This is a purely quantum field theory phenomenon and could be used to look for clues on how the vacuum energy may fit within the Einstein field equations. Other kinds of experiments at the interface between quantum field theory and general relativistic principles have been also discussed in [106, 107, 108, 109] and might be of similar interest.
+We conclude that challenging some of the assumptions underlying the formulation of the cosmological constant/dark energy problems and putting them to the test may prove useful and necessary to make progress on these questions.
+
+Acknowledgments
+
+
+The author thanks Latham Boyle, Simon DeDeo, G.F.R. Ellis, Chris Hirata, Pat McDonald, David Spergel, Paul Steinhardt, and Amol Upadhye for useful comments. The author thanks James Richardson for reading the manuscript.
+This is not a review paper and we acknowledge that the list of references cited here is incomplete. We tried to provide only some examples from the literature when necessary.
+Partial support from the Natural Sciences and Engineering Research Council of Canada (NSERC) and NASA Theory Award NNG04GK55G at Princeton University is acknowledged. The author acknowledges the partial support from the Hoblitzelle Foundation and a Clark award at the University of Texas at Dallas.
+
+25
+
+
+
+
+
+2e-171
+
+
+
+
+
+
+
+
+
+
+
+
+0
+0	5e+27	1e+28	1.5e+28	2e+28
+t
+
+1.6e+28 1.8e+28  2e+28  2.2e+28 2.4e+28 2.6e+28 2.8e+28  3e+28
+t
+
+FIG. 3: a) Plot of the curvature invariant K = Rαβ γδ Rγδ αβ. b) Plot of the differential invariant DiRiem = Rαβ γδ ;η Rγδ αβ ;η. The curvature decreases during a matter dominated universe to reach a constant curvature Lambda-dominated universe.
+Length units are used with Λ = 10−56cm−2. We also display on the left vertical lines for cttransition = 0.67 × 1028cm and
+ctρ =ρm = 0.90 × 1028cm.
+
+
+APPENDIX A: EXAMPLES OF SPACETIME CURVATURE INCLUDING A COSMOLOGICAL CONSTANT
+
+In order to plot the evolution of spacetime curvature with a cosmological constant, we consider curvature invariants constructed from the Riemann tensor, Rαβγδ. These scalars allow a coordinate independent study of some geometrical features of a spacetime. They can also be linked to physical quantities via the EFE. For the special spacetimes we consider here the invariants are all related via algebraic relations [110, 111], and for the sake of simplicity we just
+
+choose here the Kretchman scalar,
+
+
+K = Rαβ	Rγδ	(A1)
+
+
+and the differential invariant
+
+DiRiem = Rαβ γδ ;η Rγδ αβ ;η	(A2)
+
+to trace the evolution of the curvature of spacetime. For the metric (5), the invariants read
+K = Λ2h 5 coth √3Λ t  4 − 2 coth √3Λ t  2 + 3i	(A3)
+
+
+and
+
+ coth √3Λ t  2
+/
+
+DiRiem = −9Λ3 
+2
+.	(A4)
+/
+
+/
+
+26
+
+
+
+
+
+1.005e-49
+
+
+
+
+
+
+
+
+
+
+
+
+-1e-49
+
+0	5e+27	1e+28	1.5e+28	2e+28
+t
+0
+0	2e+27	4e+27	6e+27	8e+27	1e+28
+t
+
+FIG. 4: a) LEFT: Plot of the Riemnann components Rtxtx = Rtyty = Rtztz . It starts with a power law decrease to reach a negative range exponential decrease during a de Sitter phase. For comparison, the no-Lambda curve shows how this component
+continues with a power law decrease within a positive range. Length units are used with Λ = 10−56cm−2. We display vertical
+for cttransition = 0.67 × 1028cm and ctρ =ρm = 0.90 × 1028cm.
+b) RIGHT: Plot of the Riemann components Rxyxy = Rxzxz = Ryzyz. The profile is similar to that of the scale factor. These components transit to an exponential increase at very large t. We also display cttransition = 0.67 × 1028cm and ctρ =ρm = 0.90 × 1028cm.
+
+For the matter dominated universe, these are simply given by, K = 80 1 and DiRiem = − 60 1 . The de Sitter space
+
+has the usual line element
+ds2 = −dt2 + exp 2r Λ t (dr2 + r2dΩ2)	(A5)
+
+and constant curvature with K = 3 Λ2.
+Figure 3a and Figure 3b show the profile of K and DiRiem and how the spacetime curvature decreases during the expanding matter dominated universe to reach a constant curvature Λ-dominated universe at late times. This can also be seen from taking the limits of (A3) and (A4) at very large t.
+The vertical lines in Figure 3a are the time at equality of dark energy density with matter energy density and the time of transition from deceleration to acceleration. The no-Lambda curves are shown for comparison.
+Furthermore, in order to trace some features of the curvature lost in the squared quantities, we recourse to plotting directly the non-vanishing components of the Riemann tensor. Though coordinate dependent, these can be informative
+
+27
+
+
+
+1e+50
+
+
+
+1
+
+
+
+1e-50
+
+
+
+1e-100
+
+
+
+1e-150
+
+
+1e-200
+
+1	100000	1e+10	1e+15	1e+20	1e+25	1e+30	1e+35
+t
+
+FIG. 5: Plot of K = Rαβ γδ Rγδ αβ as a function of r. The curvature decreases as 1/r2 from the central mass m to become
+dominated by the Λ term after r	2  = .36 × 1025cm. Length units are used with Λ = 10−56cm−2 and a mass
+| 8 Λ2 |=| 48m |
+/
+
+m = 0.74 × 1017cm.
+3	r2
+
+
+In cartesian coordinates, these are:
+
+Λ 3C 2/3
+R	= R	= R	=	×	(A6)
+h sinh √3Λ t  −2/3 − 2 sinh √3Λ t  4/3i
+
+
+and
+
+
+
+R	= R 	 = R
+
+
+= 31/3Λ  C 4/3 ×	(A7)
+
+h sinh √3Λ t  8/3 +  sinh √3Λ t  2/3i
+
+The time evolution of the Rtxtx components is shown in Figure 4a where it starts with a power law decrease to reach a negative range exponential decrease during a de Sitter phase. For comparison, the no-λ curve shows how this component continues with power law decrease within a positive range.
+Figure 4b shows that the profile of the Rxyxy component is similar to that of the scale factor. This component transits to an exponential increase at very large t.
+Also, we consider another informative example, the Schwarzschild-de Sitter spacetime with
+
+2	2m	Λr   2
+/
+/
+2m	Λr  −1	2	2	2
+/	/
+/
+
+At large r, it tends to the de Sitter space limit. The explicit de Sitter case is obtained by setting m = 0 while the
+
+28
+
+explicit Schwarzschild case is obtained by setting Λ = 0. Here, for (A8)
+
+
+8 2
+K = 3 Λ +
+48m2
+r2	(A9)
+
+
+and is plotted in Figure (5) where the curvature due to the central mass m decreases as a function of r and is overtaken by the Λ term at very large r. The Schwarzschild curve is plotted for comparison.
+
+
+
+
+[*] Electronic Address: mishak@utdallas.edu; Part of this work was written when the author was a research associate at Princeton University.
+A. G. Riess, et. al., Astron.J. 116 1009 (1998); P. M. Garnavich et. al., Astrophys.J. 509 74 (1998); A. V. Filippenko and A. G. Riess, Phys.Rept. 307 31 (1998); S. Perlmutter, et. al., Astrophys.J. 517 565 (1999); S. Perlmutter, et. al., Bull.Am.Astron.Soc. 29 1351 (1997); A. G. Riess, et. al., Astrophys.J. 536 62 (2000); A. G. Riess, et. al., Astrophys.J.
+560 49 (2001); J. L. Tonry, et. al., Astrophys.J. 594 1 (2003); R. A. Knop, et. al., Astrophys. J. 598 102 (2003); B. J. Barris, et. al., Astrophys.J. 602 571 (2004); A. G. Riess, et. al., Astrophys. J. 607 665 (2004); C. L. Bennett, et. al., Astrophys.J.Suppl. 148 1 (2003).
+D.N. Spergel et al., Astrophys. J. Supp., 148, 175 (2003); L. Page L. et al., Astrophys.J.Suppl. 148 (2003) 233.
+B. Netterfield et al, Ap. J., 571, 604 (2002); P. de Bernardis et al, Nature, 404, 955 (2000).
+M. Tegmark et al., Astrophys.J. 606 702 (2004); N. Afshordi, Y.-S. Loh, and M. A. Strauss, Phys. Rev. D 69 083524 (2004).
+R. Carlberg et al, Astrophys. J. 478, 462 (1997); N. Bahcall et al, Astrophys. J. 541, 1 (2000).
+W.L. Freedman et al., Astrophys. J. , 553, 47 (2001).
+P. Fosalba, E. Gaztanaga, and F. Castander, Astrophys.J. 597 L89 (2003); P. Fosalba and E Gaztanaga,
+Mon.Not.Roy.Astron.Soc. 350 L37 (2004); R. Scranton, et. al., preprint	(2003); N. Afshordi, Y.-S.
+Loh, and M. A. Strauss, Phys. Rev. D 69 083524 (2004); S. Boughn and R. Crittenden, Nature, 427 6969 (2004); N. Padmanabhan et al., Phys. Rev. D. 70, 103501 (2004).
+S. Weinberg Rev. Mod. Phys., 61, 1 (1989).
+S.M.Carroll, W.H. Press and E.L. Turner, Ann. Rev. Astron. Astrophys., 30, 499 (1992).
+M.S. Turner, Phys. Rep., 333, 619 (2000).
+Varun Sahni, Alexei Starobinsky Int.J.Mod.Phys. D9, 373 (2000).
+S.M. Carroll, Living Reviews in Relativity, 4, 1 (2001).
+T. Padmanabhan, Phys. Rep., 380, 335 (2003).
+P.J.E. Peebles and B. Ratra, Rev. Mod. Phys. 75, 559 (2003).
+
+29
+
+E. J. Copeland, M. Sami, S. Tsujikawa Int.J.Mod.Phys. D15 (2006) 1753-1936
+P.J.E Peebles and B.Ratra, Astrophys.J.Lett. 325 L17 (1988); B.Ratra and P.J.E. Peebles, Phys.Rev.D 37 3406 (1988);
+C. Wetterich, Ncl. Phys. B 302, 668 (1988); I. Zlatev, L. Wang, and P.J. Steinhardt, Phys. Rev. Lett. 82 896 (1999); P.J.Steinhardt, L. Wang, and I.Zlatev, Phys. Rev. D 59 123504 (1999).
+C.W. Misner, K.S. Thorne and J.A. Wheeler, Gravitation (Freeman, San Francisco 1973).
+S. Weinberg, Gravitation and cosmology: principles and applications of the general theory of relativity, (Wiley, New York, 1972).
+R.A. D’Inverno, Introducing Einstein’s Relativity (Oxford University Press, New York, 1996).
+W. Rindler, Relativity: Special, General, and Cosmological Second Edition (Oxford University Press, 2006).
+J.J. Mohr, astro-ph/0408484. Observing Dark Energy, ASP Conference Series, Vol. 339, Proceedings of a meeting held 18-20 March 2004 in Tucson, Arizona. Edited by Sidney C. Wolff and Tod R. Lauer. San Francisco: Astronomical Society of the Pacific, 2005., p.140
+S. Wang et al., Phys. Rev. D, 70, 123008 (2004).
+Hu W., Phys. Rev. D 65, 023003 (2001)
+Takada M., Jain B., 2004, MNRAS, 348, 897
+M. Ishak, MNRAS, 363, 469-478 (2005).
+Cole, et.al., MNRAS, 362, 505 (2005).
+D. Eisenstein, et.al., ApJ, 633, 560 (2005).
+Montroy, et.al., ApJ, 647, 799 (2006).
+Kuo, et.al., 2004, ApJ, 600, 32 (2004).
+Readhead, et.al., ApJ, 609, 498 (2004).
+Dickinson, et.al., MNRAS, 353, 732 (2004).
+M. Tegmark, et.al., ApJ, 606, 702 (2004).
+Astier, et.al., AA, 447, 31 (2006).
+A. Riess, et.al., ApJ, 607, 665 (2004).
+A. Upadhye, M. Ishak, and P.J. Steinhardt, Phys.Rev. D72, 063501(2005).
+M. Chevallier, D. Polarski, and A. Starobinsky, Int. J. Mod. Phys. D 10, 213 (2001).
+E. Linder, Phys. Rev. Lett., 90, 091301 (2003).
+Y. Wang, D. N. Spergel, M. A. Strauss, Astrophys.J. 510, 20 (1999)
+[45] Press et al., Numerical Recipes in C, Cambridge University Press (1992); S. Dodelson, Modern Cosmology, Academic Press (2003); Tegmark, Taylor, and Heavens, Astrophys.J. 480, 22 (1997).
+C.L. Bennett, et al., Astrophys. J. Supp., 148, 1 (2003)
+
+30
+
+D.N. Spergel , et al., Astrophys.J.Suppl. 170, 377 (2007).
+M. Ishak, C. M. Hirata, P. McDonald, U. Seljak, Phys. Rev. D 69, 083514 (2004).
+C. Hirata, U. Seljak, Mon. Not. R. Astron. Soc., 343, 459 (2003).
+Ishak M., Hirata C., Phys. Rev. D, 71, 023002 (2005)
+Press et al., Numerical Recipes in C, Cambridge University Press (1992); S. Dodelson, Modern Cosmology, Academic Press (2003); Tegmark, Taylor, and Heavens, Astrophys.J. 480, 22 (1997).
+B. Jain, U. Seljak, Astrophys. J. , 484, 560 (1997).
+N. Kaiser, Astrophys. J. , 498, 26 (1998).
+N. Kaiser, Astrophys. J. , 388, 272 (1992).
+N. Kaiser, Astrophys. J. , 537, 555 (2000).
+A. Refregier, Ann. Rev. Astron. Astrophys.41, 645 (2003)
+M. Bartelmann and P. Schneider, Phys. Rep.340, 291 (2001)
+Y. Mellier, Ann. Rev. Astron. Astrophys.37, 127 (1999)
+T. Erben et al., ˚a, 366, 717 (2001).
+D.J. Bacon, et al., Mon. Not. R. Astron. Soc., 325, 1065 (2001).
+G. Bernstein, M. Jarvis, Astron. J.123, 583 (2002).
+L. Van Waerbeke and Y. Mellier, astro-ph/0305089. Lecture given at the Aussois winter school, (2003).
+Wittman et al., Nature, 405, 143 (2000).
+M. Tegmark et al.,	(1998).
+D. Huterer, M. S. Turner, Phys. Rev. D, 64, 123527 (2001).
+G. Aldering G., et al., for the SNAP project collaboration,	(2003).
+Kim et al., 2003, Mon. Not. R. Astron. Soc., 347, 909 (2004).
+J.L. Tonry, et al, Astrophys. J. , 594, 1 (2003).
+I. Zlatev, L. Wang, P.J. Steinhardt, Phys. Rev. Lett. 82, 896 (1999).
+P. Brax, J. Martin, Phys. Lett. B, 468, 40 (1999).
+G.R. Dvali, G. Gabadadzi, and M. Porrati, Phys. Lett. B 485, 208 (2000).
+C. Deffayet, et. al., Phys. Rev. D 66, 024019 (2002).
+C. Deffayet, G. Dvali, G. Gabadadze, Phys.Rev. D 65 044023 (2002).
+[79] A. Lue, R. Scoccimarro, G. Starkman,. Phys. Rev. D 69, 124015 (2004).
+A. Lue, Phys. Rept. 423,1 (2006).
+I. Sawicki, S. M. Carroll, preprint astro-ph/0510364.
+M. Fairbairn, A. Goobar, preprint astro-ph/0511029.
+
+31
+
+C.P. Ma, R. R. Caldwell, P. Bode, L. Wang, Astrophys. J. , 521, L1 (1999)
+E. Linder, A. Jenkins, MNRAS, 346, 573 (2003).
+S. Carroll et al., Phys.Rev. D71 063513 (2005).
+S. Capozziello, V.F. Cardone, A. Troisi, Phys.Rev. D 71 043503 (2005).
+J. Simon, L. Verde, R. Jimenez, Phys.Rev. D71 123001(2005).
+C. Deffayet, Phys. Lett. B 502, 199-208 (2001).
+C. Deffayet, Phys. Rev. D 66, 103504 (2002).
+A. Lue, R. Scoccimarro, G. Starkman,. Phys. Rev. D 69, 124015 (2004)
+K. Koyama, R. Maartens JCAP 601, 16 (2006)
+C. Deffayet, S. J. Landau, J. Raux, M. Zaldarriaga, P. Astier, Phys. Rev. D 66, 024019 (2002).
+Y. Wang and M. Tegmark, Phys. Rev. Lett. 92 241302 (2004).
+M. Ishak, A. Upadhye, D.N. Spergel, Phys. Rev. D 74, 043513 (2006) (astro-ph/0507184 (2005)).
+L. Knox, Y. Song, and J. A. Tyson Phys. Rev. D 74, 023512 (2006) (astro-ph/0503644 (2005)).
+E. V. Linder, Phys.Rev. D72 043529 (2005). (astro-ph/0507263 (2005)).
+C. Schimd, J.P. Uzan, and A. Riazuelo, Phys.Rev. D 71 083512 (2005).
+E. Cartan, J. Math. Pure Appl., 1, 141 (1922).
+H. Weyl, Space, time, matter (Dover, New York, 1922).
+H. Vermeil, Nachr. Ges. Wiss. Gottingen, 334 (1917).
+D. Lovelock, J. Math. Phys., 12, 498 (1971).
+D. Lovelock, J. Math. Phys., 13, 874 (1972).
+S.M. Carroll astro-ph/0107571.
+T. Padmanadhan, Class.Quant.Grav. 22, L107-L110 (2005)
+K. A. Milton, Grav.Cosmol. 8, 65 (2002). ibid 9, 66 (2003).
+K. A. Milton, R. Kantowski, C. Kao, Y. Wang Mod. Phys. Lett. A 16, 2281 (2001).
+P. O. Mazur, E. Mottola, gr-qc/0405111. Contributed talk at the Sixth Workshop on ’Quantum Field Theory Under The Influence Of External Conditions’ held at the Univ. of Oklahoma, September 15-19, 2003, to be published in the Proceedings by Rinton Press (2004)
+C. P. Burgess, hep-th/0411140, THE NEW COSMOLOGY: Conference on Strings and Cosmology; The Mitchell Sympo-sium on Observational Cosmology. AIP Conference Proceedings, Volume 743, pp. 417-449 (2004).
+E. Witten, hep-ph/0002297. Sources and Detection of Dark Matter and Dark Energy in the Universe. Fourth International Symposium, held February 23-25, 2000, at Marina del Rey, California, USA. Edited by David B. Cline. Published by Springer-Verlag, Berlin, New York, ISBN 3-540-41216-6, p.27
+
+32
+
+H. Casimir Proc. K. Ned. Akad. Wet. 51, 793 (1948).
+M. Bordag, U. Mohideen, V.M. Mostepanenko Phys. Rep.353, 1 (2001).
+M. Lachieze-Rey, J.P. Luminet, Phys. Rep.C254, 135 (1995).
+Y.B. Zeldovich, A.A Starobinsky Pisma v Astronomicheskii Zhurnal, 10, 323 (1984).
+R. R. Caldwell
+E. Calloni, L. Di Fiore, G. Esposito, L. Milano, L. Rosa, Phys. Lett. A 297, 328 (2002).
+N. J. Cornish, D. N. Spergel, G. D. Starkman, E. Komatsu Phys. Rev. Lett. 92, 201302 (2004).
+S. Reynaud, A. Lambrecht, C. Genet, M.T Jaekel C. R. Acad. Sci. Paris, 2-IV (2001) p.1287-1298. (quant-ph/0105053) (2001).
+M.T. Jaekel, S, Reynaud Rept. Prog. Phys. 60, 863 (1997).
+L. Viola, R. Onofrio Phys. Rev. D 55, 455 (1997).
+G. Papini, gr-qc/0110056. Proceedings of the 17th Course of the International School of Cosmology and Gravitation ”Advances in the interplay between quantum and gravity physics” edited by V. De Sabbata and A. Zheltukhin, Kluwer Academic Publishers, Dordrecht
+J. Carot and da Costa, Class. Quantum Grav. 10, 461 (1993).
+K. Santosuosso, D. Pollney, N. Pelavas, P. Musgrave and K. Lake, Computer Physics Communications 115, 381 (1998).
+
+We are IntechOpen,
+the world’s leading publisher of Open Access books
+Built by scientists, for scientists
+
+
+
+
+
+4,900
+	124,000
+	140M
+	
+	Open access books available
+	International authors and editors
+	Downloads
+	
+	
+154
+	
+
+Our authors are among the
+TOP 1%
+	
+12.2%
+	
+	
+Countries delivered to
+most cited scientists
+Contributors from top 500 universities
+
+
+
+/
+
+Selection of our books indexed in the Book Citation Index in Web of Science™ Core Collection (BKCI)
+
+
+Interested in publishing with us?
+Contact book.department@intechopen.com
+
+Numbers displayed above are based on latest data collected.
+For more information visit www.intechopen.com
+
+
+
+
+Chapter
+Review of Quantum Chromodynamics (QCD)
+Leonard S. Kisslinger
+/ / / / / /
+This is a review of the elementary particles, quantum chromodynamics (QCD), and strong interactions in QCD theory via gluon exchange between quarks-antiquarks-producing mesons. Some mesons consist of an active gluon in addition to a quark-antiquark. They are called hybrid mesons. We also review the possible detection of the quark-gluon plasma, the consistuent of the universe until about 10—4 s after the Big Bang, via relativistic heavy ion collisions (RHIC) producing heavy quark hybrid mesons.
+
+Keywords: quantum chromodynamics, elementay particles, quark-gluon plasma
+
+
+Introduction
+In this review of quantum chromodynamics (QCD), basic QCD particles and forces, the theory of hybrid mesons, the cosmological quantum chromodynamics phase transition (QCDPT), the quark-gluon plasma (QGP), theoretial studies of jet quenching due to the formation of the QGP, and the possible detection of the QGP via the production of mixed hybrid meson states produced by RHIC are reviewed.
+First we review elementary particles, fermions and bosons, and standard QCD theory with the concept of color for the basic fermions (quarks) and bosons (gluons).
+In the next section, the structure of standard mesons in terms of quarks and antiquarks is discussed.
+Next we review the theory predicting that some mesons consisting of heavy charmonium quarks (Ψ(nS), n = 1, 2) and bottomonium quarks (ϒ(mS), m = 1, 2, 3, 4) are partially hybrids. Experiments test the theory.
+The interactions in quantum chromodynamics are strong, so perturbation theory does not work. Therefore, Feynman diagrams used for quantum electrodynamics cannot be used for quantum chromodynamics [1].
+One nonperturbative QCD method involves lattice gauge theory. The articles “Twenty-first Century Lattice Gauge Theory: Results from the QCD Lagrangian” by Kronfelld [2] and “Lattice gauge theory in the microcanonical ensemble” by Calloway and Rahman [3] give a detailed description of how lattice gauge theory can calculate QCD interactions using computers.
+Another nonperturbative theory, which is used in our review of mixed hybrid heavy quark mesons, is the method of QCD sum rules. This method, developed by Shifman et al. [4], does not require large computers.
+
+Accelerators and Colliders
+
+It was the method of QCD sum rules that showed [5] that the Ψ(2S) charmonium quark meson and the ϒ(3S) bottomonium quark mesons are mixed hybrid states, while all the other Ψ(nS) and ϒ(mS) are standard charmonium and bottomonium meson states.
+In our final section, we review the early universe QCDPT, with the production of the QGP.
+In our second subsection, theoretial studies of jet quenching due to the forma-tion of the QGP and experiments with Pb-Pb collisions verifying the theory are discussed.
+In our final section, the possible production of the QGP via relativistic heavy ion collisions (RHIC) with the possible detection of the QGP by the production of mixed heavy quark hybrid mesons is reviewed. That is, we consider the collision of gold (Au) atomic nuclei with the energy of the Au nuclei large enough that after the Au-Au collision the temperature of the overlapping material is
+T ≥ TQCDPT ≃ 150 MeV, where TQCDPT is the critical temperature for the QCDPT.
+c	c
+That matter with T ≥ TQCDPT is QGP is discussed.
+The production of the mixed hybrid states Ψ(2S) and ϒ(3S) via Au-Au collisions
+could detect the production of the QGP in the overlapping material. We conclude that the detection of Ψ(2S) and ϒ(3S) produced via RHIC could be a test for the creation of the early universe QGP.
+
+
+
+Elementary particles and basic forces
+Among the elementary particles—fermions and bosons—fermions have quantum spin = 1/2.
+The elementary femions are leptons and quarks. There are three generations of leptons: electron, muon, and

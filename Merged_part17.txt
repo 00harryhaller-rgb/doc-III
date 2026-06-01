@@ -1,0 +1,2121 @@
+at 8e8 K [8] and 2.07e17 meters. At this point deuterium combines into He4. The energy released is 0.25*7.07/4=0.44 MeV, where 7.07 is the binding energy for He4 (the divisor 4 is the number of nucleons in He4 and the total is 0.44 +.11=.55 MeV.
+
+
+We see some of this energy in the current CBR. There are four components to the plasma; protons, dark matter, photons and free electrons (and massless neutrinos). An equation is found in the above reference for the energy of three components. The table below is for 1.06e9 K:
+8.47E+15
+	1.25E+16
+	1.83E+16
+	2.69E+16
+	3.96E+16
+	5.82E+16
+	2.07E+17
+	2.51E+17
+	3.05E+17
+	3.70E+17
+	
+	1.7703E+10
+	1.4326E+10
+	1.0948E+10
+	7.5707E+09
+	4.1932E+09
+	8.1559E+08
+	1.0599E+09
+	3.2159E+08
+	2.6524E+08
+	2.1876E+08
+	
+	T (K)
+	1.06E+09
+	938.27
+	1.67012E-27
+	v=(8kT/mpi)^.5
+	Protons
+	1.16E-01
+	9.59E-02
+	7.91E-02
+	6.52E-02
+	
+	
+	
+	938.27
+	1.67012E-27
+	
+	Dark matter
+	
+	9.59E-02
+	7.91E-02
+	6.52E-02
+	
+	T (K)
+	1.06E+09
+	938.27
+	1.67012E-27
+	KE=T*1.5 B
+	Photons
+	1.37E-01
+	4.16E-02
+	3.43E-02
+	2.83E-02
+	
+	T (K)
+	1.06E+09
+	0.511
+	9.0958E-31
+	v=(8kT/mpi)^.5
+	Electrons
+	1.16E-01
+	9.59E-02
+	7.91E-02
+	6.52E-02
+	
+	
+	
+	
+	
+	1
+	0.399
+	0.399
+	Tphotons at present (K)
+	2.57
+	
+	The total energy for the plasma components compares with the He4 energy release above (0.551 MeV/proton). Expansion reduces the photon value to 1.82e-10 MEV (1.4 K). Stars produce 0.49 MeV/proton late in expansion but most of this energy is stored in the star’s temperature. The energy released and a source for expansion is calculated by using the Stephan Boltzmann equation and a surface temperature of 5780K. Stars add 1.71e-10 MeV/proton, increasing the temperature to the measured value 2.73 K (much more on this in the section entitled “Fraction of star energy available for expansion”.
+The energy history can be converted to a temperature history though the Boltzmann constant. It is shown below and clearly the energy remaining is the CBR.
+
+/
+
+The beginning temperature (3.92e10 K at 10.15 MeV) starts to fall and dives when the kinetic energy is nearly depleted. When the temperature hits 8e8 K the SAHA equation for deuterium initiates He4 fusion. This causes a spike in temperature to 1.06e9 K but then continues to fall according to Rh/R. The break in the curve at 3e13 seconds is decoupling where expansion follows a 2/3 power rather than the earlier ½ power.
+Forces that determine expansion
+We all use time ratios for expansion but what are the actual forces that cause particles to expand away from each other? I used cellular cosmology to calculate forces. The derivation below shows a different way to write equations that obey Newtonian gravity. The coupling constant for gravity is a published value 1.16e-51 Mev M (Wiki). The equation G=F r^/M^2 can also be written in terms of kinetic energy. That equation would be:
+
+derive coupling constant c^2
+	
+	G/1.603e-13=2 ke R/Mm
+	
+	
+	G*1.67e-27^2/1.603e-13=2 ke R/Nn
+	
+	Nn=1 for coupling constant
+	
+	
+	1.16045E-51
+	mev m
+	
+	
+	1.16716E-51
+	Mev m
+	Published
+	
+	nt m^2/kg^2*kg^2 mev/(nt m)
+	
+	Mev m
+	
+	
+	
+	1.16e-51*exp(90)/2
+	
+	
+	7.08107E-13
+	Ke r
+	(MeV m)
+	
+	The coupling constant is scaled down to one proton orbiting a central mass of one proton at KE by applying exp(90)/2. The 2 makes it kinetic energy and exp(90) scales the calculation to one proton orbiting another proton. Kinetic energy (MeV) for a known radius r is 7.08e-13/r with r in meters.
+
+R (meters)
+	5.43E+17
+	6.59E+17
+	7.99E+17
+	9.68E+17
+	1.17E+18
+	
+	Temp (K)
+	8.12E+07
+	6.70E+07
+	5.52E+07
+	4.55E+07
+	3.76E+07
+	
+	r=R/exp(60) m
+	4.76E-09
+	5.77E-09
+	6.99E-09
+	8.48E-09
+	1.03E-08
+	
+	coup*ph/pr
+	7.09E-13
+	7.09E-13
+	7.09E-13
+	7.09E-13
+	7.09E-13
+	
+	ke=coup/r
+	1.06E-02
+	8.78E-03
+	7.24E-03
+	5.97E-03
+	4.93E-03
+	
+	g=(939/(939+ke))
+	9.9999E-01
+	9.9999E-01
+	9.9999E-01
+	9.9999E-01
+	9.9999E-01
+	
+	V=(1-(g)^2)^0.5*C (
+	1.4282E+06
+	1.2971E+06
+	1.1780E+06
+	1.0698E+06
+	9.7154E+05
+	
+	F=mV^2/r (Nt)
+	5.8671E-46
+	3.9911E-46
+	2.7149E-46
+	1.8468E-46
+	1.2563E-46
+	
+	 E=Fdr (MeV)	
+	0.03
+	4.52E-03
+	3.73E-03
+	3.08E-03
+	2.54E-03
+	
+	 de from Rh	
+	0.04
+	7.77E-03
+	6.41E-03
+	5.29E-03
+	4.36E-03
+	
+	Each column of calculations is a radius increment. R is the expansion curve and T is the temperature curve reported in the section above entitled “Constructing the expansion radius”. The radius r is R/exp(60), again to scale the calculation down to the proton-proton level. Next we determine the orbital ke related to gravity (keg) by the definition of coupling constant above,
+i.e. Coup=keg*r. We know r and can determine keg. But we know that ke cannot fall below the energy contributed by photons because inertial forces and impact by photons drive expansion. The photon energy is kep=T*1.5*B where Boltzmann’s constant B=8.6e-11 MeV/K. With this we put (keg+kep) in the equation for gamma and then determine orbital velocity. From here we can calculate the force F=mV^2/r. Above it is 5.86e-46 Nt for the first increment. Before we leave this table there is a check on the E calculation. Sum across to end E=F dr is equal to the sum of energy across the calculations above in the section entitled “Constructing the temperature history” (0.04&0.03 MeV). We can now actually calculate the next radius in incremental calculations from fundamental forces and do not have to rely on the equation r=r0*(time/time0)^.5. The equation is r=rprior+E/F*1.6e-13/exp(90). From here we can take the scaling out and calculate R=r*exp(60).
+We can carry the above incremental calculations to the present time.
+
+8.70E+24
+	1.13E+25
+	1.46E+25
+	1.88E+25
+	2.43E+25
+	3.14E+25
+	R (meters)
+	
+	
+	7.62E-02
+	9.85E-02
+	1.27E-01
+	1.65E-01
+	2.13E-01
+	2.75E-01
+	r=R/exp(60) m
+	
+	7.09E-13
+	7.09E-13
+	7.09E-13
+	7.09E-13
+	7.09E-13
+	7.09E-13
+	coup*ph/pr
+	
+	
+	1.28E-09
+	9.91E-10
+	7.65E-10
+	5.87E-10
+	4.37E-10
+	2.79E-10
+	ke=coup/r
+	
+	
+	2.7321E-12
+	2.1124E-12
+	1.6313E-12
+	1.2520E-12
+	9.3263E-13
+	5.9389E-13
+	g=(939/(939+ke))
+	
+	4.9553E+02
+	4.3572E+02
+	3.8290E+02
+	3.3544E+02
+	2.8952E+02
+	2.3103E+02
+	V=(1-(g)^2)^0.5*C (m/sec)
+	
+	4.4082E-60
+	2.6362E-60
+	1.5746E-60
+	9.3473E-61
+	5.3857E-61
+	2.6527E-61
+	F=mV^2/r (Nt)
+	
+	5.81E-10
+	4.49E-10
+	3.47E-10
+	2.66E-10
+	1.98E-10
+	1.26E-10
+	E=fdr (MeV)
+	
+	
+	7.61E-02
+	9.83E-02
+	1.27E-01
+	1.64E-01
+	2.12E-01
+	2.75E-01
+	predicted r (m)
+	
+	
+The predicted cell radius r=0.275*exp(60) to match the full radius 3.14e25 meters. The kinetic energy line (yellow) is gravitational kinetic energy plus the photon kinetic energy. To be a true prediction it must depend on values from the prior cell (E=1.98e-10 MeV and F=5.38e-61 Nt). Here is the equation that predicts radius. The factor 0.86 allows the prediction to be accurate over the entire range.
+
+r=rp+E/F*1.6e-13/EXP(90)
+	
+	
+	
+	0.275=0.86*(0.213+1.98e-10/5.386e-61*1.6e-13/exp(90))
+	
+	0.275
+	
+	
+	
+	
+	Energy added by stellar photons
+Each star on average contributes 2.37e39 MeV/sec and there are an increasing number of stars after z=15. This method uses the Stephan Boltzmann number (S=3.54e5 MeV/m^2/K^4) and associated equation MeV/sec=S*area*T^4 to calculate the energy from stars.
+
+First check that the star temperature 5778K (Wiki) produces the correct energy. The calculation below where MeV/sec=3.54e5 MeV/m^2/K^4 verifies the output of the sun (Wiki).
+
+5778
+	Temp surface K
+	
+	3.54E+05
+	mev/m^2/K^4
+	
+	
+	6.96E+08
+	radius of sun (meters)
+	
+	6.08E+18
+	Surface area of sun
+	
+	2.40E+39
+	mev/sec/star
+	
+	
+	Over time there are an increasing number of stars similar to our sun each with a surface temperature of 5778 K. The number of stars and their surface area give us the energy/sec coming from this source. The sky also radiates energy. Its temperature is only 2.73 K but its area is the area associated with the radius of the universe. These two sources can be added together (MeV/sec total=MeV/sec stars+MeV/sec sky) and the increased sky temperature can be calculated by solving the Stephan Boltzmann equation for T. T=((MeV/sec total)/3.54e5/skyarea))^.25. Each temperature is associated with energy and the difference is the kinetic and potential energy change between the original sky temperature and the star augmented sky temperature.
+Fraction of star energy delivered
+We calculated that there would be about 0.6 MeV/proton considering the fusion energy of all the stars. We now show the fraction of that energy actually available to expand free protons. At this
+
+point most matter is in galaxies, etc. that are in orbit. Classically, it is not available to expand any longer because it is gravitationally bound. I assumed that free protons make up about 10% of all matter at the present time but this can be refined. The model for the following calculation is a target proton that expands when it is impacted by photon energy. The entire sky is the source of the photon energy and it contains 6e20 stars each with an area (1.52e18 m^2). The number of photons in the source area equal protons divided by the baryon/photon ratio. There are 1.47e77 target protons (10% of all matter) each with a cross-section to photons of 2e-31 meters^2 (PDG). When all of this estimated, the fraction of the star energy that is actually delivered to their targets is on the order of 1e-10.
+
+1.48E+21
+	nstars=number of stars/sky area
+	
+	
+	
+	
+	
+	
+	1.52E+18
+	source area/star (pi^r^2, where r is star radius) meters^2
+	
+	
+	
+	
+	4.13E+51
+	sky area= surface area of the universe modelled as sphere (4pi^Runiverse^2) (meters)^2
+	
+	9.32E+90
+	source of photons=nstars/sky area*star area*sky area
+	
+	
+	
+	
+	2.72E+98
+	number of photons in source area=source of photons/(nprotons/nphotons) (np/nb=3.4e-8)
+	
+	1.49E+77
+	target =number of free protons (about 0.1 of all protons)
+	
+	
+	
+	
+	2.00E-31
+	cs=cross section of target proton=2e-31 m^2
+	
+	
+	
+	
+	
+	3.65E-10
+	fraction delived to expanding protons (numb photons/target*cs)
+	
+	
+	
+	
+	Late stage expansion
+We are in a position to predict late stage expansion with the energy addition (e). We are interested in its effect on radius and temperature. For example we want to answer the question “how large does e have to be to explain the second component of expansion?” We will focus on the column on the right (the present time).
+
+8.70E+24
+	1.13E+25
+	1.46E+25
+	1.88E+25
+	2.43E+25
+	3.14E+25
+	R (meters)
+	
+	
+	
+
+
+-
+	
+	7.62E-02
+	9.85E-02
+	1.27E-01
+	1.65E-01
+	2.13E-01
+	2.75E-01
+	r=R/exp(60) m
+	
+	
+	
+	7.09E-13
+	7.09E-13
+	7.09E-13
+	7.09E-13
+	7.09E-13
+	7.09E-13
+	coup*ph/pr
+	
+	
+	
+	
+	1.28E-09
+	9.91E-10
+	7.65E-10
+	5.87E-10
+	4.37E-10
+	2.79E-10
+	ke=coup/r
+	
+	
+	
+	
+	2.7321E-12
+	2.1124E-12
+	1.6313E-12
+	1.2520E-12
+	9.3263E-13
+	5.9389E-13
+	g=(939/(939+ke))
+	
+	
+	
+	4.9553E+02
+	4.3572E+02
+	3.8290E+02
+	3.3544E+02
+	2.8952E+02
+	2.3103E+02
+	V=(1-(g)^2)^0.5*C (m/sec)
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	4.4082E-60
+	2.6362E-60
+	1.5746E-60
+	9.3473E-61
+	5.3857E-61
+	2.6527E-61
+	F=mV^2/r (Nt)
+	
+	
+	5.81E-10
+	4.49E-10
+	3.47E-10
+	2.66E-10
+	1.98E-10
+	1.26E-10
+	E=fdr (MeV)
+	
+	6.005E-01
+	
+	7.61E-02
+	9.83E-02
+	1.27E-01
+	1.64E-01
+	2.12E-01
+	2.75E-01
+	predicted r (m)
+	
+	
+	2.162E-13
+	8.533E-13
+	3.189E-12
+	1.168E-11
+	4.241E-11
+	1.535E-10
+	e addition
+	
+	0.943
+	
+	9.84E+00
+	7.61E+00
+	5.87E+00
+	4.51E+00
+	3.36E+00
+	2.13E+00
+	Temp w/o star
+	0.354
+	2.85E-10
+	
+	1.68E-03
+	6.61E-03
+	2.47E-02
+	9.05E-02
+	3.29E-01
+	1.19E+00
+	delta T stars
+	1.0075
+	
+	
+	9.840E+00
+	7.613E+00
+	5.899E+00
+	4.598E+00
+	3.686E+00
+	3.324E+00
+	Temp with Sta
+	2.55E-10
+	
+	
+	7.62E-02
+	9.86E-02
+	1.28E-01
+	1.66E-01
+	2.23E-01
+	3.51E-01
+	r=rp+(E+de)/F*1.6e-13/EXP(90)
+	
+	8.71E+24
+	1.13E+25
+	1.46E+25
+	1.90E+25
+	2.55E+25
+	4.01E+25
+	R=r*EXP(60)
+	with star de
+	
+	
+	7.34E+20
+	4.85E+21
+	3.03E+22
+	1.87E+23
+	1.18E+24
+	8.67E+24
+	delta R stars
+	
+	
+	
+	The calculated gravitational kinetic energy is only 2e-12 MeV from inertia (not shown) but we have included photon kinetic energy 2.79e-10 MeV (associated with the temperature without stars equal to 2.3 K in the eleventh line in the table). It is clear that normal late stage expansion is mainly due to photons. The value E=Fdr=1.98e10 MeV and force 5.38e-61 Nt checks as the energy required to calculate the current radius from the prior radius.
+
+r=rp+E/F*1.6e-13/EXP(90)
+	
+	
+	
+	0.275=0.86*(0.213+1.98e-10/5.386e-61*1.6e-13/exp(90))
+	
+	0.275
+	
+	
+	
+	
+	3.14E+25
+	R=0.275*exp(60) m
+	
+	
+	8.71E+24
+	delta R (4.02e25-3.14e25)
+	
+	
+	Now look at the e addition line. Adding 1.53e-10 MeV to Fdr from the prior increment increases the radius of the universe from 3.14e25 meters to 4.02e25 meters. Delta R (call it R3) was
+8.71e24 meters.
+R3 is compared with Cmagic and WMAP second expansion components below. The source of R3 is the row labelled “delta R” in the table above. The WMAP and Cmagic results are simulations using the procedures described in references 3,5 and 7. This delta is similar to the expansion component associated with lambda and dark energy.
+
+
+
+As indicated above R1 during this period of expansion is the equation R=R0*time^(2/3) but a more detailed expansion curve is presented in the section below entitled “Constructing the complete expansion curve”. R3 is added to R1 expansion to reveal the total expansion. It compares favorably to WMAP [3][7] and Cmagic [5] and shows that the latter stage of expansion is flattened by energy from stars.
+
+The effect of 1.53e-10 MeV on the temperature is a delta of 1.19 degrees K. But the calculations in the section entitled “Constructing the temperature history” indicated that the temperature dropped to 2.13 K. When you add 1.19 to 2.13 degrees you calculate temperature 3.324 K.
+
+
+/
+It appears to the author that WMAP measurements masked this energy source. Stars subtend a very small angle and their wavelength is very different than the CBR. Different instrumentation may be required.
+The last four increments in the calculation above are enough to flatten the expansion curve and produce the measured Hubble constant of 2.26e-18/sec.
+
+/
+The calculation table above indicated that the force required to move particles apart against gravity is very low (on the order of 5e-61 Newtons). The energy/particle required to expand the universe from z=15 to the present is shown below.
+
+
+
+Critical density
+
+The standard method of simulating expansion involves the Friedmann-Lemaitre-Robertson-Walker (FLRW) model:
+
+H^2=H0^2*(OmegaMatter*(1+z)^3+OmegaR*(1+z)^2+OmegaLambda)
+
+Where:
+OmegaTotal=1	WMAP result Rhoc=H0^2/(8/3 pi G) (critical density) OmegaR(1+z)^2=0 (wrong shape)
+OmegaMatter separated into =Omega cold dark matter and baryons OmegaLambda is the cosmological constant
+H0=2.26e-18/sec	WMAP 9 year result
+z=(r/rf-1) where radius is the developing radius and rf is the final radius.
+
+
+WMAP Review:
+WMAP results [12] are important to cosmology. They support the existence of dark energy and are widely quoted for the discovery that most of the expected matter in the universe is missing. The current photon number density is well established by the Temperature 2.73 K.
+The updated year 9 parameters are shown in table below entitled WMAP published.
+
+WMAP [7]
+	
+	
+	
+	
+	NOW
+	
+	
+	
+	
+	published
+	
+	
+	
+	
+	4.02E+25
+	Inferred Radius
+	
+	
+	
+	
+	
+	
+	
+	2.26E-18
+	H0
+	
+	
+	
+	8809
+	Temperature at equality (K)
+	
+	
+	
+	Photon mass density
+	
+	
+	
+	Proton mass density
+	
+	
+	2973
+	Temperature at decoupling (K)
+	
+	0.0106
+	Spot angle (radians)
+	
+	
+	0.254
+	baryon number density
+	
+	
+	5.77E+08
+	Photon number density
+	
+	
+	4.400E-10
+	baryons/photon
+	
+	
+	0.235
+	Dark matter fraction
+	
+	
+	6.57E-27
+	dark matter density in kg/m^3
+	
+	4.2377E-28
+	baryon matter density in kg/m^3
+	
+	0.719
+	Dark energy fraction
+	
+	
+	9.1351E-27
+	critical density
+	
+	
+	0.0464
+	Baryon fraction
+	
+	
+	
+Some have called the value 0.0464 the “missing matter (baryon)” problem. Values similar to this have been reported in various documents over a period of many years. Limitation of this value in the literature is due to 1) deuterium residual measurements 2) position and time duration of the period equality and decoupling 3) photon/photon ratio required to produce He4 reactions 4) analysis of peaks and valley in micro-degree peaks in CBR anisotropy and the
+
+misleading FLRW model. Reference 20 addresses these limitations and concludes that 0.5 normal and 0.5 dark matter fraction of critical density is acceptable.
+Recalculating parameters with 0.719 dark energy removed
+Energy from star photons causes late stage expansion but the standard equation becomes very misleading because rhoC assumes that all expansion is density driven. The critical density concept presented in the literature (density is related to kinetic energy using the Friedmann derivation) assumes that initial kinetic energy drives all of expansion but we found that energy was added at 3 places. This means that expansion is only partially density driven and we must separate the causes of expansion and treat them differently. Above we showed that energy addition on the order of 2e-10 MeV was equivalent to 0.719 critical density (dark energy). We can compare these going back to the Friedmann derivation for critical density.
+
+
+
+	H=(8/3*PI()*0.0000000000667*9.14E-27)^0.5
+	
+	v/r=H
+	2.25993E-18
+	1/sec
+	
+	
+	
+	v=v/r*R
+	9.08493E+07
+	m/sec with R=4.02e25 m
+	
+	
+	ke=1/2*mv^2
+	43.0
+	mev
+	
+	
+	
+	Critical density converted to kinetic energy is 43 MeV. But we found that we needed only 3e-10 to expand in the second component. They use 0.719*43=31 MeV but this is 11 orders of magnitude too high.
+
+Cosmological parameters with dark energy removed (and replaced with star photons) are shown below. The table also corrects the baron fraction of critical mass from 0.046 to 0.5. Critical density takes on the meaning “current density”.
+
+/
+Number of proton like masses in the universe
+We can now calculate the number of proton like masses in the universe. The critical density
+9.14e-27 kg/m^3 is baryons plus dark matter. The current radius R1+R3 is 4.02e25 meters and this gives 2.72e77 meters^3. Multiplying critical density by volume gives the number of proton like masses in the universe. This means that the total proton like masses in the universe is exp(180). We do not know if dark matter has a proton like mass but this is an interesting number to the author because exp(180) was the starting point for a unifying theory [1][2][appendix 1].
+
+rhoC
+	Volume
+	rhoC*Volume
+	exp(180)
+	rhoC*V/exp(180)
+	
+	9.135E-27
+	2.72E+77
+	1.49E+78
+	1.49E+78
+	1.000
+	
+	
+	Some details of the WMAP parameters are compared below with the revised parameters presented in the rightmost column.
+
+Conclusions
+
+There are several areas that need reconsideration if we can agree that energy produced by stars is the cause of late stage expansion. Calculations indicate that the later part of the expansion curve is flattened by this energy and agrees with simulated expansion curves reported in the literature. The concepts of “dark energy” and missing matter were a concern. The source for star energy caused expansion is fusion and on this basis I believe that “dark energy” has been identified. But
+
+this energy is not the kinetic energy of protons and as such the reported densities must be revised. The revised baryon content of the universe is 0.5 fraction of final density, not 0.046 as reported by WMAP.
+Possible objections to revised cosmological parameters were addressed in Reference 20. New calculations were carried out regarding the residual abundance of He4, He3, Deuterium and Li7. The calculated values match the measurements if two changes in the calculations are made. One change is the increased radius to enclose He4 reactions (20) the second change is the revised baryon content 0.5.
+The author found an energy value in a model of the proton that is important to cosmology. The initial kinetic energy is 10.15 MeV. Combined with new concepts for quantum gravity a complete expansion curve was constructed. The expansion curve has several stages and agrees with data available. Specifically, Hubble constant 2.26e-18/sec is satisfied by a final radius (including all components) of 4.02e25 meters. The expansion radius calculated for the main component (R1) of expansion is 3.21e25 meters. Late stage star energy caused expansion 3.21e25+7.96e24=4.02e24 meters at the current time in expansion.
+The proton mass model proposed by the author starts with exp(180) particles of proton like mass. The model is strongly supported by the analysis presented.
+
+References
+Barbee, Gene. H., A Top-Down Approach to Fundamental Interactions, FQXi essay June 2012, viXra:1307.0082, Nov 2014
+Barbee, Gene. H., Unification, viXra:1410.0028, Oct 2014.
+Bennett, C.L. et al. First Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Preliminary Maps and Basic Data, Astrophysical Journal, 2001
+Peebles, P.J.E., Principles of Physical Cosmology, Princeton University Press, 1993.
+A. Conley, et al, (THE SUPERNOVA COSMOLOGY PROJECT), Measurement of Omega mass and Omega lambda from a blind analysis of Type1a supernovae with CMAGIC.
+Barbee, Gene H., On the Source of the Gravitational Constant, Prespacetime Journal, Volume 5 No 3, April, 2014. Originally viXra:1307.0085.
+Hinshaw, G. et.al, Nine Year WMAP Observations, draft June 5,2013
+http://arxiv.org/pdf/1212.5226v3.pdf Table 2.
+Bergstom, L. and Goobar, A., Cosmology and Particle Astrophysics, 2nd Edition, Springer-Praxis Books in Astrophysics and Astronomy, 2004.
+Barbee, Gene H., The Effect of He4 Fusion on Primordial Deuterium, viXra:1404.0465, May 2014.
+Barbee, Gene H., Application of Proton Mass model to Cosmology, viXra:1307.0090, Jan 2015.
+Barbee, Gene H., Semi-Fundamental Abundance of the Elements, viXra:1308.0009
+http://cds.cern.ch/record/262880/files/940501.pdf Review of work by N. D. Schramm.
+
+Barbee, Gene H., Discovery of Quantum Gravity, viXra:1508.0120, Aug 15 2015.
+Barbee, Gene H., Nature and Information, http://www.vixra.org/pdf/1611.0302v1.pdf, December 2016. http://prespacetime.com/index.php/pst/issue/view/91
+Barbee, Gene H., On Expansion Energy, Dark Energy and Missing Mass, Prespacetime Journal Vol. 5 No. 5, May 2014. Previously vixra:1307.0089, revised Mar 2014.
+Barbee, Gene H., A Simple Model of Atomic Binding Energy, vixra:1307.0102, revised Feb 2014. Reference spreadsheet atom.xls.
+Barbee, Gene H., Semi-Fundamental Abundance of the Elements, vixra:1308.0009, revised June 2014.
+http://cds.cern.ch/record/262880/files/9405010.pdf
+Patrick Peter, Jean Philippe Uzan, Primordial Cosmology, OUP Oxford, Feb 14,2013.
+Barbee, Gene H., Dark Matter and the Cosmic Web, viXra:1701.0503v1, January 2017.
+
+
+
+
+
+Appendix 1: Proton mass model
+
+The formal definition of information is attributed to Claude Shannon [7]. Information (N) = -ln P (Inversely, P=1/exp(N) where exp(N) means the natural number 2.718 to the power N).
+Probabilities are the chance of one event divided by all possibilities. He used natural logarithmic relationships because probabilities (P) multiply but information is additive. The negative sign tells us that information is high when probabilities are low.
+Can energy (E) be related to information? Using the right probability, the answer is yes. Probability P=e0/E where e0 is an energy constant that forms an energy ratio. Quantum mechanics deals with the square root of P (a complex number called psi). This is tied to wave/particle duality but the relationships of interest are described by probability P=e0/E=1/exp(N) and E=e0*exp(N).
+N for fundamental energy values
+The relationship E=e0*exp(N) will be used extensively. N is a logarithmic number. The key to N values for energy was correlation of data gathered by high energy labs [3][7]. Comparing N values for particles and knowing that the 0.511 Million Electron Volts (MeV) electron has a field equal to 2.72e-5 MeV, allowed the author to deduce that the electron N was 10.136 and its electromagnetic field energy N was 0.296=3*0.0986=3*ln(3/e) where e is the natural number 2.718. The energy constant e0=2.02e-5 MeV is calculated below from Particle Data Group [3] data for the electron mass. The universal equation for energy is E=2.02e-5*exp(N) MeV.
+
+/	/	/
+Find the value e0 by solving the above equation with E=.511	e0=E/exp(N)
+
+	
+	
+	
+	
+	e0= 0.511/exp(10.136)
+	
+	
+	
+	
+	
+	
+	
+	2.025E-05
+	mev
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	Note that 3*.0986=.296
+	
+	
+	E=eo*exp(.296)=2.72e-5 mev
+	2.722E-05
+	mev
+	
+	The electric field energy of the electron is known to be: (MeV)
+	2.72E-05
+	mev
+	
+	Data showing an N value for fundamental energy observations is listed in Part 2 Topic 1. The data is from either from NIST, (National Institute of Standards and Technology), the Particle Data Group [5] maintained by UC Berkeley or other reported values [3][7]. There are three quarks confined in a neutron (and proton) but they are not observed individually. The higher energy bosons are variations of N=22.5 and the Higgs particle measured in July 2010 agrees well with the author’s N value of 22.575. Time for fundamental particles is simply reciprocal time (1/time=frequency).
+Neutron components
+The author found N values for neutron components based on the way three quark masses and their kinetic energies add to the neutron mass. The related information components total N=90 for the neutron. They are listed in Table 1 below.
+
+
+	Neutron particle and kinetic energy N
+	Neutron field energy N
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	Quad 1
+	15.43
+	quark 1
+	
+	17.43
+	strong field 1
+	
+	
+	
+	12.43
+	kinetic energy
+	10.43
+	gravitational field component
+	
+	Quad 2
+	13.43
+	quark 2
+	
+	15.43
+	strong field 2
+	
+	
+	
+	12.43
+	kinetic energy
+	10.43
+	gravitational field component
+	
+	Quad 3
+	13.43
+	quark 3
+	
+	15.43
+	strong field 3
+	
+	
+	
+	12.43
+	kinetic energy
+	10.43
+	gravitational field component
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	Quad 4
+	10.41
+	
+	
+	-10.33
+	
+	
+	
+	
+	
+	-10.33
+	
+	
+	10.41
+	gravitational field component
+	
+	Quad 4'
+	10.33
+	pre-electron
+	10.33
+	
+	
+	
+	
+	
+	0.00
+	
+	
+	0.00
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	90.00
+	Total
+	
+	90.00
+	Total
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	Table 1
+	
+	
+	Table 2
+	
+	
+	
+	
+	
+Table 2 is similar to Table 1 except it contains N values for field energies of the neutron. Since the neutron does not carry charge, the electromagnetic field is absent but appears as a separation once the neutron decays to a proton (quads 4 and 4’). The strong residual field energy is part of a total energy balance. Sets of four N values labelled quads are involved in an information operation.
+Table 1 represents mass plus kinetic energy and Table 2 represents field energy. Set 2 will be used as an example for a quad that contains four values. The N values 13.43+12.43 are separated into 15.43+10.43. This operation conserves N but energy is also conserved. After these
+
+operations mass is imbedded in field energy quantum orbits. Each N has a specific place and a specific energy described below. N1 always gives a mass, N2 always represents a kinetic energy value, N3 always specifies strong field energy and N4 always specifies a second field energy (associated with gravity).
+
+E1 will be identified as a mass (a quark for the strong interaction) E2 is identified as a kinetic energy (ke) addition to energy E1.
+E3 is identified as strong field energy.
+E4 is identified as a gravitational field energy component.
+
+
+	
+	mev
+	
+	
+	mev
+	
+	
+	
+	
+	
+	E=e0*exp(N)
+	
+	E=e0*exp(N)
+	
+	
+	
+	N1
+	13.432
+	13.797
+	E1 mass
+	N3
+	15.432
+	101.947
+	E3 field
+	
+	N2
+	12.432
+	5.076
+	E2 ke
+	N4
+	10.432
+	0.687
+	E4 field
+	
+	
+These above energy values are placed in a table below with mass plus kinetic energy (102.634 MeV) separated from field energy (102.634). The total energy across the interaction is conserved at zero with mass (E1) + ke (E2) +ke difference (E4+E3-E2-E1) balancing field energies (E3+E4 shown as negative). This information separation followed by energy conservation has powerful implications. The operation involving E1 and E2 can be read E1 is given exp(2) of kinetic energy. Since the numbers (N) are exponents (E=e0*exp(N)), the number 2 can be associated with a divisor 1/exp(2)=0.135 that increases the kinetic energy of E1. The value 0.135 is identical to the concept of gamma in relativity. Gamma is the divisor that increases the kinetic energy of a moving mass involved in the Lorentz transformation. The definition is: ke=m/gamma-m. These may be special case Lagrangians and the energy interaction is similar to a physics qauge transition.
+
+Information (N) values from the neutron component table were used to a model the neutron’s known mass, 939.56 MeV. Three quads of N values are associated with three quarks and the fourth set transitions to the electron. The values toward the left side of the box, labeled mass and kinetic energy are balanced by fields on the right hand side of the box. Fundamental N values (13.431, 12.431, 15.431 and 10.431) are shown to the left of the box. These values are the source of the energies (E=e0*exp(N)) inside the box. The kinetic energy operator N=12.431 gives mass kinetic energy. It’s associated energy=2.025e-5*exp(12.431)=5.01 MeV. This creates a quark orbit with kinetic energy and associated field energies. The kinetic energy column has several components. Kinetic energy for each quad =E3+E4-E1-E2-E2. The extra E2’s are added back to form the column weak kinetic energy (10.15 MeV) and gravitational expansion energy (20.3 MeV). These energies play crucial roles in cosmology. The bottom quad is for the electron after it has decayed from the neutron.
+
+Tables 1 and 2 above each sum to the value N=90 but are separated opposites. This separates zero energy into two types of energy. Mass plus kinetic energy is positive and field energy is negative. The total energy for each neutron (939.56 MeV) plus the external kinetic energy that
+
+drives expansion is 960.54 MeV but the fields are negative 960.54 MeV. This conserves the other initial condition; zero energy.
+Energy (MeV) = 960.54-960.54=0.
+
+
+
+
+Values from the proton model unify the four forces (interactions) of nature [2].
+One important value above is 20.3 of expansion potential energy that forms an orbit with about
+10.15 MeV of kinetic energy and 10.15 MeV of potential energy. A neutron falls into the 2.723 MeV gravitational field and establishes an orbit at 7.22e-14 meters. This physics is the same as General Relativity except it occurs at the quantum scale. Another value of interest above is the difference between the neutron and proton mass, 1.293 that is made up of a neutrino of energy 0.671 and an electron with kinetic energy of 0.662 MeV.
+
+Appendix 3: Review of cellular cosmology
+
+Consider large mass M (for our purposes the mass of the universe although the term universe seems a little presumptive) broken into exp(180) small cells, each with the mass of a proton labelled lower case m below. The mass (m) of a proton is 1.67e-27 kg. Fill a large spherical volume with exp(180) small spheres we will call cells. The value exp(180) comes from the section below entitled “Number of proton like masses in the universe”. Consider the surface area of many small cells as a model of the surface of one large sphere with the same surface area. For laws of nature to be uniform throughout the universe there can be no preferred position. A
+
+surface offers this property but the equivalent surfaces of many small spheres also offer this property as long as we do not distinguish an edge. As such a surface model equivalent to the surface of many small cells is useful if the fundamentals of each cell are known.
+
+In general relativity [6] the metric tensor (scholarly matrix equations from general relativity) is based on (ds^2=three distances^2 and (C*time)^2). Note that ds^2 is a surface area and it is this surface that we will break into the surface area of exp(180) small spheres. Let small r represent the radius of each small cell and big R represent the radius of one large sphere containing exp(180) cells with the same surface area. Position a proton like mass on the surface of each cell. The total energy will be that of one protons/cell plus a small amount of kinetic energy. We will evaluate the gravitational constant G of a large sphere and compare it with G of small cells but we will use similar substitutions to evaluate other forces.
+
+Area=4*pi*R^2 Area=4*pi*r^2*exp(180) A/A=1=R^2/(r^2*exp(180) R^2=r^2*exp(180)
+r=R/exp(90)	surface area substitution M=m*exp(180) mass substitution
+
+For gravitation and large space, we consider velocity V, radius R and mass M as the variables (capital letters for large space) that determine the geodesic. With G constant, M=m*exp(180) and the surface area substitution R=r*exp(90), the gravitational constant would be calculated for large space and cellular space as follows (lower case r,v and m below are for cellular space):
+
+
+The extremely small value 1/exp(90) is the coupling constant for gravity. When measurements are made at the large scale as must done to measure G, the above derivation indicates that we should multiply cell scale values (r*v^2/m) by 1/exp(90) if we expect the same G. Geometric and mass relationships give the cell “cosmological properties”.
+
+The procedure applied to the force equation F=MV^2/R yields the same result by applying substitutions that represent the relationship between one cell and the universe.
+
+Appendix 4: Calculation of Gravitational Constant from the Proton Mass Model
+
+Using values for the proton mass model that the author believes unify nature’s forces (6), the gravitational constant is calculated below and agrees with the published constant, G=6.674e-11 N meters^2/kg^2.
+The following table follows a format that organizes input values, intermediate results and the final result in a column of calculations. The goal is to use the fundamental radius 7.224e-14 meters to calculate the gravitational inertial force. The inputs listed at the top of the table originate in the neutron model above. Firstly, the mass of a proton in MeV and its mass in kg are specified in the table. The gravitational field energy 2.723 MeV gives R=7.224e-14 but there is kinetic energy (10.14 MeV) in the orbit that the neutron falls into. With mass and kinetic energy, gamma and V/C can be calculated. Next the inertial force is determined for the mass orbiting at radius R.
+
+
+The measured gravitation constant G [16] is calculated above from fundamentals. The constant 1/exp(90) scales the quantum level to the large scale we observe around us. It has the effect of dramatically reducing the force between neutrons and makes gravity very long range compared to the other forces. The inertial force 3.66e-38 N is the same force as the literature above and confirms the radius 7.22e-14 as the radius for quantum gravity.
+
+
+
+Hindawi
+Advances in High Energy Physics Volume 2017, Article ID 8061353, 2 pages https://doi.org/10.1155/2017/8061353
+
+Editorial
+Dark Matter and Dark Energy Cosmologies and Alternative Theories of Gravitation
+
+Dandala R. K. Reddy,1 Sergei D. Odintsov,2 and Tiberiu Harko3
+1Department of Applied Mathematics, Andhra University, Visakhapatnam 530003, India
+2Institucion Catalana de Recerca i Estudis Avancats, Barcelona, Spain
+3Department of Mathematics, University College London, London WC1E 6BT, UK
+Correspondence should be addressed to Dandala R. K. Reddy; reddy einstein@yahoo.com
+Received 22 January 2017; Accepted 22 January 2017; Published 31 May 2017
+Copyright © 2017 Dandala R. K. Reddy et al. This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The publication of this article was funded by SCOAP3.
+
+
+
+Presently we are witnessing a period of rapid and intense change in our understanding of the gravitational force, at a rate that is quickly increasing since the important observa-tional discoveries of the late 1990s. With the advent of new observational techniques, we can see the emergence of inter-esting new cosmological paradigms, from which the CDM seems to fit the best cosmological observations, indicating that the present day Energy Cosmologies Universe is dom-inated by two mysterious components, dark energy and dark matter, with the former responsible for the accelerated expan-sion of the Universe, while the latter is required by the strange behavior of the galactic rotation curves. Up to now, no direct detection/observation of the dark matter has been reported, and presently the only evidence for its existence is its gravita-tional interaction with baryonic matter. Presently, after a long period of intensive observational and experimental results the particle nature of the dark matter is still unknown.
+Hence, a large number of astronomical observations strongly suggest that at large scales the force of gravity may not behave according to standard general relativity, as derived from the Hilbert-Einstein action, and that a generalization of the Hilbert-Einstein action, either at the geometric level or at the matter level, may be required for a full understanding of the gravitational interaction.
+This special issue is focused on some extensions of the standard theoretical concepts in gravity and cosmology. It includes state-of-the-art research contributions in the follow-ing areas: coupled dark energy models, occurring as a q-de-formed scalar field, spinor quintom dark energy models with intrinsic spin, in the framework of Einstein-Cartan-Sciama-Kibble theory, black hole solutions in 1 + 1-dimensional
+Horava-Lifshitz gravity, the study of the dark sector of the Universe by considering the dark energy as an emerging q-deformed bosonic scalar field, which is not only interacting with the dark matter, but also nonminimally coupled to grav-ity, and the comparison of the galactic rotation curves with the observations in the Bose-Einstein Condensate dark mat-ter model.
+In the paper by E. Dil, the q-deformed bosons models having a negative pressure are considered, and it is proposed that the associated scalar fields produced by these deformed bosons represent the dark energy in the Universe. The coupling between q-deformed dark energy and dark matter inhomogeneities in the Friedmann-Robertson-Walker space-time is also considered.
+The spin contribution to the total energy-momentum tensor giving the energy density and the pressure in a spinor quintom dark energy model with intrinsic spin, in the frame-work of Einstein-Cartan-Sciama-Kibble theory, is obtained in the paper by E. Dil. The equation of state parameter, the Hub-ble parameter, the deceleration parameter, the state finder parameter, and some distance parameters were obtained in terms of the spinor potential. Choosing some suitable potentials leads to a scenario involving crossing between the quintessence and phantom epochs, respectively, or vice versa. Three quintom scenarios are analyzed, which provides stable expansion phases avoiding Big Rip singularities and yielding matter dominated era through the stabilization of the spinor pressure via the spin contribution.
+The article by M. Halilsoy and A. Ovgun is devoted to investigating whether the Banados, Silk, and West type effects, which arise in higher dimensional black holes, are also
+
+Advances in High Energy Physics
+
+present in the 1 + 1-D naked singularity/black hole system. This investigation is performed by using the Horava-Lifshitz gravity theory. In this theoretical framework it is shown that the center-of-mass (CM) energy of the particles grows unbounded in some cases. An interacting dark matter and q-deformed model of dark energy nonminimally coupled to the gravity in the framework of Einsteinian gravity is considered in another paper by E. Dil. The dynamics of the model are investigated, including a phase-space analysis that explicitly shows if the model will give stable attractor solutions, indi-cating an accelerating expansion of the Universe. Finally, in the paper by M. Dwornik et al., a comparative and compre-hensive comparison of both the Bose-Einstein Condensate and the Navarro-Frenk-White dark halo models with galactic rotation curves is performed. Both the advantages and disad-vantages of the Bose-Einstein Condensate model over the N avarro-Frenk-White model are pointed out. It is also shown that the weaker performance of the Bose-Einstein Conden-sate model for the High Surface Brightness type II galaxies is due to the Bose-Einstein Condensate density poles dropping rapidly to zero outside a nearly constant density core.
+We hope that this special issue will serve as a reference for initiating and continuing state-of-the-art research in the fundamental fields of modified gravity, dark energy, and dark matter.
+Dandala R. K. Reddy Sergei D. Odintsov Tiberiu Harko
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/ / / /
+
+
+
+Dark Matter and Dark Energy: Mysteries of the Universe
+
+
+Nirakar Sapkota1, Binod Adhikari1, 2
+1Department of Physics, St. Xavier’s College, Maitighar, Kathmandu, Nepal
+
+2Department of Physics, Patan Multiple College, Patandhoka, Lalitpur, Nepal
+
+Correspondence to: sapkotanirakar07@gmail.com
+
+Abstract:
+
+The Universe has a flat geometry and its density is very close to critical density. However, the observed amount of matter accounts for only 5% of the critical density. The rest of the 95% is completely unknown to us which exists in the form of Dark Energy (68%) and Dark Matter (27%). We present an overview of how the very idea of the existence of Dark Matter emerged and some compelling evidences for the existence of such matter. Moreover, we also provide an insight on how scientific ideas have evolved from a static Universe to an expanding Universe and then to an accelerating Universe. In addition, we explain fundamental concepts related to Dark Energy and discuss briefly on the evidences of Dark Energy. We also discuss some alternative solutions to the problems of Dark Matter and Dark Energy provided by different scientists.
+
+Keywords: Dark Matter, Dark Energy, Bullet Cluster, Quintessence
+
+Introduction
+In the 1930s, one of the first indications of “missing mass” appeared when Fritz Zwicky observed the Coma Cluster and discovered that the galaxies within the cluster were moving with velocities much higher than what the collective gravity of all galaxies in the cluster would allow. They should have all scattered around by the centrifugal force being much greater than the gravity which was calculated from masses of individual galaxy. He said that there must be some “missing mass” within the cluster whose extra gravity caused such observations. Many other observations on different clusters and galaxies later lead to similar conclusions by different scientists. The name to the source of such gravity was given “Dark Matter”. It accounts for about 85% of the mass in the Universe.
+
+Friedmann’s equations suggested that the Universe had to be either expanding or contracting. It couldn’t be stable according to the equations. Einstein couldn’t cope up with the very idea of expansion of space itself. Thus, he added a term called Cosmological Constant in his equations to make the Universe static. (Straumann, 2002) Later, Edwin Hubble (1929) gave the best dataset supporting that the Universe is expanding. Einstein immediately removed the Cosmological Constant from his equation and said that adding the Cosmological Constant was his “Biggest Blunder”. However, much later have we realized that his “Greatest Blunder” was in fact one of the fundamental properties of the Universe which governed its fate. The Cosmological Constant can represent Dark Energy which will be explored in a much detailed way in this project.
+
+Dark Energy rules the Universe in the sense that it comprises of about 68% of the total energy-mass density of the Universe. The very existence of this Energy serves to flatten the curvature of the space and also causes the expansion of the Universe to accelerate.
+
+Until the late 1990s, scientists still hoped to find out whether the Universe will continue to expand forever at a decelerated pace or will eventually reach a point when gravity will win over- making the Universe contract towards a big crunch. However, the Universe was found to be accelerating in its expansion. (Riess, 1998; Perlmutter, 1999).
+
+Dark Matter
+
+By tracing the absorption and emission of light, we can trace the matter present in the Universe. In fact, there are various types of astronomical bodies with varying efficiency. Some are extremely luminous (Supernovae explosions) whereas others are very dim (planetary bodies) with a low light emission per unit mass. The extent to which an object is effective in its emissivity can be described by the mass-to-light ratio of the object (M/L). However, all astronomical objects do not necessarily emit or absorb light.
+
+Experimentally, it is found that total mass calculated using the motion of objects exceeded the estimated luminous masses of different astronomical objects by a large fraction. The matter responsible for such phenomenon is what we call “Dark Matter”.
+
+In fact, the term “Dark Matter” was coined by Jacobus Kapteyn in 1922 in his studies of stellar velocities. He suggested that no dark matter is needed in the solar neighborhood. Jan Oort(1932) carried out dynamical study of the Milky Way Galaxy. He discovered that vertical motion of stars near the Galactic Plane was at an alarmingly fast rate than that was possible considering the density due to known stars. This suggested the existence of some unseen matter. He said Dark Matter is twice as much as normal matter. This was later found to be wrong. However, Fritz Zwicky (1933 A.D.) observed the Coma Cluster and claimed the existence of Dark Matter. Thus, the discovery of Dark Matter is credited to Fritz Zwicky. He was surprised to find that the orbital velocities were almost a factor of ten larger than the mass calculated from optical observations allowed.
+
+In spiral galaxies, visible matter consists of stars and interstellar gas which rotate around the galactic center on nearly circular orbits. Most of the observable matter is found to be in a thin disc. Galaxy-rotation curves suggest that velocity
+
+remains constant or increases after about 5 kpc Matts Roos, 2010) which is far from the expected model as shown in Fig.1
+
+
+Figure.1:Rotation curve of spiral galaxy M33 (yellow and blue points) and white line indicates the predicted one from visible matter observations. Only by adding a dark matter halo around the galaxy, the discrepancy between the curves can be accounted for. (Source: Corbelli and Salucci, 2000)
+
+Mass-to-light ratio (M/L) of all the stars in galaxies cannot explain all the mass in the Universe. Clearly, it suggests that matter which doesn’t emit radiation is present in the galaxies. Moreover, in some elliptical galaxies, strong gravitational lensing shows evidence for dark matter. (Bertone, 2004)
+
+There are two types of Dark Matter : Baryonic Dark Matter (BDM) and Non-Baryonic Dark Matter. True nature of both of these dark matters aren’t yet known. This is called “The Dark Matter Problem”. However, “dark matter” in general is used to refer to the non-baryonic dark matter.
+
+Baryonic Dark Matter
+
+Cosmic Microwave Background (CMB) tells us how the Universe was before the development of structures and at the time of decoupling of photons from baryons i.e. about 380,000 years after the beginning of time. (Hu & Dodelson, 2002) Using CMB, the baryonic density were measured which along with conditions required for primordial nucleosynthesis suggest that the baryonic density cannot exceed 0.05 times the critical density. However, constraints from CMB, supernovae observations and galaxy redshift surveys suggest that matter density should be about 0.27 times the critical density of the Universe. So, the remaining 0.22 of the critical density has to be that of non-baryonic matter. This is why matter was separated as baryonic and non-baryonic matter. (Gondolo, 2004)
+
+Cold molecular clouds and brown dwarfs are candidates for dark matter in the galaxies. According to some observations, MACHOs provide a significant quantity of halo dark matter. However, statistics of microlensing events is too low to make strong conclusions. How MACHOs formed is one problem whereas what the rest of Dark Matter in the galaxies is made up of is another. Observation of near-infrared and faint optical emission of halo around the galaxy NGC5907 suggest that there is expected distribution of gravitational mass- providing the first direct indication
+
+about very faint stars (with mass about 0.1 solar masses) being responsible for most effects of dark matter in the galactic halos. (Jetzer, 1996)
+
+Non-Baryonic Dark Matter
+
+Based on velocities of particles of which the Non-Baryonic Dark Matter is made up of, it is divided into three types: hot dark matter (HDM), warm dark matter (WDM) and cold dark matter (CDM). At the time of formation of galaxies, HDM was relativistic which affected the formation of smallest objects. CDM was non-relativistic and collapsed under the effect of its own gravity. WDM was semi-relativistic and can be considered as an intermediate between CDM and HDM. (Gondolo, 2004) Examples of HDM: light neutrino; of CDM: Neutralinos, WIMPZILLAs, axions, and of WDM: keV-mass sterile neutrinos and gravitinos.
+
+Another way of classifying Non-Baryonic Dark Matter is Type Ia (that are known to exist), Type Ib (that are yet not discovered but can solve genuine physics particle problems and are interact and possess mass within well-defined particle model) and Type II (that aren’t as strong candidates as the other two). However, with more understanding of associated Physics and nature of particle, a particle can move from Type II to Type Ib and finally to Type Ia with its discovery (Gondolo, 2004).
+
+Modified Newtonian Dynamics (MOND)
+
+When acceleration of gravity becomes less than a fixed value, mass discrepancies are seen in the stellar systems. Realizing this, MOND was proposed by M. Milgrom to behave as alternative approach to explain the effects of non-baryonic dark matter. (Scarpa, 2006) It is a non-relativistic concept applicable on galactic scales to match with the observations of galactic-rotation curves which would otherwise need dark matter.
+
+The acceleration of gravity in MOND (a) is related to that in Newtonian dynamics (aN) by
+
+aN= aμ(a/a0)
+
+where a0 is one Angstroem per second per second and regarded a new constant of Physics.
+
+In the outer regions of the galaxies, acceleration is many orders of magnitude smaller than what we have otherwise predicted. This is explained by MOND by assuming that when acceleration is low compared to a0.
+
+For a<<a ,	𝑎 = √𝑎 𝑎 = √𝐺𝑀𝑎0, where M is the mass generating gravitational field.
+o	𝑁 0	𝑟
+The velocities of stars in galaxies would be more than expected from Newtonian gravity if the gravitational force was directly proportional to the square of centripetal force (instead of centripetal force alone) on the galactic scales or if the force of gravity varied inversely with radius (Milgrom, 2002) From the above equation, it is also seen that acceleration is inversely proportional to radius (and not with radius squared). So, the galactic rotation curves can be explained. Thus, there is no need of dark matter to explain flat rotation curves in galaxies. (Milgrom, 2002)
+
+MOND can correctly predict the flat rotation curves of galaxies beyond a certain distance. Moreover, mass discrepancy plotted against typical acceleration in galactic systems gives similar pattern as per MOND’s predictions. However, every galaxy can be an independent test of MOND, regarding whether or not the rotation curve is flat. (Scarpa, 2006) When we try to fit the rotation curves, a0 is an inflexible constant- the online flexible parameter being the mass-to-light ratio (associated with the M term) and somewhat flexibility is observed with the distance r. Thus, MOND has very less flexibility than a dark-matter model which can explain any kind of rotation curves. (Scarpa, 2006)
+
+/
+Figure.2: Rotation curve of galaxies along with data. Yellow lines represent the curves predicted by MOND and the red lines represent the curves predicted by Newtonian dynamics. (Source: Mordehai Milgrom,2002)
+
+Bullet Cluster
+
+Bullet Cluster consists of two colliding clusters of galaxies at z=0.296 (Paraficz et al., 2016). In this system, ssub-cluster “Bullet” has undergone collision with the main cluster, nearly at the plane of sky (Barrena et al. 2002). As a result of collision, strong bow shock has been produced in the intra-cluster gas- stripping away the gas from the cluster potential. (Markevitch et al., 2002). Since the gas and galaxies have some offset, there is a possibility to indirectly measure the distribution of total mass by the use of gravitational lensing. (Bradac et al. 2006, 2009) Lensing mass distribution was studied to provide a powerful evidence for the existence of dark matter which challenges theories of modified gravity like MOND and TeVeS (Milgrom 1983; Bekenstein, 2004) It was found that the majority of mass component exists in spatial agreement not with the X-ray gas but with the galaxies. This verifies that dark matter doesn’t collide with anything. (Paraficz et al., 2016)
+
+However, the separation of dark matter and luminous matter could very well be a projection effect in MOND. (Angus et al. 2006)
+
+/
+
+Figure.3: Bullet Cluster: Blue region indicates source of gravity whereas the red region indicates the gas clouds in X-rays. Clearly, most of the gravity is not from the region of baryonic matter.[Source: Markevitch et al., 2004]
+
+N-Body Simulations
+
+Ostriker and Peeble presented a theoretical argument for the requirement of massive dark matter halos to stabilize the disks of spiral galaxies. (Frenk, 2012) By using N-body simulations, 300 mass points were programmed in computer which represented groups of stars in a galaxy rotating about central point. They had simulated the galaxy such that there were more mass points (stars) near the center and fewer towards the edge. The simulation was based on calculation of gravitational force between each pair using Newton’s formula and then showing how the stars would move in a short period of time. They were able to track the motion of the stars (mass points) over a long period by repeating the calculations for many times. They discovered that even shorter than an orbital period, most of the stars (mass points) had to collapse to a bar shape near the galactic center according to the calculations; which isn’t what we see. Thus, they concluded that for the system to be stable (like we observe), the mass has to be uniformly distributed 3 to 10 times the total mass points they had put. This suggested a clear need of dark matter.
+
+Evidences from Andromeda Galaxy
+
+The motion of stars of the Andromeda Galaxy was studied using sensitive photon detectors. (Rubin, 1970). The hydrogen gas cloud outside the visible edge of Andromeda was expected to move slower than gas at the galaxy’s edge. However, it was found that the orbital speed of hydrogen clouds remain constant outside the visible galactic edge. This suggested the need of dark matter whose quantity increased with increasing distance from the center of the galaxy.
+
+Evidences from lensing of Quasars
+
+Quasars are distant objects which are about 100 times more luminous than an entire galaxy. Images of quasars which are far away are lensed by the galaxies between us and the quasar. The observations of such lensing can provide significant insight about how dark matter is distributed. Several images of the same quasar appear due to gravitational lensing when we view them through our telescopes. By measuring the brightness of each image of the quasar, we can determine how matter in the galaxy in between is distributed. Normal matter can be located by using optical
+
+measurements. Then, the brightness of the images can be used to trace out where the dark matter is present and how much dark matter is there. Observations from such lenses have concluded that dark matter clumps in galaxies should not be larger than 3000 light years.
+
+
+
+
+Figure.4: Gravitational lensing producing several images of distant quasar.(Source: The European Space Agency’s Faint Object Camera on board NASA’s Hubble Space Telescope, 1990)
+
+Dark Matter in the Milky Way
+
+The MACHO Project (1992) was designed to look for dark matter in the form of MACHO in the galactic halo of Milky Way. (Alcock, 1995). It was based on observing gravitational lensing. “Large Magellanic Cloud” is a small satellite galaxy that revolves around the Milky Way and the MACHO project was based on monitoring the light from stars in that galaxy which will be gravitationally lensed if a MACHO passes in front of them. An automated telescope at Australia’s Mount Stromlo Observatory was used in the project to observe such transit. However, no significant change to account for dark matter was observed.
+
+Another project was “EROS” was run by European Organization for Astronomical Research which also got similar negative result. Observations of about 7 million stars lead to only one possible MACHO transit which was much less than what theory predicts (42 events are predicted by theory). Moreover, SuperMACHO survey succeeded the MACHO Project and it was concluded that the MACHOs can’t simply account for the observed density of dark matter in the Milky Way.
+
+WIMPS (Weakly Interacting Massive Particles)
+
+They are non-Standard Model and non-relativistic particles which were produced by falling out of thermal equilibrium with the hot and dense plasma in the early Universe. Any dark matter candidate particle which can interact with the particles of the Standard Model via force with strength similar to weak nuclear force is referred to as WIMP.
+
+When the early Universe was at high temperature, thermal equilibrium was established and number density of photons and WIMPS were roughly same. Due to the cooling of the Universe, both of their density decreased. After the temperature reached below the mass of WIMP, the formation of WIMP became rare whereas the annihilation didn’t stop but proceeded. The number density of WIMP’s decreased at an exponential rate. However, the equilibrium was disturbed at some point when the density of WIMP significantly dropped-making the probability of two WIMPs annihilating very low. The number of WIMPs didn’t drop anymore. Predicted relic density of WIMPs at present is inversely proportional to the strength of interaction. If the relic density is to be equal to that of dark matter density, the strength of interaction is expected to be equal to electroweak-scale interactions. So, a stable particle which annihilates with electroweak-scale cross section can behave as what we call “dark matter” in the Universe. (Griest, 2006)
+
+Supersymmetry:
+
+Supersymmetry (SUSY) is a hypothetical proposed symmetry which relates elementary particles bosons and fermions. If this phenomenon exists, every known particle must have its supersymmetric counterpart. Certain supersymmetric particles are predicted to have same quantum numbers which is why they can mix and produce particles which are not exact partners of any particle described by Standard Model. For instance, the Higgsino, photinos and Z-ino mix into random combinations called Neutralinos (Griest, 2006).
+
+Light supersymmetric particle (LSP) is a remarkable dark matter candidate as it is stable and also because supersymmetric particles interact through electroweak-strength interactions. Neutralino is LSP which is why WIMP dark matter investigators focus on detecting it. In fact, the detection of any of the predicted supersymmetric partner can confirm the existence of all supersymmetric particles (Griest, 2006).
+
+Dark Matter and Structure formation:
+
+According to the Standard theory of cosmic structure formation, early Universe was nearly perfect in its homogeneity except few tiny density modulations. These modulations were later enhanced due to the influence of gravity which lead to the formation of galaxies, clusters, and large scale structures we see in the Universe. Primordial density variations are believed to have occurred due to certain quantum fluctuations in the very early Universe which were magnified to macroscopic levels when Cosmic Inflation took place. Several experiments have determined the amplitude of density fluctuations at the period when the CMB radiation was released. It was found that the amplitude of fluctuations is not enough to allow the observed structures to form with the mere presence of baryons and radiation. WIMPS or dark matter particles are essential since they are not affected by photon pressure. This serves to create a strong argument against baryonic dark matter. (Griest, 2006).
+
+Dark Energy
+
+Science makes all its admirers wonder about the mysteries of the Universe and scratch their head trying to explain the phenomena we observe. By the late 1800s, the advancements in Classical Physics had made some physicists believe that there weren’t much things to explore about Physics. People thought there would be no more scientific breakthroughs. There were just few experiments which had to be done with better precision; however, the then existing concepts were thought to be able to explain all the phenomena in the Universe. In contrast, the scientific revolution in the 1900s brought tons of new ideas in Physics and mysteries were introduced one after another which brought human consciousness back to an ideal thought essential for scientific researches- “The more we discover, the more mysteries arise.”
+
+Even with dark matter and normal matter, there still wasn’t enough energy-mass density to account for the density which would cause the Universe to have flat geometry (i.e. critical density). Then, something called “Dark Energy” was brought into theories which has a negative pressure. It turns out that in the playground of gravity of matter and negative pressure effects of Dark Energy, the latter is much stronger; thus causing the Universe to expand at an accelerated rate.
+
+Albert Einstein added a term called Cosmological Constant to his equations because he couldn’t cope up with the fact that Universe which is everything could actually expand or contract. He did so to make the Universe static. He said, “In order to arrive at this consistent view, we admittedly had to introduce an extension of the field equations of gravitation which is not justified by our actual knowledge of gravitation. It has to be emphasized, however, that a positive curvature of space is given by our results, even if the supplementary term is not introduced. That term is necessary only for the purpose of making possible a quasi-static distribution of matter, as required by the fact of the small velocities of the stars.” (Straumann, 2002)
+
+As per our current understandings, the cosmological constant acts against gravity and wins over gravity to cause accelerated expansion. So, even though Einstein had added this term with negative pressure to merely balance out gravity and not allow the Universe to collapse, it turns out that something very similar to Cosmological Constant is required to explain the acceleration of Universe in its expansion.
+
+The Expanding Universe
+
+Distances are the hardest things to measure in astronomy. Simply by observing the brightness of an object in the sky, we cannot tell if it is a large luminous body billions of light years away or a small body with less luminosity just a couple of million light years far. For the same reason, standard candles are significant in Astronomy. These are objects whose luminosities are known to us and no matter how far they are, their distance can be worked out with the help of observed flux and their actual luminosity we know. One of such standard candles are Cepheid variables which have their brightness increase and decrease periodically. It turns out that the longer the period, the brighter the Cepheid variables. This was figured out for the first time by Henrietta Leavitt in 1912. Thus, no matter how far a Cepheid variable is, we can work out its true luminosity with the help of period of brightness change and then by measuring the flux with telescope, we can work out how far away it is using the following relation.
+  𝐿 
+4𝜋𝐷2; where L = Luminosity, F= Flux, D= Distance.
+
+Harlow Shapley measured the size of our galaxy using Cepheid variables as standard candles. deSitter (1917) was among the first to consider galactic velocities in a cosmological context and Carl Wirtz (1922) was the first one to detect the distance-velocity relationship. He proposed redshift as an effect of time-dilation. (Wirtz, 1924) In 1927, Lemaitre published his paper proposing that the Universe is expanding. However, his work didn’t draw much attention and Einstein told him “Your calculations are correct, but your physical insight is abominable.” (R Smith, 1990). The astronomers at that time had attempted to determine any observational form of redshift-distance relation. However, all of their evidence was not convincing as their plots of radial velocity against distance looked more like scatter diagrams. (Smith, 1990)
+
+The light from galaxies is stretched out by expansion of the Universe which is known as redshift. Vesto Melvin Slipher had accumulated several measurements of velocities of galaxies determined this way, for over a decade. However, Edwin Hubble is often mistaken to be the first one to discover the redshifts of galaxies. Edwin Hubble (1929) combined the distances he had measured using Cepheid variables with velocities of galaxies calculated from their redshift. He plotted a graph against velocity and distance reaching a conclusion that further galaxies were moving away from us at a faster rate. Hubble and Humason (1931) measured 40 new radial velocities and plotted them against distance to obtain a better result showing velocity-distance relationship (Bergh, 2011). However, the reason for the observed redshift of galaxies was unclear at that time.
+
+/
+
+Figure.5: Velocity-distance graph plotted by Edwin Hubble in 1929.(Source: E. Hubble, 1929)
+
+
+Figure.6: Velocity-distance graph plotted by Edwin Hubble and Humason in 1931 [Source: Hubble and Humason, 1931]
+
+The “apparent recession velocities” is the result of increase in proper distance due to the expansion of space itself in between the galaxies. This happens only between systems which aren’t held together by gravity. Thus, this effect isn’t seen within the galaxies of the Local Cluster which are bound by their mutual gravity. It is significant to note that cosmological redshifts are not Doppler shifts of galaxies flying away from us. Except for motions within galaxy clusters, galaxies are at rest and it is the space between them which is expanding. Due to the expansion of the space, any photon which passes through the space is stretched i.e. its wavelength increases. Since the photons from distant galaxies spend more time travelling through expanding space, they are more stretched than the photons from galaxies which are nearby. This is why redshift increases with increase in distance. However, it is to be noted that the red-shift distance relation is different from the recessional velocity-distance relation (which is linear) observed by Edwin Hubble.
+
+A negative pressure field (similar to Dark Energy as we think of it now) must have driven the inflation of the Universe in its very early stage. (Guth, 1981) Inflation is a phenomenon which eases the horizon problem and the flatness problem of the Friedmann Cosmology (referred to as Big Bang Cosmology). Horizon problem is related to the homogeneity observed in the distant points in CMB whereas the flatness problem is related to the precision in flatness of the Universe in its early age. Cosmic Inflation lasted from 10−36 seconds to about 10−33 seconds after the Big Bang. It is currently thought that Inflation must have occurred at a much higher energy density compared to the density of dark energy we observe today. However, the relation of inflation and dark energy aren’t yet clear which is why the Cosmological Constant was thought to not related to the Universe’s faith, back then in 1980s.
+
+
+
+First Indication of Dark Energy
+
+Astronomers were keen to determine the deceleration rate of the Universe which would appear as small yet real departure from Hubble’s Law if Hubble diagram was extended to very large distances. However, the telescopes we have cannot afford to see the light from stars which are billions of light years away. For the same reason, astronomers based their observations on type Ia Supernovae which are standard candles in Astronomy.
+
+There are, however, several challenges associated with determining the cosmic deceleration or acceleration by the help of these supernovae. These events are rare as they take place about once every hundred years in a typical galaxy. This means searching about 10,000 galaxies would allow us to find two of these events a week which definitely is not possible for humans. Moreover, unlike Cepheid variables, supernovae don’t have direct brightness-vibration period relation.
+
+However, extra-bright type Ia SN increases to its peak luminosity and decreases slowly compared to its dimmer counterpart. This is why the study of light curve (graph of luminosity as a function of time) of SN is significant to determine their luminosity. Such use of Phillips relationship i.e. the relation between rate of luminosity evolution after maximum and the peak luminosity for a Type Ia supernovae can help to measure distances to about 7% accuracy. Since the uncertainty in average value we measure becomes smaller as the square root of the total number of times the measurement is repeated, measurements of more of these events are required for experimental accuracy which is yet another challenge. Another way to use them as standard candles is to exploit the fact that they explode with the same Chandrasekhar mass (about 1.4 solar masses), so their luminosity is known to us. By observing the flux, the distance to these events can be worked out by the flux-luminosity relation mentioned in section 2.2.1.
+
+/
+
+Figure.7: Light curves of SN 2007le (Source: KAIT and Lick Nickel 1 m data)
+
+By the end of the 20th century, two separate group of astronomers were ready with their results from observations of type Ia supernovae. In 1998, the High-Z Supernova Team measured 16 distant and 34 nearby supernovae and were startled to see that the Universe was accelerating in its expansion (Riess, 1998). The distant supernovae were about 25 percent dimmer for a given redshift than expected which clearly indicated that the Universe was expanding slower in the past which is why it took longer for its light to reach us. However, it accelerated in its expansion and reached the current rate of expansion. In 1999, the Supernova Cosmology Project with even a larger sample of 42 distant supernovae published its results which agreed with that of High-Z Supernova Team ( Perlmutter, 1999).
+
+/
+
+Figure.8:Observed magnitude against redshift plotted for highly redshirted as well as near type Ia Supernovae [Source: Perlmutter, 2003].
+
+Later, astronomers continued to look for even more distant type Ia supernovae (about 12 billion light years away) and found that the most distant supernovae are actually too bright than expected. This further reveals that when the Universe was young, galaxies were closer which caused their gravitational pull to be much effective than the effect of dark energy. So, the expansion was slowed down. But as Universe continued its expansion, the distance between the galaxies increased which caused their gravitational pull to become weaker compared to dark energy; thus leading to acceleration. This happened about 6 billion years ago. (Michael Seeds and Dana Backman, 2012)
+
+In short, observations of supernovae in the region where acceleration had just started appear dimmer than expected but the supernovae even farther, belonging to the time when the Universe was decelerating in its initial phase are brighter than expected. The speculations about the initial deceleration and later acceleration are made after these observations.
+
+
+
+
+
+
+
+Brief Discussion of Evidences of Dark Energy
+
+If the mass density of the Universe dominated the cosmos, it would eventually decelerate the expansion of the Universe. In that scenario, the Universe would have a higher rate of expansion in the past than in the present. So, the light from the Supernovae would have faced higher stretching earlier when they were emitted compared to the present.
+
+The redshift we would predict for a given brightness of supernovae would thus be less than the actual redshift observed. This means for a given redshift, supernovae would appear brighter than expected.
+
+In contrast, since the supernovae are fainter for a given redshift than expected, we can conclude that mass density doesn’t alone dominate the Universe. In fact, adding cosmological constant helps us to fit the supernovae data quite well. Perlmutter and Goobar (1995) had found that by observing type Ia Supernovae data for a wide range of distances, it is possible to determine the effects of mass density and vacuum-energy density. The supernovae data of 1998 implies that vacuum energy density is larger than the mass density (Perlmutter, 2003). This is why the Universe is accelerating in its expansion. If the Universe really has a flat geometry as indicated by measurements of CMB, 70% of the total energy density is vacuum energy and 30% is mass.
+
+Baryonic Acoustic Oscillations (BAO) provide another significant evidence for the existence of Dark Energy. BAOs are periodic fluctuations observed in density of baryonic matter that is visible in the Universe. Just as the Supernovae act as standard candles, BAOs act as “standard-ruler” to measure length scale in cosmology. From the observations of different large scale structures in the Universe by the use of different surveys, length of the standard ruler is measured to be about 490million light years in the present context. (Eisenstein et al., 2005) In the primordial plasma of the Universe, matter had gravitational force as well as photon-matter pressure which acted in opposite directions i.e. gravitational force attracted matter and the photon-matter pressure created outward force. This resulted in oscillations which are called BAOs. Each wave originating from such region moves around in a spherical manner- outward from the overdense region. Such wave consisted of dark matter, baryons as well as photons moving together with speed closer to half the speed of light. (Sunyaev and Zeldovich, 1970; Peebles and Yu, 1970). After 400,000 years of the big bang, the photons and baryons decoupled. After that, the pressure was relieved and a shell, with fixed radius, of baryonic matter was left behind. This is called sound horizon. (Eisenstein et al., 2005) Later on, the matter attracted more matter- forming galaxies and galaxy clusters. From observations of light from galaxy clusters, the current sound horizon can be found which can be compared to that at the time of recombination. (Eisenstein et al., 2005) Thus, BAO can be used as standard ruler. By measuring the scale of BAO in galaxy distributions, we get a geometric probe related to the expansion history. (Frieman et al, 2008)
+
+Study of CMB allows us to critically determine cosmological parameters with high precision, which strengthens the ability of different methods to understand Dark Energy. WMAP(Wilkinson Microwave Anisotropy Probe) and Planck satellite data have been significant for our study of CMB. By combining the results of data from BAO, CMB and Supernovae, we find that dark energy is required to explain our results. (Frieman et al, 2008)
+
+However, some particle physicists ridicule the concept of vacuum energy density because the standard model of particle physics doesn’t allow vacuum energy density of the magnitude required to explain the supernovae data. The calculations predict a vacuum energy 10120 times the required value which is the biggest mismatch ever between theory and observation in the history of science. Moreover, the mass density becomes smaller as the Universe continues its expansion and yet at present, it still is about a factor of 2 of the vacuum energy density (which remains constant throughout the history of the Universe) which is why many Physicists believe Cosmological Constant requires some “fine tuning” (Perlmutter, 2003). Since the considerations of this constant vacuum energy density represented by Cosmological Constant as the accelerating energy (dark energy) has these problems, some physicists have proposed a dynamic scalar-field to be responsible for the effects of “dark energy”.
+
+Could there be something wrong with our interpretation of Dark Energy?
+
+Astrophysicists often love to argue about different possibilities and to broaden their horizon about the possible explanations of data obtained from experiments. There could be some interpretation of the data without requiring the need for Dark Energy, one of them being the argument supporting “Luminosity Evolution”.(W. Li, 2003) However, we haven’t fully understood whether or not they evolve at different redshifts.
+
+Another scenario can also explain the results without considering the need for Dark Energy (Clifton, 2009). Assume that the Universe is inhomogeneous, the expansion is decelerating everywhere and our place in the Universe has much
+
+less density than anywhere else which is why our deceleration is less in comparison. In that case, the expansion rate of our place will be much faster than anywhere else. Different parts of the space expand differently in that scenario. If supernovae explode in different parts of this Universe (some close and some far away), we would observe different results. For instance, for a distant supernova, our space expands much faster than the space at the location of the supernovae. Light coming from the supernova passes through different regions with different rates of expansion and the stretching of the photons produces redshift. However, the stretching is less in the places with less expansion rate (distant) and more as the photon approaches us. So, the light from the supernova would have a smaller redshift than it would if the entire Universe was expanding at our local rate. In contrast, light in such Universe has to travel a longer distance for it to have a given redshift (Clifton, 2009). The supernovae would appear to be dimmer in that case, just as in the observations.
+
+Another possibility is that the clocks which were in sync in early smooth Universe became unsynchronized by now due to increasing lumpiness of matter. Thus, time dilation has slowed down the time in our galaxy compared to the cosmic voids out there. In fact, the time shown by our clock and one in a floating void can differ by about 38 percent which can explain the supernova data. Space is negatively curved in voids which implies that for a given radius, the volume is larger compared to a relatively flat space we live in. Wiltshire says this change in volume along with the correction to clocks can explain the acceleration. According to him, the Universe is slowing down in its expansion-just as it was originally thought (Gefter, 2008).
+
+Here is a recent review on inhomogeneous cosmology for further study: K. Bolejko & M. Korzynski (2017) .However, Dark Energy is the most widely accepted explanation for the observations.
+
+
+
+
+Geometry of the Universe and Dark Energy
+
+
+
+𝑎̇ 2
+( )
+𝑎
+8𝜋𝐺
+−  3
+
+𝜌 = −
+𝑘𝑐2
+
+/
+𝑎2
+
+
+
+The above is the first Friedmann Equation. Here, the term containing “a” in the Left Hand Side (LHS) is associated with the expansion of the Universe. The term containing “ρ” is associated with the resistance of the Universe to expand due to the force of gravity from all the matter in the Universe. On the RHS, “k” is a constant associated with the geometry of the Universe. From this equation, we can clearly see that the expansion rate of the Universe depends upon its density. It is found that the LHS is much greater than zero. Thus, the RHS should also be positive in that case. However, the negative sign on RHS requires the “k” term to be negative and only then will the RHS be greater than zero.
+
+The constant “k” can be -1, 0 or +1. In a Universe with positive curvature, the value of k is “+1”. In a flat Universe, k is equal to 0 and in a geometry which is 3D version of a negative hyperbolic plane, the value of k is “-1”. Clearly, it looks as if the Universe has a negative curvature if the equations are to make sense. However, observations from CMB suggest that on the largest scale, the Universe is almost flat! This means RHS is nearly equal to zero. For that, some term is added on the LHS which is a term containing “Cosmological Constant”.
+
+
+𝑎̇ 2
+8𝜋𝐺
+𝛬𝑐2	𝑘𝑐2
+
+(𝑎) −
+3  𝜌 −
+3  = − 𝑎2
+
+Clearly, the lamda “Λ” term works on the side of density to flatten the curvature of the Universe. This is exactly what dark energy does! It comprises about 70% of the total mass-energy density to flatten the curvature of the Universe.
+
+
+
+
+
+More about the Nature of Dark Energy explained by Cosmological Constant:
+
+
+
+𝑎̈ = − 4𝜋𝐺 (𝜌 + 3𝑝)
+/	/	/
+
+𝑎	3
+𝑐2
+
+
+
+
+This is the second Friedmann Equation. The term on LHS is related to the expansion rate of the Universe. On the RHS, “ρ” represents density of mass and energy (not including dark energy of course). The “p” represents pressure which also bends the fabric of space-time. The terms on the RHS add up more than zero and the negative sign means a negative acceleration is produced. This would imply that the Universe is either decelerating in its expansion or is collapsing towards a Big Crunch. This is what exactly motivated Einstein to add a term containing Cosmological Constant to stabilize the Universe. However, the same constant can have a slightly larger value than predicted by Einstein to explain the properties of Dark Energy.
+
+
+𝑎̈	4𝜋𝐺
+3𝑝
+𝛬𝑐2
+
+𝑎 = −  3  (𝜌 + 𝑐2 ) +  3
+By taking into consideration the density and pressure of Dark Energy, the above term can be written as:
+
+𝑎̈ = − 4𝜋𝐺 [(𝜌 + 𝜌 ) + 3(𝑝 + 𝑝𝛬)]
+
+
+/
+𝑎	3
+
+/
+𝛬	𝑐2
+
+
+Clearly, the density of Dark Energy is added to that of density of matter (dark matter as well as normal matter) and energy (all energy except Dark Energy). This is what helps to flatten the curvature of the Universe. However, we see that on RHS, the pressure term is also negative when the bracket is opened. For the expansion to be accelerating, the term containing pressure should be positive. That can happen only if 𝑝𝛬is negative and large enough. This is what explains the negative pressure exhibited by Dark Energy. Since mass, energy and pressure bend the fabric of space-time whose effect is seen as gravity; the effect of negative pressure in turn is seen as an anti-gravity effect which is accelerating the expansion of the Universe.
+
+Quintessence as Dark Energy
+
+Cosmological Constant can quite well explain Dark Energy; however there are few problems with it which is why some scientists like to think of Dark Energy to be caused by Quintessence- a dynamic field that evolves over time (Ratra and Peebles, 1998)
+
+The vacuum energy density would always have to be the same. This implies that even when the Universe was 100s of magnitudes smaller, the vacuum energy density was the same as it is now. That means for every 10100 parts matter, physical process created just a single part vacuum energy- something scientists think is very less likely to happen in the real world (Ostriker, 2002). This is why some of them find Quintessence to be an appropriate explanation for Dark Energy.
+
+ωis called equation of state which is the ratio of pressure to energy density. For ω less than -1/3, gravity becomes repulsive. For constant vacuum energy density represented by Cosmological Constant, ω is -1 and remains -1. However, Quintessence has no fixed value of ω since it evolves over time (though ω is always less than -1/3 for Quintessence as well due to its anti-gravity effects) (Ostriker, 2002).
+
+Some models suggest that Quintessence has such a slow variation that it looks almost as if there is constant vacuum density- this idea of course being borrowed from theories related to inflation of the Early Universe. However, Quintessence is very weak compared to inflation and the associated time scale is much longer. Since it varies with time, it cannot be a smoothly distributed component which would otherwise be a contradiction with the equivalence principle (Steinhardt, 2000).
+
+Physical processes are described in terms of field or particles, in quantum theory. Since quintessence varies very slowly and has a very low energy density, a particle of quintessence should be large (in the scales of supercluster of galaxies) and yet be lightweight. Every field has a potential component dependent on the value of field strength and a kinetic component which is dependent on how field strength varies with time; so does quintessence. Quintessence is “soft” in contrast to Cosmological Constant which is “stiff”; in the jargon. Since every form of energy we know is soft to certain extent, stiffness could be an ideal case which doesn’t exist. If that is so, Cosmological Constant is an absolutely inappropriate candidate for Dark Energy (Ostriker, 2002).
+
+MORE ON DARK ENERGY: Quintessence ruled out
+
+Dark Energy represented by the Cosmological Constant drives the Universe to expand at a constant acceleration over time; thus moving the galaxies farther apart, and ultimately leading to a dark-alone Universe. However, if the dark energy represented by quintessence, the acceleration might increase with time. Ultimately, it may pulls the galaxies, stars and even individual atoms and space itself will be torn apart- a term “Big Rip” is used to describe this event.
+
+However, observations from Chandra X-Ray Observatory (2004 A.D) on 26 galaxy clusters nearly rule out the concept of quintessence. Moreover, it independently proved the existence of Dark Energy as the results indicated that the Universe has stopped decelerating and started accelerating several billion years ago when Dark Energy became dominant (Michael Seeds and Dana Backman, 2012).
+
+The balance between Dark Matter and Dark Energy changes over time if Dark Energy is explained by Cosmological Constant. If we look back in the past, the density of Dark Matter is much higher; however, the energy density of Dark Energy should be constant. If we look back to redshift 1, the density of dark matter would be 8 times the present density which implies that it would be about 8 times more significant in the past. In that scenario, gravity would have the upper hand causing the Universe to decelerate. This is exactly what Adam Riess and his colleagues reported in 2004 and 2007. In fact, all the data we currently have can actually fit a model of Dark Energy explained by Cosmological Constant. However, even precise data is significant to better understand the nature of Dark Energy.
+
+
+
+3. Conclusion
+The existence of dark matter and dark energy have been firmly established by now. () However, the origin of these phenomena remain a mystery even as of today. For dark matter, the cold dark matter described above is one of the simplest explanations of our observations. () Vacuum energy is the simplest explanation for dark energy for it is consistent with our data. However, there is no theoretical understanding regarding the observed value of vacuum energy. The best solutions to these problems can be obtained after detection of dark matter by one of the various experiments designed to do so and by probing the expansion history with much better precision (than current 10%).
+
+References:
+F. Zwicky, Die Rotverschiebung von extragalaktischen Nebeln, Helvetica Physica Acta, 6, 110 (1933)
+
+J. H. Oort, The force exerted by the stellar system in the direction perpendicular to the galactic plane and some related problems,
+Bull. Astron. Inst. Netherlands, 6, 249 (1932)
+
+M. Roos, Dark Matter: The evidence from astronomy, astrophysics and cosmology, arXiv:1001.0316v2
+
+G. Bertone, D. Hooper and J. Silk, Particle Dark Matter: Evidence, Candidates and Constraints, Phys.Rept.405, 279-390,2005
+
+M. Vonlanthen, S. Rasanen, R. Durrer, Model-independent cosmological constraints from the CMB, JCAP, 08, 2010
+
+P. Jetzer, Mircolensing Implications for Halo Dark Matter, Helv.Phys.Acta, 69,179-184,1996 arXiv:astro-ph/9609016v1
+
+C.Alcock, R.A.Allsman, T.S.Axelrod et al., The MACHO Project First-Year Large Magellanic Cloud Results: The Microlensing Rate and the Nature of the Galactic Dark Halo, Astrophys.J., 461,1996
+
+E. Corbelli, P. Salucci, The extended rotation curve and the dark matter halo of M33, R. Astron. Soc. 311, 441-447, 2000
+
+M. Milgrom, "Does Dark Matter Really Exist?," Scientific American, August 2002
+
+M. Roos, Astrophysical and cosmological probes of dark matter arXiv:1208.3662v3 [physics.gen-ph]
+
+V.C. Rubin, Dark Matter in the Universe, Scientific American, 1998
+
+V.C. Rubin, W.K. Ford, Astrophys. J. 159, 379, 1970
+
+J. L. Greenstein, M. Schmidt, The Quasi-Stellar Radio Sources 3c 48 and 3c 273, Astrophysical Journal, 140, 1964
+
+R. S. Ellis, Gravitational lensing: a unique probe of dark matter and dark energy, The Royal Society, 2010
+
+C. S. Frenk, D.M. Simon, Dark matter and cosmic structure, Ann. Phys. 2012, 524, 507
+
+K. Griest, WIMPs and MACHOs, ENCYCLOPEDIA OF ASTRONOMY AND ASTROPHYSICS, 2006
+
+E. P. Hubble, Proc. Natl. Acad. Sci. USA 15,168–173, 1929
+
+N. Straumann, The history of the cosmological constant problem, arXiv:gr-qc/0208027v1
+
+"Cepheid Variable Star RS Puppis”: NASA, ESA, the Hubble Heritage Team (STScI/AURA), and H. Bond
+
+R. W. Smith, E. P. Hubble and The Transformation of Cosmology, Physics Today, April 1990
+
+M. Hamuy, M.M. Phillips, R. A. Schommer et al., The Absolute Luminosities of the Calan/Tololo Type Ia Supernovae, Astron.J. 112, 1996
+
+S. Bergh, DISCOVERY OF THE EXPANSION OF THE UNIVERSE, arXiv:1108.0709v2 [physics.hist-ph]
+
+Guth, Inflationary Universe: A possible solution to the horizon and flatness problems, Physical Review D (Particles	and Fields), 23, 1981
+
+M. Seeds and D. Backman , Horizons: Exploring the Universe, 12th Edison, 2012
+
+G.R. Adam et. al, OBSERVATIONAL EVIDENCE FROM SUPERNOVAE FOR AN ACCELERATING UNIVERSE AND A COSMOLOGICAL CONSTANT, Astron.J.,116, 1009-1038,1998
+
+S. Perlmutter et al., MEASUREMENTS OF OMEGA AND LAMBDA FROM 42 HIGH-REDSHIFT SUPERNOVAE,
+Astrophys.J., 517, 565-586, 1999
+
+Slipher, Proc. Amer. Phil. Soc., 56, 403, 1917
+
+S. Perlmutter, Supernovae, Dark Energy, and the Accelerating Universe, PHYSICS TODAY, April 2003
+
+W. Li and A. V. Filippenko, Observations of Type Ia Supernovae and Challenges for Cosmology
+
+T. Clifton, P.G. Ferreira, Does Dark Energy Really Exist?, Scientific American 300, 48 - 55 2009
+
+P.J. Steinhardt, Quintessential Cosmology and Cosmic Acceleration, Bl. Schwerpunkt Astroteilchenphysik, 2000
+
+J. P. Ostriker and P. J. Steinhardt, The Quintessential, Scientific American, 284, 2001
+
+A. Gefter, Dark energy may just be a cosmic illusion, New Scientist, March 2008
+
+A. Riess, Seeing Dark Energy, Proceedings of "Identification of dark matter 2008". August 18-22, 2008, Stockholm, Sweden, p.43
+
+H. Peng, S. Asztalos, E.J. Daw et al., Cryogenic cavity detector for a large-scale cold dark-matter axion search, Nucl. Instrum. Methods A, 444, 569–583, 2000
+
+S. J. Asztalos, G. Carosi, C. Hagmann et al., SQUID-Based Microwave Cavity Search for Dark-Matter Axions, Phys. Rev. Lett., 104, 2010
+
+D.B. Tanner; Search for Axionic Dark Matter, Patras 2013
+
+K. Yamamoto, M. Tada, Y. Kishimoto et al., The Rydberg-Atom-Cavity Axion Search arXiv:hep-ph/0101200v1
+
+N.C. Spooner, Vitaly Kudryavtsev, The Identification of Dark Matter, 2002
+
+S. Akeribb, X. Baih, S. Bedikianq et al., Nuclear Inst. and Methods in Physics Research, A704, 2013
+
+V. Barger, W.Y. Keung, D. Marfatia et al., PAMELA and dark matter, Phys.Lett.B, 672, 141- 146, 2009
+
+A. M. Green, The WIMP annual modulation signal and non-standard halo models, Phys.Rev.D, 63, 043005, 2001
+
+E.K. Shields, SABRE: A search for dark matter and a test of the DAMA/LIBRA annual-modulation result using thallium-doped sodium-iodide scintillation detectors, Ph.D Thesis Princeton University, 2015
+
+P. Sikivie, Experimental Tests of the “Invisible” Axion, Phys. Rev. Lett. 51, 1415 (1983).
+
+N. Benitez, R. Dupke et al., J-PAS: The Javalambre-Physics of the Accelerated Universe Astrophysical Survey
+arXiv:1403.5237v1 [astro-ph.CO]
+
+E. G. M. Ferreira, J. Quintin, A. A. Costa, E. Abdalla, B. Wang, New evidence for interacting dark energy from BOSS
+arXiv:1412.2777v3 [astro-ph.CO]
+
+Dark Energy Survey Collaboration: T. Abbott, F. B. Abdalla, J. Aleksic, et al., The Dark Energy Survey: more than dark energy
+- an overview, MNRAS, 460, 1270 (2016)
+
+Dark Energy Survey Collaboration: T. Abbott, G. Aldering, J. Annis, et al., The Dark Energy Survey, arXiv:astro-ph/0510346v1
+
+E. Hubble, Mi. L. Humason, The Velocity-Distance Relation Among Extra-Galactic Nebulae, Astro-physical Journal, LXXIV, 43-80, 1931
+
+A. Guth, Inflation and Eternal Inflation, Phys.Rept. ,333, 2000 arXiv:astro-ph/0002156v1
+
+D. Clowe, A. Gonzalez, M. Markevich, Weak lensing mass reconstruction of the interacting cluster 1E0657-558: Direct evidence for the existence of dark matter, Astrophys. J., 604(2), 596–603, 2003 arXiv:astro-ph/0312273 doi:10.1086/381970
+
+M. Markevitch, S. Randall, D. Clowe, A. Gonzalez et al. Dark Matter and the Bullet Cluster. 36th COSPAR Scientific Assembly. Beijing, China, 2006
+
+R. Scarpa, Modified Newtonian Dynamics, an Introductory Review, 2006
+
+P. Gondolo, Non-Baryonic Dark Matter, 2004 arXiv:astro-ph/0403064v1
+
+D.J. Eisenstein, et al., Detection of the Baryon Acoustic Peak in the Large-Scale Correlation Function of SDSS Luminous Red Galaxies,	The	Astrophysical	Journal,	633	(2):	560,	2005	arXiv:astro-ph/0501171 Bibcode:2005ApJ...633..560E. doi:10.1086/466512.
+
+R. Sunyaev.; Ya. B. Zeldovich, Small-Scale Fluctuations of Relic Radiation, Astrophysics and Space Science., 7 (1): 3, 1970 Bibcode:1970Ap&SS...7	3S. doi:10.1007/BF00653471
+
+P. J. E. Peebles, J.T. Yu, Primeval Adiabatic Perturbation in an Expanding Universe, The Astrophysical Journal. 162: 815, 1970 Bibcode:1970ApJ...162..815P. doi:10.1086/150713.
+
+❉❛r❦ ♠❛tt❡r ❛♥❞ ❞❛r❦ ❡♥❡r❣②✿ ❙♣❡❝✐✜❝❛t✐♦♥s t❤❛t ❛ss♦❝✐❛t❡ ✇✐t❤ ❞❛t❛
+❚❤♦♠❛s ❏✳ ❇✉❝❦❤♦❧t③
+❘♦♥✐♥ ■♥sI✐I✉I❡ ❢♦r ■♥❞❡♣❡♥❞❡♥I ❙❝❤♦❧❛rs❤✐♣✱ ▼♦♥I❝❧❛✐r✱ ◆❡✇ ❏❡rs❡② ✵✼✵✹✸✱ ❯❙❆
+
+
+
+❆❜str❛❝t
+❚❤✐s ♣❛♣❡r s✉❣❣❡sts ❛ s♣❡❝✐✜❝❛t✐♦♥ ❢♦r ❞❛r❦ ♠❛tt❡r ❛♥❞ ❛♥ ❡①♣❧❛♥❛t✐♦♥ ❢♦r ❞❛r❦ ❡♥❡r❣②✳ ❚❤✐s ♣❛♣❡r ❢❡❛✲ t✉r❡s t✇♦ ❦❡② ❤②♣♦t❤❡s❡s✳ ❋✐rst✱ t❤✐s ♣❛♣❡r ❛ss✉♠❡s t❤❛t ♥❛t✉r❡ ✐♥❝❧✉❞❡s s✐① ✐s♦♠❡rs ♦❢ ♠♦st ❡❧❡♠❡♥t❛r②
+♣❛rt✐❝❧❡s✳ ❋✐✈❡ ♦❢ t❤❡ s✐① ✐s♦♠❡rs ❛ss♦❝✐❛t❡ ✇✐t❤ ❞❛r❦ ♠❛tt❡r✳ ❙❡❝♦♥❞✱ t❤✐s ♣❛♣❡r ❛ss✉♠❡s t❤❛t ♠✉❧t✐♣♦❧❡
+❡①♣❛♥s✐♦♥s ❝❛♥ ♣r♦✈❡ ✉s❡❢✉❧ r❡❣❛r❞✐♥❣ ❣r❛✈✐t②✳ ❙♦♠❡ t❡r♠s ✐♥ t❤❡ ❡①♣❛♥s✐♦♥s ❛ss♦❝✐❛t❡ ✇✐t❤ ❣r❛✈✐t❛t✐♦♥❛❧
+❛ttr❛❝t✐♦♥✳ ❙♦♠❡ t❡r♠s ❛ss♦❝✐❛t❡ ✇✐t❤ ❞✐❧✉t✐♦♥ ♦❢ ❛ttr❛❝t✐♦♥✳ ❉✐❧✉t✐♦♥ ❝❛♥ ❛ss♦❝✐❛t❡ ✇✐t❤ ♠✉t✉❛❧ r❡✲
+♣✉❧s✐♦♥ ❜❡t✇❡❡♥ ♦❜❥❡❝ts ❛♥❞ ✇✐t❤ ❞❛r❦ ❡♥❡r❣②✳ ❚❤✐s ♣❛♣❡r s✉❣❣❡sts t❤❛t t❤♦s❡ t✇♦ ❛ss✉♠♣t✐♦♥s ❧❡❛❞ t♦
+❡①♣❧❛♥❛t✐♦♥s ❢♦r ❞❛t❛ t❤❛t ♣❡rt❛✐♥ t♦ t❤❡ r❛t❡ ♦❢ ❡①♣❛♥s✐♦♥ ♦❢ t❤❡ ✉♥✐✈❡rs❡✱ t❤❡ ❢♦r♠❛t✐♦♥ ♦❢ ❣❛❧❛①✐❡s✱ ❛♥❞
+♦t❤❡r ❛s♣❡❝ts ♦❢ ❝♦s♠♦❧♦❣② ❛♥❞ ❛str♦♣❤②s✐❝s✳
+❑❡②✇♦r❞s✿ ❞❛r❦ ♠❛tt❡r✱ ❞❛r❦ ❡♥❡r❣②✱ r❛t❡ ♦❢ ❡①♣❛♥s✐♦♥ ♦❢ t❤❡ ✉♥✐✈❡rs❡✱ ❣❛❧❛①② ❢♦r♠❛t✐♦♥
+
+
+❈♦♥t❡♥ts
+
+✶
+	♥tr♦❞✉❝t✐♦♥
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	✷
+	
+	✷
+	▼❡t❤♦❞s
+✷✳✶	❖r❞✐♥❛r② ♠❛tt❡r ❛♥❞ ❞❛r❦ ♠❛tt❡r ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✷
+✷
+	
+	
+	✷✳✷	P❡rs♣❡❝t✐✈❡ r❡❣❛r❞✐♥❣ ♠♦❞❡❧✐♥❣ r❡❣❛r❞✐♥❣ ❡❧❡❝tr♦♠❛❣♥❡t✐s♠ ❛♥❞ ❣r❛✈✐t②
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✸
+	
+	✷✳✸
+	❊❧❡❝tr♦♠❛❣♥❡t✐s♠ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✸
+	
+	✷✳✹
+	●r❛✈✐t② ❛♥❞ ❞❛r❦ ❡♥❡r❣② ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✹
+	
+	✷✳✺
+	❈♦♠♣♦♥❡♥ts ♦❢ ❡❧❡❝tr♦♠❛❣♥❡t✐s♠ ❛♥❞ ❣r❛✈✐t❛t✐♦♥
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✹
+	
+	✸
+	❘❡s✉❧ts
+✸✳✶	❇❛s✐❝s✿ ❚✐❡r✲✵ ❡❧❡❝tr♦♠❛❣♥❡t✐s♠ ❛♥❞ ❣r❛✈✐t❛t✐♦♥ ✳ ✳ ✳ ✳
+	
+✳
+	
+✳
+	
+✳
+	
+✳
+	
+✳
+	
+✳
+	
+✳
+	
+✳
+	
+✳
+	
+✳
+	
+✳
+	
+✳
+	
+✳
+	
+✳
+	
+✳
+	
+✳
+	
+✳
+	
+✳
+	
+✳
+	✻
+✻
+	
+	
+	✸✳✷	❆t♦♠s ❛♥❞ ❡❧❡❝tr♦♠❛❣♥❡t✐s♠ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✻
+	
+	
+	✸✳✸	▲❛r❣❡✲s❝❛❧❡ ♣r❡s❡♥❝❡s ♦❢ ♦r❞✐♥❛r② ♠❛tt❡r ❛♥❞ ❞❛r❦ ♠❛tt❡r
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✻
+	
+	✸✳✹
+	❛❧❛①② ❢♦r♠❛t✐♦♥ ❛♥❞ ❡✈♦❧✉t✐♦♥ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳ ✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✻
+	
+	✸✳✺
+	❚❤❡ r❛t❡ ♦❢ ❡①♣❛♥s✐♦♥ ♦❢ t❤❡ ✉♥✐✈❡rs❡ ✳ ✳ ✳ ✳ ✳ ✳ ✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✼
+	
+	✸✳✻
+	▲❛r❣❡✲s❝❛❧❡ t❡♥s✐♦♥s ❜❡t✇❡❡♥ ❞❛t❛ ❛♥❞ ♠♦❞❡❧✐♥❣ ✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✼
+	
+	✸✳✼
+	❈♦❧❧✐s✐♦♥s t❤❛t ✐♥✈♦❧✈❡ ❣❛❧❛①② ❝❧✉st❡rs ✳ ✳ ✳ ✳ ✳ ✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✽
+	
+	✸✳✽	❘❡❝❛♣✿ ❘❡❛❝❤❡s t❤❛t ❛ss♦❝✐❛t❡ ✇✐t❤ ❝♦♠♣♦♥❡♥ts ♦❢ ❡❧❡❝tr♦♠❛❣♥❡t✐s♠ ❛♥❞ ❣r❛✈✐t❛t✐♦♥ ✳ ✳ ✳	✽
+
+✹
+	❉✐s❝✉ss✐♦♥
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	✽
+	
+	
+	✹✳✶	P♦ss✐❜❧❡ ✐s♦♠❡r✲✵ ❞❛r❦ ♠❛tt❡r ❡❧❡♠❡♥t❛r② ♣❛rt✐❝❧❡s ✳ ✳ ✳ ✳ ✳ ✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✽
+	
+	
+✺
+	✹✳✷	◆❡✇t♦♥✐❛♥ ❞②♥❛♠✐❝s✱ s♣❡❝✐❛❧ r❡❧❛t✐✈✐t②✱ ❛♥❞ ❣❡♥❡r❛❧ r❡❧❛t✐✈✐t②
+❈♦♥❝❧✉s✐♦♥s
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✳
+	✾
+✾
+	
+	❆❝❦♥♦✇❧❡❞❣♠❡♥ts	✾
+❘❡❢❡r❡♥❝❡s	✾
+
+❊♠❛✐❧ ❛❞❞r❡ss✿ ❚❤♦♠❛s✳ ❇✉❝❦❤♦❧t③❅❘♦♥✐♥■♥st✐t✉t❡✳ ♦r❣ ✭❚❤♦♠❛s ❏✳ ❇✉❝❦❤♦❧t③✮
+
+✶✳ ■♥tr♦❞✉❝t✐♦♥
+❉❡s❝r✐❜✐♥❣ ❞❛r❦ ♠❛tt❡r ❤❛s ❜❡❡♥ ❛♥ ♦♣❡♥ ♦♣♣♦rt✉♥✐t② ❢♦r ♠♦r❡ t❤❛♥ ✽✵ ②❡❛rs✳ ❯♥❞❡rst❛♥❞✐♥❣ ❞❛r❦
+❡♥❡r❣② ❤❛s ❜❡❡♥ ❛♥ ♦♣❡♥ ♦♣♣♦rt✉♥✐t② ❢♦r ♠♦r❡ t❤❛♥ ✽✵ ②❡❛rs✳
+❚❤✐s ♣❛♣❡r s✉❣❣❡sts s♣❡❝✐✜❝❛t✐♦♥s ❢♦r ❞❛r❦ ♠❛tt❡r ❛♥❞ ❞❛r❦ ❡♥❡r❣②✳
+❚❤✐s ♣❛♣❡r s✉❣❣❡sts s✐♠✐❧❛r✐t✐❡s ❜❡t✇❡❡♥ t❤❡ s♣❡❝✐✜❝❛t✐♦♥s ❛♥❞ ❢❛♠✐❧✐❛r ♣❤②s✐❝s✳ ❋♦r ❡①❛♠♣❧❡✱ t❤❡
+❢♦❧❧♦✇✐♥❣ ♥♦t✐♦♥s ♣❡rt❛✐♥✳
+❼ ❉❛r❦ ♠❛tt❡r ♠✐❣❤t ❜❡ ❧✐❦❡ ♦r❞✐♥❛r② ♠❛tt❡r✳
+❼ ▼✉❧t✐♣♦❧❡ ❡①♣❛♥s✐♦♥s r❡❣❛r❞✐♥❣ ❣r❛✈✐t② ♠✐❣❤t ❡①♣❧❛✐♥ ❞❛r❦ ❡♥❡r❣②✳
+❚❤✐s ♣❛♣❡r s✉❣❣❡sts ❞✐✛❡r❡♥❝❡s ❢r♦♠ ❢❛♠✐❧✐❛r ♣❤②s✐❝s✳ ❋♦r ❡①❛♠♣❧❡✱ t❤✐s ♣❛♣❡r s✉❣❣❡sts ❜♦✉♥❞s ♦♥ t❤❡
+❛♣♣❧✐❝❛❜✐❧✐t② ♦❢ ❣❡♥❡r❛❧ r❡❧❛t✐✈✐t②✳
+❚❤❡ ♠♦❞❡❧✐♥❣ t❤❛t t❤✐s ♣❛♣❡r s✉❣❣❡sts ♠✐❣❤t ♠❡❡t t❤❡ ❢♦❧❧♦✇✐♥❣ ❝r✐t❡r✐❛✳
+❼  ❊①♣❧❛✐♥ ❞❛t❛ t❤❛t ♣❤②s✐❝s ♦t❤❡r✇✐s❡ s❡❡♠s ♥♦t t♦ ❡①♣❧❛✐♥✳
+❼ ❍❛✈❡ ♥♦ ✐♥❝♦♠♣❛t✐❜✐❧✐t✐❡s ✇✐t❤ ❞❛t❛✳
+❼ ❙✉❣❣❡st ♣♦ss✐❜❧❡ ❢✉t✉r❡ ❞❛t❛✳
+❚❤✐s ♣❛♣❡r ✉s❡s t❤❡ ❢♦❧❧♦✇✐♥❣ ❛❝r♦♥②♠s✳ P❊▼ ✭❛s ✐♥ ♣♦♣✉❧❛r❧② ❡♠♣❧♦②❡❞ ♠♦❞❡❧✐♥❣✮ ❞❡♥♦t❡s ❢❛♠✐❧✐❛r
+♣❤②s✐❝s ♠♦❞❡❧✐♥❣✳ ❙❆▼ ✭❛s ✐♥ s✉❣❣❡st❡❞ ❛❞❞✐t✐♦♥❛❧ ♠♦❞❡❧✐♥❣✮ ❞❡♥♦t❡s ♣❤②s✐❝s ♠♦❞❡❧✐♥❣ t❤❛t t❤✐s ♣❛♣❡r s✉❣❣❡sts ❛s ❛✉❣♠❡♥t❛t✐♦♥s t♦ P❊▼✳
+
+✷✳ ▼❡t❤♦❞s
+❚❤✐s ✉♥✐t s✉❣❣❡sts ❛ s♣❡❝✐✜❝❛t✐♦♥ ❢♦r ❞❛r❦ ♠❛tt❡r✳ ❚❤✐s ✉♥✐t s✉❣❣❡sts ♠♦❞❡❧✐♥❣ t❤❛t ❛ss♦❝✐❛t❡s ✇✐t❤
+❞❛r❦ ❡♥❡r❣②✳
+✷✳✶✳ ❖r❞✐♥❛r② ♠❛łł❡r ❛♥❞ ❞❛r❦ ♠❛łł❡r
+❚❤✐s ✉♥✐t s✉❣❣❡sts ❛ s♣❡❝✐✜❝❛t✐♦♥ ❢♦r ❞❛r❦ ♠❛tt❡r ❛♥❞ ❞✐s❝✉ss❡s s♦♠❡ ❝♦♥s❡q✉❡♥❝❡s t❤❛t ❛ss♦❝✐❛t❡ ✇✐t❤ t❤❡ s♣❡❝✐✜❝❛t✐♦♥✳
+❙❆▼ s✉❣❣❡sts t❤❛t ♥❛t✉r❡ ✐♥❝❧✉❞❡s s✐① ✐s♦♠❡rs ♦❢ ❛ s♦✲❝❛❧❧❡❞ ✐s♦♠❡r✐❝ s❡t ♦❢ ❡❧❡♠❡♥t❛r② ♣❛rt✐❝❧❡s✳
+❊❛❝❤ ❦♥♦✇♥ ❡❧❡♠❡♥t❛r② ♣❛rt✐❝❧❡ ✲ ❡①❝❡♣t t❤❡ ♣❤♦t♦♥ ✲ ❛ss♦❝✐❛t❡s ✇✐t❤ ❛ ♠❡♠❜❡r ♦❢ t❤❡ ✐s♦♠❡r✐❝ s❡t✳ ❚❤❡
+♠✐❣❤t✲❜❡ ❣r❛✈✐t♦♥ ❞♦❡s ♥♦t ❛ss♦❝✐❛t❡ ✇✐t❤ ❛ ♠❡♠❜❡r ♦❢ t❤❡ ✐s♦♠❡r✐❝ s❡t✳ ❆♥② ♦t❤❡r ❡❧❡♠❡♥t❛r② ♣❛rt✐❝❧❡ ✐♥ t❤❡ s❡r✐❡s t❤❛t ❝♦♥s✐sts ♦❢ ♣❤♦t♦♥✱ ❣r❛✈✐t♦♥✱ ❛♥❞ s♦ ❢♦rt❤ ❞♦❡s ♥♦t ❛ss♦❝✐❛t❡ ✇✐t❤ ❛ ♠❡♠❜❡r t❤❡ ✐s♦♠❡r✐❝ s❡t✳ ❆♥② ♦t❤❡r ❡❧❡♠❡♥t❛r② ♣❛rt✐❝❧❡ ❛ss♦❝✐❛t❡s ✇✐t❤ ❛ ♠❡♠❜❡r ♦❢ t❤❡ ✐s♦♠❡r✐❝ s❡t✳ ❚❤❡ ✐s♦♠❡r✐❝ s❡t ✐♥❝❧✉❞❡s
+♥♦ ♠❡♠❜❡rs ♦t❤❡r t❤❛♥ t❤♦s❡ t♦ ✇❤✐❝❤ t❤❡ ❛❜♦✈❡ ❞✐s❝✉ss✐♦♥ ❛❧❧✉❞❡s✳
+❙❆▼ s✉❣❣❡sts t❤❛t ♦r❞✐♥❛r② ♠❛tt❡r ❛ss♦❝✐❛t❡s ✇✐t❤ ♦♥❡ ✐s♦♠❡r✳ ❙❆▼ s✉❣❣❡sts t❤❛t ❞❛r❦ ♠❛tt❡r
+❛ss♦❝✐❛t❡s ✇✐t❤ t❤❡ ♦t❤❡r ✜✈❡ ✐s♦♠❡rs✳
+❙❆▼ ❝❛❧❧s t❤❡ ✐s♦♠❡rs ✐s♦♠❡r✲✵✱ ✐s♦♠❡r✲✶✱ . . .✱ ❛♥❞ ✐s♦♠❡r✲✺✳ ❙❆▼ ❝❛❧❧s t❤❡ ♦r❞✐♥❛r② ♠❛tt❡r ✐s♦♠❡r
+✐s♦♠❡r✲✵✳
+❙❆▼ s✉❣❣❡sts t❤❡ ❢♦❧❧♦✇✐♥❣ s✐♠✐❧❛r✐t✐❡s ❛♥❞ ❞✐✛❡r❡♥❝❡s ❜❡t✇❡❡♥ t❤❡ ✐s♦♠❡rs✳
+❼ ❙✐♠✐❧❛r✐t✐❡s ✐♥❝❧✉❞❡ t❤❡ ♠❛ss❡s✱ s♣✐♥s✱ ❛♥❞ ❝❤❛r❣❡s ♦❢ ❝♦✉♥t❡r♣❛rt ❡❧❡♠❡♥t❛r② ♣❛rt✐❝❧❡s✳
+❼ ❖♥❡ ❞✐✛❡r❡♥❝❡ ❛ss♦❝✐❛t❡s ✇✐t❤ ❤❛♥❞❡❞♥❡ss✳ ❊❛❝❤ ♦♥❡ ♦❢ t❤❡ ♦r❞✐♥❛r② ♠❛tt❡r ✐s♦♠❡r ✭♦r✱ ✐s♦♠❡r✲
+✵✮✱ ✐s♦♠❡r✲✷✱ ❛♥❞ ✐s♦♠❡r✲✹ ❛ss♦❝✐❛t❡s ✇✐t❤ ❧❡❢t✲❤❛♥❞❡❞♥❡ss✳  ❊❛❝❤ ♦♥❡ ♦❢ ✐s♦♠❡r✲✶✱ ✐s♦♠❡r✲✸✱ ❛♥❞
+✐s♦♠❡r✲✺ ❛ss♦❝✐❛t❡s ✇✐t❤ r✐❣❤t✲❤❛♥❞❡❞♥❡ss✳
+❼ ❖♥❡ ❞✐✛❡r❡♥❝❡ ❛ss♦❝✐❛t❡s ✇✐t❤ ♠❛t❝❤❡s ❜❡t✇❡❡♥ t❤❡ ✢❛✈♦✉rs ♦❢ ❝❤❛r❣❡❞ ❧❡♣t♦♥s ❛♥❞ t❤❡ ✢❛✈♦✉rs ♦❢ q✉❛r❦s✳
+✕ ❆❝r♦ss t❤❡ s✐① ✐s♦♠❡rs✱ ❙❆▼ ❛ss♦❝✐❛t❡s t❤❡ ♦♥❡✲❡❧❡♠❡♥t t❡r♠ ✢❛✈♦✉r✲✶ ✇✐t❤ t❤❡ ✢❛✈♦✉r ♦❢ t❤❡
+❝♦✉♥t❡r♣❛rt t♦ t❤❡ ✉♣ q✉❛r❦ ❛♥❞ t❤❡ ❝♦✉♥t❡r♣❛rt t♦ t❤❡ ❞♦✇♥ q✉❛r❦✳ ❙❆▼ ❛ss♦❝✐❛t❡s t❤❡
+♦♥❡✲❡❧❡♠❡♥t t❡r♠ ✢❛✈♦✉r✲✷ ✇✐t❤ t❤❡ ✢❛✈♦✉r ♦❢ t❤❡ ❝♦✉♥t❡r♣❛rt t♦ t❤❡ ❝❤❛r♠ q✉❛r❦ ❛♥❞ t❤❡
+❝♦✉♥t❡r♣❛rt t♦ t❤❡ str❛♥❣❡ q✉❛r❦✳ ❙❆▼ ❛ss♦❝✐❛t❡s t❤❡ ♦♥❡✲❡❧❡♠❡♥t t❡r♠ ✢❛✈♦✉r✲✸ ✇✐t❤ t❤❡
+✢❛✈♦✉r ♦❢ t❤❡ ❝♦✉♥t❡r♣❛rt t♦ t❤❡ t♦♣ q✉❛r❦ ❛♥❞ t❤❡ ❝♦✉♥t❡r♣❛rt t♦ t❤❡ ❜♦tt♦♠ q✉❛r❦✳
+✕ ❋♦r ❡❛❝❤ ♦♥❡ ♦❢ ✐s♦♠❡r✲✵ ❛♥❞ ✐s♦♠❡r✲✸✱ t❤❡ ❢♦❧❧♦✇✐♥❣ s❡♥t❡♥❝❡s ♣❡rt❛✐♥✳ ❚❤❡ ❝♦✉♥t❡r♣❛rt t♦ t❤❡ ❡❧❡❝tr♦♥ ❛ss♦❝✐❛t❡s ✇✐t❤ ✢❛✈♦✉r✲✶✳ ❚❤❡ ❝♦✉♥t❡r♣❛rt t♦ t❤❡ ♠✉♦♥ ❛ss♦❝✐❛t❡s ✇✐t❤ ✢❛✈♦✉r✲✷✳
+❚❤❡ ❝♦✉♥t❡r♣❛rt t♦ t❤❡ t❛✉ ❛ss♦❝✐❛t❡s ✇✐t❤ ✢❛✈♦✉r✲✸✳
+
+✕ ❋♦r ❡❛❝❤ ♦♥❡ ♦❢ ✐s♦♠❡r✲✶ ❛♥❞ ✐s♦♠❡r✲✹✱ t❤❡ ❢♦❧❧♦✇✐♥❣ s❡♥t❡♥❝❡s ♣❡rt❛✐♥✳ ❚❤❡ ❝♦✉♥t❡r♣❛rt t♦ t❤❡ ❡❧❡❝tr♦♥ ❛ss♦❝✐❛t❡s ✇✐t❤ ✢❛✈♦✉r✲✸✳ ❚❤❡ ❝♦✉♥t❡r♣❛rt t♦ t❤❡ ♠✉♦♥ ❛ss♦❝✐❛t❡s ✇✐t❤ ✢❛✈♦✉r✲✶✳
+❚❤❡ ❝♦✉♥t❡r♣❛rt t♦ t❤❡ t❛✉ ❛ss♦❝✐❛t❡s ✇✐t❤ ✢❛✈♦✉r✲✷✳
+✕ ❋♦r ❡❛❝❤ ♦♥❡ ♦❢ ✐s♦♠❡r✲✷ ❛♥❞ ✐s♦♠❡r✲✺✱ t❤❡ ❢♦❧❧♦✇✐♥❣ s❡♥t❡♥❝❡s ♣❡rt❛✐♥✳ ❚❤❡ ❝♦✉♥t❡r♣❛rt t♦ t❤❡ ❡❧❡❝tr♦♥ ❛ss♦❝✐❛t❡s ✇✐t❤ ✢❛✈♦✉r✲✷✳ ❚❤❡ ❝♦✉♥t❡r♣❛rt t♦ t❤❡ ♠✉♦♥ ❛ss♦❝✐❛t❡s ✇✐t❤ ✢❛✈♦✉r✲✸✳
+❚❤❡ ❝♦✉♥t❡r♣❛rt t♦ t❤❡ t❛✉ ❛ss♦❝✐❛t❡s ✇✐t❤ ✢❛✈♦✉r✲✶✳
+❙❆▼ s✉❣❣❡sts ❞✐✛❡r❡♥❝❡s ✐♥ t❤❡ ❡✈♦❧✉t✐♦♥ ♦❢ t❤❡ st✉✛ ❛ss♦❝✐❛t✐♥❣ ✇✐t❤ t❤❡ ✈❛r✐♦✉s ✐s♦♠❡rs✳
+❚❤✐s ♣❛♣❡r ❞❡s✐❣♥❛t❡s ✐s♦♠❡r✲✶✱ ✐s♦♠❡r✲✷✱ ✐s♦♠❡r✲✹✱ ❛♥❞ ✐s♦♠❡r✲✺ ❛s ❛❧t✲✐s♦♠❡rs✳ ❆❧t✲✐s♦♠❡r st✉✛
+❡✈♦❧✈❡s ❞✐✛❡r❡♥t❧② ❢r♦♠ ✐s♦♠❡r✲✵ st✉✛ ❛♥❞ ✐s♦♠❡r✲✸ st✉✛✳ ❋♦r ❡❛❝❤ ❛❧t✲✐s♦♠❡r✱ t❤❡ ✢❛✈♦✉r✲✸ ❝❤❛r❣❡❞
+❧❡♣t♦♥ ✐s ❧❡ss ♠❛ss✐✈❡ t❤❛♥ t❤❡ ✐s♦♠❡r✲✵ t❛✉✳ ❲❤❡♥ t❤❡ ✉♥✐✈❡rs❡ ✐s ❛❞❡q✉❛t❡❧② ❤♦t✱ ❢♦r ❡❛❝❤ ❛❧t✲✐s♦♠❡r✱
+✐♥t❡r❛❝t✐♦♥s t❤❛t ❢❡❛t✉r❡ ❲ ❜♦s♦♥s ❝♦♥✈❡rt ♠♦r❡ ✭t❤❛♥ ❢♦r ✐s♦♠❡r✲✵ st✉✛✮ ❝♦✉♥t❡r♣❛rt t♦♣ q✉❛r❦s t♦
+❝♦✉♥t❡r♣❛rt ❜♦tt♦♠ q✉❛r❦s✳ ▲❛t❡r✱ t❤❡ st✉✛ t❤❛t ❛ss♦❝✐❛t❡s ✇✐t❤ ❡❛❝❤ ❛❧t ✐s♦♠❡r ❤❛s ♠♦r❡ ♥❡✉tr♦♥
+❝♦✉♥t❡r♣❛rts ❛♥❞ ❢❡✇❡r ♣r♦t♦♥ ❝♦✉♥t❡r♣❛rts t❤❛♥ ❞♦❡s ✐s♦♠❡r✲✵ st✉✛✳	❋♦r ❡❛❝❤ ❛❧t✲✐s♦♠❡r✱ t❤❡ r❡st
+❡♥❡r❣② ♦❢ t❤❡ ✢❛✈♦✉r✲✶ ❝❤❛r❣❡❞ ❧❡♣t♦♥ ❡①❝❡❡❞s t❤❡ ♠❛ss✲❞✐✛❡r❡♥❝❡ ❜❡t✇❡❡♥ ❛ ❝♦✉♥t❡r♣❛rt ♥❡✉tr♦♥ ❛♥❞
+❛ ❝♦✉♥t❡r♣❛rt ♣r♦t♦♥✳ ❚❤❡ st✉✛ t❤❛t ❛ss♦❝✐❛t❡s ✇✐t❤ ❛♥ ❛❧t✲✐s♦♠❡r s❝❛r❝❡❧② ✭❝♦♠♣❛r❡❞ t♦ t❤❡ st✉✛ t❤❛t
+❛ss♦❝✐❛t❡s ✇✐t❤ ✐s♦♠❡r✲✵ ♦r ❝♦♠♣❛r❡❞ t♦ t❤❡ st✉✛ t❤❛t ❛ss♦❝✐❛t❡s ✇✐t❤ ✐s♦♠❡r✲✸✮ ❣❡♥❡r❛t❡s ❡❧❡❝tr♦♠❛❣♥❡t✐❝ r❛❞✐❛t✐♦♥✳ ❚❤❡ st✉✛ t❤❛t ❛ss♦❝✐❛t❡s ✇✐t❤ ❛♥ ❛❧t✲✐s♦♠❡r ❛ss♦❝✐❛t❡s ✇✐t❤ ❧✐tt❧❡ ✭❝♦♠♣❛r❡❞ t♦ t❤❡ st✉✛ t❤❛t
+❛ss♦❝✐❛t❡s ✇✐t❤ t❤❡ ♦r❞✐♥❛r② ♠❛tt❡r ✐s♦♠❡r✮ ❡❧❡❝tr♦♠❛❣♥❡t✐❝❛❧❧② ❛❝t✐✈❡ ■●▼ ✭♦r✱ ✐♥t❡r❣❛❧❛❝t✐❝ ♠❡❞✐✉♠✮✳
+✷✳✷✳ P❡rs♣❡❝t✐✈❡ r❡❣❛r❞✐♥❣ ♠♦❞❡❧✐♥❣ r❡❣❛r❞✐♥❣ ❡❧❡❝tr♦♠❛❣♥❡t✐s♠ ❛♥❞ ❣r❛✈✐t②
+❚❤✐s ✉♥✐t ❛❧❧✉❞❡s t♦ P❊▼ ♥♦t✐♦♥s ✲ r❡❣❛r❞✐♥❣ ♠♦❞❡❧✐♥❣ r❡❣❛r❞✐♥❣ ❡❧❡❝tr♦♠❛❣♥❡t✐s♠ ❛♥❞ ❣r❛✈✐t② ✲ t❤❛t
+❤❛✈❡ s♦♠❡ s✐♠✐❧❛r✐t✐❡s t♦ ❙❆▼ ♠♦❞❡❧✐♥❣✳
+P❊▼ ❞✐s❝✉ss❡s ♠♦❞❡❧✐♥❣ t❤❛t ❤❛s s♦♠❡ s✐♠✐❧❛r✐t✐❡s t♦ ❙❆▼ ♠♦❞❡❧✐♥❣ r❡❣❛r❞✐♥❣ ❡❧❡❝tr♦♠❛❣♥❡t✐❝ ♣r♦♣✲
+❡rt✐❡s ❛♥❞ ✜❡❧❞s ❛♥❞ r❡❣❛r❞✐♥❣ ❣r❛✈✐t❛t✐♦♥❛❧ ♣r♦♣❡rt✐❡s ❛♥❞ ✜❡❧❞s✳ ❘❡❢❡r❡♥❝❡s ❬✶❪✱ ❬✷❪✱ ❛♥❞ ❬✸❪ ❞✐s❝✉ss
+❣r❛✈✐t♦❡❧❡❝tr♦♠❛❣♥❡t✐s♠✱ ✇❤✐❝❤ s✉❣❣❡sts s✐♠✐❧❛r✐t✐❡s ❜❡t✇❡❡♥ ❣r❛✈✐t② ❛♥❞ ❡❧❡❝tr♦♠❛❣♥❡t✐s♠✳ ❘❡❢❡r❡♥❝❡
+❬✹❪ ❞✐s❝✉ss❡s ♥♦t✐♦♥s ♦❢ r❡♣✉❧s✐✈❡ ❝♦♠♣♦♥❡♥ts ♦❢ ❣r❛✈✐t②✳
+✷✳✸✳ ❊❧❡❝tr♦♠❛❣♥❡t✐s♠
+❚❤✐s ✉♥✐t s✉❣❣❡sts r❡❧❛t✐♦♥s❤✐♣s ❜❡t✇❡❡♥ ❡❧❡❝tr♦♠❛❣♥❡t✐❝ ♣r♦♣❡rt✐❡s ♦❢ ♦❜❥❡❝ts ❛♥❞ ❛s♣❡❝ts ♦❢ ❡❧❡❝tr♦✲
+♠❛❣♥❡t✐❝ ✜❡❧❞s✳
+P❊▼ s✉❣❣❡sts t❤❛t ❛♥ ♦❜❥❡❝t ❝❛♥ ❤❛✈❡ ♠♦r❡ t❤❛♥ ♦♥❡ ❡❧❡❝tr♦♠❛❣♥❡t✐❝ ♣r♦♣❡rt②✳ ❊①❛♠♣❧❡s ♦❢ ❡❧❡❝tr♦✲
+♠❛❣♥❡t✐❝ ♣r♦♣❡rt✐❡s ✐♥❝❧✉❞❡ ❝❤❛r❣❡ ❛♥❞ ♠❛❣♥❡t✐❝ ♠♦♠❡♥t✳
+❊q✉❛t✐♦♥ ✭✶✮ r❡♣r✐s❡s ❛ P❊▼ ❛s♣❡❝t ♦❢ ❡❧❡❝tr♦♠❛❣♥❡t✐s♠✳ qintrinsic ❞❡♥♦t❡s t❤❡ ❝❤❛r❣❡ ✲ ♦❢ ❛♥ ♦❜s❡r✈❡❞
+→−
+♦❜❥❡❝t ✲ ❛s ♠❡❛s✉r❡❞ ✐♥ t❤❡ r❡st ❢r❛♠❡ ♦❢ t❤❡ ♦❜s❡r✈❡❞ ♦❜❥❡❝t✳ E ❞❡♥♦t❡s t❤❡ ❝♦♥tr✐❜✉t✐♦♥ ✲ t♦ t❤❡ ❡❧❡❝tr✐❝
+✜❡❧❞ ✲ t❤❛t ❛♥ ♦❜s❡r✈❡r ♦❜❥❡❝t ❛ss♦❝✐❛t❡s ✇✐t❤ t❤❡ ♥♦t✐♦♥ t❤❛t t❤❡ ♦❜s❡r✈❡❞ ♦❜❥❡❝t ❝r❡❛t❡s ❛ ❝♦♥tr✐❜✉t✐♦♥
+→−
+t♦ t❤❡ ❡❧❡❝tr♦♠❛❣♥❡t✐❝ ✜❡❧❞✳ B ❞❡♥♦t❡s t❤❡ ❝♦♥tr✐❜✉t✐♦♥ ✲ t♦ t❤❡ ♠❛❣♥❡t✐❝ ✜❡❧❞ ✲ t❤❛t ❛♥ ♦❜s❡r✈❡r ♦❜❥❡❝t
+❛ss♦❝✐❛t❡s ✇✐t❤ t❤❡ ♥♦t✐♦♥ t❤❛t t❤❡ ♦❜s❡r✈❡❞ ♦❜❥❡❝t ❝r❡❛t❡s ❛ ❝♦♥tr✐❜✉t✐♦♥ t♦ t❤❡ ❡❧❡❝tr♦♠❛❣♥❡t✐❝ ✜❡❧❞✳ c
+❞❡♥♦t❡s t❤❡ s♣❡❡❞ ♦❢ ❧✐❣❤t✳
+→−  →−	2→−  →−
+E · E − c B · B ∝ qintrinsic · qintrinsic ≥ 0	✭✶✮
+❊q✉❛t✐♦♥ ✭✶✮ ❛ss♦❝✐❛t❡s ✇✐t❤ ❙❘ ✭♦r✱ s♣❡❝✐❛❧ r❡❧❛t✐✈✐t②✮ ❛♥❞ ✇✐t❤ t❤❡ P❊▼ ♥♦t✐♦♥ ♦❢ ▲♦r❡♥t③ ✐♥✈❛r✐❛♥❝❡✳
+❙❆▼ ✉s❡s t❤❡ s②♠❜♦❧ →−v t♦ ❞❡♥♦t❡ t❤❡ ✸✲✈❡❝t♦r t❤❛t ❛ss♦❝✐❛t❡s ✇✐t❤ t❤❡ ✈❡❧♦❝✐t② ✲ r❡❧❛t✐✈❡ t♦ ❛♥
+♦❜s❡r✈❡r ♦❜❥❡❝t ✲ t❤❛t t❤❡ ♦❜s❡r✈❡r ♦❜❥❡❝t ❛ss♦❝✐❛t❡s ✇✐t❤ ❛♥ ♦❜s❡r✈❡❞ ♦❜❥❡❝t✳ v ❞❡♥♦t❡s t❤❡ ♠❛❣♥✐t✉❞❡
+❢ →−v ✳
+❋♦r ❛♥ ♦❜s❡r✈❡❞ ♦❜❥❡❝t ❛♥❞ ❛ s❡t ♦❢ ✈❛r✐♦✉s ♦❜s❡r✈❡r ♦❜❥❡❝ts✱ →−v ❛♥❞ v ❝❛♥ ✈❛r② ❜❛s❡❞ ♦♥ t❤❡ ♦❜s❡r✈❡r
+→− →−	→− →−
+❜❥❡❝t✳ ❊❛❝❤ ♦♥❡ ♦❢ ♦❜s❡r✈❡❞ E · E ❛♥❞ ♦❜s❡r✈❡❞ B · B ✐♥❝r❡❛s❡s ✇✐t❤ ✐♥❝r❡❛s✐♥❣ v✳ P❡r ❙❘✱ t❤❡ ✈❛❧✉❡ ✲ ✐♥
+❡q✉❛t✐♦♥ ✭✶✮ ♦❢ qintrinsic ✐s ✐♥✈❛r✐❛♥t ✇✐t❤ r❡s♣❡❝t t♦ t❤❡ ❝❤♦✐❝❡ ♦❢ ❛♥ ♦❜s❡r✈❡r✳ ❊❛❝❤ ♦❜s❡r✈❡r ♦❜❥❡❝t ❝❛♥
+→−  →−
+✉s❡ t❤❡ st❛♥❞❛r❞ s❡t ♦❢ ▼❛①✇❡❧❧✬s ❡q✉❛t✐♦♥s✳ ❇❛s❡❞ ♦♥ ♦❜s❡r✈❡❞ E · E ✱ ❣r❡❛t❡r v ❛ss♦❝✐❛t❡s ✇✐t❤ ❣r❡❛t❡r
+♣❡r❝❡✐✈❡❞ |qMaxwell| ✭r❡❣❛r❞✐♥❣ t❤❡ ♦❜s❡r✈❡❞ ♦❜❥❡❝t✮✳ ❚♦ t❤❡ ♦❜s❡r✈❡r✱ v > 0 ❛ss♦❝✐❛t❡s ✇✐t❤ t❤❡ ♣♦s✐t✐✈❡
+→−	→−	→−	→−
+B · B ❛♥❞ ✇✐t❤ ❛ ♣❡r❝❡✐✈❡❞ r❡❞✉❝t✐♦♥ ✇✐t❤ r❡s♣❡❝t t♦ t❤❡ ❡✛❡❝ts ♦❢ E · E ✳ ❚❤❡ ♣❡r❝❡✐✈❡❞ r❡❞✉❝t✐♦♥
+→−  →−
+✇✐t❤ r❡s♣❡❝t t♦ t❤❡ ❡✛❡❝ts ♦❢ E · E ❛ss♦❝✐❛t❡s ✇✐t❤ ❛ ♣❡r❝❡✐✈❡❞ r❡❞✉❝t✐♦♥ ♦❢ ❡✛❡❝ts r❡❣❛r❞✐♥❣ t❤❡ ✐♥❢❡rr❡❞
+❝❤❛r❣❡ qMaxwell✳
+❢ ❛♥ ♦❜s❡r✈❡❞ ❝❤❛r❣❡❞ ♦❜❥❡❝t r♦t❛t❡s ✲ ✇✐t❤ ✉♥✐❢♦r♠ ❛♥❣✉❧❛r ✈❡❧♦❝✐t② →−ω ✲ ❛r♦✉♥❞ ❛♥ ❛①✐s t❤❛t ❛ss♦❝✐❛t❡s
+✇✐t❤ r♦t❛t✐♦♥ ♦❢ t❤❡ ♦❜s❡r✈❡❞ ♦❜❥❡❝t✱ ❛♥ ♦❜s❡r✈❡r ♦❜❥❡❝t ❝♦♥s✐❞❡rs t❤❛t ✭❡ss❡♥t✐❛❧❧②✮ ❡❛❝❤ ❝♦♠♣♦♥❡♥t
+✭♣♦ss✐❜❧② ❡①❝❡♣t ♣♦✐♥t✲❧✐❦❡ ❝♦♠♣♦♥❡♥ts t❤❛t r❡s✐❞❡ ♦♥ t❤❡ ❛①✐s ♦❢ r♦t❛t✐♦♥✮ ♦❢ t❤❡ ❝❤❛r❣❡ ♠♦✈❡s ✇✐t❤ ❛
+♥♦♥③❡r♦ →−vr ✳ →−vr ❝❛♥ ✈❛r② ❛♠♦♥❣ t❤❡ ✈❛r✐♦✉s ❝♦♠♣♦♥❡♥ts ♦❢ t❤❡ ♦❜s❡r✈❡❞ ♦❜❥❡❝t✳ ❚❤❡ ♦❜s❡r✈❡r ♦❜❥❡❝t
+
+❚❛❜❧❡ ✶✿ ▲♦✇✲t✐❡r ❝♦♠♣♦♥❡♥ts ♦❢ ❡❧❡❝tr♦♠❛❣♥❡t✐❝ ✜❡❧❞s t❤❛t ❛ss♦❝✐❛t❡ ✇✐t❤ ♦❜s❡r✈❡❞ ♦❜❥❡❝ts✳ ■♥tr✐♥s✐❝ ♣r♦♣❡rt✐❡s ❛ss♦❝✐❛t❡
+✇✐t❤ ♦❜s❡r✈❛t✐♦♥s ✭♦❢ ❛♥ ♦❜s❡r✈❡❞ ♦❜❥❡❝t✮ t❤❛t ❛ss♦❝✐❛t❡ ✇✐t❤ t❤❡ r❡st ❢r❛♠❡ ♦❢ t❤❡ ♦❜❥❡❝t✳ ❊①tr✐♥s✐❝ ♣r♦♣❡rt✐❡s ❛ss♦❝✐❛t❡
+✇✐t❤ ♦❜s❡r✈❛t✐♦♥s t❤❛t ❛ss♦❝✐❛t❡ ♥♦♥③❡r♦ v ✇✐t❤ t❤❡ ♦❜s❡r✈❡❞ ♠♦t✐♦♥ ♦❢ t❤❡ ♦❜❥❡❝t✳ ❋♦r s♦♠❡ ✐♥tr✐♥s✐❝ ♣r♦♣❡rt✐❡s ❛♥❞ ❢♦r s♦♠❡ ❡①tr✐♥s✐❝ ♣r♦♣❡rt✐❡s✱ t❤❡ t❛❜❧❡ s❤♦✇s ❝♦♠♠♦♥❧② ✉s❡❞ P❊▼ s②♠❜♦❧s✳ ❚❤❡ s②♠❜♦❧ † ❞❡♥♦t❡s t❤❡ t❤r❡❡✲✇♦r❞ ♣❤r❛s❡ t♦
+❜❡ ❞❡t❡r♠✐♥❡❞✳ ❚❤❡ ❛s♣❡❝ts ❝♦❧✉♠♥ ❧✐sts ✈❡❝t♦rs t❤❛t ❤❛✈❡ r❡❧❡✈❛♥❝❡ r❡❣❛r❞✐♥❣ t❤❡ str❡♥❣t❤ ✲ ♥❡❛r ❛♥ ♦❜s❡r✈❡r ♦❜❥❡❝t ✲ ♦❢ t❤❡ ❝♦♠♣♦♥❡♥t ♦❢ t❤❡ ❡❧❡❝tr♦♠❛❣♥❡t✐❝ ✜❡❧❞✳ q ❞❡♥♦t❡s ✲ ✐♥ t❤❡ ❝♦♥t❡①t ♦❢ ❞✐s❝✉ss✐♦♥ r❡❧❛t❡❞ t♦ ❡q✉❛t✐♦♥ ✭✶✮ ✲ qMaxwell✳
+❚✐❡r ❞❡♥♦t❡s t❤❡ ♥✉♠❜❡r ♦❢ ❛s♣❡❝ts t❤❛t ❛r❡ ♥♦t −→r ♦r −→v ✳ ❚✐❡r ❛ss♦❝✐❛t❡s ✇✐t❤ t❤❡ r❛♥❦ ♦❢ t❤❡ t❡♥s♦r t❤❛t ❛ss♦❝✐❛t❡s ✇✐t❤
+❛♥ ✐♥tr✐♥s✐❝ ♣r♦♣❡rt②✳ ❋♦r ❡①❛♠♣❧❡✱ q ❛ss♦❝✐❛t❡s ✇✐t❤ t❤❡ ♥♦t✐♦♥ ♦❢ s❝❛❧❛r ✭♦r✱ ❛ r❛♥❦✲✵ t❡♥s♦r✮✳ ▼❛❣♥❡t✐❝ ❞✐♣♦❧❡ ♠♦♠❡♥t
+❛ss♦❝✐❛t❡s ✇✐t❤ t❤❡ ♥♦t✐♦♥ ♦❢ ✸✲✈❡❝t♦r ✭♦r✱ ❛ r❛♥❦✲✶ t❡♥s♦r✮✳ ω−→ ❛ss♦❝✐❛t❡s ✇✐t❤ ♣r❡❝❡ss✐♦♥ ♦❢ t❤❡ ❛①✐s ♦❢ ♠❛❣♥❡t✐❝ ♠♦♠❡♥t
+❛r♦✉♥❞ ❛♥♦t❤❡r ❛①✐s✳ ❋♦r t❤❡ ♣❧❛♥❡t ❊❛rt❤✱ t❤❡ ♣❡r✐♦❞ ♦❢ ♣r❡❝❡ss✐♦♥ ✐s ♦♥❡ ❞❛②✳ ✭▲❛r♠♦r ♣r❡❝❡ss✐♦♥ ❛ss♦❝✐❛t❡s ✇✐t❤ ♥♦t✐♦♥s
+❢ ❡①t❡r♥❛❧ ♠❛❣♥❡t✐❝ ✜❡❧❞s✳ ω−→ ❞♦❡s ♥♦t ♥❡❝❡ss❛r✐❧② ❛ss♦❝✐❛t❡ ✇✐t❤ ▲❛r♠♦r ♣r❡❝❡ss✐♦♥✳✮ ❚❤❡ t✇♦ t✐❡r✲✷ ✐t❡♠s ❝❛♥ ❛ss♦❝✐❛t❡
+✇✐t❤ ♥♦t✐♦♥s ♦❢ str❡ss✲❡♥❡r❣② ✇✐t❤✐♥ t❤❡ ♦❜s❡r✈❡❞ ♦❜❥❡❝t✳ ❚❤❡ s②♠❜♦❧ ‡ ❛ss♦❝✐❛t❡s ✇✐t❤ t❤❡ ♥♦t✐♦♥ t❤❛t t❤❡ ✐t❡♠ ❧✐❡s ❜❡②♦♥❞ t❤❡ s❝♦♣❡ ♦❢ t❤✐s ♣❛♣❡r✳
+■♥tr✐♥s✐❝ ♣r♦♣❡rt②	❊①tr✐♥s✐❝ ♣r♦♣❡rt②	❆s♣❡❝ts	❖❜s❡r✈❡❞ ❡✛❡❝t✐✈❡ |q|	^t
+
+❈❤❛r❣❡ ✭q✮	✲
+❈❤❛r❣❡ ✭q✮
+→−r	◆♦♥③❡r♦	✵
+→−	→−r , →−v	▲❡ss t❤❛♥ ❢♦r →−v = 0	✵
+
+❊❧❡❝tr✐❝ ❝✉rr❡♥t ✭ I ✮
+▼❛❣♥❡t✐❝ ❞✐♣♦❧❡ ♠♦♠❡♥t ✭→−µ ✮	✲
+▼❛❣♥❡t✐❝ ❞✐♣♦❧❡ ♠♦♠❡♥t ✭→−µ ✮	† ✭†✮
+→−r , →−ω	▲❡ss t❤❛♥ ❢♦r →−ω = 0	✶
+→−r , →−ω , →−v	‡	✶
+
+Pr❡❝❡ss✐♥❣ ♠❛❣♥❡t✐❝ ♠♦♠❡♥t ✭†✮	✲
+→−r , →−ω , ω−→	‡	✷
+
+Pr❡❝❡ss✐♥❣ ♠❛❣♥❡t✐❝ ♠♦♠❡♥t ✭†✮	† ✭†✮
+→−r , →−ω , ω−→, →−v	‡	✷
+
+· · ·	· · ·	· · ·	· · ·	· · ·
+
+♣❡r❝❡✐✈❡s t❤❛t t❤❡ ♦✈❡r❛❧❧ ❡✛❡❝t ❝♦♥tr✐❜✉t❡s ✲ ❛s ❛ ♥♦♥③❡r♦ ♠❛❣♥❡t✐❝ ❞✐♣♦❧❡ ♠♦♠❡♥t →−µ ❢♦r t❤❡ ♦❜s❡r✈❡❞
+→−
+❜❥❡❝t ✲ t♦ t❤❡ ♠❛❣♥❡t✐❝ ✜❡❧❞ B ✳ ❚❤❡ ♦❜s❡r✈❡r ♣❡r❝❡✐✈❡s ✭❝♦♠♣❛r❡❞ t♦ ❛ s✐♠✐❧❛r ♥♦♥✲r♦t❛t✐♥❣ ♦❜s❡r✈❡❞
+→−  →−	→−  →−
+❜❥❡❝t✮ ♠♦r❡ B · B ✱ ❧❡ss E · E ✱ ❛♥❞✱ ❤❡♥❝❡✱ ❧❡ss |qMaxwell|✳
+❋♦r ❛ ♣❛✐r ♦❢ ♦♥❡ ♦❜s❡r✈❡❞ ♦❜❥❡❝t ❛♥❞ ♦♥❡ ♦❜s❡r✈❡r ♦❜❥❡❝t✱ ❙❆▼ ✉s❡s t❤❡ s②♠❜♦❧ →−r t♦ ❞❡♥♦t❡ ❛ ✈❡❝t♦r
+❢r♦♠ t❤❡ ♣♦s✐t✐♦♥ ♦❢ t❤❡ ♦❜s❡r✈❡❞ ♦❜❥❡❝t t♦ t❤❡ ♣♦s✐t✐♦♥ ♦❢ t❤❡ ♦❜s❡r✈❡r ♦❜❥❡❝t✳ r ❞❡♥♦t❡s t❤❡ ♠❛❣♥✐t✉❞❡
+❢ →−r ✳
+❚❛❜❧❡ ✶ ❞✐s❝✉ss❡s s♦✲❝❛❧❧❡❞ ❧♦✇✲t✐❡r ❝♦♠♣♦♥❡♥ts ♦❢ ❡❧❡❝tr♦♠❛❣♥❡t✐❝ ✜❡❧❞s t❤❛t ❛ss♦❝✐❛t❡ ✇✐t❤ ♦❜s❡r✈❡❞
+❜❥❡❝ts✳ ❚❛❜❧❡ ✶ ❡①t❡♥❞s ♥♦t✐♦♥s t❤❛t t❤✐s ♣❛♣❡r ❞✐s❝✉ss❡s ❛❜♦✈❡✳
+✷✳✹✳ ●r❛✈✐t② ❛♥❞ ❞❛r❦ ❡♥❡r❣②
+❚❤✐s ✉♥✐t s✉❣❣❡sts r❡❧❛t✐♦♥s❤✐♣s ❜❡t✇❡❡♥ ❣r❛✈✐t❛t✐♦♥❛❧ ♣r♦♣❡rt✐❡s ♦❢ ♦❜❥❡❝ts ❛♥❞ ❛s♣❡❝ts ♦❢ ❣r❛✈✐t❛t✐♦♥❛❧
+✜❡❧❞s✳
+❚❛❜❧❡ ✷ ❞✐s❝✉ss❡s ❧♦✇✲t✐❡r ❝♦♠♣♦♥❡♥ts ♦❢ ❣r❛✈✐t❛t✐♦♥❛❧ ✜❡❧❞s t❤❛t ❛ss♦❝✐❛t❡ ✇✐t❤ ♦❜s❡r✈❡❞ ♦❜❥❡❝ts✳
+✷✳✺✳ ❈♦♠♣♦♥❡♥ts ♦❢ ❡❧❡❝tr♦♠❛❣♥❡t✐s♠ ❛♥❞ ❣r❛✈✐t❛t✐♦♥
+❚❤✐s ✉♥✐t s✉❣❣❡sts ❛s♣❡❝ts t❤❛t ❛ss♦❝✐❛t❡ ✇✐t❤ ❝♦♠♣♦♥❡♥ts ♦❢ ❡❧❡❝tr♦♠❛❣♥❡t✐❝ ✜❡❧❞s ❛♥❞ ❛s♣❡❝ts t❤❛t
+❛ss♦❝✐❛t❡ ✇✐t❤ ❝♦♠♣♦♥❡♥ts ♦❢ ❣r❛✈✐t❛t✐♦♥❛❧ ✜❡❧❞s✳
+❘❡❣❛r❞✐♥❣ t❛❜❧❡ ✶ ❛♥❞ t❛❜❧❡ ✷✱ ❙❆▼ ✉s❡s t❤❡ t✇♦✲✇♦r❞ t❡r♠ ✐♥tr✐♥s✐❝ ♣r♦♣❡rt② t♦ r❡❢❡r t♦ ❛ ♣r♦♣❡rt②
+✭♦❢ ♦❜❥❡❝ts✮ ❢♦r ✇❤✐❝❤ →−v ✐s ♥♦t ❛♥ ❛s♣❡❝t✳ ❙❆▼ ✉s❡s t❤❡ t✇♦✲✇♦r❞ t❡r♠ ❡①tr✐♥s✐❝ ♣r♦♣❡rt② t♦ r❡❢❡r t♦ ❛
+♣r♦♣❡rt② ✭♦❢ ♦❜❥❡❝ts✮ ❢♦r ✇❤✐❝❤ →−v ✐s ❛♥ ❛s♣❡❝t✳
+❘❡❣❛r❞✐♥❣ ◆❉ ✭♦r✱ P❊▼ ♥♦t✐♦♥s t❤❛t ❛ss♦❝✐❛t❡ ✇✐t❤ t❤❡ t✇♦✲✇♦r❞ t❡r♠ ◆❡✇t♦♥✐❛♥ ❞②♥❛♠✐❝s✮✱ ❡q✉❛✲ t✐♦♥ ✭✷✮ ❛ss♦❝✐❛t❡s ✇✐t❤ ❛ ♣♦t❡♥t✐❛❧ t❤❛t ❛ss♦❝✐❛t❡s ✇✐t❤ ❛♥ ✐♥tr✐♥s✐❝ ♣r♦♣❡rt② t❤❛t ❛ss♦❝✐❛t❡s ✇✐t❤ t✐❡r✲n
+✭❛♥❞✱ ❜❛s❡❞ ♦♥ t❤❡ ♥♦t✐♦♥ ♦❢ ✐♥tr✐♥s✐❝ ♣r♦♣❡rt②✱ ♥♦t ✇✐t❤ →−v ✮ ❛♥❞ ❡q✉❛t✐♦♥ ✭✸✮ ❛ss♦❝✐❛t❡s ✇✐t❤ ❛ ♣♦t❡♥t✐❛❧
+t❤❛t ❛ss♦❝✐❛t❡s ✇✐t❤ ❛♥ ❡①tr✐♥s✐❝ ♣r♦♣❡rt② t❤❛t ❛ss♦❝✐❛t❡s ✇✐t❤ t✐❡r✲n ✭❛♥❞✱ ❜❛s❡❞ ♦♥ t❤❡ ♥♦t✐♦♥ ♦❢ ❡①tr✐♥s✐❝
+♣r♦♣❡rt②✱ ✇✐t❤ →−v ✮✳
+
+r−(1+n)	✭✷✮
+
+r−(2+n)	✭✸✮
+❋♦r ❡①❛♠♣❧❡✱ t❤❡ ♣♦t❡♥t✐❛❧ t❤❛t ❛ss♦❝✐❛t❡s ✇✐t❤ t❤❡ ✐♥tr✐♥s✐❝ ♣r♦♣❡rt② ♦❢ ❝❤❛r❣❡ q ✭❛♥❞ ♥♦t ✇✐t❤ →−v ✮
+❤❛s ❛ s♣❛t✐❛❧ ❞❡♣❡♥❞❡♥❝❡ ❢❛❝t♦r ♦❢ r−1✳ ◆❉ ❞❡♣❧♦②s t❤❡ ✇♦r❞ ♠♦♥♦♣♦❧❡✳ ❚❤❡ ♣♦t❡♥t✐❛❧ t❤❛t ❛ss♦❝✐❛t❡s
+→−	→−
+✇✐t❤ t❤❡ ❡①tr✐♥s✐❝ ♣r♦♣❡rt② ♦❢ ❡❧❡❝tr✐❝ ❝✉rr❡♥t I ✭❛♥❞ ✇✐t❤ q ❛♥❞ ✇✐t❤ v ✮ ❤❛s ❛ s♣❛t✐❛❧ ❞❡♣❡♥❞❡♥❝❡ ❢❛❝t♦r
+❢ r−2✳ ◆❉ ❞❡♣❧♦②s t❤❡ ✇♦r❞ ❞✐♣♦❧❡✳ ✭❚❤❡ ❢♦❧❧♦✇✐♥❣ r❡❢❡r❡♥❝❡s ♣❡rt❛✐♥ r❡❣❛r❞✐♥❣ ◆❉ ♠✉❧t✐♣♦❧❡ ♠♦❞❡❧✐♥❣✳
+❘❡❢❡r❡♥❝❡ ❬✺❪ ❞✐s❝✉ss❡s ♠✉❧t✐♣♦❧❡ ❡①♣❛♥s✐♦♥s r❡❣❛r❞✐♥❣ ❡❧❡❝tr♦st❛t✐❝s ❛♥❞ t❤❡ ♣r♦♣❡rt② ♦❢ ❝❤❛r❣❡✳ ❘❡❢❡r❡♥❝❡
+❬✻❪ ❞✐s❝✉ss❡s ❛ ♠✉❧t✐♣♦❧❡ ❡①♣❛♥s✐♦♥ r❡❣❛r❞✐♥❣ ❣r❛✈✐t❛t✐♦♥ ❛♥❞ t❤❡ ♣r♦♣❡rt② ♦❢ ♠❛ss✳✮
+
+❚❛❜❧❡ ✷✿ ▲♦✇✲t✐❡r ❝♦♠♣♦♥❡♥ts ♦❢ ❣r❛✈✐t❛t✐♦♥❛❧ ✜❡❧❞s t❤❛t ❛ss♦❝✐❛t❡ ✇✐t❤ ♦❜s❡r✈❡❞ ♦❜❥❡❝ts✳ ■♥tr✐♥s✐❝ ♣r♦♣❡rt✐❡s ❛ss♦❝✐❛t❡
+✇✐t❤ ♦❜s❡r✈❛t✐♦♥s ✭♦❢ ❛♥ ♦❜s❡r✈❡❞ ♦❜❥❡❝t✮ t❤❛t ❛ss♦❝✐❛t❡ ✇✐t❤ t❤❡ r❡st ❢r❛♠❡ ♦❢ t❤❡ ♦❜❥❡❝t✳ ❊①tr✐♥s✐❝ ♣r♦♣❡rt✐❡s ❛ss♦❝✐❛t❡
+✇✐t❤ ♦❜s❡r✈❛t✐♦♥s t❤❛t ❛ss♦❝✐❛t❡
